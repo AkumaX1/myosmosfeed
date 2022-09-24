@@ -5,6 +5,33 @@
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": []
+    },
+    {
+      "title": "Release notes from citra",
+      "feedUrl": "https://github.com/weihuoya/citra/releases.atom",
+      "siteUrl": "https://github.com/weihuoya/citra/releases",
+      "articles": [
+        {
+          "id": "https://github.com/weihuoya/citra/releases/tag/20220913",
+          "author": null,
+          "description": "Before:\nAntutu:\nStorage Access:\ndirectory: \"citra-emu\\nand\\data\\00000000000000000000000000000000\\sysdata\\00010026\\00000000\\CEC\"\nTry reset settings if game does not work properly.",
+          "link": "https://github.com/weihuoya/citra/releases/tag/20220913",
+          "publishedOn": "2022-09-13T14:12:39.000Z",
+          "wordCount": 442,
+          "title": "Citra for Android",
+          "imageUrl": "https://opengraph.githubassets.com/eeb4b1b404835f07375f3137afff4143b7aa352c599a23b3399a659793450528/weihuoya/citra/releases/tag/20220913"
+        },
+        {
+          "id": "https://github.com/weihuoya/citra/releases/tag/20220907",
+          "author": null,
+          "description": "Before:\nAntutu:\nStorage Access:\ndirectory: \"citra-emu\\nand\\data\\00000000000000000000000000000000\\sysdata\\00010026\\00000000\\CEC\"\nTry reset settings if game does not work properly.",
+          "link": "https://github.com/weihuoya/citra/releases/tag/20220907",
+          "publishedOn": "2022-09-07T07:57:15.000Z",
+          "wordCount": 420,
+          "title": "Citra for Android",
+          "imageUrl": "https://opengraph.githubassets.com/03c56926f9b053296615fdd8e3d987457aa1eb82df071f4ed9315bcc912edaad/weihuoya/citra/releases/tag/20220907"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

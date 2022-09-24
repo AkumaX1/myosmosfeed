@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T12:31:02.207Z</updated>
+    <updated>2022-09-24T12:35:58.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citra for Android]]></title>
+        <id>https://github.com/weihuoya/citra/releases/tag/20220913</id>
+        <link href="https://github.com/weihuoya/citra/releases/tag/20220913"/>
+        <updated>2022-09-13T14:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Before:
+Antutu:
+Storage Access:
+directory: "citra-emu\nand\data\00000000000000000000000000000000\sysdata\00010026\00000000\CEC"
+Try reset settings if game does not work properly.]]></summary>
+        <author>
+            <name>Release notes from citra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citra for Android]]></title>
+        <id>https://github.com/weihuoya/citra/releases/tag/20220907</id>
+        <link href="https://github.com/weihuoya/citra/releases/tag/20220907"/>
+        <updated>2022-09-07T07:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Before:
+Antutu:
+Storage Access:
+directory: "citra-emu\nand\data\00000000000000000000000000000000\sysdata\00010026\00000000\CEC"
+Try reset settings if game does not work properly.]]></summary>
+        <author>
+            <name>Release notes from citra</name>
+        </author>
+    </entry>
 </feed>
