@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T14:08:19.009Z</updated>
+    <updated>2022-09-25T15:09:51.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Nine Inch Nails Reunite With Former Members, Cover ‘Hey Man Nice Shot’ at Cleveland Concert]]></title>
+        <id>https://www.rollingstone.com/?p=1234599601</id>
+        <link href="https://www.rollingstone.com/music/music-news/nine-inch-nails-reunite-former-members-filter-hey-man-nice-shot-cleveland-celebration-1234599601/"/>
+        <updated>2022-09-25T15:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Trent Reznor welcomes back Filter frontman Richard Patrick, Chris Vrenna, Danny Lohner and Charlie Clouser at Rock Hall event]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Arrived at Route 91 as a Reporter. I Left as a Survivor of a Mass Shooting]]></title>
+        <id>https://www.rollingstone.com/?p=1234598097</id>
+        <link href="https://www.rollingstone.com/music/music-news/route-91-las-vegas-shooting-i-survived-1234598097/"/>
+        <updated>2022-09-25T14:54:26.000Z</updated>
+        <summary type="html"><![CDATA["I don’t think any of us want our calling card to be Route 91, but it can be inescapable at times," writes Mark Gray, who came under fire while on assignment in Las Vegas in 2017]]></summary>
+        <author>
+            <name>Joseph Hudak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 action movies with older leads who don’t miss a beat]]></title>
+        <id>https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors</id>
+        <link href="https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors"/>
+        <updated>2022-09-25T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Liane Hentscher/Netflix
+    
+
+
+  
+Shooting action over 50? No problem for these stars
+ In the crowded field of Netflix original programming vying for viewer attention, it’s difficult to stand out and be noticed. There has to be something that causes the endless scrolling to stop for a moment, for the potential viewer to linger on a title in hopes that it will intrigue enough to warrant a press of the play button — a hook.
+The latest original film from the streaming giant, Lou, about a desperate mother’s attempt to rescue her kidnapped child from the wilderness with the aid of a mysterious hardened tracker, certainly has an intriguing hook. The grizzled hero with a mysterious past aiding the mother is portrayed by the unconventional choice of Allison Janney (I, Tonya). People might s…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pay Later is reportedly facing ‘technical and engineering’ issues]]></title>
+        <id>https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman</id>
+        <link href="https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman"/>
+        <updated>2022-09-25T14:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Apple Pay Later is facing some “significant” setbacks that could delay its launch until next year, according to a report from Bloomberg’s Mark Gurman. The feature is Apple’s version of a buy now, pay later (BNPL) service, letting you make a payment through Apple Pay and then pay it back in four installments without interest.
+Apple said its Pay Later feature would arrive with iOS 16 when it first announced the program at WWDC in June. But now that iOS 16 is out, Apple Pay Later hasn’t made an appearance, and the fine print on Apple’s iOS 16 page vaguely says it’s “coming in a future update.” As Gurman points out, Apple Pay Later is the only unreleased iOS 16 feature on the page that doesn’t include a timeframe for when we might expect its rol…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insurtech goes niche]]></title>
+        <id>https://techcrunch.com/?p=2406767</id>
+        <link href="https://techcrunch.com/2022/09/25/fintech-insurtech-goes-niche/"/>
+        <updated>2022-09-25T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If you’re reading this as a post on our site, sign up here so you can receive it directly in the future. Every week, I’ll take a look at the hottest fintech news of the previous […]
+Insurtech goes niche by Mary Ann Azevedo originally published on TechCrunch]]></summary>
+        <author>
+            <name>Mary Ann Azevedo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acer Predator Triton 500 SE review: I expected more]]></title>
         <id>https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review</id>
@@ -49,6 +112,16 @@ Housed in its all-silver chassis, the $2,999.99 configuration of the Triton 500 
 In the sixth episode of the latest season of the Love Live! Superstar!! TV anime a few of the girls of Liella! head up to the town of Furano in Hokkaido. Throughout the episode, various well-known locations from the town are featured but not explicitly named, though that didn't stop fans from working out which places were featured and overwhelming them. More after the jump.]]></summary>
         <author>
             <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olaf Scholz of Germany Won’t Send Battle Tanks to Ukraine]]></title>
+        <id>https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html"/>
+        <updated>2022-09-25T13:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.]]></summary>
+        <author>
+            <name>Katrin Bennhold</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +206,16 @@ According to the Cook Political Report, there are 10 Senate seats likely to be i
 A new key visual featuring the five leading ladies of the series has been published for Love Flops (known in Japan as Renai Flops), an upcoming original science fiction / romantic comedy anime about a young man who ends up living alongside a harem of heroines. Hit the jump to learn more.]]></summary>
         <author>
             <name>Paul Chapman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliud Kipchoge Smashes His Own  World Record at the Berlin Marathon]]></title>
+        <id>https://www.nytimes.com/2022/09/25/sports/eliud-kipchoge-marathon-record.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/sports/eliud-kipchoge-marathon-record.html"/>
+        <updated>2022-09-25T12:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Kipchoge ran the Berlin Marathon in a time of 2:01:09. Tigist Assefa shocked the women’s field by running her second marathon in 2:15:38, a course record.]]></summary>
+        <author>
+            <name>Talya Minsberg</name>
         </author>
     </entry>
     <entry>
@@ -1377,6 +1460,16 @@ The first cour of SPY x FAMILY was a sheer banger when it debuted last spring s
         <summary type="html"><![CDATA[It’s not just about racism.]]></summary>
         <author>
             <name>Jamelle Bouie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’]]></title>
+        <id>https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html"/>
+        <updated>2022-09-24T14:37:14.000Z</updated>
+        <summary type="html"><![CDATA[She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.]]></summary>
+        <author>
+            <name>Anita Gates</name>
         </author>
     </entry>
     <entry>

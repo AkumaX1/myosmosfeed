@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nApple Pay Later is facing some “significant” setbacks that could delay its launch until next year, according to a report from Bloomberg’s Mark Gurman. The feature is Apple’s version of a buy now, pay later (BNPL) service, letting you make a payment through Apple Pay and then pay it back in four installments without interest.\nApple said its Pay Later feature would arrive with iOS 16 when it first announced the program at WWDC in June. But now that iOS 16 is out, Apple Pay Later hasn’t made an appearance, and the fine print on Apple’s iOS 16 page vaguely says it’s “coming in a future update.” As Gurman points out, Apple Pay Later is the only unreleased iOS 16 feature on the page that doesn’t include a timeframe for when we might expect its rol…",
+          "link": "https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman",
+          "publishedOn": "2022-09-25T14:24:38.000Z",
+          "wordCount": 13300,
+          "title": "Apple Pay Later is reportedly facing ‘technical and engineering’ issues",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WWL_uBe-SCMORMIH3yxpADrxf2A=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11477049/acastro_180604_1777_apple_wwdc_0002.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review",
           "author": null,
           "description": "The Triton 500 SE is an expensive gaming laptop that doesn’t flex its hardware enough\n Spending a grip on a gaming laptop isn’t difficult; a cursory search on gaming laptops will net you several options that cost more than $4,000. But finding a laptop that’s giving you the greatest return on your investment is more of a challenge. If you’re spending around $3,000 on a gaming laptop like the Acer Predator Triton 500 SE, you want it to bury the competition, not just scrape by. Unfortunately, the Triton 500 SE is a bit disappointing and doesn’t flex its hardware enough to set it apart in a crowded market. \nHoused in its all-silver chassis, the $2,999.99 configuration of the Triton 500 SE we tested includes a 12th Gen Core i9-12900H processor, RTX 3080 Ti graphics card, 32GB of RAM, and 1TB of…",
@@ -118,6 +128,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html",
+          "author": "Katrin Bennhold",
+          "description": "Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.",
+          "link": "https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html",
+          "publishedOn": "2022-09-25T13:09:44.000Z",
+          "wordCount": null,
+          "title": "Olaf Scholz of Germany Won’t Send Battle Tanks to Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/sports/eliud-kipchoge-marathon-record.html",
+          "author": "Talya Minsberg",
+          "description": "Kipchoge ran the Berlin Marathon in a time of 2:01:09. Tigist Assefa shocked the women’s field by running her second marathon in 2:15:38, a course record.",
+          "link": "https://www.nytimes.com/2022/09/25/sports/eliud-kipchoge-marathon-record.html",
+          "publishedOn": "2022-09-25T12:08:44.000Z",
+          "wordCount": null,
+          "title": "Eliud Kipchoge Smashes His Own  World Record at the Berlin Marathon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html",
           "author": "German Lopez",
@@ -890,6 +920,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
+          "author": "Anita Gates",
+          "description": "She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.",
+          "link": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
+          "publishedOn": "2022-09-24T14:37:14.000Z",
+          "wordCount": null,
+          "title": "Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html",
           "author": "Lauren Christensen",
           "description": "Confronting sudden loss in her own life, Namwali Serpell has written “The Furrows,” a disquieting portrait of the human mind, warped by grief.",
@@ -916,6 +956,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234599601",
+          "author": "Daniel Kreps",
+          "description": "Trent Reznor welcomes back Filter frontman Richard Patrick, Chris Vrenna, Danny Lohner and Charlie Clouser at Rock Hall event",
+          "link": "https://www.rollingstone.com/music/music-news/nine-inch-nails-reunite-former-members-filter-hey-man-nice-shot-cleveland-celebration-1234599601/",
+          "publishedOn": "2022-09-25T15:02:40.000Z",
+          "wordCount": 7092,
+          "title": "Watch Nine Inch Nails Reunite With Former Members, Cover ‘Hey Man Nice Shot’ at Cleveland Concert",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1425180264.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234598097",
+          "author": "Joseph Hudak",
+          "description": "\"I don’t think any of us want our calling card to be Route 91, but it can be inescapable at times,\" writes Mark Gray, who came under fire while on assignment in Las Vegas in 2017",
+          "link": "https://www.rollingstone.com/music/music-news/route-91-las-vegas-shooting-i-survived-1234598097/",
+          "publishedOn": "2022-09-25T14:54:26.000Z",
+          "wordCount": 7410,
+          "title": "I Arrived at Route 91 as a Reporter. I Left as a Survivor of a Mass Shooting",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/mark-gray-route-91-shooting-5-years.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234599586",
           "author": "Daniel Kreps",
@@ -1150,6 +1210,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2406767",
+          "author": "Mary Ann Azevedo",
+          "description": "Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If you’re reading this as a post on our site, sign up here so you can receive it directly in the future. Every week, I’ll take a look at the hottest fintech news of the previous […]\nInsurtech goes niche by Mary Ann Azevedo originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/fintech-insurtech-goes-niche/",
+          "publishedOn": "2022-09-25T14:15:49.000Z",
+          "wordCount": 10863,
+          "title": "Insurtech goes niche",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-991159346.jpg?resize=1200,814"
+        },
         {
           "id": "https://techcrunch.com/?p=2405937",
           "author": "Greg Kumparak",
@@ -2275,6 +2345,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors",
+          "author": null,
+          "description": "Photo: Liane Hentscher/Netflix\n    \n\n\n  \nShooting action over 50? No problem for these stars\n In the crowded field of Netflix original programming vying for viewer attention, it’s difficult to stand out and be noticed. There has to be something that causes the endless scrolling to stop for a moment, for the potential viewer to linger on a title in hopes that it will intrigue enough to warrant a press of the play button — a hook.\nThe latest original film from the streaming giant, Lou, about a desperate mother’s attempt to rescue her kidnapped child from the wilderness with the aid of a mysterious hardened tracker, certainly has an intriguing hook. The grizzled hero with a mysterious past aiding the mother is portrayed by the unconventional choice of Allison Janney (I, Tonya). People might s…",
+          "link": "https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors",
+          "publishedOn": "2022-09-25T14:47:00.000Z",
+          "wordCount": 3660,
+          "title": "10 action movies with older leads who don’t miss a beat",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/8bdBr0OTp92br0CxjNOI2Mqhtcg=/537x0:2936x1256/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24038570/Lou_00_36_36_09_R_f.jpg"
+        },
         {
           "id": "https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher",
           "author": null,
