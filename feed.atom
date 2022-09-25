@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T06:15:37.831Z</updated>
+    <updated>2022-09-25T07:11:02.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html"/>
+        <updated>2022-09-25T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.]]></summary>
+        <author>
+            <name>Michael Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Aggressive Retsuko' Gets Fifth Season in February 2023]]></title>
+        <id>https://myanimelist.net/news/67552991?_location=rss</id>
+        <link href="https://myanimelist.net/news/67552991?_location=rss"/>
+        <updated>2022-09-25T06:41:49.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix TUDUM Japan event announced a fifth season of Sanrio's Aggressive Retsuko (Aggretsuko) net anime series on Sunday. The final season is scheduled to premiere worldwide on Netflix in February 2023. The first anime adaptation based on Sanrio's titular red panda mascot aired in 100 one-minute episodes from April 2016 to March 2018 on TBS' Ousama no Brunch program. TBS subsequently combined all 100 episodes and broadcast them in 10 episodes. The first, second, third, and f...]]></summary>
+        <author>
+            <name>News - MyAnimeList</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gudetama: An Eggcellent Adventure Series' 1st Trailer Reveals December 13 Premiere]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190155</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/gudetama-an-eggcellent-adventure-series-1st-trailer-reveals-december-13-premiere/.190155"/>
+        <updated>2022-09-25T06:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Yuko Hara performs theme for live-action, CG hybrid series]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make My Day Anime Film Reveals Cast, Mecha Design, February 2023 Debut]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190148</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/make-my-day-anime-film-reveals-cast-mecha-design-february-2023-debut/.190148"/>
+        <updated>2022-09-25T06:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Masaomi Yamahashi, Ayahi Takagaki, more star in film]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix Reveals My Daemon Animated Series from Writer Hidetaka Adachi]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190149</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/netflix-reveals-my-daemon-animated-series-from-writer-hidetaka-adachi/.190149"/>
+        <updated>2022-09-25T06:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Thai studio Igloo Studio animates series]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video Game 'Onimusha' Gets Anime Series]]></title>
         <id>https://myanimelist.net/news/67552810?_location=rss</id>

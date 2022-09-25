@@ -630,6 +630,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
+          "author": "Michael Powell",
+          "description": "The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.",
+          "link": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
+          "publishedOn": "2022-09-25T07:00:13.000Z",
+          "wordCount": null,
+          "title": "Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html",
           "author": "Jon Pareles",
           "description": "He first gained wide recognition for his work with John Coltrane. He went on to a fertile, prolific career, releasing dozens of albums as a leader.",
@@ -2387,6 +2397,36 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190155",
+          "author": null,
+          "description": "Yuko Hara performs theme for live-action, CG hybrid series",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/gudetama-an-eggcellent-adventure-series-1st-trailer-reveals-december-13-premiere/.190155",
+          "publishedOn": "2022-09-25T06:40:01.000Z",
+          "wordCount": 3102,
+          "title": "Gudetama: An Eggcellent Adventure Series' 1st Trailer Reveals December 13 Premiere",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/jbZ3QDLq4Es.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190148",
+          "author": null,
+          "description": "Masaomi Yamahashi, Ayahi Takagaki, more star in film",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/make-my-day-anime-film-reveals-cast-mecha-design-february-2023-debut/.190148",
+          "publishedOn": "2022-09-25T06:32:29.000Z",
+          "wordCount": 3086,
+          "title": "Make My Day Anime Film Reveals Cast, Mecha Design, February 2023 Debut",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY2/cms/news.5/190148/make-my-day-mech.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190149",
+          "author": null,
+          "description": "Thai studio Igloo Studio animates series",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/netflix-reveals-my-daemon-animated-series-from-writer-hidetaka-adachi/.190149",
+          "publishedOn": "2022-09-25T06:13:53.000Z",
+          "wordCount": 2985,
+          "title": "Netflix Reveals My Daemon Animated Series from Writer Hidetaka Adachi",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLA/cms/news.5/190149/daemon.jpeg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190147",
           "author": null,
           "description": "Anime from Sublimation to use late actor Toshiro Mifune as model for Miyamoto Musashi",
@@ -3300,6 +3340,16 @@
       "feedUrl": "https://myanimelist.net/rss/news.xml",
       "siteUrl": "https://myanimelist.net/news?_location=rss",
       "articles": [
+        {
+          "id": "https://myanimelist.net/news/67552991?_location=rss",
+          "author": null,
+          "description": "The Netflix TUDUM Japan event announced a fifth season of Sanrio's Aggressive Retsuko (Aggretsuko) net anime series on Sunday. The final season is scheduled to premiere worldwide on Netflix in February 2023. The first anime adaptation based on Sanrio's titular red panda mascot aired in 100 one-minute episodes from April 2016 to March 2018 on TBS' Ousama no Brunch program. TBS subsequently combined all 100 episodes and broadcast them in 10 episodes. The first, second, third, and f...",
+          "link": "https://myanimelist.net/news/67552991?_location=rss",
+          "publishedOn": "2022-09-25T06:41:49.000Z",
+          "wordCount": 1596,
+          "title": "'Aggressive Retsuko' Gets Fifth Season in February 2023",
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664087997-665c6083b3f270552be12d3f358e5fef.jpeg"
+        },
         {
           "id": "https://myanimelist.net/news/67552810?_location=rss",
           "author": null,
