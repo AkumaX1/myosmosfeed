@@ -109,6 +109,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/upshot/starter-home-prices.html",
+          "author": "Emily Badger",
+          "description": "The economics of the housing market, and the local rules that shape it, have squeezed out entry-level homes.",
+          "link": "https://www.nytimes.com/2022/09/25/upshot/starter-home-prices.html",
+          "publishedOn": "2022-09-25T09:41:31.000Z",
+          "wordCount": null,
+          "title": "Whatever Happened to the Starter Home?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html",
+          "author": "Elian Peltier",
+          "description": "Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.",
+          "link": "https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html",
+          "publishedOn": "2022-09-25T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/travel/kyoto-japan-tourism.html",
+          "author": "Ben Dooley and Hisako Ueno",
+          "description": "The city, one of Japan’s most-visited before the pandemic, desperately needs tourism’s money, but it would like to avoid the excesses of Instagram-driven itineraries.",
+          "link": "https://www.nytimes.com/2022/09/25/travel/kyoto-japan-tourism.html",
+          "publishedOn": "2022-09-25T09:00:31.000Z",
+          "wordCount": null,
+          "title": "Kyoto Wants You Back, but It Has Some Polite Suggestions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html",
           "author": "Farnaz Fassihi",
           "description": "Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.",
@@ -116,6 +146,16 @@
           "publishedOn": "2022-09-25T08:57:40.000Z",
           "wordCount": null,
           "title": "Iran Protests Surge to Dozens of Cities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
+          "author": "Michael Powell",
+          "description": "The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.",
+          "link": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
+          "publishedOn": "2022-09-25T08:15:11.000Z",
+          "wordCount": null,
+          "title": "Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t",
           "imageUrl": null
         },
         {
@@ -156,6 +196,26 @@
           "publishedOn": "2022-09-25T01:50:16.000Z",
           "wordCount": null,
           "title": "The New India: Expanding Influence Abroad, Straining Democracy at Home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/us/cia-nsa-museums.html",
+          "author": "Julian E. Barnes",
+          "description": "The Central Intelligence Agency and the National Security Agency both recently overhauled their showcases of espionage.",
+          "link": "https://www.nytimes.com/2022/09/24/us/cia-nsa-museums.html",
+          "publishedOn": "2022-09-25T01:16:57.000Z",
+          "wordCount": null,
+          "title": "Renovated C.I.A. and N.S.A. Museums Offer a Peek at Spy Secrets — for Some",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html",
+          "author": "Kashmir Hill",
+          "description": "A tech-savvy artist unearthed video footage of people working hard to capture the perfect shot for Instagram. It is a lesson in the artifice of social media and the ubiquity of surveillance.",
+          "link": "https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html",
+          "publishedOn": "2022-09-25T00:40:29.000Z",
+          "wordCount": null,
+          "title": "This Surveillance Artist Knows How You Got That Perfect Instagram Photo",
           "imageUrl": null
         },
         {
@@ -236,6 +296,16 @@
           "publishedOn": "2022-09-24T22:24:27.000Z",
           "wordCount": null,
           "title": "For Suburban Texas Men, a Workout Craze With a Side of Faith",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html",
+          "author": "Andrew E. Kramer, Valerie Hopkins and Ben Hubbard",
+          "description": "Ukraine’s president has urged citizens to resist the Russians in occupied territories, where voting is underway in what Western officials have called “sham” referendums on joining Russia.",
+          "link": "https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html",
+          "publishedOn": "2022-09-24T21:06:57.000Z",
+          "wordCount": null,
+          "title": "Ukraine Fights to Reclaim Territory as Russia Holds Annexation Referendums",
           "imageUrl": null
         },
         {
@@ -346,6 +416,16 @@
           "publishedOn": "2022-09-23T18:34:59.000Z",
           "wordCount": null,
           "title": "Is Natural Wine Actually Better for You?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html",
+          "author": "Alex Marshall",
+          "description": "Before King Charles III inherited Britain’s throne, he was a prince with strong views on architecture. Poundbury is where he tried to put them into practice.",
+          "link": "https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html",
+          "publishedOn": "2022-09-23T18:10:29.000Z",
+          "wordCount": null,
+          "title": "Poundbury, England: The Town That Charles Built",
           "imageUrl": null
         },
         {
@@ -1314,6 +1394,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/23367037/parent-trap-children-k-12-skills-education",
+          "author": null,
+          "description": "Parents check on their kids after dropping them off at Kimberly Pearson’s class on the first day of school at Sunkist Elementary School in Anaheim, California, on August 11, 2022. | Paul Bersebach/MediaNews Group/Orange County Register via Getty Images\n    \n\n  \nAn expert argues that we make parenting so much harder than it needs to be by failing at policy.\n Are we setting parents up to fail? \nSetting children up for success in today’s world is incredibly hard. In our culture, it’s especially difficult because the job of giving kids everything they need largely falls to parents. And even if you’re the most attentive and loving parent in the world, it’s not enough. \nIf they’re going to succeed in this society, they need to learn certain kinds of skills. And they need certain kinds of people …",
+          "link": "https://www.vox.com/23367037/parent-trap-children-k-12-skills-education",
+          "publishedOn": "2022-09-25T10:00:00.000Z",
+          "wordCount": 4535,
+          "title": "Do we ask too much of parents?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/MNulviXim8ZexgBc-jEioUtI2qo=/0x212:5056x2859/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24046045/1414299076.jpg"
+        },
         {
           "id": "https://www.vox.com/2022/9/24/23369572/italy-election-meloni-brothers-of-italy-far-right",
           "author": null,
@@ -2386,6 +2476,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190167",
+          "author": null,
+          "description": "Game features 4 groups, all songs from franchise",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/love-live-school-idol-festival-2-miracle-live-game-announced-for-smartphones/.190167",
+          "publishedOn": "2022-09-25T09:46:28.000Z",
+          "wordCount": 3009,
+          "title": "Love Live! School Idol Festival 2 Miracle Live! Game Announced for Smartphones",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/cms/news.5/190167/fdfxc2haaaaegwt-1.jpeg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190140",
           "author": null,

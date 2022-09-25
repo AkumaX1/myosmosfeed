@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T09:10:35.731Z</updated>
+    <updated>2022-09-25T10:11:02.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do we ask too much of parents?]]></title>
+        <id>https://www.vox.com/23367037/parent-trap-children-k-12-skills-education</id>
+        <link href="https://www.vox.com/23367037/parent-trap-children-k-12-skills-education"/>
+        <updated>2022-09-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parents check on their kids after dropping them off at Kimberly Pearson’s class on the first day of school at Sunkist Elementary School in Anaheim, California, on August 11, 2022. | Paul Bersebach/MediaNews Group/Orange County Register via Getty Images
+    
+
+  
+An expert argues that we make parenting so much harder than it needs to be by failing at policy.
+ Are we setting parents up to fail? 
+Setting children up for success in today’s world is incredibly hard. In our culture, it’s especially difficult because the job of giving kids everything they need largely falls to parents. And even if you’re the most attentive and loving parent in the world, it’s not enough. 
+If they’re going to succeed in this society, they need to learn certain kinds of skills. And they need certain kinds of people …]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Live! School Idol Festival 2 Miracle Live! Game Announced for Smartphones]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190167</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/love-live-school-idol-festival-2-miracle-live-game-announced-for-smartphones/.190167"/>
+        <updated>2022-09-25T09:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Game features 4 groups, all songs from franchise]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatever Happened to the Starter Home?]]></title>
+        <id>https://www.nytimes.com/2022/09/25/upshot/starter-home-prices.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/upshot/starter-home-prices.html"/>
+        <updated>2022-09-25T09:41:31.000Z</updated>
+        <summary type="html"><![CDATA[The economics of the housing market, and the local rules that shape it, have squeezed out entry-level homes.]]></summary>
+        <author>
+            <name>Emily Badger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stalin Once Banned This Opera in Russia, but Audiences Still Enjoy It]]></title>
         <id>https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html</id>
@@ -14,6 +51,26 @@
         <summary type="html"><![CDATA[“Lady Macbeth of Mtsensk” by Dmitri Shostakovich, a tale of love and betrayal once banned in Soviet Russia, is returning to the Metropolitan Opera.]]></summary>
         <author>
             <name>David Belcher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.]]></title>
+        <id>https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html"/>
+        <updated>2022-09-25T09:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.]]></summary>
+        <author>
+            <name>Elian Peltier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyoto Wants You Back, but It Has Some Polite Suggestions]]></title>
+        <id>https://www.nytimes.com/2022/09/25/travel/kyoto-japan-tourism.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/travel/kyoto-japan-tourism.html"/>
+        <updated>2022-09-25T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[The city, one of Japan’s most-visited before the pandemic, desperately needs tourism’s money, but it would like to avoid the excesses of Instagram-driven itineraries.]]></summary>
+        <author>
+            <name>Ben Dooley and Hisako Ueno</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +151,16 @@
         <summary type="html"><![CDATA[Opening video reveals additional staff]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html"/>
+        <updated>2022-09-25T08:15:11.000Z</updated>
+        <summary type="html"><![CDATA[The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.]]></summary>
+        <author>
+            <name>Michael Powell</name>
         </author>
     </entry>
     <entry>
@@ -377,6 +444,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Renovated C.I.A. and N.S.A. Museums Offer a Peek at Spy Secrets — for Some]]></title>
+        <id>https://www.nytimes.com/2022/09/24/us/cia-nsa-museums.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/us/cia-nsa-museums.html"/>
+        <updated>2022-09-25T01:16:57.000Z</updated>
+        <summary type="html"><![CDATA[The Central Intelligence Agency and the National Security Agency both recently overhauled their showcases of espionage.]]></summary>
+        <author>
+            <name>Julian E. Barnes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pharoah Sanders, Whose Saxophone Was a Force of Nature, Dies at 81]]></title>
         <id>https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html</id>
         <link href="https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html"/>
@@ -384,6 +461,16 @@
         <summary type="html"><![CDATA[He first gained wide recognition for his work with John Coltrane. He went on to a fertile, prolific career, releasing dozens of albums as a leader.]]></summary>
         <author>
             <name>Jon Pareles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Surveillance Artist Knows How You Got That Perfect Instagram Photo]]></title>
+        <id>https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html"/>
+        <updated>2022-09-25T00:40:29.000Z</updated>
+        <summary type="html"><![CDATA[A tech-savvy artist unearthed video footage of people working hard to capture the perfect shot for Instagram. It is a lesson in the artifice of social media and the ubiquity of surveillance.]]></summary>
+        <author>
+            <name>Kashmir Hill</name>
         </author>
     </entry>
     <entry>
@@ -499,6 +586,16 @@ To do this, Respeecher uses sound bites to “clone” an actor’s voice, allow
         <summary type="html"><![CDATA[IGN and it's community discuss whether the developer or publisher is more important when buying a game.]]></summary>
         <author>
             <name>Jada Griffin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Fights to Reclaim Territory as Russia Holds Annexation Referendums]]></title>
+        <id>https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html"/>
+        <updated>2022-09-24T21:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s president has urged citizens to resist the Russians in occupied territories, where voting is underway in what Western officials have called “sham” referendums on joining Russia.]]></summary>
+        <author>
+            <name>Andrew E. Kramer, Valerie Hopkins and Ben Hubbard</name>
         </author>
     </entry>
     <entry>
@@ -2436,6 +2533,16 @@ MultiVersus is a free-to-play fighting game featuring a roster of fighters from 
 How Blaseball’s fantasy sports fever dream is embracing the future by Amanda Silberling originally published on TechCrunch]]></summary>
         <author>
             <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poundbury, England: The Town That Charles Built]]></title>
+        <id>https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html</id>
+        <link href="https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html"/>
+        <updated>2022-09-23T18:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Before King Charles III inherited Britain’s throne, he was a prince with strong views on architecture. Poundbury is where he tried to put them into practice.]]></summary>
+        <author>
+            <name>Alex Marshall</name>
         </author>
     </entry>
     <entry>
