@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T22:09:35.004Z</updated>
+    <updated>2022-09-25T23:10:01.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disperse, which brings AI-fuelled data to construction projects, raises $16M]]></title>
+        <id>https://techcrunch.com/?p=2406254</id>
+        <link href="https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/"/>
+        <updated>2022-09-25T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Disperse, a U.K.-based construction tech company that offers an artificial intelligence (AI)-powered platform to help project managers track work and capture data from building sites, has raised $16 million in funding. Founded out of London in 2015, Disperse effectively creates a digital version of an entire construction site, including visual snapshots that track the progress […]
+Disperse, which brings AI-fuelled data to construction projects, raises $16M by Paul Sawers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Paul Sawers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Protests Are Fueled in Part by Kurdish Anger]]></title>
+        <id>https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html"/>
+        <updated>2022-09-25T22:53:22.000Z</updated>
+        <summary type="html"><![CDATA[The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.]]></summary>
+        <author>
+            <name>Jane Arraf and Farnaz Fassihi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Batgirl’ Leslie Grace Teases Song, Shares Footage From Nixed Film]]></title>
+        <id>https://www.rollingstone.com/?p=1234599709</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/leslie-grace-batgirl-scenes-new-song-tiktok-1234599709/"/>
+        <updated>2022-09-25T22:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Warner Bros. Discovery shelved the DC Extended Universe project last month]]></summary>
+        <author>
+            <name>Althea Legaspi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia’s mobilization won’t fix its military problems]]></title>
+        <id>https://www.vox.com/2022/9/25/23370489/russia-military-mobilization-ukraine-war-putin</id>
+        <link href="https://www.vox.com/2022/9/25/23370489/russia-military-mobilization-ukraine-war-putin"/>
+        <updated>2022-09-25T22:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Police officers detain a man in Moscow on September 24, 2022, following calls to protest against the partial mobilization announced by Russian President Vladimir Putin. | AFP via Getty Images
+    
+
+  
+What Putin’s troop surge can — and can’t — do in Ukraine.
+ Russian President Vladimir Putin this week announced that 300,000 more men would need to fight in his increasingly difficult and costly war in Ukraine. But amid Ukrainian victories, major strategic and personnel problems in the Russian armed forces, and domestic frustrations over the mobilization announcement, whether Putin can accomplish his goals in Ukraine — and the nature of those goals at this stage — isn’t clear.
+“In the face of a threat to the territorial integrity of our country, to protect Russia and our people, we will certa…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia Begins Mobilizing Ukrainians to Fight Against Their Own Country]]></title>
         <id>https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html</id>
@@ -2136,6 +2183,19 @@ A new trailer and visual have arrived for the Arknights anime adaptation, Arknig
 
 
 We've got a lot of My Hero Academia to look forward to, because the latest update has confirmed season six as a two-cour consecutive run. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crunchyroll to Stream Saint Cecilia and Pastor Lawrence Anime]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/24/crunchyroll-to-stream-saint-cecilia-and-pastor-lawrence-anime</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/24/crunchyroll-to-stream-saint-cecilia-and-pastor-lawrence-anime"/>
+        <updated>2022-09-24T10:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Teaser visual, promo, main cast and staff members revealed
+
+
+One of the reveals made during Aniplex Online Fest 2022 concerned plans for the Saint Cecilia and Pastor Lawrence anime, which is officially on the way to Crunchyroll. Read on for more.]]></summary>
         <author>
             <name>Joseph Luster</name>
         </author>

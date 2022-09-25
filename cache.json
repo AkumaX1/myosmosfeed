@@ -169,6 +169,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html",
+          "author": "Jane Arraf and Farnaz Fassihi",
+          "description": "The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.",
+          "link": "https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html",
+          "publishedOn": "2022-09-25T22:53:22.000Z",
+          "wordCount": null,
+          "title": "Iran Protests Are Fueled in Part by Kurdish Anger",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html",
           "author": "Marc Santora",
           "description": "Panic and fear flooded the occupied territories as Russian forces rounded up men to fight and forced residents to vote in a staged referendum on joining Russia, Ukrainian officials and rights groups said.",
@@ -1344,6 +1354,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234599709",
+          "author": "Althea Legaspi",
+          "description": "Warner Bros. Discovery shelved the DC Extended Universe project last month",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/leslie-grace-batgirl-scenes-new-song-tiktok-1234599709/",
+          "publishedOn": "2022-09-25T22:36:06.000Z",
+          "wordCount": 7020,
+          "title": "‘Batgirl’ Leslie Grace Teases Song, Shares Footage From Nixed Film",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/LeslieGrace-1.jpeg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234597770",
           "author": "Brian Hiattt",
           "description": "The Star Wars series' showrunner explains why it'll get \"bigger and bigger and bigger\" in future episodes, and much more",
@@ -1460,6 +1480,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2406254",
+          "author": "Paul Sawers",
+          "description": "Disperse, a U.K.-based construction tech company that offers an artificial intelligence (AI)-powered platform to help project managers track work and capture data from building sites, has raised $16 million in funding. Founded out of London in 2015, Disperse effectively creates a digital version of an entire construction site, including visual snapshots that track the progress […]\nDisperse, which brings AI-fuelled data to construction projects, raises $16M by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/",
+          "publishedOn": "2022-09-25T23:00:13.000Z",
+          "wordCount": 8385,
+          "title": "Disperse, which brings AI-fuelled data to construction projects, raises $16M",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1327795459-1.jpg?resize=1200,465"
+        },
         {
           "id": "https://techcrunch.com/?p=2403796",
           "author": "Dominic-Madori Davis",
@@ -1884,6 +1914,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/2022/9/25/23370489/russia-military-mobilization-ukraine-war-putin",
+          "author": null,
+          "description": "Police officers detain a man in Moscow on September 24, 2022, following calls to protest against the partial mobilization announced by Russian President Vladimir Putin. | AFP via Getty Images\n    \n\n  \nWhat Putin’s troop surge can — and can’t — do in Ukraine.\n Russian President Vladimir Putin this week announced that 300,000 more men would need to fight in his increasingly difficult and costly war in Ukraine. But amid Ukrainian victories, major strategic and personnel problems in the Russian armed forces, and domestic frustrations over the mobilization announcement, whether Putin can accomplish his goals in Ukraine — and the nature of those goals at this stage — isn’t clear.\n“In the face of a threat to the territorial integrity of our country, to protect Russia and our people, we will certa…",
+          "link": "https://www.vox.com/2022/9/25/23370489/russia-military-mobilization-ukraine-war-putin",
+          "publishedOn": "2022-09-25T22:10:08.000Z",
+          "wordCount": 4139,
+          "title": "Russia’s mobilization won’t fix its military problems",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vqtj8TMOEjWF2-MCaLZGoWO8yic=/0x471:5944x3583/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24052843/1243475578.jpg"
+        },
         {
           "id": "https://www.vox.com/2022/9/25/23356692/most-competitive-senate-races-georgia-nevada-wisconsin",
           "author": null,
@@ -3692,6 +3732,16 @@
           "wordCount": 5855,
           "title": "My Hero Academia Season 6 to Air for Two Consecutive Cours",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/68b211dd807867c6eac31fc0ca6f662d1664014622_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/24/crunchyroll-to-stream-saint-cecilia-and-pastor-lawrence-anime",
+          "author": "Joseph Luster",
+          "description": "Teaser visual, promo, main cast and staff members revealed\n\n\nOne of the reveals made during Aniplex Online Fest 2022 concerned plans for the Saint Cecilia and Pastor Lawrence anime, which is officially on the way to Crunchyroll. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/24/crunchyroll-to-stream-saint-cecilia-and-pastor-lawrence-anime",
+          "publishedOn": "2022-09-24T10:06:29.000Z",
+          "wordCount": 5954,
+          "title": "Crunchyroll to Stream Saint Cecilia and Pastor Lawrence Anime",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/194ae68d0ef9a1e788693b70f6a5925b1664013891_main.png"
         },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/24-1/chihayafuru-director-helms-loving-yamada-at-lv999-tv-anime-for-2023-broadcast",
