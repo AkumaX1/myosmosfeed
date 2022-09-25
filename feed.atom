@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T19:08:04.625Z</updated>
+    <updated>2022-09-25T20:10:32.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: The Inescapable Vibrations of ‘Violet’]]></title>
+        <id>https://www.nytimes.com/2022/09/25/arts/dance/review-meg-stuart-violet.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/arts/dance/review-meg-stuart-violet.html"/>
+        <updated>2022-09-25T20:02:49.000Z</updated>
+        <summary type="html"><![CDATA[This 2011 work by the American-born, Europe-based choreographer Meg Stuart feels overextended.]]></summary>
+        <author>
+            <name>Brian Seibert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belle, Sebastian and Me]]></title>
+        <id>https://www.nytimes.com/2022/09/25/style/belle-sebastian-tour.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/style/belle-sebastian-tour.html"/>
+        <updated>2022-09-25T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Following the world’s twee-est band down the Pacific Coast after a divorce and the death of a parent.]]></summary>
+        <author>
+            <name>Claire Dederer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beto O’Rourke Condemns Dehumanizing Stunts]]></title>
+        <id>https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html"/>
+        <updated>2022-09-25T19:23:49.000Z</updated>
+        <summary type="html"><![CDATA[In an interview, he told me about how he views his campaign to unseat Greg Abbott, the Republican governor of Texas.]]></summary>
+        <author>
+            <name>Charles M. Blow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rihanna to Headline Super Bowl 57 Halftime Show]]></title>
+        <id>https://www.rollingstone.com/?p=1234599498</id>
+        <link href="https://www.rollingstone.com/music/music-news/rihanna-headline-super-bowl-57-halftime-show-1234599498/"/>
+        <updated>2022-09-25T19:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Singer, who turned down previous halftime shows, to return to stage for first time in five years on Feb. 12, 2023]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angelian Trigger Shoot 'Em Up Teased for Nintendo Switch]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25/angelian-trigger-shoot-em-up-teased-for-nintendo-switch</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25/angelian-trigger-shoot-em-up-teased-for-nintendo-switch"/>
+        <updated>2022-09-25T19:04:37.000Z</updated>
+        <summary type="html"><![CDATA[PiXEL plans 2023 release with English and Japanese support
+
+
+Angelian Trigger is a new shoot 'em up that blends 2D and 3D visuals, and it's on the way to Nintendo Switch sometime in 2023. Check out a new teaser after the jump.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conservative capitalists are funding their vision of the future]]></title>
         <id>https://techcrunch.com/?p=2403796</id>
@@ -15,6 +68,19 @@
 Conservative capitalists are funding their vision of the future by Dominic-Madori Davis originally published on TechCrunch]]></summary>
         <author>
             <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonrise, Onimusha And More New Anime Unveiled During Netflix's Tudum Japan Event]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/moonrise-onimusha-and-more-new-anime-unveiled-during-netflixs-tudum-japan-event</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/moonrise-onimusha-and-more-new-anime-unveiled-during-netflixs-tudum-japan-event"/>
+        <updated>2022-09-25T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Multiple new anime titles unveiled 
+
+
+Overnight, Netflix held its Tudum fan event in Japan to showcase new anime series launching on the service in the future. Read on for the details.]]></summary>
+        <author>
+            <name>Humberto Saabedra</name>
         </author>
     </entry>
     <entry>
@@ -3346,6 +3412,16 @@ Since its founding in 2016, COVER Corp and hololive Production have become synon
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Every Game Delay Announced in 2022 (So Far)]]></title>
+        <id>a0c78480-3e13-4368-a471-4c5609a01fb3</id>
+        <link href="https://www.ign.com/articles/video-game-delays-2022"/>
+        <updated>2022-09-23T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[We're continuing to track the impact of pandemic-era game development by tallying every video game delay announced in 2022, including Atomic Heart and Hogwarts Legacy.]]></summary>
+        <author>
+            <name>Jordan Sirani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI Art is Powered by ISIS Executions and Non-Consenual Porn]]></title>
         <id>qjkwdd</id>
         <link href="https://www.vice.com/en_us/article/qjkwdd/ai-art-is-powered-by-isis-executions-and-non-consenual-porn"/>
@@ -4312,6 +4388,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Modern Love Podcast: How to Feel Yourself]]></title>
+        <id>https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</id>
+        <link href="https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html"/>
+        <updated>2022-09-21T20:02:29.000Z</updated>
+        <summary type="html"><![CDATA[At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.]]></summary>
+        <author>
+            <name>NYT &gt; Top Stories</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jesse Powell, C.E.O. of Cryptocurrency Exchange Kraken, Steps Down]]></title>
         <id>https://www.nytimes.com/2022/09/21/technology/ceo-kraken-cryptocurrency-jesse-powell.html</id>
         <link href="https://www.nytimes.com/2022/09/21/technology/ceo-kraken-cryptocurrency-jesse-powell.html"/>
@@ -4418,6 +4504,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Dobbs: Feminism Beyond the Gender Binary]]></title>
+        <id>https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html</id>
+        <link href="https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html"/>
+        <updated>2022-09-21T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Jennifer Finney Boylan and Thomas Page McBee on what the feminist movement owes the trans community.]]></summary>
+        <author>
+            <name>‘The Argument’</name>
         </author>
     </entry>
     <entry>

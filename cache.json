@@ -159,6 +159,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html",
+          "author": "Charles M. Blow",
+          "description": "In an interview, he told me about how he views his campaign to unseat Greg Abbott, the Republican governor of Texas.",
+          "link": "https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html",
+          "publishedOn": "2022-09-25T19:23:49.000Z",
+          "wordCount": null,
+          "title": "Beto O’Rourke Condemns Dehumanizing Stunts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/arts/television/celebrity-jeopardy-michael-davies.html",
           "author": "Julia Jacobs",
           "description": "Despite the loss of the show’s longtime host, viewership has held mostly steady, emboldening a move to spinoffs and tournaments, including a revival of “Celebrity Jeopardy!”",
@@ -689,6 +699,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html",
+          "author": null,
+          "description": "At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.",
+          "link": "https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html",
+          "publishedOn": "2022-09-21T20:02:29.000Z",
+          "wordCount": null,
+          "title": "Modern Love Podcast: How to Feel Yourself",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html",
           "author": "Amanda Taub",
           "description": "Ireland and Poland went in entirely opposite directions on abortion. Why?",
@@ -706,6 +726,16 @@
           "publishedOn": "2022-09-21T15:27:27.000Z",
           "wordCount": null,
           "title": "Is There Too Much ‘Mental Health’ Awareness in the United States?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html",
+          "author": "‘The Argument’",
+          "description": "Jennifer Finney Boylan and Thomas Page McBee on what the feminist movement owes the trans community.",
+          "link": "https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html",
+          "publishedOn": "2022-09-21T09:00:09.000Z",
+          "wordCount": null,
+          "title": "After Dobbs: Feminism Beyond the Gender Binary",
           "imageUrl": null
         },
         {
@@ -843,6 +873,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/style/belle-sebastian-tour.html",
+          "author": "Claire Dederer",
+          "description": "Following the world’s twee-est band down the Pacific Coast after a divorce and the death of a parent.",
+          "link": "https://www.nytimes.com/2022/09/25/style/belle-sebastian-tour.html",
+          "publishedOn": "2022-09-25T20:00:05.000Z",
+          "wordCount": null,
+          "title": "Belle, Sebastian and Me",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/books/review/new-historical-fiction.html",
           "author": "Alida Becker",
           "description": "Special powers, avian obsession and visions of the future fuel these transporting and entertaining tales.",
@@ -949,6 +989,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/25/arts/dance/review-meg-stuart-violet.html",
+          "author": "Brian Seibert",
+          "description": "This 2011 work by the American-born, Europe-based choreographer Meg Stuart feels overextended.",
+          "link": "https://www.nytimes.com/2022/09/25/arts/dance/review-meg-stuart-violet.html",
+          "publishedOn": "2022-09-25T20:02:49.000Z",
+          "wordCount": null,
+          "title": "Review: The Inescapable Vibrations of ‘Violet’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html",
           "author": "Ed Shanahan",
@@ -1086,6 +1136,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234599498",
+          "author": "Daniel Kreps",
+          "description": "Singer, who turned down previous halftime shows, to return to stage for first time in five years on Feb. 12, 2023",
+          "link": "https://www.rollingstone.com/music/music-news/rihanna-headline-super-bowl-57-halftime-show-1234599498/",
+          "publishedOn": "2022-09-25T19:10:05.000Z",
+          "wordCount": 7455,
+          "title": "Rihanna to Headline Super Bowl 57 Halftime Show",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1191561120.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234599601",
           "author": "Daniel Kreps",
@@ -2703,6 +2763,16 @@
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/23/ignfirst-coh3-masterthemap-yt-blank-1663953602157.jpg?width=1280"
         },
         {
+          "id": "a0c78480-3e13-4368-a471-4c5609a01fb3",
+          "author": "Jordan Sirani",
+          "description": "We're continuing to track the impact of pandemic-era game development by tallying every video game delay announced in 2022, including Atomic Heart and Hogwarts Legacy.",
+          "link": "https://www.ign.com/articles/video-game-delays-2022",
+          "publishedOn": "2022-09-23T16:38:00.000Z",
+          "wordCount": 24848,
+          "title": "Every Game Delay Announced in 2022 (So Far)",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/08/atomicheart-blogroll-1644366261011-1662679124952.jpeg?width=1280"
+        },
+        {
           "id": "d4745897-7b73-48a4-84df-ddefd0b232b7",
           "author": "Kevin Lee",
           "description": "We've got the top options for your 240Hz gaming monitor for your Esports or competitive online gaming needs.",
@@ -3303,6 +3373,26 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25/angelian-trigger-shoot-em-up-teased-for-nintendo-switch",
+          "author": "Joseph Luster",
+          "description": "PiXEL plans 2023 release with English and Japanese support\n\n\nAngelian Trigger is a new shoot 'em up that blends 2D and 3D visuals, and it's on the way to Nintendo Switch sometime in 2023. Check out a new teaser after the jump.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25/angelian-trigger-shoot-em-up-teased-for-nintendo-switch",
+          "publishedOn": "2022-09-25T19:04:37.000Z",
+          "wordCount": 5849,
+          "title": "Angelian Trigger Shoot 'Em Up Teased for Nintendo Switch",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/7f5101905548e5e056ef7a87db049ec21664103418_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/moonrise-onimusha-and-more-new-anime-unveiled-during-netflixs-tudum-japan-event",
+          "author": "Humberto Saabedra",
+          "description": "Multiple new anime titles unveiled \n\n\nOvernight, Netflix held its Tudum fan event in Japan to showcase new anime series launching on the service in the future. Read on for the details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/moonrise-onimusha-and-more-new-anime-unveiled-during-netflixs-tudum-japan-event",
+          "publishedOn": "2022-09-25T18:31:39.000Z",
+          "wordCount": 6762,
+          "title": "Moonrise, Onimusha And More New Anime Unveiled During Netflix's Tudum Japan Event",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/2f3f918fa0f0f0f54602af03cff9011e1664130218_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-feature/2022/09/25-1/feature-happy-national-comic-book-day-heres-some-great-anime-about-creating-manga",
           "author": "Kathleen Townsend",
