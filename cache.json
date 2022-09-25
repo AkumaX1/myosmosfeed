@@ -209,6 +209,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/world/asia/shinzo-abe-funeral-unification-church.html",
+          "author": "Motoko Rich and Ben Dooley",
+          "description": "The fallout from Shinzo Abe’s death has taken a number of unexpected turns, casting a critical light on both his long-governing party and a fringe religious group.",
+          "link": "https://www.nytimes.com/2022/09/24/world/asia/shinzo-abe-funeral-unification-church.html",
+          "publishedOn": "2022-09-24T22:32:37.000Z",
+          "wordCount": null,
+          "title": "Why Japan Is Angry About a State Funeral for Shinzo Abe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/us/f3-workout-men-texas.html",
           "author": "Ruth Graham and Meridith Kohut",
           "description": "In Katy, outside Houston, many men have taken up F3, a no-frills fitness group where members push themselves physically but also bond emotionally.",
@@ -2397,6 +2407,46 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190146",
+          "author": null,
+          "description": "Hiromu Arakawa, Ayumi Yamada design characters; Ryo Awasaki composes music",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/wit-studio-tow-ubukata-moonrise-anime-trailer-reveals-2024-premiere-staff-key-visual/.190146",
+          "publishedOn": "2022-09-25T07:52:16.000Z",
+          "wordCount": 3167,
+          "title": "Wit Studio, Tow Ubukata's Moonrise Anime's Trailer Reveals 2024 Premiere, Staff, Key Visual",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP3/cms/news.5/190146/fdzrfzsxoaihu1r.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190142",
+          "author": null,
+          "description": "Rie Suegara, Yumiri Hanamori, Tomokazu Sugita, more join cast",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/junji-ito-maniac-japanese-tales-of-the-macabre-anime-reveals-january-19-debut-more-cast/.190142",
+          "publishedOn": "2022-09-25T07:41:44.000Z",
+          "wordCount": 3261,
+          "title": "Junji Ito Maniac: Japanese Tales of the Macabre Anime Reveals January 19 Debut, More Cast",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSC/cms/news.5/190142/tomie.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190159",
+          "author": null,
+          "description": "Cast, staff return for final season about Retsuko running for office",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/aggretsuko-anime-5th-final-season-launches-on-netflix-in-february-2023/.190159",
+          "publishedOn": "2022-09-25T07:07:52.000Z",
+          "wordCount": 3117,
+          "title": "Aggretsuko Anime's 5th, Final Season Launches on Netflix in February 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKO/cms/news.5/190159/retsuko.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190156",
+          "author": null,
+          "description": "New season will feature returning cast, staff",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/way-of-the-househusband-anime-gets-2nd-season-in-january-2023/.190156",
+          "publishedOn": "2022-09-25T06:52:43.000Z",
+          "wordCount": 3037,
+          "title": "Way of the Househusband Anime Gets 2nd Season in January 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPF/cms/news.5/190156/househusband-2.jpeg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190155",
           "author": null,
           "description": "Yuko Hara performs theme for live-action, CG hybrid series",
@@ -3340,6 +3390,36 @@
       "feedUrl": "https://myanimelist.net/rss/news.xml",
       "siteUrl": "https://myanimelist.net/news?_location=rss",
       "articles": [
+        {
+          "id": "https://myanimelist.net/news/67553378?_location=rss",
+          "author": null,
+          "description": "The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no Heya (Quadruple Wall Room) Souichi Tsuji: Yuuji M...",
+          "link": "https://myanimelist.net/news/67553378?_location=rss",
+          "publishedOn": "2022-09-25T08:02:33.000Z",
+          "wordCount": 1429,
+          "title": "'Itou Junji: Maniac' Unveils Main Staff, Additional Cast, January 19 Premiere",
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664092688-dd34666e64d7ae624e6e2c70087c181f.jpeg"
+        },
+        {
+          "id": "https://myanimelist.net/news/67553325?_location=rss",
+          "author": null,
+          "description": "The Netflix TUDUM Japan event revealed the main cast and one additional staff for the original anime series Make My Day. The anime will premiere worldwide on Netflix in February 2023. Cast Jim: Masaomi Yamahashi (Rokudenashi Majutsu Koushi to Akashic Records) Marnie: Ayahi Takagaki (Senki Zesshou Symphogear) Walter: Kazuhiro Yamaji (Shingeki no Kyojin Season 3) Captain Burke: Akio Ootsuka (Koukaku Kidoutai) Kensuke Ushio (Devilman: Crybaby, Heike Monogatari) is composing the music. Manga author...",
+          "link": "https://myanimelist.net/news/67553325?_location=rss",
+          "publishedOn": "2022-09-25T07:54:43.000Z",
+          "wordCount": 1404,
+          "title": "'Make My Day' Reveals Main Cast, Additional Staff, February 2023 Premiere",
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664091560-0e45d49e1e0ea24837685a9dcb354e38.jpeg"
+        },
+        {
+          "id": "https://myanimelist.net/news/67553252?_location=rss",
+          "author": null,
+          "description": "An anime adaptation of Baku Yumemakura's Onmyouji novel series was announced at the Netflix TUDUM Japan event on Sunday, revealing the main staff, a concept art (pictured above), and a character visual for Abe no Seimei (pictured right). The anime series will debut worldwide on Netflix in 2023. Soubi Yamamoto (Meganebu!) is directing the anime at Marvy Jack. Natsu Hashimoto (Oshiete Hokusai! The Animation) and Yuiko Katou (Aguu: Tensai Ningyou) are penning the script. Yumemakura originally...",
+          "link": "https://myanimelist.net/news/67553252?_location=rss",
+          "publishedOn": "2022-09-25T07:42:10.000Z",
+          "wordCount": 1515,
+          "title": "Baku Yumemakura's 'Onmyouji' Novel Gets Anime in 2023",
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664091670-da678a78a6b44fb0d1790f2fd8e7ce58.jpeg"
+        },
         {
           "id": "https://myanimelist.net/news/67552991?_location=rss",
           "author": null,
