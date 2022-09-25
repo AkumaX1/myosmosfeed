@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T06:08:42.925Z</updated>
+    <updated>2022-09-25T06:15:37.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Video Game 'Onimusha' Gets Anime Series]]></title>
+        <id>https://myanimelist.net/news/67552810?_location=rss</id>
+        <link href="https://myanimelist.net/news/67552810?_location=rss"/>
+        <updated>2022-09-25T06:12:07.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Studio: Sublimation Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha r...]]></summary>
+        <author>
+            <name>News - MyAnimeList</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manhwa 'Lookism' Gets Anime Series]]></title>
         <id>https://myanimelist.net/news/67552685?_location=rss</id>
