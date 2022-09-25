@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T16:12:18.324Z</updated>
+    <updated>2022-09-25T17:15:38.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just Jaeckin, Whose ‘Emmanuelle’ Was a Scandalous Success, Dies at 82]]></title>
+        <id>https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html"/>
+        <updated>2022-09-25T16:41:35.000Z</updated>
+        <summary type="html"><![CDATA[His first film, the story of a young woman’s erotic adventures, was initially blocked by French censors but became a runaway hit.]]></summary>
+        <author>
+            <name>Ed Shanahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iPhone 15 ‘Ultra’ could replace the Pro Max]]></title>
+        <id>https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c</id>
+        <link href="https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c"/>
+        <updated>2022-09-25T16:14:54.000Z</updated>
+        <summary type="html"><![CDATA[The iPhone 14 Pro and 14 Pro Max. | Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+Apple could introduce a new naming scheme when it releases the iPhone 15 next year, replacing the current “Pro Max” branding with “Ultra.” This is according to Apple tracker Mark Gurman, who also expects the iPhone 15 to come with some “bigger changes,” including USB-C.
+The Pro Max name first appeared with the iPhone 11 in 2019, and adding Ultra branding to the iPhone lineup wouldn’t be all that surprising. Apple already launched the new Watch Ultra with the moniker earlier this month, and added the name to its M1 Ultra processor. Apple also introduced a minor change to its naming scheme with the iPhone 14, bringing back the seemingly retired “Plus” name to the iPhone 14 Plus.
+The iPhone 14 isn’t even …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vesper gives the apocalypse a pretty face and an ugly heart]]></title>
         <id>https://www.polygon.com/reviews/23365454/vesper-review-2022</id>
@@ -279,6 +305,16 @@ A new key visual featuring the five leading ladies of the series has been publis
         <summary type="html"><![CDATA[Kipchoge ran the Berlin Marathon in a time of 2:01:09. Tigist Assefa shocked the women’s field by running her second marathon in 2:15:38, a course record.]]></summary>
         <author>
             <name>Talya Minsberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Italy’s Election, Politicians Use TikTok to Seek Votes]]></title>
+        <id>https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html"/>
+        <updated>2022-09-25T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday’s elections. Hilarity ensued.]]></summary>
+        <author>
+            <name>Gaia Pianigiani</name>
         </author>
     </entry>
     <entry>

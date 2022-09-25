@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c",
+          "author": null,
+          "description": "The iPhone 14 Pro and 14 Pro Max. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nApple could introduce a new naming scheme when it releases the iPhone 15 next year, replacing the current “Pro Max” branding with “Ultra.” This is according to Apple tracker Mark Gurman, who also expects the iPhone 15 to come with some “bigger changes,” including USB-C.\nThe Pro Max name first appeared with the iPhone 11 in 2019, and adding Ultra branding to the iPhone lineup wouldn’t be all that surprising. Apple already launched the new Watch Ultra with the moniker earlier this month, and added the name to its M1 Ultra processor. Apple also introduced a minor change to its naming scheme with the iPhone 14, bringing back the seemingly retired “Plus” name to the iPhone 14 Plus.\nThe iPhone 14 isn’t even …",
+          "link": "https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c",
+          "publishedOn": "2022-09-25T16:14:54.000Z",
+          "wordCount": 13678,
+          "title": "The iPhone 15 ‘Ultra’ could replace the Pro Max",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/fiIhMgxCSutHZTQgHwUrv3XJt2U=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020035/226270_iPHONE_14_PHO_akrales_0607.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nApple Pay Later is facing some “significant” setbacks that could delay its launch until next year, according to a report from Bloomberg’s Mark Gurman. The feature is Apple’s version of a buy now, pay later (BNPL) service, letting you make a payment through Apple Pay and then pay it back in four installments without interest.\nApple said its Pay Later feature would arrive with iOS 16 when it first announced the program at WWDC in June. But now that iOS 16 is out, Apple Pay Later hasn’t made an appearance, and the fine print on Apple’s iOS 16 page vaguely says it’s “coming in a future update.” As Gurman points out, Apple Pay Later is the only unreleased iOS 16 feature on the page that doesn’t include a timeframe for when we might expect its rol…",
@@ -156,6 +166,16 @@
           "publishedOn": "2022-09-25T12:08:44.000Z",
           "wordCount": null,
           "title": "Eliud Kipchoge Smashes His Own  World Record at the Berlin Marathon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html",
+          "author": "Gaia Pianigiani",
+          "description": "Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday’s elections. Hilarity ensued.",
+          "link": "https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html",
+          "publishedOn": "2022-09-25T12:00:04.000Z",
+          "wordCount": null,
+          "title": "In Italy’s Election, Politicians Use TikTok to Seek Votes",
           "imageUrl": null
         },
         {
@@ -839,6 +859,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html",
+          "author": "Ed Shanahan",
+          "description": "His first film, the story of a young woman’s erotic adventures, was initially blocked by French censors but became a runaway hit.",
+          "link": "https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html",
+          "publishedOn": "2022-09-25T16:41:35.000Z",
+          "wordCount": null,
+          "title": "Just Jaeckin, Whose ‘Emmanuelle’ Was a Scandalous Success, Dies at 82",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/25/theater/fc-bergman-bam-next-wave.html",
           "author": "Elisabeth Vincentelli",
