@@ -790,6 +790,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/theater/fc-bergman-bam-next-wave.html",
+          "author": "Elisabeth Vincentelli",
+          "description": "“300 el x 50 el x 30 el,” the Belgian troupe FC Bergman’s ambitious theatrical installation, will open BAM’s Next Wave festival with an elaborate set that recreates a rural settlement onstage.",
+          "link": "https://www.nytimes.com/2022/09/25/theater/fc-bergman-bam-next-wave.html",
+          "publishedOn": "2022-09-25T13:00:06.000Z",
+          "wordCount": 4375,
+          "title": "A Show With a Cryptic Cryptic Title but No Code to Crack",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/26/arts/25bam-bergman4/25bam-bergman4-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html",
           "author": "David Belcher",
           "description": "“Lady Macbeth of Mtsensk” by Dmitri Shostakovich, a tale of love and betrayal once banned in Soviet Russia, is returning to the Metropolitan Opera.",
@@ -1003,6 +1013,16 @@
       "feedUrl": "https://www.rollingstone.com/tv-movies/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234597770",
+          "author": "Brian Hiattt",
+          "description": "The Star Wars series' showrunner explains why it'll get \"bigger and bigger and bigger\" in future episodes, and much more",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-gilroy-andor-season-two-michael-clayton-sequel-1234597770/",
+          "publishedOn": "2022-09-25T13:00:00.000Z",
+          "wordCount": 8715,
+          "title": "‘What’s the Bodega Look Like on Coruscant?’: Tony Gilroy on Making ‘Andor’ – and Fighting Off a ‘Michael Clayton’ TV Series",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/4.PGM-098497_R.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234599560",
           "author": "Althea Legaspi",
@@ -1474,6 +1494,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/2022/9/25/23356692/most-competitive-senate-races-georgia-nevada-wisconsin",
+          "author": null,
+          "description": "Christina Animashaun/Vox; Getty Images\n    \n\n  \nGeorgia, Nevada, and Wisconsin are some of the closest contests in the country. \n The fight for control of the Senate is still extremely close. \nCurrently, projections favor Democrats keeping the Senate, but Republicans still have a viable path. FiveThirtyEight’s model gives Democrats a roughly seven in 10 chance to hold on to the upper chamber. \nTo expand their current 50-50 majority, Democrats would need to keep all of their existing seats and pick up at least one more, a challenge Republicans face if they want to retake the upper chamber as well. As of August, Democrats have just slightly surpassed Republicans in generic ballot polling.\n\n\n\nAccording to the Cook Political Report, there are 10 Senate seats likely to be in play, including fou…",
+          "link": "https://www.vox.com/2022/9/25/23356692/most-competitive-senate-races-georgia-nevada-wisconsin",
+          "publishedOn": "2022-09-25T12:52:03.000Z",
+          "wordCount": 4642,
+          "title": "The 10 races that could decide Senate control",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gAELJGKQ091exnwNyqJvwQO43cc=/0x0:1800x942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24028660/races_to_watch_board_3.jpg"
+        },
         {
           "id": "https://www.vox.com/even-better/23366918/unconventional-sleep-advice",
           "author": null,
@@ -2225,6 +2255,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher",
+          "author": null,
+          "description": "Photo: Netflix\n    \n\n  \nTudummmmmmmm\n This Saturday’s big Netflix event (called Tudum, for the record, like the noise that the Netflix bumper makes) was full of announcements for a wide gamut of movies and TV shows that currently populate the streaming service. The Witcher, Bridgerton, Outer Banks, You, Dead to Me, Chris Hemsworth’s Extraction 2, and more got dates, trailers, and/or cast announcements. Historical romance! Mysteries! Fantasy! Black comedies! Tudum is Netflix’s annual moment to flex, and if they proved anything, it’s that they’re in the works on options for literally every possible type of customer. \nSince the event lasted hours, we’ve rounded up the very best bits of news out of Tudum for your viewing pleasure. So click that skip intro button and scroll through. \nAlice in B…",
+          "link": "https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher",
+          "publishedOn": "2022-09-25T13:05:00.000Z",
+          "wordCount": 3081,
+          "title": "All the news and trailers out of Netflix’s giant Tudum fan event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/CE1OALfabHzYN_hnG9i3gL1pg9s=/0x80:2048x1152/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24052411/MV5BMjNjYWY0OGYtMDBlYi00YmI4LWExZmEtNGRlOTJiZmM0NjBlXkEyXkFqcGdeQXVyMjU0OTAwMDc_._V1_.jpg"
+        },
         {
           "id": "https://www.polygon.com/entertainment/23367506/witcher-new-season-netflix-date-blood-origin-premiere",
           "author": null,
@@ -2993,6 +3033,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/heroines-gather-in-new-key-visual-for-love-flops-tv-anime",
+          "author": "Paul Chapman",
+          "description": "Sci-fi rom-com series will broadcast in Japan and stream on HIDIVE beginning in October of 2022\n\n\nA new key visual featuring the five leading ladies of the series has been published for Love Flops (known in Japan as Renai Flops), an upcoming original science fiction / romantic comedy anime about a young man who ends up living alongside a harem of heroines. Hit the jump to learn more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/heroines-gather-in-new-key-visual-for-love-flops-tv-anime",
+          "publishedOn": "2022-09-25T12:19:44.000Z",
+          "wordCount": 5974,
+          "title": "Heroines Gather in New Key Visual for Love Flops TV Anime",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/64fb6bf59573a69d21239a70e4cbb91e1664107644_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/jujutsu-kaisen-season-2-tv-anime-shares-newest-teaser-visual",
           "author": "Daryl Harding",

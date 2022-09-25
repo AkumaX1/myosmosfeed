@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T12:17:52.464Z</updated>
+    <updated>2022-09-25T13:28:28.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All the news and trailers out of Netflix’s giant Tudum fan event]]></title>
+        <id>https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher</id>
+        <link href="https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher"/>
+        <updated>2022-09-25T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Netflix
+    
+
+  
+Tudummmmmmmm
+ This Saturday’s big Netflix event (called Tudum, for the record, like the noise that the Netflix bumper makes) was full of announcements for a wide gamut of movies and TV shows that currently populate the streaming service. The Witcher, Bridgerton, Outer Banks, You, Dead to Me, Chris Hemsworth’s Extraction 2, and more got dates, trailers, and/or cast announcements. Historical romance! Mysteries! Fantasy! Black comedies! Tudum is Netflix’s annual moment to flex, and if they proved anything, it’s that they’re in the works on options for literally every possible type of customer. 
+Since the event lasted hours, we’ve rounded up the very best bits of news out of Tudum for your viewing pleasure. So click that skip intro button and scroll through. 
+Alice in B…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Show With a Cryptic Cryptic Title but No Code to Crack]]></title>
+        <id>https://www.nytimes.com/2022/09/25/theater/fc-bergman-bam-next-wave.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/theater/fc-bergman-bam-next-wave.html"/>
+        <updated>2022-09-25T13:00:06.000Z</updated>
+        <summary type="html"><![CDATA[“300 el x 50 el x 30 el,” the Belgian troupe FC Bergman’s ambitious theatrical installation, will open BAM’s Next Wave festival with an elaborate set that recreates a rural settlement onstage.]]></summary>
+        <author>
+            <name>Elisabeth Vincentelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘What’s the Bodega Look Like on Coruscant?’: Tony Gilroy on Making ‘Andor’ – and Fighting Off a ‘Michael Clayton’ TV Series]]></title>
+        <id>https://www.rollingstone.com/?p=1234597770</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-features/tony-gilroy-andor-season-two-michael-clayton-sequel-1234597770/"/>
+        <updated>2022-09-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Star Wars series' showrunner explains why it'll get "bigger and bigger and bigger" in future episodes, and much more]]></summary>
+        <author>
+            <name>Brian Hiattt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 races that could decide Senate control]]></title>
+        <id>https://www.vox.com/2022/9/25/23356692/most-competitive-senate-races-georgia-nevada-wisconsin</id>
+        <link href="https://www.vox.com/2022/9/25/23356692/most-competitive-senate-races-georgia-nevada-wisconsin"/>
+        <updated>2022-09-25T12:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Christina Animashaun/Vox; Getty Images
+    
+
+  
+Georgia, Nevada, and Wisconsin are some of the closest contests in the country. 
+ The fight for control of the Senate is still extremely close. 
+Currently, projections favor Democrats keeping the Senate, but Republicans still have a viable path. FiveThirtyEight’s model gives Democrats a roughly seven in 10 chance to hold on to the upper chamber. 
+To expand their current 50-50 majority, Democrats would need to keep all of their existing seats and pick up at least one more, a challenge Republicans face if they want to retake the upper chamber as well. As of August, Democrats have just slightly surpassed Republicans in generic ballot polling.
+
+
+
+According to the Cook Political Report, there are 10 Senate seats likely to be in play, including fou…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroines Gather in New Key Visual for Love Flops TV Anime]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/heroines-gather-in-new-key-visual-for-love-flops-tv-anime</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/heroines-gather-in-new-key-visual-for-love-flops-tv-anime"/>
+        <updated>2022-09-25T12:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Sci-fi rom-com series will broadcast in Japan and stream on HIDIVE beginning in October of 2022
+
+
+A new key visual featuring the five leading ladies of the series has been published for Love Flops (known in Japan as Renai Flops), an upcoming original science fiction / romantic comedy anime about a young man who ends up living alongside a harem of heroines. Hit the jump to learn more.]]></summary>
+        <author>
+            <name>Paul Chapman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The sleep advice no one tells you]]></title>
         <id>https://www.vox.com/even-better/23366918/unconventional-sleep-advice</id>
