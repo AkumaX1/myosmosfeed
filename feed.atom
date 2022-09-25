@@ -2,16 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T08:12:54.765Z</updated>
+    <updated>2022-09-25T09:10:35.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stalin Once Banned This Opera in Russia, but Audiences Still Enjoy It]]></title>
+        <id>https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html"/>
+        <updated>2022-09-25T09:02:31.000Z</updated>
+        <summary type="html"><![CDATA[“Lady Macbeth of Mtsensk” by Dmitri Shostakovich, a tale of love and betrayal once banned in Soviet Russia, is returning to the Metropolitan Opera.]]></summary>
+        <author>
+            <name>David Belcher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Edge of Delhi, a Dynamic Cultural Scene Takes Shape]]></title>
+        <id>https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html"/>
+        <updated>2022-09-25T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Beneath an ancient tower, contemporary galleries, studios, bars and clubs are popping up in three neighborhoods, drawing art lovers, fashionistas and nightlife seekers.]]></summary>
+        <author>
+            <name>Finn-Olaf Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historical Novels With a Few Tricks Up Their Sleeves]]></title>
+        <id>https://www.nytimes.com/2022/09/25/books/review/new-historical-fiction.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/books/review/new-historical-fiction.html"/>
+        <updated>2022-09-25T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Special powers, avian obsession and visions of the future fuel these transporting and entertaining tales.]]></summary>
+        <author>
+            <name>Alida Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles Castronovo, an American Tenor, Is ‘at Home Everywhere’]]></title>
+        <id>https://www.nytimes.com/2022/09/25/arts/music/met-opera-charles-castronovo.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/arts/music/met-opera-charles-castronovo.html"/>
+        <updated>2022-09-25T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The Metropolitan Opera is just one of the stops in a busy itinerary for Charles Castronovo, a New York-born singer who performs around the world.]]></summary>
+        <author>
+            <name>Rebecca Schmid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘Stay True: A Memoir,” by Hua Hsu]]></title>
+        <id>https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html"/>
+        <updated>2022-09-25T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[In “Stay True,” Hua Hsu, a staff writer for The New Yorker, recounts his relationship with an Asian American college friend, whose search for identity quietly shaped the author’s own.]]></summary>
+        <author>
+            <name>Jennifer Szalai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: ‘Mr. Wilder and Me,’ by Jonathan Coe]]></title>
+        <id>https://www.nytimes.com/2022/09/25/books/review/jonathan-coe-wilder-and-me.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/books/review/jonathan-coe-wilder-and-me.html"/>
+        <updated>2022-09-25T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Coe’s novel “Mr. Wilder and Me” explores the late career of a legendary Hollywood director.]]></summary>
+        <author>
+            <name>Benjamin Markovits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Protests Surge to Dozens of Cities]]></title>
+        <id>https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html"/>
+        <updated>2022-09-25T08:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.]]></summary>
+        <author>
+            <name>Farnaz Fassihi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlazBlue Game Series Creator, Producer Toshimichi Mori Retires from Arc System Works]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190140</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/blazblue-game-series-creator-producer-toshimichi-mori-retires-from-arc-system-works/.190140"/>
+        <updated>2022-09-25T08:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Game designer has been at Arc System Works for 20 years]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exception Anime's Opening Video Features Theme Song by Ryuichi Sakamoto]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190145</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/exception-anime-opening-video-features-theme-song-by-ryuichi-sakamoto/.190145"/>
+        <updated>2022-09-25T08:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Opening video reveals additional staff]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html"/>
+        <updated>2022-09-25T08:15:11.000Z</updated>
+        <summary type="html"><![CDATA[The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.]]></summary>
+        <author>
+            <name>Michael Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Seven Deadly Sins: Grudge of Edinburgh Part I Film Streams New Trailer]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190151</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-25/the-seven-deadly-sins-grudge-of-edinburgh-part-i-film-streams-new-trailer/.190151"/>
+        <updated>2022-09-25T08:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Anime film debuts on Netflix in December]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Itou Junji: Maniac' Unveils Main Staff, Additional Cast, January 19 Premiere]]></title>
         <id>https://myanimelist.net/news/67553378?_location=rss</id>
         <link href="https://myanimelist.net/news/67553378?_location=rss"/>
         <updated>2022-09-25T08:02:33.000Z</updated>
-        <summary type="html"><![CDATA[The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no Heya (Quadruple Wall Room) Souichi Tsuji: Yuuji M...]]></summary>
+        <summary type="html"><![CDATA[The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac (Junji Ito Maniac: Japanese Tales of the Macabre) net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no...]]></summary>
         <author>
             <name>News - MyAnimeList</name>
         </author>
@@ -34,6 +144,16 @@
         <summary type="html"><![CDATA[Hiromu Arakawa, Ayumi Yamada design characters; Ryo Awasaki composes music]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Iranians Are Protesting Once Again]]></title>
+        <id>https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html"/>
+        <updated>2022-09-25T07:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Amid growing repression, a sickly economy and bleak prospects, the death of one young woman was all it took.]]></summary>
+        <author>
+            <name>Vivian Yee and Farnaz Fassihi</name>
         </author>
     </entry>
     <entry>
@@ -64,16 +184,6 @@
         <summary type="html"><![CDATA[Cast, staff return for final season about Retsuko running for office]]></summary>
         <author>
             <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t]]></title>
-        <id>https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html</id>
-        <link href="https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html"/>
-        <updated>2022-09-25T07:00:13.000Z</updated>
-        <summary type="html"><![CDATA[The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.]]></summary>
-        <author>
-            <name>Michael Powell</name>
         </author>
     </entry>
     <entry>
@@ -131,7 +241,7 @@
         <id>https://myanimelist.net/news/67552810?_location=rss</id>
         <link href="https://myanimelist.net/news/67552810?_location=rss"/>
         <updated>2022-09-25T06:12:07.000Z</updated>
-        <summary type="html"><![CDATA[The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Studio: Sublimation Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha r...]]></summary>
+        <summary type="html"><![CDATA[The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Studio: Sublimation Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha...]]></summary>
         <author>
             <name>News - MyAnimeList</name>
         </author>
@@ -284,16 +394,6 @@
         <summary type="html"><![CDATA[Residents, who pay some of the highest electricity rates in the United States, say they have little patience for the kind of outages they faced after Hurricane Maria.]]></summary>
         <author>
             <name>Laura N. Pérez Sánchez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Iranians Are Protesting Once Again]]></title>
-        <id>https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html</id>
-        <link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html"/>
-        <updated>2022-09-25T00:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Amid growing repression, a sickly economy and bleak prospects, the death of one young woman was all it took.]]></summary>
-        <author>
-            <name>Vivian Yee and Farnaz Fassihi</name>
         </author>
     </entry>
     <entry>
@@ -450,16 +550,6 @@ If you find yourself in quite a pickle and you feel like you could use a little 
 GTA 6 footage leaks, Revolut gets hacked, and Wipro fires 300 for “moonlighting” by Greg Kumparak originally published on TechCrunch]]></summary>
         <author>
             <name>Greg Kumparak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran Protests Surge to Dozens of Cities]]></title>
-        <id>https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html</id>
-        <link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html"/>
-        <updated>2022-09-24T20:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.]]></summary>
-        <author>
-            <name>Farnaz Fassihi and Jane Arraf</name>
         </author>
     </entry>
     <entry>
@@ -844,6 +934,16 @@ Since Digimon have existed, they've been pooping all over the place. And while t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Italy May Get a Leader With Post-Fascist Roots]]></title>
+        <id>https://www.nytimes.com/2022/09/24/world/europe/italy-election-fascism-meloni.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/world/europe/italy-election-fascism-meloni.html"/>
+        <updated>2022-09-24T16:15:55.000Z</updated>
+        <summary type="html"><![CDATA[With the hard-right candidate Giorgia Meloni ahead before Sunday’s election, Italy could get its first leader whose party traces its roots to the wreckage of Fascism.]]></summary>
+        <author>
+            <name>Jason Horowitz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How a Hospital Chain Used a Poor Neighborhood to Turn Huge Profits]]></title>
         <id>https://www.nytimes.com/2022/09/24/health/bon-secours-mercy-health-profit-poor-neighborhood.html</id>
         <link href="https://www.nytimes.com/2022/09/24/health/bon-secours-mercy-health-profit-poor-neighborhood.html"/>
@@ -945,26 +1045,6 @@ The first cour of SPY x FAMILY was a sheer banger when it debuted last spring s
         <summary type="html"><![CDATA[It’s not just about racism.]]></summary>
         <author>
             <name>Jamelle Bouie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’]]></title>
-        <id>https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html</id>
-        <link href="https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html"/>
-        <updated>2022-09-24T14:37:14.000Z</updated>
-        <summary type="html"><![CDATA[She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.]]></summary>
-        <author>
-            <name>Anita Gates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’]]></title>
-        <id>https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html</id>
-        <link href="https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html"/>
-        <updated>2022-09-24T14:37:14.000Z</updated>
-        <summary type="html"><![CDATA[She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.]]></summary>
-        <author>
-            <name>Anita Gates</name>
         </author>
     </entry>
     <entry>
@@ -1735,16 +1815,6 @@ The sweet visual novel ATRI -My Dear Moments- is commemorating its second annive
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Novel 'ATRI: My Dear Moments' Gets TV Anime]]></title>
-        <id>https://myanimelist.net/news/67542581?_location=rss</id>
-        <link href="https://myanimelist.net/news/67542581?_location=rss"/>
-        <updated>2022-09-24T04:50:34.000Z</updated>
-        <summary type="html"><![CDATA[A television anime adaptation of the ATRI: My Dear Moments visual novel was announced at the Aniplex Online Fest 2022 event on Saturday. Production company Aniplex simultaneously opened an official website, revealing the main staff, a teaser visual (pictured) and teaser promo. Makoto Katou (Yagate Kimi ni Naru) is directing the anime at animation studio TROYCA. Jukki Hanada (Sora yori mo Tooi Basho) is in charge of the series composition. Developed by Frontwing and Makura, Aniplex.EXE published...]]></summary>
-        <author>
-            <name>News - MyAnimeList</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TRIGUN STAMPEDE Loads Up Another Round of Stunning Anime Concept Art]]></title>
         <id>https://www.crunchyroll.com/anime-news/2022/09/23/trigun-stampede-loads-up-another-round-of-stunning-anime-concept-art</id>
         <link href="https://www.crunchyroll.com/anime-news/2022/09/23/trigun-stampede-loads-up-another-round-of-stunning-anime-concept-art"/>
@@ -1798,16 +1868,6 @@ Studio Orange and artist Kouji Tajima continue to take us on a ride through the 
         <summary type="html"><![CDATA[Oscar- and Emmy-winning actress created one of cinema's greatest villains alongside TV roles in 'Star Trek: Deep Space Nine' and numerous other shows]]></summary>
         <author>
             <name>Jason Newman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tasmania Races to Save Pilot Whales After Hundreds Are Stranded]]></title>
-        <id>https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html"/>
-        <updated>2022-09-24T02:34:13.000Z</updated>
-        <summary type="html"><![CDATA[After 230 pilot whales were stranded on the western coast of Tasmania, a scramble started almost immediately to save as many as possible.]]></summary>
-        <author>
-            <name>Natasha Frost</name>
         </author>
     </entry>
     <entry>
@@ -2014,16 +2074,6 @@ We’ve got the action thriller Lou starring Allison Janney (The West Wing) and 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Irwin Glusker, 98, Dies; Gave American Heritage Its Distinctive Look]]></title>
-        <id>https://www.nytimes.com/2022/09/23/business/media/irwin-glusker-dead.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/business/media/irwin-glusker-dead.html"/>
-        <updated>2022-09-23T22:14:07.000Z</updated>
-        <summary type="html"><![CDATA[A veteran art director, he was best known for his work at the lavish magazine of U.S. history that became a fixture in dens across the country.]]></summary>
-        <author>
-            <name>Ed Shanahan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Daily Crunch: London-based spatial computing startup Hadean closes $30 million Series A]]></title>
         <id>https://techcrunch.com/?p=2406699</id>
         <link href="https://techcrunch.com/2022/09/23/daily-crunch-london-based-spatial-computing-startup-hadean-closes-30-million-series-a/"/>
@@ -2153,16 +2203,6 @@ The ‘ideal runway’ is a myth, isn’t it? by Natasha Mascarenhas originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love and Death in Paris, With an Assist From Star-Crossed Verona]]></title>
-        <id>https://www.nytimes.com/2022/09/23/arts/dance/love-and-death-in-paris-with-an-assist-from-star-crossed-verona.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/arts/dance/love-and-death-in-paris-with-an-assist-from-star-crossed-verona.html"/>
-        <updated>2022-09-23T20:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Benjamin Millepied’s L.A. Dance Project presents a “Romeo and Juliet” with same-sex lovers. And at Paris Opera Ballet, Alan Lucien Oyen goes Bauschian.]]></summary>
-        <author>
-            <name>Roslyn Sulcas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TikTok’s Ugly ‘NPC In Real Life’ Trend Reflects The Worst Side Of Growing Up Online]]></title>
         <id>1849575169</id>
         <link href="https://kotaku.com/tiktok-npc-in-real-life-trend-twitter-gen-z-video-games-1849575169"/>
@@ -2192,16 +2232,6 @@ Mighty Capital’s thesis is that the best product wins — even more so in a do
         <summary type="html"><![CDATA[Read more...]]></summary>
         <author>
             <name>Eric Schulkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irodori Comics Licenses I Fell for My Friend's Older Sister + My Older Sister's Friend is Annoying, Midnight Rendezvous Manga]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190075</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/irodori-comics-licenses-i-fell-for-my-friend-older-sister-my-older-sister-friend-is-annoying-/.190075"/>
-        <updated>2022-09-23T19:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Both manga launch digitally in October]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -2451,16 +2481,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragon Quest Treasures Game Streams Gameplay Overview Trailer]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190068</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/dragon-quest-treasures-game-streams-gameplay-overview-trailer/.190068"/>
-        <updated>2022-09-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dragon Quest XI spinoff ships on Switch on December 9]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RECS: TenZ and Kyedae Share Their Top 10 Anime (and a Special Announcement)]]></title>
         <id>https://www.crunchyroll.com/anime-feature/2022/09/23-1/recs-tenz-and-kyedae-share-their-top-10-anime-and-a-special-announcement</id>
         <link href="https://www.crunchyroll.com/anime-feature/2022/09/23-1/recs-tenz-and-kyedae-share-their-top-10-anime-and-a-special-announcement"/>
@@ -2482,16 +2502,6 @@ Esports pro TenZ and Twitch streamer Kyedae  have made a name for themselves on
 Read more...]]></summary>
         <author>
             <name>Levi Winslow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Dressed Up in Saran Wrap and Ready to Dance]]></title>
-        <id>https://www.nytimes.com/2022/09/23/arts/dance/review-robyn-orlin-albert-ibokwe-khoza.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/arts/dance/review-robyn-orlin-albert-ibokwe-khoza.html"/>
-        <updated>2022-09-23T17:35:30.000Z</updated>
-        <summary type="html"><![CDATA[The South African choreographer Robyn Orlin mixes culture and politics with the help of the stunning performance artist Albert Silindokuhle Ibokwe Khoza.]]></summary>
-        <author>
-            <name>Gia Kourlas</name>
         </author>
     </entry>
     <entry>
@@ -2638,16 +2648,6 @@ Since its founding in 2016, COVER Corp and hololive Production have become synon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legend of Mana: The Teardrop Crystal Anime Streams Opening Theme Song Video]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190073</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/legend-of-mana-the-teardrop-crystal-anime-streams-opening-theme-song-video/.190073"/>
-        <updated>2022-09-23T16:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Saori Hayami performs "Tear of Will"]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feel the Byrne: 1980s Fashion Is Soft Peacocking Done Right]]></title>
         <id>3adp3k</id>
         <link href="https://www.vice.com/en_us/article/3adp3k/80s-fashion"/>
@@ -2764,16 +2764,6 @@ Next year, anime's greatest thieves are crossing paths for the first time! Lupi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bocchi the Rock! Anime's Character Promo Video Highlights Nijika Ijichi]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190072</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/bocchi-the-rock-anime-character-promo-video-highlights-nijika-ijichi/.190072"/>
-        <updated>2022-09-23T15:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Sayumi Suzushiro plays Nijika in anime premiering on October 8]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BLUELOCK TV Anime Heads to the Field in New Video Previewing Ending Theme]]></title>
         <id>https://www.crunchyroll.com/anime-news/2022/09/23-1/bluelock-tv-anime-heads-to-the-field-in-new-video-previewing-ending-theme</id>
         <link href="https://www.crunchyroll.com/anime-news/2022/09/23-1/bluelock-tv-anime-heads-to-the-field-in-new-video-previewing-ending-theme"/>
@@ -2843,26 +2833,6 @@ Although the Splatoon series is primarily known for being a competitive online s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Lock Anime's Intro Video Previews Ending Theme Song]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190071</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/blue-lock-anime-intro-video-previews-ending-theme-song/.190071"/>
-        <updated>2022-09-23T14:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Anime will air for 6 consecutive months with 24 episodes]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hilary Mantel Books, Reviews and Interviews: A Reading Guide]]></title>
-        <id>https://www.nytimes.com/2022/09/23/books/hilary-mantel-books.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/books/hilary-mantel-books.html"/>
-        <updated>2022-09-23T14:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Mantel’s body of work spanned memoir, short stories, essays — and, of course, historical fiction. Here’s a guide to her writing.]]></summary>
-        <author>
-            <name>The New York Times Books Staff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Legend of Mana -The Teardrop Crystal- Anime Previews OP Movie]]></title>
         <id>https://www.crunchyroll.com/anime-news/2022/09/23-1/legend-of-mana-the-teardrop-crystal-anime-previews-op-movie</id>
         <link href="https://www.crunchyroll.com/anime-news/2022/09/23-1/legend-of-mana-the-teardrop-crystal-anime-previews-op-movie"/>
@@ -2897,26 +2867,6 @@ Read more...]]></summary>
 Before even getting a hint on when the next season of Masamune-kun’s Revenge TV anime will release, the series has released a bunch of new character visuals of its cast, with two more being released today featuring Kojuro Shuri and Kanetsugu Gaso's new Masamune-kun’s Revenge R new visual styles. Check out the designs after the jump!]]></summary>
         <author>
             <name>Daryl Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvey Awards to Induct New Hall of Fame Members]]></title>
-        <id>https://www.nytimes.com/2022/09/23/arts/harvey-awards-hall-of-fame-neil-gaiman.html</id>
-        <link href="https://www.nytimes.com/2022/09/23/arts/harvey-awards-hall-of-fame-neil-gaiman.html"/>
-        <updated>2022-09-23T13:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Neil Gaiman, Marjorie Henderson Buell, Gilbert Shelton and Roy Thomas will be honored for their comic book work at New York Comic Con on Oct. 7.]]></summary>
-        <author>
-            <name>George Gene Gustines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Title Search: How Well Do You Know Banned Books?]]></title>
-        <id>https://www.nytimes.com/interactive/2022/09/23/books/review/banned-books-quiz.html</id>
-        <link href="https://www.nytimes.com/interactive/2022/09/23/books/review/banned-books-quiz.html"/>
-        <updated>2022-09-23T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Can you find the titles of 10 books frequently challenged or removed from schools and libraries around the country?]]></summary>
-        <author>
-            <name>NYT &gt; Books</name>
         </author>
     </entry>
     <entry>
@@ -2987,16 +2937,6 @@ A new character trailer that introduces Nijika Ijichi, the extroverted drummer o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Naruto Anime Leaves Netflix in October]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190054</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/naruto-anime-leaves-netflix-in-october/.190054"/>
-        <updated>2022-09-23T11:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Bleach the Movie: Fade to Black, Bleach the Movie: Hell Verse also leave on October 14]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How the polls might be wrong (again) this year]]></title>
         <id>https://www.vox.com/2022/9/23/23353634/polls-bias-democrats-midterms</id>
         <link href="https://www.vox.com/2022/9/23/23353634/polls-bias-democrats-midterms"/>
@@ -3052,16 +2992,6 @@ At an event today in Ikebukuro for the Fafner in the Azure series, it was announ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sōkyū no Fafner Behind the Line Anime's Video Announces January 20 Opening]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190060</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/sokyu-no-fafner-behind-the-line-anime-video-announces-january-20-opening/.190060"/>
-        <updated>2022-09-23T08:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Spinoff to debut in advance screenings in theaters]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Don’t Worry Darling’ Is Finally Here, But When Can You Stream the Florence Pugh and Harry Styles Movie Online?]]></title>
         <id>https://www.rollingstone.com/?p=1234598149</id>
         <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/watch-dont-worry-darling-online-harry-styles-florence-pugh-olivia-wilde-1234598149/"/>
@@ -3082,16 +3012,6 @@ At an event today in Ikebukuro for the Fafner in the Azure series, it was announ
 We have some more exciting Mitrasphere updates coming your way. As we continue to look towards building a better world for all, we will be implementing new changes to ease you on your journey. Read on for more.]]></summary>
         <author>
             <name>Guest Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L.A.'s Animation Is Film Fest to Screen Gold Kingdom and Water Kingdom, Oni: Thunder God's Tale]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190048</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-23/l.a.s-animation-is-film-fest-to-screen-gold-kingdom-and-water-kingdom-oni-thunder-god-tale/.190048"/>
-        <updated>2022-09-23T04:46:54.000Z</updated>
-        <summary type="html"><![CDATA["Summer Ghost" anime short also screens during festival]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -3127,16 +3047,6 @@ KADOKAWA's official anime YouTube channel has started steaming a music video for
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation VR2's Video Highlights Features, Compatible Games]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.190047</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-22/playstation-vr2-video-highlights-features-compatible-games/.190047"/>
-        <updated>2022-09-23T02:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Virtual reality peripherals launch in early 2023]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -3221,16 +3131,6 @@ The official website for the forthcoming stage play adaptation of Kei Sazane's r
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women in Comics Event Hosts Rica Takashima in NYC on October 29]]></title>
-        <id>https://www.animenewsnetwork.com/cms/.189971</id>
-        <link href="https://www.animenewsnetwork.com/news/2022-09-22/women-in-comics-event-hosts-rica-takashima-in-nyc-on-october-29/.189971"/>
-        <updated>2022-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bronx Library Center hosts event]]></summary>
-        <author>
-            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -3543,16 +3443,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Urusei Yatsura' Announces Additional Cast]]></title>
-        <id>https://myanimelist.net/news/67529643?_location=rss</id>
-        <link href="https://myanimelist.net/news/67529643?_location=rss"/>
-        <updated>2022-09-22T15:56:54.000Z</updated>
-        <summary type="html"><![CDATA[The official website of the new television anime adaptation of Rumiko Takahashi's Urusei Yatsura (Those Obnoxious Aliens) manga announced three additional cast on Thursday. The anime is scheduled to air on October 14 at 12:55 a.m. on Fuji TV's noitaminA block. Cast Onsen-Mark: Kenta Miyake (Boku no Hero Academia) NEW Tsubame Ozuno: Takahiro Sakurai (Mob Psycho 100) NEW Ryoko Mendo: Marina Inoue (Shingeki no Kyojin) NEW Kurama: Nana Mizuki (Naruto) Benten: Shizuka Ishigami (Shokugeki n...]]></summary>
-        <author>
-            <name>News - MyAnimeList</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Splatoon 3's Katana Turns My Squid Into A Ninja, And It Rules]]></title>
         <id>1849568329</id>
         <link href="https://kotaku.com/splatoon-3-switch-new-splatana-sword-katana-weapon-1849568329"/>
@@ -3640,16 +3530,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Hyouken no Majutsushi ga Sekai wo Suberu' Reveals Main Cast, Staff, Teaser Promo]]></title>
-        <id>https://myanimelist.net/news/67527972?_location=rss</id>
-        <link href="https://myanimelist.net/news/67527972?_location=rss"/>
-        <updated>2022-09-22T11:27:11.000Z</updated>
-        <summary type="html"><![CDATA[The official website of the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru (The Iceblade Sorcerer Shall Rule the World) light novel revealed the main cast, staff, a teaser visual (pictured), and a teaser promotional video on Thursday. The anime series will premiere in January 2023 on TBS and BS11. Cast Ray White: Junya Enoki (Hachi-nan tte, Sore wa Nai deshou!) Amelia Ro...]]></summary>
-        <author>
-            <name>News - MyAnimeList</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is the Hyperloop Doomed?]]></title>
         <id>https://www.nytimes.com/2022/09/22/business/hyperloop-transit-virgin.html</id>
         <link href="https://www.nytimes.com/2022/09/22/business/hyperloop-transit-virgin.html"/>
@@ -3657,16 +3537,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Though some efforts continue, the once-promising technology has run up against significant challenges — most notably creating an entirely new transit infrastructure.]]></summary>
         <author>
             <name>Eric A. Taub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Lupin III vs. Cat's Eye' Crossover Anime Announced for 2023]]></title>
-        <id>https://myanimelist.net/news/67526387?_location=rss</id>
-        <link href="https://myanimelist.net/news/67526387?_location=rss"/>
-        <updated>2022-09-22T06:25:33.000Z</updated>
-        <summary type="html"><![CDATA[TMS Entertainment opened an official website for a crossover anime titled Lupin III vs. Cat's Eye (Lupin the 3rd vs. Cat's Eye) on Thursday, revealing the production staff, lead cast, a key visual (pictured), and the first promotional video. The anime will debut worldwide on Amazon's Prime Video platform in 2023. Kanichi Kurita and Keiko Toda are reprising their roles as Lupin III and Hitomi Kisugi from the original anime. The anime is celebrating both the 50th anniversary of Lupi...]]></summary>
-        <author>
-            <name>News - MyAnimeList</name>
         </author>
     </entry>
     <entry>
@@ -3783,16 +3653,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Sisi Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['The Legend of Heroes: Sen no Kiseki Northern War' Unveils Main Cast, Staff, First Promo]]></title>
-        <id>https://myanimelist.net/news/67521616?_location=rss</id>
-        <link href="https://myanimelist.net/news/67521616?_location=rss"/>
-        <updated>2022-09-21T17:05:06.000Z</updated>
-        <summary type="html"><![CDATA[The official website of the television anime adaptation of Nihon Falcom's Eiyuu Densetsu: Sen no Kiseki (The Legend of the Heroes: Trails of Cold Steel) role-playing game series unveiled the main cast, staff, a promotional video and key visual (pictured) on Wednesday. The anime is scheduled to broadcast in 2023. Cast Lavian Winslet: Makoto Koichi (Lycoris Recoil) Martin S. Robinson: Yuuichi Nakamura (Jujutsu Kaisen) Iselia Frost: Sarah Emi Bridcutt (Date A Live II) Talion Drake: Yuuki Ono (...]]></summary>
-        <author>
-            <name>News - MyAnimeList</name>
         </author>
     </entry>
     <entry>

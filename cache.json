@@ -109,6 +109,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html",
+          "author": "Farnaz Fassihi",
+          "description": "Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.",
+          "link": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html",
+          "publishedOn": "2022-09-25T08:57:40.000Z",
+          "wordCount": null,
+          "title": "Iran Protests Surge to Dozens of Cities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html",
+          "author": "Vivian Yee and Farnaz Fassihi",
+          "description": "Amid growing repression, a sickly economy and bleak prospects, the death of one young woman was all it took.",
+          "link": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html",
+          "publishedOn": "2022-09-25T07:50:47.000Z",
+          "wordCount": null,
+          "title": "Why Iranians Are Protesting Once Again",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/world/europe/ukraine-south-kherson-russia.html",
           "author": "Jeffrey Gettleman",
           "description": "The offensive in the south was the most highly anticipated military action of the summer. Ukraine is making gains, but the fighting is grinding, grueling and steep in casualties.",
@@ -146,16 +166,6 @@
           "publishedOn": "2022-09-25T00:31:22.000Z",
           "wordCount": null,
           "title": "Puerto Ricans Fear Extended Blackout After Hurricane Fiona",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html",
-          "author": "Vivian Yee and Farnaz Fassihi",
-          "description": "Amid growing repression, a sickly economy and bleak prospects, the death of one young woman was all it took.",
-          "link": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html",
-          "publishedOn": "2022-09-25T00:29:46.000Z",
-          "wordCount": null,
-          "title": "Why Iranians Are Protesting Once Again",
           "imageUrl": null
         },
         {
@@ -229,16 +239,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html",
-          "author": "Farnaz Fassihi and Jane Arraf",
-          "description": "Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.",
-          "link": "https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html",
-          "publishedOn": "2022-09-24T20:07:43.000Z",
-          "wordCount": null,
-          "title": "Iran Protests Surge to Dozens of Cities",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html",
           "author": "Jackie Frere and Isaac Aronow",
           "description": "Get started solving the Mini, Monday and Tuesday puzzles.",
@@ -246,6 +246,16 @@
           "publishedOn": "2022-09-24T16:45:39.000Z",
           "wordCount": null,
           "title": "How to Solve Beginner Crosswords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/world/europe/italy-election-fascism-meloni.html",
+          "author": "Jason Horowitz",
+          "description": "With the hard-right candidate Giorgia Meloni ahead before Sunday’s election, Italy could get its first leader whose party traces its roots to the wreckage of Fascism.",
+          "link": "https://www.nytimes.com/2022/09/24/world/europe/italy-election-fascism-meloni.html",
+          "publishedOn": "2022-09-24T16:15:55.000Z",
+          "wordCount": null,
+          "title": "Italy May Get a Leader With Post-Fascist Roots",
           "imageUrl": null
         },
         {
@@ -289,16 +299,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
-          "author": "Anita Gates",
-          "description": "She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.",
-          "link": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
-          "publishedOn": "2022-09-24T14:37:14.000Z",
-          "wordCount": null,
-          "title": "Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nytimes.com/2022/09/24/opinion/putin-trump-ukraine.html",
           "author": "Maureen Dowd",
           "description": "Putin and Trump, dragging the world down with them.",
@@ -326,16 +326,6 @@
           "publishedOn": "2022-09-24T10:00:01.000Z",
           "wordCount": null,
           "title": "A Year When Everything Is Going Right for Western Canada’s Farmers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html",
-          "author": "Natasha Frost",
-          "description": "After 230 pilot whales were stranded on the western coast of Tasmania, a scramble started almost immediately to save as many as possible.",
-          "link": "https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html",
-          "publishedOn": "2022-09-24T02:34:13.000Z",
-          "wordCount": null,
-          "title": "Tasmania Races to Save Pilot Whales After Hundreds Are Stranded",
           "imageUrl": null
         },
         {
@@ -533,6 +523,36 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/books/review/new-historical-fiction.html",
+          "author": "Alida Becker",
+          "description": "Special powers, avian obsession and visions of the future fuel these transporting and entertaining tales.",
+          "link": "https://www.nytimes.com/2022/09/25/books/review/new-historical-fiction.html",
+          "publishedOn": "2022-09-25T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Historical Novels With a Few Tricks Up Their Sleeves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html",
+          "author": "Jennifer Szalai",
+          "description": "In “Stay True,” Hua Hsu, a staff writer for The New Yorker, recounts his relationship with an Asian American college friend, whose search for identity quietly shaped the author’s own.",
+          "link": "https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html",
+          "publishedOn": "2022-09-25T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Stay True: A Memoir,” by Hua Hsu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/books/review/jonathan-coe-wilder-and-me.html",
+          "author": "Benjamin Markovits",
+          "description": "Jonathan Coe’s novel “Mr. Wilder and Me” explores the late career of a legendary Hollywood director.",
+          "link": "https://www.nytimes.com/2022/09/25/books/review/jonathan-coe-wilder-and-me.html",
+          "publishedOn": "2022-09-25T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Review: ‘Mr. Wilder and Me,’ by Jonathan Coe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html",
           "author": "Lauren Christensen",
           "description": "Confronting sudden loss in her own life, Namwali Serpell has written “The Furrows,” a disquieting portrait of the human mind, warped by grief.",
@@ -601,36 +621,6 @@
           "wordCount": null,
           "title": "New Crime Fiction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/books/hilary-mantel-books.html",
-          "author": "The New York Times Books Staff",
-          "description": "Mantel’s body of work spanned memoir, short stories, essays — and, of course, historical fiction. Here’s a guide to her writing.",
-          "link": "https://www.nytimes.com/2022/09/23/books/hilary-mantel-books.html",
-          "publishedOn": "2022-09-23T14:23:34.000Z",
-          "wordCount": null,
-          "title": "Hilary Mantel Books, Reviews and Interviews: A Reading Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/arts/harvey-awards-hall-of-fame-neil-gaiman.html",
-          "author": "George Gene Gustines",
-          "description": "Neil Gaiman, Marjorie Henderson Buell, Gilbert Shelton and Roy Thomas will be honored for their comic book work at New York Comic Con on Oct. 7.",
-          "link": "https://www.nytimes.com/2022/09/23/arts/harvey-awards-hall-of-fame-neil-gaiman.html",
-          "publishedOn": "2022-09-23T13:00:07.000Z",
-          "wordCount": null,
-          "title": "Harvey Awards to Induct New Hall of Fame Members",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/interactive/2022/09/23/books/review/banned-books-quiz.html",
-          "author": null,
-          "description": "Can you find the titles of 10 books frequently challenged or removed from schools and libraries around the country?",
-          "link": "https://www.nytimes.com/interactive/2022/09/23/books/review/banned-books-quiz.html",
-          "publishedOn": "2022-09-23T13:00:05.000Z",
-          "wordCount": 2825,
-          "title": "Title Search: How Well Do You Know Banned Books?",
-          "imageUrl": "https://static01.nyt.com/images/2022/09/21/books/review/00TBR-QUIZ-PROMO/00TBR-QUIZ-PROMO-facebookJumbo.png"
         }
       ]
     },
@@ -640,11 +630,41 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html",
+          "author": "David Belcher",
+          "description": "“Lady Macbeth of Mtsensk” by Dmitri Shostakovich, a tale of love and betrayal once banned in Soviet Russia, is returning to the Metropolitan Opera.",
+          "link": "https://www.nytimes.com/2022/09/25/arts/music/stalin-lady-macbeth-mtsensk-shostakovich.html",
+          "publishedOn": "2022-09-25T09:02:31.000Z",
+          "wordCount": null,
+          "title": "Stalin Once Banned This Opera in Russia, but Audiences Still Enjoy It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html",
+          "author": "Finn-Olaf Jones",
+          "description": "Beneath an ancient tower, contemporary galleries, studios, bars and clubs are popping up in three neighborhoods, drawing art lovers, fashionistas and nightlife seekers.",
+          "link": "https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html",
+          "publishedOn": "2022-09-25T09:00:28.000Z",
+          "wordCount": null,
+          "title": "On the Edge of Delhi, a Dynamic Cultural Scene Takes Shape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/arts/music/met-opera-charles-castronovo.html",
+          "author": "Rebecca Schmid",
+          "description": "The Metropolitan Opera is just one of the stops in a busy itinerary for Charles Castronovo, a New York-born singer who performs around the world.",
+          "link": "https://www.nytimes.com/2022/09/25/arts/music/met-opera-charles-castronovo.html",
+          "publishedOn": "2022-09-25T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Charles Castronovo, an American Tenor, Is ‘at Home Everywhere’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
           "author": "Michael Powell",
           "description": "The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.",
           "link": "https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html",
-          "publishedOn": "2022-09-25T07:00:13.000Z",
+          "publishedOn": "2022-09-25T08:15:11.000Z",
           "wordCount": null,
           "title": "Sundance Liked Her Documentary, ‘Jihad Rehab,’ Until Muslim Critics Didn’t",
           "imageUrl": null
@@ -690,16 +710,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
-          "author": "Anita Gates",
-          "description": "She was largely unknown to the public when she was cast as what the American Film Institute called one of cinema’s most memorable villains.",
-          "link": "https://www.nytimes.com/2022/09/24/movies/louise-fletcher-dead.html",
-          "publishedOn": "2022-09-24T14:37:14.000Z",
-          "wordCount": null,
-          "title": "Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html",
           "author": "Lauren Christensen",
           "description": "Confronting sudden loss in her own life, Namwali Serpell has written “The Furrows,” a disquieting portrait of the human mind, warped by grief.",
@@ -718,36 +728,6 @@
           "wordCount": null,
           "title": "Field Sketching in Alaska",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/business/media/irwin-glusker-dead.html",
-          "author": "Ed Shanahan",
-          "description": "A veteran art director, he was best known for his work at the lavish magazine of U.S. history that became a fixture in dens across the country.",
-          "link": "https://www.nytimes.com/2022/09/23/business/media/irwin-glusker-dead.html",
-          "publishedOn": "2022-09-23T22:14:07.000Z",
-          "wordCount": null,
-          "title": "Irwin Glusker, 98, Dies; Gave American Heritage Its Distinctive Look",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/arts/dance/love-and-death-in-paris-with-an-assist-from-star-crossed-verona.html",
-          "author": "Roslyn Sulcas",
-          "description": "Benjamin Millepied’s L.A. Dance Project presents a “Romeo and Juliet” with same-sex lovers. And at Paris Opera Ballet, Alan Lucien Oyen goes Bauschian.",
-          "link": "https://www.nytimes.com/2022/09/23/arts/dance/love-and-death-in-paris-with-an-assist-from-star-crossed-verona.html",
-          "publishedOn": "2022-09-23T20:26:02.000Z",
-          "wordCount": null,
-          "title": "Love and Death in Paris, With an Assist From Star-Crossed Verona",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/23/arts/dance/review-robyn-orlin-albert-ibokwe-khoza.html",
-          "author": "Gia Kourlas",
-          "description": "The South African choreographer Robyn Orlin mixes culture and politics with the help of the stunning performance artist Albert Silindokuhle Ibokwe Khoza.",
-          "link": "https://www.nytimes.com/2022/09/23/arts/dance/review-robyn-orlin-albert-ibokwe-khoza.html",
-          "publishedOn": "2022-09-23T17:35:30.000Z",
-          "wordCount": null,
-          "title": "Review: Dressed Up in Saran Wrap and Ready to Dance",
-          "imageUrl": null
         }
       ]
     },
@@ -762,7 +742,7 @@
           "description": "John Legend makes a surprise appearance and Usher also performs from Accra, Ghana",
           "link": "https://www.rollingstone.com/music/music-news/sza-performs-all-the-stars-broken-clocks-global-citizen-festival-1234599575/",
           "publishedOn": "2022-09-25T03:02:00.000Z",
-          "wordCount": 7056,
+          "wordCount": 7052,
           "title": "Watch SZA Perform ‘All the Stars,’ ‘Broken Clocks’ at Global Citizen Festival",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/SZA-1.jpeg?w=1024"
         },
@@ -772,7 +752,7 @@
           "description": "“I’m having a very difficult time breathing, and there’s like a stabbing pain whenever I breathe or move,” musician says",
           "link": "https://www.rollingstone.com/music/music-news/post-malone-hospitalized-postpones-boston-concert-1234599571/",
           "publishedOn": "2022-09-25T01:18:39.000Z",
-          "wordCount": 7012,
+          "wordCount": 7008,
           "title": "Post Malone Hospitalized, Postpones Boston Show",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/PostMalone-1.jpeg?w=1024"
         },
@@ -782,7 +762,7 @@
           "description": "Ahead of the release of his new record and Netflix series 'Entergalactic,' the musician opens up about his hopes for the future",
           "link": "https://www.rollingstone.com/music/music-features/kid-cudi-interview-new-album-1234597570/",
           "publishedOn": "2022-09-24T17:01:24.000Z",
-          "wordCount": 8930,
+          "wordCount": 8926,
           "title": "‘I’m Stronger Than I Think’: Kid Cudi’s Tenth Album Marks a New Era",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/kid-cudi-norman-jean-roy.jpg?w=1024"
         },
@@ -792,7 +772,7 @@
           "description": "Beck (debuting new song \"Possession Island\"), Tame Impala, Schoolboy Q, Thundercat, Del the Funky Homosapien and De La Soul all show up at the Forum",
           "link": "https://www.rollingstone.com/music/music-news/gorillaz-inglewood-concert-beck-tame-impala-del-1234599473/",
           "publishedOn": "2022-09-24T16:01:43.000Z",
-          "wordCount": 7049,
+          "wordCount": 7045,
           "title": "Gorillaz Brought Out All the Guests at Star-Studded Inglewood Concert",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1426188071.jpg?w=1024"
         },
@@ -802,7 +782,7 @@
           "description": "Producer/songwriter goes deep for the first time on the making of Styles' latest LP, Maggie Rogers' Surrender, and more",
           "link": "https://www.rollingstone.com/music/music-features/making-of-harrys-house-kid-harpoon-harry-styles-maggie-rogers-interview-1234597759/",
           "publishedOn": "2022-09-24T15:38:58.000Z",
-          "wordCount": 8155,
+          "wordCount": 8152,
           "title": "‘Now, Guitars Are Everything’: Kid Harpoon on Making ‘Harry’s House’ and Changing the Sound of Pop",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/KH-Press-Image-1.jpeg?w=1024"
         },
@@ -812,7 +792,7 @@
           "description": "\"The Creator Has a Master Plan\" legend was sideman on John Coltrane's landmark avant-garde journeys before embarking on a decades-long career that concluded with 2021's acclaimed Promises",
           "link": "https://www.rollingstone.com/music/music-news/pharoah-sanders-jazz-saxophonist-dead-obit-1234599430/",
           "publishedOn": "2022-09-24T14:17:45.000Z",
-          "wordCount": 7354,
+          "wordCount": 7350,
           "title": "Pharoah Sanders, Saxophonist Who Pushed Jazz Toward the Spiritual, Dead at 81",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-111735291.jpg?w=1024"
         },
@@ -822,7 +802,7 @@
           "description": "Billy Corgan and company perform Atum single before embarking on arena tour with Jane's Addiction next week",
           "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-beguiled-fallon-1234599427/",
           "publishedOn": "2022-09-24T13:07:42.000Z",
-          "wordCount": 6969,
+          "wordCount": 6965,
           "title": "See Smashing Pumpkins Debut New Single ‘Beguiled’ on ‘Fallon’",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1243458965.jpg?w=1024"
         },
@@ -832,7 +812,7 @@
           "description": "Biden presents musician with a National Humanities Medal at \"A Night When Hope and History Rhyme\"",
           "link": "https://www.rollingstone.com/music/music-news/elton-john-white-house-concert-1234598754/",
           "publishedOn": "2022-09-24T03:16:03.000Z",
-          "wordCount": 7319,
+          "wordCount": 7315,
           "title": "Elton John Performs for White House, Gets Surprise Medal From President Biden",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Official-White-House-Photo-by-Adam-Schultz.jpeg?w=1024"
         },
@@ -842,7 +822,7 @@
           "description": "His sixth studio album combines reflective lyrics with a wide-ranging sound that moves tradition forward. Read our review.",
           "link": "https://www.rollingstone.com/music/music-album-reviews/protoje-thord-times-a-charm-1234596509/",
           "publishedOn": "2022-09-23T23:53:34.000Z",
-          "wordCount": 7311,
+          "wordCount": 7489,
           "title": "Reggae Royalty Protoje Sinks Into His Throne on ‘Third Time’s the Charm’",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Press-Photo-8-TTTC-by-Yannick-Reid.jpg?w=1024"
         },
@@ -852,7 +832,7 @@
           "description": "'You're stealing from women. You're disrespecting women,' says Layla Hendryx, a Toronto writer and performer alleging DaBaby bit her track",
           "link": "https://www.rollingstone.com/music/music-news/dababy-accused-of-lifting-concept-for-song-1234599215/",
           "publishedOn": "2022-09-23T23:22:00.000Z",
-          "wordCount": 7213,
+          "wordCount": 7209,
           "title": "DaBaby Accused of Lifting ‘Boogeyman’ From Another Artist",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/dababy-diss-track-meg.jpg?w=1024"
         }
@@ -869,7 +849,7 @@
           "description": "Netflix’s The Mother arrives in May",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jennifer-lopez-the-mother-trailer-1234599560/",
           "publishedOn": "2022-09-24T20:01:49.000Z",
-          "wordCount": 6939,
+          "wordCount": 6935,
           "title": "Jennifer Lopez Is an Assassin Protecting Her Daughter in New Trailer",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/JenniferLopezTheMother.jpg?w=1024"
         },
@@ -879,7 +859,7 @@
           "description": "Ryan Murphy-produced show about New Jersey dream house-turned-nightmare arrives Oct. 13",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-watcher-trailer-netflix-series-1234599551/",
           "publishedOn": "2022-09-24T19:21:04.000Z",
-          "wordCount": 7007,
+          "wordCount": 7003,
           "title": "‘The Watcher’ Wants ‘Young Blood’ in First Trailer for Netflix Limited Series",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/WATCHER_101_Unit_03493RC.jpg?w=1024"
         },
@@ -889,7 +869,7 @@
           "description": "The suit argued that creators Abigail Barlow and Emily Bear used intellectual property from the series “to build an international brand for themselves”",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/netflix-unofficial-bridgerton-musical-copyright-infringement-lawsuit-1390799/",
           "publishedOn": "2022-09-24T14:57:00.000Z",
-          "wordCount": 7509,
+          "wordCount": 7505,
           "title": "Netflix Dismiss Copyright Infringement Lawsuit Against Unofficial ‘Bridgerton’ Musical",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/08/BRIDGERTON_101_Unit_01798R3c.jpg?w=1024"
         },
@@ -899,7 +879,7 @@
           "description": "Oscar- and Emmy-winning actress created one of cinema's greatest villains alongside TV roles in 'Star Trek: Deep Space Nine' and numerous other shows",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/louise-fletcher-cuckoos-nest-dead-1234599397/",
           "publishedOn": "2022-09-24T02:37:06.000Z",
-          "wordCount": 7452,
+          "wordCount": 7448,
           "title": "Louise Fletcher, Nurse Ratched in ‘One Flew Over the Cuckoo’s Nest,’ Dead at 88",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/MCDONFL_EC003.jpeg?w=1024"
         },
@@ -909,7 +889,7 @@
           "description": "The Apple+ doc is a loving tribute to Sidney Poitier — whose remarkable, complex story demands more consideration than two hours can offer",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/sidney-review-documentary-1234598165/",
           "publishedOn": "2022-09-23T21:55:43.000Z",
-          "wordCount": 8197,
+          "wordCount": 8195,
           "title": "‘Sidney’ Review: A Screen Legend’s Life Too Big to Capture",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/ATV_Sidney_Photo_03.jpg.photo_modal_show_home_large_2xc.jpg?w=1024"
         },
@@ -919,7 +899,7 @@
           "description": "Actress writes about incidents involving a senior member of the sitcom's production team in herupcoming book Making a Scene",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/constance-wu-sexually-harassed-fresh-off-the-boat-1234599012/",
           "publishedOn": "2022-09-23T18:51:34.000Z",
-          "wordCount": 7244,
+          "wordCount": 7428,
           "title": "Constance Wu Says She Was Sexually Harassed While Working on ‘Fresh Off the Boat’",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1404585226.jpg?w=1024"
         },
@@ -929,7 +909,7 @@
           "description": "Lena Dunham's adaptation of the YA novel about a medieval teen avoiding arranged marriages is the perfect mix of funny, irreverent and outraged",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/catherine-called-birdy-review-lena-dunham-1234595455/",
           "publishedOn": "2022-09-23T18:00:00.000Z",
-          "wordCount": 7982,
+          "wordCount": 7978,
           "title": "‘Catherine Called Birdy’ Is the Family-Friendly Feminist Medieval Comedy We Needed, and So Much More",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/CatherineCalledBirdy_2021_UT_210323_BAIALE_01965RC2_rgbC.jpg?w=1024"
         },
@@ -939,7 +919,7 @@
           "description": "After a wild press tour, Olivia Wilde's new drama has premiered on the big screen. Here's how to get tickets and when you can watch it at home",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-dont-worry-darling-online-harry-styles-florence-pugh-olivia-wilde-1234598149/",
           "publishedOn": "2022-09-23T06:02:53.000Z",
-          "wordCount": 7760,
+          "wordCount": 7752,
           "title": "‘Don’t Worry Darling’ Is Finally Here, But When Can You Stream the Florence Pugh and Harry Styles Movie Online?",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/How-to-Watch-Dont-Worry-Darling-Harry-Styles-Florence-Pugh-Olivia-Wilde.jpg?w=1024"
         },
@@ -949,7 +929,7 @@
           "description": "Al searches for career longevity in the face of inevitable extinction, while Earn goes searching for D’Angelo",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-recaps/atlanta-recap-season-4-episode-3-born-die-1234595394/",
           "publishedOn": "2022-09-23T02:49:00.000Z",
-          "wordCount": 8165,
+          "wordCount": 8161,
           "title": "‘Atlanta’ Recap: Paper Boi at the Bar Mitzvah",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/ATL_Ep3_0199rC.jpg?w=1024"
         },
@@ -959,7 +939,7 @@
           "description": "Director Joe Berlinger's three-part docuseries about infamous serial killer arrives Oct. 7",
           "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jeffrey-dahmer-conversations-with-a-killer-netflix-1234597754/",
           "publishedOn": "2022-09-22T15:00:00.000Z",
-          "wordCount": 7197,
+          "wordCount": 7193,
           "title": "Jeffrey Dahmer Speaks in Trailer for Latest Chapter in Netflix’s ‘Conversations With a Killer’ Series",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Conversations_with_a_Killer_The_Jeffrey_Dahmer_Tapes_S1_E1_00_08_39_20.jpg?w=1024"
         }
@@ -1026,7 +1006,7 @@
           "description": "Nubank's decision is now another data point that leaves us wondering how long it will be before another Latin American fintech dares to IPO.\nFor Brazilian shareholders, Nubank’s IPO has a bitter aftertaste by Anna Heim originally published on TechCrunch",
           "link": "https://techcrunch.com/2022/09/24/for-brazilian-shareholders-nubanks-ipo-has-a-bitter-aftertaste/",
           "publishedOn": "2022-09-24T17:00:46.000Z",
-          "wordCount": 6988,
+          "wordCount": 7176,
           "title": "For Brazilian shareholders, Nubank’s IPO has a bitter aftertaste",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?resize=1200,900"
         },
@@ -1066,7 +1046,7 @@
           "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.\nDaily Crunch: London-based spatial computing startup Hadean closes $30 million Series A by Christine Hall originally published on TechCrunch",
           "link": "https://techcrunch.com/2022/09/23/daily-crunch-london-based-spatial-computing-startup-hadean-closes-30-million-series-a/",
           "publishedOn": "2022-09-23T22:05:39.000Z",
-          "wordCount": 8575,
+          "wordCount": 8763,
           "title": "Daily Crunch: London-based spatial computing startup Hadean closes $30 million Series A",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1379108916.jpg?resize=1200,750"
         },
@@ -1086,7 +1066,7 @@
           "description": "You can't be product-led without a great product. \nMighty Capital’s thesis is that the best product wins — even more so in a downturn by Anna Heim originally published on TechCrunch",
           "link": "https://techcrunch.com/2022/09/23/mighty-capitals-thesis-is-that-the-best-product-wins-even-more-so-in-a-downturn/",
           "publishedOn": "2022-09-23T20:00:00.000Z",
-          "wordCount": 7094,
+          "wordCount": 7282,
           "title": "Mighty Capital’s thesis is that the best product wins — even more so in a downturn",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/question-marks-money-7.jpg?resize=1200,675"
         },
@@ -1136,7 +1116,7 @@
           "description": "A star pitcher is resurrected from the Hall of Flame. A Hellmouth swallows the state of Utah. Crows descend on Tastykake Stadium, pecking slugger Jessica Telephone out of a peanut shell. This is Blaseball, the absurdist baseball simulator that captured the most delightfully wacky corners of the internet when it launched in summer 2020. Developed […]\nHow Blaseball’s fantasy sports fever dream is embracing the future by Amanda Silberling originally published on TechCrunch",
           "link": "https://techcrunch.com/2022/09/23/blaseball-game-viral-hit-returning-soon/",
           "publishedOn": "2022-09-23T18:11:02.000Z",
-          "wordCount": 12305,
+          "wordCount": 12117,
           "title": "How Blaseball’s fantasy sports fever dream is embracing the future",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/bleeding-baseball1.gif?resize=1200,645"
         },
@@ -1350,7 +1330,7 @@
           "description": "A picture obtained by AFP shows a demonstrator raising their arms and making the victory sign during a protest in Tehran for Mahsa Amini, on September 19, 2022.  | AFP via Getty Images\n    \n\n  \nIran is in revolt.\n It was not an isolated incident of police violence in Iran. But the death of 22-year-old Mahsa Amini in police custody last week has captured the country’s attention. \nAmini was visiting the capital of Tehran, coming from the Kurdish province in the country’s northwest, and Iran’s so-called morality police detained her, allegedly for wearing the mandatory headscarf improperly. Several hours after entering police custody, she was in a coma. She died two days later. Iranian police claimed she died after a stroke and suffering cardiac arrest, but witnesses say she died after sustain…",
           "link": "https://www.vox.com/world/2022/9/24/23368595/iran-women-burning-hijabs-mahsa-amini",
           "publishedOn": "2022-09-24T13:00:00.000Z",
-          "wordCount": 3698,
+          "wordCount": 3697,
           "title": "Why Iranian women are risking everything by burning their hijabs",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/dGOGzApbH0Rrc09LlvVfcJ2WCvg=/0x59:3941x2122/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048783/1243371980.jpg"
         },
@@ -1370,7 +1350,7 @@
           "description": "Former President Donald Trump spoke at the Covelli Centre in Youngstown, Ohio on September 17, 2022. | Andrew Spear for The Washington Post via Getty\n    \n\n  \nHis legal problems are worsening. But they might not take him down.\n Stop me if you’ve heard this one before: New developments have put Donald Trump in even more serious legal jeopardy.\nA new civil fraud lawsuit from the New York attorney general’s office is threatening his business, while his efforts to stall the criminal investigation into whether he mishandled classified information seem to have failed. And a separate investigation into the January 6 attack scrutinizes his associates.\nIt all looks quite bad for him. Then again, for at least five years, much of the media has touted the seriousness of Trump’s legal peril, portraying…",
           "link": "https://www.vox.com/policy-and-politics/2022/9/24/23365488/trump-legal-problems-classified-lawsuit",
           "publishedOn": "2022-09-24T11:00:00.000Z",
-          "wordCount": 3525,
+          "wordCount": 3526,
           "title": "Are the walls really closing in on Trump this time?",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/RoiLOLsFQabpMQrwzcTn0MA14Qk=/0x0:4800x2513/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048788/GettyImages_1243417909.jpg"
         },
@@ -1380,7 +1360,7 @@
           "description": "Giorgia Meloni, leader of Italian far-right party Fratelli d’Italia (Brothers of Italy), delivers a speech on September 23, 2022 at the Arenile di Bagnoli beachfront location in Naples, southern Italy, during a rally closing her party’s campaign for the September 25 general election. | Andreas Solaro/AFP via Getty Images\n    \n\n  \nAn expert explains recent (and maybe soon-to-be) far-right victories in Europe.\n Giorgia Meloni and her far-right Fratelli d’Italia are expected to lead a far right victory in Italian elections this weekend. That win, if it happens, would come shortly after the far-right Sweden Democrats won the second-largest share of the vote, helping to oust the center-left from power and giving the far right a potential role in the next government.\nThese shifts are happening a…",
           "link": "https://www.vox.com/world/2022/9/24/23366464/italy-elections-meloni-sweden-europe-far-right",
           "publishedOn": "2022-09-24T10:00:00.000Z",
-          "wordCount": 5038,
+          "wordCount": 5039,
           "title": "The far right is having a moment in Europe. Actually, everywhere.",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/-hoHFrM0dZhPQAqSJlyrNE6bFQE=/0x0:6000x3141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24047985/1243449861.jpg"
         },
@@ -1410,7 +1390,7 @@
           "description": "Christina Animashaun/Vox; Getty Images\n    \n\n\n  \nPolling has looked surprisingly good for Democrats. Are they being set up for disappointment again?\n It just seems to keep on happening — Democrats get their hopes up from rosy-looking polls, but they get a rude awakening when votes are tallied on election night.\nIn 2016, Trump’s win shocked the world. In 2020, a seeming Democratic romp turned into a nail-biter. And now, as the 2022 midterms are drawing nearer, polls show Democrats performing surprisingly decently — pointing toward a close election rather than the long-expected GOP wave.\nUnless, of course, the polls are just underestimating Republicans again.\n\n\n\nAnd lately, there’s been a debate among election analysts, including the New York Times’s Nate Cohn and FiveThirtyEight’s Nate Silv…",
           "link": "https://www.vox.com/2022/9/23/23353634/polls-bias-democrats-midterms",
           "publishedOn": "2022-09-23T11:00:00.000Z",
-          "wordCount": 2643,
+          "wordCount": 2644,
           "title": "How the polls might be wrong (again) this year",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/7-0ZBvpL3r3YNPrsKZty_sQc4aU=/0x36:1800x978/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24039368/polling_bias_board_1_untoned.jpg"
         },
@@ -1420,7 +1400,7 @@
           "description": "Reps. Hakeem Jeffries, D-NY, and Josh Gottheimer, D-NJ, walk together between votes on Capitol Hill on July 20, 2022, in Washington, DC. | Jabin Botsford/Washington Post/Getty Images\n    \n\n  \nHouse Democrats used a recent vote to show voters they are for the police. \n On Thursday, House Democrats passed a package of bills intended to blunt the GOP broadsides they’ve faced on crime, seeking to dispel any perceptions that they want to “defund the police” amid growing worries about public safety. \nDemocrats tried to strike a delicate balance with this package: While it includes more grant money for police, it also contains bills that would invest in reform efforts activists favor such as community-based violence interventions and first responders who are trained specifically to address mental…",
           "link": "https://www.vox.com/policy-and-politics/2022/9/22/23367572/democrats-policing-bills-midterms",
           "publishedOn": "2022-09-22T23:20:00.000Z",
-          "wordCount": 3081,
+          "wordCount": 3080,
           "title": "What’s behind House Democrats’ sudden compromise on policing",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/B8I3-avqpyAKHp3QgmmL3OT9g3o=/0x0:5299x2774/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24046661/1243417809.jpg"
         },
@@ -1974,7 +1954,7 @@
           "description": "Image: Hoyoverse via YouTube\n    \n\n  \nEven Howie Mandel danced with her \n Genshin Impact continues to be a driving force in shaping TikTok trends. This time, an augmented reality (AR) filter of the pyro character, Klee, has taken off. The filter called “AR Klee” has been used in videos more than 257,000 times with simple TikToks showing the character dancing garnering as many as 6.4 million views. \nThe style of these videos is rather simple: most make jokes about how strange it is to have a tiny girl dancing in a specific scenario. In the filter, Klee dances a little shuffle, and she can be inserted into a variety of real-world environments. The filter is often paired with a specific sound where a childlike voice sings to a remix of the electronic song, “Astronomia” by Vicetone and Tony Ig…",
           "link": "https://www.polygon.com/23368690/genshin-impact-meme-ar-tiktok",
           "publishedOn": "2022-09-23T22:17:03.000Z",
-          "wordCount": 2634,
+          "wordCount": 2614,
           "title": "Genshin Impact’s Klee is dancing her way through thousands of TikToks",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/cMIjvAo2xoi17G7x-7rUN1BhZrw=/0x25:1280x695/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21972598/New_Character_Demo____Klee__Da_Da_Da_____Genshin_Impact_0_46_screenshot.png"
         },
@@ -1984,7 +1964,7 @@
           "description": "Image: Insomniac Games/Nixxes Software/PlayStation PC\n    \n\n  \nSony’s PC outreach continues with another PlayStation exclusive\n Step aside Peter Parker. It’s Miles Morales’ turn for a Windows PC port. Marvel’s Spider-Man: Miles Morales is coming to Windows PC and it got its first teaser trailer on Friday.  There’s no specific release date yet, but it’s scheduled to launch this fall. \nMarvel’s Spider-Man: Miles Morales is currently available on PlayStation 4 and PlayStation 5. The port will give Windows users the change to experience the glittering adventure for themselves. The teaser trailer shows Miles Morales in his sleek and shiny spider-suit, slinging webs and stomping bad guys to protect New York City.\nMarvel’s Spider-Man: Miles Morales features a lot of similar gameplay and locales as Insomniac Games’ 2018 hit Marvel’s Spider-Man. But it still delivers an original story starring Miles Morales in the hero’s role. In this 2020 adaptation, Peter Parker is out of town, so it’s up to Morales to keep the peace in New York. \nMarvel’s Spider-Man: Miles Morales may not have a launch date, but players can wishlist it on Steam and the Epic Games Store.",
           "link": "https://www.polygon.com/23368875/marvel-spider-man-miles-morales-pc-version-teaser-trailer-steam-epic-games-store",
           "publishedOn": "2022-09-23T19:22:04.000Z",
-          "wordCount": 2055,
+          "wordCount": 2041,
           "title": "Here’s the first glimpse of Spider-Man: Miles Morales’ PC port in action",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/DqitubDuwwxyrE3RXZoaKZWwyjk=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048654/ss_34cd494551068f3c83179942b6964ece1333ccda.jpg"
         },
@@ -1994,7 +1974,7 @@
           "description": "Image: Player First Games/Warner Bros. Interactive Entertainment via YouTube\n    \n\n  \nHe’ll be joining his grandson Morty \n Rick Sanchez, the eccentric genius from the popular Adult Swim series Rick and Morty, will be the next playable character to join the roster of MultiVersus. We don’t have a release date yet, but publisher Warner Bros. Games says he will come to the game “soon.”\nYou can catch a glimpse of Rick in a teaser trailer that was released Friday. The match starts off with a fight between Wonder Woman and Reindog. Suddenly, their battle is interrupted by the appearance of a green portal, with blue humanoid alien creatures called Mr. Meeseeks emerging from it. The trailer ends with Rick exiting the portal and letting out a giant belch.\nRick will be a “mage / ranged” character, according to his description on the game’s website. He is following his grandson Morty, who was added to MultiVersus in August as part of the season 1.01 patch.\nMultiVersus is a free-to-play fighting game featuring a roster of fighters from various Warner Bros. properties. When he arrives, Rick Sanchez will join characters like Batman and Superman on the fighting stage. If you want to see who else you can play as, we have a full list of all current and upcoming characters.",
           "link": "https://www.polygon.com/23368739/multiversus-rick-new-character",
           "publishedOn": "2022-09-23T18:12:27.000Z",
-          "wordCount": 2059,
+          "wordCount": 2045,
           "title": "Rick Sanchez is heading to MultiVersus ‘soon’",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/4PSHxoOSnPwaeI_fejM9cTgLuYg=/0x0:2879x1507/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048538/Screen_Shot_2022_09_23_at_12.44.54_PM.png"
         },
@@ -2004,7 +1984,7 @@
           "description": "Image: John Harper\n    \n\n  \nCritically acclaimed Blades in the Dark is the startup company’s first full game\n Kicking off a new tabletop role-playing game with a small group of friends is hard. There’s getting six people’s schedules to line up bit, of course, which is always a chore. But learning a new game system requires study, and rolling up four or five new characters takes time. Game developer One More Multiverse wants to help, and it’s producing a set of tabletop tools to make playing with your friends online a lot easier. The venture capital-backed team is going at things very differently than its competitors. Whether you’re a potential newbie player or a long-suffering Dungeon Master, you should at least consider giving the demo a try.\nOne More Multiverse’s first toolset is a colle…",
           "link": "https://www.polygon.com/tabletop-games/23366890/blades-in-the-dark-virtual-tabletop-one-more-multiverse-demo-download-price",
           "publishedOn": "2022-09-23T17:35:00.000Z",
-          "wordCount": 3086,
+          "wordCount": 3066,
           "title": "Virtual tabletops can make playing RPGs even harder. One More Multiverse wants to fix that",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/7cTQn0fy-ZR4Wz9JeOT0B6Vl-1g=/0x0:3423x1792/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22529189/blades_standard_ed_COVER_FINAL_fitd_NO_LOGO_cropped.jpg"
         },
@@ -2014,7 +1994,7 @@
           "description": "Image: Rockstar Games\n    \n\n  \nCircumstances match other arrests linked to major breaches\n London police have arrested a teenager on suspicion of hacking offenses, authorities said on Friday. The 17-year-old suspect was arrested in Oxfordshire, England as part of an ongoing investigation with the government’s National Cyber Crime Unit. Police declined to confirm any other details regarding the arrest and investigation — just that the suspect is in custody.\nThat said, the circumstances follow earlier arrests connected to a hacker group that is said to be responsible for breaches at Uber and Rockstar Games, the latter of which led to leaked footage of the in-development Grand Theft Auto 6 published over the weekend.\nOn the evening of Thursday 22 September 2022, the City of London Police arre…",
           "link": "https://www.polygon.com/23368472/gta-6-leak-arrest-london-uber",
           "publishedOn": "2022-09-23T16:23:48.000Z",
-          "wordCount": 2296,
+          "wordCount": 2282,
           "title": "London cops arrest teen on hacking suspicions, but haven’t linked it to GTA 6 leak",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/DnhvoX9abYJAnvVbAcrzlTRMdHs=/0x0:1678x879/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19208241/gtav_details09122014_004.jpg"
         },
@@ -2034,7 +2014,7 @@
           "description": "Image: Nintendo via Polygon\n    \n\n  \nNew information from Splatoon 3 casts doubt on his record\n Splatoon 3 imagines an alternate world where ocean creatures, instead of mammals, took over the land. The game is set in a post-postapocalyptic world where humanity has been wiped out and sentient ocean life has taken its place. The signature character of the series, an Inkling, can take on both the form of a kid and a squid. There are a few exceptions to the game’s theme, however, including Li’l Judd, a cat who helps referee your matches. But now, a shadow of speculation has been cast on the adorable fuzzball due to new information revealed in Splatoon 3. \nAlthough the Splatoon series is primarily known for being a competitive online shooter, the developers manage to pack in extensive lore arou…",
           "link": "https://www.polygon.com/23367218/splatoon-3-lore-theories-lil-judd",
           "publishedOn": "2022-09-23T14:35:00.000Z",
-          "wordCount": 2665,
+          "wordCount": 2697,
           "title": "Is Li’l Judd from Splatoon 3 evil? An investigation",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/xyB6H8WljfzHaTCDE8MnnaMR_Z8=/0x50:1280x720/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24045576/FdR0rZSacAAU6bu.jpeg"
         },
@@ -2054,7 +2034,7 @@
           "description": "Image: Blizzard Entertainment\n    \n\n  \nMaw and Disorder puts Sylvanas on the stand\n Hearthstone is due for another mini-set, and while Blizzard has just left the Shadowlands behind for the next World of Warcraft expansion, the trading card game’s current expansion is Murder at Castle Nathria, a mystery murder set in the vampiric domain of Revendreth. A murder is usually followed by a trial, and that is the case here — the next mini-set is Maw and Disorder, and it’s themed around the trial of Sylvanas Windrunner.\nSylvanas was the main antagonist of World of Warcraft for some time, starting in the Battle for Azeroth expansion and concluding in Shadowlands. It looks like Hearthstone intends to take a significantly sillier take on her appearance; for instance, Sylvanas’ new Legendary card is revealed with a cheesy spinning newspaper reveal.\nWhen she hits the stand, everyone will know. ‍⚖️\nIntroducing, Sylvanas! pic.twitter.com/oodXoGRNUP\n— Hearthstone (@PlayHearthstone) September 22, 2022\n\n\n\nIt doesn’t look like this is the same trial that Sylvanas faced in World of Warcraft either, where she stood in front of Tyrande Whisperwind and her former colleagues to admit fault for all of her war crimes. This time, it looks like Sylvanas is facing off against the Jailer, the end boss of Shadowlands, in court.\nThe mini-set will reveal of 35 new cards: four legendary, one epic, 14 rare, and 16 common cards. Players can either find these cards in Murder at Castle Nathria packs or as a Mini-Set bundle.",
           "link": "https://www.polygon.com/23367557/hearthstone-maw-disorder-mini-set-new-sylvanas",
           "publishedOn": "2022-09-22T21:35:19.000Z",
-          "wordCount": 2094,
+          "wordCount": 2080,
           "title": "Hearthstone’s next mini-set takes the card game to a trial",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/Y4JDkcTLEQCnTBmnIk2SvXLdgkA=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12548037/World_of_Warcraft_Battle_for_Azeroth_Sylvanas.png"
         }
@@ -2071,7 +2051,7 @@
           "description": "Image: Netflix\n    \n\n  \nFear not, Witcher fans: The prequel series Blood Origin arrives Christmas Day\n Netflix’s 2022 Tudum event gave fans updates on two upcoming projects in the Witcher universe. The third season of The Witcher, starring Henry Cavill as Geralt of Rivia, will arrive in summer 2023. The limited series prequel spinoff The Witcher: Blood Origin, starring the incomparable Michelle Yeoh, will arrive on Netflix Christmas Day.\nThe poster for the third season of The Witcher shows a broken version of Geralt’s wolf medallion, and also features a small bird in the same style as the medallion.\nOur family returns! The Witcher is back for Season 3 in Summer 2023 #TUDUM pic.twitter.com/pV414YvRPI\n— Netflix (@netflix) September 24, 2022\n\n\n\nIn the poster for Blood Origin, we see a pair of arms holding weapons, forming an X. Both arms are tattooed with images of animals — the one holding an ax appears to have a wolf tattoo, while the arm with a shorter blade has a bird tattoo.\nSeason 2 of The Witcher opened with arguably the best episode the show’s ever had, and the long gap between seasons changed some plans and set up both season 3 and Blood Origin. We’ll have to wait a bit longer to see if season 3 can live up to that, but at least we’ll have Blood Origin in the meantime.",
           "link": "https://www.polygon.com/entertainment/23367506/witcher-new-season-netflix-date-blood-origin-premiere",
           "publishedOn": "2022-09-24T18:24:17.000Z",
-          "wordCount": 2098,
+          "wordCount": 2084,
           "title": "The Witcher season 3 slices its way to Netflix in summer 2023",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/XLBQsZ7IRack8VqhZJavHGhvGlE=/0x0:1820x953/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24051142/image_2022_09_24_141536923.png"
         },
@@ -2081,7 +2061,7 @@
           "description": "Photo: Warner Bros. Television\n    \n\n  \nThe unlikely hit premieres in November\n Manifest is back from the dead with the first trailer for its fourth and final season, this time with Netflix. The series is bringing back creator Jeff Rake for the new season, as well as its stars including Melissa Roxburgh, Josh Dallos, Athena Karkanis, and J.R. Ramirez. \nThe first look at Manifest season 4 debuted during Netflix’s Tudum event on Saturday. The show’s final season will include 20 episodes, with the first batch arriving on Nov. 4. \nManifest follows the passengers aboard an international flight that hits severe turbulence and has to be diverted. Though the plane lands safely, the passengers learn that they’re been gone for more than five years. Along with trying to piece their lives back together, the survivors also starts to experience strange voices and visions.\nThe series originally aired on NBC, but was canceled in 2021 after its third season. Manifest then made its way onto Netflix, where it quickly became the platform’s most watched series, reaching a whole new audience. This surge in popularity caused Netflix itself to pick up the rights to the series and greenlight this final season.",
           "link": "https://www.polygon.com/23368993/manifest-final-season-4-trailer-netflix",
           "publishedOn": "2022-09-24T17:32:54.000Z",
-          "wordCount": 2059,
+          "wordCount": 2045,
           "title": "Manifest season 4 gets a trailer before its final bow on Netflix",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/VT11czjAFn9TVDq4WUL7uWULuaI=/0x0:1280x670/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22659602/Lhc9P.jpg"
         },
@@ -2091,7 +2071,7 @@
           "description": "Nikolai, my beloved\n Shadow and Bone season 2 won’t premiere on Netflix until 2023, but we finally got a small sneak peek of the upcoming season and AHHHHHHHHHHHH!!!\nThis new teaser is only 41 seconds long, but it’s filled with so much. For one, two fan favorite characters make their first appearances: Ravkan prince Nikolai Lanstov, as played by The OA’s Patrick Gibson, appears in the first moments of the teaser talking to Alina; later on in the clip, Jack Wolfe appears as Wylan — the sixth member of the Six of Crows, though canonically in the timeline he hasn’t really met the others yet. Also appearing are ruthless mercenaries Tamar and Tolya, played by Anna Leong Brophy (Traces) and Lewis Tan (Mortal Kombat) respectively. \nOf course, we also see Jessie Mei Li as Alina Starkov, powerful Sun Summoner, and Ben Barnes as the ruthless, yet captivating Darkling — along with the shadowy Six of Crows characters and everyone else from the first season. \nThe second season of Shadow and Bone is expected to follow the events of the second book in the main trilogy, Storm and Siege. But like the first season of the show, the new batch of episodes will also incorporate characters not seen until later books in order to flesh out the storylines.",
           "link": "https://www.polygon.com/23368305/shadow-and-bone-season-2-trailer-netflix-release-date",
           "publishedOn": "2022-09-24T17:25:08.000Z",
-          "wordCount": 2079,
+          "wordCount": 2065,
           "title": "The Shadow and Bone season 2 teaser trailer is chock full of exciting new details",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/8TSUd7MDUzTu2MYL-V6xVH1O3Ps=/0x96:2271x1285/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24051050/shadow_bone_season_2.jpg"
         },
@@ -2101,7 +2081,7 @@
           "description": "Photo: Netflix\n    \n\n  \nIt’s tough being Sherlock Holmes’ little sister \n Enola Holmes is back — and this time, she has a detective agency of her own. Netflix released the first trailer for the sequel, due out this November, at the company’s Tudum fan event.\nAs it turns out, trying to establish yourself as a private investigator is particularly tough when you are (1) a girl, (2) a teenager, and (3) the younger sister of the esteemed Sherlock Holmes. But Enola’s luck changes when a young factory girl brings her a case — the girl’s sister has been missing for a week and it’s up to Enola to solve the case. \nEnola Holmes 2 finds Stranger Things’ Millie Bobby Brown reprising her role as the charming Enola. Henry Cavill once again plays a particularly hunky iteration of Sherlock Holmes, with Helena Bonham Carter as the Holmes’ siblings eccentric mother (in the first movie, The Hunger Games’ Sam Claflin played stuffy eldest brother Mycroft, but it’s not clear if he’s returning for this one). Additionally, Louis Partridge returns as Viscount Tewkesbury, the missing young lord from the first movie who strikes up a friendship with Enola. \nEnola Holmes 2 hits Netflix on Nov. 4.",
           "link": "https://www.polygon.com/23368370/enola-holmes-2-trailer-netflix",
           "publishedOn": "2022-09-24T17:13:46.000Z",
-          "wordCount": 2066,
+          "wordCount": 2052,
           "title": "Netflix’s Enola Holmes 2 trailer gets Millie Bobby Brown back into sleuthing",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/Jv9h7dB8VMkqymb9tQmFs0s8pao=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048431/henry_cavill_millie_bobby_brown_louis_partridge_enola_holmes_2_1660835080.jpg"
         },
@@ -2121,7 +2101,7 @@
           "description": "Image: MAPPA/Toho\n    \n\n  \nThe record-breaking anime feature finally comes to streaming this week\n This weekend sees the premiere of Athena, the explosive French thriller epic from acclaimed music video director Romain Gavras on Netflix, as well as the highly anticipated streaming premiere of the record-breaking Jujutsu Kaisen 0 anime film on Crunchyroll. If neither of those strike your fancy, not to worry — this week is practically bursting at the seams with exciting new movies to stream and rent on VOD.\nWe’ve got the action thriller Lou starring Allison Janney (The West Wing) and Jurnee Smollett (Lovecraft Country) and the Tyler Perry-directed period romance drama A Jazzman’s Blues on Netflix, the time-hopping romance comedy Meet Cute on Peacock, the Oprah Winfrey-produced Sidney Poitier…",
           "link": "https://www.polygon.com/23361211/new-movies-watch-minions-netflix-athena-jujutsu-kaisen-0-crunchyroll",
           "publishedOn": "2022-09-23T22:15:00.000Z",
-          "wordCount": 4214,
+          "wordCount": 4194,
           "title": "Every new movie you can watch at home this weekend",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/03qZZK-C65zMWso5y3oq_qMq8gA=/291x0:2579x1198/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23132050/Yuta_Okkotsu_jujutsu_kaisen_0.jpg"
         },
@@ -2131,7 +2111,7 @@
           "description": "Image: Prime Video\n    \n\n  \nSauron? Or just Some-guy-ron? \n The Lord of the Rings: The Rings of Power has kept one thing secret and safe for the entirety of its production: Who in the show is playing the role of chief antagonist, the infamous Dark Lord Sauron? In the show’s third episode, we got another character to toss into the pile of Sauron Potentials. And then, in the fifth episode, that theory was uttered out loud.\n[Ed. note: This piece contains spoilers for episodes 3 and 5 of The Lord of the Rings: The Rings of Power.]\nPhoto: Matt Grace/Prime Video\n  \nFrom the very first moments of the third episode, the name Adar is on characters’ lips. Arondir and a slew of humans and several elves have been captured and press-ganged into digging orc tunnels, and the orcs seem to report to someon…",
           "link": "https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien",
           "publishedOn": "2022-09-23T19:09:09.000Z",
-          "wordCount": 2799,
+          "wordCount": 2779,
           "title": "Sauron’s secret identity takes another step",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/IlzembFvKj2x3wH9_546X5w_IDk=/255x0:1781x799/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24045643/adar2.png"
         },
@@ -2141,7 +2121,7 @@
           "description": "Photo: Kourtrjameuf Kourtrajme/Netflix\n    \n\n  \nNo Church in the Wild director Romain Gavras brings the righteous fire\n Athena, the latest film from music video director Romain Gavras, is a one-trick pony, but that trick is so formally dazzling that the movie is an enrapturing experience. Composed of several lengthy, labyrinthine takes spaced out by traditionally edited scenes, it follows three French-Algerian brothers in Paris — young and middle-aged adults from different walks of life — thrown into disarray in the immediate aftermath of a harrowing family tragedy.\nTheir youngest sibling, a child named Idir, has been murdered, and the culprits caught on camera appear to be French police. The oldest brother, Moktar (Ouassini Embarek), is a drug and weapons trafficker who only looks out for…",
           "link": "https://www.polygon.com/reviews/23363495/athena-review-netflix-action-movie-no-church-in-the-wild",
           "publishedOn": "2022-09-23T19:05:00.000Z",
-          "wordCount": 3772,
+          "wordCount": 3752,
           "title": "Athena erupts as one long protest-driven action climax",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/E_qj8UGFfoIzrN1GKOCS7ePXJoQ=/0x0:6720x3518/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24039129/G_20210819_Unit_02038.jpg"
         },
@@ -2151,7 +2131,7 @@
           "description": "Image: Prime Video\n    \n\n  \nAmazon’s show adds a new legend to Tolkien’s legendarium\n Despite its status as a prequel, Amazon’s The Lord of the Rings: The Rings of Power still has plenty to teach us about the history of Middle-earth, or at least its version of that history. While the show’s latest episode covers many different bases, perhaps its most interesting has to do with the history of mithril, a legendary elf, and the Misty Mountains themselves. \n[Ed. note: This post contains spoilers for The Lord of the Rings: The Rings of Power episode 5, “Partings.”]\nEpisode 5’s glimpse into Middle-earth’s past came during this episode’s conversation between High King Gil-Galad and Elrond. When Elrond refused to reveal information he learned from Durin — thanks to his oath last episode — Gil-Gala…",
           "link": "https://www.polygon.com/23367438/rings-power-song-mithril-tree-balrog",
           "publishedOn": "2022-09-23T18:15:00.000Z",
-          "wordCount": 2509,
+          "wordCount": 2541,
           "title": "The Rings of Power’s two trees are a major invention for the Lord of the Rings canon",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/RMR7bWPd6801YzgEzJUcvkT1Cas=/0x49:3000x1620/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23985041/RPAZ_S1_210122_ROTBEN_00087_R3.JPG"
         },
@@ -2161,7 +2141,7 @@
           "description": "Image: Carl Palmer/Channel 4\n    \n\n  \nThe series hasn’t missed a beat in its transition to half-hour television\n If you, like me, were terminally online around the early 2010s, you probably know, love, and have sorely missed Don’t Hug Me I’m Scared. \nCo-created by animators Becky Sloan and Joseph Pelling, the six-episode web series set a fire across the Internet when it was released on YouTube between 2011 and 2015, with a unique blend of puppet-based antics and Lynchian shock humor. The animated shorts have since amassed over 216 million collective views on YouTube and inspired everything from elaborate fan theories involving Serbian war criminals to a small clothing line. Now, over six years since the last short, Don’t Hug Me I’m Scared has finally returned as a half-hour television seri…",
           "link": "https://www.polygon.com/23344464/dont-hug-me-im-scared-tv-show-all-4",
           "publishedOn": "2022-09-23T15:05:00.000Z",
-          "wordCount": 3003,
+          "wordCount": 2983,
           "title": "Don’t Hug Me I’m Scared is suddenly back in wonderful, chaotic form",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/Hy4dNCRROT6KDAXzj09GU5M0mko=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24007959/69716_4_S1_Ep4_Don_t_Hug_Me_I_m_Scared___Ep4_.jpg"
         }
@@ -2178,7 +2158,7 @@
           "description": "IGN and it's community discuss whether the developer or publisher is more important when buying a game.",
           "link": "https://www.ign.com/articles/are-developers-or-publishers-more-important-in-how-you-choose-games",
           "publishedOn": "2022-09-24T21:19:44.000Z",
-          "wordCount": 7872,
+          "wordCount": 8008,
           "title": "Are Developers or Publishers More Important in How You Choose Games?",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/06/08/cod-mw2-skull-1654191544255-1654722227152.jpeg?width=1280"
         },
@@ -2188,7 +2168,7 @@
           "description": "Beacon Pines is bursting with cozy-cute aesthetic perfect for autumn – twee sweaters, funny animal people, a cozy hearth, and children’s mischief that quickly evolves into a sinister mystery. And it has a unique narrative structure that's almost reminiscent of a Metroidvania.",
           "link": "https://www.ign.com/articles/beacon-pines-is-a-narrative-adventure-where-everything-can-change-with-a-single-word",
           "publishedOn": "2022-09-24T14:00:22.000Z",
-          "wordCount": 11566,
+          "wordCount": 10619,
           "title": "Beacon Pines Is a Narrative Adventure Where Everything Can Change With a Single Word",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/22/beacon-pines-launch-screenshot-03-1663890024674.png?width=1280"
         },
@@ -2198,7 +2178,7 @@
           "description": "Wondering how to play the Halo games in order? We're here to help with a breakdown of the sci-fi shooter's chronology.",
           "link": "https://www.ign.com/articles/halo-games-in-order",
           "publishedOn": "2022-09-23T23:20:00.000Z",
-          "wordCount": 15206,
+          "wordCount": 14373,
           "title": "How to Play the Halo Games in Chronological Order",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/23/halo-games-in-order-1663898360670.jpg?width=1280"
         },
@@ -2208,7 +2188,7 @@
           "description": "IGN and its community discuss which classic franchises they want to see make a comeback.",
           "link": "https://www.ign.com/articles/what-classic-franchise-would-you-like-to-see-make-a-comeback",
           "publishedOn": "2022-09-23T22:26:31.000Z",
-          "wordCount": 7689,
+          "wordCount": 8034,
           "title": "What Classic Franchise Would You Like To See Make a Comeback?",
           "imageUrl": "https://assets-prd.ignimgs.com/2021/11/08/mgs-3-art-1636369551357.jpg?width=1280"
         },
@@ -2218,7 +2198,7 @@
           "description": "Harvey Smith is best known for his work on Arkane's Dishonored series, but he's now revealed a trio of games he pitched that never entered development.",
           "link": "https://www.ign.com/articles/arkane-director-pitched-thief-4-a-blade-runner-game-and-a-game-inspired-by-michael-manns-heat",
           "publishedOn": "2022-09-23T18:52:24.000Z",
-          "wordCount": 8991,
+          "wordCount": 8252,
           "title": "Arkane Director Pitched Thief 4, a Blade Runner Game, and a Game Inspired By Michael Mann's Heat",
           "imageUrl": "https://assets1.ignimgs.com/2014/02/25/thiefjpg-dbd7ad.jpg?width=1280"
         },
@@ -2228,7 +2208,7 @@
           "description": "Wondering where to find Xur in Destiny 2 today? Here's his location and exotic items he's selling for September 23.",
           "link": "https://www.ign.com/articles/destiny-2-where-is-xur-today-location-and-exotic-items-for-september-23-27",
           "publishedOn": "2022-09-23T18:06:07.000Z",
-          "wordCount": 9296,
+          "wordCount": 9410,
           "title": "Destiny 2: Where Is Xur Today? Location and Exotic Items for September 23-27",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/08/05/whereisxuraugust59-36190303-xurthumbnailedz-1659730558490.jpg?width=1280"
         },
@@ -2238,7 +2218,7 @@
           "description": "",
           "link": "https://www.ign.com/articles/company-of-heroes-3-how-to-master-tactical-pause-ign-first",
           "publishedOn": "2022-09-23T17:19:56.000Z",
-          "wordCount": 11639,
+          "wordCount": 10967,
           "title": "Company of Heroes 3: How to Master Tactical Pause - IGN First",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/23/ignfirst-coh3-masterthemap-yt-blank-1663953602157.jpg?width=1280"
         },
@@ -2248,7 +2228,7 @@
           "description": "We've got the top options for your 240Hz gaming monitor for your Esports or competitive online gaming needs.",
           "link": "https://www.ign.com/articles/best-240hz-gaming-monitor",
           "publishedOn": "2022-09-23T11:34:57.000Z",
-          "wordCount": 14651,
+          "wordCount": 14451,
           "title": "Best 240Hz Gaming Monitor 2022",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/06/06/240hz-gaming-monitor-2-1654473953933.jpg?width=1280"
         },
@@ -2258,7 +2238,7 @@
           "description": "Descend into the slimy heart of the IGN UK podcast this week, as Joe is confusingly repulsed by Scorn, Matt and Cardy have conflicting feelings on the new Monkey Island, and everyone really likes Andor.",
           "link": "https://www.ign.com/articles/ign-uk-podcast-663-professor-layton-and-the-sludge-guts-of-doom",
           "publishedOn": "2022-09-23T11:33:47.000Z",
-          "wordCount": 7590,
+          "wordCount": 7327,
           "title": "IGN UK Podcast #663: Professor Layton and the Sludge-Guts of Doom",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/23/2018-podcast-thumb-1663932692720.jpg?width=1280"
         },
@@ -2268,7 +2248,7 @@
           "description": "We've tested gaming headsets ranging from budget models to fancy wireless ones with 7.1 surround, and everything in between. Based on our testing here are the best gaming headsets.",
           "link": "https://www.ign.com/articles/best-gaming-headset",
           "publishedOn": "2022-09-23T10:30:30.000Z",
-          "wordCount": 17323,
+          "wordCount": 17390,
           "title": "Best Gaming Headset 2022",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/06/12/gaming-headset-2-1655072902825.jpg?width=1280"
         },
@@ -2278,7 +2258,7 @@
           "description": "Mortal Kombat's co-creator has explained how he came up with the game's iconic logo – and how it almost got trashed for looking like a seahorse.",
           "link": "https://www.ign.com/articles/mortal-kombat-iconic-logo-dragon-seahorse",
           "publishedOn": "2022-09-23T10:16:44.000Z",
-          "wordCount": 9683,
+          "wordCount": 8760,
           "title": "Mortal Kombat Co-Creator Explains How He Came Up With the Iconic Logo",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/08/10/mortal-kombat-snow-blind-1-1660172155660.jpg?width=1280"
         },
@@ -2288,7 +2268,7 @@
           "description": "All the best Australian gaming deals, be it Nintendo Switch, Xbox, PlayStation or PC. Nothing but quality games going for the lowest prices!",
           "link": "https://www.ign.com/articles/aussie-deals-gta-v-and-red-dead-2-drop-to-24-skyrim-anniversary-and-fifa-22-for-19-bucks-each",
           "publishedOn": "2022-09-23T01:19:42.000Z",
-          "wordCount": 8443,
+          "wordCount": 7822,
           "title": "Aussie Deals: GTA V and Red Dead 2 Drop to $24, Skyrim Anniversary and FIFA 22 for 19 Bucks Each!",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/23/thisthingnow-1663895813373.jpg?width=1280"
         },
@@ -2298,7 +2278,7 @@
           "description": "Our thoughts after the first weekend.",
           "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-ii-multiplayer-review",
           "publishedOn": "2022-09-22T23:29:02.000Z",
-          "wordCount": 16442,
+          "wordCount": 17286,
           "title": "Call of Duty: Modern Warfare II Multiplayer Review in Progress - Beta Impressions",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/21/cod-beta-image-1663800303258.jpg?width=1280"
         },
@@ -2308,7 +2288,7 @@
           "description": "In an industry notorious for being wildly secretive around how well its own products do, we love some real good, crunchy data. And with an overhaul to Steam Stats today, Valve is giving us exactly that.",
           "link": "https://www.ign.com/articles/steam-revamps-stats-into-charts-with-better-overview-of-most-popular-games",
           "publishedOn": "2022-09-22T23:08:25.000Z",
-          "wordCount": 9448,
+          "wordCount": 9387,
           "title": "Steam Revamps Stats Into Charts With Better Overview of Most Popular Games",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/22/steam-blogroll-logos-1663887576752.jpg?width=1280"
         },
@@ -2318,7 +2298,7 @@
           "description": "",
           "link": "https://www.ign.com/articles/wo-long-fallen-dynasty-hands-on-preview-a-soulslike-with-speed",
           "publishedOn": "2022-09-22T22:01:23.000Z",
-          "wordCount": 13668,
+          "wordCount": 13287,
           "title": "Wo Long: Fallen Dynasty Hands-On Preview: A Soulslike With Speed",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/22/wolong-1663884449157.jpg?width=1280"
         },
@@ -2328,7 +2308,7 @@
           "description": "Dark Souls 3's PC servers are back offline despite being restored by FromSoftware just four weeks ago.",
           "link": "https://www.ign.com/articles/four-weeks-after-being-fixed-dark-souls-3s-pc-servers-are-down-again",
           "publishedOn": "2022-09-22T21:55:04.000Z",
-          "wordCount": 10854,
+          "wordCount": 10695,
           "title": "Four Weeks After Being Fixed, Dark Souls 3's PC Servers Are Down Again",
           "imageUrl": "https://assets2.ignimgs.com/2016/03/01/014jpg-0d8435.jpg?width=1280"
         },
@@ -2338,7 +2318,7 @@
           "description": "In response to the recent leak of Grand Theft Auto 6, I asked game developers to answer the following question: What did your game look, sound, and feel like two years before it came out?",
           "link": "https://www.ign.com/articles/what-do-games-actually-look-like-during-development",
           "publishedOn": "2022-09-22T19:32:21.000Z",
-          "wordCount": 21024,
+          "wordCount": 21158,
           "title": "What Do Games Actually Look Like During Development?",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/22/whatgameslooklikeindevelopment-blogroll-1663872630411.jpg?width=1280"
         },
@@ -2348,7 +2328,7 @@
           "description": "Nvidia’s superior ray tracing performance is tough for AMD to overcome.",
           "link": "https://www.ign.com/articles/amd-vs-nvidia",
           "publishedOn": "2022-09-22T19:16:09.000Z",
-          "wordCount": 12077,
+          "wordCount": 12078,
           "title": "AMD vs. Nvidia: An Epic Battle for the Heart of Your Gaming PC",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/07/14/amd-vs-nvidia-1657825719720.jpg?width=1280"
         },
@@ -2358,7 +2338,7 @@
           "description": "Those who preordered the Digital Deluxe Edition of Valkyrie Elysium on PlayStation will have to wait for their Valkyrie Profile remaster.",
           "link": "https://www.ign.com/articles/valkyrie-profile-lenneth-remaster-delayed-to-december",
           "publishedOn": "2022-09-22T19:01:42.000Z",
-          "wordCount": 7783,
+          "wordCount": 7654,
           "title": "Valkyrie Profile: Lenneth Remaster Delayed to December",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/22/valkyrie-elysium-image-1663856568650.jpg?width=1280"
         },
@@ -2368,7 +2348,7 @@
           "description": "In anticipation of God of War Ragnarok, we've created a one-stop shop for all you need to know about the sequel, from its official release date and story synopsis to the latest trailers and gameplay updates.",
           "link": "https://www.ign.com/articles/god-of-war-ragnarok-everything-we-know-release-date-trailer-gameplay-news",
           "publishedOn": "2022-09-22T19:01:41.000Z",
-          "wordCount": 13278,
+          "wordCount": 12658,
           "title": "God of War: Ragnarok: Release Date, Latest Trailers, and News",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/08/09/ragnarok-blogroll-1660056530421.jpg?width=1280"
         }
@@ -2407,12 +2387,42 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190140",
+          "author": null,
+          "description": "Game designer has been at Arc System Works for 20 years",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/blazblue-game-series-creator-producer-toshimichi-mori-retires-from-arc-system-works/.190140",
+          "publishedOn": "2022-09-25T08:54:38.000Z",
+          "wordCount": 3021,
+          "title": "BlazBlue Game Series Creator, Producer Toshimichi Mori Retires from Arc System Works",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.5/190140/mori-big.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190145",
+          "author": null,
+          "description": "Opening video reveals additional staff",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/exception-anime-opening-video-features-theme-song-by-ryuichi-sakamoto/.190145",
+          "publishedOn": "2022-09-25T08:37:45.000Z",
+          "wordCount": 3169,
+          "title": "Exception Anime's Opening Video Features Theme Song by Ryuichi Sakamoto",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/C-LINOkEnNc.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190151",
+          "author": null,
+          "description": "Anime film debuts on Netflix in December",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/the-seven-deadly-sins-grudge-of-edinburgh-part-i-film-streams-new-trailer/.190151",
+          "publishedOn": "2022-09-25T08:05:31.000Z",
+          "wordCount": 3239,
+          "title": "The Seven Deadly Sins: Grudge of Edinburgh Part I Film Streams New Trailer",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS8/cms/news.5/190151/fdaie8ex0aaz_es.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190146",
           "author": null,
           "description": "Hiromu Arakawa, Ayumi Yamada design characters; Ryo Awasaki composes music",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/wit-studio-tow-ubukata-moonrise-anime-trailer-reveals-2024-premiere-staff-key-visual/.190146",
           "publishedOn": "2022-09-25T07:52:16.000Z",
-          "wordCount": 3167,
+          "wordCount": 3166,
           "title": "Wit Studio, Tow Ubukata's Moonrise Anime's Trailer Reveals 2024 Premiere, Staff, Key Visual",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP3/cms/news.5/190146/fdzrfzsxoaihu1r.jpg"
         },
@@ -2422,7 +2432,7 @@
           "description": "Rie Suegara, Yumiri Hanamori, Tomokazu Sugita, more join cast",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/junji-ito-maniac-japanese-tales-of-the-macabre-anime-reveals-january-19-debut-more-cast/.190142",
           "publishedOn": "2022-09-25T07:41:44.000Z",
-          "wordCount": 3261,
+          "wordCount": 3260,
           "title": "Junji Ito Maniac: Japanese Tales of the Macabre Anime Reveals January 19 Debut, More Cast",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSC/cms/news.5/190142/tomie.jpeg"
         },
@@ -2432,7 +2442,7 @@
           "description": "Cast, staff return for final season about Retsuko running for office",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/aggretsuko-anime-5th-final-season-launches-on-netflix-in-february-2023/.190159",
           "publishedOn": "2022-09-25T07:07:52.000Z",
-          "wordCount": 3117,
+          "wordCount": 3116,
           "title": "Aggretsuko Anime's 5th, Final Season Launches on Netflix in February 2023",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKO/cms/news.5/190159/retsuko.jpeg"
         },
@@ -2442,7 +2452,7 @@
           "description": "New season will feature returning cast, staff",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/way-of-the-househusband-anime-gets-2nd-season-in-january-2023/.190156",
           "publishedOn": "2022-09-25T06:52:43.000Z",
-          "wordCount": 3037,
+          "wordCount": 3036,
           "title": "Way of the Househusband Anime Gets 2nd Season in January 2023",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPF/cms/news.5/190156/househusband-2.jpeg"
         },
@@ -2452,7 +2462,7 @@
           "description": "Yuko Hara performs theme for live-action, CG hybrid series",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/gudetama-an-eggcellent-adventure-series-1st-trailer-reveals-december-13-premiere/.190155",
           "publishedOn": "2022-09-25T06:40:01.000Z",
-          "wordCount": 3102,
+          "wordCount": 3106,
           "title": "Gudetama: An Eggcellent Adventure Series' 1st Trailer Reveals December 13 Premiere",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/jbZ3QDLq4Es.jpg"
         },
@@ -2462,7 +2472,7 @@
           "description": "Masaomi Yamahashi, Ayahi Takagaki, more star in film",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/make-my-day-anime-film-reveals-cast-mecha-design-february-2023-debut/.190148",
           "publishedOn": "2022-09-25T06:32:29.000Z",
-          "wordCount": 3086,
+          "wordCount": 3121,
           "title": "Make My Day Anime Film Reveals Cast, Mecha Design, February 2023 Debut",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY2/cms/news.5/190148/make-my-day-mech.jpeg"
         },
@@ -2472,7 +2482,7 @@
           "description": "Thai studio Igloo Studio animates series",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/netflix-reveals-my-daemon-animated-series-from-writer-hidetaka-adachi/.190149",
           "publishedOn": "2022-09-25T06:13:53.000Z",
-          "wordCount": 2985,
+          "wordCount": 2989,
           "title": "Netflix Reveals My Daemon Animated Series from Writer Hidetaka Adachi",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLA/cms/news.5/190149/daemon.jpeg"
         },
@@ -2482,7 +2492,7 @@
           "description": "Anime from Sublimation to use late actor Toshiro Mifune as model for Miyamoto Musashi",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/takashi-miike-directs-anime-of-onimusha-game-series/.190147",
           "publishedOn": "2022-09-25T05:44:15.000Z",
-          "wordCount": 3041,
+          "wordCount": 3039,
           "title": "Takashi Miike Directs Anime of Onimusha Game Series",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP5/cms/news.5/190147/onimusha-1.jpeg"
         },
@@ -2492,7 +2502,7 @@
           "description": "Soubi Yamamoto directs anime",
           "link": "https://www.animenewsnetwork.com/news/2022-09-25/baku-yumemakura-onmyoji-novels-get-1st-anime-adaptation-on-netflix-in-2023/.190143",
           "publishedOn": "2022-09-25T05:21:47.000Z",
-          "wordCount": 3036,
+          "wordCount": 3034,
           "title": "Baku Yumemakura's Onmyōji Novels Get 1st Anime Adaptation on Netflix in 2023",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/news.5/190143/onmyoji-kv-2.jpeg"
         },
@@ -2502,7 +2512,7 @@
           "description": "New video also shows new footage for live-action Burn the House Down manga, more",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/netflix-reveals-new-release-date-for-the-makanai-in-reel-highlighting-21-live-action-japanese-works/.190136",
           "publishedOn": "2022-09-25T03:43:39.000Z",
-          "wordCount": 3176,
+          "wordCount": 3174,
           "title": "Netflix Reveals New Release Date for The Makanai in Reel Highlighting 21 Live-Action Japanese Works",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSJ/youtube/TqgtVqSVhEo.jpg"
         },
@@ -2512,7 +2522,7 @@
           "description": "New season premieres on Netflix worldwide on December 22",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/live-action-alice-in-borderland-season-2-previewed-in-new-teaser-trailer/.190132",
           "publishedOn": "2022-09-25T02:46:25.000Z",
-          "wordCount": 3320,
+          "wordCount": 3318,
           "title": "Live-Action Alice in Borderland Season 2 Previewed in New Teaser Trailer (Updated)",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/youtube/vba9e_hSvro.jpg"
         },
@@ -2522,7 +2532,7 @@
           "description": "bilibili to also stream series premiering in Japan on October 13",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/hidive-to-stream-new-urusei-yatsura-anime/.190131",
           "publishedOn": "2022-09-25T02:18:28.000Z",
-          "wordCount": 3292,
+          "wordCount": 3290,
           "title": "HIDIVE to Stream New Urusei Yatsura Anime",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g6B/cms/news.5/189682/uruseiyatsura.jpg"
         },
@@ -2532,7 +2542,7 @@
           "description": "Baron figure, more recreated for October 14 film",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/live-action-whisper-of-the-heart-film-new-video-explores-antique-shop-set/.190123",
           "publishedOn": "2022-09-24T15:50:48.000Z",
-          "wordCount": 3368,
+          "wordCount": 3366,
           "title": "Live-Action Whisper of the Heart Film's New Video Explores Antique Shop Set",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/youtube/m0MkaRnv3u0.jpg"
         },
@@ -2542,7 +2552,7 @@
           "description": "Ishii also drew  Norainu no Oka, Kutabare!! Namida-kun",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/750-rider-manga-creator-isami-ishii-passes-away-at-80/.190122",
           "publishedOn": "2022-09-24T13:54:07.000Z",
-          "wordCount": 2995,
+          "wordCount": 2993,
           "title": "750 Rider Manga Creator Isami Ishii Passes Away at 80",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/cms/news.5/190122/750rider1.jpg"
         },
@@ -2552,7 +2562,7 @@
           "description": "Key visual also revealed",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/arknights-prelude-to-dawn-anime-promo-video-reveals-reona-theme-october-28-premiere/.190116",
           "publishedOn": "2022-09-24T09:37:58.000Z",
-          "wordCount": 3293,
+          "wordCount": 3291,
           "title": "Arknights: Prelude to Dawn Anime's Promo Video Reveals ReoNa's Theme, October 28 Premiere",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMI/cms/news.5/190116/arknights.jpeg"
         },
@@ -2562,7 +2572,7 @@
           "description": "Chiaki Kobayashi stars as Mashle in 2023 anime",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/mashle-magic-and-muscles-anime-promo-video-reveals-staff-cast-member/.190108",
           "publishedOn": "2022-09-24T09:35:15.000Z",
-          "wordCount": 3149,
+          "wordCount": 3147,
           "title": "Mashle: Magic and Muscles  Anime's Promo Video Reveals Staff, Cast Member",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR8/youtube/3pwe6gAUY-M.jpg"
         },
@@ -2572,7 +2582,7 @@
           "description": "Series premieres on October 1",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/my-hero-academia-anime-6th-season-to-air-for-half-a-year/.190115",
           "publishedOn": "2022-09-24T09:17:05.000Z",
-          "wordCount": 3091,
+          "wordCount": 3089,
           "title": "My Hero Academia Anime's 6th Season to Air for Half a Year",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLF/youtube/wIVlVH_mi1Y.jpg"
         },
@@ -2582,7 +2592,7 @@
           "description": "Hime Sawada plays Cecilia, Kaito Ishikawa plays Lawrence",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/saint-cecilia-and-pastor-lawrence-tv-anime-promo-video-reveals-cast-april-2023-debut/.190107",
           "publishedOn": "2022-09-24T09:06:52.000Z",
-          "wordCount": 3177,
+          "wordCount": 3175,
           "title": "Saint Cecilia and Pastor Lawrence TV Anime's Promo Video Reveals Cast, April 2023 Debut (Updated)",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMJ/cms/news.5/190107/0924-.jpg"
         },
@@ -2592,7 +2602,7 @@
           "description": "CloverWorks produces idol anime",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/uniteup-youtube-project-gets-tv-anime-in-january-2023/.190113",
           "publishedOn": "2022-09-24T08:46:22.000Z",
-          "wordCount": 3001,
+          "wordCount": 2999,
           "title": "UniteUp! YouTube Project Gets TV Anime in January 2023",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLP/youtube/iacy7BCxwQ8.jpg"
         },
@@ -2602,7 +2612,7 @@
           "description": "Shōya Chiba, Miyu Tomita, Kana Ichinose, Tesshō Genda star in gender-bending ninja romcom",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/ayakashi-triangle-anime-unveils-main-cast/.190114",
           "publishedOn": "2022-09-24T08:37:05.000Z",
-          "wordCount": 3227,
+          "wordCount": 3225,
           "title": "Ayakashi Triangle Anime Unveils Main Cast",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB2/cms/news.5/190114/at_visual_0830-02_.jpg"
         },
@@ -2612,7 +2622,7 @@
           "description": "Inori Minase, Kouki Uchiyama star in series at Madhouse",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/my-love-story-with-yamada-kun-at-lv999-manga-gets-tv-anime-in-2023/.190110",
           "publishedOn": "2022-09-24T08:22:18.000Z",
-          "wordCount": 3133,
+          "wordCount": 3131,
           "title": "My Love Story With Yamada-kun at Lv999 Manga Gets TV Anime in 2023 (Updated)",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8T/cms/news.5/190110/yamada.jpg"
         },
@@ -2622,7 +2632,7 @@
           "description": "Simultaneous English subtitles, dubbing offered",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/fate-strange-fake-spinoff-story-gets-tv-anime-special-on-december-31/.190109",
           "publishedOn": "2022-09-24T08:07:00.000Z",
-          "wordCount": 3125,
+          "wordCount": 3123,
           "title": "Fate/strange Fake Spinoff Story Gets TV Anime Special on December 31",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/Wcd2TKpAzcA.jpg"
         },
@@ -2632,7 +2642,7 @@
           "description": "Anime to feature returning cast, staff",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/rascal-does-not-dream-gets-sequel-anime-adapting-8th-9th-novels/.190112",
           "publishedOn": "2022-09-24T07:57:59.000Z",
-          "wordCount": 3116,
+          "wordCount": 3114,
           "title": "Rascal Does Not Dream Gets Sequel Anime Adapting 8th, 9th Novels",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/youtube/0147iNxRma4.jpg"
         },
@@ -2642,7 +2652,7 @@
           "description": "Gen Urobuchi wrote novel series originally published in 2009",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/a-1-pictures-produces-eisen-flugel-anime-film-with-director-seiji-mizushima/.190111",
           "publishedOn": "2022-09-24T07:35:03.000Z",
-          "wordCount": 3199,
+          "wordCount": 3197,
           "title": "A-1 Pictures Produces Eisen Flügel Anime Film With Director Seiji Mizushima",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB0/herald/139414/220923-ef-teaserposter-fix.jpg"
         },
@@ -2652,7 +2662,7 @@
           "description": "New season will feature returning staff",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/the-misfit-of-demon-king-academy-ii-anime-promo-video-reveals-january-2023-premiere/.190103",
           "publishedOn": "2022-09-24T07:07:42.000Z",
-          "wordCount": 3123,
+          "wordCount": 3121,
           "title": "The Misfit of Demon King Academy II Anime's Promo Video Reveals January 2023 Premiere",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/youtube/3SF4ZEWYXtw.jpg"
         },
@@ -2662,7 +2672,7 @@
           "description": "2 character videos, 8-minute staff interview video streamed",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/nier-automata-anime-promo-video-reveals-staff-cast-january-2023-premiere/.190104",
           "publishedOn": "2022-09-24T06:44:09.000Z",
-          "wordCount": 3325,
+          "wordCount": 3323,
           "title": "NieR: Automata Anime's Promo Video Reveals Staff, Cast, January 2023 Premiere (Updated)",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD4/youtube/g4_xDVQm8MY.jpg"
         },
@@ -2672,7 +2682,7 @@
           "description": "Kohei Amasaki, Yoshitsugu Matsuoka join cast for series premiering in January with Crunchyroll streaming",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/tomo-chan-is-a-girl-anime-reveals-new-video-2-new-cast-members/.190102",
           "publishedOn": "2022-09-24T06:22:19.000Z",
-          "wordCount": 3189,
+          "wordCount": 3187,
           "title": "Tomo-chan is a Girl Anime Reveals New Video, 2 New Cast Members",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/news.5/190102/visual.jpg"
         },
@@ -2682,7 +2692,7 @@
           "description": "Anime premieres on October 10, will have \"simulcast\"",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/bleach-thousand-year-blood-war-anime-new-short-trailer-streamed-with-english-subtitles/.190101",
           "publishedOn": "2022-09-24T05:59:45.000Z",
-          "wordCount": 3439,
+          "wordCount": 3437,
           "title": "Bleach: Thousand-Year Blood War Anime's New Short Trailer Streamed With English Subtitles",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/youtube/__MOMa3Z9Kk.jpg"
         },
@@ -2692,7 +2702,7 @@
           "description": "Crunchyroll streams TV version of 2012-2013 film trilogy starting on October 1",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/berserk-the-golden-age-arc-memorial-edition-tv-anime-3rd-promo-video-features-new-song-by-susumu-/.190100",
           "publishedOn": "2022-09-24T05:46:37.000Z",
-          "wordCount": 3045,
+          "wordCount": 3043,
           "title": "Berserk: The Golden Age Arc - Memorial Edition TV Anime's 3rd Promo Video Features New Song by Susumu Hirasawa",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g04/youtube/6QkMrXodGQQ.jpg"
         },
@@ -2702,7 +2712,7 @@
           "description": "Game will release in 2023 on PC",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/aniplex.exe-reveals-hirahira-hihiru-novel-game/.190097",
           "publishedOn": "2022-09-24T05:20:15.000Z",
-          "wordCount": 2959,
+          "wordCount": 2957,
           "title": "Aniplex.exe Reveals Hirahira Hihiru Novel Game",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA8/youtube/yPnCI0V13Xs.jpg"
         },
@@ -2712,7 +2722,7 @@
           "description": "Makoto Katō directs anime",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/atri-my-dear-moments-novel-game-gets-tv-anime-at-troyca/.190099",
           "publishedOn": "2022-09-24T05:12:01.000Z",
-          "wordCount": 3230,
+          "wordCount": 3228,
           "title": "ATRI: My Dear Moments Novel Game Gets TV Anime at Troyca",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gX4/youtube/Q-fpe_0imFw.jpg"
         },
@@ -2722,7 +2732,7 @@
           "description": "Anime to re-adapt main manga series",
           "link": "https://www.animenewsnetwork.com/news/2022-09-24/new-rurouni-kenshin-tv-anime-reveals-cast-staff-2023-premiere-on-noitamina/.190098",
           "publishedOn": "2022-09-24T04:55:13.000Z",
-          "wordCount": 3214,
+          "wordCount": 3212,
           "title": "New Rurouni Kenshin TV Anime Reveals Cast, Staff, 2023 Premiere on Noitamina",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/youtube/KlgKIkCZ4nQ.jpg"
         },
@@ -2732,7 +2742,7 @@
           "description": "Bilingual event to be held in English, Japanese",
           "link": "https://www.animenewsnetwork.com/news/2022-09-23/event-reminder-aniplex-online-fest-2022-livestream-starts-soon/.190094",
           "publishedOn": "2022-09-24T02:29:44.000Z",
-          "wordCount": 2943,
+          "wordCount": 2941,
           "title": "Event Reminder: Aniplex Online Fest 2022 Livestream Starts Soon",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD4/youtube/p5aY6UJ4DjY.jpg"
         },
@@ -2742,7 +2752,7 @@
           "description": "Game moves to ending service after release of '3rd stage'",
           "link": "https://www.animenewsnetwork.com/news/2022-09-23/aikatsu-planet-arcade-game-enters-3rd-stage-in-october-before-end-of-service/.190050",
           "publishedOn": "2022-09-24T00:03:28.000Z",
-          "wordCount": 3286,
+          "wordCount": 3284,
           "title": "Aikatsu Planet! Arcade Game Enters '3rd Stage' in October Before End of Service",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.5/190050/aikatsu.jpg"
         },
@@ -2752,7 +2762,7 @@
           "description": "3rd volume ships on November 8",
           "link": "https://www.animenewsnetwork.com/news/2022-09-23/usamaru-furuya-lunatic-circus-manga-ends-1st-part/.190016",
           "publishedOn": "2022-09-23T23:53:48.000Z",
-          "wordCount": 3037,
+          "wordCount": 3035,
           "title": "Usamaru Furuya's Lunatic Circus Manga Ends 1st Part",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.5/177973/lunatic-circus.jpg"
         },
@@ -2762,7 +2772,7 @@
           "description": "Denki Amashima draws manga launching on October 25",
           "link": "https://www.animenewsnetwork.com/news/2022-09-23/makoto-shinkai-suzume-anime-movie-gets-manga-adaptation/.189896",
           "publishedOn": "2022-09-23T23:52:02.000Z",
-          "wordCount": 3373,
+          "wordCount": 3371,
           "title": "Makoto Shinkai's Suzume Anime Movie Gets Manga Adaptation",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.5/189896/afternoon_202211yokoku.jpg"
         },
@@ -2772,109 +2782,9 @@
           "description": "\"AVOD content will rotate and refresh regularly, sometimes returning for stunts, special promotions and commemorative occasions.\"",
           "link": "https://www.animenewsnetwork.com/news/2022-09-23/crunchyroll-updates-statement-on-advertising-vod-policy/.190074",
           "publishedOn": "2022-09-23T20:30:00.000Z",
-          "wordCount": 3238,
+          "wordCount": 3236,
           "title": "Crunchyroll Updates Statement on Advertising VOD Policy",
           "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/news/111689/crlogo.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190075",
-          "author": null,
-          "description": "Both manga launch digitally in October",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/irodori-comics-licenses-i-fell-for-my-friend-older-sister-my-older-sister-friend-is-annoying-/.190075",
-          "publishedOn": "2022-09-23T19:46:29.000Z",
-          "wordCount": 3285,
-          "title": "Irodori Comics Licenses I Fell for My Friend's Older Sister + My Older Sister's Friend is Annoying, Midnight Rendezvous Manga",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK6/cms/news.5/190075/azusa-kina-cover.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190068",
-          "author": null,
-          "description": "Dragon Quest XI spinoff ships on Switch on December 9",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/dragon-quest-treasures-game-streams-gameplay-overview-trailer/.190068",
-          "publishedOn": "2022-09-23T18:00:00.000Z",
-          "wordCount": 3005,
-          "title": "Dragon Quest Treasures Game Streams Gameplay Overview Trailer",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/youtube/BsbBsH9tESc.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190073",
-          "author": null,
-          "description": "Saori Hayami performs \"Tear of Will\"",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/legend-of-mana-the-teardrop-crystal-anime-streams-opening-theme-song-video/.190073",
-          "publishedOn": "2022-09-23T16:51:55.000Z",
-          "wordCount": 3355,
-          "title": "Legend of Mana: The Teardrop Crystal Anime Streams Opening Theme Song Video",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/news.5/187141/lom01.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190072",
-          "author": null,
-          "description": "Sayumi Suzushiro plays Nijika in anime premiering on October 8",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/bocchi-the-rock-anime-character-promo-video-highlights-nijika-ijichi/.190072",
-          "publishedOn": "2022-09-23T15:53:21.000Z",
-          "wordCount": 3130,
-          "title": "Bocchi the Rock! Anime's Character Promo Video Highlights Nijika Ijichi",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB0/youtube/HtI2PPXdQaQ.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190071",
-          "author": null,
-          "description": "Anime will air for 6 consecutive months with 24 episodes",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/blue-lock-anime-intro-video-previews-ending-theme-song/.190071",
-          "publishedOn": "2022-09-23T14:32:10.000Z",
-          "wordCount": 3389,
-          "title": "Blue Lock Anime's Intro Video Previews Ending Theme Song",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFI/youtube/5YBL7fx94RU.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190054",
-          "author": null,
-          "description": "Bleach the Movie: Fade to Black, Bleach the Movie: Hell Verse also leave on October 14",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/naruto-anime-leaves-netflix-in-october/.190054",
-          "publishedOn": "2022-09-23T11:26:05.000Z",
-          "wordCount": 2991,
-          "title": "Naruto Anime Leaves Netflix in October",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/video/category/62/key_art_naruto.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190060",
-          "author": null,
-          "description": "Spinoff to debut in advance screenings in theaters",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/sokyu-no-fafner-behind-the-line-anime-video-announces-january-20-opening/.190060",
-          "publishedOn": "2022-09-23T08:35:03.000Z",
-          "wordCount": 3113,
-          "title": "Sōkyū no Fafner Behind the Line Anime's Video Announces January 20 Opening",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/youtube/bOSDOGtbB0o.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190048",
-          "author": null,
-          "description": "\"Summer Ghost\" anime short also screens during festival",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-23/l.a.s-animation-is-film-fest-to-screen-gold-kingdom-and-water-kingdom-oni-thunder-god-tale/.190048",
-          "publishedOn": "2022-09-23T04:46:54.000Z",
-          "wordCount": 3133,
-          "title": "L.A.'s Animation Is Film Fest to Screen Gold Kingdom and Water Kingdom, Oni: Thunder God's Tale",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEP/cms/news.5/190048/kuni.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.190047",
-          "author": null,
-          "description": "Virtual reality peripherals launch in early 2023",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-22/playstation-vr2-video-highlights-features-compatible-games/.190047",
-          "publishedOn": "2022-09-23T02:36:33.000Z",
-          "wordCount": 3038,
-          "title": "PlayStation VR2's Video Highlights Features, Compatible Games",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/youtube/u5L9Mvh7tAk.jpg"
-        },
-        {
-          "id": "https://www.animenewsnetwork.com/cms/.189971",
-          "author": null,
-          "description": "Bronx Library Center hosts event",
-          "link": "https://www.animenewsnetwork.com/news/2022-09-22/women-in-comics-event-hosts-rica-takashima-in-nyc-on-october-29/.189971",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 2998,
-          "title": "Women in Comics Event Hosts Rica Takashima in NYC on October 29",
-          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/news.5/188651/495166.jpg"
         }
       ]
     },
@@ -2899,7 +2809,7 @@
           "description": "\"I'm not upset...\"\n\n\nJust when you thought it was safe to go back on the Internet, the Pop Team Epic TV has decided to throw a wrench in the gears with a 72-hour \"endurance marathon\" of the \"Bob ne Mimimi\" segments of the series streaming on Youtube. Hit the jump to check it out, if you dare.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24/pop-team-epic-tv-anime-unleashes-72-hour-bob-ne-mimimi-marathon",
           "publishedOn": "2022-09-24T18:33:16.000Z",
-          "wordCount": 5961,
+          "wordCount": 5962,
           "title": "Pop Team Epic TV Anime Unleashes 72-Hour Bob Ne Mimimi Marathon",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/89828b0b75e71cad5578165b8299ae701664043676_main.jpg"
         },
@@ -2929,7 +2839,7 @@
           "description": "Kotaro and Romero join the brawl as the project continues into its third wave\n\n\nFranchouchou continues to tighten its adorable grip on Saga Prefecture! The stars of ZOMBIE LAND SAGA are once again taking center stage on a series of decorated manhole covers, marking the third wave of the zombie idol group's attack. And this time, their manager and mascot are along for the ride! Have a closer look after the jump.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/franchouchou-takes-on-saga-with-nine-new-zombie-land-saga-manhole-covers",
           "publishedOn": "2022-09-24T14:32:58.000Z",
-          "wordCount": 6057,
+          "wordCount": 6060,
           "title": "Franchouchou Takes on Saga with Nine New ZOMBIE LAND SAGA Manhole Covers",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/dbc1f17fc46164784f846c7968110ea61664025938_main.png"
         },
@@ -2939,7 +2849,7 @@
           "description": "The creator of 750 Rider and Kutabare!! Namida-kun was honored in a private ceremony\n\n\nToday, we learned of the passing of manga author Isami Ishii on September 17. The creator of titles like Rider 750 and Kutabare!! Namida-kun was 80 years old at the time of his death. We remember his career and accomplishments after the jump.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24/manga-author-isami-ishii-passes-away-at-80",
           "publishedOn": "2022-09-24T13:11:44.000Z",
-          "wordCount": 5919,
+          "wordCount": 5918,
           "title": "Manga Author Isami Ishii Passes Away at 80",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/bc3efbb591c92d2b661f6f83f83a91e91664024352_main.png"
         },
@@ -2949,7 +2859,7 @@
           "description": "Voice actors revealed for various idol units ahead of premiere\n\n\nWhat started as a YouTube project in 2021 is about to come to the world of TV, because Sony Music's UniteUp! idol project is officially getting an anime adaptation from CloverWorks. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/uniteup-idol-project-inspires-tv-anime-in-january-2023",
           "publishedOn": "2022-09-24T11:51:40.000Z",
-          "wordCount": 5898,
+          "wordCount": 5900,
           "title": "UniteUp! Idol Project Inspires TV Anime in January 2023",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/141a376756a8c7240fd6c899afb9ae9c1664020250_main.jpg"
         },
@@ -2959,7 +2869,7 @@
           "description": "Both the Japanese and English-dubbed versions are in the works\n\n\nFate/strange Fake -Whispers of Dawn- is set to air during the Fate New Year's TV Special on December 31, and a teaser trailer was posted along with the news. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/fatestrange-fake-whispers-of-dawn-anime-special-to-air-on-new-years-eve",
           "publishedOn": "2022-09-24T11:19:23.000Z",
-          "wordCount": 5924,
+          "wordCount": 5919,
           "title": "Fate/strange Fake -Whispers of Dawn- Anime Special to Air on New Year's Eve",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/8dc3b1d65d5f14961d1d49d4e6807aa41664018325_main.jpg"
         },
@@ -2969,7 +2879,7 @@
           "description": "PC release planned for game by SWAN SONG's Renya Setoguchi\n\n\nIn addition to anime announcements at Aniplex Online Fest 2022, the company's visual novel branch was on hand for a new reveal. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24/aniplexexe-reveals-hirahira-hihiru-visual-novel-for-2023",
           "publishedOn": "2022-09-24T11:00:09.000Z",
-          "wordCount": 5845,
+          "wordCount": 5841,
           "title": "ANIPLEX.EXE Reveals Hirahira Hihiru Visual Novel for 2023",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/6cfa450f7aa69cf4bea03c2d479f1dee1664017122_main.jpg"
         },
@@ -2979,7 +2889,7 @@
           "description": "Check out the latest preview along with a new key visual!\n\n\nA new trailer and visual have arrived for the Arknights anime adaptation, Arknights [PRELUDE TO DAWN], which is officially set to premiere on October 28. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24/arknights-anime-shows-off-new-trailer-ahead-of-october-28-premiere",
           "publishedOn": "2022-09-24T10:36:36.000Z",
-          "wordCount": 5986,
+          "wordCount": 5987,
           "title": "Arknights Anime Shows Off New Trailer Ahead of October 28 Premiere",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/4fef2dd6bd3c04cd3d9e6a283993add51664015714_main.jpg"
         },
@@ -2989,7 +2899,7 @@
           "description": "The all-out war between heroes and villains will light up screens for half a year\n\n\nWe've got a lot of My Hero Academia to look forward to, because the latest update has confirmed season six as a two-cour consecutive run. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/my-hero-academia-season-6-to-air-for-two-consecutive-cours",
           "publishedOn": "2022-09-24T10:17:48.000Z",
-          "wordCount": 5852,
+          "wordCount": 5855,
           "title": "My Hero Academia Season 6 to Air for Two Consecutive Cours",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/68b211dd807867c6eac31fc0ca6f662d1664014622_main.png"
         },
@@ -2999,7 +2909,7 @@
           "description": "Studio MADHOUSE produces adaptation of rom-com manga\n\n\nA strong internet connection as well as a personal one is at the heart of Loving Yamada at Lv999!, which announced that a TV anime adaptation is in the works at studio MADHOUSE with the release of a teaser visual, trailer, staff and cast. Hit the jump for all the details!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/chihayafuru-director-helms-loving-yamada-at-lv999-tv-anime-for-2023-broadcast",
           "publishedOn": "2022-09-24T08:30:22.000Z",
-          "wordCount": 5989,
+          "wordCount": 5983,
           "title": "Chihayafuru Director Helms Loving Yamada at Lv999! TV Anime for 2023 Broadcast",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/d3381bb5c7d73195638631e6707b3da21664008155_main.png"
         },
@@ -3009,7 +2919,7 @@
           "description": "Seiji Mizushima chief directs the film at A-1 Pictures\n\n\nIt's time to take to the skies in a brand new anime film from the mind of Puella Magi Madoka Magica writer Gen Urobuchi as his novel Eisen Flügel was announced to be getting an anime adaptation at anime studio A-1 Pictures. A teaser trailer and visual were released alongside the main staff members which can be watched past the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/gen-urobuchis-eisen-flgel-novel-gets-anime-film",
           "publishedOn": "2022-09-24T08:10:06.000Z",
-          "wordCount": 5944,
+          "wordCount": 5945,
           "title": "Gen Urobuchi's Eisen Flügel Novel Gets Anime Film",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/5a346dd745d6bafe283d68cad4cbe1891664006988_main.jpg"
         },
@@ -3019,7 +2929,7 @@
           "description": "Adaptation by CONNECT begins airing in January 2023\n\n\nThe male and female versions of Matsuri, plus Suzu and Shirogane now have a voice thanks to Aniplex Online Fest 2022, which unveiled the main cast and a second teaser visual for the upcoming Ayakashi Triangle anime series. Hit the jump for all the details!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24-1/ayakashi-triangle-tv-anime-uncovers-main-cast-new-teaser-visual",
           "publishedOn": "2022-09-24T07:36:00.000Z",
-          "wordCount": 6037,
+          "wordCount": 6041,
           "title": "Ayakashi Triangle TV Anime Uncovers Main Cast, New Teaser Visual",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/b9664c7bbd4fcd297e24ea8ff62f34a51664004881_main.png"
         },
@@ -3039,7 +2949,7 @@
           "description": "The muscles and magic anime adaptation is to air in 2023\n\n\nMash uses all of his might to conquer magical society only using the magnificent muscles he’s worked hard for in the upcoming MASHLE: MAGIC AND MUSCLES TV anime. Today at Aniplex Online Fest 2022, the titular character Mash got his voice actor announced alongside the first teaser trailer and main staff. Smash past the jump for more!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/24/chiaki-kobayashi-muscles-his-way-into-voicing-lead-in-mashle-tv-anime",
           "publishedOn": "2022-09-24T07:01:23.000Z",
-          "wordCount": 6078,
+          "wordCount": 6082,
           "title": "Chiaki Kobayashi Muscles His Way Into Voicing Lead in MASHLE TV Anime",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/edc9c4ac2195bdf7f2396fe9f388936e1664002858_main.jpg"
         },
@@ -3049,7 +2959,7 @@
           "description": "Yuichiro Umehara takes on the mantle of Anos for split-cour sequel\n\n\nAfter a two-year absence since its first season in 2020, The Misfit of Demon King Academy has found its place again among the Winter 2023 anime season, revealing a key visual and the first trailer for Season 2 during the Aniplex Online Fest 2022 livestream event today. Hit the jump for all the details!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/the-misfit-of-demon-king-academy-season-2-sets-january-2023-premiere-with-new-visual-trailer",
           "publishedOn": "2022-09-24T06:51:00.000Z",
-          "wordCount": 6035,
+          "wordCount": 6031,
           "title": "The Misfit of Demon King Academy Season 2 Sets January 2023 Premiere with New Visual, Trailer",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/7727397e38dd2494e31639c1eee1f1c71664002224_main.png"
         },
@@ -3069,7 +2979,7 @@
           "description": "Meet Kouseki Misaki and Tastumi Tanabe from the incoming rom-com\n\n\nTomo-chan Is a Girl! is prepping for its January 2023 debut, which means the anticipated rom-com had some updates to share at this weekend’s Aniplex Online Fest, including the introduction of a pair of characters from the series! Check out the latest information after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/tomo-chan-is-a-girl-reveals-new-character-trailer-additional-cast-at-aniplex-online-fest",
           "publishedOn": "2022-09-24T06:36:00.000Z",
-          "wordCount": 6119,
+          "wordCount": 6114,
           "title": "Tomo-chan Is a Girl! Reveals New Character Trailer, Additional Cast at Aniplex Online Fest",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/ae55c8b7c81b7a4151c48005bdfb518c1664001180_main.jpg"
         },
@@ -3079,7 +2989,7 @@
           "description": "A special video message was also shared\n\n\nThis fall marks the official premiere of Berserk: The Golden Age Arc - Memorial Edition, which celebrates the work of the late Kentaro Miura in a new way starting October 1. This weekend's Aniplex Online Fest 2022 event came through with a new trailer and a special video message to get everyone ready to revisit Guts’ story. Slice past the jump to check it out!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/berserk-the-golden-age-arc-memorial-edition-tv-anime-delivers-new-trailer",
           "publishedOn": "2022-09-24T05:13:16.000Z",
-          "wordCount": 6088,
+          "wordCount": 6084,
           "title": "Berserk: The Golden Age Arc - Memorial Edition TV Anime Delivers New Trailer",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/78bc557c8f6a919440dfa2e5a1c9cfa21663996385_main.jpg"
         },
@@ -3089,7 +2999,7 @@
           "description": "The wait ends on October 10\n\n\nAfter 10 years, the story of Ichigo and his friend continues in the Bleach: Thousand-Year Blood War TV anime. To get fans prepped for the four-season series, at this weekend's Aniplex Online Fest 2022 event a short new trailer was released showing more of the light-hearted side of Tite Kubo's creation. Check it out after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/bleach-thousand-year-blood-war-tv-anime-gets-short-and-fun-new-trailer",
           "publishedOn": "2022-09-24T05:10:14.000Z",
-          "wordCount": 5925,
+          "wordCount": 5926,
           "title": "Bleach: Thousand-Year Blood War TV Anime Gets Short and Fun New Trailer",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/09c0581b91b741ccb02c4cc23afb88281663996203_main.jpg"
         },
@@ -3099,7 +3009,7 @@
           "description": "A teaser trailer was released for the adaptation\n\n\nThe sweet visual novel ATRI -My Dear Moments- is commemorating its second anniversary this year and as part of the celebrations, it was revealed at this weekend's Aniplex Online Fest 2022 event that it'll be getting a TV anime series. A teaser trailer for the anime was released which can be enjoyed after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/atri-my-dear-moments-visual-novel-gets-tv-anime",
           "publishedOn": "2022-09-24T05:07:35.000Z",
-          "wordCount": 5926,
+          "wordCount": 5929,
           "title": "ATRI -My Dear Moments- Visual Novel Gets TV Anime",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/bb9d91e12e37692e1d2429708480a0761663996046_main.jpg"
         },
@@ -3109,7 +3019,7 @@
           "description": "Crunchyroll is set to stream the series in 2023\n\n\nStudio Orange and artist Kouji Tajima continue to take us on a ride through the alluring world of TRIGUN STAMPEDE, stopping by slums and a desert spot on the way to 2023 in two new pieces of anime concept art. Hit the jump for the full picture!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/trigun-stampede-loads-up-another-round-of-stunning-anime-concept-art",
           "publishedOn": "2022-09-24T03:56:00.000Z",
-          "wordCount": 6036,
+          "wordCount": 6032,
           "title": "TRIGUN STAMPEDE Loads Up Another Round of Stunning Anime Concept Art",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/03e6c6c346953d156e6758f839dabf211663991713_main.png"
         },
@@ -3129,7 +3039,7 @@
           "description": "Yuichiro Hirakawa (The Promised Neverland)-directed film will open on October 14\n\n\nA two-minute clip to explore the inside of the \"Chikyu-ya\" antique shop in the long-awaited live-action film adaptation of Aoi Hiiragi's romantic coming of age manga Whisper of the Heart is now streamed. See how that place, which has important meaning in the story, is created after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/explore-the-inside-of-chikyu-ya-antique-store-in-whisper-of-the-heart-live-action-film",
           "publishedOn": "2022-09-24T02:16:08.000Z",
-          "wordCount": 5984,
+          "wordCount": 5989,
           "title": "Explore The Inside of Chikyu-ya Antique Store in Whisper of The Heart Live-action Film",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/352e9fe08b3825439950161c48269df81663985475_main.png"
         },
@@ -3139,7 +3049,7 @@
           "description": "EMT Squared-animated fantasy will be simulcast on Crunchyroll\r\n\n\nThe official website for five-member Japanese dance and vocal unit MADKID has announced that their seventh major single \"Change The World,\" which will be featured as the opening theme for the fall 2022 TV anime Beast Tamer, is set to be released on November 23, 2022. Check out their new artist photo and the song's teaser MV after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/madkid-to-release-fall-2022-tv-anime-beast-tamer-opening-theme-on-november-23",
           "publishedOn": "2022-09-24T00:40:11.000Z",
-          "wordCount": 5952,
+          "wordCount": 5950,
           "title": "MADKID to Release Fall 2022 TV Anime Beast Tamer Opening Theme on November 23",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/498f3f90a27e94a69d7feca2b9db3a4e1663979546_main.jpg"
         },
@@ -3149,7 +3059,7 @@
           "description": "The main scenarios will be written by series composition writer Toya Okano \n\n\nAfter the broadcast of its final 12th episode in Japan last night, the official website for the summer 2022 TV anime Prima Doll announced that its prequel and sequel episodes will be released in the form of a kinetic novel (A form of visual novel that does not give the player a choice). Hit the jump for more details!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/prima-doll-anime-gets-prequelsequel-kinetic-novel-episodes",
           "publishedOn": "2022-09-23T23:55:00.000Z",
-          "wordCount": 6067,
+          "wordCount": 6072,
           "title": "Prima Doll Anime Gets Prequel/Sequel Kinetic Novel Episodes",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/fb8dbfb695ff3f1569f246d1a4f1f8061663976921_main.jpg"
         },
@@ -3159,7 +3069,7 @@
           "description": "Watch to be released in limited run of 600 pieces, 100 bundled with carbon fiber skull mask\n\n\nIn a low-key tweet, high-end watch and apparel brand Anicorn have announced a new collaboration with Kojima Productions and NASA to release a new watch that ties into the video game developer's mascot. Read on for the details.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/high-end-watch-brand-anicorn-collaborates-with-kojima-productions-and-nasa-on-space-ludens-watch",
           "publishedOn": "2022-09-23T21:32:47.000Z",
-          "wordCount": 5934,
+          "wordCount": 5932,
           "title": "High-End Watch Brand Anicorn Collaborates With Kojima Productions And NASA On Space Ludens Watch",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/f25eb2f2805f73787b00662be75e5b4b1663968327_main.jpg"
         },
@@ -3169,7 +3079,7 @@
           "description": "Series begins streaming on September 30\n\n\nStreaming service HIDIVE has announced a classic series that will premiere on its service at the end of the month in Super Dimension Century Orguss. Read on for the details.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/hidive-to-stream-classic-sci-fi-anime-super-dimension-century-orguss",
           "publishedOn": "2022-09-23T20:33:26.000Z",
-          "wordCount": 5834,
+          "wordCount": 5832,
           "title": "HIDIVE To Stream Classic Sci-Fi Anime Super Dimension Century Orguss",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/1f700667906577facdd96864d7b6e88a1663964988_main.jpg"
         },
@@ -3189,7 +3099,7 @@
           "description": "The LA based record label is bringing decades' worth of music to listeners outside of Japan\n\n\nThe Evangelion franchise has some of the most iconic music in all of anime, and today, Milan Records released two albums of Shiro SAGISU's iconic score! This marks the first time these two albums are available outside of Japan, and both feature music from the original 1995 anime series as well as the Rebuild of Evangelion film series. Hit the jump to learn more and listen to both albums!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/two-albums-of-evangelion-music-released-for-the-first-time-in-the-us-by-milan-records",
           "publishedOn": "2022-09-23T17:35:00.000Z",
-          "wordCount": 5901,
+          "wordCount": 5904,
           "title": "Two Albums of Evangelion Music Released for the First Time in the US by Milan Records",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/1545cb96d4d455fb526d4cd12b76ab0d1663919597_main.jpg"
         },
@@ -3219,7 +3129,7 @@
           "description": "Lupin and Hitomi pose for Twitter in new piece\n\n\nNext year, anime's greatest thieves are crossing paths for the first time! Lupin the Third vs. Cat's Eye is coming to Amazon Prime, and character designer Haruhisa Nakata has shared a piece of celebratory art featuring Lupin and Hitomi back-to-back. Check it out after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23/haruhisa-nakata-shares-lupin-the-third-vs-cats-eye-team-up-art",
           "publishedOn": "2022-09-23T15:55:54.000Z",
-          "wordCount": 5993,
+          "wordCount": 5987,
           "title": "Haruhisa Nakata Shares Lupin the Third vs. Cat's Eye Team-Up Art",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/f4269475a98cecc32f1ce13aa4809d1d1663947970_main.png"
         },
@@ -3249,7 +3159,7 @@
           "description": "Series premieres in Japan on October 7\n\n\nThe Legend of Mana -The Teardrop Crystal- TV anime is about to light up the fall season with its take on Square Enix's RPG starting on October 7 in Japan. Check out the OP!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/legend-of-mana-the-teardrop-crystal-anime-previews-op-movie",
           "publishedOn": "2022-09-23T13:59:29.000Z",
-          "wordCount": 5953,
+          "wordCount": 5950,
           "title": "Legend of Mana -The Teardrop Crystal- Anime Previews OP Movie",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/f03e998dc6e25285d4221f70a253d6d71663941542_main.jpg"
         },
@@ -3259,7 +3169,7 @@
           "description": "Mirai Minato returns to direct the series at Silver Link\n\n\nBefore even getting a hint on when the next season of Masamune-kun’s Revenge TV anime will release, the series has released a bunch of new character visuals of its cast, with two more being released today featuring Kojuro Shuri and Kanetsugu Gaso's new Masamune-kun’s Revenge R new visual styles. Check out the designs after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/youll-fall-in-love-with-these-new-masamune-kuns-revenge-season-2-tv-anime-character-designs",
           "publishedOn": "2022-09-23T13:23:37.000Z",
-          "wordCount": 6012,
+          "wordCount": 6018,
           "title": "You'll Fall in Love With These New Masamune-kun’s Revenge Season 2 TV Anime Character Designs",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/4a4e564fa94dd9118940c2ee12fe170c1663939404_main.jpg"
         },
@@ -3269,7 +3179,7 @@
           "description": "Adaptation based on 4-panel manga by Aki Hamaji hits Japanese TV and Crunchyroll in October of 2022\n\n\nA new character trailer that introduces Nijika Ijichi, the extroverted drummer of the Kessoku Band, has been published for BOCCHI THE ROCK!, an upcoming TV anime based on the 4-panel manga by Aki Hamaji about an introverted girl who finds begins to come out of her shell after she learns to play the guitar and joins a band. Hit the jump to check it out.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/23-1/meet-the-drummer-in-new-character-pv-for-bocchi-the-rock-tv-anime",
           "publishedOn": "2022-09-23T11:53:06.000Z",
-          "wordCount": 6100,
+          "wordCount": 6102,
           "title": "Meet the Drummer in New Character PV for BOCCHI THE ROCK! TV Anime",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/fd140f1181bbda23137be3c327a7d0dd1663933243_main.jpg"
         },
@@ -3289,7 +3199,7 @@
           "description": "Check out some of the exciting updates that are on the way! \n\n\nWe have some more exciting Mitrasphere updates coming your way. As we continue to look towards building a better world for all, we will be implementing new changes to ease you on your journey. Read on for more.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22-1/mitrasphere-another-step-forward-with-patch-22",
           "publishedOn": "2022-09-23T05:00:00.000Z",
-          "wordCount": 6051,
+          "wordCount": 6053,
           "title": "Mitrasphere: Another Step Forward with Patch 2.2",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/3d34746ea600fbb693c50a7f1257d8121663843728_main.png"
         },
@@ -3309,7 +3219,7 @@
           "description": "Limited edition comes with an Okinawa photo session bonus DVD\n\n\nFollowing the initial announcement in July, Japanese publisher Tokyo News Tsushinsha has released new sample photos from anime voice actor Sumire Uesaka's (Nagatoro in DON'T TOY WITH ME, MISS NAGATORO) much-awaited second photo collection book, \"Sumire no Yume\" (Sumire's Dream). Check out her new smiling photos after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22-1/check-out-new-sample-photos-from-voice-actress-sumire-uesakas-2nd-photo-book",
           "publishedOn": "2022-09-23T02:35:00.000Z",
-          "wordCount": 5921,
+          "wordCount": 5920,
           "title": "Check Out New Sample Photos from Voice Actor Sumire Uesaka's 2nd Photo Book",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/245b647558b5a62d89c4106c793108be1663900254_main.jpg"
         },
@@ -3319,7 +3229,7 @@
           "description": "Lots of \"Delicious Smile\" projects coming up, including one linked to Twitter\n\n\nThe much-awaited 31st Precure feature film, Delicious Party Pretty Cure the Movie: Dreamy Children's Lunch! is finally released in Japan today on September 23. To celebrate the release, two special programs will be live-streamed on the Precure franchise's official YouTube channel today. Hit the jump for more details!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22-1/delicious-party-pretty-cure-film-to-stream-two-special-live-streaming-programs-on-its-release-day",
           "publishedOn": "2022-09-23T01:55:02.000Z",
-          "wordCount": 5964,
+          "wordCount": 5967,
           "title": "Delicious Party Pretty Cure Film to Stream Two Special Live-streaming Programs on Its Release Day",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/670dc1e2cca8ab28b8783d768809bbfe1663897585_main.jpg"
         },
@@ -3329,7 +3239,7 @@
           "description": "The CD single will be available on November 30\n\n\nThe official website for the fall 2022 TV anime 4-nin wa Sorezore Uso wo Tsuku has announced that its ending theme song \"For 4 Forever\" is sung by the anime's four main voice cast members - Chiemi Tanaka (Rikka), Natsumi Murakami (Chiyo), Ayane Sakura (Sekine), and Megumi Han (Tsubasa / Tsuyoshi). Check out their message video after the jump!",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22-1/4-main-vas-to-sing-4-nin-wa-sorezore-uso-wo-tsuku-anime-ending-theme-for-4-forever",
           "publishedOn": "2022-09-23T01:12:22.000Z",
-          "wordCount": 5965,
+          "wordCount": 5968,
           "title": "4 Main VAs to Sing 4-nin wa Sorezore Uso wo Tsuku Anime Ending Theme \"For 4 Forever\"",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/368cdf2b87e3272d39d3fb7de5c301611663895170_main.jpg"
         },
@@ -3349,7 +3259,7 @@
           "description": "Series helmed by Laid-Back Camp episode director Norihiko Nagahama\n\n\nStreaming service HIDIVE has announced that I've Somehow Gotten Stronger When I Improved My Farm-Related Skills, which is also known under the shortened and localized title Farming Made Me Stronger will premiere on the service in Ocober. Read on for the details.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22-1/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills-to-premiere-on-hidive-october-1",
           "publishedOn": "2022-09-22T21:48:27.000Z",
-          "wordCount": 5970,
+          "wordCount": 5972,
           "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills To Premiere On HIDIVE October 1",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/ffaa8462a679ee67504ed0741102f1b81663883252_main.jpg"
         },
@@ -3359,7 +3269,7 @@
           "description": "Pokémon: The Arceus Chronicles special premieres before new series on September 23\n\n\nThe Pokémon Company has confirmed release details for the next series in the ongoing Pokémon anime franchise in Pokémon Ultimate Journeys: The Series along with details on the Pokémon: The Arceus Chronicles special. Read on for all of the details.",
           "link": "https://www.crunchyroll.com/anime-news/2022/09/22/pokmon-ultimate-journeys-the-series-gets-october-us-premiere-on-netflix",
           "publishedOn": "2022-09-22T20:49:36.000Z",
-          "wordCount": 6050,
+          "wordCount": 6049,
           "title": "Pokémon Ultimate Journeys: The Series Gets October US Premiere On Netflix",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/7a4d42bae876089b078b045ee44cf98d1663879465_main.jpg"
         },
@@ -3393,10 +3303,10 @@
         {
           "id": "https://myanimelist.net/news/67553378?_location=rss",
           "author": null,
-          "description": "The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no Heya (Quadruple Wall Room) Souichi Tsuji: Yuuji M...",
+          "description": "The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac (Junji Ito Maniac: Japanese Tales of the Macabre) net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no...",
           "link": "https://myanimelist.net/news/67553378?_location=rss",
           "publishedOn": "2022-09-25T08:02:33.000Z",
-          "wordCount": 1429,
+          "wordCount": 1498,
           "title": "'Itou Junji: Maniac' Unveils Main Staff, Additional Cast, January 19 Premiere",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664092688-dd34666e64d7ae624e6e2c70087c181f.jpeg"
         },
@@ -3408,7 +3318,7 @@
           "publishedOn": "2022-09-25T07:54:43.000Z",
           "wordCount": 1404,
           "title": "'Make My Day' Reveals Main Cast, Additional Staff, February 2023 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664091560-0e45d49e1e0ea24837685a9dcb354e38.jpeg"
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664094149-7003a2d793adb3058043c4506fd847b1.jpeg"
         },
         {
           "id": "https://myanimelist.net/news/67553252?_location=rss",
@@ -3416,7 +3326,7 @@
           "description": "An anime adaptation of Baku Yumemakura's Onmyouji novel series was announced at the Netflix TUDUM Japan event on Sunday, revealing the main staff, a concept art (pictured above), and a character visual for Abe no Seimei (pictured right). The anime series will debut worldwide on Netflix in 2023. Soubi Yamamoto (Meganebu!) is directing the anime at Marvy Jack. Natsu Hashimoto (Oshiete Hokusai! The Animation) and Yuiko Katou (Aguu: Tensai Ningyou) are penning the script. Yumemakura originally...",
           "link": "https://myanimelist.net/news/67553252?_location=rss",
           "publishedOn": "2022-09-25T07:42:10.000Z",
-          "wordCount": 1515,
+          "wordCount": 1541,
           "title": "Baku Yumemakura's 'Onmyouji' Novel Gets Anime in 2023",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664091670-da678a78a6b44fb0d1790f2fd8e7ce58.jpeg"
         },
@@ -3426,17 +3336,17 @@
           "description": "The Netflix TUDUM Japan event announced a fifth season of Sanrio's Aggressive Retsuko (Aggretsuko) net anime series on Sunday. The final season is scheduled to premiere worldwide on Netflix in February 2023. The first anime adaptation based on Sanrio's titular red panda mascot aired in 100 one-minute episodes from April 2016 to March 2018 on TBS' Ousama no Brunch program. TBS subsequently combined all 100 episodes and broadcast them in 10 episodes. The first, second, third, and f...",
           "link": "https://myanimelist.net/news/67552991?_location=rss",
           "publishedOn": "2022-09-25T06:41:49.000Z",
-          "wordCount": 1596,
+          "wordCount": 1637,
           "title": "'Aggressive Retsuko' Gets Fifth Season in February 2023",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664087997-665c6083b3f270552be12d3f358e5fef.jpeg"
         },
         {
           "id": "https://myanimelist.net/news/67552810?_location=rss",
           "author": null,
-          "description": "The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Studio: Sublimation Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha r...",
+          "description": "The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Studio: Sublimation Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha...",
           "link": "https://myanimelist.net/news/67552810?_location=rss",
           "publishedOn": "2022-09-25T06:12:07.000Z",
-          "wordCount": 1316,
+          "wordCount": 1459,
           "title": "Video Game 'Onimusha' Gets Anime Series",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664086234-c75d1721efa9953b6ce0d13fc2060405.jpeg"
         },
@@ -3446,7 +3356,7 @@
           "description": "The Netflix TUDUM Japan event announced an anime adaptation of Tae-Jun Park's Lookism manhwa on Sunday, revealing a teaser visual (pictured above) and teaser promotional video. The anime series, produced by Studio Mir, with stream worldwide on Netflix under the title Gaiken Shijou Shugi on November 4. Park launched the action drama manhwa on the Naver Webtoon (now Line Webtoon) webcomic portal in November 2014. The 20th volume went on sale on May 20. LINE Webtoon began releasing the title...",
           "link": "https://myanimelist.net/news/67552685?_location=rss",
           "publishedOn": "2022-09-25T06:00:59.000Z",
-          "wordCount": 1531,
+          "wordCount": 1796,
           "title": "Manhwa 'Lookism' Gets Anime Series",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664085581-ae3c0cc36e1590533915844da315a386.jpeg"
         },
@@ -3456,7 +3366,7 @@
           "description": "The Netflix TUDUM Japan event announced a second anime season for Kousuke Oono's Gokushufudou (The Way of the Househusband) manga on Sunday. The new season will stream worldwide on Netflix in January 2023. Chiaki Kon (Higurashi no Naku Koro ni, Nodame Cantabile: Paris-hen) is returning to direct the second season at J.C.Staff (Prison School, Amanchu!). Susumu Yamakawa (Back Street Girls: Gokudolls) is also returning to handle the series composition. The first season premiered in two five-ep...",
           "link": "https://myanimelist.net/news/67552429?_location=rss",
           "publishedOn": "2022-09-25T05:24:22.000Z",
-          "wordCount": 1574,
+          "wordCount": 1644,
           "title": "'Gokushufudou' Gets 2nd Season for January 2023",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664083433-a3d4909cf423596844d7facd1868cd4f.jpeg"
         },
@@ -3466,7 +3376,7 @@
           "description": "The Netflix TUDUM Japan livestream event announced on Sunday additional staff, a teaser visual (pictured), and teaser promotional video for Wit Studio's Moonrise original anime series. The anime is scheduled to premiere worldwide on Netflix in 2024. Staff Original Creator: Tow Ubukata (Mardock Scramble) Original Character Design: Hiromu Arakawa (Fullmetal Alchemist) Director: Masashi Koizuka (Shingeki no Kyoujin Season 2) Character Design: Ayumi Yamada (Owari no Seraph sub-character design)...",
           "link": "https://myanimelist.net/news/67552354?_location=rss",
           "publishedOn": "2022-09-25T05:07:59.000Z",
-          "wordCount": 1403,
+          "wordCount": 1603,
           "title": "'Moonrise' Reveals Additional Staff, Teaser Promo, 2024 Premiere",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664082428-d9061ce414c539b87e7e326254038bb8.jpeg"
         },
@@ -3476,7 +3386,7 @@
           "description": "The official website of the Arknights: Reimei Zensou (Arknights Animation: Prelude to Dawn) television anime revealed additional staff, cast, opening theme, a promotional video and key visual (pictured) on Saturday. The anime is scheduled to broadcast on October 29 at 1:23 a.m. on TV Tokyo, followed by TV Osaka, BS11, and Animax. Cast Doctor: Yuki Kaida (Tennis no Ouji-sama) Amiya: Tomoyo Kurosawa (Hibike! Euphonium) Dobermann: Atsumi Tanezaki (Spy x Family) Nearl: Ayane Sakura (Boku no Hero Aca...",
           "link": "https://myanimelist.net/news/67547345?_location=rss",
           "publishedOn": "2022-09-24T17:05:22.000Z",
-          "wordCount": 1804,
+          "wordCount": 1803,
           "title": "'Arknights: Reimei Zensou' Reveals Additional Staff, Cast, First Promo",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664038361-4f428fd8e3555417e6744cd033534480.jpeg"
         },
@@ -3486,7 +3396,7 @@
           "description": "The Aniplex Online Fest 2022 event announced a television anime adaptation for Sony Music Entertainment Japan's UniteUp! project on Saturday, revealing the main cast and a teaser promotional video. Produced by CloverWorks, the anime series will broadcast in January 2023. Cast PROTOSTAR Akira Kiyose: Kikunosuke Toya (Chainsaw Man) Banri Naoe: Ryoutarou Yamaguchi (Futsal Boys!!!!!) Chihiro Isuzugawa: Amon Hirai LEGIT Daiki Takao: Magura Sukegawa Eishiro Nijo: Shinnosuke Morikage Fuga Togo: Ry...",
           "link": "https://myanimelist.net/news/67544667?_location=rss",
           "publishedOn": "2022-09-24T11:42:14.000Z",
-          "wordCount": 1695,
+          "wordCount": 1694,
           "title": "Sony Music Project 'UniteUp' Gets TV Anime in Winter 2023",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664017403-2196103af4549159b1d005e830d8ee00.jpeg"
         },
@@ -3496,7 +3406,7 @@
           "description": "The Aniplex Online Fest 2022 event revealed the main cast and a second teaser visual (pictured) for the Ayakashi Triangle anime series on Saturday. The television anime adapting Kentarou Yabuki's ecchi comedy manga will premiere in January 2023. Cast Matsuri Kazamaki (Male): Shouya Chiba (Jibaku Shounen Hanako-kun) Matsuri Kazamaki (Female): Miyu Tomita (Ore dake Haireru Kakushi Dungeon) Suzu Kanade: Kana Ichinose (Hige wo Soru. Soshite Joshikousei wo Hirou.) Shirogane: Tesshou Genda (Oda C...",
           "link": "https://myanimelist.net/news/67544062?_location=rss",
           "publishedOn": "2022-09-24T10:00:32.000Z",
-          "wordCount": 1702,
+          "wordCount": 1701,
           "title": "'Ayakashi Triangle' TV Anime Main Cast Announced",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664013608-b8ff9c9da3eb1c233d05167b9bab5480.jpeg"
         },
@@ -3506,7 +3416,7 @@
           "description": "The Aniplex Online Fest 2022 event announced an anime movie adaptation of Gen Urobuchi's Eisen Flügel light novel on Saturday. Aniplex simultaneously launched an official website, revealing the production staff, a teaser promotional video, and teaser visual (pictured). Urobuchi penned the light novel in two volumes under Shogakukan's Gagaga Bunko label in July and December 2009, featuring illustrations by Higashiguchi Chuuou (Mnemosyne: Mnemosyne no Musume-tachi). Anno Nanakamado...",
           "link": "https://myanimelist.net/news/67543892?_location=rss",
           "publishedOn": "2022-09-24T09:28:59.000Z",
-          "wordCount": 2147,
+          "wordCount": 2146,
           "title": "Gen Urobuchi's 'Eisen Flügel' Light Novel Gets Anime Movie",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664011728-03b143e16b1025a23577008fb207c634.jpeg"
         },
@@ -3516,7 +3426,7 @@
           "description": "The Aniplex Online Fest 2022 event announced a sequel for the anime series adapting Hajime Kamoshida's Seishun Buta Yarou Series (Rascal Does Not Dream) light novel on Saturday. The event also revealed the main cast, staff, teaser visual (pictured), and an announcement promo. The new anime project will cover the eighth and ninth novel volumes titled Seishun Buta Yarou wa Odekake Sister no Yume wo Minai (Rascal Does Not Dream of a Sister Venturing Out) and Seishun Buta Yarou wa Randoseru Gi...",
           "link": "https://myanimelist.net/news/67543736?_location=rss",
           "publishedOn": "2022-09-24T08:58:04.000Z",
-          "wordCount": 2215,
+          "wordCount": 2214,
           "title": "'Seishun Buta Yarou' Anime Series Sequel Announced",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664064362-eff108a231a521c9e0d749151c2cd517.jpeg"
         },
@@ -3526,7 +3436,7 @@
           "description": "The Aniplex Online Fest 2022 event announced on Saturday a television anime adaptation of Mashiro's Yamada-kun to Lv999 no Koi wo Suru (Loving Yamada at Lv999) manga and revealed the main cast, staff, teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in 2023. Inori Minase (5-toubun no Hanayome) and Kouki Uchiyama (Horimiya) are starring as Akane Kinoshita and Akito Yamada, respectively. Staff Director: Morio Asaka (Chihayafuru) Series Composition: Ya...",
           "link": "https://myanimelist.net/news/67543640?_location=rss",
           "publishedOn": "2022-09-24T08:35:58.000Z",
-          "wordCount": 2460,
+          "wordCount": 2444,
           "title": "Manga 'Yamada-kun to Lv999 no Koi wo Suru' Gets TV Anime in 2023",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664008520-2488faf98f588082b192aa47738477e3.jpeg"
         },
@@ -3536,7 +3446,7 @@
           "description": "The Aniplex Online Fest 2022 event unveiled the main cast, additional staff, teaser visual (pictured), and a teaser promotional video for the television anime adaptation of Hazano Kazutake's Shiro Seijo to Kuro Bokushi (Saint Cecilia and Pastor Lawrence) manga on Saturday. The anime is scheduled to premiere in April 2023. Hime Sawada and Kaito Ishikawa (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai) stars as Cecilia and Lawrence, respectively. Staff Art Director: Chieko Nakamura...",
           "link": "https://myanimelist.net/news/67543518?_location=rss",
           "publishedOn": "2022-09-24T08:05:06.000Z",
-          "wordCount": 1849,
+          "wordCount": 1848,
           "title": "'Shiro Seijo to Kuro Bokushi' Unveils Main Cast, Additional Staff, Spring 2023 Premiere",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664006632-b80c8ee3415c8893d4b0a10837a471bf.jpeg"
         },
@@ -3546,7 +3456,7 @@
           "description": "The Aniplex Online Fest 2022 event announced a television special anime for Ryohgo Narita's Fate/strange Fake light novel on Saturday. Aniplex simultaneously opened an official website, revealing the main staff, cast, a teaser visual (pictured) and teaser promo. The special episode, subtitled Whispers of Dawn, will debut on December 31 this year. Staff Director: Shun Enokido (Manga de Wakaru! Fate/Grand Order), Takahito Sakazume (Princess Connect! Re:Dive Season 2 episode director) Script:...",
           "link": "https://myanimelist.net/news/67543446?_location=rss",
           "publishedOn": "2022-09-24T07:45:55.000Z",
-          "wordCount": 2267,
+          "wordCount": 2266,
           "title": "Light Novel 'Fate/strange Fake' Gets TV Special in December 2022",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664005495-19c4a2d53da1a9d24c93d0ab4313639a.jpeg"
         },
@@ -3556,7 +3466,7 @@
           "description": "The Aniplex Online Fest 2022 event revealed main cast and staff for the Mashle television anime on Saturday. The anime is scheduled to premiere in 2023. Voice actor Chiaki Kobayashi (Tomodachi Game) is starring as Mash Burnedead. Staff Director: Tomoya Tanaka (Engage Kiss) Series Composition: Yousuke Kuroda (Boku no Hero Academia) Character Design: Hisashi Toujima (Sword Art Online: Progressive Movie prop design) Music: Masaru Yokoyama (Ao Ashi) Studio: A-1 Pictures Koumoto began serializing the...",
           "link": "https://myanimelist.net/news/67543338?_location=rss",
           "publishedOn": "2022-09-24T07:26:51.000Z",
-          "wordCount": 1666,
+          "wordCount": 1665,
           "title": "'Mashle' TV Anime Reveals Main Cast, Staff",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664004366-765deb5950555733aa5e75edb0ed3adb.jpeg"
         },
@@ -3576,7 +3486,7 @@
           "description": "The Aniplex Online Fest 2022 event revealed two additional cast and a character introduction promo for the Tomo-chan wa Onnanoko! (Tomo-chan Is a Girl!) television anime on Saturday. The anime series adapting Fumita Yanagida's romantic comedy web manga will premiere in January 2023. Kouhei Amasaki (High Score Girl) and Yoshitsugu Matsuoka (5-toubun no Hanayome) are joining the cast as Kousuke Misaki and Tatsumi Tanabe, respectively. Hitoshi Nanba (Golden Kamuy) is directing the anime at Lay...",
           "link": "https://myanimelist.net/news/67542924?_location=rss",
           "publishedOn": "2022-09-24T06:21:42.000Z",
-          "wordCount": 1623,
+          "wordCount": 1624,
           "title": "'Tomo-chan wa Onnanoko!' Announces Additional Cast Pair",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664000449-9b35b85132e0d95e178cf26c3144e50a.jpeg"
         },
@@ -3589,56 +3499,6 @@
           "wordCount": 3920,
           "title": "New 'Rurouni Kenshin' TV Anime Unveils Cast, Staff, 2023 Premiere",
           "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663995793-1143f1e9dc9d1c3ed8c083793f9727c8.jpeg"
-        },
-        {
-          "id": "https://myanimelist.net/news/67542581?_location=rss",
-          "author": null,
-          "description": "A television anime adaptation of the ATRI: My Dear Moments visual novel was announced at the Aniplex Online Fest 2022 event on Saturday. Production company Aniplex simultaneously opened an official website, revealing the main staff, a teaser visual (pictured) and teaser promo. Makoto Katou (Yagate Kimi ni Naru) is directing the anime at animation studio TROYCA. Jukki Hanada (Sora yori mo Tooi Basho) is in charge of the series composition. Developed by Frontwing and Makura, Aniplex.EXE published...",
-          "link": "https://myanimelist.net/news/67542581?_location=rss",
-          "publishedOn": "2022-09-24T04:50:34.000Z",
-          "wordCount": 2117,
-          "title": "Visual Novel 'ATRI: My Dear Moments' Gets TV Anime",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663995002-bd0f6472fa66251f17fd5813f2434eae.jpeg"
-        },
-        {
-          "id": "https://myanimelist.net/news/67529643?_location=rss",
-          "author": null,
-          "description": "The official website of the new television anime adaptation of Rumiko Takahashi's Urusei Yatsura (Those Obnoxious Aliens) manga announced three additional cast on Thursday. The anime is scheduled to air on October 14 at 12:55 a.m. on Fuji TV's noitaminA block. Cast Onsen-Mark: Kenta Miyake (Boku no Hero Academia) NEW Tsubame Ozuno: Takahiro Sakurai (Mob Psycho 100) NEW Ryoko Mendo: Marina Inoue (Shingeki no Kyojin) NEW Kurama: Nana Mizuki (Naruto) Benten: Shizuka Ishigami (Shokugeki n...",
-          "link": "https://myanimelist.net/news/67529643?_location=rss",
-          "publishedOn": "2022-09-22T15:56:54.000Z",
-          "wordCount": 8359,
-          "title": "'Urusei Yatsura' Announces Additional Cast",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663861982-5c77b9816d08e296c2eced11e4908ef8.jpeg"
-        },
-        {
-          "id": "https://myanimelist.net/news/67527972?_location=rss",
-          "author": null,
-          "description": "The official website of the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru (The Iceblade Sorcerer Shall Rule the World) light novel revealed the main cast, staff, a teaser visual (pictured), and a teaser promotional video on Thursday. The anime series will premiere in January 2023 on TBS and BS11. Cast Ray White: Junya Enoki (Hachi-nan tte, Sore wa Nai deshou!) Amelia Ro...",
-          "link": "https://myanimelist.net/news/67527972?_location=rss",
-          "publishedOn": "2022-09-22T11:27:11.000Z",
-          "wordCount": 3163,
-          "title": "'Hyouken no Majutsushi ga Sekai wo Suberu' Reveals Main Cast, Staff, Teaser Promo",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663844987-1b68515d977476746ebe0aaed1572701.jpeg"
-        },
-        {
-          "id": "https://myanimelist.net/news/67526387?_location=rss",
-          "author": null,
-          "description": "TMS Entertainment opened an official website for a crossover anime titled Lupin III vs. Cat's Eye (Lupin the 3rd vs. Cat's Eye) on Thursday, revealing the production staff, lead cast, a key visual (pictured), and the first promotional video. The anime will debut worldwide on Amazon's Prime Video platform in 2023. Kanichi Kurita and Keiko Toda are reprising their roles as Lupin III and Hitomi Kisugi from the original anime. The anime is celebrating both the 50th anniversary of Lupi...",
-          "link": "https://myanimelist.net/news/67526387?_location=rss",
-          "publishedOn": "2022-09-22T06:25:33.000Z",
-          "wordCount": 2419,
-          "title": "'Lupin III vs. Cat's Eye' Crossover Anime Announced for 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663827801-79dec9cc6259174a215636468b0aad23.jpeg"
-        },
-        {
-          "id": "https://myanimelist.net/news/67521616?_location=rss",
-          "author": null,
-          "description": "The official website of the television anime adaptation of Nihon Falcom's Eiyuu Densetsu: Sen no Kiseki (The Legend of the Heroes: Trails of Cold Steel) role-playing game series unveiled the main cast, staff, a promotional video and key visual (pictured) on Wednesday. The anime is scheduled to broadcast in 2023. Cast Lavian Winslet: Makoto Koichi (Lycoris Recoil) Martin S. Robinson: Yuuichi Nakamura (Jujutsu Kaisen) Iselia Frost: Sarah Emi Bridcutt (Date A Live II) Talion Drake: Yuuki Ono (...",
-          "link": "https://myanimelist.net/news/67521616?_location=rss",
-          "publishedOn": "2022-09-21T17:05:06.000Z",
-          "wordCount": 2369,
-          "title": "'The Legend of Heroes: Sen no Kiseki Northern War' Unveils Main Cast, Staff, First Promo",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663779381-b217125385623ac973980702b2a5d649.jpeg"
         }
       ]
     }
