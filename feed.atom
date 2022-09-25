@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T21:09:06.108Z</updated>
+    <updated>2022-09-25T22:09:35.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russia Begins Mobilizing Ukrainians to Fight Against Their Own Country]]></title>
+        <id>https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html"/>
+        <updated>2022-09-25T21:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Panic and fear flooded the occupied territories as Russian forces rounded up men to fight and forced residents to vote in a staged referendum on joining Russia, Ukrainian officials and rights groups said.]]></summary>
+        <author>
+            <name>Marc Santora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Megastate G.O.P. Rivalry Between Abbott and DeSantis]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/politics/abbott-desantis-rivalry.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/politics/abbott-desantis-rivalry.html"/>
+        <updated>2022-09-25T21:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Publicly, Gov. Greg Abbott of Texas has not criticized the migrant flights from his state by Gov. Ron DeSantis of Florida. Privately, the Florida governor’s stunt stung the Texas governor’s team.]]></summary>
+        <author>
+            <name>Michael C. Bender and J. David Goodman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Football claims another Microsoft Surface tablet]]></title>
+        <id>https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey</id>
+        <link href="https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey"/>
+        <updated>2022-09-25T21:33:19.000Z</updated>
+        <summary type="html"><![CDATA[That poor Surface tablet.
+    
+
+  
+Microsoft Surface tablets have been taking a beating at football events these past two weekends. During the Buffalo Bills game against the Miami Dolphins this afternoon, Bills offensive coordinator Ken Dorsey took his frustration out on his tablet as the Dolphins secured a win during the final moments of the game.
+Dorsey’s reaction may have been warranted, although he probably could’ve chosen another outlet for his anger (like a stress ball perhaps?). The Bills had a chance to run one more play to win the game, but the team ultimately ran out of time, losing to the Dolphins 19-21. When cameras turned to the booth where he was watching the game, Dorsey ripped off his headset and tossed his hat before he picked up the tablet and started violently slamming it against his desk. 
+What an ending to the Bills-Dolphins game! #BUFvsMIA pic.twitter.com/yjlc3H0wUi
+— NFL (@NFL) September 25, 2022
+
+
+
+Last weekend, Tampa Bay Buccaneers quarterback Tom Brady spiked a Surface tablet into the ground after his team made an incomplete pass when they faced off against the Saints. This temper tantrum even caught the eye of Microsoft Surface chief Panos Panay, who responded by saying “Rest assured the Surface should be just fine.”
+Microsoft partnered with the NFL back in 2014 to replace the paper-based system of reviewing plays on the sidelines with Surface tablets. Since then, the tablets have seen abuse from Packers quarterback Aaron Rodgers, Patriots coach Bill Belichick, and, of course, Tom Brady, who’s been caught tossing the tablet twice so far.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beto O’Rourke on Abbott’s Dehumanizing Stunts and Why He Hopes an Upset Looms in Texas]]></title>
+        <id>https://www.nytimes.com/2022/09/25/opinion/beto-orourke-abbott-texas-governor.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/opinion/beto-orourke-abbott-texas-governor.html"/>
+        <updated>2022-09-25T21:11:11.000Z</updated>
+        <summary type="html"><![CDATA[In an interview, he told me about how he views his campaign to unseat the Republican governor of Texas.]]></summary>
+        <author>
+            <name>Charles M. Blow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Horoscope: September 26, 2022]]></title>
+        <id>epz54n</id>
+        <link href="https://www.vice.com/en_us/article/epz54n/daily-horoscope-september-26-2022"/>
+        <updated>2022-09-25T21:10:57.000Z</updated>
+        <summary type="html"><![CDATA[Venus connects with Pluto, Mercury retrograde meets Venus, and the sun opposes Jupiter.]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Horoscope: September 26 - October 2]]></title>
         <id>88qv9g</id>
@@ -4676,6 +4738,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Essential Judy Blume]]></title>
+        <id>https://www.nytimes.com/article/best-judy-blume-books.html</id>
+        <link href="https://www.nytimes.com/article/best-judy-blume-books.html"/>
+        <updated>2022-09-14T09:00:37.000Z</updated>
+        <summary type="html"><![CDATA[For 50 years, her books have educated, entertained and connected young readers. Whether you want to revisit a classic or inspire a new fan, here’s what to read.]]></summary>
+        <author>
+            <name>Elisabeth Egan</name>
         </author>
     </entry>
     <entry>
