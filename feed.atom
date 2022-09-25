@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T17:15:38.755Z</updated>
+    <updated>2022-09-25T18:12:26.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The unicorn valuation gambit]]></title>
+        <id>https://techcrunch.com/?p=2405259</id>
+        <link href="https://techcrunch.com/2022/09/25/the-unicorn-valuation-gambit/"/>
+        <updated>2022-09-25T18:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Many unicorns are avoiding reality by not raising today, hoping that valuations recover and growth reattains its prior market prominence. Will it work?
+The unicorn valuation gambit by Alex Wilhelm originally published on TechCrunch]]></summary>
+        <author>
+            <name>Alex Wilhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirecTV’s NFL Sunday Ticket is having some issues again]]></title>
+        <id>https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football</id>
+        <link href="https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football"/>
+        <updated>2022-09-25T17:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+DirecTV’s NFL Sunday Ticket hasn’t had a very good start to the football season. For the past two weekends in a row, subscribers have struggled to get their streams to work, and this weekend is no exception.
+Even before today’s games started, users began complaining about numerous issues, with many saying that they can’t log into their accounts on the Sunday Ticket website or app and others having problems loading the streams. Those who are able to access the stream are reporting quality issues.
+Somehow Sunday Ticket is acting worse than last week. Truly depressing. @DIRECTV
+— Alex Reno (@alex_reno) September 25, 2022
+
+
+
+DirecTV hasn’t issued any statement about whether it’s working to fix the stream, and the company didn’t immediately respond to The Verge’s request for comment. In a response to one user’s issue on Twitter, DirecTV said “we know some customers can’t access NFL Sunday Ticket online or through the app” and that its “teams are working to resolve this.” Aside from DirecTV, users trying to stream football through CBS on Paramount Plus are also reporting problems.
+In what will probably come as a relief to football fans, DirecTV’s rights to NFL Sunday Ticket expire at the end of this football season. This leaves room for another company to snap up the rights to Sunday Ticket, with Apple, Amazon, Disney, and Google reportedly looking to air Sunday Ticket on each of their respective streaming services. 
+So far, Amazon Prime Video’s showing of Thursday Night Football has shown some promise. The streamer’s first-ever live football game performed a heck of a ton better than DirecTV for the past few weeks, even with some minor blips here and there.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FEATURE: Happy National Comic Book Day! Here's Some Great Anime About Creating Manga]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/09/25-1/feature-happy-national-comic-book-day-heres-some-great-anime-about-creating-manga</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/09/25-1/feature-happy-national-comic-book-day-heres-some-great-anime-about-creating-manga"/>
+        <updated>2022-09-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reading manga is one thing, but creating it? Phew! 
+
+
+Anime featuring everyone's favorite manga creators, industry professionals, and wholehearted fans are a great way to round off your National Comic Book Day celebrations. Settle in with one of these 5 amazing anime.]]></summary>
+        <author>
+            <name>Kathleen Townsend</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Jaeckin, Whose ‘Emmanuelle’ Was a Scandalous Success, Dies at 82]]></title>
         <id>https://www.nytimes.com/2022/09/25/movies/just-jaeckin-dead.html</id>
@@ -461,6 +508,16 @@ If they’re going to succeed in this society, they need to learn certain kinds 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Anti-Muslim Symbol From India Is Paraded on Main Street, New Jersey]]></title>
+        <id>https://www.nytimes.com/2022/09/25/nyregion/bulldozer-indian-parade-new-jersey.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/nyregion/bulldozer-indian-parade-new-jersey.html"/>
+        <updated>2022-09-25T09:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The bulldozer has become a symbol of oppression in India. Its appearance in a New Jersey parade has exposed fault lines between the region’s Hindu and Muslim communities.]]></summary>
+        <author>
+            <name>Tracey Tully</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.]]></title>
         <id>https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html</id>
         <link href="https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html"/>
@@ -498,6 +555,16 @@ If they’re going to succeed in this society, they need to learn certain kinds 
         <summary type="html"><![CDATA[Beneath an ancient tower, contemporary galleries, studios, bars and clubs are popping up in three neighborhoods, drawing art lovers, fashionistas and nightlife seekers.]]></summary>
         <author>
             <name>Finn-Olaf Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[While You’re in the Air, Pilots’ Key Partners May Be Working From Home]]></title>
+        <id>https://www.nytimes.com/2022/09/25/business/remote-airline-dispatchers.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/business/remote-airline-dispatchers.html"/>
+        <updated>2022-09-25T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Two airlines allow dispatchers, who share operational authority over flights, to do their jobs remotely. Some in the industry take issue with that.]]></summary>
+        <author>
+            <name>Niraj Chokshi</name>
         </author>
     </entry>
     <entry>
@@ -1003,6 +1070,16 @@ To do this, Respeecher uses sound bites to “clone” an actor’s voice, allow
         <summary type="html"><![CDATA[IGN and it's community discuss whether the developer or publisher is more important when buying a game.]]></summary>
         <author>
             <name>Jada Griffin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley Slides Back Into ‘Bro’ Culture]]></title>
+        <id>https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html"/>
+        <updated>2022-09-24T21:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk, Mark Zuckerberg and Marc Andreessen show how the tech industry’s insular culture remains largely unchanged.]]></summary>
+        <author>
+            <name>Erin Griffith</name>
         </author>
     </entry>
     <entry>
@@ -1952,6 +2029,16 @@ These shifts are happening a…]]></summary>
         <summary type="html"><![CDATA[There are fewer miners now, but nature enthusiasts visit the town of McCarthy to learn field sketching, a technique that’s equal parts art and science.]]></summary>
         <author>
             <name>Jenna Schnuer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitration Has Come to Senior Living. You Don’t Have to Sign Up.]]></title>
+        <id>https://www.nytimes.com/2022/09/24/health/assisted-living-arbitration.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/health/assisted-living-arbitration.html"/>
+        <updated>2022-09-24T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[In the blizzard of paperwork needed to get into a nursing home or assisted living, some residents unwittingly surrender the right to a day in court.]]></summary>
+        <author>
+            <name>Paula Span</name>
         </author>
     </entry>
     <entry>

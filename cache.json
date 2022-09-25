@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nDirecTV’s NFL Sunday Ticket hasn’t had a very good start to the football season. For the past two weekends in a row, subscribers have struggled to get their streams to work, and this weekend is no exception.\nEven before today’s games started, users began complaining about numerous issues, with many saying that they can’t log into their accounts on the Sunday Ticket website or app and others having problems loading the streams. Those who are able to access the stream are reporting quality issues.\nSomehow Sunday Ticket is acting worse than last week. Truly depressing. @DIRECTV\n— Alex Reno (@alex_reno) September 25, 2022\n\n\n\nDirecTV hasn’t issued any statement about whether it’s working to fix the stream, and the company didn’t immediately respond to The Verge’s request for comment. In a response to one user’s issue on Twitter, DirecTV said “we know some customers can’t access NFL Sunday Ticket online or through the app” and that its “teams are working to resolve this.” Aside from DirecTV, users trying to stream football through CBS on Paramount Plus are also reporting problems.\nIn what will probably come as a relief to football fans, DirecTV’s rights to NFL Sunday Ticket expire at the end of this football season. This leaves room for another company to snap up the rights to Sunday Ticket, with Apple, Amazon, Disney, and Google reportedly looking to air Sunday Ticket on each of their respective streaming services. \nSo far, Amazon Prime Video’s showing of Thursday Night Football has shown some promise. The streamer’s first-ever live football game performed a heck of a ton better than DirecTV for the past few weeks, even with some minor blips here and there.",
+          "link": "https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football",
+          "publishedOn": "2022-09-25T17:32:25.000Z",
+          "wordCount": 12996,
+          "title": "DirecTV’s NFL Sunday Ticket is having some issues again",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/I6Ep7j0c0HbAvxVIyV8zbpSdbQQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24008751/acastro_STK099_NFL_01.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c",
           "author": null,
           "description": "The iPhone 14 Pro and 14 Pro Max. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nApple could introduce a new naming scheme when it releases the iPhone 15 next year, replacing the current “Pro Max” branding with “Ultra.” This is according to Apple tracker Mark Gurman, who also expects the iPhone 15 to come with some “bigger changes,” including USB-C.\nThe Pro Max name first appeared with the iPhone 11 in 2019, and adding Ultra branding to the iPhone lineup wouldn’t be all that surprising. Apple already launched the new Watch Ultra with the moniker earlier this month, and added the name to its M1 Ultra processor. Apple also introduced a minor change to its naming scheme with the iPhone 14, bringing back the seemingly retired “Plus” name to the iPhone 14 Plus.\nThe iPhone 14 isn’t even …",
@@ -219,6 +229,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/25/nyregion/bulldozer-indian-parade-new-jersey.html",
+          "author": "Tracey Tully",
+          "description": "The bulldozer has become a symbol of oppression in India. Its appearance in a New Jersey parade has exposed fault lines between the region’s Hindu and Muslim communities.",
+          "link": "https://www.nytimes.com/2022/09/25/nyregion/bulldozer-indian-parade-new-jersey.html",
+          "publishedOn": "2022-09-25T09:00:32.000Z",
+          "wordCount": null,
+          "title": "An Anti-Muslim Symbol From India Is Paraded on Main Street, New Jersey",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html",
           "author": "Elian Peltier",
           "description": "Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.",
@@ -246,6 +266,16 @@
           "publishedOn": "2022-09-25T09:00:31.000Z",
           "wordCount": null,
           "title": "Kyoto Wants You Back, but It Has Some Polite Suggestions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/business/remote-airline-dispatchers.html",
+          "author": "Niraj Chokshi",
+          "description": "Two airlines allow dispatchers, who share operational authority over flights, to do their jobs remotely. Some in the industry take issue with that.",
+          "link": "https://www.nytimes.com/2022/09/25/business/remote-airline-dispatchers.html",
+          "publishedOn": "2022-09-25T09:00:17.000Z",
+          "wordCount": null,
+          "title": "While You’re in the Air, Pilots’ Key Partners May Be Working From Home",
           "imageUrl": null
         },
         {
@@ -409,6 +439,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html",
+          "author": "Erin Griffith",
+          "description": "Elon Musk, Mark Zuckerberg and Marc Andreessen show how the tech industry’s insular culture remains largely unchanged.",
+          "link": "https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html",
+          "publishedOn": "2022-09-24T21:13:44.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley Slides Back Into ‘Bro’ Culture",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html",
           "author": "Andrew E. Kramer, Valerie Hopkins and Ben Hubbard",
           "description": "Ukraine’s president has urged citizens to resist the Russians in occupied territories, where voting is underway in what Western officials have called “sham” referendums on joining Russia.",
@@ -506,6 +546,16 @@
           "publishedOn": "2022-09-24T10:00:01.000Z",
           "wordCount": null,
           "title": "A Year When Everything Is Going Right for Western Canada’s Farmers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/health/assisted-living-arbitration.html",
+          "author": "Paula Span",
+          "description": "In the blizzard of paperwork needed to get into a nursing home or assisted living, some residents unwittingly surrender the right to a day in court.",
+          "link": "https://www.nytimes.com/2022/09/24/health/assisted-living-arbitration.html",
+          "publishedOn": "2022-09-24T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Arbitration Has Come to Senior Living. You Don’t Have to Sign Up.",
           "imageUrl": null
         },
         {
@@ -1250,6 +1300,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2405259",
+          "author": "Alex Wilhelm",
+          "description": "Many unicorns are avoiding reality by not raising today, hoping that valuations recover and growth reattains its prior market prominence. Will it work?\nThe unicorn valuation gambit by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/the-unicorn-valuation-gambit/",
+          "publishedOn": "2022-09-25T18:00:19.000Z",
+          "wordCount": 6794,
+          "title": "The unicorn valuation gambit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2016/01/6137629982_2172f6a8b6_o1.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2406767",
           "author": "Mary Ann Azevedo",
@@ -3193,6 +3253,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/25-1/feature-happy-national-comic-book-day-heres-some-great-anime-about-creating-manga",
+          "author": "Kathleen Townsend",
+          "description": "Reading manga is one thing, but creating it? Phew! \n\n\nAnime featuring everyone's favorite manga creators, industry professionals, and wholehearted fans are a great way to round off your National Comic Book Day celebrations. Settle in with one of these 5 amazing anime.",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/25-1/feature-happy-national-comic-book-day-heres-some-great-anime-about-creating-manga",
+          "publishedOn": "2022-09-25T17:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: Happy National Comic Book Day! Here's Some Great Anime About Creating Manga",
+          "imageUrl": null
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/me-roboco-anime-reveals-full-key-visual-main-staff-and-studio",
           "author": "Joseph Luster",
