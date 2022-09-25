@@ -109,6 +109,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html",
+          "author": "German Lopez",
+          "description": "Republican governors’ immigration stunts are actually helping some migrants.",
+          "link": "https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html",
+          "publishedOn": "2022-09-25T11:28:24.000Z",
+          "wordCount": 6042,
+          "title": "The Morning: The back story of the migrant buses",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/25/multimedia/25-the-morning-nl-Alejos1-1-7778-promo/25-the-morning-nl-Alejos1-1-7778-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/podcasts/the-daily/body-clocks-circadian-medicine.html",
+          "author": "Kim Tingley, Jack D’Isidoro, Aaron Esposito, John Woo, Marion Lozano and Quinton Kamara",
+          "description": "Researchers are trying to figure out the right hour of the day to do everything. Can their studies sync us up with better health?",
+          "link": "https://www.nytimes.com/2022/09/25/podcasts/the-daily/body-clocks-circadian-medicine.html",
+          "publishedOn": "2022-09-25T10:00:04.000Z",
+          "wordCount": 3270,
+          "title": "The Sunday Read: ‘The Quest by Circadian Medicine to Make the Most of Our Body Clocks’",
+          "imageUrl": "https://static01.nyt.com/images/2022/07/10/magazine/25daily-audm-1/10mag-Circadian-04-facebookJumbo-v2.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html",
           "author": "Pamela Paul",
           "description": "Beware the latest fad from Human Resources.",
@@ -449,6 +469,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html",
+          "author": "Manuela Andreoni",
+          "description": "World leaders gathered in New York this week. Developing countries took the opportunity to demand more support and stronger action.",
+          "link": "https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html",
+          "publishedOn": "2022-09-23T17:31:28.000Z",
+          "wordCount": 5265,
+          "title": "A global ‘disconnect’ in full view",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/23/climate/23cli-newsletter1/merlin_213504483_faa9b376-f16b-4c47-917b-ea28783ff307-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/23/dining/dragon-fruit-farmers.html",
           "author": "Christina Morales",
           "description": "The flavor is a fixture on drink menus. But competition from abroad has South Florida growers rethinking their commitment to a once-lucrative crop that requires a lot of investment and care.",
@@ -457,6 +487,16 @@
           "wordCount": null,
           "title": "Dragon Fruit Is Showing Up All Over. So Why Are Farmers Leaving the Business?",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/23/dining/you-need-only-7-ingredients.html",
+          "author": "Emily Weinstein",
+          "description": "Make the most out of very little.",
+          "link": "https://www.nytimes.com/2022/09/23/dining/you-need-only-7-ingredients.html",
+          "publishedOn": "2022-09-23T17:00:02.000Z",
+          "wordCount": 3583,
+          "title": "You Need Only 7 Ingredients",
+          "imageUrl": "https://static01.nyt.com/images/2022/07/25/dining/nb-orange-and-turmeric-chicken/merlin_207648057_ab4f8964-94a7-4246-a5fb-77484042845e-facebookJumbo.jpg"
         },
         {
           "id": "https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html",
@@ -1434,6 +1474,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/even-better/23366918/unconventional-sleep-advice",
+          "author": null,
+          "description": "Denis Novikov/Getty Images\n    \n\n\n  \nSleep better without sacrificing your tech.\n If you’ve ever had a terrible, or even middling, night’s slumber — which studies and surveys suggest is a fair number of people — you’re well aware of the effects of poor sleep. Aside from the sluggishness and lethargy, lack of sufficient shut-eye can blunt thinking and reaction time and negatively impacts judgment. Long-term sleep deprivation has been linked with higher likelihoods of depressive moods, anxiety, diabetes, and obesity.\nDifficulty sleeping can be attributed to a variety of factors and isn’t a reflection on how optimized or streamlined your life is. Shift work, children’s inconsistent sleep schedules, stress, bright light in the evening (from both home lighting fixtures and tech), the pandemic, …",
+          "link": "https://www.vox.com/even-better/23366918/unconventional-sleep-advice",
+          "publishedOn": "2022-09-25T12:00:00.000Z",
+          "wordCount": 3237,
+          "title": "The sleep advice no one tells you",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TnFpE4HVOOruzuQCP04nTfVRTtw=/0x113:3750x2076/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24044993/GettyImages_1345705416.jpg"
+        },
         {
           "id": "https://www.vox.com/23367037/parent-trap-children-k-12-skills-education",
           "author": null,
@@ -2517,6 +2567,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190164",
+          "author": null,
+          "description": "Waccha PriMagi Studio teased with video",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/waccha-primagi-game-launches-new-project-in-november/.190164",
+          "publishedOn": "2022-09-25T11:09:11.000Z",
+          "wordCount": 3081,
+          "title": "Waccha PriMagi! Game Launches New Project in November",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/encyc/A24477-2254864196.1624565271.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190167",
           "author": null,
           "description": "Game features 4 groups, all songs from franchise",
@@ -2933,6 +2993,26 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/jujutsu-kaisen-season-2-tv-anime-shares-newest-teaser-visual",
+          "author": "Daryl Harding",
+          "description": "Season 2 also confirmed to be a continuous two-cour run\n\n\nDuring the TOHO 10th Anniversary event tonight in Japan, the special JUJUTSU KAISEN stage revealed the next teaser visual for the second season featuring Gojo Satoru, Yuji Itadori, Megumi Fushiguro and Nobara Kugisaki with the subtitle “The Shibuya Incident.” More details on season two of JUJUTSU KAISEN after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/jujutsu-kaisen-season-2-tv-anime-shares-newest-teaser-visual",
+          "publishedOn": "2022-09-25T11:15:16.000Z",
+          "wordCount": 6047,
+          "title": "JUJUTSU KAISEN Season 2 TV Anime Shares Newest Teaser Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/d9efd4e294eddafabad155a3178a9cba1664103445_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills-anime-previews-clean-op-movie",
+          "author": "Joseph Luster",
+          "description": "Series heads to TV in Japan and HIDIVE this October\n\n\nThe TV anime adaptation of I've Somehow Gotten Stronger When I Improved My Farm-Related Skills is on the way October 1, and the official accounts just shared a clean, creditless look at the opening movie.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25/ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills-anime-previews-clean-op-movie",
+          "publishedOn": "2022-09-25T11:06:21.000Z",
+          "wordCount": 6006,
+          "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills Anime Previews Clean OP Movie",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/45846e60dffd24c2275ddcdd79865a421664103926_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/all-the-girl-line-up-for-girlfriend-girlfriend-tv-anime-season-2-teaser-visual",
           "author": "Daryl Harding",
