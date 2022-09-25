@@ -990,6 +990,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/obituaries/nancy-hiller-dead.html",
+          "author": "Clay Risen",
+          "description": "One of the few women in her profession, she steadily built a quiet but forceful reputation as one of the best cabinetmakers in the country.",
+          "link": "https://www.nytimes.com/2022/09/25/obituaries/nancy-hiller-dead.html",
+          "publishedOn": "2022-09-25T20:16:15.000Z",
+          "wordCount": null,
+          "title": "Nancy Hiller, Who Broke a Glass Ceiling in Woodworking, Dies at 63",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/arts/dance/review-meg-stuart-violet.html",
           "author": "Brian Seibert",
           "description": "This 2011 work by the American-born, Europe-based choreographer Meg Stuart feels overextended.",
@@ -1637,6 +1647,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "88qv9g",
+          "author": "Randon Rosenbohm",
+          "description": "Mercury retrograde ends this weekend.",
+          "link": "https://www.vice.com/en_us/article/88qv9g/weekly-horoscope-september-26-october-2",
+          "publishedOn": "2022-09-25T21:06:39.000Z",
+          "wordCount": 7944,
+          "title": "Weekly Horoscope: September 26 - October 2",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6330bf64112f84009b7cf33d/lede/1664139118631-6virgolibramonthly21920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6330bf64112f84009b7cf33d/lede/1664139118631-6virgolibramonthly21920x1080.jpeg"
+        },
         {
           "id": "qjkw4d",
           "author": "Annabel Gat",
@@ -2692,6 +2717,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "830fdfb2-f510-4d66-a3d1-426462971adf",
+          "author": "Adam Bankhurst",
+          "description": "Oxenfree 2: Lost Signals has been delayed to 2023 to make it Night School Studio's \"best game yet.\"",
+          "link": "https://www.ign.com/articles/oxenfree-2-lost-signals-delayed-to-2023",
+          "publishedOn": "2022-09-25T19:26:31.000Z",
+          "wordCount": 7989,
+          "title": "Oxenfree 2: Lost Signals Delayed to 2023",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/25/untitled-1-1628172777873-1664133854903.jpg?width=1280"
+        },
         {
           "id": "d0347b60-54fe-428d-ae4e-75cde9c8e4fb",
           "author": "Jada Griffin",
