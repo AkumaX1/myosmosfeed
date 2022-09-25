@@ -6,5 +6,21 @@
 cacheUrl: https://AkumaX1.github.io/myosmosfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://github.com/weihuoya/citra/releases.atom
-  
+  - href: https://www.theverge.com/rss/full.xml
+  - href: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+  - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/technology/rss.xml
+  - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/rss.xml
+  - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml
+  - href: https://www.rollingstone.com/music/feed/
+  - href: https://www.rollingstone.com/tv-movies/feed/
+  - href: https://techcrunch.com/feed/
+  - href: https://www.vice.com/en/rss?locale=en_us
+  - href: https://www.vox.com/rss/index.xml
+  - href: https://kotaku.com/rss
+  - href: https://www.polygon.com/rss/gaming/index.xml
+  - href: https://www.polygon.com/rss/entertainment/index.xml
+  - href: https://feeds.feedburner.com/ign/pc-articles
+  - href: https://store.steampowered.com/feeds/news.xml
+  - href: https://www.animenewsnetwork.com/news/rss.xml
+  - href: http://feeds.feedburner.com/crunchyroll/animenews
+  - href: https://myanimelist.net/rss/news.xml
