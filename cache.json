@@ -129,6 +129,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/arts/television/celebrity-jeopardy-michael-davies.html",
+          "author": "Julia Jacobs",
+          "description": "Despite the loss of the show’s longtime host, viewership has held mostly steady, emboldening a move to spinoffs and tournaments, including a revival of “Celebrity Jeopardy!”",
+          "link": "https://www.nytimes.com/2022/09/25/arts/television/celebrity-jeopardy-michael-davies.html",
+          "publishedOn": "2022-09-25T16:00:05.000Z",
+          "wordCount": null,
+          "title": "Celebrities Are Just the Start of the Expanding ‘Jeopardy!’-verse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html",
           "author": "Katrin Bennhold",
           "description": "Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.",
@@ -2346,6 +2356,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/reviews/23365454/vesper-review-2022",
+          "author": null,
+          "description": "Image: IFC Films\n    \n\n\n  \nFor a small indie sci-fi movie, the special effects are stunning, and the world is incredibly well-realized\n Polygon is on the ground at the 2022 Fantastic Fest, reporting on new horror, sci-fi, cult, and action movies making their way to theaters and streaming. This review was published in conjunction with the film’s Fantastic Fest premiere.\nGrim futures and hopeless circumstances are so common on screen that they’ve come to feel like the default mode for science fiction storytelling, particularly in low-budget movies. It’s hard for one crapsack world or future-fascist dystopia to stand out over all the others, when so many sci-fi stories expressly warn us about how every aspect of our lives could possibly lead us toward some sort of apocalypse. The indie scienc…",
+          "link": "https://www.polygon.com/reviews/23365454/vesper-review-2022",
+          "publishedOn": "2022-09-25T16:01:00.000Z",
+          "wordCount": 2632,
+          "title": "Vesper gives the apocalypse a pretty face and an ugly heart",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/iG38ndZF8GxAKwsk4EmnneCNCuo=/286x0:2454x1135/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24042118/VESPER___Still_3.jpg"
+        },
+        {
           "id": "https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors",
           "author": null,
           "description": "Photo: Liane Hentscher/Netflix\n    \n\n\n  \nShooting action over 50? No problem for these stars\n In the crowded field of Netflix original programming vying for viewer attention, it’s difficult to stand out and be noticed. There has to be something that causes the endless scrolling to stop for a moment, for the potential viewer to linger on a title in hopes that it will intrigue enough to warrant a press of the play button — a hook.\nThe latest original film from the streaming giant, Lou, about a desperate mother’s attempt to rescue her kidnapped child from the wilderness with the aid of a mysterious hardened tracker, certainly has an intriguing hook. The grizzled hero with a mysterious past aiding the mother is portrayed by the unconventional choice of Allison Janney (I, Tonya). People might s…",
@@ -3144,6 +3164,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/me-roboco-anime-reveals-full-key-visual-main-staff-and-studio",
+          "author": "Joseph Luster",
+          "description": "Tokatsu DJ Agetaro director Akitaro Daichi is at the helm\n\n\nFollowing up on the recent 'knee-ser' visual, the full key visual has been revealed along with the main staff and studio for the Me & Roboco TV anime, which adapts the comedy manga by Shuhei Miyazaki. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/me-roboco-anime-reveals-full-key-visual-main-staff-and-studio",
+          "publishedOn": "2022-09-25T15:21:14.000Z",
+          "wordCount": 5965,
+          "title": "Me & Roboco Anime Reveals Full Key Visual, Main Staff and Studio",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/48d4631cffffdda9428218b73803c0991664119334_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/onimusha-games-get-anime-with-takashi-miike-as-chief-director",
+          "author": "Joseph Luster",
+          "description": "Shinya Sugai directs the series, with lead character Miyamoto Musashi modeled after Toshiro Mifune\n\n\nAn anime was announced for Capcom's Onimusha series of horror action games, with film director Takashi Miike (Dead or Alive, Ichi the Killer) serving as chief director at anime production house Sublimation. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/onimusha-games-get-anime-with-takashi-miike-as-chief-director",
+          "publishedOn": "2022-09-25T14:52:37.000Z",
+          "wordCount": 6028,
+          "title": "Onimusha Games Get Anime With Takashi Miike as Chief Director",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/cac48fff0142dde8fe986b6836d9fed11664117408_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25/love-live-superstar-staff-issues-apology-to-hokkaido-lodge-that-resembled-location-used-in-the-anime",
           "author": "Daryl Harding",
           "description": "“We sincerely apologize for causing concerns and inconvenience to [the lodge]”\n\n\nIn the sixth episode of the latest season of the Love Live! Superstar!! TV anime a few of the girls of Liella! head up to the town of Furano in Hokkaido. Throughout the episode, various well-known locations from the town are featured but not explicitly named, though that didn't stop fans from working out which places were featured and overwhelming them. More after the jump.",
@@ -3710,6 +3750,16 @@
       "feedUrl": "https://myanimelist.net/rss/news.xml",
       "siteUrl": "https://myanimelist.net/news?_location=rss",
       "articles": [
+        {
+          "id": "https://myanimelist.net/news/67556579?_location=rss",
+          "author": null,
+          "description": "Publisher Shueisha opened an official website for the television anime adaptation of Shuuhei Miyazaki's Boku to Roboko (Me & Roboco) manga on Monday. The website revealed the production staff, 5-minute episode format, and its first key visual (pictured). The anime is scheduled to premiere on December 5 at 12:30 a.m. on Tokyo MX. Staff Director: Akitarou Daichi (Kamisama Hajimemashita) Assistant Director: Michihira Satou Series Composition: Sayuri Ooba (Oniichan no Koto nanka Zenzen Suki...",
+          "link": "https://myanimelist.net/news/67556579?_location=rss",
+          "publishedOn": "2022-09-25T15:45:44.000Z",
+          "wordCount": 1471,
+          "title": "'Boku to Roboko' Announces Production Staff, December 5 Premiere",
+          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664120482-e03cff1507a9e50e8d5b815cd6f4120c.png"
+        },
         {
           "id": "https://myanimelist.net/news/67553378?_location=rss",
           "author": null,

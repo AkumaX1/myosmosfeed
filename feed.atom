@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T15:09:51.320Z</updated>
+    <updated>2022-09-25T16:12:18.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vesper gives the apocalypse a pretty face and an ugly heart]]></title>
+        <id>https://www.polygon.com/reviews/23365454/vesper-review-2022</id>
+        <link href="https://www.polygon.com/reviews/23365454/vesper-review-2022"/>
+        <updated>2022-09-25T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: IFC Films
+    
+
+
+  
+For a small indie sci-fi movie, the special effects are stunning, and the world is incredibly well-realized
+ Polygon is on the ground at the 2022 Fantastic Fest, reporting on new horror, sci-fi, cult, and action movies making their way to theaters and streaming. This review was published in conjunction with the film’s Fantastic Fest premiere.
+Grim futures and hopeless circumstances are so common on screen that they’ve come to feel like the default mode for science fiction storytelling, particularly in low-budget movies. It’s hard for one crapsack world or future-fascist dystopia to stand out over all the others, when so many sci-fi stories expressly warn us about how every aspect of our lives could possibly lead us toward some sort of apocalypse. The indie scienc…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrities Are Just the Start of the Expanding ‘Jeopardy!’-verse]]></title>
+        <id>https://www.nytimes.com/2022/09/25/arts/television/celebrity-jeopardy-michael-davies.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/arts/television/celebrity-jeopardy-michael-davies.html"/>
+        <updated>2022-09-25T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Despite the loss of the show’s longtime host, viewership has held mostly steady, emboldening a move to spinoffs and tournaments, including a revival of “Celebrity Jeopardy!”]]></summary>
+        <author>
+            <name>Julia Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Boku to Roboko' Announces Production Staff, December 5 Premiere]]></title>
+        <id>https://myanimelist.net/news/67556579?_location=rss</id>
+        <link href="https://myanimelist.net/news/67556579?_location=rss"/>
+        <updated>2022-09-25T15:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Publisher Shueisha opened an official website for the television anime adaptation of Shuuhei Miyazaki's Boku to Roboko (Me & Roboco) manga on Monday. The website revealed the production staff, 5-minute episode format, and its first key visual (pictured). The anime is scheduled to premiere on December 5 at 12:30 a.m. on Tokyo MX. Staff Director: Akitarou Daichi (Kamisama Hajimemashita) Assistant Director: Michihira Satou Series Composition: Sayuri Ooba (Oniichan no Koto nanka Zenzen Suki...]]></summary>
+        <author>
+            <name>News - MyAnimeList</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me & Roboco Anime Reveals Full Key Visual, Main Staff and Studio]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/me-roboco-anime-reveals-full-key-visual-main-staff-and-studio</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/me-roboco-anime-reveals-full-key-visual-main-staff-and-studio"/>
+        <updated>2022-09-25T15:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Tokatsu DJ Agetaro director Akitaro Daichi is at the helm
+
+
+Following up on the recent 'knee-ser' visual, the full key visual has been revealed along with the main staff and studio for the Me & Roboco TV anime, which adapts the comedy manga by Shuhei Miyazaki. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Nine Inch Nails Reunite With Former Members, Cover ‘Hey Man Nice Shot’ at Cleveland Concert]]></title>
         <id>https://www.rollingstone.com/?p=1234599601</id>
@@ -24,6 +74,19 @@
         <summary type="html"><![CDATA["I don’t think any of us want our calling card to be Route 91, but it can be inescapable at times," writes Mark Gray, who came under fire while on assignment in Las Vegas in 2017]]></summary>
         <author>
             <name>Joseph Hudak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onimusha Games Get Anime With Takashi Miike as Chief Director]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/onimusha-games-get-anime-with-takashi-miike-as-chief-director</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/onimusha-games-get-anime-with-takashi-miike-as-chief-director"/>
+        <updated>2022-09-25T14:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Shinya Sugai directs the series, with lead character Miyamoto Musashi modeled after Toshiro Mifune
+
+
+An anime was announced for Capcom's Onimusha series of horror action games, with film director Takashi Miike (Dead or Alive, Ichi the Killer) serving as chief director at anime production house Sublimation. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
         </author>
     </entry>
     <entry>
