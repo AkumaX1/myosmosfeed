@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos",
+          "author": null,
+          "description": "An illustration of the DART spacecraft and the asteroids Didymos and Dimorphos | NASA/Johns Hopkins APL/Steve Gribben\n    \n\n  \nDimorphos is a lump of space rock so far away from Earth that we don’t even know what it looks like — and on Monday, we’re going to smash it with a spacecraft. The Double Asteroid Redirection Test (DART) will be traveling at more than 14,000 miles per hour when it hits the asteroid, in what has to be one of the most metal science experiments of all time. \nDART is a NASA effort to see if it can change an asteroid’s movement in space. It’s being billed as the world’s first “planetary defense test mission” —  a test run to see if we have what it takes to avert a serious asteroid impact on Earth sometime in the future. You know, just in case. \nTo be extremely clear, ne…",
+          "link": "https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos",
+          "publishedOn": "2022-09-25T18:16:38.000Z",
+          "wordCount": 15269,
+          "title": "NASA is about to crash a spacecraft into an asteroid",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/rFxLOJzQLENa0D0oMGXtlPzv94Q=/0x0:4800x2700/1200x628/filters:focal(2696x1417:2697x1418)/cdn.vox-cdn.com/uploads/chorus_asset/file/24052856/dart.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nDirecTV’s NFL Sunday Ticket hasn’t had a very good start to the football season. For the past two weekends in a row, subscribers have struggled to get their streams to work, and this weekend is no exception.\nEven before today’s games started, users began complaining about numerous issues, with many saying that they can’t log into their accounts on the Sunday Ticket website or app and others having problems loading the streams. Those who are able to access the stream are reporting quality issues.\nSomehow Sunday Ticket is acting worse than last week. Truly depressing. @DIRECTV\n— Alex Reno (@alex_reno) September 25, 2022\n\n\n\nDirecTV hasn’t issued any statement about whether it’s working to fix the stream, and the company didn’t immediately respond to The Verge’s request for comment. In a response to one user’s issue on Twitter, DirecTV said “we know some customers can’t access NFL Sunday Ticket online or through the app” and that its “teams are working to resolve this.” Aside from DirecTV, users trying to stream football through CBS on Paramount Plus are also reporting problems.\nIn what will probably come as a relief to football fans, DirecTV’s rights to NFL Sunday Ticket expire at the end of this football season. This leaves room for another company to snap up the rights to Sunday Ticket, with Apple, Amazon, Disney, and Google reportedly looking to air Sunday Ticket on each of their respective streaming services. \nSo far, Amazon Prime Video’s showing of Thursday Night Football has shown some promise. The streamer’s first-ever live football game performed a heck of a ton better than DirecTV for the past few weeks, even with some minor blips here and there.",
@@ -159,6 +169,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/25/opinion/david-french-religious-freedom.html",
+          "author": "Tish Harrison Warren",
+          "description": "“If speech is popular, it doesn’t really need constitutional protection,” David French says.",
+          "link": "https://www.nytimes.com/2022/09/25/opinion/david-french-religious-freedom.html",
+          "publishedOn": "2022-09-25T15:15:04.000Z",
+          "wordCount": null,
+          "title": "Why Religious Freedom Matters, Even if You’re Not Religious",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html",
           "author": "Katrin Bennhold",
           "description": "Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.",
@@ -266,6 +286,16 @@
           "publishedOn": "2022-09-25T09:00:31.000Z",
           "wordCount": null,
           "title": "Kyoto Wants You Back, but It Has Some Polite Suggestions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html",
+          "author": "Finn-Olaf Jones",
+          "description": "Beneath an ancient tower, contemporary galleries, studios, bars and clubs are popping up in three neighborhoods, drawing art lovers, fashionistas and nightlife seekers.",
+          "link": "https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html",
+          "publishedOn": "2022-09-25T09:00:28.000Z",
+          "wordCount": null,
+          "title": "On the Edge of Delhi, a Dynamic Cultural Scene Takes Shape",
           "imageUrl": null
         },
         {
@@ -686,6 +716,16 @@
           "publishedOn": "2022-09-20T21:18:06.000Z",
           "wordCount": null,
           "title": "When Should I Get the New Bivalent Booster?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html",
+          "author": "Danielle Carr",
+          "description": "Many in power would prefer to kick questions like “What caused the mental health crisis?” and “Who benefits?” out of sight. Don’t let them.",
+          "link": "https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html",
+          "publishedOn": "2022-09-20T20:16:18.000Z",
+          "wordCount": null,
+          "title": "Is America Really in a Mental Health Crisis?",
           "imageUrl": null
         }
       ]
@@ -1300,6 +1340,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2403796",
+          "author": "Dominic-Madori Davis",
+          "description": "Thiel Capital’s recent investment in a women's health startup is symbolic, perhaps, of what more could come. \nConservative capitalists are funding their vision of the future by Dominic-Madori Davis originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/conservative-capitalists-are-funding-their-vision-of-the-future/",
+          "publishedOn": "2022-09-25T19:00:48.000Z",
+          "wordCount": 7298,
+          "title": "Conservative capitalists are funding their vision of the future",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/venture-economic-warfare.jpg?resize=1200,645"
+        },
         {
           "id": "https://techcrunch.com/?p=2405259",
           "author": "Alex Wilhelm",

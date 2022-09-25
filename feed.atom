@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T18:12:26.607Z</updated>
+    <updated>2022-09-25T19:08:04.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conservative capitalists are funding their vision of the future]]></title>
+        <id>https://techcrunch.com/?p=2403796</id>
+        <link href="https://techcrunch.com/2022/09/25/conservative-capitalists-are-funding-their-vision-of-the-future/"/>
+        <updated>2022-09-25T19:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Thiel Capital’s recent investment in a women's health startup is symbolic, perhaps, of what more could come. 
+Conservative capitalists are funding their vision of the future by Dominic-Madori Davis originally published on TechCrunch]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA is about to crash a spacecraft into an asteroid]]></title>
+        <id>https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos</id>
+        <link href="https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos"/>
+        <updated>2022-09-25T18:16:38.000Z</updated>
+        <summary type="html"><![CDATA[An illustration of the DART spacecraft and the asteroids Didymos and Dimorphos | NASA/Johns Hopkins APL/Steve Gribben
+    
+
+  
+Dimorphos is a lump of space rock so far away from Earth that we don’t even know what it looks like — and on Monday, we’re going to smash it with a spacecraft. The Double Asteroid Redirection Test (DART) will be traveling at more than 14,000 miles per hour when it hits the asteroid, in what has to be one of the most metal science experiments of all time. 
+DART is a NASA effort to see if it can change an asteroid’s movement in space. It’s being billed as the world’s first “planetary defense test mission” —  a test run to see if we have what it takes to avert a serious asteroid impact on Earth sometime in the future. You know, just in case. 
+To be extremely clear, ne…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The unicorn valuation gambit]]></title>
         <id>https://techcrunch.com/?p=2405259</id>
@@ -127,6 +154,16 @@ Grim futures and hopeless circumstances are so common on screen that they’ve c
 Following up on the recent 'knee-ser' visual, the full key visual has been revealed along with the main staff and studio for the Me & Roboco TV anime, which adapts the comedy manga by Shuhei Miyazaki. Read on for more.]]></summary>
         <author>
             <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Religious Freedom Matters, Even if You’re Not Religious]]></title>
+        <id>https://www.nytimes.com/2022/09/25/opinion/david-french-religious-freedom.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/opinion/david-french-religious-freedom.html"/>
+        <updated>2022-09-25T15:15:04.000Z</updated>
+        <summary type="html"><![CDATA[“If speech is popular, it doesn’t really need constitutional protection,” David French says.]]></summary>
+        <author>
+            <name>Tish Harrison Warren</name>
         </author>
     </entry>
     <entry>
@@ -545,6 +582,16 @@ If they’re going to succeed in this society, they need to learn certain kinds 
         <summary type="html"><![CDATA[The city, one of Japan’s most-visited before the pandemic, desperately needs tourism’s money, but it would like to avoid the excesses of Instagram-driven itineraries.]]></summary>
         <author>
             <name>Ben Dooley and Hisako Ueno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Edge of Delhi, a Dynamic Cultural Scene Takes Shape]]></title>
+        <id>https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/travel/delhi-neighborhoods-art-bars.html"/>
+        <updated>2022-09-25T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Beneath an ancient tower, contemporary galleries, studios, bars and clubs are popping up in three neighborhoods, drawing art lovers, fashionistas and nightlife seekers.]]></summary>
+        <author>
+            <name>Finn-Olaf Jones</name>
         </author>
     </entry>
     <entry>
@@ -4471,6 +4518,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is America Really in a Mental Health Crisis?]]></title>
+        <id>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html</id>
+        <link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html"/>
+        <updated>2022-09-20T20:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Many in power would prefer to kick questions like “What caused the mental health crisis?” and “Who benefits?” out of sight. Don’t let them.]]></summary>
+        <author>
+            <name>Danielle Carr</name>
         </author>
     </entry>
     <entry>
