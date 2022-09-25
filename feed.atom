@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T10:11:02.884Z</updated>
+    <updated>2022-09-25T11:08:22.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All the Girls Line Up for Girlfriend, Girlfriend TV Anime Season 2 Teaser Visual]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/all-the-girl-line-up-for-girlfriend-girlfriend-tv-anime-season-2-teaser-visual</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/all-the-girl-line-up-for-girlfriend-girlfriend-tv-anime-season-2-teaser-visual"/>
+        <updated>2022-09-25T10:26:20.000Z</updated>
+        <summary type="html"><![CDATA[The first season is currently streaming here on Crunchyroll
+
+
+After revealing a little over a week ago that the romantic-comedy TV anime Girlfriend, Girlfriend would be getting a second season, the official announcement art for Girlfriend, Girlfriend season two was released on the Twitter account for the series. Take a look at the visual after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Not Bring Your ‘Whole Self’ to Work]]></title>
+        <id>https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html"/>
+        <updated>2022-09-25T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Beware the latest fad from Human Resources.]]></summary>
+        <author>
+            <name>Pamela Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do we ask too much of parents?]]></title>
         <id>https://www.vox.com/23367037/parent-trap-children-k-12-skills-education</id>
@@ -61,6 +84,16 @@ If they’re going to succeed in this society, they need to learn certain kinds 
         <summary type="html"><![CDATA[Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.]]></summary>
         <author>
             <name>Elian Peltier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sidewalk Surfing With My Disabled Parents]]></title>
+        <id>https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html"/>
+        <updated>2022-09-25T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Both skateboarding and navigating daily life with a disability involve surprisingly similar ways of engaging with the built environment.]]></summary>
+        <author>
+            <name>Jeremy Klemin</name>
         </author>
     </entry>
     <entry>
@@ -2953,6 +2986,16 @@ The Legend of Mana -The Teardrop Crystal- TV anime is about to light up the fall
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[For Two College Students, Finally a Place (and a Person) to Call Home]]></title>
+        <id>https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html</id>
+        <link href="https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html"/>
+        <updated>2022-09-23T13:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Yolka Gessen and Mohamad Eisa were nearly introduced by journalist Masha Gessen, who is the bride’s parent. But they found each other first.]]></summary>
+        <author>
+            <name>Louise Rafkin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sorry, Nintendo, Everyone’s Having A Hard Time Remembering It’s Tears Of The Kingdom, Not BOTW 2]]></title>
         <id>1849572571</id>
         <link href="https://kotaku.com/zelda-botw-2-tears-of-the-kingdom-nintendo-switch-title-1849572571"/>
@@ -3794,6 +3837,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is There Too Much ‘Mental Health’ Awareness in the United States?]]></title>
+        <id>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html</id>
+        <link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html"/>
+        <updated>2022-09-21T15:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Has the term become so expansive as to be meaningless?]]></summary>
+        <author>
+            <name>Huw Green</name>
         </author>
     </entry>
     <entry>

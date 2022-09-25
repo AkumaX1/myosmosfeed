@@ -109,6 +109,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html",
+          "author": "Pamela Paul",
+          "description": "Beware the latest fad from Human Resources.",
+          "link": "https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html",
+          "publishedOn": "2022-09-25T10:00:04.000Z",
+          "wordCount": null,
+          "title": "Do Not Bring Your ‘Whole Self’ to Work",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/upshot/starter-home-prices.html",
           "author": "Emily Badger",
           "description": "The economics of the housing market, and the local rules that shape it, have squeezed out entry-level homes.",
@@ -126,6 +136,16 @@
           "publishedOn": "2022-09-25T09:00:32.000Z",
           "wordCount": null,
           "title": "Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html",
+          "author": "Jeremy Klemin",
+          "description": "Both skateboarding and navigating daily life with a disability involve surprisingly similar ways of engaging with the built environment.",
+          "link": "https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html",
+          "publishedOn": "2022-09-25T09:00:31.000Z",
+          "wordCount": null,
+          "title": "Sidewalk Surfing With My Disabled Parents",
           "imageUrl": null
         },
         {
@@ -439,6 +459,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html",
+          "author": "Louise Rafkin",
+          "description": "Yolka Gessen and Mohamad Eisa were nearly introduced by journalist Masha Gessen, who is the bride’s parent. But they found each other first.",
+          "link": "https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html",
+          "publishedOn": "2022-09-23T13:51:40.000Z",
+          "wordCount": null,
+          "title": "For Two College Students, Finally a Place (and a Person) to Call Home",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html",
           "author": "Melinda Wenner Moyer",
           "description": "Here are a few ways to protect yourself from the elements, oncoming traffic and other threats that ramp up in the fall and winter months.",
@@ -476,6 +506,16 @@
           "publishedOn": "2022-09-21T18:10:08.000Z",
           "wordCount": null,
           "title": "For Churches, Abortion Politics Is a Double-Edged Sword",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html",
+          "author": "Huw Green",
+          "description": "Has the term become so expansive as to be meaningless?",
+          "link": "https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html",
+          "publishedOn": "2022-09-21T15:27:27.000Z",
+          "wordCount": null,
+          "title": "Is There Too Much ‘Mental Health’ Awareness in the United States?",
           "imageUrl": null
         },
         {
@@ -2893,6 +2933,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/all-the-girl-line-up-for-girlfriend-girlfriend-tv-anime-season-2-teaser-visual",
+          "author": "Daryl Harding",
+          "description": "The first season is currently streaming here on Crunchyroll\n\n\nAfter revealing a little over a week ago that the romantic-comedy TV anime Girlfriend, Girlfriend would be getting a second season, the official announcement art for Girlfriend, Girlfriend season two was released on the Twitter account for the series. Take a look at the visual after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/all-the-girl-line-up-for-girlfriend-girlfriend-tv-anime-season-2-teaser-visual",
+          "publishedOn": "2022-09-25T10:26:20.000Z",
+          "wordCount": 6019,
+          "title": "All the Girls Line Up for Girlfriend, Girlfriend TV Anime Season 2 Teaser Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/069cba54308891248f9adf2405f302291664101551_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/24/round-out-your-adventures-with-nendoroid-siegmeyer-from-dark-souls",
           "author": "Paul Chapman",
