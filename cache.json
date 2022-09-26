@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon",
+          "author": null,
+          "description": "Illustration by Nick Barclay / The Verge\n    \n\n\n  \nThe news that Twitch will be reducing top streamers’ revenue share from 70 / 30 to 50 / 50 signals that the platform is no longer the ‘creator first’ entity that made it so popular.\n The reaction to the news that Twitch intends to change how it splits revenue with partnered streamers has been, on the whole, completely and utterly negative. Streamers at every level of growth, from the big-time partners to the smallest affiliates, were displeased to learn that the 70 / 30 revenue sharing split that had been long asked for — and is the standard or better elsewhere — was not only being rejected but being slowly phased out completely. To quote the Fallout 4 meme: “everyone disliked that.” \nThe Verge took a look at the response from the streamin…",
+          "link": "https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon",
+          "publishedOn": "2022-09-26T19:05:03.000Z",
+          "wordCount": 15611,
+          "title": "How Twitch lost the battle for its soul",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/47hNE_9Gf0YLjLrf61oHjRj2dlM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951419/STK044_VRG_Illo_N_Barclay_3_twitch.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test",
+          "author": null,
+          "description": "Image: Meta\n    \n\n  \nMeta is testing a new way to add and switch between your accounts on Instagram and Facebook by integrating its Accounts Center into the apps. The features should help make things easier for anyone who constantly bounces between various accounts on the two apps or people who have a lot of Instagram profiles to separate their Online Brand, personal life, and business.\nThe new account switcher for Facebook and Instagram will show you all the accounts and profiles you’ve added to the Accounts Center. While Instagram has let you switch between different profiles for years, the new system lets you throw Facebook accounts in the mix, making it easier to jump over to Facebook if you need to do something on that app. It’ll also show you some details about notifications for each…",
+          "link": "https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test",
+          "publishedOn": "2022-09-26T18:45:10.000Z",
+          "wordCount": 12111,
+          "title": "Meta’s new switcher puts all of your Facebook profiles and finstas in one place",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/76MjJUjjdE9-tHy9LUy-V3k91aE=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24056050/Instagram_accounts.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23373266/steam-deck-deposit-reservation-buy-valve",
+          "author": null,
+          "description": "Even for the midrange 256GB model, the time to wait after placing a reservation is pretty short. | Photo by Vjeran Pavic / The Verge\n    \n\n  \nI was one of the people who rushed to put down a deposit for Valve’s Steam Deck the first moment that I could. However, I pulled out of the queue after seeing how long others were having to wait near its launch. Now, after seeing time and time again that Valve has increased production of the Deck to shorten wait times, it eventually made me rejoin the queue, if only as an experiment to see how quickly I could get to the front of the line.\nAs it turns out, I only had to wait a month. I placed a deposit for the $529 256GB model on August 25th, and I just received my email confirmation that it was available for purchase. That wasn’t so bad. With a wait this short, there’s no reason to pay higher-than-retail costs for a Deck through sites like StockX or Craigslist unless you’re truly desperate.\nValve originally expected that some reservations wouldn’t be fulfilled until Q4 2022 or later, though the company is now confident that it will meet all of that demand by the end of 2022. That’s remarkable progress, especially since it recently expanded reservations to more regions, including Japan, South Korea, Taiwan, and Hong Kong. All the while, it’s been improving the Deck’s software and game compatibility.\nSo, if you’re thinking of gifting a Steam Deck to yourself or to some lucky person in your life for the holidays, putting down the required $5 deposit at this Steam page should give you a month (if not a little less time) to count up all of your pennies to make sure you have enough.",
+          "link": "https://www.theverge.com/2022/9/26/23373266/steam-deck-deposit-reservation-buy-valve",
+          "publishedOn": "2022-09-26T18:36:03.000Z",
+          "wordCount": 12162,
+          "title": "It only took a month to turn a Steam Deck deposit into a purchase",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/VkL6tnoficDGJSymzz5djOEBj-8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23270010/vpavic_220210_5030_0090.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23372911/substack-reader-web-desktop-rss-client-google-reader",
+          "author": null,
+          "description": "Image: Substack\n    \n\n  \nSubstack’s the latest company trying to resurrect Google Reader from the dead — well, in spirit at least. \nNearly a decade after Google’s popular RSS feed aggregator shut down, Substack has launched a desktop RSS client alternative: Substack Reader for the web.\nNow, users can organize all of their Substack subscriptions in one webpage that they can view from their laptop or PC. The app also integrates with third-party RSS feeds so users can check out posts from other publications, too.\nThe new desktop client keeps old Google Reader users in mind with familiar keyboard shortcuts, for example, yet also sports new settings like dark mode. \nImage: Substack\n      Substack’s new desktop RSS client supports dark mode.\n  \n\n\nSubstack prioritizes posts generating the most su…",
+          "link": "https://www.theverge.com/2022/9/26/23372911/substack-reader-web-desktop-rss-client-google-reader",
+          "publishedOn": "2022-09-26T18:33:05.000Z",
+          "wordCount": 11828,
+          "title": "If you still miss Google Reader, Substack has a new web-based RSS client",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ms1N0W5FESVF2a3s5YLBLZ7ZuEo=/0x0:4524x3512/1200x628/filters:focal(2262x1756:2263x1757)/cdn.vox-cdn.com/uploads/chorus_asset/file/24055888/substackwebreader.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23372998/instagram-shopping-tab-gone-test",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nInstagram is testing home feeds without a shopping tab, marking a shift in how the platform treats e-commerce. \nSome Instagram users (including some of us here at The Verge) have noted in recent days that the shopping tab, previously on the bottom navigation bar, has been replaced with a notifications tab. Shopping, meanwhile, has been moved to a second menu, buried among options like settings and saved posts.\nMeta spokesperson Anne Yeh confirmed the changes as part of a limited test.\n“As part of our continued work to simplify your Instagram experience, we are testing a few changes to the main navigation bar at the bottom of the app with a small number of people,” Yeh says.\nMoving the tab is a conscious decision on the part of Instagram as t…",
@@ -418,6 +458,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/republicans-crime-midterms.html",
+          "author": "Lisa Lerer and Jonathan Weisman",
+          "description": "With images of lawlessness, G.O.P. candidates are pressing the issue in places where worries about public safety are omnipresent. Democrats, on the defensive, are promising to fund the police.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/republicans-crime-midterms.html",
+          "publishedOn": "2022-09-26T19:01:43.000Z",
+          "wordCount": null,
+          "title": "Republicans Intensify Attacks on Crime as Democrats Push Back",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/world/europe/ukraine-donbas-russia-lyman-bakhmut.html",
           "author": "Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks",
@@ -1586,6 +1636,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/technology/are-your-patients-worried-about-the-polio-vaccine.html",
+          "author": "Ellen Gabler and Sheera Frenkel",
+          "description": "We want to hear from you.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/are-your-patients-worried-about-the-polio-vaccine.html",
+          "publishedOn": "2022-09-26T19:07:13.000Z",
+          "wordCount": null,
+          "title": "Are your patients worried about the polio vaccine?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/technology/tiktok-children-privacy-fine-uk.html",
           "author": "Natasha Singer",
           "description": "British regulars have sent a warning notice to the company, the first major case under new rules in Britain that protect minors online.",
@@ -1869,6 +1929,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/pandemic-inspiration-bts-levar-burton.html",
+          "author": "Joshua Needelman",
+          "description": "Notable pop culture figures, including the actor LeVar Burton and the K-pop phenomenon BTS, helped people get through Covid — from a distance.",
+          "link": "https://www.nytimes.com/2022/09/26/us/pandemic-inspiration-bts-levar-burton.html",
+          "publishedOn": "2022-09-26T18:45:28.000Z",
+          "wordCount": null,
+          "title": "How LeVar Burton (and Others) Helped Us Get Through the Pandemic",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/arts/music/blackpink-born-pink-billboard-chart.html",
           "author": "Ben Sisario",
@@ -2571,6 +2641,26 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2407798",
+          "author": "Tim De Chant",
+          "description": "The Inflation Reduction Act all but ensures that climate tech for buildings is likely to emerge as one of the sectors to watch in the coming years.\nHere are the industries ripe for innovation under the Inflation Reduction Act by Tim De Chant originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/here-are-the-industries-ripe-for-innovation-under-the-inflation-reduction-act/",
+          "publishedOn": "2022-09-26T18:30:14.000Z",
+          "wordCount": 6087,
+          "title": "Here are the industries ripe for innovation under the Inflation Reduction Act",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1144992558.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407887",
+          "author": "Lauren Forristal",
+          "description": "Move aside, Pepsi. The National Football League (NFL) and Apple announced that Apple Music is the official sponsor of the Super Bowl Halftime Show as part of a multi-year deal. Pepsi had been the sponsor since 2013. Apple Music’s new sponsorship with the NFL will last for multiple years. The Super Bowl LVII, on Sunday, […]\nApple Music becomes the official sponsor of the Super Bowl halftime show by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/apple-music-becomes-the-official-sponsor-of-the-super-bowl-halftime-show/",
+          "publishedOn": "2022-09-26T18:29:03.000Z",
+          "wordCount": 6373,
+          "title": "Apple Music becomes the official sponsor of the Super Bowl halftime show",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/xrf2vdkf5rtj8ckr3cto.jpg?resize=1200,675"
+        },
+        {
           "id": "https://techcrunch.com/?p=2391827",
           "author": "Devin Coldewey",
           "description": "For years when someone asked me what e-reader to buy, I’d say unless they care about Amazon stuff, the Kobo Clara HD. That recommendation has wavered as I’ve tested the compact Poke 3 and ergonomic Libra 2, but the new version of the Clara puts it back in the running for easiest to endorse. If […]\nKobo Clara 2E review: A worthy update to an solid e-reader, with an eco-conscious touch by Devin Coldewey originally published on TechCrunch",
@@ -3118,6 +3208,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "4axqvq",
+          "author": "Samantha Cole",
+          "description": "Programmer Kyle Machulis combined the viral song \"Cbat\" from a Reddit post with a trombone simulator and a Fleshlight-style toy, and the result is hilarious.",
+          "link": "https://www.vice.com/en_us/article/4axqvq/trombone-champ-using-a-fleshlight-as-a-controller-cbat",
+          "publishedOn": "2022-09-26T18:33:34.000Z",
+          "wordCount": 5223,
+          "title": "Chaotic Genius Plays ‘Trombone Champ’ Using a Fleshlight as a Controller",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331ee72b94bd8009d41c8e2/lede/1664217074960-screen-shot-2022-09-26-at-23043-pm.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331ee72b94bd8009d41c8e2/lede/1664217074960-screen-shot-2022-09-26-at-23043-pm.png"
+        },
+        {
           "id": "bvmyzm",
           "author": "Becky Ferreira",
           "description": "More water than all of Earth's oceans is thought to reside deep inside the mantle, and a newly-discovered gem just shed more light on the mystery.",
@@ -3544,6 +3649,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/culture/2022/9/6/23339631/dont-worry-darling-wilde-pugh-feud-explained",
+          "author": null,
+          "description": "This is the cast of Don’t Worry Darling. Making a chart about who is supposedly feuding with whom would be complicated. | Stefania D’Alessandro/WireImage\n    \n\n  \nDon’t Worry Darling features a Harry Styles love triangle, a possible feud, and maybe some spit. And that’s just behind the scenes! \n Some people have sports. Some people garden or knit or birdwatch. And some people have the Don’t Worry Darling press tour. \nPersonally, everything I’ve learned about the feature film — which stars Florence Pugh and should use a comma after “worry” in its title — has been against my will. I couldn’t tell you the plot (something about ’50s housewives?) but know all too much about the supposed behind-the-scenes drama, from the interviews to the non-interviews, the snubs and the Shia and the spit takes…",
+          "link": "https://www.vox.com/culture/2022/9/6/23339631/dont-worry-darling-wilde-pugh-feud-explained",
+          "publishedOn": "2022-09-26T18:31:58.000Z",
+          "wordCount": 4915,
+          "title": "The many scandals of Don’t Worry Darling, explained",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/tTS4nSBKasqSD03omV7JSuSqnJA=/0x0:7594x3976/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24000128/1421095609.jpg"
+        },
         {
           "id": "https://www.vox.com/2018/9/26/17905796/nuclear-war-1983-stanislav-petrov-soviet-union",
           "author": null,
@@ -4319,6 +4434,26 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23368911/warcrow-preview-corvus-belli-kickstarter-release-date-price",
+          "author": null,
+          "description": "Photo: Charlie Hall/Polygon\n    \n\n\n  \nThe game takes a novel approach to turn order\n In a role-playing game, initiative — that is, the order in which players and enemies take their turns — is one of the biggest factors in setting the tone, and the stakes, for combat. Traditionally, initiative order takes the form of a list that moves from top to bottom, activating player characters and enemies along the way, then resetting at the “top of the order” on the next turn.\nBut traditional initiative order can be a little boring. That’s especially true for a subset of RPGs known as dungeon-crawler board games. Like Diablo, this action-oriented genre of games, including titles like Gloomhaven and Descent: Legends of the Dark, empowers players to move quickly from fight to fight. Combat can be high-…",
+          "link": "https://www.polygon.com/23368911/warcrow-preview-corvus-belli-kickstarter-release-date-price",
+          "publishedOn": "2022-09-26T19:08:13.000Z",
+          "wordCount": 2069,
+          "title": "Warcrow Adventures, from the team behind Infinity, rethinks how dungeon crawlers work",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vNqlIhaYNVMYv7OOPLlTKexRp28=/0x56:3000x1627/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055389/_MG_4205.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23373053/netflix-video-game-studio-development",
+          "author": null,
+          "description": "Illustration: Ollie Hoff for Polygon\n    \n\n  \nIt’s a step toward Netflix’s ‘vision to build a world-class games studio’\n Netflix newest investment in video games is opening its first internal game development studio from the ground up, built for the streaming giant from the ground up. \nThe new studio — the fourth games studio owned by Netflix — will be based in Helsinki, Finland, and will bolster Netflix’s efforts to bring “engaging original games” to their hundreds of millions of subscribers around the world, vice president of Netflix’s Game Studios said.\nSo far, the company has focused on buying pre-existing studios to invest in game development. The studio purchased another Helsinki-based studio called Next Games earlier this year, and previously acquired Oxenfree developer Night School Studio and Boss Fight Entertainment.\nThe streaming service features a growing catalogue of games that subscribers can play at no additional cost with no ads on iOS and Android devices. Some highlights include the charming animated platformer Poinpy and Before Your Eyes, which you can literally play by blinking. Sam Barlow’s creepy film-fueled narrative adventure Immortality, will also be added to the streaming service soon.",
+          "link": "https://www.polygon.com/23373053/netflix-video-game-studio-development",
+          "publishedOn": "2022-09-26T18:25:00.000Z",
+          "wordCount": 2077,
+          "title": "Netflix’s next big gaming move is opening its own game studio",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/rncRbEvKYqJhsTbjkUjL9Kxjo08=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22495795/ohoff_210318_ecl1087_stock_netflix.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23372865/super-mario-bros-5-maker-2-level-id-details",
           "author": null,
           "description": "Image: Nintendo EPD/Nintendo\n    \n\n  \nProject pitched as ‘a classic Mario game that plays as if Nintendo created it themselves’\n It finally happened, “Super Mario Bros. 5” is here! And by “here” we actually mean “fully realized and created inside Super Mario Maker 2 by a fan, not Nintendo.”\nIt’s been 32 years since Nintendo launched Super Mario World — the last truly classic Mario Bros. platformer before the modern era — in Japan. Since then we’ve gotten numerous 3D Mario games, modern 2D “New” Super Mario Bros. games, and even Mario games where you can make other Mario games. \nBut many fans have wondered over the years: Will Nintendo ever return to the classic era and give us one more great platformer in the style of Super Mario Bros. 3 and Super Mario World? The answer to that question i…",
@@ -4455,6 +4590,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23372641/house-of-the-dragon-laena-velaryon-death-dragon-child",
+          "author": null,
+          "description": "Photo: Ollie Upton/HBO\n    \n\n  \nChildbirth in Westeros remains no easy task, even after a time jump\n House of the Dragon’s sixth episode, “The Princess and the Queen,” was a particularly difficult one for almost everybody on the show. The series picked up 10 years after episode 5, and caught us up with its most important characters, many of whom had had a few kids in the interim. \nAmong these characters was Laena Velaryon, daughter of Corlys Velaryon and Rhaenys Targaryen, and now Daemon Targaryen’s second wife. Viewers knew Laena best as the 12-year-old girl from episode 2 who spoke to Viserys about dragons before pitching him on marriage (which he politely declined). Laena and Daemon wound up having two children during the 10-year time jump, and Laena spends most of the sixth episode pre…",
+          "link": "https://www.polygon.com/23372641/house-of-the-dragon-laena-velaryon-death-dragon-child",
+          "publishedOn": "2022-09-26T18:15:00.000Z",
+          "wordCount": 2699,
+          "title": "Laena Velaryon’s story on House of the Dragon got a significant tweak",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Ph3dUuhNguVEPRx2NOXd-vJBXGo=/0x114:1584x943/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056138/daemon_and_leana.jpeg"
+        },
         {
           "id": "https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po",
           "author": null,
@@ -5017,6 +5162,256 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190220",
+          "author": null,
+          "description": "Kinetic novel to feature prequels, sequels",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/prima-doll-anime-gets-4-part-kinetic-novel-in-2023/.190220",
+          "publishedOn": "2022-09-26T19:00:00.000Z",
+          "wordCount": 3585,
+          "title": "Prima Doll Anime Gets 4-Part 'Kinetic Novel' in 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE8/cms/news.5/190220/prima-doll-kinetic-novel.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190219",
+          "author": null,
+          "description": "Anime premieres on October 6",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/hidive-to-stream-bibliophile-princess-anime/.190219",
+          "publishedOn": "2022-09-26T17:00:06.000Z",
+          "wordCount": 3362,
+          "title": "HIDIVE to Stream Bibliophile Princess Anime",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.5/186193/mushikaburihime_visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190218",
+          "author": null,
+          "description": "Anime premieres on October 6",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/hidive-to-stream-akiba-maid-war-anime/.190218",
+          "publishedOn": "2022-09-26T16:20:37.000Z",
+          "wordCount": 3383,
+          "title": "HIDIVE to Stream Akiba Maid War Anime",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/cms/news.5/189001/akiba.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190217",
+          "author": null,
+          "description": "Visual unveiled for SynergySP's anime of Mitsuru Kido's manga",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/kawaisugi-crisis-manga-gets-tv-anime-in-2023/.190217",
+          "publishedOn": "2022-09-26T15:29:18.000Z",
+          "wordCount": 3250,
+          "title": "Kawaisugi Crisis Manga Gets TV Anime in 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/cms/news.5/190217/kawaisugi-crisis.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190216",
+          "author": null,
+          "description": "Business Days on June 13-15, Gamer Days on June 15-16",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/e3-in-person-event-returns-on-june-13-16-with-separate-business-gamer-days/.190216",
+          "publishedOn": "2022-09-26T14:59:42.000Z",
+          "wordCount": 3375,
+          "title": "E3 In-Person Event Returns on June 13-16 with Separate Business/Gamer Days",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.5/187475/e3-2023.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190215",
+          "author": null,
+          "description": "Film has earned 15.7 billion yen in Japan",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/one-piece-film-red-tops-ponyo-as-no.6-all-time-anime-film-in-japan/.190215",
+          "publishedOn": "2022-09-26T14:31:31.000Z",
+          "wordCount": 3580,
+          "title": "One Piece Film Red Tops Ponyo as #6 All-Time Anime Film in Japan",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/cms/news.5/186449/one-piece-film-red-visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190214",
+          "author": null,
+          "description": "New season debuts on October 8",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/welcome-to-demon-school-iruma-kun-anime-3rd-season-previewed-in-promo-video/.190214",
+          "publishedOn": "2022-09-26T11:20:53.000Z",
+          "wordCount": 3434,
+          "title": "'Welcome to Demon School, Iruma-kun' Anime's 3rd Season Previewed in Promo Video",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFL/youtube/v0M9JojWdFA.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190212",
+          "author": null,
+          "description": "Daisuke Ono, Shiki Aoki join cast",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/new-sorcerous-stabber-orphen-anime-gets-3rd-season-adapting-urban-rama-arc-in-january-2023/.190212",
+          "publishedOn": "2022-09-26T11:10:50.000Z",
+          "wordCount": 3452,
+          "title": "New Sorcerous Stabber Orphen Anime Gets 3rd Season Adapting 'Urban Rama Arc' in January 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/news.5/190212/orphen-3rd-season.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190171",
+          "author": null,
+          "description": "Atsushi Wada's \"Bird in the Peninsula,\" Sumito Sakakibara's \"lizuna Fair\" also win prizes",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/koji-yamamura-dozens-of-norths-anime-film-wins-ottawa-intl-animation-fest-award/.190171",
+          "publishedOn": "2022-09-26T10:06:38.000Z",
+          "wordCount": 3353,
+          "title": "Koji Yamamura's Dozens of Norths Anime Film Wins Ottawa Int'l Animation Fest Award",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/news.5/186835/12ffcd4000b8968c38a659a991b1fbab133f2d0b.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190205",
+          "author": null,
+          "description": "Manga's 10th volume special edition bundles acrylic diorama",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/my-dress-up-darling-manga-tops-7.5-million-in-circulation/.190205",
+          "publishedOn": "2022-09-26T09:19:40.000Z",
+          "wordCount": 3412,
+          "title": "My Dress-Up Darling Manga Tops 7.5 Million in Circulation",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.5/190205/doll1.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190161",
+          "author": null,
+          "description": "Toei Animation streams clip from anime's English dub",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/world-trigger-anime-2nd-3rd-seasons-get-english-dub/.190161",
+          "publishedOn": "2022-09-26T08:52:25.000Z",
+          "wordCount": 3318,
+          "title": "World Trigger Anime's 2nd, 3rd Seasons Get English Dub",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNB/youtube/KLfgSiiNqNA.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190119",
+          "author": null,
+          "description": "Tonko House's CGI series features scripts by Mari Okada",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/oni-thunder-god-tale-animated-show-releases-on-netflix-on-october-21/.190119",
+          "publishedOn": "2022-09-26T08:15:13.000Z",
+          "wordCount": 3348,
+          "title": "Oni: Thunder God's Tale Animated Show Releases on Netflix on October 21",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.5/190119/key_visual_15.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.189955",
+          "author": null,
+          "description": "Tamakoshi started 4 months of chemotherapy last week",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/boys-be-manga-artist-hiroyuki-tamakoshi-reports-cancer-diagnosis/.189955",
+          "publishedOn": "2022-09-26T06:46:16.000Z",
+          "wordCount": 3481,
+          "title": "Boys Be… Manga Artist Hiroyuki Tamakoshi Reports Cancer Diagnosis",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM2/cms/news/134074/boysbe_youngadult.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190186",
+          "author": null,
+          "description": "Sugita voices new character Vitor in January 2023 show",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made-sequel-anime-casts-tomokazu-sugita/.190186",
+          "publishedOn": "2022-09-26T06:30:39.000Z",
+          "wordCount": 3599,
+          "title": "'The Fruit of Evolution: Before I Knew It, My Life Had It Made' Sequel Anime Casts Tomokazu Sugita",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD1/cms/news.5/190186/vitor.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190187",
+          "author": null,
+          "description": "Writer Asta Konno, artist Yusano return from ATRI: My Dear Moments for new project",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/frontwing-reveals-new-ginka-game-for-2023-pc-release/.190187",
+          "publishedOn": "2022-09-26T06:19:57.000Z",
+          "wordCount": 3322,
+          "title": "Frontwing Reveals New Ginka Game for 2023 PC Release",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL8/cms/news.5/190187/ginka.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190188",
+          "author": null,
+          "description": "Dragon Quest X Offline Switch, PS4, PS5 versions debut at #2, #3, #4",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/japan-video-game-rankings-september-12-18/.190188",
+          "publishedOn": "2022-09-26T06:15:55.000Z",
+          "wordCount": 3383,
+          "title": "Japan's Video Game Rankings, September 12-18",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.5/190188/splatoon.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190190",
+          "author": null,
+          "description": "School Idol Musical production centers on 2 rival schools",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/love-live-franchise-gets-1st-stage-musical-with-original-story-characters-in-december/.190190",
+          "publishedOn": "2022-09-26T04:29:52.000Z",
+          "wordCount": 3778,
+          "title": "Love Live! Franchise Gets 1st Stage Musical With Original Story, Characters in December",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHR/cms/news.5/190190/member.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190017",
+          "author": null,
+          "description": "Light novel series ended with 13th volume on Sunday",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/arifureta-author-fans-can-expect-an-epilogue-story/.190017",
+          "publishedOn": "2022-09-26T01:45:00.000Z",
+          "wordCount": 3515,
+          "title": "Arifureta Author: Fans Can 'Expect' an Epilogue Story",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ2/cms/news.5/190017/arifureta.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190058",
+          "author": null,
+          "description": "Porter of Heroes follows former baggage carrier embarking on solo adventure",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/kakegurui-homura-kawamoto-launches-new-fantasy-manga-on-october-21/.190058",
+          "publishedOn": "2022-09-26T01:15:00.000Z",
+          "wordCount": 3570,
+          "title": "Kakegurui's Homura Kawamoto Launches New Fantasy Manga on October 21",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/news.5/190058/kawamoto01.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190177",
+          "author": null,
+          "description": "2023 season to cover \"Kaigyoku/Gyokusetsu,\" \"Shibuya Incident\" arcs",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/jujutsu-kaisen-anime-season-2-to-run-for-half-a-year-without-breaks/.190177",
+          "publishedOn": "2022-09-26T00:42:37.000Z",
+          "wordCount": 3414,
+          "title": "Jujutsu Kaisen Anime Season 2 to Run for Half a Year Without Breaks",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.5/190177/jujutsu.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190056",
+          "author": null,
+          "description": "Romantic comedy launched in August 2020 with English release by Comikey",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/my-first-times-with-suwa-san-manga-ends-on-october-21/.190056",
+          "publishedOn": "2022-09-26T00:19:13.000Z",
+          "wordCount": 3232,
+          "title": "My First Times with Suwa-san Manga Ends on October 21",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.5/179291/suwa.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190052",
+          "author": null,
+          "description": "Mangamo publishes manga in English about Shinsengumi",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/chiruran-shinsengumi-requiem-manga-to-end-in-2-volumes/.190052",
+          "publishedOn": "2022-09-25T19:00:00.000Z",
+          "wordCount": 3327,
+          "title": "Chiruran: Shinsengumi Requiem Manga to End in 2 Volumes",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.5/190052/shinsengumi.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190051",
+          "author": null,
+          "description": "Shin Towada pens novel with art by franchise's character designer Sui Ishida",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/jack-jeanne-game-gets-new-novel-in-november/.190051",
+          "publishedOn": "2022-09-25T18:00:00.000Z",
+          "wordCount": 3442,
+          "title": "Jack Jeanne Game Gets New Novel in November",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA2/cms/news.5/190051/jackjeanne.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190096",
+          "author": null,
+          "description": "Character will be 3rd in new 5th season pass",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/naruto-to-boruto-shinobi-striker-game-adds-konohamaru-as-31st-dlc-character/.190096",
+          "publishedOn": "2022-09-25T15:02:00.000Z",
+          "wordCount": 3487,
+          "title": "Naruto to Boruto: Shinobi Striker Game Adds Konohamaru as 31st DLC Character",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGS/cms/news.2/142296/shinobi-striker.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190095",
+          "author": null,
+          "description": "Each episode to be 5 minutes long",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-25/me-and-roboco-anime-shorts-reveal-staff-december-4-premiere/.190095",
+          "publishedOn": "2022-09-25T15:00:00.000Z",
+          "wordCount": 3407,
+          "title": "Me & Roboco Anime Shorts Reveal Staff, December 4 Premiere",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.4/174978/me-and-roboco.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190172",
           "author": null,
           "description": "P Maru-sama, cosplayer Enako collaborate on opening song",
@@ -5453,6 +5848,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/bibliophile-princess-tv-anime-brings-romantic-drama-to-hidive",
+          "author": "Humberto Saabedra",
+          "description": "Manga and light novel series being adapted by Madhouse\n\n\nStreaming service HIDIVE is continuing its Fall 2022 simulcast announcements by shifting gears from battle maids in Akihabara to the story of a princess that prefers books over royal duties in Bibliophile Princess. Read on for the details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/bibliophile-princess-tv-anime-brings-romantic-drama-to-hidive",
+          "publishedOn": "2022-09-26T17:35:01.000Z",
+          "wordCount": 5944,
+          "title": "Bibliophile Princess TV Anime Brings Romantic Drama To HIDIVE",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/e9a454f8c4435195c156f0581cae636f1664213615_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26/princess-connect-re-dive-meets-shadowverses-luna",
           "author": "Guest Author",
@@ -6718,6 +7123,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/two-majors-among-six-pakistan-army-men-killed-in-helicopter-crash/articleshow/94463530.cms",
+          "author": null,
+          "description": "A Pakistani military helicopter crashed during a nightly mission in Harnai district of restive Balochistan province in the country’s southwest late Sunday, killing all six on board, including two majors flying the aircraft.",
+          "link": "https://timesofindia.indiatimes.com/india/two-majors-among-six-pakistan-army-men-killed-in-helicopter-crash/articleshow/94463530.cms",
+          "publishedOn": "2022-09-26T19:00:36.000Z",
+          "wordCount": 5851,
+          "title": "Two majors among six Pakistan army men killed in helicopter crash",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ghulam-nabi-azad-unveils-democratic-azad-party-vows-to-follow-mahatmas-ideals/articleshow/94463477.cms",
+          "author": null,
+          "description": "Former J&K CM Ghulam Nabi Azad launched his Democratic Azad Party with a nod to the \"ideals of Mahatma Gandhi\" in Jammu on Monday, exactly a month to the day he quit Congress with a critique of how the grand old party he had been part of for five decades \"reached the point of no return\".",
+          "link": "https://timesofindia.indiatimes.com/india/ghulam-nabi-azad-unveils-democratic-azad-party-vows-to-follow-mahatmas-ideals/articleshow/94463477.cms",
+          "publishedOn": "2022-09-26T18:55:20.000Z",
+          "wordCount": 6120,
+          "title": "Ghulam Nabi Azad unveils Democratic Azad Party, vows to follow 'Mahatma's ideals'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463490,width-1070,height-580,imgsize-56878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pakistani-terrorist-killed-in-kulgam-op/articleshow/94463433.cms",
+          "author": null,
+          "description": "Army Soldier, Two Civilians Wounded",
+          "link": "https://timesofindia.indiatimes.com/india/pakistani-terrorist-killed-in-kulgam-op/articleshow/94463433.cms",
+          "publishedOn": "2022-09-26T18:47:31.000Z",
+          "wordCount": 5096,
+          "title": "Pakistani terrorist killed in Kulgam op",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/experts-flag-off-poor-maintenance-inadequate-signage-missing-markings-in-stretch-where-cyrus-mistrys-car-crashed/articleshow/94462784.cms",
           "author": null,
           "description": "India News: NEW DELHI: A road safety audit carried out by a team of independent experts of the 70-km stretch between Mandor in Maharashtra and Achhad in Gujarat o.",
@@ -7344,6 +7779,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukrainians-in-occupied-melitopol-fear-russian-call-up-exiled-mayor/articleshow/94463541.cms",
+          "author": null,
+          "description": "Europe News: KYIV: Ukrainians in the Russian-occupied city of Melitopol fear they will be called up by Moscow following a referendum on joining Russia, in which so.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukrainians-in-occupied-melitopol-fear-russian-call-up-exiled-mayor/articleshow/94463541.cms",
+          "publishedOn": "2022-09-26T19:02:21.000Z",
+          "wordCount": 7085,
+          "title": "Ukrainians in occupied Melitopol fear Russian call-up: exiled mayor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463550,width-1070,height-580,imgsize-178596,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/lights-out-ovens-off-europe-preps-for-winter-energy-crisis/articleshow/94463072.cms",
+          "author": null,
+          "description": "Europe News: FRANKFURT: As Europe heads into winter in the throes of an energy crisis, offices are getting chillier.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/lights-out-ovens-off-europe-preps-for-winter-energy-crisis/articleshow/94463072.cms",
+          "publishedOn": "2022-09-26T18:02:15.000Z",
+          "wordCount": 15437,
+          "title": "Lights out, ovens off: Europe preps for winter energy crisis",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463069,width-1070,height-580,imgsize-219388,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/us-announces-457-5-million-civilian-aid-for-ukraine/articleshow/94462717.cms",
           "author": null,
