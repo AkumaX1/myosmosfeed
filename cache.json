@@ -169,6 +169,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html",
+          "author": "David E. Sanger and Jim Tankersley",
+          "description": "The comments by the national security adviser, Jake Sullivan, illustrate how quickly the rhetoric has intensified as Russia has faltered on the battlefield in recent months.",
+          "link": "https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html",
+          "publishedOn": "2022-09-26T00:00:10.000Z",
+          "wordCount": null,
+          "title": "U.S. Warns Russia of ‘Catastrophic Consequences’ if It Uses Nuclear Weapons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/sports/football/nfl-week-3-takeaways.html",
+          "author": "Derrik Klassen",
+          "description": "Some upsets — the Dolphins over the Bills, the Colts over Kansas City — are more upsetting than others (the Saints and Raiders are in real trouble.)",
+          "link": "https://www.nytimes.com/2022/09/25/sports/football/nfl-week-3-takeaways.html",
+          "publishedOn": "2022-09-25T23:26:39.000Z",
+          "wordCount": null,
+          "title": "What We Learned From Week 3 in the N.F.L.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/us/jonathan-price-murder-officer-acquitted-texas.html",
+          "author": "Neelam Bohra",
+          "description": "Officer Shaun Lucas, who is white, shot 31-year-old Jonathan Price four times. After the encounter, he was fired.",
+          "link": "https://www.nytimes.com/2022/09/25/us/jonathan-price-murder-officer-acquitted-texas.html",
+          "publishedOn": "2022-09-25T23:16:14.000Z",
+          "wordCount": null,
+          "title": "Former Texas Police Officer Acquitted in 2020 Shooting Death of Black Man",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html",
           "author": "Jane Arraf and Farnaz Fassihi",
           "description": "The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.",
@@ -549,6 +579,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/sports/football/nfl-locs-braids-black-hair.html",
+          "author": "Emmanuel Morgan",
+          "description": "N.F.L. players who wear dreadlocks risk being tackled by their hair and face helmet-fitting challenges. But they say expressing their identities and showing off their style is worth it.",
+          "link": "https://www.nytimes.com/2022/09/24/sports/football/nfl-locs-braids-black-hair.html",
+          "publishedOn": "2022-09-24T19:11:49.000Z",
+          "wordCount": null,
+          "title": "Black NFL Players Still Wear Their Hair in Locs Despite the Challenges",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html",
           "author": "Jackie Frere and Isaac Aronow",
           "description": "Get started solving the Mini, Monday and Tuesday puzzles.",
@@ -806,6 +846,16 @@
           "publishedOn": "2022-09-20T20:16:18.000Z",
           "wordCount": null,
           "title": "Is America Really in a Mental Health Crisis?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/19/t-magazine/il-palazzetto-italy-tobia-carlo-scarpa.html",
+          "author": "Max Norman and Danilo Scarpati",
+          "description": "Most homes hold the history of their owners, but Il Palazzetto is as much a monument to its designers as to its inhabitants.",
+          "link": "https://www.nytimes.com/2022/09/19/t-magazine/il-palazzetto-italy-tobia-carlo-scarpa.html",
+          "publishedOn": "2022-09-19T16:15:28.000Z",
+          "wordCount": null,
+          "title": "An Italian Villa Where Architecture Is a Family Affair",
           "imageUrl": null
         },
         {
@@ -1727,6 +1777,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "z34qbw",
+          "author": "Emily Green",
+          "description": "Inspired by the NRA, pro-gun enthusiasts have turned into a political juggernaut.",
+          "link": "https://www.vice.com/en_us/article/z34qbw/brazils-far-right-embraced-the-nra-and-gun-sales-are-soaring",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 11103,
+          "title": "Brazil’s Far-Right Embraced the NRA and Gun Sales Are Soaring",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632e075cd18e93009f8e2a57/lede/1663961562674-nra-brazil-proarmas.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632e075cd18e93009f8e2a57/lede/1663961562674-nra-brazil-proarmas.png"
+        },
         {
           "id": "epz54n",
           "author": "Annabel Gat",
@@ -2685,6 +2750,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline",
+          "author": null,
+          "description": "Photo: Ollie Upton/HBO\n    \n\n  \nGoing back over the episodic time jumps in Westeros history\n House of the Dragon episode 6 takes a major 10-year time jump in the action — and however it plays out in the long run, it’s exactly the kind of move the show should be making.\nOne of the best parts of House of the Dragon, HBO’s so-far-so-good Game of Thrones prequel series, is how co-creator George R.R. Martin and showrunner Ryan Condal reaped storytelling philosophy from Netflix’s The Crown. Peter Morgan, creator of that series, knew it was impossible to linearly chart every beat of Queen Elizabeth II’s reign (RIP), so from the first season, the drama bounced from significant moment to significant moment, with each hour playing like a stand-alone film.\nHouse of the Dragon’s time jumps make Martin…",
+          "link": "https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline",
+          "publishedOn": "2022-09-26T00:09:00.000Z",
+          "wordCount": 3099,
+          "title": "The House of the Dragon timeline, so far",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/a0HP-kqBOGSRB8aJ98TFfG9xq78=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048266/emma_d_arcy_john_macmillan.jpg"
+        },
         {
           "id": "https://www.polygon.com/reviews/23365454/vesper-review-2022",
           "author": null,

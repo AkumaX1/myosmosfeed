@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T23:10:01.644Z</updated>
+    <updated>2022-09-26T00:58:11.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The House of the Dragon timeline, so far]]></title>
+        <id>https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline</id>
+        <link href="https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline"/>
+        <updated>2022-09-26T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Ollie Upton/HBO
+    
+
+  
+Going back over the episodic time jumps in Westeros history
+ House of the Dragon episode 6 takes a major 10-year time jump in the action — and however it plays out in the long run, it’s exactly the kind of move the show should be making.
+One of the best parts of House of the Dragon, HBO’s so-far-so-good Game of Thrones prequel series, is how co-creator George R.R. Martin and showrunner Ryan Condal reaped storytelling philosophy from Netflix’s The Crown. Peter Morgan, creator of that series, knew it was impossible to linearly chart every beat of Queen Elizabeth II’s reign (RIP), so from the first season, the drama bounced from significant moment to significant moment, with each hour playing like a stand-alone film.
+House of the Dragon’s time jumps make Martin…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Warns Russia of ‘Catastrophic Consequences’ if It Uses Nuclear Weapons]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html"/>
+        <updated>2022-09-26T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The comments by the national security adviser, Jake Sullivan, illustrate how quickly the rhetoric has intensified as Russia has faltered on the battlefield in recent months.]]></summary>
+        <author>
+            <name>David E. Sanger and Jim Tankersley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil’s Far-Right Embraced the NRA and Gun Sales Are Soaring]]></title>
+        <id>z34qbw</id>
+        <link href="https://www.vice.com/en_us/article/z34qbw/brazils-far-right-embraced-the-nra-and-gun-sales-are-soaring"/>
+        <updated>2022-09-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by the NRA, pro-gun enthusiasts have turned into a political juggernaut.]]></summary>
+        <author>
+            <name>Emily Green</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Learned From Week 3 in the N.F.L.]]></title>
+        <id>https://www.nytimes.com/2022/09/25/sports/football/nfl-week-3-takeaways.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/sports/football/nfl-week-3-takeaways.html"/>
+        <updated>2022-09-25T23:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Some upsets — the Dolphins over the Bills, the Colts over Kansas City — are more upsetting than others (the Saints and Raiders are in real trouble.)]]></summary>
+        <author>
+            <name>Derrik Klassen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Texas Police Officer Acquitted in 2020 Shooting Death of Black Man]]></title>
+        <id>https://www.nytimes.com/2022/09/25/us/jonathan-price-murder-officer-acquitted-texas.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/us/jonathan-price-murder-officer-acquitted-texas.html"/>
+        <updated>2022-09-25T23:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Officer Shaun Lucas, who is white, shot 31-year-old Jonathan Price four times. After the encounter, he was fired.]]></summary>
+        <author>
+            <name>Neelam Bohra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disperse, which brings AI-fuelled data to construction projects, raises $16M]]></title>
         <id>https://techcrunch.com/?p=2406254</id>
@@ -1430,6 +1487,16 @@ Big names like The Witcher, Knives Out, Enola Holmes, and Bridgerton all made ap
 If you missed the show, here are the b…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black NFL Players Still Wear Their Hair in Locs Despite the Challenges]]></title>
+        <id>https://www.nytimes.com/2022/09/24/sports/football/nfl-locs-braids-black-hair.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/sports/football/nfl-locs-braids-black-hair.html"/>
+        <updated>2022-09-24T19:11:49.000Z</updated>
+        <summary type="html"><![CDATA[N.F.L. players who wear dreadlocks risk being tackled by their hair and face helmet-fitting challenges. But they say expressing their identities and showing off their style is worth it.]]></summary>
+        <author>
+            <name>Emmanuel Morgan</name>
         </author>
     </entry>
     <entry>
@@ -4798,6 +4865,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Italian Villa Where Architecture Is a Family Affair]]></title>
+        <id>https://www.nytimes.com/2022/09/19/t-magazine/il-palazzetto-italy-tobia-carlo-scarpa.html</id>
+        <link href="https://www.nytimes.com/2022/09/19/t-magazine/il-palazzetto-italy-tobia-carlo-scarpa.html"/>
+        <updated>2022-09-19T16:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Most homes hold the history of their owners, but Il Palazzetto is as much a monument to its designers as to its inhabitants.]]></summary>
+        <author>
+            <name>Max Norman and Danilo Scarpati</name>
         </author>
     </entry>
     <entry>
