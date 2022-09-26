@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails",
+          "author": null,
+          "description": "Just because you can bring a waterproof phone into the shower doesn’t mean you should. | Photo by Dieter Bohn / The Verge\n    \n\n  \nThere’s one last place in my life where the alerts, texts, pings, and emails, emails, emails! can’t find me: the shower. It is a sacred space where I process information, brainstorm, and sometimes, as a treat, anxiety-spiral over something dumb I said 15 years ago. But it has come to my attention that some of you are violating the sanctity of Shower Thought Time by actually inviting your phones into the shower. When this came to my attention, I did some digging and discovered dozens — dozens! — of waterproof phone mounts designed for the shower. Truly, I am shocked. You guys are bringing your phones into the shower?\nI did a little research and polled my Verge c…",
+          "link": "https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails",
+          "publishedOn": "2022-09-26T19:57:35.000Z",
+          "wordCount": 13130,
+          "title": "Wait, are you guys bringing your phones into the shower?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/fxabXDiFMZ42M3dz-2u3dnFG4gw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22801024/dbohn_210819_4722_0001.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra",
+          "author": null,
+          "description": "iFixit’s video details the inner workings of Apple’s new premium watch. | Image: iFixit\n    \n\n  \nThe right-to-repair enthusiasts at iFixit have published a video providing a screw-by-screw breakdown of the Apple Watch Ultra. The entire video serves less as a review of the capabilities of the Ultra and more of an intimate examination of the tech and engineering that goes into Apple’s powerful timepiece. \niFixit’s breakdown exposed some vulnerabilities in the Apple Watch Ultra, not only in terms of its repairability but also its durability. The raised lip of the Ultra, which is intended to protect the screen, only really works against side-on impacts. As the video points out, any kind of head-on collision with the screen still risks a screen replacement. Getting to the battery on the Ultra r…",
+          "link": "https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra",
+          "publishedOn": "2022-09-26T19:29:51.000Z",
+          "wordCount": 12123,
+          "title": "iFixit teardown looks at the guts of the Apple Watch Ultra",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4hF7uZCdM9C0Dgd_0ANDGrCEHm0=/0x0:1589x851/1200x628/filters:focal(795x426:796x427)/cdn.vox-cdn.com/uploads/chorus_asset/file/24056236/Screenshot_2022_09_26_143354.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon",
           "author": null,
           "description": "Illustration by Nick Barclay / The Verge\n    \n\n\n  \nThe news that Twitch will be reducing top streamers’ revenue share from 70 / 30 to 50 / 50 signals that the platform is no longer the ‘creator first’ entity that made it so popular.\n The reaction to the news that Twitch intends to change how it splits revenue with partnered streamers has been, on the whole, completely and utterly negative. Streamers at every level of growth, from the big-time partners to the smallest affiliates, were displeased to learn that the 70 / 30 revenue sharing split that had been long asked for — and is the standard or better elsewhere — was not only being rejected but being slowly phased out completely. To quote the Fallout 4 meme: “everyone disliked that.” \nThe Verge took a look at the response from the streamin…",
@@ -458,6 +478,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/white-house-student-loan-forgiveness.html",
+          "author": "Katie Rogers",
+          "description": "The estimate by the nonpartisan Congressional Budget Office renewed the debate between supporters of debt forgiveness and those who say the initiative amounts to reckless spending.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/white-house-student-loan-forgiveness.html",
+          "publishedOn": "2022-09-26T19:51:03.000Z",
+          "wordCount": null,
+          "title": "White House Student Loan Forgiveness Could Cost About $400 Billion",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/us/politics/republicans-crime-midterms.html",
           "author": "Lisa Lerer and Jonathan Weisman",
@@ -1636,6 +1666,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html",
+          "author": "Ellen Gabler and Sheera Frenkel",
+          "description": "We want to hear from you.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html",
+          "publishedOn": "2022-09-26T19:32:07.000Z",
+          "wordCount": null,
+          "title": "Are Your Patients Worried About the Polio Vaccine?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/technology/are-your-patients-worried-about-the-polio-vaccine.html",
           "author": "Ellen Gabler and Sheera Frenkel",
           "description": "We want to hear from you.",
@@ -1792,6 +1832,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/books/review/concerning-my-daughter-kim-hye-jin.html",
+          "author": "Imogen West-Knights",
+          "description": "In Kim Hye-jin’s “Concerning My Daughter,” an unnamed mother laments her adult child’s life choices, even as she takes her back in.",
+          "link": "https://www.nytimes.com/2022/09/26/books/review/concerning-my-daughter-kim-hye-jin.html",
+          "publishedOn": "2022-09-26T20:02:55.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Concerning My Daughter,’ by Kim Hye-jin",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/books/review/donald-yacovone-teaching-white-supremacy.html",
           "author": "Dana Goldstein",
@@ -2641,6 +2691,26 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2407748",
+          "author": "Alex Wilhelm",
+          "description": "Many creator-focused startups were predicated on the idea of more folks becoming creators. But with the underpinning advertising market slowing, how likely will that prove to be?\nYeah, funding for creator-focused startups is drying up by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/yeah-funding-for-creator-focused-startups-is-drying-up/",
+          "publishedOn": "2022-09-26T20:00:10.000Z",
+          "wordCount": 6523,
+          "title": "Yeah, funding for creator-focused startups is drying up",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/09/creator-revenue-streams.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407968",
+          "author": "Amanda Silberling",
+          "description": "Making its television premiere tonight, “Ring Nation” is debuting amid calls from advocacy groups to cancel the show. MGM (now owned by Amazon) is leveraging footage from Ring security cameras (also owned by Amazon) to create a show along the lines of “America’s Funniest Home Videos,” with Wanda Sykes as host. The show is a […]\nAdvocacy groups slam Amazon and MGM’s controversial “Ring Nation” show ahead of its premiere by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/amazon-ring-nation-mgm-surveillance-tv-show-petition/",
+          "publishedOn": "2022-09-26T19:59:09.000Z",
+          "wordCount": 6881,
+          "title": "Advocacy groups slam Amazon and MGM’s controversial “Ring Nation” show ahead of its premiere",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/07/ring.jpg?resize=1200,786"
+        },
+        {
           "id": "https://techcrunch.com/?p=2407798",
           "author": "Tim De Chant",
           "description": "The Inflation Reduction Act all but ensures that climate tech for buildings is likely to emerge as one of the sectors to watch in the coming years.\nHere are the industries ripe for innovation under the Inflation Reduction Act by Tim De Chant originally published on TechCrunch",
@@ -3207,6 +3277,36 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "y3p5db",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "Treat the navel gazer in your life to these body gems, ticklers, feather dusters, and other belly button fetish sex toys.",
+          "link": "https://www.vice.com/en_us/article/y3p5db/navel-play-belly-button-fetish",
+          "publishedOn": "2022-09-26T20:08:10.000Z",
+          "wordCount": 10286,
+          "title": "The Best Sex Toys and Treats for a Navel Sexual Fetish",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331e24cebc3340094504971/lede/1664216493991-gettyimages-611460173.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331e24cebc3340094504971/lede/1664216493991-gettyimages-611460173.jpeg"
+        },
+        {
+          "id": "5d3wbk",
+          "author": "Tess Owen",
+          "description": "About 100 far-right protesters were met by 100 counterprotesters at a Texas church hosting a drag event. Participants from both sides had guns.",
+          "link": "https://www.vice.com/en_us/article/5d3wbk/proud-boys-neo-nazis-and-white-nationalists-protested-drag-bingo-at-texas-church",
+          "publishedOn": "2022-09-26T19:34:05.000Z",
+          "wordCount": 5275,
+          "title": "Proud Boys, Neo-Nazis, and White Nationalists Protested ‘Drag Bingo’ at Texas Church",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331f6c40b7b1a0094ae5a18/lede/1664219066247-gettyimages-142146753.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331f6c40b7b1a0094ae5a18/lede/1664219066247-gettyimages-142146753.jpeg"
+        },
         {
           "id": "4axqvq",
           "author": "Samantha Cole",
@@ -4591,6 +4691,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60",
+          "author": null,
+          "description": "Image: Mark Russell, Greg Land, Jay Leisten/Marvel Comics\n    \n\n\n  \nBut it was close\n The heroes of Marvel Comics are currently having some trouble with being harshly judged by an unstoppable space-god. And this week saw another long-anticipated development in the blockbuster event series AXE: Judgment Day. \nIn May, Marvel Comics published its retailer solicitations for the month, including a brief description of Avengers #60, which stated: “Hawkeye must prove that he brings at least as much joy and usefulness to the world as a randomly chosen mailbox.” \nIn regard to which I had only one thing to say: “God, I hope that’s meant literally.” Now, we finally know the answer.\nWhat else is happening in the pages of our favorite comics? We’ll tell you. Welcome to Monday Funnies, Polygon’s weekly …",
+          "link": "https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60",
+          "publishedOn": "2022-09-26T20:05:00.000Z",
+          "wordCount": 1556,
+          "title": "God declares Hawkeye slightly more valuable than ‘a randomly chosen mailbox’",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/lGmDkznIurPUWPQGgsaj9FXqYzM=/0x0:1988x1041/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055747/RCO003_1663771842_copy.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23372641/house-of-the-dragon-laena-velaryon-death-dragon-child",
           "author": null,
           "description": "Photo: Ollie Upton/HBO\n    \n\n  \nChildbirth in Westeros remains no easy task, even after a time jump\n House of the Dragon’s sixth episode, “The Princess and the Queen,” was a particularly difficult one for almost everybody on the show. The series picked up 10 years after episode 5, and caught us up with its most important characters, many of whom had had a few kids in the interim. \nAmong these characters was Laena Velaryon, daughter of Corlys Velaryon and Rhaenys Targaryen, and now Daemon Targaryen’s second wife. Viewers knew Laena best as the 12-year-old girl from episode 2 who spoke to Viserys about dragons before pitching him on marriage (which he politely declined). Laena and Daemon wound up having two children during the 10-year time jump, and Laena spends most of the sixth episode pre…",
@@ -5134,6 +5244,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news.xml",
       "siteUrl": "http://www.steampowered.com/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/143572/",
+          "author": "Valve",
+          "description": "",
+          "link": "https://store.steampowered.com/news/143572/",
+          "publishedOn": "2022-09-26T19:00:00.000Z",
+          "wordCount": 1382,
+          "title": "Team Fortress 2 Update Released",
+          "imageUrl": "https://store.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
+        },
         {
           "id": "https://store.steampowered.com/news/143476/",
           "author": "Valve",
@@ -5848,6 +5968,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/guilty-gear-xrd-rev-2-adds-rollback-netcode-on-october-28",
+          "author": "Joseph Luster",
+          "description": "It's all set to begin with a public beta test\n\n\nArc System Works America made a welcome announcement for players of Guilty Gear Xrd REV 2 during CEOtaku 2022 over the weekend. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/guilty-gear-xrd-rev-2-adds-rollback-netcode-on-october-28",
+          "publishedOn": "2022-09-26T19:29:30.000Z",
+          "wordCount": 5987,
+          "title": "Guilty Gear Xrd REV 2 Adds Rollback Netcode on October 28",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/732bcdb51ffa27799004dfbd229b7a241664220535_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/bibliophile-princess-tv-anime-brings-romantic-drama-to-hidive",
           "author": "Humberto Saabedra",
