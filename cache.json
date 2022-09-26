@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore",
+          "author": null,
+          "description": "Illustration by Samar Haddad / The Verge\n    \n\n  \nErica Lubman, an indie artist who goes by the moniker Boy Jr., is objectively good at TikTok. She has amassed more than 300,000 followers with her tongue-in-cheek songs and videos spoofing indie rock culture. Those followers have translated into ticket sales for live shows and millions of streams. But even when Lubman gets praise on videos that get half a million views — for her songwriting, for her humor — she is realistic about how fickle TikTok can be.\n“I appreciate those comments a ton,” Lubman said. “But there’s a really good chance you won’t see another video from me for months because your TikTok algorithm is going to just show you other things and you’re gonna forget about me.”\nOn paper, it should be a golden age for music. Anyone with a song in their heart and a subscription to TuneCore can distribute their music on Spotify and other music streamers right alongside Beyoncé. And plenty are taking advantage of it — nearly 75,000 new songs are uploaded every day. So why, as research firm Luminate reported earlier this year, are consumers listening to less new music than before?\n\n\nIn part two of The Vergecast’s series on the future of music, I try to find out why it is so hard for new artists to break out. Speaking with industry experts, I explore the past 25 years of music streaming: from early warnings of the “celestial jukebox” to my personal golden age of music, the MySpace era, to the current boom and bust cycles of streaming today.",
+          "link": "https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore",
+          "publishedOn": "2022-09-26T15:00:00.000Z",
+          "wordCount": 11839,
+          "title": "It’s never been easier to be an artist — or harder to become a star",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/_peKytfbxtt_4WTduTFoMPb1bek=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24029092/the_new_music_distribution_age_3000x2000px.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch",
+          "author": null,
+          "description": "Apple’s entry-level Watch is exactly just that. Get it if you’ve never had an Apple Watch, or give it to your kids. Otherwise, get a Series watch. \n When I reviewed the original Apple Watch SE in 2020, I was certain it was the best option for most people. In fact, my SE review was titled, “Just get the Apple Watch SE.” Back then, the always-on display was relatively new, the bigger screen with thinner bezels hadn’t arrived yet, and advanced features like EKG and blood oxygen monitoring weren’t need-to-haves for most people. (They still aren’t.) But things have changed since then. I no longer believe the SE is the best option for most people. And it’s not that the SE has gotten worse. It’s more that the SE’s role in the Apple Watch lineup has changed. \nThe original SE was the sensible midra…",
+          "link": "https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch",
+          "publishedOn": "2022-09-26T15:00:00.000Z",
+          "wordCount": 17606,
+          "title": "The Apple Watch SE is a first-time buyer’s smartwatch",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EE7gMRbiLk8lWLhVE6y9vKACI5I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24049860/226292_Apple_Watch_SE_PHO_akrales_0047.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side",
           "author": null,
           "description": "Ancestry has an enormous genetic database. | Illustration by Alex Castro / The Verge\n    \n\n  \nCustomers of the consumer genetics and genealogy company Ancestry will soon be able to see which side of the family any DNA matches found through the service come from. The new feature, launching this week, builds on the SideView technology the company announced in April. \n“We’re really excited to see what users can do with this parental matches feature,” says  Caitlyn Bruns, a population geneticist at Ancestry. “I do think it will really help unlock an understanding of how you’re connected with your matches.”\nThe feature will let users more easily see where matches fall on their family tree. Previously, people could manually place people on one side of their family as they learned more about their matches. Now, it’ll happen automatically. \nThe SideView technology leverages Ancestry’s enormous DNA database to sort which parts of a person’s genome came from each parent. When it first launched, it let users see which parts of their ethnicity came from each parent. Ancestry says SideView can have 95 percent precision for 90 percent of customers. \nNext, Ancestry plans to extend SideView to its communities feature, which connects people to groups of other users who might have descended from people who lived in the same area as their ancestors, Bruns says. It’ll group those communities by parental side. \nOnce it goes live, this new DNA match feature will be available to users automatically when they log in to their account. \n“This is just something that we’re really excited about that that we can do with the size of our database and not something that other people are able to do at this point,” Bruns says.",
@@ -298,6 +318,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/italy-election-meloni-what-to-know.html",
+          "author": "Gaia Pianigiani",
+          "description": "Giorgia Meloni, leader of the hard-right Brothers of Italy, looked set to become prime minister after her party garnered more votes than any other.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/italy-election-meloni-what-to-know.html",
+          "publishedOn": "2022-09-26T14:25:40.000Z",
+          "wordCount": null,
+          "title": "Giorgia Meloni's Election Win in Italy: Here’s What To Know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/business/british-pound-weak.html",
+          "author": "Jenny Gross",
+          "description": "Investors briefly sent the pound to a record low against the dollar, which has implications for people and businesses inside and outside Britain.",
+          "link": "https://www.nytimes.com/2022/09/26/business/british-pound-weak.html",
+          "publishedOn": "2022-09-26T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Why a Weak British Pound Matters",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/world/europe/meloni-italy-russia-ukraine.html",
           "author": "Jason Horowitz",
@@ -1346,6 +1386,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html",
+          "author": "Kashmir Hill",
+          "description": "A tech-savvy artist unearthed video footage of people working hard to capture the perfect shot for Instagram. It is a lesson in the artifice of social media and the ubiquity of surveillance.",
+          "link": "https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html",
+          "publishedOn": "2022-09-25T00:40:30.000Z",
+          "wordCount": null,
+          "title": "This Surveillance Artist Knows How You Got That Perfect Instagram Photo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/23/technology/midterm-elections-misinformation.html",
           "author": "Cecilia Kang",
           "description": "Misleading and divisive posts about the Nov. 8 midterm vote have flooded social media. Here are three prevalent themes.",
@@ -1384,6 +1434,16 @@
           "wordCount": 5937,
           "title": "Inside Russia’s Vast Surveillance State: ‘They Are Watching’",
           "imageUrl": "https://static01.nyt.com/images/2022/09/21/technology/21russia-surveillance-print/21russia-surveillance-print-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html",
+          "author": "Adam Satariano and Christopher F. Schuetze",
+          "description": "Battling far-right extremism, Germany has gone further than any other Western democracy to prosecute individuals for what they say online, testing the limits of free speech on the internet.",
+          "link": "https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html",
+          "publishedOn": "2022-09-23T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Where Online Hate Speech Can Bring the Police to Your Door",
+          "imageUrl": null
         },
         {
           "id": "https://www.nytimes.com/2022/09/21/science/whale-safe-san-francisco.html",
@@ -1767,6 +1827,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234599851",
+          "author": "Jon Blistein",
+          "description": "Song featured in a promo for Chiefs/Buccaneers game featuring young man quarterback Patrick Mahomes and old man quarterback Tom Brady — get it?",
+          "link": "https://www.rollingstone.com/music/music-news/beck-neil-young-old-man-cover-buccaneers-chiefs-tom-brady-patrick-mahomes-1234599851/",
+          "publishedOn": "2022-09-26T14:46:05.000Z",
+          "wordCount": 7025,
+          "title": "Beck Covered Neil Young’s ‘Old Man’ for… the NFL? Sure.",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Beck-by-Mikai-Karl-1.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234599834",
+          "author": "Larisha Paul",
+          "description": "It’s the third title the singer has revealed from the record, joining “Vigilante Shit” and “Mastermind”",
+          "link": "https://www.rollingstone.com/music/music-news/taylor-swift-midnights-tracklist-reveal-seven-1234599834/",
+          "publishedOn": "2022-09-26T14:41:47.000Z",
+          "wordCount": 7106,
+          "title": "Taylor Swift Has an Answer to Your ‘Question’ About the ‘Midnights’ Tracklist Reveal",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/taylor-swift-chats.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234598566",
           "author": "Julyssa Lopez",
           "description": "From neoperreo and post-punk covers of mainstream reggaeton hits to indie bands injecting dembow into their sound, this hard-to-pin goth reggaeton offshoot can — and does — go everywhere",
@@ -2110,6 +2190,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407506",
+          "author": "Carly Page",
+          "description": "Police in London have confirmed a 17-year-old teenager, who is suspected of involvement in high-profile breaches at ride hailing giant Uber and Rockstar Games, has been charged with multiple counts of computer misuse and breaches of bail. The suspect, whose name was not released due to U.K. reporting restrictions on identifying non-adults, was arrested in […]\nUK police arrest teenager suspected of Uber, GTA 6 hacks by Carly Page originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/london-police-arrest-uber-rockstar/",
+          "publishedOn": "2022-09-26T14:28:42.000Z",
+          "wordCount": 6441,
+          "title": "UK police arrest teenager suspected of Uber, GTA 6 hacks",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-964318302.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2407544",
           "author": "Sarah Perez",
@@ -2538,6 +2628,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "7kvqdb",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "The best cock rings are for everyone, whether you want a vibrating cock cage or remote-controlled ball coddler.",
+          "link": "https://www.vice.com/en_us/article/7kvqdb/best-cock-rings-2021",
+          "publishedOn": "2022-09-26T14:40:00.000Z",
+          "wordCount": 8816,
+          "title": "The Best Cock Rings for Beginners and Kinky Daddies Alike",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6112b5fabcb999009cdb11d6/lede/1628616497893-cock-rings.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6112b5fabcb999009cdb11d6/lede/1628616497893-cock-rings.jpeg"
+        },
+        {
           "id": "akendp",
           "author": "Becky Ferreira",
           "description": "NASA's DART test will slam a small probe into an asteroid in the first-ever planetary defense test that will seek to knock the rock off course.",
@@ -2904,6 +3009,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/2018/9/26/17905796/nuclear-war-1983-stanislav-petrov-soviet-union",
+          "author": null,
+          "description": "Former Soviet Col. Stanislav Petrov, the man who prevented a nuclear war, pictured in his home in 2004. | Scott Peterson/Getty Images\n    \n\n  \nOn September 26, 1983, Stanislav Petrov saved the world.\n Editor’s note, September 26, 2022: This article has been updated to reflect recent nuclear tensions between the US and Russia.\nOn September 26, 1983, the planet came terrifyingly close to a nuclear holocaust.\nThe Soviet Union’s missile attack early warning system displayed, in large red letters, the word “LAUNCH”; a computer screen stated to the officer on duty, Soviet Lt. Col. Stanislav Petrov, that it could say with “high reliability” that an American intercontinental ballistic missile (ICBM) had been launched and was headed toward the Soviet Union. First, it was just one missile, but then …",
+          "link": "https://www.vox.com/2018/9/26/17905796/nuclear-war-1983-stanislav-petrov-soviet-union",
+          "publishedOn": "2022-09-26T15:07:13.000Z",
+          "wordCount": 2940,
+          "title": "36 years ago today, one man saved us from world-ending nuclear war",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/YRRvPC5M1rQ3gRtFYnSEXUFre74=/0x200:3000x1771/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13160331/GettyImages_50803740.jpg"
+        },
         {
           "id": "https://www.vox.com/even-better/2022/9/26/23368596/trains-amtrak-climate-high-speed-rail",
           "author": null,
@@ -3715,6 +3830,46 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2",
+          "author": null,
+          "description": "Wayne Family Adventures returns to Webtoon on Wednesday\n The slice-of-life superhero comedy comic Batman: Wayne Family Adventures will return for a second season this week, Polygon can exclusively reveal, courtesy of Webtoon and DC Comics. \n“Last season, we wanted to focus on the moments that make the Batfamily a family,” writer CRC Payne told Polygon via email. “This season, we’re going to dive deeper into these characters and explore what makes them heroes, both in the everyday sense and in the superhero sense.” \nFor more from the Wayne Family creative team on their comic’s success, and a sneak peek at season 2 before it starts on Wednesday, read on! \nA little over a year ago, DC Comics launched a partnership with Webtoon for Wayne Family Adventures. The comic wasn’t like anything on War…",
+          "link": "https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2",
+          "publishedOn": "2022-09-26T15:05:00.000Z",
+          "wordCount": 1847,
+          "title": "Here’s your first look at season 2 of DC’s slice-of-life Batman family comic",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/MH1F62DhY-DTEn5rWexluuNIX1w=/0x76:1593x910/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24049190/Screen_Shot_2022_09_23_at_3.34.52_PM.png"
+        },
+        {
+          "id": "https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date",
+          "author": null,
+          "description": "Image: Netflix/Sanrio\n    \n\n  \nSanrio’s lazy egg is off to find their mother this December\n Gudetama the lazy egg is getting their own show on Netflix, and the streaming giant released the first trailer over the weekend as part of the Tudum fan event. Gudetama: An Eggcellent Adventure will premiere on the streaming service later this year, on Dec. 13.\nGudetama’s new Japanese-language Netflix series mixes real actors with CG. The trailer sees Gudetama team up with a tiny chick, Shakipiyo, on an adventure to find their mother — although Gudetama is obviously reluctant to do anything at all. \nThe central conflict seems to be that Gudetama is reaching their expiration date and “going bad.” One of the human characters also vows to catch Gudetama, so it seems as if the lazy egg and Shakipiyo will spend some of their time on the run from humans.\nYuko Hara of the Southern All Stars will sing the Gudetama March theme song for the series.\nFor the uninitiated, Gudetama is a kawaii Japanese anime character created by Sanrio — the same company behind Hello Kitty. They’re an egg yolk with a constantly distressed face and what’s often referred to as “depression,” due to the modern world. They’re like if Winnie the Pooh’s Eeyore was a bright yellow egg instead of a stuffed donkey.\nThe show’s IMDB page suggests Gudetama: An Eggcellent Adventure’s first season will run for ten episodes.",
+          "link": "https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date",
+          "publishedOn": "2022-09-26T15:03:05.000Z",
+          "wordCount": 2152,
+          "title": "Netflix’s Gudetama series gets a trailer and a release date",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/o52GIDaam2LjZGh68RLZ_wRCSZk=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055215/Gudetama__An_Eggcellent_Adventure___Official_Trailer___Netflix_1_6_screenshot.png"
+        },
+        {
+          "id": "https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022",
+          "author": null,
+          "description": "Graphic: Pete Volk/Polygon | Image sources: Del Rey Books; Little, Brown Book Group; Harper Voyager; Berkley; Gallery / Saga Press\n    \n\n\n  \nImpressive debuts, returning favorites, and much more\n We’ve run through our favorite games, movies, and TV shows of the year to date, and now it’s time to talk about our favorite science fiction and fantasy books of the year. With new titles from beloved authors, impressive debuts, and short-story collections, we have a range of new fantasy and sci-fi for you to dive into this year.\nWe’ll continue to update this article as we catch up on our to-read lists and as new titles are released, so stay tuned! The list is in reverse chronological order of release, so the most recently released books will be at the top.\nAnd while you’re here, be sure to check …",
+          "link": "https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022",
+          "publishedOn": "2022-09-26T14:35:07.000Z",
+          "wordCount": 4952,
+          "title": "The best science fiction and fantasy books of 2022, so far",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/sD-zJIwdrqXD2TVEJgtyFh_7y7Q=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24045302/bookspostart.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23368587/house-dragon-muppets-grover-tully",
+          "author": null,
+          "description": "Photo: Ollie Upton/HBO\n    \n\n  \nAnd there are likely more to come\n One of the challenges of adapting Fire & Blood is that the Game of Thrones prequel is more history book than novel, lacking much of the quirky character moments and meta fantasy jokes that are sprinkled throughout the A Song of Ice and Fire series. Thankfully, George R.R. Martin still finds ways to weave joyful surprises into the book’s detailed Targaryen history lessons.\nThere’s one particular tidbit from Fire & Blood that I’ve been dying to see make it to screen all season, and in House of the Dragon episode 6, it finally did. But if you weren’t already aware of this potential Easter egg and obsessively looking out for it, then you probably missed the fact that House of the Dragon just made a Muppets reference.\n[Ed. note:…",
+          "link": "https://www.polygon.com/23368587/house-dragon-muppets-grover-tully",
+          "publishedOn": "2022-09-26T14:07:32.000Z",
+          "wordCount": 2930,
+          "title": "House of the Dragon made a Muppets reference you almost definitely missed",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/hqnRWnNbTE240oDt4e2oU8x5YYc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055187/olivia_cooke_paddy_considine.jpeg"
+        },
         {
           "id": "https://www.polygon.com/23368587/house-dragons-muppets-grover-tully",
           "author": null,
@@ -4643,6 +4798,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26/lupin-the-third-sets-his-sights-on-mcdonalds-in-shadowy-teaser",
+          "author": "Kara Dennison",
+          "description": "What does anime's greatest thief have in store for Japan's fast food restaurants?\n\n\nLupin the Third has stolen hearts, works of art, cryptocurrency, and the Statue of Liberty. Now, it seems he has his eye on fast food chain McDonald's. What is he after? Only time will tell—for now, we're taking a look at the newly-teased collaboration after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26/lupin-the-third-sets-his-sights-on-mcdonalds-in-shadowy-teaser",
+          "publishedOn": "2022-09-26T14:00:31.000Z",
+          "wordCount": 5940,
+          "title": "Lupin the Third Sets His Sights on McDonald's in Shadowy Teaser",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/541b06efcdcce3d1692e6626a96c078b1664200005_main.png"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/fuuto-pi-stage-play-investigates-with-tokyo-osaka-productions",
           "author": "Paul Chapman",
@@ -5828,6 +5993,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-states-on-plea-seeking-to-restrain-state-govts-from-publishing-advertisement-outside-its-territory/articleshow/94460501.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court on Monday sought responses from the Centre and the states on a plea seeking to restrain state governments from publishing.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-states-on-plea-seeking-to-restrain-state-govts-from-publishing-advertisement-outside-its-territory/articleshow/94460501.cms",
+          "publishedOn": "2022-09-26T14:28:29.000Z",
+          "wordCount": 6546,
+          "title": "SC notice to Centre, states on plea seeking to restrain state govts from publishing advertisement outside its territory",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460496,width-1070,height-580,imgsize-165986,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/india-is-a-peace-loving-country-but-it-should-not-be-mistaken-with-being-cowardly-or-afraid-of-war-rajnath-singh/articleshow/94460104.cms",
           "author": null,
           "description": "India News: SHIMLA: Union Defence Minister Rajnath Singh said that India is a peace-loving country, but it should not be mistaken with being cowardly or afraid of.",
@@ -6968,6 +7143,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-accuses-maryam-nawaz-of-hatching-plot-to-kill-him-through-religious-fanatic/articleshow/94460967.cms",
+          "author": null,
+          "description": "Pakistan's ousted prime minister Imran Khan on Monday accused senior politician Maryam Nawaz of propagating \"sectarianism and religious hatred\" against him and hatching a plot to kill him through a \"religious fanatic\".“Maryam Nawaz along with her accomplices propagated sectarianism and religious hatred against me to make a ground that any religious fanatic gets motivated and kill me,” Khan, 69, said.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-accuses-maryam-nawaz-of-hatching-plot-to-kill-him-through-religious-fanatic/articleshow/94460967.cms",
+          "publishedOn": "2022-09-26T15:01:02.000Z",
+          "wordCount": 8080,
+          "title": "Maryam hatched plot to kill me, claims Imran Khan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460958,width-1070,height-580,imgsize-72360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/earth-harbours-20000000000000000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined/articleshow/94460796.cms",
+          "author": null,
+          "description": "Researchers have made the most thorough assessment to date of the global population of ants - insects that have colonized almost everywhere on the planet - and the estimated total is a mind-blowing 20 quadrillion of them, or approximately 2.5 million for every human.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/earth-harbours-20000000000000000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined/articleshow/94460796.cms",
+          "publishedOn": "2022-09-26T14:48:50.000Z",
+          "wordCount": 10015,
+          "title": "How many ants are crawling on Earth? Scientists say 20 quadrillion",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460934,width-1070,height-580,imgsize-513996,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
           "author": null,
