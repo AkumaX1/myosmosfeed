@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23372998/instagram-shopping-tab-gone-test",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nInstagram is testing home feeds without a shopping tab, marking a shift in how the platform treats e-commerce. \nSome Instagram users (including some of us here at The Verge) have noted in recent days that the shopping tab, previously on the bottom navigation bar, has been replaced with a notifications tab. Shopping, meanwhile, has been moved to a second menu, buried among options like settings and saved posts.\nMeta spokesperson Anne Yeh confirmed the changes as part of a limited test.\n“As part of our continued work to simplify your Instagram experience, we are testing a few changes to the main navigation bar at the bottom of the app with a small number of people,” Yeh says.\nMoving the tab is a conscious decision on the part of Instagram as t…",
+          "link": "https://www.theverge.com/2022/9/26/23372998/instagram-shopping-tab-gone-test",
+          "publishedOn": "2022-09-26T17:31:08.000Z",
+          "wordCount": 11837,
+          "title": "Instagram starts testing a home feed without a shopping tab",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/xda9zU-q5WE1Ylov_9baXp-whtg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23373116/gudetama-netflix-trailer-release-date",
           "author": null,
           "description": "Image: Netflix\n    \n\n  \nGudetama is easily my favorite Sanrio character, mostly because it’s so relatable: just a little blob of egg who never wants to do anything. Same. In the upcoming Netflix series, dubbed Gudetama: An Eggcellent Adventure, we get a glimpse at how that might look in the real world. The show sees the egg teaming up with a little chick — who considers them “siblings” — as they leave the fridge into the big wide world. In the show, Gudetama looks much more realistic than its cartoon origins, but the attitude is the same; when it says, “Why bother trying?” I felt a deep connection.\n\n\nThe series starts streaming on December 13th, and the new trailer was a part of a series of Japan-centric announcements from its Tudum event, which also included details on season 2 of Way of the Househusband (it’s coming January 2023), a first look at Junji Ito Maniac: Japanese Tales of the Macabre, and a trailer for a new sci-fi anime called Moonrise. Elsewhere at Tudum, Netflix revealed new details on The Witcher season 3 and the prequel Blood Origin and showed off clips from Enola Holmes 2, Glass Onion: A Knives Out Mystery, Guillermo del Toro’s Pinocchio, and They Cloned Tyrone.",
@@ -408,6 +418,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/ukraine-donbas-russia-lyman-bakhmut.html",
+          "author": "Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks",
+          "description": "The battle for the critical Donbas region in Ukraine is centered on two strategically important cities: Lyman, held by the Russians, and Bakhmut, held by Ukraine. The fighting over the cities is fierce as both armies race to claim new ground.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/ukraine-donbas-russia-lyman-bakhmut.html",
+          "publishedOn": "2022-09-26T17:19:49.000Z",
+          "wordCount": null,
+          "title": "Two Cities, Two Armies: Pivot Points in the Fight in Ukraine’s East",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html",
           "author": "Simon Romero",
@@ -1910,6 +1930,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/25/arts/dance/fall-for-dance-review.html",
+          "author": "Siobhan Burke",
+          "description": "The annual smorgasbord at New York City Center features dancers from Music from the Sole, the Bavarian State Ballet and Alvin Ailey.",
+          "link": "https://www.nytimes.com/2022/09/25/arts/dance/fall-for-dance-review.html",
+          "publishedOn": "2022-09-25T22:29:07.000Z",
+          "wordCount": null,
+          "title": "Fall for Dance Review: Some Tap, a Pas de Deux and a Monastic Chorus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/obituaries/nancy-hiller-dead.html",
           "author": "Clay Risen",
           "description": "One of the few women in her profession, she steadily built a quiet but forceful reputation as one of the best cabinetmakers in the country.",
@@ -2066,6 +2096,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600068",
+          "author": "Larisha Paul",
+          "description": "The song appears on the Australian band’s recently released fifth studio album 5SOS5",
+          "link": "https://www.rollingstone.com/music/music-news/5-seconds-of-summer-bad-omens-video-1234600068/",
+          "publishedOn": "2022-09-26T17:49:21.000Z",
+          "wordCount": 7176,
+          "title": "5 Seconds of Summer Test Limits of How Far to Go for Love in ‘Bad Omens’ Video",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/5sos-bad-omens-music-video.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234598609",
           "author": "Brittany Spanos",
@@ -2314,6 +2354,36 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234600120",
+          "author": "Jon Blistein",
+          "description": "Adaptation of hit video game stars Pedro Pascal and Bella Ramsey",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-last-of-us-tv-show-trailer-pedro-pascal-bella-ramsey-1234600120/",
+          "publishedOn": "2022-09-26T18:08:57.000Z",
+          "wordCount": 7123,
+          "title": "Those Damn Clickers Are Back to Haunt Your Dreams in New ‘Last of Us’ Trailer",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/pedro-pascal-bella-ramsey.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234599937",
+          "author": "Maria Fontoura",
+          "description": "Dozens of top television creators, actors, writers, producers, and critics came together to create Rolling Stone's list",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/best-tv-shows-all-time-voters-1234599937/",
+          "publishedOn": "2022-09-26T17:37:42.000Z",
+          "wordCount": 7740,
+          "title": "The 100 Greatest TV Shows of All Time: How the List Was Made",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/VOTERS_2.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234599812",
+          "author": "David Fear",
+          "description": "'Confess, Fletch' gives the 'Mad Men' star a perfect showcase for his matinee-idol/class clown act and updates Chevy Chase's signature character for the modern age. It may also be the last movie of its kind",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/confess-fletch-jon-hamm-1234599812/",
+          "publishedOn": "2022-09-26T17:30:00.000Z",
+          "wordCount": 8567,
+          "title": "Yes, There’s a Wonderful New ‘Fletch’ Movie Starring Jon Hamm. Not That You’d Know It Exists at All",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/confess-fletch.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600040",
           "author": "Jon Blistein",
           "description": "Sitcom stalwart also worked on The Dick Van Dyke Show and The Partridge Family",
@@ -2500,6 +2570,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2391827",
+          "author": "Devin Coldewey",
+          "description": "For years when someone asked me what e-reader to buy, I’d say unless they care about Amazon stuff, the Kobo Clara HD. That recommendation has wavered as I’ve tested the compact Poke 3 and ergonomic Libra 2, but the new version of the Clara puts it back in the running for easiest to endorse. If […]\nKobo Clara 2E review: A worthy update to an solid e-reader, with an eco-conscious touch by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/kobos-clara-2e-e-reader-review/",
+          "publishedOn": "2022-09-26T18:00:02.000Z",
+          "wordCount": 6664,
+          "title": "Kobo Clara 2E review: A worthy update to an solid e-reader, with an eco-conscious touch",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/kobo-clara-2.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2401452",
+          "author": "Lauren Simonds",
+          "description": "TechCrunch Disrupt has played host to the biggest names in tech and has launched the Silicon Valley stars who have driven society into the future. They’re the titans, the ones who continue to reshape our relationships with technology and with one another: Zuckerberg. Benioff. Musk. Kalanick. Mayer. Dorsey. The list of startup stars who have […]\nTake a peek at who’s attending Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/take-a-peek-at-whos-attending-disrupt/",
+          "publishedOn": "2022-09-26T17:30:59.000Z",
+          "wordCount": 5387,
+          "title": "Take a peek at who’s attending Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/getting-here.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2406552",
           "author": "Devin Coldewey",
@@ -3642,6 +3732,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849581935",
+          "author": "Sisi Jiang",
+          "description": "Despite the cancellations of prior years and the general uncertainty about its future, the Entertainment Software Association (ESA) just announced that the E3 games expo will be returning to the Los Angeles Convention Center as a live event next year. So if you want to brave crowds of sweaty gamers to get a glimpse of…\nRead more...",
+          "link": "https://kotaku.com/e3-2023-reedpop-los-angeles-summer-game-fest-in-person-1849581935",
+          "publishedOn": "2022-09-26T17:45:00.000Z",
+          "wordCount": 5593,
+          "title": "E3 2023 Is Happening In Los Angeles And Will Be Open To Fans",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/930e5483e4d11a3e5f370347c176fe7c.jpg"
+        },
+        {
+          "id": "1849581761",
+          "author": "Isaiah Colbert",
+          "description": "We’ve been waiting since February, when a cryptic teaser went up hinting at an anime adaptation for the popular Japanese action-RPG Nier: Automata, for more details on the promising project. This weekend, we finally got not one, but two character trailers and some info on the upcoming anime.\nRead more...",
+          "link": "https://kotaku.com/nier-automata-anime-trailer-release-date-yoko-taro-2b-1849581761",
+          "publishedOn": "2022-09-26T17:30:00.000Z",
+          "wordCount": 6093,
+          "title": "We Finally Got A Look At The Nier: Automata Anime Coming Next Year",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7a9ef341298279879a0e66d4e99130d7.jpg"
+        },
+        {
           "id": "1849581448",
           "author": "Levi Winslow",
           "description": "If you’ve spent any time on the internet this past weekend, whether Reddit or Twitter or YouTube, you’ve undoubtedly seen Cyberpunk 2077 all over the timeline again—and for good reason. With the recent debut of Studio Trigger’s excellent anime adaptation, Cyberpunk: Edgerunners, fans the internet over have flocked…\nRead more...",
@@ -4345,6 +4455,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po",
+          "author": null,
+          "description": "Image: Lucasfilm\n    \n\n  \nThese are the droids you’re looking for\n No matter what you want out of Star Wars, we can all agree on one thing: It wouldn’t be the same without the droids.\nBig droids, little droids, talkative droids, quiet droids — they’re all (mostly) good, in one way or another. But which are the best? That’s what we’re here to determine today.\nWe’ve surveyed the esteemed staff of Polygon, mining through the depths of Star Wars droid-dom to find the best and the brightest of our mechanical friends.\nEG-series power droid\nImage: Lucasfilm\n  \nGeorge Lucas and his team of art school hippies dreamt up the EG-series power droid before anything in Star Wars was really “toyetic.” Instead, the “gonk” droid was introduced in Star Wars as a mess of screws and metal sheeting, bumbling ar…",
+          "link": "https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po",
+          "publishedOn": "2022-09-26T18:05:00.000Z",
+          "wordCount": 3645,
+          "title": "The best Star Wars droids, according to us",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/OHWrHFnIAFjkFd7o9ZOW3WTDR7c=/0x0:1549x811/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3769230/C-3PO.0.png"
+        },
         {
           "id": "https://www.polygon.com/22688011/the-last-of-us-series-trailer-hbo-release-date-cast",
           "author": null,
@@ -6141,6 +6261,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/iran-steps-up-arrests-of-activists-journalists/article65939340.ece",
+          "author": "AFP",
+          "description": "Numerous activists and lawyers have also been held, including the prominent freedom of speech campaigner Hossein Ronaghi who was arrested over the weekend, reports in Persian-language media abroad said.",
+          "link": "https://www.thehindu.com/news/international/iran-steps-up-arrests-of-activists-journalists/article65939340.ece",
+          "publishedOn": "2022-09-26T17:54:12.000Z",
+          "wordCount": 6292,
+          "title": "Iran steps up arrests of activists, journalists",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lvkhre/article65939347.ece/alternates/LANDSCAPE_615/1426271324.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/putin-grants-russian-citizenship-to-edward-snowden/article65939296.ece",
+          "author": "AP",
+          "description": "Snowden is one of 75 foreign citizens listed by the decree as being granted Russian citizenship. The decree was published on an official government website.",
+          "link": "https://www.thehindu.com/news/international/putin-grants-russian-citizenship-to-edward-snowden/article65939296.ece",
+          "publishedOn": "2022-09-26T17:32:29.000Z",
+          "wordCount": 6480,
+          "title": "Putin grants Russian citizenship to Edward Snowden",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/roix14/article65939300.ece/alternates/LANDSCAPE_615/2022-09-26T162535Z_748421927_RC23PW90JG5U_RTRMADP_3_RUSSIA-USA-SNOWDEN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/as-sri-lanka-backs-freedom-of-expression-at-un-police-arrest-dozens-of-protesters-at-home/article65937860.ece",
           "author": "Meera Srinivasan",
           "description": "Rights organisations and government critics slammed the arrests, pointing to Sri Lankan authorities’ actions evidently contradicting the Foreign Minister’s pledge at the UN forum",
@@ -6577,6 +6717,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/experts-flag-off-poor-maintenance-inadequate-signage-missing-markings-in-stretch-where-cyrus-mistrys-car-crashed/articleshow/94462784.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: A road safety audit carried out by a team of independent experts of the 70-km stretch between Mandor in Maharashtra and Achhad in Gujarat o.",
+          "link": "https://timesofindia.indiatimes.com/india/experts-flag-off-poor-maintenance-inadequate-signage-missing-markings-in-stretch-where-cyrus-mistrys-car-crashed/articleshow/94462784.cms",
+          "publishedOn": "2022-09-26T17:30:21.000Z",
+          "wordCount": 6991,
+          "title": "Experts flag off poor maintenance, inadequate signage & missing markings in stretch where Cyrus Mistry's car crashed",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94462751,width-1070,height-580,imgsize-132554,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/for-12-year-in-row-railways-to-give-78-day-bonus/articleshow/94462764.cms",
+          "author": null,
+          "description": "India News: New Delhi: For the 12 year in a row, the Indian Railways is likely to give the 78-day bonus to over 11 lakh railway employees before Dussehra.",
+          "link": "https://timesofindia.indiatimes.com/india/for-12-year-in-row-railways-to-give-78-day-bonus/articleshow/94462764.cms",
+          "publishedOn": "2022-09-26T17:27:31.000Z",
+          "wordCount": 5767,
+          "title": "For 12 year in row, railways to give 78-day bonus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94462760,width-1070,height-580,imgsize-122736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/live-streaming-of-constitution-bench-hearings-to-begin-from-september-27/articleshow/94461677.cms",
           "author": null,
@@ -7185,6 +7345,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-announces-457-5-million-civilian-aid-for-ukraine/articleshow/94462717.cms",
+          "author": null,
+          "description": "The United States will provide $457.5 million in new civilian security aid for Ukraine, a portion of which will be used to support the government's investigation of atrocities, Secretary of State Antony Blinken said on Monday.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-announces-457-5-million-civilian-aid-for-ukraine/articleshow/94462717.cms",
+          "publishedOn": "2022-09-26T17:23:11.000Z",
+          "wordCount": 6669,
+          "title": "US announces $457.5 million civilian aid for Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94462927,width-1070,height-580,imgsize-590076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/china/us-allies-push-for-un-rights-body-debate-on-xinjiang-abuses/articleshow/94462535.cms",
           "author": null,
           "description": "China News: GENEVA: The United States and several Western allies presented a proposal on Monday for the UN's main human rights body to hold a special debate over .",
@@ -7213,6 +7383,16 @@
           "wordCount": 6126,
           "title": "UK sanctions Russians linked to 'sham' referendums in Ukraine",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94461071,width-1070,height-580,imgsize-33200,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russia-steps-up-attacks-with-iranian-drones-ukraine-plans-defences-officials/articleshow/94457745.cms",
+          "author": null,
+          "description": "Ukraine's president and security chiefs met on Monday to plan ways to counteract Russia's use of \"new types of weapons\" after Moscow stepped up attacks in Odesa region using Iranian combat drones, the president's office and a regional official said.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-steps-up-attacks-with-iranian-drones-ukraine-plans-defences-officials/articleshow/94457745.cms",
+          "publishedOn": "2022-09-26T12:22:32.000Z",
+          "wordCount": 7348,
+          "title": "Russia steps up attacks with Iranian drones, Ukraine plans defences",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94462310,width-1070,height-580,imgsize-19754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/egyptian-cleric-revered-by-muslim-brotherhood-dies-at-96/articleshow/94456966.cms",
