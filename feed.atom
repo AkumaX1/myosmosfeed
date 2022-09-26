@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T06:43:11.042Z</updated>
+    <updated>2022-09-26T07:27:42.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Six killed in Pakistan army helicopter crash]]></title>
+        <id>https://www.thehindu.com/news/international/pakistan-army-helicopter-crashes-in-southwest/article65937062.ece</id>
+        <link href="https://www.thehindu.com/news/international/pakistan-army-helicopter-crashes-in-southwest/article65937062.ece"/>
+        <updated>2022-09-26T07:08:27.000Z</updated>
+        <summary type="html"><![CDATA[The latest incident comes weeks after a helicopter carrying a regional commander and five other soldiers crashed in Baluchistan]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuba holds unusual vote on law allowing same-sex marriage]]></title>
+        <id>https://www.thehindu.com/news/international/cuba-holds-unusual-vote-on-law-allowing-same-sex-marriage/article65937007.ece</id>
+        <link href="https://www.thehindu.com/news/international/cuba-holds-unusual-vote-on-law-allowing-same-sex-marriage/article65937007.ece"/>
+        <updated>2022-09-26T07:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Cuba is holding a rare referendum on an unusually contentious law — a government-backed code that would allow same-sex couples to marry and adopt]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacqueline Fernandez granted interim bail, confirms lawyer]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jacqueline-fernandez-granted-interim-bail-confirms-her-lawyer-prashant-patil-exclusive/articleshow/94448652.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jacqueline-fernandez-granted-interim-bail-confirms-her-lawyer-prashant-patil-exclusive/articleshow/94448652.cms"/>
+        <updated>2022-09-26T06:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Jacqueline Fernandez has been summoned by the Delhi High Court today for the Sukesh Chandrashekhar extortion case. While updates around her appearance in Court are still coming in, ETimes was able to get an update from her lawyer Prashant Patil. The senior lawyer revealed, "Jacqueline has been granted interim bail. This appearance is mere procedural. The next date to appear before the Court is October 22. "]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan bans export of chemical weapons goods to Russia]]></title>
+        <id>https://www.thehindu.com/news/international/japan-bans-export-of-chemical-weapons-goods-to-russia/article65937064.ece</id>
+        <link href="https://www.thehindu.com/news/international/japan-bans-export-of-chemical-weapons-goods-to-russia/article65937064.ece"/>
+        <updated>2022-09-26T06:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Japan's government on Monday banned the export of materials that may be used for chemical weapons to 21 Russian organizations, including science laboratories]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistan floods raise fears of hunger after crops wrecked]]></title>
+        <id>https://timesofindia.indiatimes.com/world/pakistan/pakistan-floods-raise-fears-of-hunger-after-crops-wrecked/articleshow/94448510.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/pakistan/pakistan-floods-raise-fears-of-hunger-after-crops-wrecked/articleshow/94448510.cms"/>
+        <updated>2022-09-26T06:48:39.000Z</updated>
+        <summary type="html"><![CDATA[This summer's flooding, caused by monsoon rains nearly triple the usual ferocity, wiped out huge swaths of crops, leaving already impoverished families struggling to obtain food. Farmers and officials warn that Pakistan could now face serious food shortages.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India is repurposing its COVID-19 contact tracing app and vaccination website]]></title>
         <id>https://techcrunch.com/?p=2407365</id>
@@ -35,6 +85,19 @@ India is repurposing its COVID-19 contact tracing app and vaccination website by
         <summary type="html"><![CDATA[Salman Khan's Bigg Boss 16 is slated to premiere on October 1. With just a few days left, the buzz around the contestants of the show has now gotten stronger. The latest is that actor Gautam Singh Vig is going to be a part of the controversial reality show.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Live! Franchise Steps into a New Arena with Original Stage Musical]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/25-1/love-live-franchise-steps-into-a-new-arena-with-original-stage-musical</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/25-1/love-live-franchise-steps-into-a-new-arena-with-original-stage-musical"/>
+        <updated>2022-09-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An all-new school and ensemble await this December
+
+
+More than ten years after the project first launched, the Love Live! franchise is officially heading to theaters in Tokyo and Osaka for a musical adaptation that will feature a completely original story and ensemble. A teaser visual and cast photos were released, so hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -669,6 +732,16 @@ You better believe that after multiple decades Naruto is finally getting his own
         <link href="https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-7-dead-10-injured-as-tempo-falls-into-gorge-in-kullu/articleshow/94442156.cms"/>
         <updated>2022-09-26T01:32:36.000Z</updated>
         <summary type="html"><![CDATA[As many as seven people were killed and 10 others suffered injuries as a tempo traveller fell into a gorge in Kullu district of Himachal Pradesh on Sunday evening.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: Ghulam Nabi Azad announces name of his party]]></title>
+        <id>https://timesofindia.indiatimes.com/india/breaking-news-live-update-26-september-2022/liveblog/94442152.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/breaking-news-live-update-26-september-2022/liveblog/94442152.cms"/>
+        <updated>2022-09-26T01:31:59.000Z</updated>
+        <summary type="html"><![CDATA[News from India and across the world, as it unfolds. Stay with TOI for all updates]]></summary>
         <author>
             <name>Times of India</name>
         </author>
