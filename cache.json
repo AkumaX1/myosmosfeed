@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test",
+          "author": null,
+          "description": "Testing out AptX Lossless with Apple Music and the NuraTrue Pro.\n    \n\n\n  \nThe NuraTrue Pro are the first earbuds to support Qualcomm’s new codec\n CD-quality music is still the benchmark for decent audio; it’s not quite hi-res, but it’s noticeably better than the lossy, compressed music found on Spotify and your old MP3 library. But actually listening to uncompressed CD-quality music on a phone can still be tricky if convenience is also important. The source material needs to be high enough quality in the first place, and once it reaches your phone you need a way to get it to your headphones without that extra audio quality being compressed away. Easy enough in an era of wired headphones, but a little more difficult with wireless earbuds.\nQualcomm’s new AptX Lossless standard is supposed t…",
+          "link": "https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test",
+          "publishedOn": "2022-09-26T10:00:00.000Z",
+          "wordCount": 15954,
+          "title": "Hands on with AptX Lossless, the new tech promising CD-quality audio over Bluetooth",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/iX8nfi58uCJ23OlQbJIoY2nzPuQ=/0x0:6145x4097/1200x628/filters:focal(3028x2849:3029x2850)/cdn.vox-cdn.com/uploads/chorus_asset/file/24048769/226315_AptX_Lossless_JPorter_0006.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23372438/fitbit-changes-update-google-account-new-2025",
+          "author": null,
+          "description": "A Google account will be required for Fitbit by 2025, following the search giants acquisition of the health tech brand. | The Verge\n    \n\n  \nFollowing Google’s acquisition of Fitbit and its rebranding of the health tech company as ‘Fitbit by Google,’ the search giant is moving to tightly integrate its services with Fitbit’s own. A Google account will be required for “some uses” of Fitbit devices and features from 2023, with plans to have all existing Fitbit accounts migrated to Google accounts by 2025. \nAn updated support page says that creating a new Fitbit account and activating new Fitbit devices and features will require a Google account from 2023. Existing Fitbit account holders will be able to move over to a Google account or remain with their existing Fitbit login until “at least ea…",
+          "link": "https://www.theverge.com/2022/9/26/23372438/fitbit-changes-update-google-account-new-2025",
+          "publishedOn": "2022-09-26T09:34:11.000Z",
+          "wordCount": 13341,
+          "title": "Fitbit users will be forced to migrate to Google accounts by 2025",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid",
           "author": null,
           "description": "An illustration of DART headed towards Dimorphos  | NASA/Johns Hopkins APL/Steve Gribben\n    \n\n  \nWhen NASA smashes a spacecraft into an asteroid on Monday, people on Earth will get an extremely close look at the action. \nNASA’s Double Asteroid Redirect Test (DART) is headed for its final destination, the surface of an asteroid called Dimorphos, which it will crash into at speeds of over 14,000 miles per hour. Researchers are hoping that the collision will change the asteroid’s orbit, speeding it up just a tiny bit. \nNeither Dimorphos, nor its larger companion, Didymos, pose any danger to Earth, but the experiment is designed to test whether or not a similar impact could make a difference if scientists ever discovered an asteroid that posed an imminent threat to life on Earth. \nDART will b…",
@@ -189,6 +209,166 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html",
+          "author": "Valerie Hopkins",
+          "description": "An unidentified gunman entered a school in the city of Izhevsk, killing two security guards, two teachers and at least five minors, according to federal investigators.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html",
+          "publishedOn": "2022-09-26T09:45:10.000Z",
+          "wordCount": null,
+          "title": "At Least 9 Killed in School Shooting in Russia, Including Children",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/italy-giorgia-meloni-election.html",
+          "author": "Mattia Ferraresi",
+          "description": "Giorgia Meloni couldn’t turn Rome into Budapest even if she wanted to.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/italy-giorgia-meloni-election.html",
+          "publishedOn": "2022-09-26T09:13:48.000Z",
+          "wordCount": null,
+          "title": "No, Italy Is Not About to Become an Autocracy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/dominic-rapini-secretary-state-trump.html",
+          "author": "Chris Geidner",
+          "description": "Republican Dominic Rapini is unlikely to become Connecticut’s secretary of state, but election-denying candidacies like his are still damaging.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/dominic-rapini-secretary-state-trump.html",
+          "publishedOn": "2022-09-26T09:05:39.000Z",
+          "wordCount": null,
+          "title": "The Dangers of Election-Denying Secretary of State Campaigns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/business/china-electric-vehicles.html",
+          "author": "Daisuke Wakabayashi and Claire Fu",
+          "description": "More electric cars will be sold in the country this year than in the rest of the world combined, as its domestic market accelerates ahead of the global competition.",
+          "link": "https://www.nytimes.com/2022/09/26/business/china-electric-vehicles.html",
+          "publishedOn": "2022-09-26T09:00:24.000Z",
+          "wordCount": null,
+          "title": "For China’s Auto Market, Electric Isn’t the Future. It’s the Present.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/uber-hack-data.html",
+          "author": "Bruce Schneier",
+          "description": "We need strong regulations that force organizations to maintain good security practices.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/uber-hack-data.html",
+          "publishedOn": "2022-09-26T09:00:24.000Z",
+          "wordCount": null,
+          "title": "The Uber Hack Exposes More Than Failed Data Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/technology/tiktok-national-security-china.html",
+          "author": "Lauren Hirsch, David McCabe, Katie Benner and Glenn Thrush",
+          "description": "A draft agreement with the Biden administration to keep the Chinese-owned video app operating in the United States is under review. That could mean more wrangling.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/tiktok-national-security-china.html",
+          "publishedOn": "2022-09-26T09:00:23.000Z",
+          "wordCount": null,
+          "title": "TikTok Seen Moving Toward U.S. Security Deal, but Hurdles Remain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/upshot/gas-prices-midterms.html",
+          "author": "Nate Cohn",
+          "description": "A simpler explanation for a Democratic turnaround.",
+          "link": "https://www.nytimes.com/2022/09/26/upshot/gas-prices-midterms.html",
+          "publishedOn": "2022-09-26T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Is It the Gas Prices, Stupid?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/trump-biden-desantis-abbott.html",
+          "author": "Gail Collins and Bret Stephens",
+          "description": "He is not the only politician in America, even if it sometimes feels that way.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/trump-biden-desantis-abbott.html",
+          "publishedOn": "2022-09-26T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Does It Matter That Investigators Are Closing in on Trump?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/supreme-court-state-legislatures-elections.html",
+          "author": "Adam Liptak",
+          "description": "In a surprising filing, state chief justices opposed an argument pressed by Republicans — that state legislatures may set federal election rules unconstrained by state constitutions.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/supreme-court-state-legislatures-elections.html",
+          "publishedOn": "2022-09-26T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Top State Judges Make a Rare Plea in a Momentous Supreme Court Election Case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/biden-russia-ukraine-china.html",
+          "author": "Kori Schake",
+          "description": "We have let Russian threats determine our actions, which encourages Russia and others to test our resolve.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/biden-russia-ukraine-china.html",
+          "publishedOn": "2022-09-26T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Biden’s Cautious Foreign Policy Imperils Us",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/post-covid-care.html",
+          "author": "Daniela J. Lamas",
+          "description": "Post-Covid care has become a luxury.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/post-covid-care.html",
+          "publishedOn": "2022-09-26T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Many Are Suffering After Covid, but Only Some Are Getting Help",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/book-author-reader.html",
+          "author": "Margaret Renkl",
+          "description": "To be read to is a form of holiness.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/book-author-reader.html",
+          "publishedOn": "2022-09-26T09:00:08.000Z",
+          "wordCount": null,
+          "title": "The Joy of Finding People Who Love the Same Books You Do",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html",
+          "author": "Jim Tankersley, Alan Rappeport and Ana Swanson",
+          "description": "U.S. manufacturing is experiencing a rebound, with companies adding workers amid high consumer demand for products.",
+          "link": "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html",
+          "publishedOn": "2022-09-26T07:00:12.000Z",
+          "wordCount": null,
+          "title": "Factory Jobs Are Booming Like It’s the 1970s",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/americas/bolsonaro-brazil-supreme-court.html",
+          "author": "Jack Nicas and André Spigariol",
+          "description": "Brazil’s Supreme Court has acted as the primary check on President Jair Bolsonaro’s power. Now many are worried the court is posing its own threat.",
+          "link": "https://www.nytimes.com/2022/09/26/world/americas/bolsonaro-brazil-supreme-court.html",
+          "publishedOn": "2022-09-26T07:00:11.000Z",
+          "wordCount": null,
+          "title": "To Defend Democracy, Is Brazil’s Top Court Going Too Far?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/health/top-surgery-transgender-teenagers.html",
+          "author": "Azeen Ghorayshi",
+          "description": "Small studies suggest that breast removal surgery improves transgender teenagers’ well-being, but data is sparse. Some state leaders oppose such procedures for minors.",
+          "link": "https://www.nytimes.com/2022/09/26/health/top-surgery-transgender-teenagers.html",
+          "publishedOn": "2022-09-26T07:00:09.000Z",
+          "wordCount": null,
+          "title": "More Trans Teens Are Choosing ‘Top Surgery’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/nyregion/weed-license-war-on-drugs.html",
+          "author": "Ashley Southall",
+          "description": "People who have been punished for marijuana offenses are applying to open the state’s first retail cannabis dispensaries.",
+          "link": "https://www.nytimes.com/2022/09/26/nyregion/weed-license-war-on-drugs.html",
+          "publishedOn": "2022-09-26T07:00:08.000Z",
+          "wordCount": null,
+          "title": "‘Let’s Do It Legit’: Drug Arrestees Vie for First New York Pot Licenses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/sports/football/brett-favre-mississippi-scandal.html",
           "author": "Jenny Vrentas",
           "description": "His role in the misappropriation of welfare money has infuriated people in his native Mississippi and prompted some fans to call for his removal from the Hall of Fame.",
@@ -206,6 +386,16 @@
           "publishedOn": "2022-09-26T02:49:37.000Z",
           "wordCount": null,
           "title": "Giorgia Meloni Leads Voting in Italy, in Breakthrough for Europe’s Hard Right",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html",
+          "author": "Kenneth Chang",
+          "description": "The DART mission has been flying to its target since launching last year. On Monday night, it will connect.",
+          "link": "https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html",
+          "publishedOn": "2022-09-26T01:26:44.000Z",
+          "wordCount": null,
+          "title": "How to Watch NASA’s DART Spacecraft Slam Into an Asteroid",
           "imageUrl": null
         },
         {
@@ -1967,6 +2157,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "g5vwxw",
+          "author": "Greg Walters",
+          "description": "Oath Keepers-leader Stewart Rodes is facing seditious conspiracy charges with four co-conspirators for their role in the Jan. 6 Capitol Riot.",
+          "link": "https://www.vice.com/en_us/article/g5vwxw/oath-keepers-jan-6-trial",
+          "publishedOn": "2022-09-26T10:00:00.000Z",
+          "wordCount": 5690,
+          "title": "The Oath Keepers Jan. 6 Trial Is Here. And It’s Going to Be Weird.",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632e0753ebc33400944fc8ff/lede/1663961243707-ap22013673610300.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632e0753ebc33400944fc8ff/lede/1663961243707-ap22013673610300.jpeg"
+        },
         {
           "id": "z34qbw",
           "author": "Emily Green",
@@ -4883,6 +5088,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-leave-for-japan-to-attend-shinzo-abes-funeral/articleshow/94453082.cms",
+          "author": null,
+          "description": "Foreign secretary Vinay Kwatra said the duration of PM Modi's visit from the time of his departure from Delhi will be around 12 to 16 hours. The foreign secretary said that the PM Modi will have a bilateral meeting with Japanese Prime Minister Fumio Kishida and also meet Abe's wife.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-leave-for-japan-to-attend-shinzo-abes-funeral/articleshow/94453082.cms",
+          "publishedOn": "2022-09-26T09:46:37.000Z",
+          "wordCount": 5509,
+          "title": "PM Narendra Modi to leave for Japan to attend Shinzo Abe's funeral",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94453085,width-1070,height-580,imgsize-37242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/parallel-meeting-of-gehlot-loyalist-mlas-amounts-to-indiscipline-maken/articleshow/94451691.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Congress in-charge for Rajasthan Ajay Maken on Monday slammed the MLAs loyal to Rajasthan Chief Minister Ashok Gehlot for setting conditions f.",
+          "link": "https://timesofindia.indiatimes.com/india/parallel-meeting-of-gehlot-loyalist-mlas-amounts-to-indiscipline-maken/articleshow/94451691.cms",
+          "publishedOn": "2022-09-26T09:01:11.000Z",
+          "wordCount": 6081,
+          "title": "Parallel meeting of Gehlot loyalist MLAs amounts to indiscipline: Maken",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94451849,width-1070,height-580,imgsize-1114407,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/travel/things-to-do/stunning-photos-of-navratri-celebrations-from-across-india/photostory/94433042.cms",
           "author": null,
           "description": "Navratri celebrations are just about to begin, and since India is a diverse and multicultural country, the festival is celebrated in different ways. In short, different states have their own share of rituals, traditions, rituals, and practices to worship the divine. So, to offer you a glimpse of their cultures, here we bring to you stunning photos of Navratri celebrations from across India.",
@@ -5320,6 +5545,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/china/countries-call-for-un-human-rights-debate-about-chinas-xinjiang/articleshow/94452328.cms",
+          "author": null,
+          "description": "China News: GENEVA: Countries are calling for a debate at the United Nations Human Rights council to discuss concerns about China's treatment of Uyghurs and other.",
+          "link": "https://timesofindia.indiatimes.com/world/china/countries-call-for-un-human-rights-debate-about-chinas-xinjiang/articleshow/94452328.cms",
+          "publishedOn": "2022-09-26T09:21:57.000Z",
+          "wordCount": 5542,
+          "title": "Countries call for UN human rights debate about China's Xinjiang",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94452615,width-1070,height-580,imgsize-40776,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/ukrainians-scared-by-russias-preordained-referendums/articleshow/94451486.cms",
           "author": null,
           "description": "Petro Kobernik, who left the Russian-held southern city of Kherson just before the preordained voting began on Friday, said the prospect of living under Russian law and the escalating war made him and others extremely jittery about the future.",
@@ -5328,6 +5563,16 @@
           "wordCount": 12424,
           "title": "Ukrainians scared by Russia's preordained referendums",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94451501,width-1070,height-580,imgsize-93492,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/13-dead-21-wounded-in-school-shooting-in-russia/articleshow/94451203.cms",
+          "author": null,
+          "description": "A gunman killed six people at a school in the Russian city of Izhevsk, Russia's interior ministry said in a statement on Telegram. The Udmurtia branch of the interior ministry said the gunman had killed himself and that 20 people were wounded. Alexander Brechalov,  governor of the Udmurtia region, said that there were dead and wounded among the school students.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/13-dead-21-wounded-in-school-shooting-in-russia/articleshow/94451203.cms",
+          "publishedOn": "2022-09-26T08:29:58.000Z",
+          "wordCount": 5458,
+          "title": "Six victims, gunman dead after shooting at school in Russia's Izhevsk",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94451186,width-1070,height-580,imgsize-24292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/six-victims-gunman-dead-after-shooting-at-school-in-russias-izhevsk/articleshow/94451203.cms",
@@ -5844,6 +6089,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/ramayans-sita-aka-dipika-chikhlia-impresses-fans-with-trendy-western-outfits-they-hail-her-as-a-beauty-queen/articleshow/94452741.cms",
+          "author": null,
+          "description": "Dipika Chikhlia, who rose to fame with the rerun of her popular show Ramayan during the lockdown, posted a video today (September 26) wherein she looks fashionable in western outfits.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/ramayans-sita-aka-dipika-chikhlia-impresses-fans-with-trendy-western-outfits-they-hail-her-as-a-beauty-queen/articleshow/94452741.cms",
+          "publishedOn": "2022-09-26T09:34:49.000Z",
+          "wordCount": 9230,
+          "title": "Dipika Chikhlia impresses fans with trendy western outfits",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94452637,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94452637.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/apple-begins-making-iphone-14-in-india-3-weeks-after-launch/articleshow/94452242.cms",
+          "author": null,
+          "description": "Apple has begun manufacturing its new iPhone 14 in India, narrowing a technology gap with the device’s main manufacturing base of China. Apple made the announcement on Monday, less than three weeks after the iPhone 14’s unveiling. \"We’re excited to be manufacturing iPhone 14 in India,\" Apple said in an emailed statement on Monday, confirming the move.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/apple-begins-making-iphone-14-in-india-3-weeks-after-launch/articleshow/94452242.cms",
+          "publishedOn": "2022-09-26T09:18:40.000Z",
+          "wordCount": 5559,
+          "title": "Apple begins making iPhone 14 in India 3 weeks after launch",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94452231,width-1070,height-580,imgsize-27496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/news/world/mahsa-aminis-death-women-chop-off-hair-as-protests-intensify-across-the-world/articleshow/94451134.cms",
+          "author": null,
+          "description": "In pics: Women chop off hair as anti-hijab protest intensify",
+          "link": "https://photogallery.indiatimes.com/news/world/mahsa-aminis-death-women-chop-off-hair-as-protests-intensify-across-the-world/articleshow/94451134.cms",
+          "publishedOn": "2022-09-26T09:04:08.000Z",
+          "wordCount": 7670,
+          "title": "In pics: Women chop off hair as anti-hijab protest intensify",
+          "imageUrl": "https://static.toiimg.com/photo/94451260.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pancreatic-cancer-the-painful-symptom-that-could-indicate-a-spreading-tumour/photostory/94434972.cms",
+          "author": null,
+          "description": "Pancreatic cancer is the twelfth most common cancer worldwide. Just like other types of cancers, pancreatic cancer is caused by the abnormal growth of cells in the pancreas.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pancreatic-cancer-the-painful-symptom-that-could-indicate-a-spreading-tumour/photostory/94434972.cms",
+          "publishedOn": "2022-09-26T08:30:00.000Z",
+          "wordCount": 10900,
+          "title": "Pancreatic cancer: Symptom that could indicate a spreading tumour",
+          "imageUrl": "https://static.toiimg.com/photo/94435002.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/has-sachin-pilots-hasty-2020-revolt-undermined-his-future-in-congress/",
           "author": null,
           "description": "Sachin Pilot’s failed 2020 rebellion is coming back to haunt him with the opportunity to replace Ashok Gehlot as chief minister coming a cropper with a majority of party MLAs foiling that move. Back then...",
@@ -6352,6 +6637,16 @@
           "wordCount": 6602,
           "title": "Tigers back in north Andhra after 25 years, strike fear",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94337902,width-1070,height-580,imgsize-32628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-vs-traditional-learning-which-works-better/articleshow/93902045.cms",
+          "author": null,
+          "description": "The growth in adoption of online schooling in the aftermath of COVID-19 pandemic amongst Indian parents has led to a new hot debate within the education industry. While both, traditional vs online classrooms come with their fair share of advantages and disadvantages, which schooling model should you choose for your kid in 2022?",
+          "link": "https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-vs-traditional-learning-which-works-better/articleshow/93902045.cms",
+          "publishedOn": "2022-08-31T09:45:06.000Z",
+          "wordCount": 6601,
+          "title": "Online schooling vs traditional learning: Which works better?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-93902337,width-1070,height-580,imgsize-35516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         }
       ]
     }
