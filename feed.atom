@@ -2,10 +2,189 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T20:11:10.552Z</updated>
+    <updated>2022-09-26T21:10:15.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter’s first comms exec is building a comms network for execs]]></title>
+        <id>https://techcrunch.com/?p=2408101</id>
+        <link href="https://techcrunch.com/2022/09/26/twitters-first-comms-exec-is-building-a-comms-network-for-execs/"/>
+        <updated>2022-09-26T21:06:02.000Z</updated>
+        <summary type="html"><![CDATA[The communications world is an enigma, and at times, feels counter to the job of a journalist. So to hear that there’s an effort to help more comms people trade notes, share stories and prepare curated responses, I have the selfish worry that we’ll have less vulnerability coming from founders and executives around the startup […]
+Twitter’s first comms exec is building a comms network for execs by Natasha Mascarenhas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Mascarenhas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Horoscope: September 27, 2022]]></title>
+        <id>jgpvq7</id>
+        <link href="https://www.vice.com/en_us/article/jgpvq7/daily-horoscope-september-27-2022"/>
+        <updated>2022-09-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mercury retrograde i connects with Pluto in Capricorn and the moon enters Scorpio today.]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The quest to save KeyForge, the first procedurally generated collectible card game]]></title>
+        <id>https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price</id>
+        <link href="https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price"/>
+        <updated>2022-09-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Kevin Sidharta/Ghost Galaxy
+    
+
+
+  
+The Richard Garfield-designed CCG hasn’t produced a new deck in years
+ The story of KeyForge is a strange one. The collectible card game arrived with much fanfare in 2018 (including from us), boasting a procedural algorithm capable of generating some 32 billion different decks of cards all on its own. The allure was its surprise factor, since not even the game’s developers knew what was inside each box. Publisher Fantasy Flight Games quickly got a foothold in hobby stores and established a nascent organized play circuit; the game felt like it was poised to become the next big CCG. Then, in September 2021, the publisher announced it was no longer able to produce any more cards.
+The messaging at the time was cryptic. Fantasy Flight simply said tha…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia detains Japanese diplomat for seeking sensitive information]]></title>
+        <id>https://www.thehindu.com/news/international/russia-detains-japanese-diplomat-for-seeking-sensitive-information/article65939543.ece</id>
+        <link href="https://www.thehindu.com/news/international/russia-detains-japanese-diplomat-for-seeking-sensitive-information/article65939543.ece"/>
+        <updated>2022-09-26T20:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Foreign Ministry says Motoki Tatsunori had been declared persona non grata and ordered to leave the country within 48 hours.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto platform Nexo sued by New York, California and six other US regulators]]></title>
+        <id>https://techcrunch.com/?p=2408103</id>
+        <link href="https://techcrunch.com/2022/09/26/crypto-platform-nexo-sued-by-new-york-california-and-six-other-us-regulators/"/>
+        <updated>2022-09-26T20:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Crypto platform Nexo is being sued by eight U.S. state securities regulators for allegedly failing to register with the states and lying to investors.
+Crypto platform Nexo sued by New York, California and six other US regulators by Jacquelyn Melinek originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jacquelyn Melinek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnus Carlsen: Hans Niemann ‘Has Cheated More—and More Recently—Than He Has Publicly Admitted’]]></title>
+        <id>epz5n7</id>
+        <link href="https://www.vice.com/en_us/article/epz5n7/magnus-carlsen-hans-niemann-has-cheated-moreand-more-recentlythan-he-has-publicly-admitted"/>
+        <updated>2022-09-26T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Chess’s World Champion officially accuses Hans Niemann of cheating, but still hasn’t offered any proof.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony is selling a PlayStation 5 bundle right now]]></title>
+        <id>https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check</id>
+        <link href="https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check"/>
+        <updated>2022-09-26T20:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Sony is once again selling a PlayStation 5 bundle today. | Photo by Vjeran Pavic / The Verge
+    
+
+  
+Still on the hunt for a next-gen PlayStation 5? Right now, Sony is selling the disc-based PlayStation 5 with a digital copy of Guerrilla Games’ excellent Horizon Forbidden West for $549.99, which is $10 less than the cost if you were to buy the two individually. The best part? You don’t even have to wait in line in order to pick one up.
+While we’ve been seeing Sony and other retailers offer stock for longer than usual recently, speed is still the name of the game here. We can’t suggest any hacks that will guarantee you’ll land the console today, but as detailed in our guide on how to buy a PS5, there are a few things you can do to improve your chance of securing one. For one, remember that you must log in with your PlayStation Network ID to buy a PlayStation 5 from Sony, so make sure you have your username and password ready. Also, be aware that you can only buy one console per account, so don’t waste time trying to buy more than one.
+
+
+
+
+If you don’t manage to land a console today, be sure to check back in with us. Restock events such as this are not as rare as they once were, and we routinely call out stock whenever we see it at Amazon, Target, Best Buy, and other retailers.
+Check out these PS5 accessories and games
+In the meantime, it could be wise to start preparing for your new PS5 with some fun accessories and games. Here are a few we recommend:]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect World's Rie Aruga Launches New Koboreru Yoru ni Manga]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190223</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-26/perfect-world-rie-aruga-launches-new-koboreru-yoru-ni-manga/.190223"/>
+        <updated>2022-09-26T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Manga centers on 2 high schoolers raised in an orphanage together]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO Max releases ‘The Last of Us’ trailer to bring more gamers to the streaming service]]></title>
+        <id>https://techcrunch.com/?p=2407993</id>
+        <link href="https://techcrunch.com/2022/09/26/hbo-max-releases-the-last-of-us-trailer/"/>
+        <updated>2022-09-26T20:29:11.000Z</updated>
+        <summary type="html"><![CDATA[HBO’s “The Last of Us” is the latest TV series adapted from a video game that aims to bring more gamers to the streaming service. Today, the first full trailer of “The Last of Us” was released, giving fans of the best-selling franchise a look at the new show, set to premiere on HBO and […]
+HBO Max releases ‘The Last of Us’ trailer to bring more gamers to the streaming service by Lauren Forristal originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oscar-Winning Screenwriter Dustin Lance Black Recovering After Suffering ‘Serious Head Injury’]]></title>
+        <id>https://www.rollingstone.com/?p=1234600242</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/dustin-lance-black-head-injury-oscar-milk-1234600242/"/>
+        <updated>2022-09-26T20:22:12.000Z</updated>
+        <summary type="html"><![CDATA["This has been a challenging, frightening time for a creative type who depends on what’s in his skull to work, care and love," said the writer of Milk]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpol issues ‘red notice’ for Terra stablecoin co-founder Do Kwon]]></title>
+        <id>https://www.theverge.com/2022/9/26/23373404/terra-stablecoin-interpol-red-notice-do-kwon-founder</id>
+        <link href="https://www.theverge.com/2022/9/26/23373404/terra-stablecoin-interpol-red-notice-do-kwon-founder"/>
+        <updated>2022-09-26T20:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Kwon co-founded Terraform Labs whose stablecoin, TerraUSD, collapsed earlier this year. | Illustration by Alex Castro / The Verge
+    
+
+  
+Do Kwon, a co-founder of Terraform Labs, has insisted that he’s not on the run after the collapse of the TerraUSD stablecoin, but Interpol is apparently under the impression he’s a fugitive. According to South Korean publication Yonhap and The New York Times, South Korean prosecutors said that Interpol has issued a “red notice” asking for help from worldwide law enforcement to find and arrest Kwon.
+Interpol:
+Red Notices are issued for fugitives wanted either for prosecution or to serve a sentence. A Red Notice is a request to law enforcement worldwide to locate and provisionally arrest a person pending extradition, surrender, or similar legal action.
+
+Earlier this month, South Korea issued a warrant for the arrest of Kwon and five other individuals, and prosecutors believed they were all in Singapore as recently as September 14th. The Seoul Southern District Prosecutors’ Office had asked Interpol to issue the red notice, saying that Kwon was “obviously on the run and has no intention to appear before us for questioning,” the Financial Times reported last Monday.
+Kwon has publicly maintained that he isn’t trying to escape. On September 17th, Kwon tweeted that “I am not ‘on the run’ or anything similar.” Earlier this afternoon, after not tweeting for more than a week, he appeared on Twitter again, saying that he is “making zero effort to hide.” Given Interpol’s red notice, perhaps Kwon is trickier to find than he might be letting on.
+Interpol’s press office said the organization does not comment on specific cases or individuals and that the “majority” of red notices aren’t made public. You can see which notices are public on Interpol’s website. Terraform Labs didn’t immediately respond to a request for comment.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face and ServiceNow launch BigCode, a project to open source code-generating AI systems]]></title>
+        <id>https://techcrunch.com/?p=2408014</id>
+        <link href="https://techcrunch.com/2022/09/26/hugging-face-and-servicenow-launch-bigcode-a-project-to-open-source-code-generating-ai-systems/"/>
+        <updated>2022-09-26T20:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Code-generating systems like DeepMind’s AlphaCode, Amazon’s CodeWhisperer and OpenAI’s Codex, which powers GitHub’s Copilot service, provide a tantalizing look at what’s possible with AI today within the realm of computer programming. But so far, only a handful of such AI systems have been made freely available to the public and open sourced — reflecting the […]
+Hugging Face and ServiceNow launch BigCode, a project to open source code-generating AI systems by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lewis Capaldi Covers Classic Britney Spears Single ‘Everytime’]]></title>
+        <id>https://www.rollingstone.com/?p=1234600220</id>
+        <link href="https://www.rollingstone.com/music/music-news/lewis-capaldi-covers-britney-spears-everytime-1234600220/"/>
+        <updated>2022-09-26T20:12:26.000Z</updated>
+        <summary type="html"><![CDATA[The singer also performed his new single “Forget Me" as well as “Before You Go,” “Someone You Loved,” and “Hold Me While You Wait"]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s really using up the water in the American West?]]></title>
+        <id>https://www.vox.com/23373495/western-us-water-scarcity-drought-cattle</id>
+        <link href="https://www.vox.com/23373495/western-us-water-scarcity-drought-cattle"/>
+        <updated>2022-09-26T20:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Hint: Water scarcity in the Western US has more to do with our diets than our lawns. 
+ The Western United States is currently battling the most severe drought in thousands of years. A mix of bad water management policies and manmade climate change has created a situation where water supplies in Western reservoirs are so low, states are being forced to cut their water use. 
+It’s not hard to find media coverage that focuses on the excesses of residential water use: long showers, swimming pools, lawn watering, at-home car washes. Or in the business sector, like irrigating golf courses or pumping water into hotel fountains in Las Vegas. 
+But when a team of researchers looked at water use in the West, they uncovered a very different story about where most Western water goes. Only 14 percent of all water consumption in the Western US goes to residential, commercial, and industrial water use. So who’s really using up the water? Their findings may hold the solution to dwindling water supplies in the West. 
+
+
+You can find this video and more on Vox’s YouTube Channel.]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Sex Toys and Treats for a Navel Sexual Fetish]]></title>
         <id>y3p5db</id>
@@ -14,6 +193,18 @@
         <summary type="html"><![CDATA[Treat the navel gazer in your life to these body gems, ticklers, feather dusters, and other belly button fetish sex toys.]]></summary>
         <author>
             <name>Mary Frances "Francky" Knapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’]]></title>
+        <id>1849582900</id>
+        <link href="https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900"/>
+        <updated>2022-09-26T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2022, which means that at least one company is announcing some new thing that is connected to NFTs or the metaverse in an attempt to stay relevant in our rapidly collapsing capitalist hellscape. Today’s wheel spins landed on Walmart, Roblox, and “The Metaverse.”
+
+Read more...]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -481,6 +672,15 @@ Kobo Clara 2E review: A worthy update to an solid e-reader, with an eco-consciou
 Read more...]]></summary>
         <author>
             <name>Sisi Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Fortnite is the Antidote to Metaverse Skepticism]]></title>
+        <id>4445237b-6384-4b41-b7f2-449f3489081a</id>
+        <link href="https://www.ign.com/articles/how-fortnite-is-the-antidote-to-metaverse-skepticism"/>
+        <updated>2022-09-26T17:44:22.000Z</updated>
+        <author>
+            <name>John Davison</name>
         </author>
     </entry>
     <entry>
@@ -2142,6 +2342,16 @@ WhatsApp is rolling out sharable call links feature by Ivan Mehta originally pub
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Evacuate With Pets During a Hurricane or Other Disaster]]></title>
+        <id>https://www.nytimes.com/2022/09/26/us/pets-evacuation-help.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/us/pets-evacuation-help.html"/>
+        <updated>2022-09-26T12:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Owners should make every attempt not to leave their pets behind, animal advocates say. You can avoid the worst by planning ahead.]]></summary>
+        <author>
+            <name>Christine Chung</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Decision on PoK should have been taken during 1971 Indo-Pak war: Rajnath Singh]]></title>
         <id>https://timesofindia.indiatimes.com/india/decision-on-pok-should-have-been-taken-during-1971-indo-pak-war-rajnath-singh/articleshow/94458568.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/decision-on-pok-should-have-been-taken-during-1971-indo-pak-war-rajnath-singh/articleshow/94458568.cms"/>
@@ -2901,6 +3111,16 @@ For many who travel all the way to Akihabara, one of the first places you see co
         <summary type="html"><![CDATA[A draft agreement with the Biden administration to keep the Chinese-owned video app operating in the United States is under review. That could mean more wrangling.]]></summary>
         <author>
             <name>Lauren Hirsch, David McCabe, Katie Benner and Glenn Thrush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monkeypox Appears to Recede, but Risks and Uncertainties Linger]]></title>
+        <id>https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html"/>
+        <updated>2022-09-26T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Scientists do not yet know how well the vaccine and the drug used to treat the infection are working. Two new trials will provide answers.]]></summary>
+        <author>
+            <name>Apoorva Mandavilli</name>
         </author>
     </entry>
     <entry>
