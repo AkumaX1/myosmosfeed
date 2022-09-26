@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side",
+          "author": null,
+          "description": "Ancestry has an enormous genetic database. | Illustration by Alex Castro / The Verge\n    \n\n  \nCustomers of the consumer genetics and genealogy company Ancestry will soon be able to see which side of the family any DNA matches found through the service come from. The new feature, launching this week, builds on the SideView technology the company announced in April. \n“We’re really excited to see what users can do with this parental matches feature,” says  Caitlyn Bruns, a population geneticist at Ancestry. “I do think it will really help unlock an understanding of how you’re connected with your matches.”\nThe feature will let users more easily see where matches fall on their family tree. Previously, people could manually place people on one side of their family as they learned more about their matches. Now, it’ll happen automatically. \nThe SideView technology leverages Ancestry’s enormous DNA database to sort which parts of a person’s genome came from each parent. When it first launched, it let users see which parts of their ethnicity came from each parent. Ancestry says SideView can have 95 percent precision for 90 percent of customers. \nNext, Ancestry plans to extend SideView to its communities feature, which connects people to groups of other users who might have descended from people who lived in the same area as their ancestors, Bruns says. It’ll group those communities by parental side. \nOnce it goes live, this new DNA match feature will be available to users automatically when they log in to their account. \n“This is just something that we’re really excited about that that we can do with the size of our database and not something that other people are able to do at this point,” Bruns says.",
+          "link": "https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side",
+          "publishedOn": "2022-09-26T14:00:00.000Z",
+          "wordCount": 11768,
+          "title": "Ancestry will tell users which side of the family their matches come from",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gF_xBNpotszoZsqS0lYA8y-iVrA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/8986107/acastro_170727_1777_0014.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nApple has started assembling the iPhone 14 in India, according to reports from TechCrunch and Bloomberg. This marks the first time Apple has shifted production from China to India this quickly after the launch of a new iPhone.\nAs noted by TechCrunch, Apple’s using Foxconn’s facilities in Sriperumbudur, India, to produce the device. While Apple has produced its flagship iPhones in India in the past, it’s typically done so well after the phone’s initial launch. The company only just started making the iPhone 13 in India in April, and it’s done the same with other models of the iPhone, including the iPhone 12 and 11. \nWe first heard that Apple planned on closing the gap between the time it takes to switch production from China to India back in August, with Apple initially hoping to finish making the first iPhones in India in late October. A source familiar with the situation told Bloomberg that Apple and Foxconn managed to smooth over supply chain issues, allowing Apple to move production to India faster.\n“We’re excited to be manufacturing iPhone 14 in India,” an Apple spokesperson said in a statement to TechCrunch. Apple didn’t immediately respond to The Verge’s request for comment.\nApple first started making iPhones in India in 2017 with the goal of decreasing the company’s reliance on China due to growing conflicts with the US. It also makes the devices more appealing to the Indian market, as locally producing the devices in India can make them more affordable in the country. According to TechCrunch, the standard iPhone 14 currently costs 79,900 rupees (about $980) in India, as opposed to the $799 price tag in the US.\nOther companies, like Google, appear to be considering manufacturing hubs outside of China as well. Google is reportedly planning on shifting the production of its Pixel smartphone to India or Vietnam. Samsung has been making devices in the country since 2007 and opened up the world’s largest phone factory in India in 2018.",
+          "link": "https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china",
+          "publishedOn": "2022-09-26T13:50:39.000Z",
+          "wordCount": 11940,
+          "title": "Apple begins manufacturing the iPhone 14 in India",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/OUfsolMG4AvNPt4WphAqntOZTYo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020923/226270_IPHONE_14_REGULAR_PHO_akrales_0786.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/23/23368340/hacking-suspect-arrested-city-of-london-lapsus-gta-6-uber",
           "author": null,
           "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nThe City of London police report they’ve arrested a 17-year-old in Oxfordshire on suspicion of hacking and said he remains in custody. In a follow-up tweet the next day, the police confirmed the teen has been charged with two counts of breach of bail conditions and two counts of computer misuse. A hearing was scheduled for Saturday, but as of Monday morning, no further details have been released.\nPolice declined to say what incident the arrest was in connection with, but many of the details line up with recent high-profile hacks. This spring, the City of London police arrested and released seven teenagers in connection with an investigation into the Lapsus$ hacking group. Today’s arrest also comes just days after two security breaches be…",
@@ -278,6 +298,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/meloni-italy-russia-ukraine.html",
+          "author": "Jason Horowitz",
+          "description": "The hard-right leader Giorgia Meloni has been a full-throated supporter of Ukraine, but her coalition partners have sounded like apologists for Vladimir V. Putin.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/meloni-italy-russia-ukraine.html",
+          "publishedOn": "2022-09-26T13:51:22.000Z",
+          "wordCount": null,
+          "title": "Meloni Faces Early Test of Italy’s Resolve on Russia and Ukraine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/article/tropical-storm-ian-hurricane.html",
           "author": "The New York Times",
@@ -1737,6 +1767,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234598566",
+          "author": "Julyssa Lopez",
+          "description": "From neoperreo and post-punk covers of mainstream reggaeton hits to indie bands injecting dembow into their sound, this hard-to-pin goth reggaeton offshoot can — and does — go everywhere",
+          "link": "https://www.rollingstone.com/music/music-latin/tomasa-del-real-friolento-post-punk-perreo-reggaeton-darks-1234598566/",
+          "publishedOn": "2022-09-26T14:00:00.000Z",
+          "wordCount": 8942,
+          "title": "‘Everything Comes From the Underground’: The Global Promise of Reggaeton Darks",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/post-punk-perreo-friolento-tomasa.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234599737",
           "author": "Althea Legaspi",
           "description": "“I can't wait to see what she's going to do,” rapper who performed this year's event says",
@@ -1893,6 +1933,16 @@
       "feedUrl": "https://www.rollingstone.com/tv-movies/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234599798",
+          "author": "Larisha Paul",
+          "description": "While Florence Pugh seems to have largely opted out of any obligations requiring her to promote Don’t Worry Darling as the film’s ongoing behind-the-scenes drama took center stage, her fellow cast member KiKi Layne took a different approach to let her gripes about the film be known. In a social media post on Sunday, Layne […]",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/kiki-layne-says-most-of-her-scenes-were-cut-dont-worry-darling-1234599798/",
+          "publishedOn": "2022-09-26T14:14:21.000Z",
+          "wordCount": 7482,
+          "title": "KiKi Layne Says ‘Most’ of Her Scenes From ‘Don’t Worry Darling’ Were ‘Cut’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/dont-worry-darling-kiki-layne.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234599781",
           "author": "Larisha Paul",
@@ -2060,6 +2110,66 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407544",
+          "author": "Sarah Perez",
+          "description": "Netflix’s push into the mobile gaming market continues with today’s announcement the streamer is establishing an internal games studio based in Helsinki, Finland, led by the co-founder and General Manager of the Zygna Helsinki game development studio, Marko Lastikka. The studio will be the fourth for Netflix, joining others including Next Games, Night School Studio, […]\nNetflix establishes an internal games studio in Helsinki, led by former Zynga GM by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/netflix-establishes-an-internal-games-studio-in-helsinki-led-by-former-zynga-gm/",
+          "publishedOn": "2022-09-26T14:23:12.000Z",
+          "wordCount": 6993,
+          "title": "Netflix establishes an internal games studio in Helsinki, led by former Zynga GM",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/Netflix_1.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2406404",
+          "author": "Lauren Simonds",
+          "description": "Is game streaming the next big chapter for Netflix? So far, the streamer has remained mum on the topic, despite recent job listings calling for cloud gaming skill sets. Netflix told TechCrunch it’s always looking for talent and exploring new product ideas, adding, “We have nothing else to share at this time.” The company launched […]\nNetflix’s Mike Verdu has got game and he’s bringing it to Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/netflixs-mike-verdu-has-got-game-and-hes-bringing-it-to-disrupt/",
+          "publishedOn": "2022-09-26T14:00:49.000Z",
+          "wordCount": 7287,
+          "title": "Netflix’s Mike Verdu has got game and he’s bringing it to Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Mike_verdu_header-1.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407497",
+          "author": "Alex Wilhelm",
+          "description": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\nHey, look, some startups are still raising money by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/hey-look-some-startups-are-still-raising-money/",
+          "publishedOn": "2022-09-26T14:00:28.000Z",
+          "wordCount": 6296,
+          "title": "Hey, look, some startups are still raising money",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407472",
+          "author": "Ram Iyer",
+          "description": "To drive revenue growth and profitability, the product-led growth model requires a different way of approaching sales: product-led sales.\n3 ways to implement a product-led sales motion to unleash PLG’s revenue potential by Ram Iyer originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/3-ways-to-implement-a-product-led-sales-motion-to-unleash-plgs-revenue-potential/",
+          "publishedOn": "2022-09-26T14:00:12.000Z",
+          "wordCount": 6667,
+          "title": "3 ways to implement a product-led sales motion to unleash PLG’s revenue potential",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-155285570.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407484",
+          "author": "Paul Sawers",
+          "description": "TikTok is facing a £27 million ($29 million) fine after the U.K.’s Information Commissioner’s Office (ICO) provisionally found that the company breached child data protection laws for a two year period. The alleged breach happened from May 2018 through July 2020, with the ICO noting that the company “may have” processed data of children under […]\nTikTok faces $29M fine in UK for ‘failing to protect children’s privacy’ by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/tiktok-faces-29m-fine-in-uk-for-failing-to-protect-childrens-privacy/",
+          "publishedOn": "2022-09-26T13:52:26.000Z",
+          "wordCount": 7362,
+          "title": "TikTok faces $29M fine in UK for ‘failing to protect children’s privacy’",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243334500-1.jpg?resize=1200,798"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407520",
+          "author": "Aisha Malik",
+          "description": "Amazon is holding a Prime Day-like shopping event this fall, marking the first time that the online retail giant will host two sales events exclusively for Prime members in the same year. The “Prime Early Access Sale” will take place on October 11 and 12. The exclusive deals for members will be available in 15 […]\nAmazon is holding a Prime Early Access Sale on October 11 and 12 by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/amazon-is-holding-a-prime-early-access-sale-on-october-11-and-12/",
+          "publishedOn": "2022-09-26T13:35:30.000Z",
+          "wordCount": 6528,
+          "title": "Amazon is holding a Prime Early Access Sale on October 11 and 12",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1211125072.jpg?resize=1200,798"
+        },
         {
           "id": "https://techcrunch.com/?p=2407521",
           "author": "Romain Dillet",
@@ -2427,6 +2537,51 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "akendp",
+          "author": "Becky Ferreira",
+          "description": "NASA's DART test will slam a small probe into an asteroid in the first-ever planetary defense test that will seek to knock the rock off course.",
+          "link": "https://www.vice.com/en_us/article/akendp/watch-nasa-dart-test-live",
+          "publishedOn": "2022-09-26T14:24:44.000Z",
+          "wordCount": 5083,
+          "title": "Watch the First Asteroid Defense Test in History Happen Live in Space Tonight",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331b3fcebc3340094501f08/lede/1664202162975-untitled-design-2022-09-26t102233439.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331b3fcebc3340094501f08/lede/1664202162975-untitled-design-2022-09-26t102233439.jpeg"
+        },
+        {
+          "id": "epz5d7",
+          "author": "Renata Price",
+          "description": "The person who used to own AimJunkies said Bungie had “balls” to go to court against them, accusing Bungie of hacking an AimJunkies employee.",
+          "link": "https://www.vice.com/en_us/article/epz5d7/cheat-maker-sues-bungie-for-hacking-its-destiny-2-hacks",
+          "publishedOn": "2022-09-26T14:21:55.000Z",
+          "wordCount": 4637,
+          "title": "Cheat Maker Sues Bungie for Hacking Its ‘Destiny 2’ Hacks",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331b320ebc3340094501e31/lede/1664201935514-bungie-hed.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331b320ebc3340094501e31/lede/1664201935514-bungie-hed.jpeg"
+        },
+        {
+          "id": "m7gpa4",
+          "author": "Matthew Gault",
+          "description": "The independent MP digitally slaughtered the former PM at a charity event over the weekend.",
+          "link": "https://www.vice.com/en_us/article/m7gpa4/jeremy-corbyn-plays-doom-mod-about-killing-margret-thatcher",
+          "publishedOn": "2022-09-26T14:06:28.000Z",
+          "wordCount": 3762,
+          "title": "Jeremy Corbyn Plays ‘Doom’ Mod About Killing Margret Thatcher",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331b0b8de35bf009b19dcf0/lede/1664201136196-thatchers-techbase-header.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331b0b8de35bf009b19dcf0/lede/1664201136196-thatchers-techbase-header.jpeg"
+        },
         {
           "id": "dy74gx",
           "author": "Mary Frances \"Francky\" Knapp",
@@ -2926,6 +3081,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849580188",
+          "author": "John Walker",
+          "description": "Pokémon TCG’s latest Sword & Shield set, Lost Origin, has been out for a couple of weeks now. That’s long enough that the community has settled on which cards are the most desirable, and thus the most valuable when trading or selling.\n\nRead more...",
+          "link": "https://kotaku.com/pokemon-tcg-cards-value-lost-origin-sword-nintendo-1849580188",
+          "publishedOn": "2022-09-26T14:20:00.000Z",
+          "wordCount": 8326,
+          "title": "The 25 Most Valuable Pokémon TCG Cards In Lost Origin",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/80d2755a6bd815f13190f3de51d6023b.jpg"
+        },
         {
           "id": "1849575749",
           "author": "Zack Zwiezen",
@@ -3550,6 +3715,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23368587/house-dragons-muppets-grover-tully",
+          "author": null,
+          "description": "Photo: Ollie Upton/HBO\n    \n\n  \nAnd there are likely more to come\n One of the challenges of adapting Fire & Blood is that the Game of Thrones prequel is more history book than novel, lacking much of the quirky character moments and meta fantasy jokes that are sprinkled throughout the A Song of Ice and Fire series. Thankfully, George R.R. Martin still finds ways to weave joyful surprises into the book’s detailed Targaryen history lessons.\nThere’s one particular tidbit from Fire & Blood that I’ve been dying to see make it to screen all season, and in House of the Dragon episode 6, it finally did. But if you weren’t already aware of this potential Easter egg and obsessively looking out for it, then you probably missed the fact that House of the Dragon just made a Muppets reference.\n[Ed. note:…",
+          "link": "https://www.polygon.com/23368587/house-dragons-muppets-grover-tully",
+          "publishedOn": "2022-09-26T14:07:32.000Z",
+          "wordCount": 2914,
+          "title": "House of the Dragon made its first reference to Grover Tully, one of several Fire & Blood characters George R.R. Martin named after Muppets.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/hqnRWnNbTE240oDt4e2oU8x5YYc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055187/olivia_cooke_paddy_considine.jpeg"
+        },
         {
           "id": "https://www.polygon.com/23372425/marvel-werewolf-by-night-reaction-michael-giacchino",
           "author": null,
@@ -4468,6 +4643,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/fuuto-pi-stage-play-investigates-with-tokyo-osaka-productions",
+          "author": "Paul Chapman",
+          "description": "Main staff, key cast, and key visual revealed for upcoming production based on Kamen Rider W sequel\n\n\nKamen Rider will soon be investigating the Japanese theater scene, because a stage play adaptation has been announced for FUUTO PI, the anime sequel series to the 2009 live-action tokusatsu hero show, Kamen Rider W. Hit the jump to learn more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/fuuto-pi-stage-play-investigates-with-tokyo-osaka-productions",
+          "publishedOn": "2022-09-26T13:12:19.000Z",
+          "wordCount": 5994,
+          "title": "FUUTO PI Stage Play Investigates with Tokyo & Osaka Productions",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/c57493f5940e1c5423f32d45d3ee1b051664196896_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/sorcerous-stabber-orphen-reboot-anime-gets-3rd-season-in-january-2023",
           "author": "Liam Dempsey",
@@ -5642,6 +5827,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-is-a-peace-loving-country-but-it-should-not-be-mistaken-with-being-cowardly-or-afraid-of-war-rajnath-singh/articleshow/94460104.cms",
+          "author": null,
+          "description": "India News: SHIMLA: Union Defence Minister Rajnath Singh said that India is a peace-loving country, but it should not be mistaken with being cowardly or afraid of.",
+          "link": "https://timesofindia.indiatimes.com/india/india-is-a-peace-loving-country-but-it-should-not-be-mistaken-with-being-cowardly-or-afraid-of-war-rajnath-singh/articleshow/94460104.cms",
+          "publishedOn": "2022-09-26T14:06:03.000Z",
+          "wordCount": 6792,
+          "title": "India is a peace-loving country but it should not be mistaken with being cowardly or afraid of war: Rajnath Singh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460121,width-1070,height-580,imgsize-1556669,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-hopeful-kamal-nath-will-defuse-rajasthan-crisis/articleshow/94459511.cms",
+          "author": null,
+          "description": "India News: BHOPAL: Loyalists of Kamal Nath in Madhya Pradesh on Monday said the Congress veteran can broker peace between factions led by Rajasthan chief ministe.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-hopeful-kamal-nath-will-defuse-rajasthan-crisis/articleshow/94459511.cms",
+          "publishedOn": "2022-09-26T13:35:41.000Z",
+          "wordCount": 5905,
+          "title": "Congress hopeful Kamal Nath will defuse Rajasthan crisis",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94459495,width-1070,height-580,imgsize-22066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
           "author": null,
