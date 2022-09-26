@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23372457/pokemon-ai-generator-stable-diffusion-model",
+          "author": null,
+          "description": "From left to right, top to bottom: Lady Gaga, Boris Johnson, Vladimir Putin, Angela Merkel, Donald Trump, Plato. \n    \n\n  \nA fun little AI art widget named Text-to-Pokémon lets you plug in any name or description you like and (you guessed it) generate a Pokémon matching your prompt. \nThe model’s output isn’t flawless, but it’s incredibly entertaining all the same. You can try punching in the names of celebrities or politicians (see “Boris Johnson” and “Vladimir Putin” in the image above), or just general descriptions of the sort of Pokémon that would tickle your personal fancy (the one below is my “skeleton priest”).\n(A little tip for using the tool more efficiently: make sure you select “4” from the “num_outputs” drop down menu to get four images per prompt rather than just one.)\nImage: T…",
+          "link": "https://www.theverge.com/2022/9/26/23372457/pokemon-ai-generator-stable-diffusion-model",
+          "publishedOn": "2022-09-26T10:53:33.000Z",
+          "wordCount": 12917,
+          "title": "Turn anyone into a Pokémon with this AI art model",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/96DJcuO40lypJMIfFJX0sChZsKg=/0x0:1536x1024/1200x628/filters:focal(768x512:769x513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24054867/ai_generated_pokemon.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23372488/oxenfree-2-delay-2023-horror-adventure-game-mysterious-radio-signals-netflix",
+          "author": null,
+          "description": "Image: Night School Studio\n    \n\n  \nOxenfree 2: Lost Signals has been delayed to 2023, its developer Night School Studio has announced.  “To make Oxenfree II truly special and add more localizations, we’re moving our release window to 2023,” the developer’s statement reads. “Thank you for your patience, support, and understanding. We can’t wait to share the game with you. Stay tuned!”\nThis is the second major delay to have hit the sequel to the acclaimed 2016 adventure horror game. Lost Signals was originally announced in 2021 and planned for release later that year. But just a few short months later the game’s developers announced a delay to “early 2022.” No specific reason was given for the delays beyond ensuring the game is “the experience we believe it should be.”\nAn update on OXENFREE II: Lost Signals pic.twitter.com/bEcwrvHUR9\n— Night School Studio (@nightschoolers) September 24, 2022\n\n\n\nNight School Studio was acquired by Netflix last year as part of the streaming service’s push into mobile gaming, and just days ago an iOS and Android port of the original 2016 Oxenfree was released. The title is now available at no additional cost to Netflix subscribers, with no ads or in-app purchases. \nSet five years after the original game, Oxenfree 2 follows new protagonist Riley as she returns to her hometown to investigate some mysterious radio signals that seem eerily similar to those from the original game. The game is currently scheduled to come out on Windows, Mac, PlayStation consoles, and the Nintendo Switch. Although a mobile version doesn’t appear to have been officially announced, we’d be very surprised if it didn’t also end up on iOS and Android since mobile gaming-focused Netflix is serving as its publisher.",
+          "link": "https://www.theverge.com/2022/9/26/23372488/oxenfree-2-delay-2023-horror-adventure-game-mysterious-radio-signals-netflix",
+          "publishedOn": "2022-09-26T10:50:54.000Z",
+          "wordCount": 12492,
+          "title": "Oxenfree 2 hit by another delay as release date slips to next year",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/IBL9aor1LetIH28frUnH4LIMilE=/0x0:3240x2160/1200x628/filters:focal(1620x1080:1621x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24054861/OX2_07.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test",
           "author": null,
           "description": "Testing out AptX Lossless with Apple Music and the NuraTrue Pro.\n    \n\n\n  \nThe NuraTrue Pro are the first earbuds to support Qualcomm’s new codec\n CD-quality music is still the benchmark for decent audio; it’s not quite hi-res, but it’s noticeably better than the lossy, compressed music found on Spotify and your old MP3 library. But actually listening to uncompressed CD-quality music on a phone can still be tricky if convenience is also important. The source material needs to be high enough quality in the first place, and once it reaches your phone you need a way to get it to your headphones without that extra audio quality being compressed away. Easy enough in an era of wired headphones, but a little more difficult with wireless earbuds.\nQualcomm’s new AptX Lossless standard is supposed t…",
@@ -208,6 +228,36 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html",
+          "author": "David Leonhardt",
+          "description": "Times reporters make sense of what’s happening.",
+          "link": "https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html",
+          "publishedOn": "2022-09-26T10:33:46.000Z",
+          "wordCount": null,
+          "title": "Iran’s Ferocious Dissent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/european-union-italy-meloni.html",
+          "author": "Steven Erlanger",
+          "description": "Giorgia Meloni, poised to be the country’s first far-right leader since Mussolini, says she supports Ukraine and has moderated her harsh views on Europe, but there are doubts, given her partners.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/european-union-italy-meloni.html",
+          "publishedOn": "2022-09-26T10:27:56.000Z",
+          "wordCount": null,
+          "title": "Europe Looks at Italy’s Giorgia Meloni With Caution and Trepidation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/podcasts/the-daily/us-child-poverty-decline.html",
+          "author": "Sabrina Tavernise, Nina Feldman, Stella Tan, Michael Simon Johnson, Patricia Willens, Marc Georges, Marion Lozano, Dan Powell and Chris Wood",
+          "description": "There are some surprising reasons why millions fewer U.S. children are growing up poor today compared with 30 years ago.",
+          "link": "https://www.nytimes.com/2022/09/26/podcasts/the-daily/us-child-poverty-decline.html",
+          "publishedOn": "2022-09-26T10:03:24.000Z",
+          "wordCount": null,
+          "title": "What’s Behind the Steep Decline in Child Poverty in America?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html",
           "author": "Valerie Hopkins",
@@ -486,6 +536,16 @@
           "publishedOn": "2022-09-25T19:23:49.000Z",
           "wordCount": null,
           "title": "Beto O’Rourke Condemns Dehumanizing Stunts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/arts/music/met-opera-medea.html",
+          "author": "Joshua Barone",
+          "description": "The Met’s first production of Cherubini’s work, in the Italian version, opens the season. The soprano Sondra Radvanovsky is aware of the pressure.",
+          "link": "https://www.nytimes.com/2022/09/25/arts/music/met-opera-medea.html",
+          "publishedOn": "2022-09-25T18:06:59.000Z",
+          "wordCount": null,
+          "title": "The Met Opera Takes on ‘Medea’ in the Shadow of Maria Callas",
           "imageUrl": null
         },
         {
@@ -999,6 +1059,16 @@
           "imageUrl": "https://static01.nyt.com/images/2022/07/25/dining/nb-orange-and-turmeric-chicken/merlin_207648057_ab4f8964-94a7-4246-a5fb-77484042845e-facebookJumbo.jpg"
         },
         {
+          "id": "https://www.nytimes.com/2022/09/23/business/managing-return-to-office.html",
+          "author": "The New York Times",
+          "description": "For those who worked from home for two-and-a-half years and are only now returning to an office, an entire lifestyle needs to be undone or readjusted. We want to hear about it.",
+          "link": "https://www.nytimes.com/2022/09/23/business/managing-return-to-office.html",
+          "publishedOn": "2022-09-23T16:28:33.000Z",
+          "wordCount": null,
+          "title": "Are You Finally Back in the Office? Tell Us How You’re Managing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html",
           "author": "Louise Rafkin",
           "description": "Yolka Gessen and Mohamad Eisa were nearly introduced by journalist Masha Gessen, who is the bride’s parent. But they found each other first.",
@@ -1026,6 +1096,16 @@
           "publishedOn": "2022-09-22T19:06:24.000Z",
           "wordCount": null,
           "title": "Popcast Live! The New Faces of 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/22/dining/a-pesto-for-every-pantry-and-mood.html",
+          "author": "Tejal Rao",
+          "description": "Use the Ligurian sauce as a guideline and make tastier sandwiches, soups, pastas, gratins and more.",
+          "link": "https://www.nytimes.com/2022/09/22/dining/a-pesto-for-every-pantry-and-mood.html",
+          "publishedOn": "2022-09-22T17:00:06.000Z",
+          "wordCount": null,
+          "title": "A Pesto for Every Pantry and Mood",
           "imageUrl": null
         },
         {
@@ -2157,6 +2237,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "k7b389",
+          "author": "Eric See",
+          "description": "Fill fresh corn tortillas with ground beef seasoned with a savory blend of spices and green chilies, then fry until golden and crisp before piling on the toppings in this quintessential New Mexican fried taco recipe.",
+          "link": "https://www.vice.com/en_us/article/k7b389/tacos-dorados-recipe",
+          "publishedOn": "2022-09-26T11:00:00.000Z",
+          "wordCount": 3510,
+          "title": "Tacos Dorados Recipe",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6312718df223f2009b446b75/lede/1662153293888-tacos-dorado-recipe1-1.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6312718df223f2009b446b75/lede/1662153293888-tacos-dorado-recipe1-1.jpeg"
+        },
         {
           "id": "g5vwxw",
           "author": "Greg Walters",
@@ -4034,6 +4129,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/welcome-to-demon-school-iruma-kun-season-3-trailer-previews-opening-theme-song",
+          "author": "Joseph Luster",
+          "description": "Jam to some of \"Giri Giri Ride it out\" by FANTASTICS from EXILE TRIBE\n\n\nA new promo has arrived for Welcome to Demon School! Iruma-kun season 3, which is set to continue the fun on Japanese TV and on Crunchyroll this October. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/welcome-to-demon-school-iruma-kun-season-3-trailer-previews-opening-theme-song",
+          "publishedOn": "2022-09-26T10:20:08.000Z",
+          "wordCount": 6029,
+          "title": "Welcome to Demon School! Iruma-kun Season 3 Trailer Previews Opening Theme Song",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/b485696d8df20061514ea7e1690ac9fa1664187569_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/akihabaras-most-recognizable-arcade-closes-down",
+          "author": "Daryl Harding",
+          "description": "It was recently rebranded from a SEGA arcade to GiGO\n\n\nFor many who travel all the way to Akihabara, one of the first places you see coming out of the JR train station Electric Town gate is the arcade. But that is no more as the recognizable has closed its doors for the last night. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/akihabaras-most-recognizable-arcade-closes-down",
+          "publishedOn": "2022-09-26T09:26:56.000Z",
+          "wordCount": 6089,
+          "title": "Akihabara’s Most Recognizable Arcade Closes Down",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/843fdbfcceb3a3a87b9e3afbe33f63011664184397_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/love-live-franchise-steps-into-a-new-arena-with-original-stage-musical",
           "author": "Liam Dempsey",
           "description": "An all-new school and ensemble await this December\n\n\nMore than ten years after the project first launched, the Love Live! franchise is officially heading to theaters in Tokyo and Osaka for a musical adaptation that will feature a completely original story and ensemble. A teaser visual and cast photos were released, so hit the jump for all the details!",
@@ -4751,6 +4866,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/kamala-harris-calls-us-japan-alliance-a-cornerstone-in-tokyo/article65937481.ece",
+          "author": "AP",
+          "description": "U.S. Vice President Kamala Harris has arrived in Tokyo to lead a U.S. delegation to the state funeral of former Japanese Prime Minister Shinzo Abe, who was  assassinated in July",
+          "link": "https://www.thehindu.com/news/international/kamala-harris-calls-us-japan-alliance-a-cornerstone-in-tokyo/article65937481.ece",
+          "publishedOn": "2022-09-26T10:32:52.000Z",
+          "wordCount": 6377,
+          "title": "Kamala Harris calls U.S.-Japan alliance &#039;a cornerstone&#039; in Tokyo",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/709hi9/article65937455.ece/alternates/LANDSCAPE_615/Japan_US_89598.jpg-c6bb5.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/renewed-militia-clashes-rock-western-libya-five-killed/article65937141.ece",
+          "author": "AP",
+          "description": "Along with the five who were killed, at least 13 other civilians were wounded in the clashes that continued overnight, Libyan Health Ministry’s emergency services said.",
+          "link": "https://www.thehindu.com/news/international/renewed-militia-clashes-rock-western-libya-five-killed/article65937141.ece",
+          "publishedOn": "2022-09-26T10:28:21.000Z",
+          "wordCount": 6200,
+          "title": "Renewed militia clashes rock western Libya; five killed",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/dlphc3/article65937504.ece/alternates/LANDSCAPE_615/AFP_32HA77B.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/japan-pm-fumio-kishida-holds-series-of-meetings-with-foreign-dignitaries-a-day-before-he-hosts-state-funeral-for-shinzo-abe/article65937392.ece",
+          "author": "AP",
+          "description": "Prime Minister of Japan Fumio Kishida met U.S. Vice-President Kamala Harris, Vietnamese President Nguyen Xuan Phuc, Philippine Vice-President Sara Duterte and about 10 other foreign dignitaries.",
+          "link": "https://www.thehindu.com/news/international/japan-pm-fumio-kishida-holds-series-of-meetings-with-foreign-dignitaries-a-day-before-he-hosts-state-funeral-for-shinzo-abe/article65937392.ece",
+          "publishedOn": "2022-09-26T10:14:14.000Z",
+          "wordCount": 6495,
+          "title": "Japan PM Fumio Kishida holds series of meetings with foreign dignitaries, a day before he hosts state funeral for Shinzo Abe",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/709hi9/article65937455.ece/alternates/LANDSCAPE_615/Japan_US_89598.jpg-c6bb5.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/iran-protests-mahsa-amini-explained-morality-police/article65924085.ece",
           "author": "Sumeda",
           "description": "What has triggered the fresh wave of protests in Iran? Why are women demanding ‘death to the dictator’?",
@@ -5087,6 +5232,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/explained-rajasthan-crisis-sulking-gehlot-loyalists-and-what-it-means-for-congress-president-polls/articleshow/94454397.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Trouble is brewing in Rajasthan yet again after dozens of Congress MLAs loyal to chief minister Ashok Gehlot raised a banner of revolt late.",
+          "link": "https://timesofindia.indiatimes.com/india/explained-rajasthan-crisis-sulking-gehlot-loyalists-and-what-it-means-for-congress-president-polls/articleshow/94454397.cms",
+          "publishedOn": "2022-09-26T10:47:48.000Z",
+          "wordCount": 8310,
+          "title": "Explained: Rajasthan crisis, sulking Ashok Gehlot loyalists, and what it means for Congress president polls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94454622,width-1070,height-580,imgsize-40514,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/amid-rajasthan-crisis-kamal-nath-called-to-delhi-likely-to-meet-sonia-gandhi-sources/articleshow/94454199.cms",
+          "author": null,
+          "description": "The Congress high command has summoned senior leader Kamal Nath to Delhi and he is likely to meet party chief Sonia Gandhi on Monday, sources said. The visit of Kamal Nath, the Madhya Pradesh Congress Committee chief, to Delhi comes amid a political drama in Rajasthan over leadership change following Ashok Gehlot's announcement that he would contest the AICC president polls.",
+          "link": "https://timesofindia.indiatimes.com/india/amid-rajasthan-crisis-kamal-nath-called-to-delhi-likely-to-meet-sonia-gandhi-sources/articleshow/94454199.cms",
+          "publishedOn": "2022-09-26T10:37:07.000Z",
+          "wordCount": 5999,
+          "title": "Amid Rajasthan crisis, Kamal Nath called to Delhi; likely to meet Sonia Gandhi: Sources",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94454258,width-1070,height-580,imgsize-24572,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-leaders-in-rajasthan-must-be-prepared-to-sacrifice-personal-ambition-margaret-alva/articleshow/94453689.cms",
+          "author": null,
+          "description": "Former Rajasthan governor and veteran Congress leader Margaret Alva on Monday expressed her disappointment over the ongoing political crisis in the state and said that the senior leaders of Congress \"must\" be prepared to sacrifice \"personal ambition\". Alva said that there is a need for \"selfless sacrifice\" in the party, while stating that Rahul Gandhi has shown what the party needs to do.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-leaders-in-rajasthan-must-be-prepared-to-sacrifice-personal-ambition-margaret-alva/articleshow/94453689.cms",
+          "publishedOn": "2022-09-26T10:18:16.000Z",
+          "wordCount": 7070,
+          "title": "Congress leaders in Rajasthan must be prepared to sacrifice personal ambition: Margaret Alva",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94453850,width-1070,height-580,imgsize-37016,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/destinations/kumaoni-ramleela-worlds-oldest-running-opera/articleshow/71441650.cms",
+          "author": null,
+          "description": "The Kumaon Ram Leela is 150-year-old, due to which UNESCO has declared it world’s longest-running opera! In addition, the Kumaon Ram Leela is now a part of the World Cultural Heritage List.",
+          "link": "https://timesofindia.indiatimes.com/travel/destinations/kumaoni-ramleela-worlds-oldest-running-opera/articleshow/71441650.cms",
+          "publishedOn": "2022-09-26T10:12:14.000Z",
+          "wordCount": 5507,
+          "title": "Kumaoni Ramleela - World's oldest running opera!",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-71441754,width-1070,height-580,resizemode-75,imgsize-1176452,pt-32,y_pad-40/71441754.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-leave-for-japan-to-attend-shinzo-abes-funeral/articleshow/94453082.cms",
           "author": null,
@@ -6099,6 +6284,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94452637,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94452637.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/apple-begins-making-iphone-14-in-india-3-weeks-after-launch/articleshow/94452242.cms",
+          "author": null,
+          "description": "Apple has begun manufacturing its new iPhone 14 in India, narrowing a technology gap with the device’s main manufacturing base of China. Apple made the announcement on Monday, less than three weeks after the iPhone 14’s unveiling. \"We’re excited to be manufacturing iPhone 14 in India,\" Apple said in an emailed statement on Monday, confirming the move.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/apple-begins-making-iphone-14-in-india-3-weeks-after-launch/articleshow/94452242.cms",
+          "publishedOn": "2022-09-26T09:18:40.000Z",
+          "wordCount": 5692,
+          "title": "Apple begins making iPhone 14 in India 3 weeks after launch",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94452231,width-1070,height-580,imgsize-27496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/business/india-business/apple-begins-making-iphone-14-in-india-3-weeks-after-launch/articleshow/94452242.cms",
           "author": null,
           "description": "Apple has begun manufacturing its new iPhone 14 in India, narrowing a technology gap with the device’s main manufacturing base of China. Apple made the announcement on Monday, less than three weeks after the iPhone 14’s unveiling. \"We’re excited to be manufacturing iPhone 14 in India,\" Apple said in an emailed statement on Monday, confirming the move.",
@@ -6117,6 +6312,26 @@
           "wordCount": 7670,
           "title": "In pics: Women chop off hair as anti-hijab protest intensify",
           "imageUrl": "https://static.toiimg.com/photo/94451260.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/things-to-do/stunning-photos-of-navratri-celebrations-from-across-india/photostory/94433042.cms",
+          "author": null,
+          "description": "Navratri celebrations are just about to begin, and since India is a diverse and multicultural country, the festival is celebrated in different ways. In short, different states have their own share of rituals, traditions, rituals, and practices to worship the divine. So, to offer you a glimpse of their cultures, here we bring to you stunning photos of Navratri celebrations from across India.",
+          "link": "https://timesofindia.indiatimes.com/travel/things-to-do/stunning-photos-of-navratri-celebrations-from-across-india/photostory/94433042.cms",
+          "publishedOn": "2022-09-26T08:44:41.000Z",
+          "wordCount": 5485,
+          "title": "Stunning photos of navratri celebrations from across the world",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94433273,width-1070,height-580,resizemode-75/94433273,pt-32,y_pad-40/94433273.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/electric-bikes/hero-electric-invests-big-in-evs-will-invest-rs-1200-crores-for-new-manufacturing-unit/articleshow/94448855.cms",
+          "author": null,
+          "description": "The Greenfield facility in Rajasthan will utilise sustainable technologies and renewable sources of energy such as solar power. It will be equipped with modern equipment, robotics and other innovative technologies. The company is further preparing to launch three new electric two wheeler models and expanding its dealer network in the country.",
+          "link": "https://timesofindia.indiatimes.com/auto/electric-bikes/hero-electric-invests-big-in-evs-will-invest-rs-1200-crores-for-new-manufacturing-unit/articleshow/94448855.cms",
+          "publishedOn": "2022-09-26T08:35:31.000Z",
+          "wordCount": 6179,
+          "title": "Hero Electric invests big in EVs, will invest Rs 1,200 cr",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94448866,width-1070,height-580,imgsize-553395,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pancreatic-cancer-the-painful-symptom-that-could-indicate-a-spreading-tumour/photostory/94434972.cms",
@@ -6207,6 +6422,16 @@
           "wordCount": 7162,
           "title": "Maruti Grand Vitara launched: Variant-wise prices explained",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94449726,width-1070,height-580,imgsize-1378671,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-india-go-seven-points-clear-of-england-at-top/articleshow/94449138.cms",
+          "author": null,
+          "description": "India went seven points clear of England at the top of the ICC T20 rankings following their narrow series win over Australia in Hyderabad. Down 0-1 against the touring Australia, the Rohit Sharma-led India bounced back in style to level the series in Nagpur before Virat Kohli and Suryakumar Yadav's fifties in the deciding rubber on Sunday sealed a 2-1 win.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-india-go-seven-points-clear-of-england-at-top/articleshow/94449138.cms",
+          "publishedOn": "2022-09-26T07:12:40.000Z",
+          "wordCount": 6349,
+          "title": "T20I Rankings: India go 7 points clear of England at top",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94449166,width-1070,height-580,imgsize-65174,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jacqueline-fernandez-granted-interim-bail-confirms-her-lawyer-prashant-patil-exclusive/articleshow/94448652.cms",
