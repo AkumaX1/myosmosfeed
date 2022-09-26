@@ -509,6 +509,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/world/middleeast/women-iran-protests-hijab.html",
+          "author": "Vivian Yee and Farnaz Fassihi",
+          "description": "Women have been casting off their legally required head scarves, forming the primary image of the protests. But grievances against a repressive regime go far beyond the hijab.",
+          "link": "https://www.nytimes.com/2022/09/26/world/middleeast/women-iran-protests-hijab.html",
+          "publishedOn": "2022-09-26T22:30:27.000Z",
+          "wordCount": null,
+          "title": "Women in Iran Take Center Stage in Antigovernment Protests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/briefing/global-economy-hurricane-ian-nasa.html",
+          "author": "Matthew Cullen",
+          "description": "Here’s what you need to know at the end of the day.",
+          "link": "https://www.nytimes.com/2022/09/26/briefing/global-economy-hurricane-ian-nasa.html",
+          "publishedOn": "2022-09-26T22:08:25.000Z",
+          "wordCount": null,
+          "title": "Your Monday Evening Briefing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/us/politics/white-house-student-loan-forgiveness.html",
           "author": "Katie Rogers",
           "description": "The estimate by the nonpartisan Congressional Budget Office renewed the debate between supporters of debt forgiveness and those who say the initiative amounts to reckless spending.",
@@ -516,6 +536,16 @@
           "publishedOn": "2022-09-26T19:51:03.000Z",
           "wordCount": null,
           "title": "White House Student Loan Forgiveness Could Cost About $400 Billion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/climate-smart-farming-agriculture-department.html",
+          "author": "Linda Qiu",
+          "description": "The techniques are a cornerstone of the Agriculture Department’s approach to addressing a warming planet, but it is unclear whether more widespread deployment of such methods can truly reverse the effects of climate change.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/climate-smart-farming-agriculture-department.html",
+          "publishedOn": "2022-09-26T19:23:28.000Z",
+          "wordCount": null,
+          "title": "Federal Government’s $20 Billion Embrace of ‘Climate Smart’ Farming",
           "imageUrl": null
         },
         {
@@ -576,6 +606,16 @@
           "publishedOn": "2022-09-26T16:12:28.000Z",
           "wordCount": null,
           "title": "Doug Mastriano’s Sputtering Campaign: No TV Ads, Tiny Crowds, Little Money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/23/sports/soccer/world-cup-qatar-2022.html",
+          "author": "Rory Smith",
+          "description": "The tournament is, at heart, a feeling, and FIFA and Qatar may be forgetting that no amount of spending is a substitute.",
+          "link": "https://www.nytimes.com/2022/09/23/sports/soccer/world-cup-qatar-2022.html",
+          "publishedOn": "2022-09-26T16:08:12.000Z",
+          "wordCount": null,
+          "title": "The World Cup Is a Feeling, One That Money Can’t Buy",
           "imageUrl": null
         },
         {
@@ -1469,6 +1509,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html",
+          "author": "Lauren Christensen",
+          "description": "Confronting sudden loss in her own life, Namwali Serpell has written “The Furrows,” a disquieting portrait of the human mind, warped by grief.",
+          "link": "https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html",
+          "publishedOn": "2022-09-24T14:34:42.000Z",
+          "wordCount": null,
+          "title": "In ‘The Furrows,’ Namwali Serpell Confronts a Sibling’s Disappearance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/opinion/putin-trump-ukraine.html",
           "author": "Maureen Dowd",
           "description": "Putin and Trump, dragging the world down with them.",
@@ -1579,6 +1629,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html",
+          "author": null,
+          "description": "Five articles from around The Times, narrated just for you.",
+          "link": "https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html",
+          "publishedOn": "2022-09-23T14:36:56.000Z",
+          "wordCount": null,
+          "title": "A Doctor Burns Out: The Week in Narrated Articles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/23/style/yolka-gessen-mohamad-eisa-wedding.html",
           "author": "Louise Rafkin",
           "description": "Yolka Gessen and Mohamad Eisa were nearly introduced by journalist Masha Gessen, who is the bride’s parent. But they found each other first.",
@@ -1586,6 +1646,16 @@
           "publishedOn": "2022-09-23T13:51:40.000Z",
           "wordCount": null,
           "title": "For Two College Students, Finally a Place (and a Person) to Call Home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/22/podcasts/run-up-elections-midterms-democracy.html",
+          "author": "‘The Run-Up’ Team",
+          "description": "American democracy is under threat. But for some candidates and voters, democracy isn’t even the destination anymore.",
+          "link": "https://www.nytimes.com/2022/09/22/podcasts/run-up-elections-midterms-democracy.html",
+          "publishedOn": "2022-09-23T13:38:58.000Z",
+          "wordCount": null,
+          "title": "The Republic",
           "imageUrl": null
         },
         {
@@ -2137,6 +2207,16 @@
           "publishedOn": "2022-09-25T20:02:49.000Z",
           "wordCount": null,
           "title": "Review: The Inescapable Vibrations of ‘Violet’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/movies/dont-worry-darling-box-office.html",
+          "author": "Brooks Barnes",
+          "description": "Harry Styles powered the critically drubbed and controversy-entangled movie to a solid $19.2 million in estimated ticket sales at North American cinemas.",
+          "link": "https://www.nytimes.com/2022/09/25/movies/dont-worry-darling-box-office.html",
+          "publishedOn": "2022-09-25T18:52:19.000Z",
+          "wordCount": null,
+          "title": "Women and Gen Z Drive ‘Don’t Worry Darling’ Box Office",
           "imageUrl": null
         },
         {
@@ -4177,6 +4257,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849583617",
+          "author": "Ethan Gach",
+          "description": "After nearly a month of anal bead memes and chess drama, world champion Magnus Carlsen has finally opened up about his stunning defeat to 19-year-old grandmaster Hans Niemann and his shocking stunts that followed in the aftermath. Long story short: He thinks Niemann is a cheater, over the board and online, and he…\nRead more...",
+          "link": "https://kotaku.com/anal-bead-cheating-chess-magnus-carlsen-hans-niemann-1849583617",
+          "publishedOn": "2022-09-26T22:25:00.000Z",
+          "wordCount": 6673,
+          "title": "Chess Champion Breaks Silence On 'Anal Bead' Cheating Controversy",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d334b4d7c7ed13fa0eaf9e6f64d5d515.jpg"
+        },
+        {
           "id": "1849583351",
           "author": "Eric Schulkin",
           "description": "Read more...",
@@ -4794,6 +4884,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23373798/chess-cheating-scandal-magnus-carlsen-accuses-hans-niemann",
+          "author": null,
+          "description": "Magnus Carlsen at the Tata Steel Chess Tournament 2021 | Photo by Dean Mouhtaropoulos/Getty Images\n    \n\n  \nIn a tweet, Carlsen explains why he believes Niemann cheated, but does not offer proof\n World chess champion Magnus Carlsen made a statement on Monday explicitly stating that he believes his opponent, Hans Niemann, cheated during tournament play. He did not provide any concrete proof to support his claims. This is Carlsen’s first formal statement on the ongoing chess scandal, and the first to include an explicit accusation. The furor over the scandal has dominated the online conversation for weeks.\n“I believe that Niemann has cheated more — and more recently — than he has publicly admitted,” the statement reads. Carlsen goes on to explain his reasoning: “His over the board progress h…",
+          "link": "https://www.polygon.com/23373798/chess-cheating-scandal-magnus-carlsen-accuses-hans-niemann",
+          "publishedOn": "2022-09-26T22:22:23.000Z",
+          "wordCount": 2397,
+          "title": "Magnus Carlsen accuses Hans Niemann of cheating, chess saga continues",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/JeFs9w2lKmZZ9V6YDsLbwD5vJXg=/0x417:5472x3282/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056910/1298951788.jpg"
+        },
+        {
           "id": "https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price",
           "author": null,
           "description": "Image: Kevin Sidharta/Ghost Galaxy\n    \n\n\n  \nThe Richard Garfield-designed CCG hasn’t produced a new deck in years\n The story of KeyForge is a strange one. The collectible card game arrived with much fanfare in 2018 (including from us), boasting a procedural algorithm capable of generating some 32 billion different decks of cards all on its own. The allure was its surprise factor, since not even the game’s developers knew what was inside each box. Publisher Fantasy Flight Games quickly got a foothold in hobby stores and established a nascent organized play circuit; the game felt like it was poised to become the next big CCG. Then, in September 2021, the publisher announced it was no longer able to produce any more cards.\nThe messaging at the time was cryptic. Fantasy Flight simply said tha…",
@@ -5267,6 +5367,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "b6f048b9-1b70-4cf9-9ad2-4d7dc25e31af",
+          "author": "George Yang",
+          "description": "Netflix announced that it has started its own internal game development studio in Helsinki, Finland, but its name hasn't been revealed yet.",
+          "link": "https://www.ign.com/articles/netflix-opens-its-own-game-studio-in-finland",
+          "publishedOn": "2022-09-26T21:31:08.000Z",
+          "wordCount": 8124,
+          "title": "Netflix Opens Its Own Game Studio in Finland",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/26/netflix-games-1664226997161.jpg?width=1280"
+        },
         {
           "id": "4445237b-6384-4b41-b7f2-449f3489081a",
           "author": "John Davison",
@@ -7563,6 +7673,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/eye-on-china-us-backs-event-on-arunachal-tribes/articleshow/94464483.cms",
+          "author": null,
+          "description": "As part of a series of 'Azadi Ka Amrit Mahotsav' (India75) and US-India 75th anniversary celebrations, an event to highlight the cultural heritage of indigenous tribes in Arunachal Pradesh, 'Living Heritage of Arunachal', will be held on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/eye-on-china-us-backs-event-on-arunachal-tribes/articleshow/94464483.cms",
+          "publishedOn": "2022-09-26T22:19:58.000Z",
+          "wordCount": 5523,
+          "title": "Eye on China? US backs event on Arunachal tribes",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464486,width-1070,height-580,imgsize-60732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-things-are-falling-apart-in-congress-and-centre-cant-hold/articleshow/94464437.cms",
+          "author": null,
+          "description": "Amid the crisis in Rajasthan, the rebuff from the Gehlot camp stands in stark contrast to the ease with which Congress replaced Amarinder Singh as the chief minister of Punjab last year, underscoring the growing belief that an ever-weakening Congress would leave the leadership vulnerable to state satraps with hold over local units.",
+          "link": "https://timesofindia.indiatimes.com/india/why-things-are-falling-apart-in-congress-and-centre-cant-hold/articleshow/94464437.cms",
+          "publishedOn": "2022-09-26T22:01:45.000Z",
+          "wordCount": 6293,
+          "title": "Why things are falling apart in Congress and centre can't hold",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464452,width-1070,height-580,imgsize-108024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-attend-shinzo-abes-funeral-in-tokyo-today/articleshow/94464415.cms",
           "author": null,
           "description": "Prime Minister Narendra Modi left for Japan on Monday to participate in the state funeral of Shinzo Abe, a leader he shared a great personal rapport with. Modi will meet Abe's wife Akie Abe during his 12-16 hours stay in Japan and also hold bilateral talks with his Japanese counterpart Fumio Kishida.",
@@ -8934,6 +9064,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/six-month-high-court-delay-in-hearing-anil-deshmukh-bail-plea-irks-supreme-court/articleshow/94464502.cms",
+          "author": null,
+          "description": "Observing that it is a legitimate expectation of a person to get expeditious hearing on bail petition, the SC expressed its displeasure over the Bombay HC for keeping bail plea of ex-Maharashtra home minister Anil Deshmukh pending for the last six months and asked the HC to grant him a hearing during the course of the week. The SC said that HC even failed to implement its order.",
+          "link": "https://timesofindia.indiatimes.com/india/six-month-high-court-delay-in-hearing-anil-deshmukh-bail-plea-irks-supreme-court/articleshow/94464502.cms",
+          "publishedOn": "2022-09-26T22:34:22.000Z",
+          "wordCount": 6060,
+          "title": "6-month HC delay in hearing Anil Deshmukh bail plea irks SC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464521,width-1070,height-580,imgsize-46658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/eye-on-china-us-backs-event-on-arunachal-tribes/articleshow/94464483.cms",
+          "author": null,
+          "description": "As part of a series of 'Azadi Ka Amrit Mahotsav' (India75) and US-India 75th anniversary celebrations, an event to highlight the cultural heritage of indigenous tribes in Arunachal Pradesh, 'Living Heritage of Arunachal', will be held on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/eye-on-china-us-backs-event-on-arunachal-tribes/articleshow/94464483.cms",
+          "publishedOn": "2022-09-26T22:19:58.000Z",
+          "wordCount": 5523,
+          "title": "Eye on China? US backs event on Arunachal tribes",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464486,width-1070,height-580,imgsize-60732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-things-are-falling-apart-in-congress-and-centre-cant-hold/articleshow/94464437.cms",
+          "author": null,
+          "description": "Amid the crisis in Rajasthan, the rebuff from the Gehlot camp stands in stark contrast to the ease with which Congress replaced Amarinder Singh as the chief minister of Punjab last year, underscoring the growing belief that an ever-weakening Congress would leave the leadership vulnerable to state satraps with hold over local units.",
+          "link": "https://timesofindia.indiatimes.com/india/why-things-are-falling-apart-in-congress-and-centre-cant-hold/articleshow/94464437.cms",
+          "publishedOn": "2022-09-26T22:01:45.000Z",
+          "wordCount": 6293,
+          "title": "Why things are falling apart in Congress and centre can't hold",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464452,width-1070,height-580,imgsize-108024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-attend-shinzo-abes-funeral-in-tokyo-today/articleshow/94464415.cms",
           "author": null,
           "description": "Prime Minister Narendra Modi left for Japan on Monday to participate in the state funeral of Shinzo Abe, a leader he shared a great personal rapport with. Modi will meet Abe's wife Akie Abe during his 12-16 hours stay in Japan and also hold bilateral talks with his Japanese counterpart Fumio Kishida.",
@@ -8972,6 +9132,16 @@
           "wordCount": 6120,
           "title": "Azad unveils party, vows to follow 'Mahatma's ideals'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94463490,width-1070,height-580,imgsize-56878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-congress-political-crisis-live-updates-september-27/liveblog/94463389.cms",
+          "author": null,
+          "description": "From being the ultimate loyalist and putative national president, Rajasthan chief minister Ashok Gehlot, in the matter of a day, went to being a rebel who defied the leadership. His red line that antagonist Sachin Pilot could not be his replacement triggered a crisis because Congress did not believe that a mild Gandhian who untiringly swears loyalty to the brass could challenge its authority. Stay with TOI for live updates --",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-congress-political-crisis-live-updates-september-27/liveblog/94463389.cms",
+          "publishedOn": "2022-09-26T18:41:46.000Z",
+          "wordCount": 5295,
+          "title": "Live: Pro-Pilot posters in Rajasthan CM hometown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463389,width-1070,height-580,imgsize-59678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/europe/putin-grants-russian-citizenship-to-us-whistleblower-edward-snowden/articleshow/94461883.cms",
