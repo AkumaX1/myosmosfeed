@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/23/23368340/hacking-suspect-arrested-city-of-london-lapsus-gta-6-uber",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nThe City of London police report they’ve arrested a 17-year-old in Oxfordshire on suspicion of hacking and said he remains in custody. In a follow-up tweet the next day, the police confirmed the teen has been charged with two counts of breach of bail conditions and two counts of computer misuse. A hearing was scheduled for Saturday, but as of Monday morning, no further details have been released.\nPolice declined to say what incident the arrest was in connection with, but many of the details line up with recent high-profile hacks. This spring, the City of London police arrested and released seven teenagers in connection with an investigation into the Lapsus$ hacking group. Today’s arrest also comes just days after two security breaches be…",
+          "link": "https://www.theverge.com/2022/9/23/23368340/hacking-suspect-arrested-city-of-london-lapsus-gta-6-uber",
+          "publishedOn": "2022-09-26T13:22:45.000Z",
+          "wordCount": 12467,
+          "title": "London police arrest teen hacking suspect but won’t confirm GTA 6, Uber links",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/qWu6mVEcsT156Q8frwiXPamhUv0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318437/akrales_220309_4977_0292.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23372525/avatar-rerelease-2009-theater-the-way-of-water-movie",
+          "author": null,
+          "description": "James Cameron’s Avatar nets an additional $30 million at the theater, over 13 years since its original 2009 release. | Image: 20th Century Fox\n    \n\n  \nThe remastered rerelease of James Cameron’s Avatar is set to earn Disney an additional $30 million in global ticket sales since last week, ranking domestically in third place at the box office behind Don’t Worry Darling and The Woman King.\nThe 4K HDR version of Avatar was rereleased to theaters in the US on Friday, September 23rd, after the original 2009 movie was quietly pulled from Disney Plus in order to encourage people back to the theater and build hype for its upcoming sequel, Avatar: The Way of Water.\nAvatar was rereleased to theaters to build up hype for its upcoming sequel, Avatar: The Way of Water\nComscore estimates that the rerel…",
+          "link": "https://www.theverge.com/23372525/avatar-rerelease-2009-theater-the-way-of-water-movie",
+          "publishedOn": "2022-09-26T13:17:36.000Z",
+          "wordCount": 12630,
+          "title": "It seems people still really, really love Avatar",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/w_IGbtcB_y9TMMpxmqtt9bXjezQ=/0x0:2040x1275/1200x628/filters:focal(1020x638:1021x639)/cdn.vox-cdn.com/assets/4529421/avatar16.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test",
+          "author": null,
+          "description": "2022’s Intel versus AMD battle has only just begun\n Intel took the desktop CPU performance crown last year with its Core i9-12900K processor. And now, nearly a year later, AMD is ready to trade blows again with its next-generation Ryzen Zen 4 CPUs. Fabbed on TSMC’s 5nm process node, AMD has promised big gains for its latest Ryzen 7000 chips over its previous Zen 3 (Ryzen 5000 series) desktop generation.\nThe flagship Ryzen 9 7950X chip is priced at $699 and features 16 cores, 32 threads, and a boost clock of up to 5.7GHz. We won’t be reviewing that flagship chip just yet, as AMD has only supplied the Ryzen 9 7900X in time for review, which ships with 12 cores, 24 threads, and a 5.6GHz boost for $549. AMD promises a 13 percent instructions per clock cycle (IPC) uplift over the Ryzen 5000 ser…",
+          "link": "https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test",
+          "publishedOn": "2022-09-26T13:03:13.000Z",
+          "wordCount": 14398,
+          "title": "AMD’s Ryzen 7900X arrives to take on Intel’s 12900K",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LaOcf23F06PLNdsX3MbcRyM1AOY=/0x0:2420x2071/1200x628/filters:focal(1210x1036:1211x1037)/cdn.vox-cdn.com/uploads/chorus_asset/file/24054838/AMD_Ryzen_7000_Desktop_CPU_Lineup_low_res_scale_4_00x_Custom.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/21/23363141/amazon-tap-to-alexa-accessibility-fire-tablet",
+          "author": null,
+          "description": "Tap to activate Alexa is coming to Fire tablets, including the new Fire HD 8 and 8 Plus. | Image: Amazon\n    \n\n  \nAmazon is bringing more accessibility features to its Fire tablets — including the new Fire HD 8 and Fire HD 8 Plus announced today — adding support for Tap to Alexa, compatibility with Bluetooth switch access controllers, and launching a new Text to Speech feature.\nTap to Alexa is an accessibility feature that lets you interact with the voice assistant using touch rather than voice. Previously only an option on Echo Show devices (speakers with touchscreens), it’s now available on Amazon’s Fire tablets, eighth-generation or newer, in the US, UK, Germany, and Japan. \nWith Tap to Alexa enabled, a small “tap” icon sits on the screen that, when tapped, opens a dashboard of common c…",
+          "link": "https://www.theverge.com/2022/9/21/23363141/amazon-tap-to-alexa-accessibility-fire-tablet",
+          "publishedOn": "2022-09-26T12:55:00.000Z",
+          "wordCount": 12838,
+          "title": "Now you can touch Alexa on Fire tablets, too",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/KrsYMu--Vc-l6ZAYAMnf9F-DV_M=/0x0:8256x5504/1200x628/filters:focal(4128x2752:4129x2753)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038930/Fire_HD_8_Plus__Wireless_Charging_Dock.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23370065/stop-asian-hate-crimes-new-york-chinatown-policing",
           "author": null,
           "description": "The desperate, confused, righteous campaign to stop Asian hate\n This article is a collaboration between New York Magazine and The Verge.\nFor 72 hours after it happened, Brian Chin hardly left the building. He didn’t sleep. He didn’t eat. He had arrived at 111 Chrystie, the 23-unit apartment complex his family owns in the heart of Chinatown, at a little before 6 a.m. on February 13 after getting a call from one of his tenants. It was a chaotic scene: The street in front of the building was blocked off, NYPD squad cars and officers everywhere. The police let Chin inside, but no one would tell him what was going on. Outside, the sky was black. Snow was lightly falling. Inside, an alarm blared through the building until a cop took a sledgehammer and silenced it. Finally, an officer told Chin t…",
@@ -239,6 +279,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/article/tropical-storm-ian-hurricane.html",
+          "author": "The New York Times",
+          "description": "The storm became a hurricane early Monday and could bring life-threatening storm surge to Cuba before moving toward Florida, forecasters said.",
+          "link": "https://www.nytimes.com/article/tropical-storm-ian-hurricane.html",
+          "publishedOn": "2022-09-26T13:17:30.000Z",
+          "wordCount": null,
+          "title": "Hurricane Ian Strengthens as Its Path Begins to Take Shape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/technology/tiktok-children-privacy-fine-uk.html",
+          "author": "Natasha Singer",
+          "description": "British regulars have sent a warning notice to the company, the first major case under new rules in Britain that protect minors online.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/tiktok-children-privacy-fine-uk.html",
+          "publishedOn": "2022-09-26T13:04:58.000Z",
+          "wordCount": null,
+          "title": "TikTok May Face $29 Million Fine for Failing to Protect Children’s Privacy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/world/europe/italy-meloni-prime-minister.html",
+          "author": "Jason Horowitz",
+          "description": "Her nationalist party was the top vote-getter, leaving Ms. Meloni poised to be Italy’s first female prime minister and the first with post-Fascist roots.",
+          "link": "https://www.nytimes.com/2022/09/25/world/europe/italy-meloni-prime-minister.html",
+          "publishedOn": "2022-09-26T11:16:16.000Z",
+          "wordCount": null,
+          "title": "Giorgia Meloni Wins Voting in Italy, in Breakthrough for Europe’s Hard Right",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html",
           "author": "David Leonhardt",
           "description": "Times reporters make sense of what’s happening.",
@@ -326,6 +396,16 @@
           "publishedOn": "2022-09-26T09:00:23.000Z",
           "wordCount": null,
           "title": "TikTok Seen Moving Toward U.S. Security Deal, but Hurdles Remain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/dining/nfl-rookie-dinner.html",
+          "author": "Priya Krishna",
+          "description": "Young athletes are expected to treat their veteran teammates to an exorbitant meal. Is it a form of team bonding — or hazing by another name?",
+          "link": "https://www.nytimes.com/2022/09/26/dining/nfl-rookie-dinner.html",
+          "publishedOn": "2022-09-26T09:00:16.000Z",
+          "wordCount": null,
+          "title": "The End of the $25,000 N.F.L. Rookie Dinner?",
           "imageUrl": null
         },
         {
@@ -1216,6 +1296,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/technology/tiktok-children-privacy-fine-uk.html",
+          "author": "Natasha Singer",
+          "description": "British regulars have sent a warning notice to the company, the first major case under new rules in Britain that protect minors online.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/tiktok-children-privacy-fine-uk.html",
+          "publishedOn": "2022-09-26T13:04:58.000Z",
+          "wordCount": null,
+          "title": "TikTok May Face $29 Million Fine for Failing to Protect Children’s Privacy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/technology/tiktok-national-security-china.html",
           "author": "Lauren Hirsch, David McCabe, Katie Benner and Glenn Thrush",
           "description": "A draft agreement with the Biden administration to keep the Chinese-owned video app operating in the United States is under review. That could mean more wrangling.",
@@ -1804,6 +1894,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234599781",
+          "author": "Larisha Paul",
+          "description": "Hale, who was targeted with microaggressions from other houseguests early in the season, takes home a whopping $800,000 cash prize",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/taylor-hale-makes-big-brother-history-as-first-black-woman-to-win-1234599781/",
+          "publishedOn": "2022-09-26T13:06:47.000Z",
+          "wordCount": 7145,
+          "title": "Taylor Hale Makes ‘Big Brother’ History as First Black Woman to Win: ‘I Am Not A Victim, I Am A Victor’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/BigBrother_2435_SG_0032.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?post_type=pmc_list&p=1234598313",
+          "author": "Maria Fontoura",
+          "description": "A ranking of the most game-changing, side-splitting, tear-jerking, mind-blowing, world-building, genre-busting programs in television history, from the medium’s inception in the early 20th century through the ever-metastasizing era of Peak TV",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-shows-of-all-time-1234598313/",
+          "publishedOn": "2022-09-26T13:03:38.000Z",
+          "wordCount": 18382,
+          "title": "The 100 Greatest TV Shows of All Time",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/The-50-Greatest-TV-Shows_Collage_Final.gif?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234599758",
           "author": "ky.henderson",
           "description": "Brazil's far-right President Jair Bolsonaro may very well lose the upcoming election. If he does, he's indicated he won't accept the results — and the country's military could back him up.",
@@ -1950,6 +2060,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407521",
+          "author": "Romain Dillet",
+          "description": "French startup Not So Dark has raised an $80 million Series B funding round led by Kharis Capital and Verlinvest, with Convivialité Ventures also participating. The startup has launched digital food delivery brands that you can find in food delivery apps. While Not So Dark started with a network of dark kitchens, the company has […]\nNot So Dark helps restaurants run a second delivery-focused business by Romain Dillet originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/not-so-dark-helps-restaurants-run-a-second-delivery-focused-business/",
+          "publishedOn": "2022-09-26T13:13:06.000Z",
+          "wordCount": 7479,
+          "title": "Not So Dark helps restaurants run a second delivery-focused business",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Not-So-Dark.jpg?resize=1200,674"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2405707",
+          "author": "Kyle Wiggers",
+          "description": "Are smartphones ever entirely secure? It depends on one’s definition of “secure,” particularly when dealing with corporate environments. Most companies with bring-your-own-device policies install apps or agents on workers’ smartphones to help secure them, leveraging the management capabilities built into operating systems like Android and iOS. But those might not be sufficient. That’s what Cloudflare […]\nCloudflare launches an eSIM to secure mobile devices by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/cloudflare-launches-an-esim-to-secure-mobile-devices/",
+          "publishedOn": "2022-09-26T13:00:25.000Z",
+          "wordCount": 7833,
+          "title": "Cloudflare launches an eSIM to secure mobile devices",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1161875564.jpg?resize=1200,801"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407482",
+          "author": "Ivan Mehta",
+          "description": "Links for video calls are common across apps like Zoom or Google Meet. But now popular chat app WhatsApp is also rolling out this feature so you can share a link of a call with family and friends. Mark Zuckerberg today announced the feature noting that users can now join WhatsApp calls through this link […]\nWhatsApp is rolling out sharable call links feature by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/whatsapp-is-rolling-out-sharable-call-links-feature/",
+          "publishedOn": "2022-09-26T12:54:41.000Z",
+          "wordCount": 6226,
+          "title": "WhatsApp is rolling out sharable call links feature",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1237939625.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407450",
+          "author": "Ingrid Lunden",
+          "description": "Funding sources for tech startups in Ukraine have gone off a cliff this year, with investors (and their LPs) wary of taking on the risk of backing potentially promising ideas and people who have stayed in the country amid the sustained, persistent and increasingly ugly onslaught from Russia. But just as there are glimmers that […]\nIFC and other impact investors return to backing Ukraine startups, with new $250M fund aimed at founders under the gun by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/ifc-ukraine-startups/",
+          "publishedOn": "2022-09-26T12:33:36.000Z",
+          "wordCount": 7999,
+          "title": "IFC and other impact investors return to backing Ukraine startups, with new $250M fund aimed at founders under the gun",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798"
+        },
         {
           "id": "https://techcrunch.com/?p=2403850",
           "author": "Ivan Mehta",
@@ -2277,6 +2427,96 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "dy74gx",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "Maude’s aesthetic anal cone is a minimalist, velveteen dream for P- and A-spot orgasms.",
+          "link": "https://www.vice.com/en_us/article/dy74gx/maude-cone-vibrator",
+          "publishedOn": "2022-09-26T13:30:00.000Z",
+          "wordCount": 10286,
+          "title": "Maude's Vibrating Butt Plug Should Be in My [Redacted], and the Louvre",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632dfbbdebc33400944fc8bb/lede/1663968367107-img4151.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632dfbbdebc33400944fc8bb/lede/1663968367107-img4151.jpeg"
+        },
+        {
+          "id": "93an98",
+          "author": "Patrick Klepek",
+          "description": "One reason a niche website like RPG Site can pay its writers is because it relies on people showing up for puzzle solutions.",
+          "link": "https://www.vice.com/en_us/article/93an98/how-guides-help-video-game-sites-survive-the-modern-internet",
+          "publishedOn": "2022-09-26T13:00:00.000Z",
+          "wordCount": 10118,
+          "title": "How Guides Help Video Game Sites Survive the Modern Internet",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632e0e6a112f84009b7ce3e0/lede/1663962784481-ss20a352a2c20dd4bfb08fa131dc4c2e763510f5841920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632e0e6a112f84009b7ce3e0/lede/1663962784481-ss20a352a2c20dd4bfb08fa131dc4c2e763510f5841920x1080.jpeg"
+        },
+        {
+          "id": "xgy4q7",
+          "author": "Matthew Gault",
+          "description": "A water-based drone we’ve never seen before just showed up near Sevastopol. Authorities say they destroyed it.",
+          "link": "https://www.vice.com/en_us/article/xgy4q7/mysterious-sea-drone-surfaces-in-crimea",
+          "publishedOn": "2022-09-26T13:00:00.000Z",
+          "wordCount": 4060,
+          "title": "Mysterious Sea Drone Surfaces in Crimea",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632e0897d18e93009f8e2a5f/lede/1663961536589-fdl7dcexgae4xqu.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632e0897d18e93009f8e2a5f/lede/1663961536589-fdl7dcexgae4xqu.jpeg"
+        },
+        {
+          "id": "3ad58k",
+          "author": "Chloe Xiang",
+          "description": "In one stark example of how sensitive images can end up powering these AI tools, a user found a medical image in the LAION dataset, which was used to train Stable Diffusion and Google’s Imagen.",
+          "link": "https://www.vice.com/en_us/article/3ad58k/ai-is-probably-using-your-images-and-its-not-easy-to-opt-out",
+          "publishedOn": "2022-09-26T13:00:00.000Z",
+          "wordCount": 10713,
+          "title": "AI Is Probably Using Your Images and It's Not Easy to Opt Out",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632dec4bd18e93009f8e2628/lede/1663956043774-gettyimages-165638423.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632dec4bd18e93009f8e2628/lede/1663956043774-gettyimages-165638423.jpeg"
+        },
+        {
+          "id": "epz5gn",
+          "author": "Lauren Vinopal",
+          "description": "New research reveals that the massive 106-acre colony of trees is being eaten up everyday.",
+          "link": "https://www.vice.com/en_us/article/epz5gn/the-worlds-largest-organism-is-breaking-up-scientists-warn",
+          "publishedOn": "2022-09-26T13:00:00.000Z",
+          "wordCount": 4347,
+          "title": "The World's Largest Organism Is ‘Breaking Up,’ Study Warns",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632ddf52f5756300962f2699/lede/1663951324995-gettyimages-1404537852-1.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632ddf52f5756300962f2699/lede/1663951324995-gettyimages-1404537852-1.jpeg"
+        },
+        {
+          "id": "v7vy48",
+          "author": "Becca Blasdel",
+          "description": "There’s a reason this outerwear staple has been around 200 years—look for a tailored fit, practical details, and soft, durable fabric.",
+          "link": "https://www.vice.com/en_us/article/v7vy48/best-shackets-chore-coats",
+          "publishedOn": "2022-09-26T12:30:00.000Z",
+          "wordCount": 6720,
+          "title": "The Best Men's Chore Coats (for Working Hard, or Hardly Working)",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632e310e6475d10095bf4c56/lede/1663971737228-chorecoatlede.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632e310e6475d10095bf4c56/lede/1663971737228-chorecoatlede.jpeg"
+        },
         {
           "id": "k7b389",
           "author": "Eric See",
@@ -3311,6 +3551,36 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23372425/marvel-werewolf-by-night-reaction-michael-giacchino",
+          "author": null,
+          "description": "Photo: Marvel Studios\n    \n\n\n  \nMichael Giacchino pays tribute to Hammer to Universal Monsters and Twilight Zone\n Attendees at the 2022 Fantastic Fest film festival in Austin, Texas were the first to see Marvel’s hour-long black-and-white Halloween special Werewolf by Night on Sunday night, at one of the film festival’s Secret Screenings. Director Michael Giacchino — the composer for The Batman, Thor: Love and Thunder, and Pixar’s Ratatouille, Up, Coco, The Incredibles, and Inside Out, among dozens of other films — called in for a remote Q&A after the screening to explain how the project, premiering on Disney Plus on Oct. 7, came about, and why it looks and feels so radically different from any other Marvel Studios project.\n“I was having a conversation with [Marvel Studios president] Kevin…",
+          "link": "https://www.polygon.com/23372425/marvel-werewolf-by-night-reaction-michael-giacchino",
+          "publishedOn": "2022-09-26T13:35:00.000Z",
+          "wordCount": 2118,
+          "title": "What we learned at Marvel’s secret screening of Werewolf By Night",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WUGgG4aSmF0lUexrkM6dYzRCC_8=/665x0:3690x1584/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24054708/JTR0120_101_comp_ZOI_v0002_r709.00144084.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23372640/star-wars-james-earl-jones-darth-vader-voice-retired-ai",
+          "author": null,
+          "description": "Darth Vader (David Prowse, with James Earl Jones voicing the character) in 1980’s The Empire Strikes Back. | Image: Lucasfilm/Disney\n    \n\n  \nAn AI firm is building Vader’s voice from Jones’ library of work\n James Earl Jones, the 91-year-old voice of Darth Vader (among many other noteworthy roles) is stepping back from Star Wars and his portray of the Dark Lord of the Sith. The news comes from Vanity Fair, which on Friday profiled a Ukrainian firm developing an AI that will continue voicing the character.\nJones has signed off on using his archived voice-over work to build the AI at Respeecher, the company hired by Lucasfilm to develop a voicing solution for Vader. “[Jones] had mentioned he was looking into winding down this particular character,” Matthew Wood, the Lucasfilm sound editor wo…",
+          "link": "https://www.polygon.com/23372640/star-wars-james-earl-jones-darth-vader-voice-retired-ai",
+          "publishedOn": "2022-09-26T13:27:27.000Z",
+          "wordCount": 2312,
+          "title": "James Earl Jones stepping back from his role as Darth Vader’s voice",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TI-zutfAMU9aDBfzagY96OA9Hts=/102x0:1559x763/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/2341234/darth_vader.0.png"
+        },
+        {
+          "id": "https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023",
+          "author": null,
+          "description": "Image: A-1 Pictures/Aniplex\n    \n\n  \nA-1 Pictures is behind Nier: Automata Ver. 1.1a\n The upcoming anime adaptation of Nier: Automata has not just one, but two new teaser trailers and a release date, seven months after it was first announced in February.\nRevealed Saturday during the Aniplex Online Fest 2022 livestream, both trailers offer a first look at the adaptation’s version of 2B and 9S, two of the android protagonists of Nier: Automata who fight as soldiers in the elite military force YoRHa against an invasion of alien robots on behalf of humanity. \nBoth trailers reveal that Yui Ishikawa and Natsuki Hanae, who provided the voices for 2B and 9S, respectively, in the original 2017 game, will reprise their roles in the anime.\n\n\nThe series will be produced by A-1 Pictures, the studio beh…",
+          "link": "https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023",
+          "publishedOn": "2022-09-26T13:07:07.000Z",
+          "wordCount": 2380,
+          "title": "Nier: Automata anime trailer diverges from the original game, sets 2023 premiere",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/R5nHvIfk9WuoKPqk_LlxQhD4_jU=/0x56:2880x1564/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24054871/6a36688ccbb1242d19767b16b829b7141664001938_main.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23368925/house-of-the-dragon-kids-who-rhaenyra-alicent-daemon-jace-joffrey-aegon",
           "author": null,
           "description": "Photo: Gary Moyes/HBO\n    \n\n  \nA guide to Rhaenyra, Alicent, and Daemon’s post-time jump children\n Time jumps are critical to how House of the Dragon is telling its story about a tumultuous moment in Targaryen history. None of those time jumps are as important as the 10-year leap  episode 6 takes. While much has changed in King’s Landing in the time the show skipped, one shift that has the potential to confuse audiences is the addition of so many new characters, in the form of the children of Alicent, Rhaenyra, and Daemon. \nTo help you keep track of all six children that appeared this episode (including five new ones), here’s a breakdown of Rhaenyra and Alicent’s respective families: \nRhaenyra’s children \nJacaerys Velaryon (Leo Hart)\nPhoto: Gary Moyes/HBO\n  \nJace is the oldest son of Rhaen…",
@@ -3487,6 +3757,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "81923447-6f00-45a5-9f4f-f5b9f595e39c",
+          "author": "Robert Anderson",
+          "description": "There's plenty of exciting deals to check out at the moment including PS5 bundles, Xbox Series S bundled with a free copy of FIFA 23, discounts on Xbox controllers, and more.",
+          "link": "https://www.ign.com/articles/uk-daily-deals-xbox-controllers-on-sale-ps5-bundles-in-stock-and-more",
+          "publishedOn": "2022-09-26T11:32:12.000Z",
+          "wordCount": 9288,
+          "title": "UK Daily Deals: £15 Off Xbox Controllers, PS5 Bundles In Stock, and More",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/26/uk-daily-deals-ign-september-26-1664190160780.png?width=1280"
+        },
         {
           "id": "c17c1f53-b34e-467d-b1a7-e1708eee6bcd",
           "author": "Ryan Dinsdale",
@@ -4936,6 +5216,46 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/bangladesh-boat-capsize-death-toll-rises-to-39/article65937934.ece",
+          "author": "PTI",
+          "description": "Dhaka Bangladeshi authorities were racing against time on September 26 to find any survivors of the",
+          "link": "https://www.thehindu.com/news/international/bangladesh-boat-capsize-death-toll-rises-to-39/article65937934.ece",
+          "publishedOn": "2022-09-26T13:23:05.000Z",
+          "wordCount": 6228,
+          "title": "Bangladesh boat capsize | Death toll rises to 39",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g524zz/article65937941.ece/alternates/LANDSCAPE_615/vbk-bangladesh%20boat%20capsize-afp.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/canada-to-remove-all-covid-border-travel-measures-from-october-1/article65938109.ece",
+          "author": "Reuters",
+          "description": "Travellers, regardless of citizenship, will not have to go through testing, quarantine, and isolation requirements",
+          "link": "https://www.thehindu.com/news/international/canada-to-remove-all-covid-border-travel-measures-from-october-1/article65938109.ece",
+          "publishedOn": "2022-09-26T13:19:26.000Z",
+          "wordCount": 6002,
+          "title": "Canada to remove all COVID border, travel measures from October 1",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/xpkeu0/article65916838.ece/alternates/LANDSCAPE_615/canada%20airport%20ontario%20reuters.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/12-arrested-after-clashes-outside-iranian-embassy-in-london/article65937974.ece",
+          "author": "AP",
+          "description": "Police said bottles and other items were thrown at officers trying to protect the embassy building, and that protesters also targeted the nearby Islamic Centre of England",
+          "link": "https://www.thehindu.com/news/international/12-arrested-after-clashes-outside-iranian-embassy-in-london/article65937974.ece",
+          "publishedOn": "2022-09-26T12:52:13.000Z",
+          "wordCount": 6147,
+          "title": "12 arrested after clashes outside Iranian Embassy in London",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/4skbmy/article65937984.ece/alternates/LANDSCAPE_615/cpueto8s7r3ggmtn_1664154841.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/six-pakistan-army-personnel-killed-in-helicopter-crash-in-balochistan/article65937796.ece",
+          "author": "PTI",
+          "description": "No reason for the crash was given so far",
+          "link": "https://www.thehindu.com/news/international/six-pakistan-army-personnel-killed-in-helicopter-crash-in-balochistan/article65937796.ece",
+          "publishedOn": "2022-09-26T12:42:14.000Z",
+          "wordCount": 6196,
+          "title": "Six Pakistan Army personnel killed in helicopter crash in Balochistan",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1rvack/article65937968.ece/alternates/LANDSCAPE_615/2022-08-29T182457Z_1039164915_RC2I6W9LOHRW_RTRMADP_3_PAKISTAN-WEATHER.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/indian-climber-among-12-injured-as-avalanche-hits-nepals-mt-manaslu/article65937710.ece",
           "author": "PTI",
           "description": "The avalanche struck the route just below Camp IV of Mount Manaslu when the climbers were ferrying logistics to the high camps.",
@@ -5322,6 +5642,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
+          "author": null,
+          "description": "Instability has come back to haunt the Congress in Rajasthan after two years. The Congress leadership’s move to replace Amarinder Singh with Charanjit Singh Channi in September last year as the Punjab CM a few months before the state poll had cost it dear. Its similar bid to change the chief minister of Rajasthan not just poses a threat to the Ashok Gehlot government but is also likely to harm the party’s prospects in the 2023 assembly election.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
+          "publishedOn": "2022-09-26T13:15:03.000Z",
+          "wordCount": 8001,
+          "title": "Congress president election: Is Rajasthan going the Punjab way?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94459024,width-1070,height-580,imgsize-28820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/decision-on-pok-should-have-been-taken-during-1971-indo-pak-war-rajnath-singh/articleshow/94458568.cms",
+          "author": null,
+          "description": "\"We have recently marked the Golden Jubilee of victory of 1971 war. The 1971 war will be remembered in the history as the war fought for the humanity instead of property, possession or power,\" Singh said.\"There is only one regret. The decision on PoK should have been taken at that time itself,\" he said.",
+          "link": "https://timesofindia.indiatimes.com/india/decision-on-pok-should-have-been-taken-during-1971-indo-pak-war-rajnath-singh/articleshow/94458568.cms",
+          "publishedOn": "2022-09-26T12:54:14.000Z",
+          "wordCount": 5478,
+          "title": "Decision on PoK should have been taken during 1971 Indo-Pak war: Rajnath Singh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94458580,width-1070,height-580,imgsize-39354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/could-disrupt-public-order-govt-blocks-45-videos-on-10-youtube-channels/articleshow/94458324.cms",
+          "author": null,
+          "description": "The ministry of information and broadcasting on Monday blocked 45 YouTube videos from 10 channels for spreading \"misinformation, hate speech, and communal hatred.\" The content included fake news and morphed videos spread with the intent to spread hatred among religious communities.",
+          "link": "https://timesofindia.indiatimes.com/india/could-disrupt-public-order-govt-blocks-45-videos-on-10-youtube-channels/articleshow/94458324.cms",
+          "publishedOn": "2022-09-26T12:46:18.000Z",
+          "wordCount": 5828,
+          "title": "'Could disrupt public order': Govt blocks 45 videos on 10 YouTube channels",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94458397,width-1070,height-580,imgsize-23978,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/rajasthan-turmoil-maken-accuses-gehlot-supporters-of-indiscipline-kamal-nath-called-to-delhi/articleshow/94457318.cms",
           "author": null,
@@ -6414,6 +6764,66 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
+          "author": null,
+          "description": "Instability has come back to haunt the Congress in Rajasthan after two years. The Congress leadership’s move to replace Amarinder Singh with Charanjit Singh Channi in September last year as the Punjab CM a few months before the state poll had cost it dear. Its similar bid to change the chief minister of Rajasthan not just poses a threat to the Ashok Gehlot government but is also likely to harm the party’s prospects in the 2023 assembly election.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-election-is-rajasthan-going-the-punjab-way/articleshow/94458592.cms",
+          "publishedOn": "2022-09-26T13:15:03.000Z",
+          "wordCount": 8001,
+          "title": "Congress president election: Is Rajasthan going the Punjab way?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94459024,width-1070,height-580,imgsize-28820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/india-likely-to-see-double-digit-pay-rises-in-2023-report/articleshow/94458823.cms",
+          "author": null,
+          "description": "Employers are likely to raise staff pay by 10.4% next year, almost on par with the 10.6% so far in 2022, Aon PLC said on Monday. The prospects of a double-digit salary increase comes as India grapples with soaring inflation amid fears of a global economic slowdown.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/india-likely-to-see-double-digit-pay-rises-in-2023-report/articleshow/94458823.cms",
+          "publishedOn": "2022-09-26T13:01:53.000Z",
+          "wordCount": 5770,
+          "title": "India likely to see double digit pay rises in 2023: Report",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94458825,width-1070,height-580,imgsize-27218,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/could-disrupt-public-order-govt-blocks-45-videos-on-10-youtube-channels/articleshow/94458324.cms",
+          "author": null,
+          "description": "The ministry of information and broadcasting on Monday blocked 45 YouTube videos from 10 channels for spreading \"misinformation, hate speech, and communal hatred.\" The content included fake news and morphed videos spread with the intent to spread hatred among religious communities.",
+          "link": "https://timesofindia.indiatimes.com/india/could-disrupt-public-order-govt-blocks-45-videos-on-10-youtube-channels/articleshow/94458324.cms",
+          "publishedOn": "2022-09-26T12:46:18.000Z",
+          "wordCount": 5828,
+          "title": "Govt blocks 45 videos on 10 YouTube channels",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94458397,width-1070,height-580,imgsize-23978,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-couples-who-broke-up-after-leaving-the-reality-show/photostory/94458062.cms",
+          "author": null,
+          "description": "Bigg Boss 16 is all set to premiere on October 1. Many seasons so far have seen love blossoming in the house between popular celebs. While there are some who continue to be together even after the show, there are others who part ways due to irreconcilable differences. Here's taking a look at Bigg Boss couples who broke-up after finding love on the reality show.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-couples-who-broke-up-after-leaving-the-reality-show/photostory/94458062.cms",
+          "publishedOn": "2022-09-26T12:42:35.000Z",
+          "wordCount": 10618,
+          "title": "Bigg Boss couples who broke up after leaving the reality show",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94458009.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/20-covid-deaths-in-24-hours-6-precautionary-measures-you-should-still-follow/photostory/94455369.cms",
+          "author": null,
+          "description": "With the recent news of COVID casualties crossing 20 mark in the last 24 hours, you still need to be equally careful.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/20-covid-deaths-in-24-hours-6-precautionary-measures-you-should-still-follow/photostory/94455369.cms",
+          "publishedOn": "2022-09-26T12:30:00.000Z",
+          "wordCount": 10722,
+          "title": "20 Covid deaths in 24 hrs: 6 measures you should still follow",
+          "imageUrl": "https://static.toiimg.com/photo/94456318.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-vs-australia-the-big-positives-areas-of-concern-for-rohit-sharma-and-co-/articleshow/94456246.cms",
+          "author": null,
+          "description": "A 2-1 series win against the reigning World champions of T20 cricket will do Team India a world of good. Now there are three more T20Is to play against the Proteas, once again at home, before the next edition of the T20 World Cup. TimesofIndia.com here takes a quick look at the big positives for Rohit Sharma and co. and some of the big areas of concern that still remain.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-vs-australia-the-big-positives-areas-of-concern-for-rohit-sharma-and-co-/articleshow/94456246.cms",
+          "publishedOn": "2022-09-26T12:02:31.000Z",
+          "wordCount": 9903,
+          "title": "Ind vs Aus: Big positives & areas of concern for Team India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94456982,width-1070,height-580,imgsize-85052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-tumbles-954-points-nifty-settles-at-17016-top-reasons-behind-market-fall/articleshow/94456973.cms",
           "author": null,
           "description": "Equity indices dragged for the fourth straight session on Monday with the benchmark BSE sensex crashing over 900 points amid weak global market trends and foreign fund outflows. The 30-share BSE index tanked 953.70 points or 1.64% to settle at 57,145. During the day, it plummeted 1,061 points or 1.82% to 57,038. The NSE Nifty fell 311.05 points or 1.80% to end at 17,016.30.",
@@ -6452,6 +6862,16 @@
           "wordCount": 11184,
           "title": "Global prevalence of type 1 diabetes to double by 2040, finds study",
           "imageUrl": "https://static.toiimg.com/photo/94452473.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/destinations/kumaoni-ramleela-worlds-oldest-running-opera/articleshow/71441650.cms",
+          "author": null,
+          "description": "The Kumaon Ram Leela is 150-year-old, due to which UNESCO has declared it world’s longest-running opera! In addition, the Kumaon Ram Leela is now a part of the World Cultural Heritage List.",
+          "link": "https://timesofindia.indiatimes.com/travel/destinations/kumaoni-ramleela-worlds-oldest-running-opera/articleshow/71441650.cms",
+          "publishedOn": "2022-09-26T10:12:14.000Z",
+          "wordCount": 5510,
+          "title": "Kumaoni Ramleela - World's oldest running opera!",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-71441754,width-1070,height-580,resizemode-75,imgsize-1176452,pt-32,y_pad-40/71441754.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/ramayans-sita-aka-dipika-chikhlia-impresses-fans-with-trendy-western-outfits-they-hail-her-as-a-beauty-queen/articleshow/94452741.cms",
