@@ -23,4 +23,10 @@ sources:
   - href: https://store.steampowered.com/feeds/news.xml
   - href: https://www.animenewsnetwork.com/news/rss.xml
   - href: http://feeds.feedburner.com/crunchyroll/animenews
-  - href: https://myanimelist.net/rss/news.xml
+  - href: https://www.thehindu.com/news/national/feeder/default.rss
+  - href: https://www.thehindu.com/news/international/feeder/default.rss
+  - href: https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+  - href: http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+  - href: http://timesofindia.indiatimes.com/rssfeedmostread.cms
+  - href: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+  
