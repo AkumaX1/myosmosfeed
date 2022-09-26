@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals",
+          "author": null,
+          "description": "A new Prime Day is on the Horizon | Illustration by Alex Castro / The Verge\n    \n\n  \nThe rumors were true: Amazon’s holding a second Prime-exclusive sales event starting on Tuesday, October 11th at 3AM ET / 12AM PT and running through Wednesday, October 12th. We first heard about the possibility of another day of deals back in June, but now Amazon has made it official — the only difference is that it’s calling the event Prime Early Access Sale instead of Prime Day.\nBesides the name, it doesn’t look like too much is changing between the two events. Just like Amazon Prime Day, the Prime Early Access Sale should still bring some of the best deals of the year out to play, as well as feature sales on Amazon devices in addition to a wealth of other cool tech. So, if you’ve waited this long to bu…",
+          "link": "https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals",
+          "publishedOn": "2022-09-26T05:01:00.000Z",
+          "wordCount": 13193,
+          "title": "Amazon’s Prime Early Access Sale will take place on October 11th and 12th",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Dyix3Uu-AEh1_COJDtwoX-5QI1Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13443481/acastro_181114_1777_amazon_hq2_0006.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey",
           "author": null,
           "description": "That poor Surface tablet.\n    \n\n  \nMicrosoft Surface tablets have been taking a beating at football events these past two weekends. During the Buffalo Bills game against the Miami Dolphins this afternoon, Bills offensive coordinator Ken Dorsey took his frustration out on his tablet as the Dolphins secured a win during the final moments of the game.\nDorsey’s reaction may have been warranted, although he probably could’ve chosen another outlet for his anger (like a stress ball perhaps?). The Bills had a chance to run one more play to win the game, but the team ultimately ran out of time, losing to the Dolphins 19-21. When cameras turned to the booth where he was watching the game, Dorsey ripped off his headset and tossed his hat before he picked up the tablet and started violently slamming it against his desk. \nWhat an ending to the Bills-Dolphins game! #BUFvsMIA pic.twitter.com/yjlc3H0wUi\n— NFL (@NFL) September 25, 2022\n\n\n\nLast weekend, Tampa Bay Buccaneers quarterback Tom Brady spiked a Surface tablet into the ground after his team made an incomplete pass when they faced off against the Saints. This temper tantrum even caught the eye of Microsoft Surface chief Panos Panay, who responded by saying “Rest assured the Surface should be just fine.”\nMicrosoft partnered with the NFL back in 2014 to replace the paper-based system of reviewing plays on the sidelines with Surface tablets. Since then, the tablets have seen abuse from Packers quarterback Aaron Rodgers, Patriots coach Bill Belichick, and, of course, Tom Brady, who’s been caught tossing the tablet twice so far.",
@@ -168,6 +178,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/26/sports/football/brett-favre-mississippi-scandal.html",
+          "author": "Jenny Vrentas",
+          "description": "His role in the misappropriation of welfare money has infuriated people in his native Mississippi and prompted some fans to call for his removal from the Hall of Fame.",
+          "link": "https://www.nytimes.com/2022/09/26/sports/football/brett-favre-mississippi-scandal.html",
+          "publishedOn": "2022-09-26T04:01:05.000Z",
+          "wordCount": null,
+          "title": "Welfare Scandal in Mississippi May Tarnish Brett Favre’s Legacy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/25/world/europe/italy-appears-poised-to-shift-to-the-far-right-as-voters-head-to-the-polls-today.html",
           "author": "Jason Horowitz",
@@ -1130,6 +1150,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/arts/television/whats-on-tv-saturday-night-live-hostages.html",
+          "author": "Shivani Gonzalez",
+          "description": "The sketch comedy show begins its 48th season. And HBO airs a documentary about the Iran hostage crisis.",
+          "link": "https://www.nytimes.com/2022/09/26/arts/television/whats-on-tv-saturday-night-live-hostages.html",
+          "publishedOn": "2022-09-26T05:00:05.000Z",
+          "wordCount": null,
+          "title": "What’s on TV This Week: ‘Saturday Night Live’ and ‘Hostages’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/arts/television/house-of-the-dragon-season-1-episode-6-recap.html",
           "author": "Jeremy Egner",
           "description": "This week’s episode kicks off the next phase of the story as a long-simmering status quo finally becomes untenable.",
@@ -1454,6 +1484,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234599758",
+          "author": "ky.henderson",
+          "description": "Brazil's far-right President Jair Bolsonaro may very well lose the upcoming election. If he does, he's indicated he won't accept the results — and the country's military could back him up.",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-recaps/john-oliver-last-week-tonight-brazil-jair-bolsonaro-1234599758/",
+          "publishedOn": "2022-09-26T05:03:22.000Z",
+          "wordCount": 7363,
+          "title": "John Oliver Warns Us About a Trump Clone With the Army on His Side",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/john-oliver_5.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234596357",
           "author": "David Fear",
           "description": "A time jump fast-forwards us into the future with bloody births, fiery deaths and major new cast additions — and sticks the landing on all counts",
@@ -1590,6 +1630,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407342",
+          "author": "Manish Singh",
+          "description": "Apple has started assembling the iPhone 14 models in India, it said Monday, locally producing the current lineup for the first time in the same calendar year in the world’s second largest smartphone market as analysts predict a greater shift in the American giant’s future manufacturing. The company’s global partner Foxconn is manufacturing the device […]\nApple starts manufacturing iPhone 14 in India by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/apple-starts-manufacturing-iphone-14-in-india/",
+          "publishedOn": "2022-09-26T04:15:39.000Z",
+          "wordCount": 7808,
+          "title": "Apple starts manufacturing iPhone 14 in India",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Apple-iphone-14-Pro-review-5-dynamic-island.jpeg?resize=1200,900"
+        },
         {
           "id": "https://techcrunch.com/?p=2407280",
           "author": "Manish Singh",
@@ -3699,6 +3749,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/chainsaw-man-takes-on-karaoke-boxes-across-japan-in-new-collab",
+          "author": "Daryl Harding",
+          "description": "DAM and Big Echo will feature the upcoming TV anime franchise\n\n\nTo celebrate the broadcast of the Chainsaw Man TV anime, the series will be collaborating with one of Japan's biggest karaoke vendors DAM as well as karaoke house Big Echo, which has locations all over the country. For the announcement, a new visual drawn by anime studio MAPPA of Chainsaw Man was released. Check out the buzz after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/chainsaw-man-takes-on-karaoke-boxes-across-japan-in-new-collab",
+          "publishedOn": "2022-09-26T04:18:31.000Z",
+          "wordCount": 6026,
+          "title": "Chainsaw Man Takes on Karaoke Boxes Across Japan in New Collab",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/03ee68a24afbbe94399ad661f9da6ba31664165900_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-tv-drama-drops-teaser-pv",
+          "author": "Mikikazu Komatsu",
+          "description": "The anime's insert song \"Zutto ChamJam\" is used in the drama as well\n\n\nThe official website for the forthcoming live-action TV drama adaptation of Auri Hirao's underground idol-themed yuri comedy manga If My Favorite Pop Idol Made It to the Budokan, I would Diehas posted a teaser PV to introduce its main cast members. Meet them in the live-action world after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-tv-drama-drops-teaser-pv",
+          "publishedOn": "2022-09-26T04:03:04.000Z",
+          "wordCount": 5989,
+          "title": "If My Favorite Pop Idol Made It to the Budokan, I Would Die TV Drama Drops Teaser PV",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/f12ee87d8b80813739a463cd77bebe981664164726_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/love-live-school-idol-festival-gets-miracle-live-sequel-smartphone-game",
           "author": "Daryl Harding",
           "description": "All the songs from the entire franchise will be playable\n\n\nAt the Love Live! School Idol Festival Series Fan Appreciation Festival 2022 event last night in Japan, the franchise announced that an official sequel for the smartphone game will be released. Titled Love Live! School Idol Festival 2 Miracle Live!, the game will feature every school idol band from the Love Live! franchise thus far! Dance after the jump for more!",
@@ -4643,6 +4713,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-crisis-central-leaders-to-persuade-congress-mlas-to-hold-one-to-one-meeting/articleshow/94445659.cms",
+          "author": null,
+          "description": "Congress observers Mallikarjun Kharge and Ajay Maken, who had waited in vain for all legislators to arrive for the Congress Legislature Party (CLP) meeting on Sunday, were trying to persuade Gehlot loyalists to meet them one by one in an effort to defuse the political crisis.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-crisis-central-leaders-to-persuade-congress-mlas-to-hold-one-to-one-meeting/articleshow/94445659.cms",
+          "publishedOn": "2022-09-26T05:01:19.000Z",
+          "wordCount": 6937,
+          "title": "Rajasthan crisis: Central leaders to persuade Congress MLAs to hold one-to-one meeting",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445728,width-1070,height-580,imgsize-33762,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/did-not-break-any-law-says-assam-cm-after-fir-filed-against-him-sadhguru-for-kaziranga-night-jeep-safari/articleshow/94445494.cms",
+          "author": null,
+          "description": "Assam chief minister Himanta Biswa Sarma has dismissed as baseless allegations by activists that he along with Sadhguru Jaggi Vasudev broke wildlife protection law by entering the Kaziranga National Park for a night safari. Sarma on Sunday also said that there is no law that people cannot visit the park at night.",
+          "link": "https://timesofindia.indiatimes.com/india/did-not-break-any-law-says-assam-cm-after-fir-filed-against-him-sadhguru-for-kaziranga-night-jeep-safari/articleshow/94445494.cms",
+          "publishedOn": "2022-09-26T04:54:01.000Z",
+          "wordCount": 6389,
+          "title": "Did not break any law, says Assam CM after FIR filed against him, Sadhguru for Kaziranga night jeep safari",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445547,width-1070,height-580,imgsize-76566,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/pm-modi-rahul-gandhi-greet-manmohan-singh-on-his-birthday/articleshow/94444324.cms",
           "author": null,
           "description": "India News: NEW DELHI: Prime Minister Narendra Modi sent greetings to former Prime Minister of India Dr Manmohan Singh on his 90th birthday and wished for his lon.",
@@ -4930,6 +5020,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/china/cardinal-zen-5-others-stand-trial-in-hong-kong-over-fund/articleshow/94445116.cms",
+          "author": null,
+          "description": "Cardinal Joseph Zen, who is a retired bishop of Hong Kong, was first arrested in May together with others including singer Denise Ho and barrister Margaret Ng on suspicion of colluding with foreign forces to endanger China's national security.",
+          "link": "https://timesofindia.indiatimes.com/world/china/cardinal-zen-5-others-stand-trial-in-hong-kong-over-fund/articleshow/94445116.cms",
+          "publishedOn": "2022-09-26T04:31:57.000Z",
+          "wordCount": 8847,
+          "title": "Cardinal Zen, 5 others stand trial in Hong Kong over fund",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445111,width-1070,height-580,imgsize-97826,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/typhoon-noru-hits-northern-philippines/photostory/94444867.cms",
+          "author": null,
+          "description": "Typhoon Noru blew out of the northern Philippines on Monday, leaving five rescuers dead, causing floods and power outages",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/typhoon-noru-hits-northern-philippines/photostory/94444867.cms",
+          "publishedOn": "2022-09-26T04:18:01.000Z",
+          "wordCount": 5746,
+          "title": "In pics: Typhoon Noru hits northern Philippines",
+          "imageUrl": "https://static.toiimg.com/photo/94444970.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/tens-of-thousands-of-jewish-pilgrims-in-ukraine-despite-war/articleshow/94444727.cms",
+          "author": null,
+          "description": "Every year, Hasidic Jewish pilgrims come to Uman in central Ukraine from across the world to visit the tomb of one of the main figures of Hasidic Judaism for the Jewish new year celebration of Rosh Hashanah. Uman is relatively far from the frontline, but Ukrainian and Israeli authorities still urged worshippers to skip the celebrations taking place between September 25 and 27 this year.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/tens-of-thousands-of-jewish-pilgrims-in-ukraine-despite-war/articleshow/94444727.cms",
+          "publishedOn": "2022-09-26T04:08:24.000Z",
+          "wordCount": 10191,
+          "title": "Tens of thousands of Jewish pilgrims in Ukraine despite war",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94444716,width-1070,height-580,imgsize-63512,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-marks-queens-death-with-holiday-church-service/articleshow/94444483.cms",
+          "author": null,
+          "description": "The South Pacific nation is among 14 outside of the United Kingdom that continue to recognise the British monarch as their symbolic head of state. New Zealand had decided to wait until after last week's funeral in Britain to hold its own commemoration.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-marks-queens-death-with-holiday-church-service/articleshow/94444483.cms",
+          "publishedOn": "2022-09-26T03:52:03.000Z",
+          "wordCount": 7856,
+          "title": "New Zealand marks queen's death with holiday, church service",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94444476,width-1070,height-580,imgsize-220720,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/powerful-typhoon-leaves-5-rescuers-dead-in-north-philippines/articleshow/94443141.cms",
           "author": null,
           "description": "The most powerful typhoon to hit the country this year slammed into the coast in Burdeos town in Quezon province before nightfall on Sunday then weakened as it barreled overnight across the main Luzon region, where thousands of people were moved to emergency shelters, some forcibly, officials said.",
@@ -5177,6 +5307,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94433987,width-1070,height-580,imgsize-103770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/events/navratri-colors-2022-nine-colors-of-navratri-and-their-significance/articleshow/94403962.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/life-style/events/navratri-colors-2022-nine-colors-of-navratri-and-their-significance/articleshow/94403962.cms",
+          "publishedOn": "2022-09-25T13:24:09.000Z",
+          "wordCount": null,
+          "title": "Navratri colors 2022: Nine colors of Navratri and their significance",
+          "imageUrl": null
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/china/internet-rumours-of-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94429540.cms",
           "author": null,
           "description": "There was no corroborative reporting from any reputed international news outlet, however, and the Chinese foreign ministry was silent. There were no reports on the subject from Chinese media either. Some websites said the rumours were unfounded and they were part of an anti-Xi conspiracy.",
@@ -5197,6 +5337,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94426489,width-1070,height-580,imgsize-1504414,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/parenting/moments/happy-daughters-day-2020-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/78333790.cms",
+          "author": null,
+          "description": "Daughters' day is celebrated on different days in different countries. In India, the day is celebrated every year on the fourth Sunday of September. This year it falls on September 26. Daughters' day is all about appreciating the presence of the little angels in one's life.",
+          "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/happy-daughters-day-2020-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/78333790.cms",
+          "publishedOn": "2022-09-25T03:48:11.000Z",
+          "wordCount": 10125,
+          "title": "Happy Daughters Day 2022: Wishes, Messages, Quotes, Images, Facebook & Whatsapp status",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-78333803,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-189323/78333803.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-9-full-and-final-list-of-contestants/articleshow/94411732.cms",
           "author": null,
           "description": "",
@@ -5205,6 +5355,16 @@
           "wordCount": null,
           "title": "Bigg Boss Kannada 9: Full and final list of contestants",
           "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/she-was-12-i-was-30-social-media-lights-up-over-us-president-bidens-remark/articleshow/94424826.cms",
+          "author": null,
+          "description": "A digression by US President Joe Biden during his address to teachers at the National Education Association headquarters in Washinton DC on Saturday has bewildered netizens. In his Friday speech to teachers, Biden abruptly digressed from his speech and while recognizing an audience member said, \"You gotta say hi to me.\"",
+          "link": "https://timesofindia.indiatimes.com/world/us/she-was-12-i-was-30-social-media-lights-up-over-us-president-bidens-remark/articleshow/94424826.cms",
+          "publishedOn": "2022-09-24T18:06:29.000Z",
+          "wordCount": 8370,
+          "title": "'She was 12, I was 30': Social media lights up over US President Biden's remark",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94424840,width-1070,height-580,imgsize-665111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/raju-srivastavas-daughter-antara-speaks-daddy-didnt-speak-at-all-in-the-hospital-exclusive/articleshow/94418940.cms",
@@ -5265,6 +5425,16 @@
           "wordCount": 3775,
           "title": "Avishkaar: A startup providing hardware kits on Amazon to help kids learn next-gen tech skills easily",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94369082,width-1070,height-580,imgsize-131154,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/spotlight/terravita-fulfilling-indias-nutritional-needs-and-creating-job-opportunities-for-local-communities/articleshow/94371641.cms",
+          "author": null,
+          "description": "Rahee Ambani’s dream was to become an entrepreneur. And history is testimony to the fact that every aspiring entrepreneur goes through a series of ups and downs before their business eventually takes flight. After graduating from the London School of Economics, Rahee found herself in a similar situation. Little did she know that she would soon find a pillar of support in Amazon.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/terravita-fulfilling-indias-nutritional-needs-and-creating-job-opportunities-for-local-communities/articleshow/94371641.cms",
+          "publishedOn": "2022-09-22T08:44:13.000Z",
+          "wordCount": 3898,
+          "title": "Terravita: Fulfilling India’s nutritional needs and creating job opportunities for local communities",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94371570,width-1070,height-580,imgsize-154692,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         }
       ]
     },
@@ -5273,6 +5443,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/want-to-give-dinesh-karthik-more-game-time-ahead-of-t20-world-cup-rohit-sharma/articleshow/94445057.cms",
+          "author": null,
+          "description": "India skipper Rohit Sharma wants to give wicketkeeper batter Dinesh Karthik more time in the middle before the team heads Down Under for the T20 World Cup next month. Indian have been alternating between Karthik and Rishabh Pant in their playing XI. While the young keeper was given the nod ahead of the veteran player in the Asia Cup, Karthik was picked for all three matches against Australia.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/want-to-give-dinesh-karthik-more-game-time-ahead-of-t20-world-cup-rohit-sharma/articleshow/94445057.cms",
+          "publishedOn": "2022-09-26T04:29:22.000Z",
+          "wordCount": 6156,
+          "title": "Want to give DK more game time ahead of WC: Rohit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445060,width-1070,height-580,imgsize-70030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/suryakumar-yadav-becomes-leading-run-scorer-in-t20is-in-2022/articleshow/94443969.cms",
           "author": null,
@@ -5294,6 +5474,36 @@
           "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/lucknow/muzaffarnagar-to-get-ups-first-winery/articleshow/94443709.cms",
+          "author": null,
+          "description": "In a significant development with a potential for increasing the income of farmers and providing employment to youths staying in rural parts of Uttar Pradesh, the Yogi government on Sunday approved the first winery in the state. It will come up in Muzaffarnagar.",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/muzaffarnagar-to-get-ups-first-winery/articleshow/94443709.cms",
+          "publishedOn": "2022-09-26T03:02:41.000Z",
+          "wordCount": 5309,
+          "title": "Muzaffarnagar to get UP’s first winery",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/chandigarh/1k-for-60-mins-complaint-to-pm-on-new-parking-system-at-rly-station/articleshow/94443316.cms",
+          "author": null,
+          "description": "The new parking system introduced at the Chandigarh railway station has come under criticism, with a Sector 52 resident shooting off a complaint to the Prime Minister after he was charged Rs 1,000 for 60 minutes.",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/1k-for-60-mins-complaint-to-pm-on-new-parking-system-at-rly-station/articleshow/94443316.cms",
+          "publishedOn": "2022-09-26T02:50:52.000Z",
+          "wordCount": 5823,
+          "title": "Rs 1,000 for 60 minutes: Complaint to PM on new parking system at Chandigarh rly stn",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kolkata/bjp-spreading-hatred-lies-even-over-durga-puja-west-bengal-cm-mamata-banerjee/articleshow/94442897.cms",
+          "author": null,
+          "description": "Chief minister Mamata Banerjee has slammed BJP in the festive issue of party mouthpiece ‘Jago Bangla’ for spreading hatred and lies even surrounding a festival like Durga Puja, an epitome of inclusiveness and communal harmony.",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/bjp-spreading-hatred-lies-even-over-durga-puja-west-bengal-cm-mamata-banerjee/articleshow/94442897.cms",
+          "publishedOn": "2022-09-26T02:38:45.000Z",
+          "wordCount": 6328,
+          "title": "BJP spreading hatred, lies even over Durga Puja: Didi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94444130,width-1070,height-580,imgsize-542066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/there-are-lot-of-areas-for-improvement-particularly-death-bowling-rohit-sharma/articleshow/94442737.cms",
           "author": null,
           "description": "India captain Rohit Sharma on Sunday admitted that death bowling remains an area of concern for the team going into next month's T20 World Cup but hoped that the bowlers will find their groove soon. Both Harshal Patel and Jasprit Bumrah are returning after a long injury lay-off, while Bhuvneshwar Kumar too has erred in the back end.",
@@ -5312,6 +5522,16 @@
           "wordCount": 5658,
           "title": "7 dead, 10 injured as tempo traveller falls into gorge in Kullu",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94442260,width-1070,height-580,imgsize-40320,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/apple-to-make-iphone14-in-india/articleshow/94442011.cms",
+          "author": null,
+          "description": "India is set to manufacture Apple’s flagship iPhone 14 smartphones with the company confirming that the devices would be made at contract-manufacturer Foxconn’s factory in Sriperumbudur, Tamil Nadu. This would perhaps be the quickest scale-up that Apple has initiated in its India manufacturing setup with the latest iPhone being made here within weeks of its global unveiling on September 7.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/apple-to-make-iphone14-in-india/articleshow/94442011.cms",
+          "publishedOn": "2022-09-26T01:13:05.000Z",
+          "wordCount": 6323,
+          "title": "Apple to make iPhone 14 in India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442009,width-1070,height-580,imgsize-601445,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/business/india-business/foxconn-to-make-iphone-14-in-india/articleshow/94442011.cms",
@@ -5362,6 +5582,26 @@
           "wordCount": 6350,
           "title": "Telecom privacy violators set to face stiff penalties",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94441581,width-1070,height-580,imgsize-676663,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-gaming-company-faces-biggest-gst-notice-of-rs-21000-crore/articleshow/94441531.cms",
+          "author": null,
+          "description": "Bengaluru-based gaming firm Gameskraft Technology has been accused of not paying GST of Rs 21,000 crore between 2017 and June 30, 2022. Gameskraft now has the dubious distinction of being charged by the Directorate General of GST Intelligence (DGGI) with the largest indirect tax show-cause notice in history, according to reports.",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-gaming-company-faces-biggest-gst-notice-of-rs-21000-crore/articleshow/94441531.cms",
+          "publishedOn": "2022-09-26T00:05:02.000Z",
+          "wordCount": 6033,
+          "title": "Gaming firm faces biggest GST notice of Rs 21k cr",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441545,width-1070,height-580,imgsize-559855,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kolkata/cops-bust-torture-extort-us-jobs-racket-rescue-18-youths-from-kolkata-airport/articleshow/94441534.cms",
+          "author": null,
+          "description": "A Bidhannagar police team on Sunday rescued 18 youths - each aged between 18 and 25 - from the Kolkata airport, who had been held captive and tortured for over a month by members of a racket, which had promised them jobs in the US, but were extorting their families for lakhs in exchange for their return.",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/cops-bust-torture-extort-us-jobs-racket-rescue-18-youths-from-kolkata-airport/articleshow/94441534.cms",
+          "publishedOn": "2022-09-26T00:01:52.000Z",
+          "wordCount": 6653,
+          "title": "Kolkata: Cops bust torture-extort 'US jobs' racket",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441554,width-1070,height-580,imgsize-617503,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/55-afghan-sikhs-hindus-reach-delhi-by-special-flight/articleshow/94441433.cms",
@@ -5502,6 +5742,16 @@
           "wordCount": 9692,
           "title": "Live: 'Told Sonia to pick whoever can help retain Rajasthan'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94438410,width-1070,height-580,imgsize-1204881,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-india-and-world-september-25/liveblog/94428424.cms",
+          "author": null,
+          "description": "India has reported 4,129 new Covid cases, while the active cases declined to 43,415, according to the Union health ministry data updated on Monday. The death toll climbed to 5,28,530 with 20 fatalities. Stay with TOI for all live updates",
+          "link": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-india-and-world-september-25/liveblog/94428424.cms",
+          "publishedOn": "2022-09-25T03:44:00.000Z",
+          "wordCount": 11363,
+          "title": "Live: India logs 4,129 new Covid cases, 20 deaths in 24 hours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94428424,width-1070,height-580,imgsize-39246,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         }
       ]
     }
