@@ -1631,6 +1631,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2407365",
+          "author": "Jagmeet Singh",
+          "description": "India is repurposing its COVID-19 contact-tracing app and vaccination website to address other health concerns in the South Asian country. A senior official said Sunday that the Indian government is planning to use Aarogya Setu as the country’s standalone health app. The app will offer residents the ability to book medical checkup appointments and verify the […]\nIndia is repurposing its COVID-19 contact tracing app and vaccination website by Jagmeet Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/india-aarogya-setu-contact-tracing-app-cowin-vaccination-repurpose/",
+          "publishedOn": "2022-09-26T06:25:49.000Z",
+          "wordCount": 7312,
+          "title": "India is repurposing its COVID-19 contact tracing app and vaccination website",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/05/aarogya-setu-techcrunch.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2407342",
           "author": "Manish Singh",
           "description": "Apple has started assembling the iPhone 14 models in India, it said Monday, locally producing the current lineup for the first time in the same calendar year in the world’s second largest smartphone market as analysts predict a greater shift in the American giant’s future manufacturing. The company’s global partner Foxconn is manufacturing the device […]\nApple starts manufacturing iPhone 14 in India by Manish Singh originally published on TechCrunch",
@@ -4713,6 +4723,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/covid-19-india-reports-4129-new-cases-and-20-deaths-in-last-24-hours/articleshow/94447197.cms",
+          "author": null,
+          "description": "With 4,129 new coronavirus infections being reported in a day, India's total tally of Covid-19 cases rose to 4,45,72,243, according to the Union health ministry data updated on Monday. The death toll climbed to 5,28,530 with 20 fresh fatalities in the last 24 hours.",
+          "link": "https://timesofindia.indiatimes.com/india/covid-19-india-reports-4129-new-cases-and-20-deaths-in-last-24-hours/articleshow/94447197.cms",
+          "publishedOn": "2022-09-26T06:10:00.000Z",
+          "wordCount": 5893,
+          "title": "Covid-19: India reports 4,129 new cases and 20 deaths in last 24 hours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94447504,width-1070,height-580,imgsize-50626,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-palakkad-district/articleshow/94446709.cms",
+          "author": null,
+          "description": "The Congress party's Bharat Jodo Yatra resumed its journey on Monday from Shornur in Kerala's Palakkad district with hundreds of party workers accompanying Rahul Gandhi in the walk. The yatra, which entered Kerala on September 10, will go through the state covering 450 km, touching seven districts before entering Karnataka on October 1.",
+          "link": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-palakkad-district/articleshow/94446709.cms",
+          "publishedOn": "2022-09-26T05:48:11.000Z",
+          "wordCount": 5726,
+          "title": "Bharat Jodo Yatra enters Palakkad district",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94446830,width-1070,height-580,imgsize-52308,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-expresses-condolences-to-kin-of-deceased-in-kullu-accident/articleshow/94446739.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Prime Minister Narendra Modi on Monday expressed his deepest condolences to the families of those who lost their lives in a road accident i.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-expresses-condolences-to-kin-of-deceased-in-kullu-accident/articleshow/94446739.cms",
+          "publishedOn": "2022-09-26T05:38:52.000Z",
+          "wordCount": 5830,
+          "title": "PM Narendra Modi expresses condolences to kin of deceased in Kullu accident",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94446694,width-1070,height-580,imgsize-750030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-israel-enjoy-wonderful-government-to-government-ties-says-israeli-envoy/articleshow/94442676.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Israel's ambassador to India, Naor Gilon who completes a year in office said that the two countries share wonderful government-to-governmen.",
+          "link": "https://timesofindia.indiatimes.com/india/india-israel-enjoy-wonderful-government-to-government-ties-says-israeli-envoy/articleshow/94442676.cms",
+          "publishedOn": "2022-09-26T05:29:35.000Z",
+          "wordCount": 6310,
+          "title": "India, Israel enjoy wonderful government-to-government ties, says Israeli envoy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/rajasthan-crisis-central-leaders-to-persuade-congress-mlas-to-hold-one-to-one-meeting/articleshow/94445659.cms",
           "author": null,
           "description": "Congress observers Mallikarjun Kharge and Ajay Maken, who had waited in vain for all legislators to arrive for the Congress Legislature Party (CLP) meeting on Sunday, were trying to persuade Gehlot loyalists to meet them one by one in an effort to defuse the political crisis.",
@@ -5019,6 +5069,46 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistani-military-helicopter-crashes-killing-six-soldiers/articleshow/94446465.cms",
+          "author": null,
+          "description": "The helicopter crashed during a \"flying mission\" near Harnai in the province of Balochistan, the military's public relations wing said in a statement. No reason for the crash was given.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistani-military-helicopter-crashes-killing-six-soldiers/articleshow/94446465.cms",
+          "publishedOn": "2022-09-26T05:29:02.000Z",
+          "wordCount": 5148,
+          "title": "Pakistani military helicopter crashes killing six soldiers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94446447,width-1070,height-580,imgsize-3766,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/giorgia-meloni-set-to-lead-italy-after-right-triumphs-at-polls/articleshow/94446347.cms",
+          "author": null,
+          "description": "\"Giorgia Meloni has won\", Italy's biggest-circulation daily, Corriere della Sera, splashed on its frontpage, while the right-leaning Il Tempo ran with \"It's Giorgia's turn\".",
+          "link": "https://timesofindia.indiatimes.com/world/europe/giorgia-meloni-set-to-lead-italy-after-right-triumphs-at-polls/articleshow/94446347.cms",
+          "publishedOn": "2022-09-26T05:25:13.000Z",
+          "wordCount": 10261,
+          "title": "Giorgia Meloni set to lead Italy after right triumphs at polls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94446316,width-1070,height-580,imgsize-69076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/xi-jinping-prepares-to-extend-his-reign-at-20th-party-congress/articleshow/94446192.cms",
+          "author": null,
+          "description": "China News: HONG KONG: Next month, chairman Xi Jinping will extend his term in power for another five years, as the ruling Chinese Communist Party (CCP) conducts .",
+          "link": "https://timesofindia.indiatimes.com/world/china/xi-jinping-prepares-to-extend-his-reign-at-20th-party-congress/articleshow/94446192.cms",
+          "publishedOn": "2022-09-26T05:18:22.000Z",
+          "wordCount": 21354,
+          "title": "Xi Jinping prepares to extend his reign at 20th Party Congress",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94446186,width-1070,height-580,imgsize-30528,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-military-says-russian-drones-hit-military-objects-in-odesa/articleshow/94445462.cms",
+          "author": null,
+          "description": "Europe News: Two drones launched by Russian forces into the Odesa region in Ukraine hit military objects causing a fire and the detonation of ammunition, the South.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-military-says-russian-drones-hit-military-objects-in-odesa/articleshow/94445462.cms",
+          "publishedOn": "2022-09-26T05:18:12.000Z",
+          "wordCount": 5108,
+          "title": "Ukraine military says Russian drones hit military objects in Odesa",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445564,width-1070,height-580,imgsize-1388107,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/china/cardinal-zen-5-others-stand-trial-in-hong-kong-over-fund/articleshow/94445116.cms",
           "author": null,
@@ -5444,6 +5534,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-saath-nibhaana-saathiya-2-fame-gautam-vij-is-the-first-confirmed-contestant/articleshow/94447406.cms",
+          "author": null,
+          "description": "Salman Khan's Bigg Boss 16 is slated to premiere on October 1. With just a few days left, the buzz around the contestants of the show has now gotten stronger. The latest is that actor Gautam Singh Vig is going to be a part of the controversial reality show.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-saath-nibhaana-saathiya-2-fame-gautam-vij-is-the-first-confirmed-contestant/articleshow/94447406.cms",
+          "publishedOn": "2022-09-26T06:04:38.000Z",
+          "wordCount": 9229,
+          "title": "Bigg Boss 16: Gautam Vij is first confirmed contestant",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94447298,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94447298.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-like-virus-khosta-2-found-in-russian-bats-scientists-say-current-vaccines-ineffective-against-it/photostory/94446214.cms",
+          "author": null,
+          "description": "Just as we were heaving a sigh of relief with the World Health Organisation (WHO) Chief's statement that the COVID pandemic's end is in sight, a new COVID-like virus has been found.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-like-virus-khosta-2-found-in-russian-bats-scientists-say-current-vaccines-ineffective-against-it/photostory/94446214.cms",
+          "publishedOn": "2022-09-26T05:30:00.000Z",
+          "wordCount": 10938,
+          "title": "Covid-like virus, Khosta 2, found in Russian bats",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94446435.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/indian-idol-13-neha-kakkar-welcomes-falguni-pathak-in-the-show-amid-war-over-maine-payal-hai-chhankai-remake/articleshow/94445857.cms",
+          "author": null,
+          "description": "Neha Kakkar and Falguni Pathak shot an episode and shared the Indian Idol 13 stage marking the beginning of Navratri festival. In a video shared by the channel, Neha welcomes Falguni to kickstart garba night in the singing reality show.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/indian-idol-13-neha-kakkar-welcomes-falguni-pathak-in-the-show-amid-war-over-maine-payal-hai-chhankai-remake/articleshow/94445857.cms",
+          "publishedOn": "2022-09-26T05:08:09.000Z",
+          "wordCount": 9302,
+          "title": "Indian Idol 13: Neha Kakkar welcomes Falguni Pathak in the show",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445762,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94445762.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/want-to-give-dinesh-karthik-more-game-time-ahead-of-t20-world-cup-rohit-sharma/articleshow/94445057.cms",
           "author": null,
           "description": "India skipper Rohit Sharma wants to give wicketkeeper batter Dinesh Karthik more time in the middle before the team heads Down Under for the T20 World Cup next month. Indian have been alternating between Karthik and Rishabh Pant in their playing XI. While the young keeper was given the nod ahead of the veteran player in the Asia Cup, Karthik was picked for all three matches against Australia.",
@@ -5512,6 +5632,26 @@
           "wordCount": 7390,
           "title": "There are lot of areas for improvement: Rohit",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94442783,width-1070,height-580,imgsize-29752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/cars/2022-maruti-suzuki-grand-vitara-india-launch-launch-live-updates-features-price-performance-september-26/liveblog/94442757.cms",
+          "author": null,
+          "description": "New Maruti Suzuki Grand Vitara 2022 launch in India Live Updates: Maruti Suzuki India is all set to launch the much anticipated Maruti Suzuki Grand Vitara SUV to the Indian market in just a few hours from now. When launched, the SUV competes with Kia Seltos, Hyundai Creta, Skoda Kushaq, Volkswagen Taigun, Nissan Kicks, Tata Harrier and the MG Astor.",
+          "link": "https://timesofindia.indiatimes.com/auto/cars/2022-maruti-suzuki-grand-vitara-india-launch-launch-live-updates-features-price-performance-september-26/liveblog/94442757.cms",
+          "publishedOn": "2022-09-26T02:33:29.000Z",
+          "wordCount": 9424,
+          "title": "Live: Maruti Suzuki Grand Vitara 2022 launch",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442757,width-1070,height-580,imgsize-673008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94442481.cms",
+          "author": null,
+          "description": "Stock Market LIVE Updates: Indices fell on Monday in broadbased selling, tracking Asian peers, as investors shunned equities on renewed worries over economic growth in the face of a high-interest rate environment. Stay with TOI for all latest updates.",
+          "link": "https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94442481.cms",
+          "publishedOn": "2022-09-26T02:08:00.000Z",
+          "wordCount": 10566,
+          "title": "Live: Sensex crashes 900 points",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442481,width-1070,height-580,imgsize-75438,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-7-dead-10-injured-as-tempo-falls-into-gorge-in-kullu/articleshow/94442156.cms",
@@ -5742,6 +5882,16 @@
           "wordCount": 9692,
           "title": "Live: 'Told Sonia to pick whoever can help retain Rajasthan'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94438410,width-1070,height-580,imgsize-1204881,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-sumona-chakravarti-to-ankita-lokhande-these-tv-celebs-were-vocal-about-their-mental-and-physical-health-issues/photostory/94438203.cms",
+          "author": null,
+          "description": "The life of TV celebrities isn't as easy as it looks, they often go through a lot of ups and downs in their career as well as their health. It is not always that all celebrities are in their prime and in proper health all the time. A look at some of the TV celebs who came forward and talked about their health issues in public.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-sumona-chakravarti-to-ankita-lokhande-these-tv-celebs-were-vocal-about-their-mental-and-physical-health-issues/photostory/94438203.cms",
+          "publishedOn": "2022-09-25T15:15:58.000Z",
+          "wordCount": 11458,
+          "title": "These TV celebs were vocal about their mental, physical health issues",
+          "imageUrl": "https://static.toiimg.com/photo/94438308.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-india-and-world-september-25/liveblog/94428424.cms",

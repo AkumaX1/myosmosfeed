@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T05:24:32.272Z</updated>
+    <updated>2022-09-26T06:43:11.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[India is repurposing its COVID-19 contact tracing app and vaccination website]]></title>
+        <id>https://techcrunch.com/?p=2407365</id>
+        <link href="https://techcrunch.com/2022/09/25/india-aarogya-setu-contact-tracing-app-cowin-vaccination-repurpose/"/>
+        <updated>2022-09-26T06:25:49.000Z</updated>
+        <summary type="html"><![CDATA[India is repurposing its COVID-19 contact-tracing app and vaccination website to address other health concerns in the South Asian country. A senior official said Sunday that the Indian government is planning to use Aarogya Setu as the country’s standalone health app. The app will offer residents the ability to book medical checkup appointments and verify the […]
+India is repurposing its COVID-19 contact tracing app and vaccination website by Jagmeet Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19: India reports 4,129 new cases and 20 deaths in last 24 hours]]></title>
+        <id>https://timesofindia.indiatimes.com/india/covid-19-india-reports-4129-new-cases-and-20-deaths-in-last-24-hours/articleshow/94447197.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/covid-19-india-reports-4129-new-cases-and-20-deaths-in-last-24-hours/articleshow/94447197.cms"/>
+        <updated>2022-09-26T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[With 4,129 new coronavirus infections being reported in a day, India's total tally of Covid-19 cases rose to 4,45,72,243, according to the Union health ministry data updated on Monday. The death toll climbed to 5,28,530 with 20 fresh fatalities in the last 24 hours.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16: Gautam Vij is first confirmed contestant]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-saath-nibhaana-saathiya-2-fame-gautam-vij-is-the-first-confirmed-contestant/articleshow/94447406.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-saath-nibhaana-saathiya-2-fame-gautam-vij-is-the-first-confirmed-contestant/articleshow/94447406.cms"/>
+        <updated>2022-09-26T06:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Salman Khan's Bigg Boss 16 is slated to premiere on October 1. With just a few days left, the buzz around the contestants of the show has now gotten stronger. The latest is that actor Gautam Singh Vig is going to be a part of the controversial reality show.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bharat Jodo Yatra enters Palakkad district]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-palakkad-district/articleshow/94446709.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-palakkad-district/articleshow/94446709.cms"/>
+        <updated>2022-09-26T05:48:11.000Z</updated>
+        <summary type="html"><![CDATA[The Congress party's Bharat Jodo Yatra resumed its journey on Monday from Shornur in Kerala's Palakkad district with hundreds of party workers accompanying Rahul Gandhi in the walk. The yatra, which entered Kerala on September 10, will go through the state covering 450 km, touching seven districts before entering Karnataka on October 1.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Narendra Modi expresses condolences to kin of deceased in Kullu accident]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-narendra-modi-expresses-condolences-to-kin-of-deceased-in-kullu-accident/articleshow/94446739.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-narendra-modi-expresses-condolences-to-kin-of-deceased-in-kullu-accident/articleshow/94446739.cms"/>
+        <updated>2022-09-26T05:38:52.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Prime Minister Narendra Modi on Monday expressed his deepest condolences to the families of those who lost their lives in a road accident i.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-like virus, Khosta 2, found in Russian bats]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-like-virus-khosta-2-found-in-russian-bats-scientists-say-current-vaccines-ineffective-against-it/photostory/94446214.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-like-virus-khosta-2-found-in-russian-bats-scientists-say-current-vaccines-ineffective-against-it/photostory/94446214.cms"/>
+        <updated>2022-09-26T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Just as we were heaving a sigh of relief with the World Health Organisation (WHO) Chief's statement that the COVID pandemic's end is in sight, a new COVID-like virus has been found.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India, Israel enjoy wonderful government-to-government ties, says Israeli envoy]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-israel-enjoy-wonderful-government-to-government-ties-says-israeli-envoy/articleshow/94442676.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-israel-enjoy-wonderful-government-to-government-ties-says-israeli-envoy/articleshow/94442676.cms"/>
+        <updated>2022-09-26T05:29:35.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Israel's ambassador to India, Naor Gilon who completes a year in office said that the two countries share wonderful government-to-governmen.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistani military helicopter crashes killing six soldiers]]></title>
+        <id>https://timesofindia.indiatimes.com/world/pakistan/pakistani-military-helicopter-crashes-killing-six-soldiers/articleshow/94446465.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/pakistan/pakistani-military-helicopter-crashes-killing-six-soldiers/articleshow/94446465.cms"/>
+        <updated>2022-09-26T05:29:02.000Z</updated>
+        <summary type="html"><![CDATA[The helicopter crashed during a "flying mission" near Harnai in the province of Balochistan, the military's public relations wing said in a statement. No reason for the crash was given.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giorgia Meloni set to lead Italy after right triumphs at polls]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/giorgia-meloni-set-to-lead-italy-after-right-triumphs-at-polls/articleshow/94446347.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/giorgia-meloni-set-to-lead-italy-after-right-triumphs-at-polls/articleshow/94446347.cms"/>
+        <updated>2022-09-26T05:25:13.000Z</updated>
+        <summary type="html"><![CDATA["Giorgia Meloni has won", Italy's biggest-circulation daily, Corriere della Sera, splashed on its frontpage, while the right-leaning Il Tempo ran with "It's Giorgia's turn".]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xi Jinping prepares to extend his reign at 20th Party Congress]]></title>
+        <id>https://timesofindia.indiatimes.com/world/china/xi-jinping-prepares-to-extend-his-reign-at-20th-party-congress/articleshow/94446192.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/china/xi-jinping-prepares-to-extend-his-reign-at-20th-party-congress/articleshow/94446192.cms"/>
+        <updated>2022-09-26T05:18:22.000Z</updated>
+        <summary type="html"><![CDATA[China News: HONG KONG: Next month, chairman Xi Jinping will extend his term in power for another five years, as the ruling Chinese Communist Party (CCP) conducts .]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine military says Russian drones hit military objects in Odesa]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/ukraine-military-says-russian-drones-hit-military-objects-in-odesa/articleshow/94445462.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/ukraine-military-says-russian-drones-hit-military-objects-in-odesa/articleshow/94445462.cms"/>
+        <updated>2022-09-26T05:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: Two drones launched by Russian forces into the Odesa region in Ukraine hit military objects causing a fire and the detonation of ammunition, the South.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indian Idol 13: Neha Kakkar welcomes Falguni Pathak in the show]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/indian-idol-13-neha-kakkar-welcomes-falguni-pathak-in-the-show-amid-war-over-maine-payal-hai-chhankai-remake/articleshow/94445857.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/indian-idol-13-neha-kakkar-welcomes-falguni-pathak-in-the-show-amid-war-over-maine-payal-hai-chhankai-remake/articleshow/94445857.cms"/>
+        <updated>2022-09-26T05:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Neha Kakkar and Falguni Pathak shot an episode and shared the Indian Idol 13 stage marking the beginning of Navratri festival. In a video shared by the channel, Neha welcomes Falguni to kickstart garba night in the singing reality show.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Oliver Warns Us About a Trump Clone With the Army on His Side]]></title>
         <id>https://www.rollingstone.com/?p=1234599758</id>
@@ -322,6 +443,16 @@ At the Love Live! School Idol Festival Series Fan Appreciation Festival 2022 eve
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live: Maruti Suzuki Grand Vitara 2022 launch]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/cars/2022-maruti-suzuki-grand-vitara-india-launch-launch-live-updates-features-price-performance-september-26/liveblog/94442757.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/cars/2022-maruti-suzuki-grand-vitara-india-launch-launch-live-updates-features-price-performance-september-26/liveblog/94442757.cms"/>
+        <updated>2022-09-26T02:33:29.000Z</updated>
+        <summary type="html"><![CDATA[New Maruti Suzuki Grand Vitara 2022 launch in India Live Updates: Maruti Suzuki India is all set to launch the much anticipated Maruti Suzuki Grand Vitara SUV to the Indian market in just a few hours from now. When launched, the SUV competes with Kia Seltos, Hyundai Creta, Skoda Kushaq, Volkswagen Taigun, Nissan Kicks, Tata Harrier and the MG Astor.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Morning Digest | Gehlot camp MLAs threaten to resign if Sachin Pilot made Rajasthan CM; India clinches T20 series against Australia, and more]]></title>
         <id>https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-26-2022/article65935504.ece</id>
         <link href="https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-26-2022/article65935504.ece"/>
@@ -428,6 +559,16 @@ We’re now 10 years closer to all that fire and blood
 This is in keeping with es…]]></summary>
         <author>
             <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: Sensex crashes 900 points]]></title>
+        <id>https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94442481.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94442481.cms"/>
+        <updated>2022-09-26T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Stock Market LIVE Updates: Indices fell on Monday in broadbased selling, tracking Asian peers, as investors shunned equities on renewed worries over economic growth in the face of a high-interest rate environment. Stay with TOI for all latest updates.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1450,6 +1591,16 @@ Following up on the recent 'knee-ser' visual, the full key visual has been revea
         <summary type="html"><![CDATA[Britain’s Queen Elizabeth II passed away on September 8, 2022]]></summary>
         <author>
             <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These TV celebs were vocal about their mental, physical health issues]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/from-sumona-chakravarti-to-ankita-lokhande-these-tv-celebs-were-vocal-about-their-mental-and-physical-health-issues/photostory/94438203.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/from-sumona-chakravarti-to-ankita-lokhande-these-tv-celebs-were-vocal-about-their-mental-and-physical-health-issues/photostory/94438203.cms"/>
+        <updated>2022-09-25T15:15:58.000Z</updated>
+        <summary type="html"><![CDATA[The life of TV celebrities isn't as easy as it looks, they often go through a lot of ups and downs in their career as well as their health. It is not always that all celebrities are in their prime and in proper health all the time. A look at some of the TV celebs who came forward and talked about their health issues in public.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
