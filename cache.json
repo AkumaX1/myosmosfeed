@@ -169,6 +169,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/live/2022/09/25/world/italy-elections/a-third-of-italians-sat-out-the-election-a-steep-drop-from-2018",
+          "author": "Elisabetta Povoledo",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/25/world/italy-elections/a-third-of-italians-sat-out-the-election-a-steep-drop-from-2018",
+          "publishedOn": "2022-09-26T00:39:15.000Z",
+          "wordCount": null,
+          "title": "A third of Italians sat out the election, a steep drop from 2018.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/25/us/politics/us-russia-nuclear.html",
           "author": "David E. Sanger and Jim Tankersley",
           "description": "The comments by the national security adviser, Jake Sullivan, illustrate how quickly the rhetoric has intensified as Russia has faltered on the battlefield in recent months.",
@@ -386,6 +396,16 @@
           "publishedOn": "2022-09-25T09:00:28.000Z",
           "wordCount": null,
           "title": "On the Edge of Delhi, a Dynamic Cultural Scene Takes Shape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/business/energy-environment/california-energy-grid-heat.html",
+          "author": "Ivan Penn",
+          "description": "Extreme heat is testing the way energy is generated, delivered and traded — and raising the prospect of perpetual emergencies.",
+          "link": "https://www.nytimes.com/2022/09/25/business/energy-environment/california-energy-grid-heat.html",
+          "publishedOn": "2022-09-25T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Dodging Blackouts, California Faces New Questions on Its Power Supply",
           "imageUrl": null
         },
         {
@@ -1530,6 +1550,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407280",
+          "author": "Manish Singh",
+          "description": "Interpol has issued a red notice for Do Kwon, requesting law enforcement agencies worldwide to locate and arrest the Terraform Labs founder whose blockchain startup collapsed earlier this year and wiped out investors’ $40 billion. Kwon faces charges in South Korea for the wipeout of investors’ money, the prosectors said. The notice against Kwon may […]\nInterpol issues red notice for Terraform founder Do Kwon by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/25/do-kwon-interpol/",
+          "publishedOn": "2022-09-26T01:43:25.000Z",
+          "wordCount": 7481,
+          "title": "Interpol issues red notice for Terraform founder Do Kwon",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1240079892.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2406254",
           "author": "Paul Sawers",
@@ -3589,6 +3619,36 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25/nana-mizukis-saitama-super-arena-two-day-concert-to-feature-her-heroheroine-songs",
+          "author": "Mikikazu Komatsu",
+          "description": "Mizuki: \"I want to bring down their spirits in my live concerts.\"\n\n\nThe official YouTube channel for voice actress / singer Nana Mizuki has posted a 30-second promo to announce the titles of her forthcoming two-day concert to be held at Saitama Super Arena on January 21 and 22, 2023. The main title is \"NANA MIZUKI LIVE HEROES 2023.\" Hit the jump for more details including her video message!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25/nana-mizukis-saitama-super-arena-two-day-concert-to-feature-her-heroheroine-songs",
+          "publishedOn": "2022-09-26T01:13:00.000Z",
+          "wordCount": 5957,
+          "title": "Nana Mizuki's Saitama Super Arena Two-day Concert to Feature Her Hero/Heroine Songs",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/e7e0a7af600b0aeabb9aa136f21b8ba81664154625_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/my-dress-up-darling-manga-crosses-75-million-copies-released",
+          "author": "Daryl Harding",
+          "description": "The sequel to the anime is in production!\n\n\nThe 10th volume of the ever-popular romantic comedy cosplay manga My Dress-Up Darling was released in stores on September 24, gracing Japan with the latest hijinks of Marin and Gojo. On the release of the volume, manga creator Shinichi Fukuda revealed that the series has surpassed 7.5 million copies! More after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/my-dress-up-darling-manga-crosses-75-million-copies-released",
+          "publishedOn": "2022-09-26T00:30:53.000Z",
+          "wordCount": 6035,
+          "title": "My Dress-Up Darling Manga Crosses 7.5 Million Copies Released",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/798df2a136b8e62097f71808f3ff33891664152234_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/25-1/waccha-primagi-franchise-teases-new-project-waccha-primagi-studio-for-november-2022-launch",
+          "author": "Mikikazu Komatsu",
+          "description": "TV anime series has been aired since October 2021\n\n\nWaccha PriMagi!, the ongoing latest installment of Takara Tomy Arts's idol-themed Pretty Series, has posted a teaser trailer for a new game project titled Waccha PriMagi! Studio to announce its November 2022 launch. Watch the clip of Myamu busily preparing something after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/25-1/waccha-primagi-franchise-teases-new-project-waccha-primagi-studio-for-november-2022-launch",
+          "publishedOn": "2022-09-26T00:23:01.000Z",
+          "wordCount": 5983,
+          "title": "Waccha PriMagi! Franchise Teases New Project \"Waccha PriMagi! Studio\" for November 2022 Launch",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/a2daa84d86a84a3f469e2dfd64cb2a731664151506_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/25/angelian-trigger-shoot-em-up-teased-for-nintendo-switch",
           "author": "Joseph Luster",
           "description": "PiXEL plans 2023 release with English and Japanese support\n\n\nAngelian Trigger is a new shoot 'em up that blends 2D and 3D visuals, and it's on the way to Nintendo Switch sometime in 2023. Check out a new teaser after the jump.",
@@ -4211,219 +4271,1954 @@
       ]
     },
     {
-      "title": "News - MyAnimeList",
-      "feedUrl": "https://myanimelist.net/rss/news.xml",
-      "siteUrl": "https://myanimelist.net/news?_location=rss",
+      "title": "The Hindu - India",
+      "feedUrl": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
-          "id": "https://myanimelist.net/news/67556579?_location=rss",
-          "author": null,
-          "description": "Publisher Shueisha opened an official website for the television anime adaptation of Shuuhei Miyazaki's Boku to Roboko (Me & Roboco) manga on Monday. The website revealed the production staff, 5-minute episode format, and its first key visual (pictured). The anime is scheduled to premiere on December 5 at 12:30 a.m. on Tokyo MX. Staff Director: Akitarou Daichi (Kamisama Hajimemashita) Assistant Director: Michihira Satou Series Composition: Sayuri Ooba (Oniichan no Koto nanka Zenzen Suki...",
-          "link": "https://myanimelist.net/news/67556579?_location=rss",
-          "publishedOn": "2022-09-25T15:45:44.000Z",
-          "wordCount": 1471,
-          "title": "'Boku to Roboko' Announces Production Staff, December 5 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664120482-e03cff1507a9e50e8d5b815cd6f4120c.png"
+          "id": "https://www.thehindu.com/news/national/other-states/projects-stalled-in-last-25-years-taken-up-on-priority-now-says-shinde/article65935876.ece",
+          "author": "PTI",
+          "description": "‘We don’t take decisions sitting in the Secretariat, we take decisions on the spot. Our government has removed negativity and brought in positivity. We are here for satya and not for satta’",
+          "link": "https://www.thehindu.com/news/national/other-states/projects-stalled-in-last-25-years-taken-up-on-priority-now-says-shinde/article65935876.ece",
+          "publishedOn": "2022-09-25T23:19:32.000Z",
+          "wordCount": 6449,
+          "title": "Projects stalled in last 2.5 years taken up on priority now, says Shinde",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/39ehj2/article65935877.ece/alternates/LANDSCAPE_615/PTI09_25_2022_000156B.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67553378?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event revealed on Sunday the main staff and additional cast members for the Itou Junji: Maniac (Junji Ito Maniac: Japanese Tales of the Macabre) net anime series. The anime is scheduled to premiere worldwide on Netflix on January 19. Cast Tomie Tomie: Rie Suegara (Itou Junji: Collection) Tsukiko Izumisawa: Yumiri Hanamori (Yofukashi no Uta) Yamazaki: Taku Yashiro (Domestic na Kanojo) Taichi: Tomokazu Sugita (Gintama) Kimata: Hiroyuki Yoshino (Spy x Family) Shijuu Kabe no...",
-          "link": "https://myanimelist.net/news/67553378?_location=rss",
-          "publishedOn": "2022-09-25T08:02:33.000Z",
-          "wordCount": 1498,
-          "title": "'Itou Junji: Maniac' Unveils Main Staff, Additional Cast, January 19 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664092688-dd34666e64d7ae624e6e2c70087c181f.jpeg"
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/tangedco-to-buy-power-from-exchanges-at-over-17000-crore-for-the-next-five-years/article65934726.ece",
+          "author": "Sanjay Vijayakumar",
+          "description": "For 2022-23, the State utility plans to buy 7,208.70 million units",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/tangedco-to-buy-power-from-exchanges-at-over-17000-crore-for-the-next-five-years/article65934726.ece",
+          "publishedOn": "2022-09-25T22:46:36.000Z",
+          "wordCount": 6291,
+          "title": "Tangedco to buy power from exchanges at over ₹17,000 crore for the next five years",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qn4i81/article65886285.ece/alternates/LANDSCAPE_615/IMG_IMG_IMG_IMG_bl02_thi_2_1_5MA7GSN1.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67553325?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event revealed the main cast and one additional staff for the original anime series Make My Day. The anime will premiere worldwide on Netflix in February 2023. Cast Jim: Masaomi Yamahashi (Rokudenashi Majutsu Koushi to Akashic Records) Marnie: Ayahi Takagaki (Senki Zesshou Symphogear) Walter: Kazuhiro Yamaji (Shingeki no Kyojin Season 3) Captain Burke: Akio Ootsuka (Koukaku Kidoutai) Kensuke Ushio (Devilman: Crybaby, Heike Monogatari) is composing the music. Manga author...",
-          "link": "https://myanimelist.net/news/67553325?_location=rss",
-          "publishedOn": "2022-09-25T07:54:43.000Z",
-          "wordCount": 1404,
-          "title": "'Make My Day' Reveals Main Cast, Additional Staff, February 2023 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664094149-7003a2d793adb3058043c4506fd847b1.jpeg"
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/covid-vaccination-775-lakh-doses-administered-at-38th-mega-camp/article65934997.ece",
+          "author": "The Hindu Bureau",
+          "description": "So far, 96.59% of those aged over 18 had been given the first dose and 91.61% got the second",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/covid-vaccination-775-lakh-doses-administered-at-38th-mega-camp/article65934997.ece",
+          "publishedOn": "2022-09-25T22:42:07.000Z",
+          "wordCount": 6174,
+          "title": "7.75 lakh COVID-19 doses administered at 38th mega camp",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6s1wgq/article65935389.ece/alternates/LANDSCAPE_615/VACCINATION_CAMP_1.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67553252?_location=rss",
-          "author": null,
-          "description": "An anime adaptation of Baku Yumemakura's Onmyouji novel series was announced at the Netflix TUDUM Japan event on Sunday, revealing the main staff, a concept art (pictured above), and a character visual for Abe no Seimei (pictured right). The anime series will debut worldwide on Netflix in 2023. Soubi Yamamoto (Meganebu!) is directing the anime at Marvy Jack. Natsu Hashimoto (Oshiete Hokusai! The Animation) and Yuiko Katou (Aguu: Tensai Ningyou) are penning the script. Yumemakura originally...",
-          "link": "https://myanimelist.net/news/67553252?_location=rss",
-          "publishedOn": "2022-09-25T07:42:10.000Z",
-          "wordCount": 1541,
-          "title": "Baku Yumemakura's 'Onmyouji' Novel Gets Anime in 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664091670-da678a78a6b44fb0d1790f2fd8e7ce58.jpeg"
+          "id": "https://www.thehindu.com/news/cities/Coimbatore/annamalai-says-police-must-function-without-influence-from-ruling-party/article65934289.ece",
+          "author": "The Hindu Bureau",
+          "description": "He questions the rationale behind invoking the SC/ST Act against the BJP Coimbatore district president, who was arrested for remarks against A. Raja and Periyar",
+          "link": "https://www.thehindu.com/news/cities/Coimbatore/annamalai-says-police-must-function-without-influence-from-ruling-party/article65934289.ece",
+          "publishedOn": "2022-09-25T22:40:44.000Z",
+          "wordCount": 6097,
+          "title": "Annamalai says police must function without influence from ruling party",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/shrnz5/article65861606.ece/alternates/LANDSCAPE_615/Annamalai_9.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67552991?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event announced a fifth season of Sanrio's Aggressive Retsuko (Aggretsuko) net anime series on Sunday. The final season is scheduled to premiere worldwide on Netflix in February 2023. The first anime adaptation based on Sanrio's titular red panda mascot aired in 100 one-minute episodes from April 2016 to March 2018 on TBS' Ousama no Brunch program. TBS subsequently combined all 100 episodes and broadcast them in 10 episodes. The first, second, third, and f...",
-          "link": "https://myanimelist.net/news/67552991?_location=rss",
-          "publishedOn": "2022-09-25T06:41:49.000Z",
-          "wordCount": 1637,
-          "title": "'Aggressive Retsuko' Gets Fifth Season in February 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664087997-665c6083b3f270552be12d3f358e5fef.jpeg"
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/molotov-cocktail-attacks-continue-dgp-warns-of-action-under-nsa/article65934995.ece",
+          "author": "The Hindu Bureau",
+          "description": "Five SDPI functionaries were among the 11 arrested in connection with the attacks",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/molotov-cocktail-attacks-continue-dgp-warns-of-action-under-nsa/article65934995.ece",
+          "publishedOn": "2022-09-25T22:39:16.000Z",
+          "wordCount": 6913,
+          "title": "Five SDPI cadres among 11 arrested for attacks on BJP, RSS workers’ properties",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/nttwo2/article65935867.ece/alternates/LANDSCAPE_615/9868_25_9_2022_17_26_44_2_PETROLBOMB_2.JPG"
         },
         {
-          "id": "https://myanimelist.net/news/67552810?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event announced on Sunday an anime adaptation of Capcom's Onimusha video game series and revealed the main staff members. Staff Chief Director: Takashi Miike (Koroshiya 1 live-action director) Director: Shinya Sugai (Dragon's Dogma) Musashi Miyamoto Model: Toshirou Mifune (Yojimbo) Studio: Sublimation Capcom developed and published the first game in the series in January 2001 in Japan for Playstation 2 and released an updated version for Xbox in 2002. Onimusha...",
-          "link": "https://myanimelist.net/news/67552810?_location=rss",
-          "publishedOn": "2022-09-25T06:12:07.000Z",
-          "wordCount": 1459,
-          "title": "Video Game 'Onimusha' Gets Anime Series",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664086234-c75d1721efa9953b6ce0d13fc2060405.jpeg"
+          "id": "https://www.thehindu.com/news/national/other-states/7-tourists-dead-as-vehicle-falls-into-gorge-in-himachals-kullu/article65935865.ece",
+          "author": "PTI",
+          "description": "About 10 others, who suffered injured were shifted to hospital.",
+          "link": "https://www.thehindu.com/news/national/other-states/7-tourists-dead-as-vehicle-falls-into-gorge-in-himachals-kullu/article65935865.ece",
+          "publishedOn": "2022-09-25T22:23:45.000Z",
+          "wordCount": 6071,
+          "title": "7 tourists dead as vehicle falls into gorge in Himachal&#039;s Kullu",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67552685?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event announced an anime adaptation of Tae-Jun Park's Lookism manhwa on Sunday, revealing a teaser visual (pictured above) and teaser promotional video. The anime series, produced by Studio Mir, with stream worldwide on Netflix under the title Gaiken Shijou Shugi on November 4. Park launched the action drama manhwa on the Naver Webtoon (now Line Webtoon) webcomic portal in November 2014. The 20th volume went on sale on May 20. LINE Webtoon began releasing the title...",
-          "link": "https://myanimelist.net/news/67552685?_location=rss",
-          "publishedOn": "2022-09-25T06:00:59.000Z",
-          "wordCount": 1796,
-          "title": "Manhwa 'Lookism' Gets Anime Series",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664085581-ae3c0cc36e1590533915844da315a386.jpeg"
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/raj-bhavan-invites-nominations-for-awards-for-social-service-environment-protection/article65934297.ece",
+          "author": "The Hindu Bureau",
+          "description": "Tamil Nadu Governor R.N. Ravi has announced two awards on an annual basis in the fields of ‘Social S",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/raj-bhavan-invites-nominations-for-awards-for-social-service-environment-protection/article65934297.ece",
+          "publishedOn": "2022-09-25T21:40:26.000Z",
+          "wordCount": 6179,
+          "title": "Raj Bhavan invites nominations for awards for social service, environment protection",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67552429?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan event announced a second anime season for Kousuke Oono's Gokushufudou (The Way of the Househusband) manga on Sunday. The new season will stream worldwide on Netflix in January 2023. Chiaki Kon (Higurashi no Naku Koro ni, Nodame Cantabile: Paris-hen) is returning to direct the second season at J.C.Staff (Prison School, Amanchu!). Susumu Yamakawa (Back Street Girls: Gokudolls) is also returning to handle the series composition. The first season premiered in two five-ep...",
-          "link": "https://myanimelist.net/news/67552429?_location=rss",
-          "publishedOn": "2022-09-25T05:24:22.000Z",
-          "wordCount": 1644,
-          "title": "'Gokushufudou' Gets 2nd Season for January 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664083433-a3d4909cf423596844d7facd1868cd4f.jpeg"
+          "id": "https://www.thehindu.com/news/national/other-states/i-dont-believe-in-revenge-otherwise-cpim-leaders-would-have-been-in-jail-west-bengal-cm/article65935347.ece",
+          "author": "PTI",
+          "description": "Unveiling the edition of the TMC mouthpiece 'Jago Bangla', Ms. Banerjee also took on social media trolling and alleged that outsiders had been hired to spread misinformation",
+          "link": "https://www.thehindu.com/news/national/other-states/i-dont-believe-in-revenge-otherwise-cpim-leaders-would-have-been-in-jail-west-bengal-cm/article65935347.ece",
+          "publishedOn": "2022-09-25T21:39:49.000Z",
+          "wordCount": 6433,
+          "title": "I don&#039;t believe in revenge, otherwise CPI(M) leaders would have been in jail: West Bengal CM",
+          "imageUrl": "https://th-i.thgim.com/public/todays-paper/tp-national/y5sm2q/article65912115.ece/alternates/LANDSCAPE_615/TH19-SHIV-SAHAY%2BGL7AA03LC.3.jpg.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67552354?_location=rss",
-          "author": null,
-          "description": "The Netflix TUDUM Japan livestream event announced on Sunday additional staff, a teaser visual (pictured), and teaser promotional video for Wit Studio's Moonrise original anime series. The anime is scheduled to premiere worldwide on Netflix in 2024. Staff Original Creator: Tow Ubukata (Mardock Scramble) Original Character Design: Hiromu Arakawa (Fullmetal Alchemist) Director: Masashi Koizuka (Shingeki no Kyoujin Season 2) Character Design: Ayumi Yamada (Owari no Seraph sub-character design)...",
-          "link": "https://myanimelist.net/news/67552354?_location=rss",
-          "publishedOn": "2022-09-25T05:07:59.000Z",
-          "wordCount": 1603,
-          "title": "'Moonrise' Reveals Additional Staff, Teaser Promo, 2024 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664082428-d9061ce414c539b87e7e326254038bb8.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/si-asi-head-constable-suspended-in-kakinada-for-irregularities/article65934356.ece",
+          "author": "Appala Naidu Tippana 10237",
+          "description": "KAKINADA",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/si-asi-head-constable-suspended-in-kakinada-for-irregularities/article65934356.ece",
+          "publishedOn": "2022-09-25T20:21:17.000Z",
+          "wordCount": 5981,
+          "title": "SI, ASI, head constable suspended in Kakinada for irregularities",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67547345?_location=rss",
-          "author": null,
-          "description": "The official website of the Arknights: Reimei Zensou (Arknights Animation: Prelude to Dawn) television anime revealed additional staff, cast, opening theme, a promotional video and key visual (pictured) on Saturday. The anime is scheduled to broadcast on October 29 at 1:23 a.m. on TV Tokyo, followed by TV Osaka, BS11, and Animax. Cast Doctor: Yuki Kaida (Tennis no Ouji-sama) Amiya: Tomoyo Kurosawa (Hibike! Euphonium) Dobermann: Atsumi Tanezaki (Spy x Family) Nearl: Ayane Sakura (Boku no Hero Aca...",
-          "link": "https://myanimelist.net/news/67547345?_location=rss",
-          "publishedOn": "2022-09-24T17:05:22.000Z",
-          "wordCount": 1803,
-          "title": "'Arknights: Reimei Zensou' Reveals Additional Staff, Cast, First Promo",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664038361-4f428fd8e3555417e6744cd033534480.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/kanaka-durga-temple-decked-up-for-dasara-fete-from-today/article65934812.ece",
+          "author": "G.V.R. Subba Rao",
+          "description": "No ‘antaralaya’ darshan, six queue lines arranged",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/kanaka-durga-temple-decked-up-for-dasara-fete-from-today/article65934812.ece",
+          "publishedOn": "2022-09-25T20:20:13.000Z",
+          "wordCount": 6324,
+          "title": "Kanaka Durga temple decked up for Dasara fete from today",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/58pi3m/article65935728.ece/alternates/LANDSCAPE_615/vjkvg-lighting%20%285%29.JPG"
         },
         {
-          "id": "https://myanimelist.net/news/67544667?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced a television anime adaptation for Sony Music Entertainment Japan's UniteUp! project on Saturday, revealing the main cast and a teaser promotional video. Produced by CloverWorks, the anime series will broadcast in January 2023. Cast PROTOSTAR Akira Kiyose: Kikunosuke Toya (Chainsaw Man) Banri Naoe: Ryoutarou Yamaguchi (Futsal Boys!!!!!) Chihiro Isuzugawa: Amon Hirai LEGIT Daiki Takao: Magura Sukegawa Eishiro Nijo: Shinnosuke Morikage Fuga Togo: Ry...",
-          "link": "https://myanimelist.net/news/67544667?_location=rss",
-          "publishedOn": "2022-09-24T11:42:14.000Z",
-          "wordCount": 1694,
-          "title": "Sony Music Project 'UniteUp' Gets TV Anime in Winter 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664017403-2196103af4549159b1d005e830d8ee00.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sri-boyakonda-gangamma-temple-near-punganur-spruced-up-for-brahmostavams/article65930604.ece",
+          "author": "K. Umashanker",
+          "description": "Authorities expect huge rush at the temple from September 27",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sri-boyakonda-gangamma-temple-near-punganur-spruced-up-for-brahmostavams/article65930604.ece",
+          "publishedOn": "2022-09-25T20:14:51.000Z",
+          "wordCount": 6242,
+          "title": "Andhra Pradesh: Sri Boyakonda Gangamma temple near Punganur spruced up for Brahmostavams",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/4whgx2/article65931021.ece/alternates/LANDSCAPE_615/10330_24_9_2022_16_14_9_1_NAVARATRI_FESTIVAL_BOYAKONDA_TEMPLE_CHITTOOR.JPG"
         },
         {
-          "id": "https://myanimelist.net/news/67544062?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event revealed the main cast and a second teaser visual (pictured) for the Ayakashi Triangle anime series on Saturday. The television anime adapting Kentarou Yabuki's ecchi comedy manga will premiere in January 2023. Cast Matsuri Kazamaki (Male): Shouya Chiba (Jibaku Shounen Hanako-kun) Matsuri Kazamaki (Female): Miyu Tomita (Ore dake Haireru Kakushi Dungeon) Suzu Kanade: Kana Ichinose (Hige wo Soru. Soshite Joshikousei wo Hirou.) Shirogane: Tesshou Genda (Oda C...",
-          "link": "https://myanimelist.net/news/67544062?_location=rss",
-          "publishedOn": "2022-09-24T10:00:32.000Z",
-          "wordCount": 1701,
-          "title": "'Ayakashi Triangle' TV Anime Main Cast Announced",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664013608-b8ff9c9da3eb1c233d05167b9bab5480.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/new-office-bearers-of-prsi-amaravati-chapter-take-charge/article65935040.ece",
+          "author": "P. Sujatha Varma",
+          "description": "VIJAYAWADA",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/new-office-bearers-of-prsi-amaravati-chapter-take-charge/article65935040.ece",
+          "publishedOn": "2022-09-25T20:13:59.000Z",
+          "wordCount": 6010,
+          "title": "New office-bearers of PRSI Amaravati chapter take charge",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67543892?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced an anime movie adaptation of Gen Urobuchi's Eisen Flügel light novel on Saturday. Aniplex simultaneously launched an official website, revealing the production staff, a teaser promotional video, and teaser visual (pictured). Urobuchi penned the light novel in two volumes under Shogakukan's Gagaga Bunko label in July and December 2009, featuring illustrations by Higashiguchi Chuuou (Mnemosyne: Mnemosyne no Musume-tachi). Anno Nanakamado...",
-          "link": "https://myanimelist.net/news/67543892?_location=rss",
-          "publishedOn": "2022-09-24T09:28:59.000Z",
-          "wordCount": 2146,
-          "title": "Gen Urobuchi's 'Eisen Flügel' Light Novel Gets Anime Movie",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664011728-03b143e16b1025a23577008fb207c634.jpeg"
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/over-800-assessees-in-chennai-yet-to-get-notice-for-general-revision-of-property-tax/article65935724.ece",
+          "author": "The Hindu Bureau",
+          "description": "Over 800 property tax assessees out of the 13 lakh in the city have not received the notice for the",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/over-800-assessees-in-chennai-yet-to-get-notice-for-general-revision-of-property-tax/article65935724.ece",
+          "publishedOn": "2022-09-25T20:11:30.000Z",
+          "wordCount": 5950,
+          "title": "Over 800 assessees in Chennai yet to get notice for general revision of property tax",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67543736?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced a sequel for the anime series adapting Hajime Kamoshida's Seishun Buta Yarou Series (Rascal Does Not Dream) light novel on Saturday. The event also revealed the main cast, staff, teaser visual (pictured), and an announcement promo. The new anime project will cover the eighth and ninth novel volumes titled Seishun Buta Yarou wa Odekake Sister no Yume wo Minai (Rascal Does Not Dream of a Sister Venturing Out) and Seishun Buta Yarou wa Randoseru Gi...",
-          "link": "https://myanimelist.net/news/67543736?_location=rss",
-          "publishedOn": "2022-09-24T08:58:04.000Z",
-          "wordCount": 2214,
-          "title": "'Seishun Buta Yarou' Anime Series Sequel Announced",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664064362-eff108a231a521c9e0d749151c2cd517.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/two-youth-washed-away-while-swimming-in-kundu-river/article65934618.ece",
+          "author": "Ramesh Susarla",
+          "description": "NANDYAL",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-youth-washed-away-while-swimming-in-kundu-river/article65934618.ece",
+          "publishedOn": "2022-09-25T20:07:20.000Z",
+          "wordCount": 6015,
+          "title": "Andhra Pradesh: Two youth ‘washed away’ while swimming in Kundu river",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67543640?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced on Saturday a television anime adaptation of Mashiro's Yamada-kun to Lv999 no Koi wo Suru (Loving Yamada at Lv999) manga and revealed the main cast, staff, teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in 2023. Inori Minase (5-toubun no Hanayome) and Kouki Uchiyama (Horimiya) are starring as Akane Kinoshita and Akito Yamada, respectively. Staff Director: Morio Asaka (Chihayafuru) Series Composition: Ya...",
-          "link": "https://myanimelist.net/news/67543640?_location=rss",
-          "publishedOn": "2022-09-24T08:35:58.000Z",
-          "wordCount": 2444,
-          "title": "Manga 'Yamada-kun to Lv999 no Koi wo Suru' Gets TV Anime in 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664008520-2488faf98f588082b192aa47738477e3.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/real-development-of-north-andhra-is-possible-only-when-vizag-is-made-executive-capital-ysrcp-leader/article65933891.ece",
+          "author": "K Srinivasa Rao",
+          "description": "VIZIANAGARAM",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/real-development-of-north-andhra-is-possible-only-when-vizag-is-made-executive-capital-ysrcp-leader/article65933891.ece",
+          "publishedOn": "2022-09-25T20:06:44.000Z",
+          "wordCount": 6046,
+          "title": "Real development of north Andhra is possible only when Vizag is made executive capital: YSRCP leader",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67543518?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event unveiled the main cast, additional staff, teaser visual (pictured), and a teaser promotional video for the television anime adaptation of Hazano Kazutake's Shiro Seijo to Kuro Bokushi (Saint Cecilia and Pastor Lawrence) manga on Saturday. The anime is scheduled to premiere in April 2023. Hime Sawada and Kaito Ishikawa (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai) stars as Cecilia and Lawrence, respectively. Staff Art Director: Chieko Nakamura...",
-          "link": "https://myanimelist.net/news/67543518?_location=rss",
-          "publishedOn": "2022-09-24T08:05:06.000Z",
-          "wordCount": 1848,
-          "title": "'Shiro Seijo to Kuro Bokushi' Unveils Main Cast, Additional Staff, Spring 2023 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664006632-b80c8ee3415c8893d4b0a10837a471bf.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/300-cctvs-to-be-deployed-for-surveillance-during-dasara-fete-in-city/article65934799.ece",
+          "author": "Rajulapudi Srinivas",
+          "description": "Security has been stepped up at bus and railway stations",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/300-cctvs-to-be-deployed-for-surveillance-during-dasara-fete-in-city/article65934799.ece",
+          "publishedOn": "2022-09-25T20:06:05.000Z",
+          "wordCount": 6130,
+          "title": "300 CCTVs to be deployed for surveillance during Dasara fete in city",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
-          "id": "https://myanimelist.net/news/67543446?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced a television special anime for Ryohgo Narita's Fate/strange Fake light novel on Saturday. Aniplex simultaneously opened an official website, revealing the main staff, cast, a teaser visual (pictured) and teaser promo. The special episode, subtitled Whispers of Dawn, will debut on December 31 this year. Staff Director: Shun Enokido (Manga de Wakaru! Fate/Grand Order), Takahito Sakazume (Princess Connect! Re:Dive Season 2 episode director) Script:...",
-          "link": "https://myanimelist.net/news/67543446?_location=rss",
-          "publishedOn": "2022-09-24T07:45:55.000Z",
-          "wordCount": 2266,
-          "title": "Light Novel 'Fate/strange Fake' Gets TV Special in December 2022",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664005495-19c4a2d53da1a9d24c93d0ab4313639a.jpeg"
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-festive-mood-grips-ongole-on-the-eve-of-dasara/article65934173.ece",
+          "author": "S. Murali",
+          "description": "Markets come alive with hustle-bustle of people making purchases",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-festive-mood-grips-ongole-on-the-eve-of-dasara/article65934173.ece",
+          "publishedOn": "2022-09-25T20:04:11.000Z",
+          "wordCount": 6145,
+          "title": "Andhra Pradesh: Festive mood grips Ongole on the eve of Dasara",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1tq1vj/article65934647.ece/alternates/LANDSCAPE_615/9775_25_9_2022_15_56_4_1_DSC_3720%281%29.JPG"
         },
         {
-          "id": "https://myanimelist.net/news/67543338?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event revealed main cast and staff for the Mashle television anime on Saturday. The anime is scheduled to premiere in 2023. Voice actor Chiaki Kobayashi (Tomodachi Game) is starring as Mash Burnedead. Staff Director: Tomoya Tanaka (Engage Kiss) Series Composition: Yousuke Kuroda (Boku no Hero Academia) Character Design: Hisashi Toujima (Sword Art Online: Progressive Movie prop design) Music: Masaru Yokoyama (Ao Ashi) Studio: A-1 Pictures Koumoto began serializing the...",
-          "link": "https://myanimelist.net/news/67543338?_location=rss",
-          "publishedOn": "2022-09-24T07:26:51.000Z",
-          "wordCount": 1665,
-          "title": "'Mashle' TV Anime Reveals Main Cast, Staff",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664004366-765deb5950555733aa5e75edb0ed3adb.jpeg"
+          "id": "https://www.thehindu.com/opinion/op-ed/maharashtras-loss-is-gujarats-gain/article65934570.ece",
+          "author": "Abhinay Deshpande",
+          "description": "The loss of the Vedanta-Foxconn project has caused an uproar in Maharashtra",
+          "link": "https://www.thehindu.com/opinion/op-ed/maharashtras-loss-is-gujarats-gain/article65934570.ece",
+          "publishedOn": "2022-09-25T19:49:38.000Z",
+          "wordCount": 6461,
+          "title": "Maharashtra’s loss is Gujarat’s gain",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/swg8lk/article65934573.ece/alternates/LANDSCAPE_615/IMG_2022-09-13T063447Z_4_2_1_41AADH2P.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67543111?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event announced the main staff, cast, and a teaser promotional video for the NieR:Automata television anime series on Saturday. The anime is scheduled to premiere in January 2023. Yui Ishikawa (Shingeki no Kyojin) and Natsuki Hanae (Summertime Render) are reprising their roles from the game as YoRHa 2-gou B-gata and YoRHa 9-gou S-gata, respectively. Hiroki Yasumoto (ACCA: 13-ku Kansatsu-ka) and Kaoru Akiyama (Detective Conan) are also returning as Pod 042 and 153. St...",
-          "link": "https://myanimelist.net/news/67543111?_location=rss",
-          "publishedOn": "2022-09-24T06:54:28.000Z",
-          "wordCount": 1998,
-          "title": "'NieR:Automata' Reveals Main Cast, Staff for Winter 2023",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664002401-72e4516f587d1484fd09a90518ec9a96.jpeg"
+          "id": "https://www.thehindu.com/news/national/telangana/when-sunil-gavaskar-batted-for-a-cause/article65934601.ece",
+          "author": "V. V. Subrahmanyam",
+          "description": "HYDERABAD",
+          "link": "https://www.thehindu.com/news/national/telangana/when-sunil-gavaskar-batted-for-a-cause/article65934601.ece",
+          "publishedOn": "2022-09-25T19:38:16.000Z",
+          "wordCount": 6186,
+          "title": "When Sunil Gavaskar batted for a cause!",
+          "imageUrl": "https://th-i.thgim.com/public/sport/uarxnx/article65934583.ece/alternates/LANDSCAPE_615/IMG-0558.jpg"
         },
         {
-          "id": "https://myanimelist.net/news/67542924?_location=rss",
-          "author": null,
-          "description": "The Aniplex Online Fest 2022 event revealed two additional cast and a character introduction promo for the Tomo-chan wa Onnanoko! (Tomo-chan Is a Girl!) television anime on Saturday. The anime series adapting Fumita Yanagida's romantic comedy web manga will premiere in January 2023. Kouhei Amasaki (High Score Girl) and Yoshitsugu Matsuoka (5-toubun no Hanayome) are joining the cast as Kousuke Misaki and Tatsumi Tanabe, respectively. Hitoshi Nanba (Golden Kamuy) is directing the anime at Lay...",
-          "link": "https://myanimelist.net/news/67542924?_location=rss",
-          "publishedOn": "2022-09-24T06:21:42.000Z",
-          "wordCount": 1624,
-          "title": "'Tomo-chan wa Onnanoko!' Announces Additional Cast Pair",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1664000449-9b35b85132e0d95e178cf26c3144e50a.jpeg"
+          "id": "https://www.thehindu.com/news/national/telangana/building-permissions-turn-a-new-avenue-for-ghmc-to-boost-revenue/article65931669.ece",
+          "author": "Swathi Vadlamudi",
+          "description": "The rise in revenue may be at least partly, attributed to the introduction of online permissions through TS-bPASS",
+          "link": "https://www.thehindu.com/news/national/telangana/building-permissions-turn-a-new-avenue-for-ghmc-to-boost-revenue/article65931669.ece",
+          "publishedOn": "2022-09-25T19:36:05.000Z",
+          "wordCount": 6152,
+          "title": "Building permissions turn a new  avenue for GHMC to boost revenue",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/telangana/s8nem2/article65935714.ece/alternates/LANDSCAPE_615/graph.JPG"
         },
         {
-          "id": "https://myanimelist.net/news/67542620?_location=rss",
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-hails-kamaraj-says-good-things-in-caste-must-be-taught-and-bad-rejected/article65935408.ece",
+          "author": "The Hindu Bureau",
+          "description": "‘We have to teach good things and reject the bad things about caste’",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-hails-kamaraj-says-good-things-in-caste-must-be-taught-and-bad-rejected/article65935408.ece",
+          "publishedOn": "2022-09-25T19:31:59.000Z",
+          "wordCount": 6246,
+          "title": "Anbumani hails Kamaraj, says good things in caste must be taught and bad rejected",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/kolkata/management-of-armenian-properties-in-kolkata-draws-applause-from-armenia/article65934560.ece",
+          "author": "Shiv Sahay Singh",
+          "description": "Earlier this month, the Office of the Administrator General and Official Trustee of West Bengal was appreciated by the Supreme Patriarch and Catholicos of All Armenians",
+          "link": "https://www.thehindu.com/news/cities/kolkata/management-of-armenian-properties-in-kolkata-draws-applause-from-armenia/article65934560.ece",
+          "publishedOn": "2022-09-25T19:29:20.000Z",
+          "wordCount": 6769,
+          "title": "An inventory of Armenian properties in City of Joy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ir9afm/article65935153.ece/alternates/LANDSCAPE_615/80717_24_9_2022_19_14_58_4_ARMENIANCHURCHKOLKATA4.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/538-fresh-covid-19-infections-in-state/article65935047.ece",
+          "author": "The Hindu Bureau",
+          "description": "CHENNAI",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/538-fresh-covid-19-infections-in-state/article65935047.ece",
+          "publishedOn": "2022-09-25T19:24:20.000Z",
+          "wordCount": 5930,
+          "title": "538 fresh COVID-19 infections in State",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/amid-protests-by-thousands-across-uttarakhand-family-cremates-murder-victim/article65935113.ece",
+          "author": "Ishita Mishra",
+          "description": "Victim’s father had earlier refused to perform the last rites as he alleged that the resort of the accused was demolished only to destroy evidence; Congress demands justice for the family",
+          "link": "https://www.thehindu.com/news/national/other-states/amid-protests-by-thousands-across-uttarakhand-family-cremates-murder-victim/article65935113.ece",
+          "publishedOn": "2022-09-25T19:16:21.000Z",
+          "wordCount": 6559,
+          "title": "Amid protests by thousands across Uttarakhand, family cremates murder victim",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/z2ye8u/article65935379.ece/alternates/LANDSCAPE_615/PTI09_25_2022_000293A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/opinion/interview/communist-parties-failed-to-adopt-marxism-to-cultural-needs-of-countries-says-noted-tamil-writer-indira-parthasarathy/article65934535.ece",
+          "author": "B. Kolappan",
+          "description": "‘Even Karl Marx’s calendar for revolution failed. He visualised it to happen in England but it took place in an agrarian society in Russia’",
+          "link": "https://www.thehindu.com/opinion/interview/communist-parties-failed-to-adopt-marxism-to-cultural-needs-of-countries-says-noted-tamil-writer-indira-parthasarathy/article65934535.ece",
+          "publishedOn": "2022-09-25T19:10:07.000Z",
+          "wordCount": 6927,
+          "title": "Left parties failed to adapt to cultural needs, says Tamil writer Indira Parthasarathy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/symkfx/article65934872.ece/alternates/LANDSCAPE_615/06_Indira%20Parthasarathy.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/bhopal-tragedy-compensation-case-government-seems-to-be-wavering-on-curative-petition/article65931678.ece",
+          "author": "Krishnadas Rajagopal",
+          "description": "The lack of a clear stand by the Centre before a Bench led by Justice S.K. Kaul conveys a sea change in the government’s stance",
+          "link": "https://www.thehindu.com/news/national/bhopal-tragedy-compensation-case-government-seems-to-be-wavering-on-curative-petition/article65931678.ece",
+          "publishedOn": "2022-09-25T19:06:02.000Z",
+          "wordCount": 6516,
+          "title": "Centre not taking clear stand on curative plea in Bhopal tragedy aid case",
+          "imageUrl": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/cgi2kz/article65929196.ece/alternates/LANDSCAPE_615/Two-orders-in-o%2BGO4AAI0J7.3.jpg.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/prema-srinivasan-no-more/article65934803.ece",
+          "author": "The Hindu Bureau",
+          "description": "CHENNAI",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/prema-srinivasan-no-more/article65934803.ece",
+          "publishedOn": "2022-09-25T19:00:59.000Z",
+          "wordCount": 6184,
+          "title": "Prema Srinivasan no more",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/5y0pdf/article65935251.ece/alternates/LANDSCAPE_615/WhatsApp%20Image%202022-09-25%20at%206.51.26%20PM.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/lecture-on-indian-judiciary-and-social-inequality-at-nuals/article65935505.ece",
+          "author": "The Hindu Bureau",
+          "description": "",
+          "link": "https://www.thehindu.com/news/national/kerala/lecture-on-indian-judiciary-and-social-inequality-at-nuals/article65935505.ece",
+          "publishedOn": "2022-09-25T18:51:36.000Z",
+          "wordCount": 5848,
+          "title": "Lecture on Indian Judiciary and Social Inequality at NUALS",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/global-grace-cancer-run-in-vijayawada-on-october-9/article65935244.ece",
+          "author": "The Hindu Bureau",
+          "description": "VIJAYAWADA",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/global-grace-cancer-run-in-vijayawada-on-october-9/article65935244.ece",
+          "publishedOn": "2022-09-25T18:50:44.000Z",
+          "wordCount": 6015,
+          "title": "‘Global Grace Cancer Run’ in Vijayawada on October 9",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-prakasam-collectors-surprise-farm-workers-try-their-hand-at-transplanting-of-paddy/article65934635.ece",
+          "author": "The Hindu Bureau",
+          "description": "BAPATLA",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-prakasam-collectors-surprise-farm-workers-try-their-hand-at-transplanting-of-paddy/article65934635.ece",
+          "publishedOn": "2022-09-25T18:50:07.000Z",
+          "wordCount": 6063,
+          "title": "Bapatla, Prakasam Collectors surprise farm workers, try their hand at transplanting of paddy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/enfqow/article65935663.ece/alternates/LANDSCAPE_615/2317_25_9_2022_18_37_5_1_DSC_6323.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/need-to-strengthen-democracy-at-the-grassroots-official/article65934761.ece",
+          "author": "The Hindu Bureau",
+          "description": "Birth centenary of former Vice-Chancellor of ANU celebrated",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/need-to-strengthen-democracy-at-the-grassroots-official/article65934761.ece",
+          "publishedOn": "2022-09-25T18:49:21.000Z",
+          "wordCount": 6115,
+          "title": "Need to strengthen democracy at the grassroots: official",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/man-commits-suicide-in-live-video/article65935619.ece",
+          "author": "The Hindu Bureau",
+          "description": "THIRUVANANTHAPURAM",
+          "link": "https://www.thehindu.com/news/national/kerala/man-commits-suicide-in-live-video/article65935619.ece",
+          "publishedOn": "2022-09-25T18:48:13.000Z",
+          "wordCount": 5907,
+          "title": "Man commits suicide in live video",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/sa-cricket-team-arrives-in-capital-for-t20-match/article65935067.ece",
+          "author": "The Hindu Bureau",
+          "description": "Rohit Sharma-led team to reach capital on Monday",
+          "link": "https://www.thehindu.com/news/national/kerala/sa-cricket-team-arrives-in-capital-for-t20-match/article65935067.ece",
+          "publishedOn": "2022-09-25T18:47:58.000Z",
+          "wordCount": 6059,
+          "title": "SA cricket team arrives in capital for T20 match",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Thiruvananthapuram/anti-rabies-vaccination-drive-launched-in-capital/article65934417.ece",
+          "author": "The Hindu Bureau",
+          "description": "35 stray dogs were caught and vaccinated from Ambalathara  ward",
+          "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/anti-rabies-vaccination-drive-launched-in-capital/article65934417.ece",
+          "publishedOn": "2022-09-25T18:47:23.000Z",
+          "wordCount": 6109,
+          "title": "Anti-rabies vaccination drive launched in capital",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/ksrtc-to-launch-end-to-end-services-to-kochi-from-capital/article65934980.ece",
+          "author": "The Hindu Bureau",
+          "description": "THIRUVANANTHAPURAM",
+          "link": "https://www.thehindu.com/news/national/kerala/ksrtc-to-launch-end-to-end-services-to-kochi-from-capital/article65934980.ece",
+          "publishedOn": "2022-09-25T18:47:12.000Z",
+          "wordCount": 6022,
+          "title": "KSRTC to launch  end-to-end services to Kochi from capital",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/three-day-rally-of-congress-to-save-constitution-kicks-off-from-chennai/article65934440.ece",
+          "author": "The Hindu Bureau",
+          "description": "It will cover 75 km from Chennai to Sriperumbudur; RSS wants to destroy rights guaranteed under the Constitution, says Alagiri",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/three-day-rally-of-congress-to-save-constitution-kicks-off-from-chennai/article65934440.ece",
+          "publishedOn": "2022-09-25T18:46:30.000Z",
+          "wordCount": 6319,
+          "title": "Three-day rally of Congress to ‘Save Constitution’ kicks off from Chennai",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/ajajiw/article65935128.ece/alternates/LANDSCAPE_615/WhatsApp%20Image%202022-09-25%20at%2020.25.15.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/vasan-asks-police-to-arrest-culprits-of-molotov-cocktail-attacks/article65934478.ece",
+          "author": "The Hindu Bureau",
+          "description": "CHENNAI",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/vasan-asks-police-to-arrest-culprits-of-molotov-cocktail-attacks/article65934478.ece",
+          "publishedOn": "2022-09-25T18:41:50.000Z",
+          "wordCount": 5895,
+          "title": "Vasan asks police to arrest culprits of Molotov cocktail attacks",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-hearing-aids-distributed-free-of-cost-to-the-needy/article65935271.ece",
+          "author": "Rajulapudi Srinivas",
+          "description": "Deendayal Sravana Foundation organises programme to commemorate  birth anniversary of Pandit Deendayal Upadhyay",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-hearing-aids-distributed-free-of-cost-to-the-needy/article65935271.ece",
+          "publishedOn": "2022-09-25T18:14:17.000Z",
+          "wordCount": 6078,
+          "title": "Andhra Pradesh: Hearing aids distributed free of cost to the needy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/2nr3dv/article65935654.ece/alternates/LANDSCAPE_615/vjkvg-governor%20%282%29.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-concern-over-declining-water-quality-in-krishna/article65935226.ece",
+          "author": "P. Sujatha Varma",
+          "description": "Amaravati Walkers and Runners Association celebrates World Rivers Day",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-concern-over-declining-water-quality-in-krishna/article65935226.ece",
+          "publishedOn": "2022-09-25T17:53:42.000Z",
+          "wordCount": 6190,
+          "title": "Vijayawada: Concern over ‘declining water quality’ in Krishna",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/27ssu2/article65935620.ece/alternates/LANDSCAPE_615/3.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/bangalore/masjid-darshan-to-promote-religious-harmony/article65935092.ece",
+          "author": "The Hindu Bureau",
+          "description": "Bengaluru Members of various faiths and even atheists participated in the ‘Masjid Darshan’ programme",
+          "link": "https://www.thehindu.com/news/cities/bangalore/masjid-darshan-to-promote-religious-harmony/article65935092.ece",
+          "publishedOn": "2022-09-25T17:45:39.000Z",
+          "wordCount": 6039,
+          "title": "‘Masjid Darshan’ to promote religious harmony",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Hyderabad/600-students-participate-in-chemical-engineering-conference-in-nit-warangal/article65935069.ece",
+          "author": "Special Correspondent",
+          "description": "",
+          "link": "https://www.thehindu.com/news/cities/Hyderabad/600-students-participate-in-chemical-engineering-conference-in-nit-warangal/article65935069.ece",
+          "publishedOn": "2022-09-25T17:35:49.000Z",
+          "wordCount": 5959,
+          "title": "600 students participate in chemical engineering conference in NIT Warangal",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/in-gujarat-kejriwals-political-moves-keep-the-ruling-bjp-on-its-toes/article65935136.ece",
+          "author": "Mahesh Langa",
+          "description": "Aam Aadmi Party chief’s gimmicks have drawn sharp criticism from other parties",
+          "link": "https://www.thehindu.com/news/national/other-states/in-gujarat-kejriwals-political-moves-keep-the-ruling-bjp-on-its-toes/article65935136.ece",
+          "publishedOn": "2022-09-25T17:13:06.000Z",
+          "wordCount": 6532,
+          "title": "In Gujarat, Kejriwal’s political moves keep the ruling BJP on its toes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5npyi3/article65935536.ece/alternates/LANDSCAPE_615/PTI09_25_2022_000138A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Hyderabad/500-quintals-of-pds-rice-confiscated-two-lorries-seized/article65935492.ece",
+          "author": "The Hindu Bureau",
+          "description": "BHADRADRI KOTHAGUDEM",
+          "link": "https://www.thehindu.com/news/cities/Hyderabad/500-quintals-of-pds-rice-confiscated-two-lorries-seized/article65935492.ece",
+          "publishedOn": "2022-09-25T17:09:09.000Z",
+          "wordCount": 5857,
+          "title": "500 quintals of PDS rice confiscated, two lorries seized",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/man-commits-suicides-allegedly-after-being-harassed-by-cpim-leaders/article65934982.ece",
+          "author": "The Hindu Bureau",
+          "description": "PATHANAMTHITTA",
+          "link": "https://www.thehindu.com/news/national/kerala/man-commits-suicides-allegedly-after-being-harassed-by-cpim-leaders/article65934982.ece",
+          "publishedOn": "2022-09-25T17:08:35.000Z",
+          "wordCount": 5911,
+          "title": "Man commits suicide allegedly after being harassed by CPI(M) leaders",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-face-recognition-app-has-stabilised-attendance-system-in-schools-says-official/article65934934.ece",
+          "author": "P. Sujatha Varma",
+          "description": "Leaders of Andhra Pradesh Teachers Federation take legal recourse, seeking repeal of the new move",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-face-recognition-app-has-stabilised-attendance-system-in-schools-says-official/article65934934.ece",
+          "publishedOn": "2022-09-25T17:07:43.000Z",
+          "wordCount": 6335,
+          "title": "Andhra Pradesh: Face recognition app has stabilised attendance system in schools, says official",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/wsn25t/article65935281.ece/alternates/LANDSCAPE_615/digital_class_room_2.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/demolition-of-ramankary-bridge-begins/article65935011.ece",
+          "author": "The Hindu Bureau",
+          "description": "ALAPPUZHA",
+          "link": "https://www.thehindu.com/news/national/kerala/demolition-of-ramankary-bridge-begins/article65935011.ece",
+          "publishedOn": "2022-09-25T17:06:39.000Z",
+          "wordCount": 6123,
+          "title": "Demolition of Ramankary bridge begins",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/sharmila-hits-out-at-revanth-jagga/article65935401.ece",
+          "author": "Telangana Bureau",
+          "description": "She says she’s an arrow released by late YSR, not BJP or TRS",
+          "link": "https://www.thehindu.com/news/national/telangana/sharmila-hits-out-at-revanth-jagga/article65935401.ece",
+          "publishedOn": "2022-09-25T17:05:56.000Z",
+          "wordCount": 6014,
+          "title": "Sharmila hits out at Revanth, Jagga",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tech-shifts-could-alter-labour-cost-edge-in-global-trade-niti-adviser/article65934957.ece",
+          "author": "Vikas Dhoot",
+          "description": "Niti Aayog official flags trade impact due to digitisation of production and consumption processes",
+          "link": "https://www.thehindu.com/news/national/tech-shifts-could-alter-labour-cost-edge-in-global-trade-niti-adviser/article65934957.ece",
+          "publishedOn": "2022-09-25T17:03:22.000Z",
+          "wordCount": 6205,
+          "title": "Tech shifts could alter labour cost edge in global trade: Niti adviser",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/84jgs/article65935531.ece/alternates/LANDSCAPE_615/1516317237979.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/munugode-bypoll-forced-on-people-for-contractors-revanth/article65935322.ece",
+          "author": "The Hindu Bureau",
+          "description": "Hyderabad",
+          "link": "https://www.thehindu.com/news/national/telangana/munugode-bypoll-forced-on-people-for-contractors-revanth/article65935322.ece",
+          "publishedOn": "2022-09-25T17:01:20.000Z",
+          "wordCount": 6066,
+          "title": "Munugode bypoll forced on people for contractors: Revanth",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/mukul-rohatgi-declines-centres-offer-to-be-next-attorney-general-of-india/article65935429.ece",
+          "author": "The Hindu Bureau",
+          "description": "Mukul Rohatgi was expected to replace K.K. Venugopal as the Attorney General of India",
+          "link": "https://www.thehindu.com/news/national/mukul-rohatgi-declines-centres-offer-to-be-next-attorney-general-of-india/article65935429.ece",
+          "publishedOn": "2022-09-25T16:52:58.000Z",
+          "wordCount": 6077,
+          "title": "Mukul Rohatgi declines Centre’s offer to be next Attorney General of India",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pckzki/article65935435.ece/alternates/LANDSCAPE_615/43_Mukul_Rohatgi_at_Supreme_Court_19_05_Del.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/the-life-and-times-of-george-fernandes-released-in-bengaluru/article65935398.ece",
+          "author": "The Hindu Bureau",
+          "description": "BENGALURU",
+          "link": "https://www.thehindu.com/news/national/karnataka/the-life-and-times-of-george-fernandes-released-in-bengaluru/article65935398.ece",
+          "publishedOn": "2022-09-25T16:49:36.000Z",
+          "wordCount": 5965,
+          "title": "‘The Life and Times of George Fernandes’ released in Bengaluru",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/93gsr5/article65935513.ece/alternates/LANDSCAPE_615/George%20Gernandis.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/bjp-government-working-to-realise-the-dream-of-deendayal-upadhyaya-says-adityanath/article65934771.ece",
+          "author": "The Hindu Bureau",
+          "description": "The Uttar Pradesh government celebrated the 106th birth anniversary of Deendayal Upadhyaya",
+          "link": "https://www.thehindu.com/news/national/other-states/bjp-government-working-to-realise-the-dream-of-deendayal-upadhyaya-says-adityanath/article65934771.ece",
+          "publishedOn": "2022-09-25T16:48:04.000Z",
+          "wordCount": 6313,
+          "title": "BJP government working to realise the dream of Deendayal Upadhyaya, says Adityanath",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/q214jf/article65934950.ece/alternates/LANDSCAPE_615/PTI09_25_2022_000103B.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/azad-reaches-jammu-likely-to-launch-his-party-this-week/article65935360.ece",
+          "author": "PTI",
+          "description": "Mr. Azad said the name and the flag of the new party have been finalised",
+          "link": "https://www.thehindu.com/news/national/other-states/azad-reaches-jammu-likely-to-launch-his-party-this-week/article65935360.ece",
+          "publishedOn": "2022-09-25T16:26:44.000Z",
+          "wordCount": 6217,
+          "title": "Azad reaches Jammu; likely to launch his party this week",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1x1l0c/article65935454.ece/alternates/LANDSCAPE_615/DSC2807.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/uttar-pradesh-to-ban-placing-dead-bodies-on-road/article65935095.ece",
+          "author": "Mayank Kumar",
+          "description": "The law came into force after the Hathras episode when the victim was cremated by the district officials without the family’s consent",
+          "link": "https://www.thehindu.com/news/national/other-states/uttar-pradesh-to-ban-placing-dead-bodies-on-road/article65935095.ece",
+          "publishedOn": "2022-09-25T16:23:13.000Z",
+          "wordCount": 6270,
+          "title": "Uttar Pradesh to ban placing dead bodies on road",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/nq8ivl/article65935423.ece/alternates/LANDSCAPE_615/WhatsApp%20Image%202022-09-25%20at%2021.39.56.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/president-on-a-three-day-visit-to-karnataka/article65934724.ece",
+          "author": "The Hindu Bureau",
+          "description": "Bengaluru In her first visit to Karnataka after becoming President, Droupadi Murmu will be on a thre",
+          "link": "https://www.thehindu.com/news/national/karnataka/president-on-a-three-day-visit-to-karnataka/article65934724.ece",
+          "publishedOn": "2022-09-25T16:20:29.000Z",
+          "wordCount": 6025,
+          "title": "President on a three-day visit to Karnataka",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ge7ol9/article65935445.ece/alternates/LANDSCAPE_615/IMG_PM_Modi_meets_Presid_2_1_ATA9B7T4.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/tamil-nadu/p/article65935205.ece",
+          "author": "The Hindu Bureau",
+          "description": "Chennai",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/p/article65935205.ece",
+          "publishedOn": "2022-09-25T16:15:03.000Z",
+          "wordCount": 6240,
+          "title": "Will fight against raids and arrests legally and democratically: PFI leader",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/cdqu7x/article65935375.ece/alternates/LANDSCAPE_615/1831334f-04fe-4948-a614-1fa150b463e8.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/rajiv-gandhi-international-cricket-stadium-filled-to-capacity/article65935072.ece",
+          "author": "The Hindu Bureau",
+          "description": "This was the first international match held in Hyderabad after a gap of three years",
+          "link": "https://www.thehindu.com/news/national/telangana/rajiv-gandhi-international-cricket-stadium-filled-to-capacity/article65935072.ece",
+          "publishedOn": "2022-09-25T16:09:32.000Z",
+          "wordCount": 6229,
+          "title": "Rajiv Gandhi International Cricket Stadium filled to capacity",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3zjz6c/article65935409.ece/alternates/LANDSCAPE_615/India%20and%20Australia%20%2002.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/Hyderabad/podu-farmers-stage-protest-with-pesticide-bottles/article65935368.ece",
+          "author": "The Hindu Bureau",
+          "description": "Tribals vow to continue traditional ‘podu’ cultivation even as Forest officials dismiss their claims",
+          "link": "https://www.thehindu.com/news/cities/Hyderabad/podu-farmers-stage-protest-with-pesticide-bottles/article65935368.ece",
+          "publishedOn": "2022-09-25T16:05:28.000Z",
+          "wordCount": 6002,
+          "title": "‘Podu’ farmers stage protest with pesticide bottles",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/murder-six-iaf-officers-booked/article65934465.ece",
+          "author": "The Hindu Bureau",
+          "description": "Bengaluru",
+          "link": "https://www.thehindu.com/news/national/karnataka/murder-six-iaf-officers-booked/article65934465.ece",
+          "publishedOn": "2022-09-25T16:03:25.000Z",
+          "wordCount": 6189,
+          "title": "Murder: Six IAF officers booked",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/goshree-isles-bus-entry-issue-actor-writes-to-cm-350-women-to-take-out-night-walk-protest/article65935048.ece",
+          "author": "The Hindu Bureau",
+          "description": "Traffic congestion in city, Goshree bridges, and the isles will reduce if buses are permitted city entry, says Anna Ben",
+          "link": "https://www.thehindu.com/news/national/kerala/goshree-isles-bus-entry-issue-actor-writes-to-cm-350-women-to-take-out-night-walk-protest/article65935048.ece",
+          "publishedOn": "2022-09-25T16:01:14.000Z",
+          "wordCount": 6145,
+          "title": "Goshree isles bus entry issue: actor writes to CM; 350 women to take out ‘night walk’ protest",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/farmers-cautioned-against-putting-up-electrical-fencing-causing-deaths/article65935265.ece",
+          "author": "The Hindu Bureau",
+          "description": "Discom suggests farmers to install solar power fences or use loudspeakers to keep wild animals away",
+          "link": "https://www.thehindu.com/news/national/telangana/farmers-cautioned-against-putting-up-electrical-fencing-causing-deaths/article65935265.ece",
+          "publishedOn": "2022-09-25T16:00:17.000Z",
+          "wordCount": 6156,
+          "title": "Farmers cautioned against putting up electrical fencing causing deaths",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/paycm-campaign-expands-to-new-places-even-as-cm-distances-himself-from-caste-angle/article65935007.ece",
+          "author": "The Hindu Bureau",
+          "description": "Bommai says selfish Congress leaders are sacrificing the State’s interest by tarnishing the image just to come back to power; Siddaramaiah hits back",
+          "link": "https://www.thehindu.com/news/national/karnataka/paycm-campaign-expands-to-new-places-even-as-cm-distances-himself-from-caste-angle/article65935007.ece",
+          "publishedOn": "2022-09-25T15:55:43.000Z",
+          "wordCount": 6312,
+          "title": "PayCM campaign expands to new places even as CM distances himself from caste angle",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/other-states/bjp-mns-protest-against-pfi-for-allegedly-raising-pro-pakistan-slogans-in-maharashtra/article65934602.ece",
+          "author": "Shoumojit Banerjee",
+          "description": "They demanded that sedition charges be lodged against them and the outfit be banned",
+          "link": "https://www.thehindu.com/news/national/other-states/bjp-mns-protest-against-pfi-for-allegedly-raising-pro-pakistan-slogans-in-maharashtra/article65934602.ece",
+          "publishedOn": "2022-09-25T15:55:28.000Z",
+          "wordCount": 6716,
+          "title": "BJP, MNS protest against PFI for allegedly raising pro-Pakistan slogans in Maharashtra",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/97x2og/article65935310.ece/alternates/LANDSCAPE_615/PTI09_12_2022_000142B.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/election-commission-to-push-for-internal-democracy-within-parties/article65934733.ece",
+          "author": "Damini Nath",
+          "description": "EC does not have the power to deregister parties that fail to comply with the rules",
+          "link": "https://www.thehindu.com/news/national/election-commission-to-push-for-internal-democracy-within-parties/article65934733.ece",
+          "publishedOn": "2022-09-25T15:52:18.000Z",
+          "wordCount": 6293,
+          "title": "Election Commission to push for internal democracy within parties",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/27pvlk/article65935309.ece/alternates/LANDSCAPE_615/IMG_28ISTB_EC_LOGO_2_1_KC8CCCN6.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/combing-operations-launched-to-trap-tiger-on-the-prowl-in-kodagu/article65934819.ece",
+          "author": "The Hindu Bureau",
+          "description": "One person was killed in an estate in an attack on Saturday",
+          "link": "https://www.thehindu.com/news/national/karnataka/combing-operations-launched-to-trap-tiger-on-the-prowl-in-kodagu/article65934819.ece",
+          "publishedOn": "2022-09-25T15:51:04.000Z",
+          "wordCount": 6098,
+          "title": "Combing operations launched to trap tiger on the prowl in Kodagu",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-trial-run-of-sarva-bhoopala-vahanam-organised-at-tirumala/article65934605.ece",
+          "author": "G.P. Shukla",
+          "description": "TIRUMALA",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-trial-run-of-sarva-bhoopala-vahanam-organised-at-tirumala/article65934605.ece",
+          "publishedOn": "2022-09-25T15:47:31.000Z",
+          "wordCount": 6003,
+          "title": "Andhra Pradesh: Trial run of ‘Sarva Bhoopala Vahanam’ organised at Tirumala",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-vijayawada-sharjah-flight-service-from-october-31/article65934929.ece",
+          "author": "Tharun Boda",
+          "description": "Air India Express to operate it every Monday and Saturday",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-vijayawada-sharjah-flight-service-from-october-31/article65934929.ece",
+          "publishedOn": "2022-09-25T15:41:31.000Z",
+          "wordCount": 6185,
+          "title": "Andhra Pradesh: Vijayawada-Sharjah flight service from October 31",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/130-young-women-being-trained-for-job-sector-under-project-oorja/article65935258.ece",
+          "author": "The Hindu Bureau",
+          "description": "‘Project Oorja’ will provide young women with career guidance along with various other life skills, VOICE 4 Girls said",
+          "link": "https://www.thehindu.com/news/national/karnataka/130-young-women-being-trained-for-job-sector-under-project-oorja/article65935258.ece",
+          "publishedOn": "2022-09-25T15:41:00.000Z",
+          "wordCount": 6216,
+          "title": "130 young women being trained for job sector under ‘Project Oorja’",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/88ne1x/article65935242.ece/alternates/LANDSCAPE_615/Pic%201.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/kerala-to-raise-1436-crore-from-market/article65934964.ece",
+          "author": "The Hindu Bureau",
+          "description": "The State government intends to raise ₹1,436 crore from the market through auction of government sec",
+          "link": "https://www.thehindu.com/news/national/kerala/kerala-to-raise-1436-crore-from-market/article65934964.ece",
+          "publishedOn": "2022-09-25T15:34:42.000Z",
+          "wordCount": 5846,
+          "title": "Kerala to raise ₹1,436 crore from market",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/veteran-congress-leader-aryadan-mohammed-passes-away/article65935025.ece",
+          "author": "The Hindu Bureau",
+          "description": "MALAPPURAM",
+          "link": "https://www.thehindu.com/news/national/kerala/veteran-congress-leader-aryadan-mohammed-passes-away/article65935025.ece",
+          "publishedOn": "2022-09-25T15:27:34.000Z",
+          "wordCount": 6176,
+          "title": "Veteran Congress leader Aryadan Mohammed passes away",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-encouraging-competitive-bidding-in-fuel-purchase/article65934189.ece",
+          "author": "Ramesh Susarla",
+          "description": "A few dealers allege that there is more to it than meets the eye",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-encouraging-competitive-bidding-in-fuel-purchase/article65934189.ece",
+          "publishedOn": "2022-09-25T15:26:43.000Z",
+          "wordCount": 6278,
+          "title": "APSRTC encouraging ‘competitive bidding’ in fuel purchase",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/groundwater-level-up-by-426-metre-in-telangana-since-2014/article65934034.ece",
+          "author": "The Hindu Bureau",
+          "description": "83% mandals record rise in the resource",
+          "link": "https://www.thehindu.com/news/national/telangana/groundwater-level-up-by-426-metre-in-telangana-since-2014/article65934034.ece",
+          "publishedOn": "2022-09-25T15:22:53.000Z",
+          "wordCount": 6118,
+          "title": "Groundwater level up by 4.26 metre in Telangana since 2014",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/mvd-readies-7-point-scheme-to-catalyse-city-entry-of-buses-from-goshree-isles/article65934860.ece",
+          "author": "John L. Paul",
+          "description": "A stakeholder meeting to be held wherein bus routes through the city would be discussed",
+          "link": "https://www.thehindu.com/news/national/kerala/mvd-readies-7-point-scheme-to-catalyse-city-entry-of-buses-from-goshree-isles/article65934860.ece",
+          "publishedOn": "2022-09-25T15:20:50.000Z",
+          "wordCount": 6299,
+          "title": "MVD readies 7-point scheme to catalyse city entry of buses from Goshree isles",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qu9v5i/article65935187.ece/alternates/LANDSCAPE_615/6663_2-11-2020_17-7-4_1_GOSHREE01.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/kozhikode/development-of-lokanarkavu-temple-under-way/article65934832.ece",
+          "author": "The Hindu Bureau",
+          "description": "State government has sanctioned ₹4.5 crore for the project",
+          "link": "https://www.thehindu.com/news/cities/kozhikode/development-of-lokanarkavu-temple-under-way/article65934832.ece",
+          "publishedOn": "2022-09-25T15:19:19.000Z",
+          "wordCount": 6031,
+          "title": "Development of Lokanarkavu temple under way",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/6v4mt6/article65934925.ece/alternates/LANDSCAPE_615/Lokanarkavu.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/talking-politics-with-nistula-hebbar-vedanta-foxconn-unit-why-was-gujarat-chosen-over-maharashtra/article65935172.ece",
+          "author": "Nistula Hebbar",
+          "description": "In this episode of Talking Politics, Nistula Hebbar highlights the political implications of the semiconductor plant being set up in Gujarat, and how this has brought the age-old friction between Gujarat and Maharashtra to the fore.",
+          "link": "https://www.thehindu.com/news/national/talking-politics-with-nistula-hebbar-vedanta-foxconn-unit-why-was-gujarat-chosen-over-maharashtra/article65935172.ece",
+          "publishedOn": "2022-09-25T15:14:18.000Z",
+          "wordCount": 6144,
+          "title": "Talking Politics with Nistula Hebbar | Vedanta-Foxconn Unit | Why was Gujarat chosen over Maharashtra?",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/oli2ew/article65935161.ece/alternates/LANDSCAPE_615/Nistula%20Thumb%20Vedanta.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/police-inspect-businesses-in-kannur-to-ferret-out-hartal-conspirators-funders/article65934919.ece",
+          "author": "The Hindu Bureau",
+          "description": "Thiruvananthapuram",
+          "link": "https://www.thehindu.com/news/national/kerala/police-inspect-businesses-in-kannur-to-ferret-out-hartal-conspirators-funders/article65934919.ece",
+          "publishedOn": "2022-09-25T15:13:43.000Z",
+          "wordCount": 6151,
+          "title": "Police inspect businesses in Kannur to ferret out hartal conspirators, funders",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/inter-state-transfer-of-employees-between-ts-ap-heading-for-resolution/article65934103.ece",
+          "author": "M Rajeev",
+          "description": "AP CS addresses letter to Somesh Kumar to give consent for exchange of employees",
+          "link": "https://www.thehindu.com/news/national/telangana/inter-state-transfer-of-employees-between-ts-ap-heading-for-resolution/article65934103.ece",
+          "publishedOn": "2022-09-25T15:10:37.000Z",
+          "wordCount": 6157,
+          "title": "Inter-State transfer of employees between TS, AP heading for resolution?",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/bangalore/108-ambulance-services-hit-across-karnataka-due-to-technical-glitch-at-call-centre/article65934339.ece",
+          "author": "The Hindu Bureau",
+          "description": "While the issue has been rectified temporarily, a complete resolution is possible only by Monday, says GVK-EMRI CEO",
+          "link": "https://www.thehindu.com/news/cities/bangalore/108-ambulance-services-hit-across-karnataka-due-to-technical-glitch-at-call-centre/article65934339.ece",
+          "publishedOn": "2022-09-25T15:09:58.000Z",
+          "wordCount": 6501,
+          "title": "108 ambulance services hit across Karnataka due to technical glitch at call centre",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/w8qndc/article65935146.ece/alternates/LANDSCAPE_615/Abulance_strike.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/minister-inaugurates-seminar-against-drug-abuse/article65934938.ece",
+          "author": "Nandakumar T 6656",
+          "description": "Speakers at a seminar organised in connection with World Pharmacists’ Day in Thiruvananthapuram on S",
+          "link": "https://www.thehindu.com/news/national/kerala/minister-inaugurates-seminar-against-drug-abuse/article65934938.ece",
+          "publishedOn": "2022-09-25T15:05:31.000Z",
+          "wordCount": 5894,
+          "title": "Minister inaugurates seminar against drug abuse",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/low-key-mahisha-dasara-held-after-authorities-deny-permission-for-celebrations-atop-chamundi-hills/article65934835.ece",
+          "author": "The Hindu Bureau",
+          "description": "Mahisha Dasara was celebrated by offerring floral tributes to a portrait of Mahishasura, who is revered by them as a “great ruler of Mahisha Mandal”",
+          "link": "https://www.thehindu.com/news/national/karnataka/low-key-mahisha-dasara-held-after-authorities-deny-permission-for-celebrations-atop-chamundi-hills/article65934835.ece",
+          "publishedOn": "2022-09-25T15:03:10.000Z",
+          "wordCount": 6319,
+          "title": "Low-key Mahisha Dasara held after authorities deny permission for celebrations atop Chamundi Hills",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/rbotf2/article65935120.ece/alternates/LANDSCAPE_615/5964_25_9_2022_19_27_54_1_MAHISHADASARA.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/tributes-mark-rocket-scientist-satish-dhawans-102nd-birth-anniversary-at-sriharikota/article65934676.ece",
+          "author": "A.D. Rangarajan",
+          "description": "SDSC Director A. Rajarajan recall his services as the Chairman of Space Commission",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/tributes-mark-rocket-scientist-satish-dhawans-102nd-birth-anniversary-at-sriharikota/article65934676.ece",
+          "publishedOn": "2022-09-25T15:02:27.000Z",
+          "wordCount": 6148,
+          "title": "Tributes mark rocket scientist Satish Dhawan’s 102nd birth anniversary at Sriharikota",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5vc0ls/article65935111.ece/alternates/LANDSCAPE_615/5935_25_9_2022_18_26_19_2_25092022SATISHDHAWAN1.JPEG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/police-issue-advisory-on-fake-profiles-after-one-such-is-created-in-sanjiv-patils-name/article65934403.ece",
+          "author": "The Hindu Bureau",
+          "description": "Belagavi",
+          "link": "https://www.thehindu.com/news/national/karnataka/police-issue-advisory-on-fake-profiles-after-one-such-is-created-in-sanjiv-patils-name/article65934403.ece",
+          "publishedOn": "2022-09-25T15:01:42.000Z",
+          "wordCount": 6214,
+          "title": "Police issue advisory on fake profiles after one such is created in Sanjiv Patil’s name",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/world-space-week-celebrations/article65934882.ece",
+          "author": "The Hindu Bureau",
+          "description": "Quiz, lectures for students",
+          "link": "https://www.thehindu.com/news/national/kerala/world-space-week-celebrations/article65934882.ece",
+          "publishedOn": "2022-09-25T14:58:22.000Z",
+          "wordCount": 5882,
+          "title": "World Space Week celebrations",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/kcr-forced-to-enter-national-politics-to-escape-his-failures-kishan-reddy/article65934355.ece",
+          "author": "The Hindu Bureau",
+          "description": "‘No national leader takes the CM seriously’",
+          "link": "https://www.thehindu.com/news/national/telangana/kcr-forced-to-enter-national-politics-to-escape-his-failures-kishan-reddy/article65934355.ece",
+          "publishedOn": "2022-09-25T14:56:51.000Z",
+          "wordCount": 6232,
+          "title": "KCR forced to enter national politics to escape his failures: Kishan Reddy",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-three-gujarat-based-operators-arrested-in-loan-app-case/article65934468.ece",
+          "author": "The Hindu Bureau",
+          "description": "Rajamahendravaram couple ended their lives owing to harassment on September 7",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-three-gujarat-based-operators-arrested-in-loan-app-case/article65934468.ece",
+          "publishedOn": "2022-09-25T14:56:27.000Z",
+          "wordCount": 6066,
+          "title": "Andhra Pradesh: Three Gujarat-based operators arrested in loan app case",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/with-depleting-fighter-strength-indian-air-force-looks-to-speed-up-su-30-fleet-modernisation/article65934607.ece",
+          "author": "Dinakar Peri",
+          "description": "Efforts on to undertake most of the upgrades within the country, defence official says",
+          "link": "https://www.thehindu.com/news/national/with-depleting-fighter-strength-indian-air-force-looks-to-speed-up-su-30-fleet-modernisation/article65934607.ece",
+          "publishedOn": "2022-09-25T14:55:57.000Z",
+          "wordCount": 6624,
+          "title": "With depleting fighter strength, Indian Air Force looks to speed up Su-30 fleet modernisation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/eil3y2/article65935021.ece/alternates/LANDSCAPE_615/IMG_PTI05_12_2022_000130_2_1_IC9QA068.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/villagers-oppose-kiadbs-land-acquisition-move-in-hadinaaru/article65935055.ece",
+          "author": "The Hindu Bureau",
+          "description": "The people of the region met on Sunday and reiterated their resolve that they would not be swayed by compensation offers and would prefer to retain the land",
+          "link": "https://www.thehindu.com/news/national/karnataka/villagers-oppose-kiadbs-land-acquisition-move-in-hadinaaru/article65935055.ece",
+          "publishedOn": "2022-09-25T14:55:05.000Z",
+          "wordCount": 6245,
+          "title": "Villagers oppose KIADB’s land acquisition move in Hadinaaru",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/seminar-on-languages-and-culture-from-tomorrow/article65934798.ece",
+          "author": "The Hindu Bureau",
+          "description": "KALABURAGI",
+          "link": "https://www.thehindu.com/news/national/karnataka/seminar-on-languages-and-culture-from-tomorrow/article65934798.ece",
+          "publishedOn": "2022-09-25T14:52:39.000Z",
+          "wordCount": 5980,
+          "title": "Seminar on languages and culture from tomorrow",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/bjp-faces-challenge-from-regional-parties-says-jp-nadda/article65934932.ece",
+          "author": "The Hindu Bureau",
+          "description": "KOTTAYAM",
+          "link": "https://www.thehindu.com/news/national/kerala/bjp-faces-challenge-from-regional-parties-says-jp-nadda/article65934932.ece",
+          "publishedOn": "2022-09-25T14:38:36.000Z",
+          "wordCount": 6043,
+          "title": "BJP faces challenge from regional parties, says J.P. Nadda",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/andhra-pradesh/two-national-and-two-state-awards-for-nss-members-from-anantapur/article65934344.ece",
+          "author": "Ramesh Susarla",
+          "description": "JNTUA professor and volunteer receive best NSS officer and volunteer awards at national level",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-national-and-two-state-awards-for-nss-members-from-anantapur/article65934344.ece",
+          "publishedOn": "2022-09-25T14:38:05.000Z",
+          "wordCount": 6134,
+          "title": "Two national and two State awards for NSS members from Anantapur",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/belagavi-officers-to-be-feted-for-programme-implementation/article65934613.ece",
+          "author": "The Hindu Bureau",
+          "description": "Belagavi",
+          "link": "https://www.thehindu.com/news/national/karnataka/belagavi-officers-to-be-feted-for-programme-implementation/article65934613.ece",
+          "publishedOn": "2022-09-25T14:35:18.000Z",
+          "wordCount": 5944,
+          "title": "Belagavi officers to be feted for programme implementation",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/higher-secondary-teachers-oppose-khader-panel-report/article65934851.ece",
+          "author": "The Hindu Bureau",
+          "description": "Students’ interests main priority, says panel member",
+          "link": "https://www.thehindu.com/news/national/kerala/higher-secondary-teachers-oppose-khader-panel-report/article65934851.ece",
+          "publishedOn": "2022-09-25T14:34:53.000Z",
+          "wordCount": 6175,
+          "title": "Higher secondary teachers oppose Khader panel report",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/kerala-university-refuses-to-recommend-its-nominee-for-vice-chancellor-selection-panel/article65934776.ece",
+          "author": "Staff Reporter",
+          "description": "It conveys to Raj Bhavan Senate’s disinclination to take up issue for discussion again",
+          "link": "https://www.thehindu.com/news/national/kerala/kerala-university-refuses-to-recommend-its-nominee-for-vice-chancellor-selection-panel/article65934776.ece",
+          "publishedOn": "2022-09-25T14:27:26.000Z",
+          "wordCount": 6186,
+          "title": "Kerala University refuses to recommend its nominee for Vice Chancellor selection panel",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/sabarimala-road-maintenance-to-be-completed-before-october-15/article65934741.ece",
+          "author": "The Hindu Bureau",
+          "description": "A huge turnout of pilgrims expected this time during the Mandala-Makaravilakku festival season",
+          "link": "https://www.thehindu.com/news/national/kerala/sabarimala-road-maintenance-to-be-completed-before-october-15/article65934741.ece",
+          "publishedOn": "2022-09-25T14:27:10.000Z",
+          "wordCount": 6144,
+          "title": "Sabarimala road maintenance to be completed before October 15",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/change-in-lifestyle-only-solution-to-fight-climate-change/article65931162.ece",
+          "author": "The Hindu Bureau",
+          "description": "Indian Institute of Science professor says climate change will affect millions of human beings, flora and fauna",
+          "link": "https://www.thehindu.com/news/national/karnataka/change-in-lifestyle-only-solution-to-fight-climate-change/article65931162.ece",
+          "publishedOn": "2022-09-25T14:24:12.000Z",
+          "wordCount": 6199,
+          "title": "‘Change in lifestyle only solution to fight climate change’",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3l4pus/article65934972.ece/alternates/LANDSCAPE_615/2699_24_9_2022_19_34_16_2_25HUBLISDMCET_2.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/telangana/bandi-creating-venomous-atmosphere-in-telangana-bhatti/article65934460.ece",
+          "author": "The Hindu Bureau",
+          "description": "‘State BJP chief did not have answers for rising fuel prices, unemployment’",
+          "link": "https://www.thehindu.com/news/national/telangana/bandi-creating-venomous-atmosphere-in-telangana-bhatti/article65934460.ece",
+          "publishedOn": "2022-09-25T14:19:06.000Z",
+          "wordCount": 6135,
+          "title": "Bandi creating venomous atmosphere in Telangana: Bhatti",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/telangana/q9m1e1/article65934466.ece/alternates/LANDSCAPE_615/bhatti.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/tunnel-road-government-accords-sanction-for-land-acquisition-in-two-villages-in-kozhikode/article65934420.ece",
+          "author": "The Hindu Bureau",
+          "description": "Construction works to begin after securing final clearance from the Forest department; social impact assessment studies completed in Wayanad district",
+          "link": "https://www.thehindu.com/news/national/kerala/tunnel-road-government-accords-sanction-for-land-acquisition-in-two-villages-in-kozhikode/article65934420.ece",
+          "publishedOn": "2022-09-25T14:18:15.000Z",
+          "wordCount": 6149,
+          "title": "Tunnel road: Government accords sanction for land acquisition in two villages in Kozhikode",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/yadgir-native-appointed-director-of-aiims-new-delhi/article65934458.ece",
+          "author": "Ravikumar Naraboli",
+          "description": "YADGIR",
+          "link": "https://www.thehindu.com/news/national/karnataka/yadgir-native-appointed-director-of-aiims-new-delhi/article65934458.ece",
+          "publishedOn": "2022-09-25T14:15:12.000Z",
+          "wordCount": 6228,
+          "title": "Yadgir native appointed Director of AIIMS-New Delhi",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5235e5/article65934933.ece/alternates/LANDSCAPE_615/YDRKN_25_9_2022_17_39_11_1_IMG_20220924_WA0063.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/karnataka/police-book-11-after-conversion-victim-files-complaint/article65934051.ece",
+          "author": "The Hindu Bureau",
+          "description": "Sridhar Gangadhar of Mandya district says he developed complications after circumcision was performed by a quack",
+          "link": "https://www.thehindu.com/news/national/karnataka/police-book-11-after-conversion-victim-files-complaint/article65934051.ece",
+          "publishedOn": "2022-09-25T14:11:58.000Z",
+          "wordCount": 6129,
+          "title": "Police book 11 after conversion victim files complaint",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/kerala/webinar-on-e-commerce/article65934487.ece",
+          "author": "The Hindu Bureau",
+          "description": "KOLLAM",
+          "link": "https://www.thehindu.com/news/national/kerala/webinar-on-e-commerce/article65934487.ece",
+          "publishedOn": "2022-09-25T14:09:22.000Z",
+          "wordCount": 5839,
+          "title": "Webinar on e-commerce",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        }
+      ]
+    },
+    {
+      "title": "The Hindu - World",
+      "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "siteUrl": "https://www.thehindu.com/",
+      "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/italian-far-right-leaders-alliance-leading-vote-exit-poll/article65935863.ece",
+          "author": "AP",
+          "description": "Far-right leader Giorgia Meloni’s electoral alliance appears to hold a wide lead in Italy’s national vote, an exit poll on state television suggested shortly after polls closed",
+          "link": "https://www.thehindu.com/news/international/italian-far-right-leaders-alliance-leading-vote-exit-poll/article65935863.ece",
+          "publishedOn": "2022-09-25T21:49:04.000Z",
+          "wordCount": 6061,
+          "title": "Italian far-right leader’s alliance leading vote: Exit poll",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/abi5m7/article65935864.ece/alternates/LANDSCAPE_615/Italy_Elections_54569.jpg-55125.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/chinas-communist-party-elects-delegates-for-congress-as-xi-jinping-poised-for-third-term/article65934291.ece",
+          "author": "Ananth Krishnan",
+          "description": "The 2,296 delegates will attend the all-important event that is expected to further bolster the Chinese President Xi Jinping’s sway over the party",
+          "link": "https://www.thehindu.com/news/international/chinas-communist-party-elects-delegates-for-congress-as-xi-jinping-poised-for-third-term/article65934291.ece",
+          "publishedOn": "2022-09-25T16:42:40.000Z",
+          "wordCount": 6242,
+          "title": "Chinese Communist Party picks national congress delegates",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/4m0he9/article65934315.ece/alternates/LANDSCAPE_615/Uzbekistan_Xi_Putin_Summit_95039.jpg-e22a2.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/russia-vows-to-fix-mistakes-after-old-sick-people-mobilised/article65935261.ece",
+          "author": "AFP",
+          "description": "The Vladimir region governor Vladimir Avdeev already said on Saturday that “anyone mobilised by mistake will return home.”",
+          "link": "https://www.thehindu.com/news/international/russia-vows-to-fix-mistakes-after-old-sick-people-mobilised/article65935261.ece",
+          "publishedOn": "2022-09-25T16:37:20.000Z",
+          "wordCount": 6230,
+          "title": "Russia vows to fix mistakes after old, sick people mobilised",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/hklvxd/article65935317.ece/alternates/LANDSCAPE_615/AFP_32K38T4.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/far-right-eyes-historic-victory-as-italy-votes/article65935471.ece",
+          "author": "AFP",
+          "description": "\"I'm playing to win, not just to take part,\" Matteo Salvini, head of the far-right League, told reporters as he went to cast his ballot.",
+          "link": "https://www.thehindu.com/news/international/far-right-eyes-historic-victory-as-italy-votes/article65935471.ece",
+          "publishedOn": "2022-09-25T16:34:10.000Z",
+          "wordCount": 6166,
+          "title": "Far right eyes historic victory as Italy votes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3zh05e/article65935479.ece/alternates/LANDSCAPE_615/Italy_Elections_31765.jpg-824ab.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/iran-vows-no-leniency-against-wave-of-women-led-protests/article65935417.ece",
+          "author": "AFP",
+          "description": "Iran's largest protests in almost three years have been led by women, triggered by anger over the Islamic republic's strictly enforced gender-based dress code.",
+          "link": "https://www.thehindu.com/news/international/iran-vows-no-leniency-against-wave-of-women-led-protests/article65935417.ece",
+          "publishedOn": "2022-09-25T16:25:45.000Z",
+          "wordCount": 6168,
+          "title": "Iran vows &#039;no leniency&#039; against wave of women-led protests",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/w7he7t/article65935424.ece/alternates/LANDSCAPE_615/000_32K39FT.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/powerful-typhoon-hits-north-philippines-thousands-evacuated/article65935380.ece",
+          "author": "AP",
+          "description": "Thousands of villagers were evacuated — some forcibly — from the typhoon's path, as well as from mountainside villages prone to landslides and flash floods.",
+          "link": "https://www.thehindu.com/news/international/powerful-typhoon-hits-north-philippines-thousands-evacuated/article65935380.ece",
+          "publishedOn": "2022-09-25T16:04:41.000Z",
+          "wordCount": 6419,
+          "title": "Powerful typhoon hits north Philippines, thousands evacuated",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bpmyv5/article65935400.ece/alternates/LANDSCAPE_615/2022-09-25T115358Z_1676348652_RC28OW96FPAZ_RTRMADP_3_ASIA-STORM-PHILIPPINES.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/uae-signs-energy-agreement-with-germanys-scholz-state-news-agency/article65934402.ece",
+          "author": "Reuters",
+          "description": "The president of the United Arab Emirates, Sheikh Mohammed bin Zayed al-Nahyan, has signed an agreem",
+          "link": "https://www.thehindu.com/news/international/uae-signs-energy-agreement-with-germanys-scholz-state-news-agency/article65934402.ece",
+          "publishedOn": "2022-09-25T16:00:10.000Z",
+          "wordCount": 5973,
+          "title": "UAE signs energy agreement with Germany&#039;s Scholz - state news agency",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/hyajpo/article65935374.ece/alternates/LANDSCAPE_615/Emirates_Germany_23792.jpg-56b1c.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/an-inspiration-tributes-to-uks-late-queen-elizabeth-at-un-meeting/article65935135.ece",
+          "author": "AP",
+          "description": "Britain’s Queen Elizabeth II passed away on September 8, 2022",
+          "link": "https://www.thehindu.com/news/international/an-inspiration-tributes-to-uks-late-queen-elizabeth-at-un-meeting/article65935135.ece",
+          "publishedOn": "2022-09-25T15:19:48.000Z",
+          "wordCount": 6919,
+          "title": "&#039;An inspiration&#039;: Tributes to U.K.&#039;s late Queen Elizabeth at U.N. meeting",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/wiuxvf/article65935157.ece/alternates/LANDSCAPE_615/2022-09-23T143121Z_1904002494_RC20NW93SXOI_RTRMADP_3_BRITAIN-ROYALS-QUEEN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/canada-sends-troops-to-help-clear-fionas-devastation/article65935004.ece",
+          "author": "AP",
+          "description": "Government officials across Eastern Canada were assessing the full scope of damage caused by the storm now that the fierce winds have subsided in most place",
+          "link": "https://www.thehindu.com/news/international/canada-sends-troops-to-help-clear-fionas-devastation/article65935004.ece",
+          "publishedOn": "2022-09-25T14:36:16.000Z",
+          "wordCount": 6761,
+          "title": "Canada sends troops to help clear Fiona&#039;s devastation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ishw6u/article65935026.ece/alternates/LANDSCAPE_615/IMG_Tropical_Weather_Can_2_1_VLAALN94.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/many-dead-dozens-missing-after-boat-carrying-hindu-devotees-sinks-in-bangladesh/article65934362.ece",
+          "author": "PTI",
+          "description": "Passengers said more than 70 people had been on board",
+          "link": "https://www.thehindu.com/news/international/many-dead-dozens-missing-after-boat-carrying-hindu-devotees-sinks-in-bangladesh/article65934362.ece",
+          "publishedOn": "2022-09-25T14:14:52.000Z",
+          "wordCount": 6183,
+          "title": "Boat carrying Hindu devotees to temple capsizes in Bangladesh; 24 killed, several missing: Official",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pf8lqs/article65934907.ece/alternates/LANDSCAPE_615/Del6341264.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/very-premature-to-comment-on-india-getting-a-veto-at-unsc-jaishankar/article65934688.ece",
+          "author": "Sriram Lakshman",
+          "description": "India has been campaigning hard, including this past week, for a permanent seat at the Security Council",
+          "link": "https://www.thehindu.com/news/international/very-premature-to-comment-on-india-getting-a-veto-at-unsc-jaishankar/article65934688.ece",
+          "publishedOn": "2022-09-25T13:49:23.000Z",
+          "wordCount": 6517,
+          "title": "Very premature to comment on India getting a UNSC veto: Jaishankar",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bxgb1k/article65934826.ece/alternates/LANDSCAPE_615/AP09_25_2022_000011A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/south-asian-origin-women-unite-against-senseless-violence-in-leicester/article65934479.ece",
+          "author": "PTI",
+          "description": "According to local media reports, they gathered outside the Town Hall in the centre of Leicester where Indian-origin councillor Rita Patel read out a joint statement",
+          "link": "https://www.thehindu.com/news/international/south-asian-origin-women-unite-against-senseless-violence-in-leicester/article65934479.ece",
+          "publishedOn": "2022-09-25T13:29:19.000Z",
+          "wordCount": 6489,
+          "title": "South Asian origin women unite against ‘senseless violence’ in Leicester",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/rtoup7/article53392100.ece/alternates/LANDSCAPE_615/Domestic-violence"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/fire-breaks-out-at-worlds-biggest-produce-market-in-paris/article65934694.ece",
+          "author": "AP",
+          "description": "The sprawling wholesale market in Paris is a veritable town unto itself, with more than 12,000 people working there",
+          "link": "https://www.thehindu.com/news/international/fire-breaks-out-at-worlds-biggest-produce-market-in-paris/article65934694.ece",
+          "publishedOn": "2022-09-25T13:23:26.000Z",
+          "wordCount": 6026,
+          "title": "Fire breaks out at world&#039;s biggest produce market in Paris",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qflofs/article65934712.ece/alternates/LANDSCAPE_615/000_32K39C9.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/russia-backs-india-brazil-for-permanent-membership-in-un-security-council/article65933617.ece",
+          "author": "PTI",
+          "description": "India is currently halfway through the second year of its two-year term as an elected non-permanent member of the UN Security Council.",
+          "link": "https://www.thehindu.com/news/international/russia-backs-india-brazil-for-permanent-membership-in-un-security-council/article65933617.ece",
+          "publishedOn": "2022-09-25T13:11:39.000Z",
+          "wordCount": 6559,
+          "title": "Russia backs India, Brazil for permanent membership in U.N. Security Council",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/qe5pee/article65933628.ece/alternates/LANDSCAPE_615/2022-09-24T215350Z_1274104190_RC2VNW9U77N4_RTRMADP_3_UKRAINE-CRISIS-UN-LAVROV.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/retired-senior-army-officer-shot-dead-by-myanmar-guerrrilla/article65934446.ece",
+          "author": "AP",
+          "description": "Ohn Thwin is believed to be the highest-ranking active or retired military officer assassinated since February last year, when the army seized power from the elected government",
+          "link": "https://www.thehindu.com/news/international/retired-senior-army-officer-shot-dead-by-myanmar-guerrrilla/article65934446.ece",
+          "publishedOn": "2022-09-25T12:27:34.000Z",
+          "wordCount": 6471,
+          "title": "Retired senior army officer shot dead by Myanmar guerrrilla",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ae9aeg/article65934497.ece/alternates/LANDSCAPE_615/2022-09-16T121001Z_1771512837_RC2BIW9XKN67_RTRMADP_3_MYANMAR-UN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/iran-summons-uk-and-norway-ambassadors-amid-violent-unrest/article65934368.ece",
+          "author": "AP",
+          "description": "Iran’s Foreign Ministry says it has summoned Britain's ambassador to protest what it described as a hostile atmosphere created by London-based Farsi language media outlets",
+          "link": "https://www.thehindu.com/news/international/iran-summons-uk-and-norway-ambassadors-amid-violent-unrest/article65934368.ece",
+          "publishedOn": "2022-09-25T11:59:42.000Z",
+          "wordCount": 6204,
+          "title": "Iran summons U.K. and Norway ambassadors amid violent unrest",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/hyhak9/article65934407.ece/alternates/LANDSCAPE_615/AFP_32K33DT.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/pakistan-government-leaders-leaked-audio-clips-raise-security-concern-in-the-country/article65934255.ece",
+          "author": "PTI",
+          "description": "Pakistan PM Shahbaz Sharif, several ministers and PML-N leaders are heard talking about Finance Minister Miftah Ismail in some of the purported audio clips",
+          "link": "https://www.thehindu.com/news/international/pakistan-government-leaders-leaked-audio-clips-raise-security-concern-in-the-country/article65934255.ece",
+          "publishedOn": "2022-09-25T11:31:15.000Z",
+          "wordCount": 6435,
+          "title": "Pakistan government leaders’ leaked audio clips raise security concern in the country",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/f1b5sf/article65934312.ece/alternates/LANDSCAPE_615/Uzbekistan_Xi_Putin_Summit_58081.jpg-f5f4c.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/al-shabaab-suicide-attack-kills-7-in-somalia/article65934253.ece",
+          "author": "AFP",
+          "description": "Al-Shabaab, an extremist Islamist group linked to Al-Qaeda, has been waging an insurgency against the Somali state for 15 years.",
+          "link": "https://www.thehindu.com/news/international/al-shabaab-suicide-attack-kills-7-in-somalia/article65934253.ece",
+          "publishedOn": "2022-09-25T11:00:14.000Z",
+          "wordCount": 6177,
+          "title": "Al-Shabaab suicide attack kills 7 in Somalia",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/p66p5v/article65934273.ece/alternates/LANDSCAPE_615/AFP_32GV9LP.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/free-trade-talks-in-final-phase-with-diwali-deadline-in-sight-says-london-lord-mayor/article65933584.ece",
+          "author": "PTI",
+          "description": "The timeline had been set during former British Prime Minister Boris Johnson's visit to India in April",
+          "link": "https://www.thehindu.com/news/international/free-trade-talks-in-final-phase-with-diwali-deadline-in-sight-says-london-lord-mayor/article65933584.ece",
+          "publishedOn": "2022-09-25T08:54:58.000Z",
+          "wordCount": 6564,
+          "title": "Free trade talks in final phase with Diwali deadline in sight, says London Lord Mayor",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/q4qebl/article65933601.ece/alternates/LANDSCAPE_615/Lord%20Mayor%20London.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/terror-listings-at-un-blocked-without-assigning-reason-challenges-common-sense-says-jaishankar/article65933825.ece",
+          "author": "PTI",
+          "description": "“We are trying to get across our message that terrorism is not political. It should not be used as a political tool, its consequences should not be made political”",
+          "link": "https://www.thehindu.com/news/national/terror-listings-at-un-blocked-without-assigning-reason-challenges-common-sense-says-jaishankar/article65933825.ece",
+          "publishedOn": "2022-09-25T07:23:11.000Z",
+          "wordCount": 6805,
+          "title": "Terror listings at U.N. blocked without assigning reason challenges common sense, says Jaishankar",
+          "imageUrl": "https://th-i.thgim.com/public/latest-news/surass/article65932268.ece/alternates/LANDSCAPE_615/Jaishankar.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/us-spy-satellite-launched-into-orbit-from-california/article65933470.ece",
+          "author": "AP",
+          "description": "The NROL-91 spy satellite lifted off at 3.25 p.m. from Vandenberg Space Force Base in California",
+          "link": "https://www.thehindu.com/news/international/us-spy-satellite-launched-into-orbit-from-california/article65933470.ece",
+          "publishedOn": "2022-09-25T03:10:57.000Z",
+          "wordCount": 6057,
+          "title": "U.S. spy satellite launched into orbit from California",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1g345/article65933472.ece/alternates/LANDSCAPE_615/Spy_Satellite_58677.jpg-ed182.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-25-2022/article65932047.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-25-2022/article65932047.ece",
+          "publishedOn": "2022-09-25T02:26:15.000Z",
+          "wordCount": 6826,
+          "title": "Morning Digest | Congress Legislature Party to meet in Jaipur today; India on the side that respects U.N. charter, says EAM Jaishankar, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/kxxgpv/article65931884.ece/alternates/LANDSCAPE_615/PTI09_06_2022_000096A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/north-korea-fires-ballistic-missile-ahead-of-us-vp-harris-visit-to-seoul/article65933404.ece",
+          "author": "Reuters",
+          "description": "South Korea's military said it was a single, short-range ballistic missile",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-ballistic-missile-ahead-of-us-vp-harris-visit-to-seoul/article65933404.ece",
+          "publishedOn": "2022-09-25T01:47:51.000Z",
+          "wordCount": 6294,
+          "title": "North Korea fires ballistic missile ahead of U.S. VP Harris’ visit to Seoul",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/s0i5e2/article65933407.ece/alternates/LANDSCAPE_615/2022-09-25T012151Z_1629373089_RC20OW9L20RZ_RTRMADP_3_NORTHKOREA-MISSILES.JPG"
+        }
+      ]
+    },
+    {
+      "title": "India News | Latest News Headlines & Live Updates from India - Times of India",
+      "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+      "siteUrl": "https://timesofindia.indiatimes.com/india",
+      "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-chandigarh-airport-to-be-named-after-bhagat-singh/articleshow/94441836.cms",
           "author": null,
-          "description": "The Aniplex Online Fest 2022 event unveiled the main cast, staff, a character visual (pictured), and first promotional video for the new television anime adaptation of Nobuhiro Watsuki's Rurouni Kenshin: Meiji Kenkaku Romantan (Rurouni Kenshin: Meiji Swordsman Romantic Story) manga on Saturday. The new anime series will premiere on Fuji TV's noitaminA programming block in 2023. Souma Saitou (Yuukoku no Moriarty) and Rie Takahashi (Re:Zero kara Hajimeru Isekai Seikatsu) are starring as...",
-          "link": "https://myanimelist.net/news/67542620?_location=rss",
-          "publishedOn": "2022-09-24T05:04:50.000Z",
-          "wordCount": 3920,
-          "title": "New 'Rurouni Kenshin' TV Anime Unveils Cast, Staff, 2023 Premiere",
-          "imageUrl": "https://cdn.myanimelist.net/s/common/uploaded_files/1663995793-1143f1e9dc9d1c3ed8c083793f9727c8.jpeg"
+          "description": "India News: NEW DELHI: PM Narendra Modi on Sunday announced the decision to rename Chandigarh airport after Shaheed Bhagat Singh.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-chandigarh-airport-to-be-named-after-bhagat-singh/articleshow/94441836.cms",
+          "publishedOn": "2022-09-26T00:53:42.000Z",
+          "wordCount": 6182,
+          "title": "PM: Chandigarh airport to be named after Bhagat Singh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-more-talks-post-congress-poll/articleshow/94441725.cms",
+          "author": null,
+          "description": "India News: NEW DELHI/PATNA: Bihar CM Nitish Kumar and RJD patriarch Lalu Prasad on Sunday met Congress president Sonia Gandhi to discuss the contours of oppositi.",
+          "link": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-more-talks-post-congress-poll/articleshow/94441725.cms",
+          "publishedOn": "2022-09-26T00:39:52.000Z",
+          "wordCount": 6147,
+          "title": "Lalu, Nitish meet Sonia, more talks post Congress poll",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441765,width-1070,height-580,imgsize-1509378,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/55-afghan-sikhs-hindus-reach-delhi-by-special-flight/articleshow/94441433.cms",
+          "author": null,
+          "description": "As 55 men, women and children landed in Delhi, the number of those from the Sikh community remaining in Afghanistan number just a little over 40 with most of them staying back to protect and care for the \"Guru Granth Sahib\" amid the ongoing impasse with the Taliban regime which has refused to allow the religious scriptures to be taken out citing them to be the heritage of Afghanistan.",
+          "link": "https://timesofindia.indiatimes.com/india/55-afghan-sikhs-hindus-reach-delhi-by-special-flight/articleshow/94441433.cms",
+          "publishedOn": "2022-09-25T23:37:36.000Z",
+          "wordCount": 6555,
+          "title": "55 Afghan Sikhs, Hindus reach Delhi by special flight",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441445,width-1070,height-580,imgsize-1323275,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-a-1st-sign-language-made-part-of-curriculum-modi/articleshow/94441383.cms",
+          "author": null,
+          "description": "India News: NEW DELHI : PM Narendra Modi on Sunday said that for the first time in the country, sign language is being included as a subject in academic curriculu.",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-1st-sign-language-made-part-of-curriculum-modi/articleshow/94441383.cms",
+          "publishedOn": "2022-09-25T23:21:53.000Z",
+          "wordCount": 5885,
+          "title": "In a 1st, sign language made part of curriculum: Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441392,width-1070,height-580,imgsize-742163,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cghs-per-capita-spend-6x-of-general-populations/articleshow/94441353.cms",
+          "author": null,
+          "description": "The Union government spends over Rs 11,800 per capita on providing comprehensive healthcare to over 34 lakh of its employees and pensioners, while states and the Centre put together spend Rs 1,815 per capita on health for India’s population of nearly 140 crore, according to data from the recently released National Health Accounts, 2018-19.",
+          "link": "https://timesofindia.indiatimes.com/india/cghs-per-capita-spend-6x-of-general-populations/articleshow/94441353.cms",
+          "publishedOn": "2022-09-25T23:19:53.000Z",
+          "wordCount": 6913,
+          "title": "CGHS per capita spend 6x of general population’s",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441363,width-1070,height-580,imgsize-950734,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/at-844-sex-ratio-at-birth-worst-in-uttarakhand-best-in-kerala-with-974/articleshow/94441275.cms",
+          "author": null,
+          "description": "Uttarakhand’s sex ratio (number of females per 1,000 males) at birth was found to be the worst in the country at 844, and Kerala’s the best, at 974, according to the Sample Registration System Statistical Report 2020. The report, released by the Registrar General of India (RGI) on September 22, stated that the country’s overall sex ratio at birth had gone up by three points to 907 in 2018-20 from 904 in 2017-19.",
+          "link": "https://timesofindia.indiatimes.com/india/at-844-sex-ratio-at-birth-worst-in-uttarakhand-best-in-kerala-with-974/articleshow/94441275.cms",
+          "publishedOn": "2022-09-25T22:52:55.000Z",
+          "wordCount": 6803,
+          "title": "At 844, sex ratio at birth worst in Uttarakhand; best in Kerala with 974",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441272,width-1070,height-580,imgsize-1094281,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cancer-medicines-may-get-cheaper-indian-uicc-prez/articleshow/94441232.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: The treatment for cancer, which often goes on for years, drains the families of the patient mentally and takes a toll on their finances.",
+          "link": "https://timesofindia.indiatimes.com/india/cancer-medicines-may-get-cheaper-indian-uicc-prez/articleshow/94441232.cms",
+          "publishedOn": "2022-09-25T22:29:50.000Z",
+          "wordCount": 6003,
+          "title": "Cancer medicines may get cheaper: Indian UICC president",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441248,width-1070,height-580,imgsize-736539,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-used-abu-dhabi-restaurant-as-hub-for-hawala-deals-ed/articleshow/94441172.cms",
+          "author": null,
+          "description": "Popular Front of India (PFI) officebearers, many of whom have been in detention, used Abu Dhabi’s Darbar restaurant as the den for all hawala transactions and their illegal transfer to India, ED has said. This is contrary to the claims made by PFI that most of the Rs 120 crore it had received came through petty cash donations in India.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-used-abu-dhabi-restaurant-as-hub-for-hawala-deals-ed/articleshow/94441172.cms",
+          "publishedOn": "2022-09-25T21:52:08.000Z",
+          "wordCount": 6718,
+          "title": "PFI used Abu Dhabi restaurant as hub for hawala deals: ED",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441173,width-1070,height-580,imgsize-1636377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/real-revolt-or-fixed-match-rajasthan-congress-unit-keeps-all-guessing/articleshow/94440916.cms",
+          "author": null,
+          "description": "If Gehlot does contest the internal polls, then many believe the message would be that the so-called revolt was actually a \"fixed match\" between the Central and state brass to demonstrate who among the aspirants had the acceptability to lead the party in Rajasthan. But if Gehlot backs out, then it would be seen as a genuine revolt whereby the state leadership virtually seceded from the already weakened high command, and refused to accept its writ.",
+          "link": "https://timesofindia.indiatimes.com/india/real-revolt-or-fixed-match-rajasthan-congress-unit-keeps-all-guessing/articleshow/94440916.cms",
+          "publishedOn": "2022-09-25T21:08:47.000Z",
+          "wordCount": 6464,
+          "title": "Real revolt or fixed match? Rajasthan Congress unit keeps all guessing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440927,width-1070,height-580,imgsize-1283523,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bis-road-safety-benchmarks-for-nhs-state-roads-soon/articleshow/94440772.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: In a first, the Bureau of Indian Standards (BIS) will establish a National Road Safety Code for national highways (NHs), expressways, state.",
+          "link": "https://timesofindia.indiatimes.com/india/bis-road-safety-benchmarks-for-nhs-state-roads-soon/articleshow/94440772.cms",
+          "publishedOn": "2022-09-25T20:02:06.000Z",
+          "wordCount": 5899,
+          "title": "BIS road safety benchmarks for NHs, state roads soon",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440813,width-1070,height-580,imgsize-1491940,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/can-scale-up-output-of-tejas-fighters-for-exports-operational-needs-say-officials/articleshow/94440646.cms",
+          "author": null,
+          "description": "India can scale up production of the indigenous Tejas light combat aircraft to meet operational requirements and export orders, defence ministry officials said. The single-engine Tejas fighter is already the frontrunner to bag a Malaysian order for 18 light twin-seat fighter trainers despite strong competition from Chinese JF-17, South Korean FA-50 and Russian MiG-35 and Yak-130 jets.",
+          "link": "https://timesofindia.indiatimes.com/india/can-scale-up-output-of-tejas-fighters-for-exports-operational-needs-say-officials/articleshow/94440646.cms",
+          "publishedOn": "2022-09-25T19:36:32.000Z",
+          "wordCount": 6580,
+          "title": "Can scale up output of Tejas fighters for exports, operational needs, say officials",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440738,width-1070,height-580,imgsize-494863,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-why-congress-mlas-are-threatening-to-quit/articleshow/94438682.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Rajasthan has plunged into yet another political crisis as over 80 Congress MLAs close to chief minister Ashok Gehlot have threatened to su.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-why-congress-mlas-are-threatening-to-quit/articleshow/94438682.cms",
+          "publishedOn": "2022-09-25T16:05:26.000Z",
+          "wordCount": 7161,
+          "title": "Rajasthan political crisis: Why Congress MLAs are threatening to quit?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94438721,width-1070,height-580,imgsize-32380,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mukul-rohatgi-declines-centres-offer-to-be-next-attorney-general/articleshow/94438632.cms",
+          "author": null,
+          "description": "Senior advocate Mukul Rohatgi has declined Centre's offer to be appointed as the Attorney General for India.  Venugopal had succeeded Rohatgi as AG in June 2017 after the Union government had expressed reservations towards giving him a two year extension beyond the stipulated three year term.",
+          "link": "https://timesofindia.indiatimes.com/india/mukul-rohatgi-declines-centres-offer-to-be-next-attorney-general/articleshow/94438632.cms",
+          "publishedOn": "2022-09-25T15:58:28.000Z",
+          "wordCount": 5461,
+          "title": "Mukul Rohatgi declines Centre's offer to return as attorney general",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94438654,width-1070,height-580,imgsize-32680,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gujarat-poll-outreach-kejriwal-invites-dalit-man-kin-for-meal-at-his-delhi-home/articleshow/94438098.cms",
+          "author": null,
+          "description": "Delhi chief minister and Aam Aadmi Party national convener Arvind Kejriwal on Sunday invited a Dalit man and his family from Gujarat to his residence in the national capital for a meal. During a town hall with sanitation workers predominantly from the Dalit community here, a participant named Harsh Solanki said he saw Kejriwal recently accept a dinner invitation from an autorickshaw driver during his town hall in Ahmedabad, and sought to know if the latter would come to his home for a meal.",
+          "link": "https://timesofindia.indiatimes.com/india/gujarat-poll-outreach-kejriwal-invites-dalit-man-kin-for-meal-at-his-delhi-home/articleshow/94438098.cms",
+          "publishedOn": "2022-09-25T15:09:26.000Z",
+          "wordCount": 6605,
+          "title": "Gujarat poll outreach: Kejriwal invites Dalit man, kin for meal at his Delhi home",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94438097,width-1070,height-580,imgsize-69342,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-mumbais-shivaji-park-matters-for-shiv-sena/articleshow/94438063.cms",
+          "author": null,
+          "description": "India News: MUMBAI: What has politics in Maharashtra got to do with Mumbai's Shivaji Park? A lot, historians and political analysts say.",
+          "link": "https://timesofindia.indiatimes.com/india/why-mumbais-shivaji-park-matters-for-shiv-sena/articleshow/94438063.cms",
+          "publishedOn": "2022-09-25T15:04:54.000Z",
+          "wordCount": 7810,
+          "title": "Why Mumbai's Shivaji Park matters for Shiv Sena",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94438147,width-1070,height-580,imgsize-1791811,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/world-seeing-india-as-inspirational-place-in-space-sector-isro-chief/articleshow/94436557.cms",
+          "author": null,
+          "description": "India News: CHENNAI: The world is looking at India as an inspirational place with what the country has achieved in the space sector in the last 60 years, chairman.",
+          "link": "https://timesofindia.indiatimes.com/india/world-seeing-india-as-inspirational-place-in-space-sector-isro-chief/articleshow/94436557.cms",
+          "publishedOn": "2022-09-25T14:39:50.000Z",
+          "wordCount": 6425,
+          "title": "World seeing India as inspirational place in space sector: ISRO chief",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94437689,width-1070,height-580,imgsize-40732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-say-focus-on-uniting-opposition-parties-to-defeat-bjp/articleshow/94437574.cms",
+          "author": null,
+          "description": "Bihar chief minister Nitish Kumar and RJD supremo Lalu Prasad Yadav met Congress president Sonia Gandhi here on Sunday and pitched for bringing all opposition parties together to defeat the BJP in 2024.",
+          "link": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-say-focus-on-uniting-opposition-parties-to-defeat-bjp/articleshow/94437574.cms",
+          "publishedOn": "2022-09-25T14:22:15.000Z",
+          "wordCount": 6486,
+          "title": "Lalu, Nitish meet Sonia; say focus on uniting opposition parties to defeat BJP",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94437923,width-1070,height-580,imgsize-32030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ins-satpura-showcases-her-prowess-during-exercise-kakadu-in-australia/articleshow/94436784.cms",
+          "author": null,
+          "description": "India's indigenously designed and built naval ship INS Satpura has showcased her prowess during the ongoing multinational Exercise Kakadu-2022, hosted by the Royal Australian Navy. \"The ship participated in various anti-submarine warfare exercises, anti-ship warfare exercises, manoeuvres and has also showcased her precise target destruction capability during gun firing exercises,\" a Navy official said on Sunday.",
+          "link": "https://timesofindia.indiatimes.com/india/ins-satpura-showcases-her-prowess-during-exercise-kakadu-in-australia/articleshow/94436784.cms",
+          "publishedOn": "2022-09-25T13:31:39.000Z",
+          "wordCount": 5936,
+          "title": "INS Satpura showcases her prowess during 'Exercise Kakadu' in Australia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94436771,width-1070,height-580,imgsize-47162,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bihar-chief-minister-nitish-rjd-supremo-lalu-meet-congress-president-sonia/articleshow/94436637.cms",
+          "author": null,
+          "description": "Bihar chief minister Nitish Kumar and RJD supremo Lalu Prasad Yadav on Sunday met Congress president Sonia Gandhi here in a bid to unite Opposition parties to take on the BJP in the 2024 general elections.",
+          "link": "https://timesofindia.indiatimes.com/india/bihar-chief-minister-nitish-rjd-supremo-lalu-meet-congress-president-sonia/articleshow/94436637.cms",
+          "publishedOn": "2022-09-25T13:22:27.000Z",
+          "wordCount": 6019,
+          "title": "Bihar chief minister Nitish, RJD supremo Lalu meet Congress president Sonia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94436719,width-1070,height-580,imgsize-1609502,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-cm-gehlot-fuels-leadership-change-buzz-pilot-supporters-upbeat/articleshow/94435652.cms",
+          "author": null,
+          "description": "Is Rajasthan set to witness a leadership change? As chief minister Ashok Gehlot prepares to contest the Congress presidential election, the buzz that his former deputy and bete noir Sachin Pilot could replace him for the top post has reached a feverish pitch.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-cm-gehlot-fuels-leadership-change-buzz-pilot-supporters-upbeat/articleshow/94435652.cms",
+          "publishedOn": "2022-09-25T13:02:23.000Z",
+          "wordCount": 8581,
+          "title": "Team Gehlot vs Team Pilot as uncertainty builds over Rajasthan CM post",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94436119,width-1070,height-580,imgsize-829852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "siteUrl": "https://timesofindia.indiatimes.com/world",
+      "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/italys-meloni-calls-for-unity-after-election-victory/articleshow/94442231.cms",
+          "author": null,
+          "description": "Giorgia Meloni, head of the nationalist Brothers of Italy party, said on Monday Italian voters had given a clear mandate to the right to form the next government and called for unity to help confront the country's many problems. \"If we are called upon to govern this nation, we will do so for all Italians, with the aim of uniting the people, of exalting what unites them rather than what divides them,\" Meloni said.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/italys-meloni-calls-for-unity-after-election-victory/articleshow/94442231.cms",
+          "publishedOn": "2022-09-26T01:40:31.000Z",
+          "wordCount": 5313,
+          "title": "Italy's Meloni calls for unity after election victory",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442234,width-1070,height-580,imgsize-1363611,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-3-wounded-in-shooting-at-amusement-park-near-pittsburgh/articleshow/94439825.cms",
+          "author": null,
+          "description": "Three people, including two teenagers, were wounded by gunfire late Saturday at an amusement park southeast of Pittsburgh, which was kicking off a Halloween-themed festival.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-3-wounded-in-shooting-at-amusement-park-near-pittsburgh/articleshow/94439825.cms",
+          "publishedOn": "2022-09-25T17:46:26.000Z",
+          "wordCount": 8978,
+          "title": "US: 3 wounded in shooting at amusement park near Pittsburgh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440153,width-1070,height-580,imgsize-98608,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/prominent-chinese-commentator-urges-covid-experts-to-speak-out/articleshow/94439623.cms",
+          "author": null,
+          "description": "China News: BEIJING: Prominent Chinese commentator Hu Xijin said on Sunday that as China ponders its Covid-19 policies, epidemic experts need to speak out and Chi.",
+          "link": "https://timesofindia.indiatimes.com/world/china/prominent-chinese-commentator-urges-covid-experts-to-speak-out/articleshow/94439623.cms",
+          "publishedOn": "2022-09-25T17:24:39.000Z",
+          "wordCount": 7887,
+          "title": "Prominent Chinese commentator urges Covid experts to 'speak out'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94439763,width-1070,height-580,imgsize-135156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/us-warns-putin-of-catastrophic-consequences-if-nuclear-weapons-used-in-ukraine/articleshow/94439556.cms",
+          "author": null,
+          "description": "The United States would respond decisively to any Russian use of nuclear weapons against Ukraine and has spelled out to Moscow the \"catastrophic consequences\" it would face, US National Security Adviser Jake Sullivan said on Sunday.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/us-warns-putin-of-catastrophic-consequences-if-nuclear-weapons-used-in-ukraine/articleshow/94439556.cms",
+          "publishedOn": "2022-09-25T17:17:55.000Z",
+          "wordCount": 7802,
+          "title": "US warns Putin of 'catastrophic' consequences if nuclear weapons used in Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94439547,width-1070,height-580,imgsize-56408,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/shehbaz-sharif-led-govt-wants-to-resume-trade-ties-with-india-imran-khan/articleshow/94439501.cms",
+          "author": null,
+          "description": "Pakistan's former prime minister Imran Khan said on Sunday that his government had snapped trade ties with India after New Delhi revoked the special status of Jammu and Kashmir in 2019 and claimed that the Shehbaz Sharif-led government wanted to resume it.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/shehbaz-sharif-led-govt-wants-to-resume-trade-ties-with-india-imran-khan/articleshow/94439501.cms",
+          "publishedOn": "2022-09-25T17:14:28.000Z",
+          "wordCount": 8079,
+          "title": "Shehbaz Sharif-led govt wants to resume trade ties with India: Imran Khan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94439469,width-1070,height-580,imgsize-31532,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/super-typhoon-noru-slams-into-the-philippines/articleshow/94436738.cms",
+          "author": null,
+          "description": "Super Typhoon Noru slammed into the Philippines Sunday, battering the heavily populated main island of Luzon with strong winds and heavy rain that have forced thousands of people to flee their homes.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/super-typhoon-noru-slams-into-the-philippines/articleshow/94436738.cms",
+          "publishedOn": "2022-09-25T13:29:00.000Z",
+          "wordCount": 10023,
+          "title": "Super Typhoon Noru slams into the Philippines",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94437055,width-1070,height-580,imgsize-72486,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-ferry-accident-kills-24-dozens-missing/articleshow/94435389.cms",
+          "author": null,
+          "description": "At least 24 people were killed and around the same number were missing on Sunday after an overcrowded boat carrying Hindu pilgrims capsized on a river in Bangladesh, police said.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-ferry-accident-kills-24-dozens-missing/articleshow/94435389.cms",
+          "publishedOn": "2022-09-25T12:00:01.000Z",
+          "wordCount": 7473,
+          "title": "Bangladesh ferry accident kills 24, dozens missing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94436608,width-1070,height-580,imgsize-4220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/spanish-pm-tests-positive-for-covid/articleshow/94434897.cms",
+          "author": null,
+          "description": "Spanish Prime Minister Pedro Sanchez said Sunday he had tested positive for Covid and temporarily suspended all engagements just two days after returning from the UN General Assembly meeting.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/spanish-pm-tests-positive-for-covid/articleshow/94434897.cms",
+          "publishedOn": "2022-09-25T11:28:21.000Z",
+          "wordCount": 5429,
+          "title": "Spanish PM tests positive for Covid",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94435413,width-1070,height-580,imgsize-1020641,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/uk/britains-foreign-minister-to-begin-asia-trip-on-monday/articleshow/94434491.cms",
+          "author": null,
+          "description": "UK News: LONDON: British foreign minister James Cleverly will begin a three-day trip to Japan, the Republic of Korea and Singapore on Monday, the foreign minis.",
+          "link": "https://timesofindia.indiatimes.com/world/uk/britains-foreign-minister-to-begin-asia-trip-on-monday/articleshow/94434491.cms",
+          "publishedOn": "2022-09-25T11:07:53.000Z",
+          "wordCount": 5099,
+          "title": "Britain's foreign minister to begin Asia trip on Monday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94434547,width-1070,height-580,imgsize-32692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/pope-urges-italians-to-have-more-children-welcome-migrants/articleshow/94433164.cms",
+          "author": null,
+          "description": "Pope Francis traveled to southern Italy on Sunday to close out an Italian church congress that coincided with Italy’s national election, and delivered a message that hit on key domestic campaign issues including immigration.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/pope-urges-italians-to-have-more-children-welcome-migrants/articleshow/94433164.cms",
+          "publishedOn": "2022-09-25T09:41:48.000Z",
+          "wordCount": 8075,
+          "title": "Pope urges Italians to have more children, welcome migrants",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94433153,width-1070,height-580,imgsize-47060,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-florida-emergency-declared-as-tropical-storm-ian-strengthens/articleshow/94432863.cms",
+          "author": null,
+          "description": "Gov. Ron DeSantis declared a state of emergency for all of Florida on Saturday as Tropical Storm Ian gained strength over the Caribbean and was forecast to become a major hurricane soon on a track toward the state.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-florida-emergency-declared-as-tropical-storm-ian-strengthens/articleshow/94432863.cms",
+          "publishedOn": "2022-09-25T09:22:21.000Z",
+          "wordCount": 9861,
+          "title": "US: Florida emergency declared as Tropical Storm Ian strengthens",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94434034,width-1070,height-580,imgsize-118486,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-will-act-decisively-after-biggest-protests-in-years-president-ebrahim-raisi-says/articleshow/94432623.cms",
+          "author": null,
+          "description": "The protests broke out in northwestern Iran a week ago at the funeral of Mahsa Amini, a 22-year-old Kurdish woman who died after falling into a coma following her detention in Tehran by morality police enforcing hijab rules on women's dress.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-will-act-decisively-after-biggest-protests-in-years-president-ebrahim-raisi-says/articleshow/94432623.cms",
+          "publishedOn": "2022-09-25T09:02:06.000Z",
+          "wordCount": 10782,
+          "title": "Iran will act decisively after biggest protests in years: Raisi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94432620,width-1070,height-580,imgsize-226016,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/saudi-princes-ukraine-mediation-signals-useful-russia-ties/articleshow/94431182.cms",
+          "author": null,
+          "description": "Saudi Arabia has won a diplomatic victory by securing freedom for foreign fighters captured in Ukraine, signalling the value of the crown prince's alliance with Russia to Western partners seeking to isolate Moscow over the war there, analysts say.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-princes-ukraine-mediation-signals-useful-russia-ties/articleshow/94431182.cms",
+          "publishedOn": "2022-09-25T07:11:31.000Z",
+          "wordCount": 10630,
+          "title": "Saudi prince's Ukraine mediation signals 'useful' Russia ties",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94431191,width-1070,height-580,imgsize-17046,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/italians-vote-in-election-that-could-take-far-right-to-power/articleshow/94430843.cms",
+          "author": null,
+          "description": "Before publication of opinion polls were banned 15 days ago, far-right leader Giorgia Meloni and her Brothers of Italy party, with its neo-fascist roots, led in popularity, suggesting Italians were poised to vote their first far-right government into power since World War II. Close behind was former Premier Enrico Letta and his center-left Democratic Party.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/italians-vote-in-election-that-could-take-far-right-to-power/articleshow/94430843.cms",
+          "publishedOn": "2022-09-25T06:51:48.000Z",
+          "wordCount": 9067,
+          "title": "Italians vote in election that could take far-right to power",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94430931,width-1070,height-580,imgsize-77120,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/internet-rumours-of-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94429540.cms",
+          "author": null,
+          "description": "There was no corroborative reporting from any reputed international news outlet, however, and the Chinese foreign ministry was silent. There were no reports on the subject from Chinese media either. Some websites said the rumours were unfounded and they were part of an anti-Xi conspiracy.",
+          "link": "https://timesofindia.indiatimes.com/world/china/internet-rumours-of-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94429540.cms",
+          "publishedOn": "2022-09-25T05:21:10.000Z",
+          "wordCount": 7532,
+          "title": "Internet rumours of Xi removed in coup, no official word from Beijing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94429527,width-1070,height-580,imgsize-22068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/cia-unveils-model-of-al-qaida-leader-al-zawahris-hideout/articleshow/94429481.cms",
+          "author": null,
+          "description": "US News: McLEAN, Virginia: The CIA has revealed a model of Ayman al-Zawahri’s safe house, used to brief President Joe Biden about the al-Qaida leader’s whereab.",
+          "link": "https://timesofindia.indiatimes.com/world/us/cia-unveils-model-of-al-qaida-leader-al-zawahris-hideout/articleshow/94429481.cms",
+          "publishedOn": "2022-09-25T05:17:08.000Z",
+          "wordCount": 10597,
+          "title": "CIA unveils model of al-Qaida leader al-Zawahri's hideout",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94429486,width-1070,height-580,imgsize-4834,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/on-ukraine-russia-repeats-insistence-that-it-had-no-choice/articleshow/94428592.cms",
+          "author": null,
+          "description": "After days of denunciations of Russia at the prominent diplomatic gathering, foreign minister Sergey Lavrov sought to shift the focus to Washington. His speech centered on a claim that the United States and its allies — not Russia, as the West maintains — are aggressively undermining the international system that the UN represents.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/on-ukraine-russia-repeats-insistence-that-it-had-no-choice/articleshow/94428592.cms",
+          "publishedOn": "2022-09-25T04:08:06.000Z",
+          "wordCount": 12197,
+          "title": "On Ukraine, Russia repeats insistence that it had no choice",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94428641,width-1070,height-580,imgsize-43230,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/tropical-storm-ian-to-become-hurricane-on-sunday-nhc-says/articleshow/94428206.cms",
+          "author": null,
+          "description": "US News: NEW YORK: Tropical storm Ian is expected to become a hurricane on Sunday, reaching major hurricane strength by late Monday before it reaches western C.",
+          "link": "https://timesofindia.indiatimes.com/world/us/tropical-storm-ian-to-become-hurricane-on-sunday-nhc-says/articleshow/94428206.cms",
+          "publishedOn": "2022-09-25T03:26:01.000Z",
+          "wordCount": 5711,
+          "title": "Tropical storm Ian to become hurricane on Sunday, NHC says",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94428217,width-1070,height-580,imgsize-87926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/she-was-12-i-was-30-social-media-lights-up-over-us-president-bidens-remark/articleshow/94424826.cms",
+          "author": null,
+          "description": "A digression by US President Joe Biden during his address to teachers at the National Education Association headquarters in Washinton DC on Saturday has bewildered netizens. In his Friday speech to teachers, Biden abruptly digressed from his speech and while recognizing an audience member said, \"You gotta say hi to me.\"",
+          "link": "https://timesofindia.indiatimes.com/world/us/she-was-12-i-was-30-social-media-lights-up-over-us-president-bidens-remark/articleshow/94424826.cms",
+          "publishedOn": "2022-09-24T18:06:28.000Z",
+          "wordCount": 8370,
+          "title": "'She was 12, I was 30': Social media lights up over Biden's remark",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94424840,width-1070,height-580,imgsize-665111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/at-least-35-dead-in-iran-protests-new-state-media-toll/articleshow/94414860.cms",
+          "author": null,
+          "description": "Middle East News: TEHRAN: At least 35 have been killed in more than a week of protests that erupted in Iran after the death of a young woman in police custody, state me.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/at-least-35-dead-in-iran-protests-new-state-media-toll/articleshow/94414860.cms",
+          "publishedOn": "2022-09-24T07:54:10.000Z",
+          "wordCount": 7368,
+          "title": "At least 35 dead in Iran protests",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94414955,width-1070,height-580,imgsize-1551767,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Times of India",
+      "feedUrl": "http://timesofindia.indiatimes.com/rssfeedmostread.cms",
+      "siteUrl": "https://timesofindia.indiatimes.com",
+      "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/social-media-abuzz-with-rumours-chinese-president-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94433071.cms",
+          "author": null,
+          "description": "Social media has been abuzz with rumours since Saturday that Chinese president Xi Jinping has been deposed in a coup that began unfolding while he was away in Uzbekistan attending the Shanghai Cooperation Organisation Summit.",
+          "link": "https://timesofindia.indiatimes.com/world/china/social-media-abuzz-with-rumours-chinese-president-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94433071.cms",
+          "publishedOn": "2022-09-25T14:00:35.000Z",
+          "wordCount": 13182,
+          "title": "Explained: President Xi missing? What has stoked rumours of military coup in China",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94433987,width-1070,height-580,imgsize-103770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/internet-rumours-of-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94429540.cms",
+          "author": null,
+          "description": "There was no corroborative reporting from any reputed international news outlet, however, and the Chinese foreign ministry was silent. There were no reports on the subject from Chinese media either. Some websites said the rumours were unfounded and they were part of an anti-Xi conspiracy.",
+          "link": "https://timesofindia.indiatimes.com/world/china/internet-rumours-of-xi-jinping-removed-in-coup-no-official-word-from-beijing/articleshow/94429540.cms",
+          "publishedOn": "2022-09-25T07:38:58.000Z",
+          "wordCount": 7325,
+          "title": "Internet rumours of Xi Jinping removed in coup, no official word from Beijing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94429527,width-1070,height-580,imgsize-22068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/i-may-be-poor-but-wont-sell-myself-for-rs-10000/articleshow/94426462.cms",
+          "author": null,
+          "description": "Days before her cold-blooded murder, Ankita Bhandari, a 19-year-old receptionist at an Uttarakhand resort owned by Pulkit Arya, son of now-expelled BJP leader Vinod Arya, had told one of her close friends about the pressure she was facing from the accused to indulge in prostitution and \"service hotel guests\". In one such WhatsApp message to her friend, Ankita wrote: \"I may be poor, but I won't sell myself for Rs 10,000.\"",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/i-may-be-poor-but-wont-sell-myself-for-rs-10000/articleshow/94426462.cms",
+          "publishedOn": "2022-09-25T06:00:23.000Z",
+          "wordCount": 7676,
+          "title": "'I may be poor, but won't sell myself for Rs 10,000': Ankita Bhandari told friend on WhatsApp",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94426489,width-1070,height-580,imgsize-1504414,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-9-full-and-final-list-of-contestants/articleshow/94411732.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-9-full-and-final-list-of-contestants/articleshow/94411732.cms",
+          "publishedOn": "2022-09-24T18:46:54.000Z",
+          "wordCount": null,
+          "title": "Bigg Boss Kannada 9: Full and final list of contestants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/raju-srivastavas-daughter-antara-speaks-daddy-didnt-speak-at-all-in-the-hospital-exclusive/articleshow/94418940.cms",
+          "author": null,
+          "description": "We at ETimes TV were the first to break the news that Raju Srivastava's prayer meet is being organised in Mumbai on Sunday. And yes, it is. Naturally, Raju's daughter Antara is busy at the moment in organising things.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/raju-srivastavas-daughter-antara-speaks-daddy-didnt-speak-at-all-in-the-hospital-exclusive/articleshow/94418940.cms",
+          "publishedOn": "2022-09-24T11:17:49.000Z",
+          "wordCount": 9253,
+          "title": "Raju Srivastava's daughter Antara speaks: Daddy didn't speak at all in the hospital - Exclusive",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94418872,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94418872.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-contestants-probable-list-of-participants-in-the-upcoming-season/articleshow/94404028.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-contestants-probable-list-of-participants-in-the-upcoming-season/articleshow/94404028.cms",
+          "publishedOn": "2022-09-24T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Bigg Boss 16 contestants: Probable list of participants in the upcoming season",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/an-indian-models-annual-salary-is-more-than-that-of-a-fresh-iim-graduate/articleshow/94281507.cms",
+          "author": null,
+          "description": "The annual package of a male model comes to around INR 30 lakhs per annum and female models get around 40 lakhs.",
+          "link": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/an-indian-models-annual-salary-is-more-than-that-of-a-fresh-iim-graduate/articleshow/94281507.cms",
+          "publishedOn": "2022-09-24T03:29:54.000Z",
+          "wordCount": 9958,
+          "title": "Indian model's annual salary is more than that of a fresh IIM graduate",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94281507,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-191280/94281507.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-comedian-raju-srivastava-passing-away-to-dheeraj-dhoopar-quitting-jhalak-dikhlaa-jaa-10-top-tv-news-of-the-week/articleshow/94401443.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-comedian-raju-srivastava-passing-away-to-dheeraj-dhoopar-quitting-jhalak-dikhlaa-jaa-10-top-tv-news-of-the-week/articleshow/94401443.cms",
+          "publishedOn": "2022-09-23T13:46:39.000Z",
+          "wordCount": null,
+          "title": "From comedian Raju Srivastava passing away to Dheeraj Dhoopar quitting Jhalak Dikhlaa Jaa 10; Top TV news of the week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/top-6-most-reported-symptoms-of-covid-during-omicron-wave/articleshow/94398511.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/top-6-most-reported-symptoms-of-covid-during-omicron-wave/articleshow/94398511.cms",
+          "publishedOn": "2022-09-23T12:38:37.000Z",
+          "wordCount": null,
+          "title": "Top 6 most reported symptoms of COVID during Omicron wave",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/spotlight/avishkaar-a-startup-providing-hardware-kits-on-amazon-to-help-kids-learn-next-gen-tech-skills-easily/articleshow/94369156.cms",
+          "author": null,
+          "description": "Doing justice to the literal meaning of innovation is Avishkaar, an ed-tech startup started by Tarun Bhalla in the year 2010. It envisions providing the young cohort with learnings around next-generation tech skills which include AI, Coding, Robotics, IoT, Electronics etc. The company offers a platform for young innovators to learn all these skills through hardware kits, software solutions and a vibrant learning community. It aims to inspire children to build something ingenious and groundbreaking.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/avishkaar-a-startup-providing-hardware-kits-on-amazon-to-help-kids-learn-next-gen-tech-skills-easily/articleshow/94369156.cms",
+          "publishedOn": "2022-09-22T10:54:21.000Z",
+          "wordCount": 3775,
+          "title": "Avishkaar: A startup providing hardware kits on Amazon to help kids learn next-gen tech skills easily",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94369082,width-1070,height-580,imgsize-131154,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Times of India",
+      "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "siteUrl": "https://timesofindia.indiatimes.com",
+      "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/foxconn-to-make-iphone-14-in-india/articleshow/94442011.cms",
+          "author": null,
+          "description": "India is set to manufacture Apple’s flagship iPhone 14 smartphones with the company confirming that the devices would be made in India at contract-manufacturer Foxconn’s factory in Sriperumbudur, Tamil Nadu. This would perhaps be the quickest scale-up that Apple has initiated in its India manufacturing setup with the latest iPhone being made here within weeks of its global unveiling on September 7.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/foxconn-to-make-iphone-14-in-india/articleshow/94442011.cms",
+          "publishedOn": "2022-09-26T01:13:05.000Z",
+          "wordCount": 6122,
+          "title": "Foxconn to make iPhone 14 in India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442009,width-1070,height-580,imgsize-601445,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-chandigarh-airport-to-be-named-after-bhagat-singh/articleshow/94441836.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: PM Narendra Modi on Sunday announced the decision to rename Chandigarh airport after Shaheed Bhagat Singh.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-chandigarh-airport-to-be-named-after-bhagat-singh/articleshow/94441836.cms",
+          "publishedOn": "2022-09-26T00:53:42.000Z",
+          "wordCount": 6182,
+          "title": "PM: Chandigarh airport to be named after Bhagat Singh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-more-talks-post-congress-poll/articleshow/94441725.cms",
+          "author": null,
+          "description": "India News: NEW DELHI/PATNA: Bihar CM Nitish Kumar and RJD patriarch Lalu Prasad on Sunday met Congress president Sonia Gandhi to discuss the contours of oppositi.",
+          "link": "https://timesofindia.indiatimes.com/india/lalu-nitish-meet-sonia-more-talks-post-congress-poll/articleshow/94441725.cms",
+          "publishedOn": "2022-09-26T00:39:52.000Z",
+          "wordCount": 6147,
+          "title": "Lalu, Nitish meet Sonia, more talks post Congress poll",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441765,width-1070,height-580,imgsize-1509378,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/news/rss-to-start-five-universities-for-positive-change/articleshow/94441650.cms",
+          "author": null,
+          "description": "RSS has already been involved in primary and higher secondary education and now wants to focus on institutions of higher education through their organisation Uchch Shiksha Sansthan. It has already opened Chanakya University in Bengaluru on a sprawling campus of 125 acres last year, while another in Guwahati is in the offing.",
+          "link": "https://timesofindia.indiatimes.com/education/news/rss-to-start-five-universities-for-positive-change/articleshow/94441650.cms",
+          "publishedOn": "2022-09-26T00:23:42.000Z",
+          "wordCount": 5454,
+          "title": "RSS to start five universities for ‘positive change’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441643,width-1070,height-580,imgsize-477997,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/telecom-privacy-violators-set-to-face-stiff-penalties/articleshow/94441576.cms",
+          "author": null,
+          "description": "Within days of releasing the draft telecom bill for public comments, the government has received feedback that penal provisions for violation of norms on privacy of users need to be tightened further. These are expected to be incorporated when the final legislation is drafted.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/telecom-privacy-violators-set-to-face-stiff-penalties/articleshow/94441576.cms",
+          "publishedOn": "2022-09-26T00:13:04.000Z",
+          "wordCount": 6350,
+          "title": "Telecom privacy violators set to face stiff penalties",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441581,width-1070,height-580,imgsize-676663,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/55-afghan-sikhs-hindus-reach-delhi-by-special-flight/articleshow/94441433.cms",
+          "author": null,
+          "description": "As 55 men, women and children landed in Delhi, the number of those from the Sikh community remaining in Afghanistan number just a little over 40 with most of them staying back to protect and care for the \"Guru Granth Sahib\" amid the ongoing impasse with the Taliban regime which has refused to allow the religious scriptures to be taken out citing them to be the heritage of Afghanistan.",
+          "link": "https://timesofindia.indiatimes.com/india/55-afghan-sikhs-hindus-reach-delhi-by-special-flight/articleshow/94441433.cms",
+          "publishedOn": "2022-09-25T23:37:36.000Z",
+          "wordCount": 6555,
+          "title": "55 Afghan Sikhs, Hindus reach Delhi by special flight",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441445,width-1070,height-580,imgsize-1323275,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-a-1st-sign-language-made-part-of-curriculum-modi/articleshow/94441383.cms",
+          "author": null,
+          "description": "India News: NEW DELHI : PM Narendra Modi on Sunday said that for the first time in the country, sign language is being included as a subject in academic curriculu.",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-1st-sign-language-made-part-of-curriculum-modi/articleshow/94441383.cms",
+          "publishedOn": "2022-09-25T23:21:53.000Z",
+          "wordCount": 5885,
+          "title": "In a 1st, sign language made part of curriculum: Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441392,width-1070,height-580,imgsize-742163,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/at-844-sex-ratio-at-birth-worst-in-uttarakhand-best-in-kerala-with-974/articleshow/94441275.cms",
+          "author": null,
+          "description": "Uttarakhand’s sex ratio (number of females per 1,000 males) at birth was found to be the worst in the country at 844, and Kerala’s the best, at 974, according to the Sample Registration System Statistical Report 2020. The report, released by the Registrar General of India (RGI) on September 22, stated that the country’s overall sex ratio at birth had gone up by three points to 907 in 2018-20 from 904 in 2017-19.",
+          "link": "https://timesofindia.indiatimes.com/india/at-844-sex-ratio-at-birth-worst-in-uttarakhand-best-in-kerala-with-974/articleshow/94441275.cms",
+          "publishedOn": "2022-09-25T22:52:55.000Z",
+          "wordCount": 6803,
+          "title": "At 844, sex ratio at birth worst in Uttarakhand",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441272,width-1070,height-580,imgsize-1094281,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cancer-medicines-may-get-cheaper-indian-uicc-prez/articleshow/94441232.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: The treatment for cancer, which often goes on for years, drains the families of the patient mentally and takes a toll on their finances.",
+          "link": "https://timesofindia.indiatimes.com/india/cancer-medicines-may-get-cheaper-indian-uicc-prez/articleshow/94441232.cms",
+          "publishedOn": "2022-09-25T22:29:50.000Z",
+          "wordCount": 6003,
+          "title": "Cancer medicines may get cheaper: Indian UICC president",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441248,width-1070,height-580,imgsize-736539,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-hike-rates-by-50bps-at-this-weeks-policy-meet/articleshow/94441206.cms",
+          "author": null,
+          "description": "An increase of 50 basis points (100bps = 1 percentage point) in interest rates by the monetary policy committee (MPC) of the RBI is seen as inevitable by economists in the wake of the 75bps hike by the US Fed. The subsequent pressure on the rupee has made it more likely that the domestic central bank would increase rates too this Friday.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-hike-rates-by-50bps-at-this-weeks-policy-meet/articleshow/94441206.cms",
+          "publishedOn": "2022-09-25T22:18:27.000Z",
+          "wordCount": 6268,
+          "title": "RBI may hike rates by 50bps at this week's policy meet",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441215,width-1070,height-580,imgsize-1131783,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-used-abu-dhabi-restaurant-as-hub-for-hawala-deals-ed/articleshow/94441172.cms",
+          "author": null,
+          "description": "Popular Front of India (PFI) officebearers, many of whom have been in detention, used Abu Dhabi’s Darbar restaurant as the den for all hawala transactions and their illegal transfer to India, ED has said. This is contrary to the claims made by PFI that most of the Rs 120 crore it had received came through petty cash donations in India.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-used-abu-dhabi-restaurant-as-hub-for-hawala-deals-ed/articleshow/94441172.cms",
+          "publishedOn": "2022-09-25T21:52:08.000Z",
+          "wordCount": 6718,
+          "title": "PFI used Abu Dhabi restaurant as hub for hawala deals: ED",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94441173,width-1070,height-580,imgsize-1636377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/real-revolt-or-fixed-match-rajasthan-congress-unit-keeps-all-guessing/articleshow/94440916.cms",
+          "author": null,
+          "description": "If Gehlot does contest the internal polls, then many believe the message would be that the so-called revolt was actually a \"fixed match\" between the Central and state brass to demonstrate who among the aspirants had the acceptability to lead the party in Rajasthan. But if Gehlot backs out, then it would be seen as a genuine revolt whereby the state leadership virtually seceded from the already weakened high command, and refused to accept its writ.",
+          "link": "https://timesofindia.indiatimes.com/india/real-revolt-or-fixed-match-rajasthan-congress-unit-keeps-all-guessing/articleshow/94440916.cms",
+          "publishedOn": "2022-09-25T21:08:47.000Z",
+          "wordCount": 6464,
+          "title": "Real revolt or fixed match? Raj Cong unit keeps all guessing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440927,width-1070,height-580,imgsize-1283523,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/ankita-cremated-father-says-razing-part-of-resort-erased-key-evidence/articleshow/94440889.cms",
+          "author": null,
+          "description": "The family of 19-year-old Ankita Bhandari, whose brutal murder rocked Uttarakhand, cremated her body in Srinagar in Pauri Garhwal on Sunday evening. Earlier on Sunday, Ankita’s father refused to cremate her body, demanding the full post-mortem examination report.  ​​The post-mortem examination was conducted on Saturday by a panel of doctors from AIIMS, Rishikesh.",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/ankita-cremated-father-says-razing-part-of-resort-erased-key-evidence/articleshow/94440889.cms",
+          "publishedOn": "2022-09-25T20:56:31.000Z",
+          "wordCount": 6554,
+          "title": "Ankita cremated: 'Razing part of resort erased key evidence’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440914,width-1070,height-580,imgsize-1885301,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-in-bid-to-block-pilot-gehlot-camp-mlas-quit-en-masse/articleshow/94440879.cms",
+          "author": null,
+          "description": "Legislators and ministers loyal to Rajasthan CM Ashok Gehlot made a beeline for the assembly speaker’s residence late Sunday to resign en masse ahead of a scheduled CLP meeting, seeking to preempt the possibility of the Congress high command from picking his bete noire Sachin Pilot for chief ministership. Cabinet minister Pratap Singh Khachariyawas said 92 of Congress' 108 MLAs were at speaker CP Joshi’s door.",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-in-bid-to-block-pilot-gehlot-camp-mlas-quit-en-masse/articleshow/94440879.cms",
+          "publishedOn": "2022-09-25T20:48:36.000Z",
+          "wordCount": 6978,
+          "title": "Rajasthan political crisis: In bid to block Pilot, Gehlot camp MLAs quit en masse",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440882,width-1070,height-580,imgsize-1460607,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/chandigarh/nitish-pawar-badal-at-haryana-rally-but-many-skip/articleshow/94440834.cms",
+          "author": null,
+          "description": "An INLD-organised rally in Haryana’s Fatehabad on Sunday that was meant to be the stage for prominent non-BJP faces to find common ground saw a clutch of opposition parties skip the event, leaving Bihar CM Nitish Kumar, Sharad Pawar and a handful of others to peddle a “mahagathbandhan” as the panacea for the 2024 poll challenge.",
+          "link": "https://timesofindia.indiatimes.com/city/chandigarh/nitish-pawar-badal-at-haryana-rally-but-many-skip/articleshow/94440834.cms",
+          "publishedOn": "2022-09-25T20:30:22.000Z",
+          "wordCount": 6398,
+          "title": "Nitish, Pawar, Badal at Haryana rally, but many skip",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440836,width-1070,height-580,imgsize-1592634,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/can-scale-up-output-of-tejas-fighters-for-exports-operational-needs-say-officials/articleshow/94440646.cms",
+          "author": null,
+          "description": "India can scale up production of the indigenous Tejas light combat aircraft to meet operational requirements and export orders, defence ministry officials said. The single-engine Tejas fighter is already the frontrunner to bag a Malaysian order for 18 light twin-seat fighter trainers despite strong competition from Chinese JF-17, South Korean FA-50 and Russian MiG-35 and Yak-130 jets.",
+          "link": "https://timesofindia.indiatimes.com/india/can-scale-up-output-of-tejas-fighters-for-exports-operational-needs-say-officials/articleshow/94440646.cms",
+          "publishedOn": "2022-09-25T19:36:32.000Z",
+          "wordCount": 6580,
+          "title": "'Can scale up output of Tejas fighters for exports, operational needs'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94440738,width-1070,height-580,imgsize-494863,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-vs-australia-3rd-t20i-highlights-suryakumar-yadav-and-virat-kohli-power-india-to-a-six-wicket-win-in-series-decider/articleshow/94439497.cms",
+          "author": null,
+          "description": "It all boiled down to the last three overs. The Australians, who were 140 for six at the end of the 17th overs, had got 46 in the final three. The Indians, who had set the chase up very nicely needing just 32 for a series win, overcame some spirited fightback to post a thumping six-wicket win in the third and final T20I match.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-vs-australia-3rd-t20i-highlights-suryakumar-yadav-and-virat-kohli-power-india-to-a-six-wicket-win-in-series-decider/articleshow/94439497.cms",
+          "publishedOn": "2022-09-25T17:28:35.000Z",
+          "wordCount": 7183,
+          "title": "3rd T20I: Yadav, Kohli power India to a 6-wicket win in series decider",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94439535,width-1070,height-580,imgsize-67752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-legislative-party-meeting-gehlot-loyalists-meet-ahead-of-clp-meeting-want-him-to-remain-cm/liveblog/94438410.cms",
+          "author": null,
+          "description": "High drama unfolded in Rajasthan on Sunday evening as a group of Congress MLAs loyal to chief minister Ashok Gehlot reached the assembly speaker's residence to submit their resignation ahead of a legislature party meeting which was called to decide on his successor. Stay with TOI for live updates",
+          "link": "https://timesofindia.indiatimes.com/india/congress-legislative-party-meeting-gehlot-loyalists-meet-ahead-of-clp-meeting-want-him-to-remain-cm/liveblog/94438410.cms",
+          "publishedOn": "2022-09-25T15:35:29.000Z",
+          "wordCount": 9692,
+          "title": "Live: 'Told Sonia to pick whoever can help retain Rajasthan'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94438410,width-1070,height-580,imgsize-1204881,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         }
       ]
     }
