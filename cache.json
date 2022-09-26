@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23370065/stop-asian-hate-crimes-new-york-chinatown-policing",
+          "author": null,
+          "description": "The desperate, confused, righteous campaign to stop Asian hate\n This article is a collaboration between New York Magazine and The Verge.\nFor 72 hours after it happened, Brian Chin hardly left the building. He didn’t sleep. He didn’t eat. He had arrived at 111 Chrystie, the 23-unit apartment complex his family owns in the heart of Chinatown, at a little before 6 a.m. on February 13 after getting a call from one of his tenants. It was a chaotic scene: The street in front of the building was blocked off, NYPD squad cars and officers everywhere. The police let Chin inside, but no one would tell him what was going on. Outside, the sky was black. Snow was lightly falling. Inside, an alarm blared through the building until a cop took a sledgehammer and silenced it. Finally, an officer told Chin t…",
+          "link": "https://www.theverge.com/23370065/stop-asian-hate-crimes-new-york-chinatown-policing",
+          "publishedOn": "2022-09-26T12:00:00.000Z",
+          "wordCount": 23701,
+          "title": "Asian America learns how to hit back",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6co8T3GaiT1KIvsM_TQ59eLxWkc=/0x0:2864x4009/1200x628/filters:focal(1432x2005:1433x2006)/cdn.vox-cdn.com/uploads/chorus_asset/file/24051204/d406734f47dd46a53bc0ae7b0e7fce1c81_3U1A1403.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23372457/pokemon-ai-generator-stable-diffusion-model",
           "author": null,
           "description": "From left to right, top to bottom: Lady Gaga, Boris Johnson, Vladimir Putin, Angela Merkel, Donald Trump, Plato. \n    \n\n  \nA fun little AI art widget named Text-to-Pokémon lets you plug in any name or description you like and (you guessed it) generate a Pokémon matching your prompt. \nThe model’s output isn’t flawless, but it’s incredibly entertaining all the same. You can try punching in the names of celebrities or politicians (see “Boris Johnson” and “Vladimir Putin” in the image above), or just general descriptions of the sort of Pokémon that would tickle your personal fancy (the one below is my “skeleton priest”).\n(A little tip for using the tool more efficiently: make sure you select “4” from the “num_outputs” drop down menu to get four images per prompt rather than just one.)\nImage: T…",
@@ -1941,6 +1951,36 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2403850",
+          "author": "Ivan Mehta",
+          "description": "Meeting reminders can be tough to navigate. Even if you get a notification 10 or 30 minutes before the meeting you might forget to join or struggle to find the meeting link moments before joining. Magical, a productivity company, aims to solve these problems with a Chrome extension called timeOS. This extension shows your next meeting’s details […]\ntimeOS is a Chrome extension that puts your meeting details in one place by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/timeos-is-a-chrome-extension-that-puts-your-meeting-details-in-one-place/",
+          "publishedOn": "2022-09-26T12:15:10.000Z",
+          "wordCount": 6946,
+          "title": "timeOS is a Chrome extension that puts your meeting details in one place",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screenshot-2022-09-26-at-3.11.25-PM.jpg?resize=1200,682"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2406662",
+          "author": "Christine Hall",
+          "description": "Checkmate's shopping tool gathers all the online discount codes, gift cards and personalized deals from your inbox and automatically applies them at checkout.\nCheckmate captures all of your shopping deals so you don’t have to by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/checkmate-captures-all-of-your-shopping-deals-so-you-dont-have-to/",
+          "publishedOn": "2022-09-26T12:02:42.000Z",
+          "wordCount": 6766,
+          "title": "Checkmate captures all of your shopping deals so you don’t have to",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/image001-1.png?resize=1200,640"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407343",
+          "author": "Kirsten Korosec",
+          "description": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive the full edition of the newsletter every weekend in your inbox. This is a shorter version of The Station newsletter that is emailed to subscribers. Want all the deals, news roundups and commentary? Subscribe […]\nEV charging deals keep coming, Ford squeezed by shortages and Kitty Hawk shuts down by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/ev-charging-deals-keep-coming-ford-squeezed-by-shortages-and-kitty-hawk-shuts-down/",
+          "publishedOn": "2022-09-26T11:15:45.000Z",
+          "wordCount": 8915,
+          "title": "EV charging deals keep coming, Ford squeezed by shortages and Kitty Hawk shuts down",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/01/REVC_1.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2407261",
           "author": "Tage Kene-Okafor",
           "description": "When Vendease launched in January 2020, it wanted to solve the challenges and inefficiencies in Nigeria’s highly fragmented food sector using a marketplace model that connected suppliers and farms to restaurants and food businesses, with deliveries facilitated within 24 hours. But over the next couple of months, Vendease switched from its middleman role — after […]\nVendease, a food procurement platform for African restaurants, nabs $30M led by Partech Africa and TLcom by Tage Kene-Okafor originally published on TechCrunch",
@@ -2469,6 +2509,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/even-better/2022/9/26/23368596/trains-amtrak-climate-high-speed-rail",
+          "author": null,
+          "description": "Getty Images/CSA Images RF\n    \n\n  \nLong-distance trains in the US are very slow, but it’s much more environmentally friendly and rewarding.\n Last year, I took the Amtrak from Chicago to San Francisco in coach, and loved it so much that I did it again. So this summer, I decided to take four more long-distance trains: San Francisco to Seattle, Seattle to Chicago, Chicago to New Orleans, and New Orleans to Los Angeles. (I flew from Los Angeles home to San Francisco because of timing issues, which is a big problem with US rail — something we’ll get into later.)\nAlong the way, I learned about America. I saw the quaint lakes of the Upper Midwest, the humid clouds of the Mississippi Delta, the breathtaking mountains of Montana, and the endless hills of West Texas. I saw beautiful sunsets in nort…",
+          "link": "https://www.vox.com/even-better/2022/9/26/23368596/trains-amtrak-climate-high-speed-rail",
+          "publishedOn": "2022-09-26T12:00:00.000Z",
+          "wordCount": 3891,
+          "title": "How — and why — to take the train across the country",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/NAFnbCHC9Ym4FkheNEoQeQGZWAs=/0x373:5089x3037/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048187/GettyImages_97231375.jpg"
+        },
         {
           "id": "https://www.vox.com/policy-and-politics/2022/9/26/23343192/supreme-court-voting-rights-abortion-affirmative-action-race-medicaid-clean-water",
           "author": null,
@@ -3438,6 +3488,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "c17c1f53-b34e-467d-b1a7-e1708eee6bcd",
+          "author": "Ryan Dinsdale",
+          "description": "Netflix has revealed five images from an Onimusha anime based on the hit Capcom game series.",
+          "link": "https://www.ign.com/articles/onimusha-anime-netflix-first-look-image",
+          "publishedOn": "2022-09-26T10:03:01.000Z",
+          "wordCount": 9471,
+          "title": "Onimusha Anime: Netflix Shares First Look Images",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/26/untitled-1-1664186570354.jpg?width=1280"
+        },
+        {
           "id": "830fdfb2-f510-4d66-a3d1-426462971adf",
           "author": "Adam Bankhurst",
           "description": "Oxenfree 2: Lost Signals has been delayed to 2023 to make it Night School Studio's \"best game yet.\"",
@@ -4128,6 +4188,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/sorcerous-stabber-orphen-reboot-anime-gets-3rd-season-in-january-2023",
+          "author": "Liam Dempsey",
+          "description": "Teaser visual, trailer and more cast were also revealed\n\n\nLast year's \"Battle of Kimluck\" anime will soon be succeeded by \"Chaos in Urbanrama\", the newly announced third season of Studio DEEN's Sorcerous Stabber Orphen reboot that unveiled a teaser visual, trailer and new cast members today. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/sorcerous-stabber-orphen-reboot-anime-gets-3rd-season-in-january-2023",
+          "publishedOn": "2022-09-26T10:57:00.000Z",
+          "wordCount": 6043,
+          "title": "Sorcerous Stabber Orphen Reboot Anime Gets 3rd Season in January 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/fcb5827f7a3f80240211b4c65e037a251664189744_main.png"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/welcome-to-demon-school-iruma-kun-season-3-trailer-previews-opening-theme-song",
           "author": "Joseph Luster",
@@ -4866,6 +4936,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/indian-climber-among-12-injured-as-avalanche-hits-nepals-mt-manaslu/article65937710.ece",
+          "author": "PTI",
+          "description": "The avalanche struck the route just below Camp IV of Mount Manaslu when the climbers were ferrying logistics to the high camps.",
+          "link": "https://www.thehindu.com/news/international/indian-climber-among-12-injured-as-avalanche-hits-nepals-mt-manaslu/article65937710.ece",
+          "publishedOn": "2022-09-26T11:59:07.000Z",
+          "wordCount": 6131,
+          "title": "Indian climber among 12 injured as avalanche hits Nepal&#039;s Mt. Manaslu",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/hghaqf/article65937807.ece/alternates/LANDSCAPE_615/AFP_8T93C4.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/pakistans-opposition-leader-raises-concerns-on-pmo-audio-leaks-demands-thorough-investigation/article65937699.ece",
+          "author": "PTI",
+          "description": "The former minister further claimed that the hacker who allegedly leaked these audios had more important audios which are yet to surface.",
+          "link": "https://www.thehindu.com/news/international/pakistans-opposition-leader-raises-concerns-on-pmo-audio-leaks-demands-thorough-investigation/article65937699.ece",
+          "publishedOn": "2022-09-26T11:33:11.000Z",
+          "wordCount": 6357,
+          "title": "Pakistan&#039;s Opposition leader raises concerns on PMO audio leaks, demands thorough investigation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/91yxqk/article65937715.ece/alternates/LANDSCAPE_615/FawadChaudhry.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/kamala-harris-calls-us-japan-alliance-a-cornerstone-in-tokyo/article65937481.ece",
           "author": "AP",
           "description": "U.S. Vice President Kamala Harris has arrived in Tokyo to lead a U.S. delegation to the state funeral of former Japanese Prime Minister Shinzo Abe, who was  assassinated in July",
@@ -5232,6 +5322,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-turmoil-maken-accuses-gehlot-supporters-of-indiscipline-kamal-nath-called-to-delhi/articleshow/94457318.cms",
+          "author": null,
+          "description": "Congress in-charge for Rajasthan Ajay Maken on Monday accused MLAs in the Ashok Gehlot camp of “indiscipline” and said their demand setting conditions for a party resolution on picking the next chief minister was a “conflict of interest”. \"In the 75 years of Congress history, there has never been a conditional resolution. Resolution is one-line only. Everything is told to the Congress president and then a decision is taken,\" Maken told reporters here before leaving for New Delhi.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-turmoil-maken-accuses-gehlot-supporters-of-indiscipline-kamal-nath-called-to-delhi/articleshow/94457318.cms",
+          "publishedOn": "2022-09-26T12:10:33.000Z",
+          "wordCount": 7009,
+          "title": "Rajasthan turmoil: Maken accuses Gehlot supporters of 'indiscipline', Kamal Nath called to Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94457330,width-1070,height-580,imgsize-50524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/take-out-congress-jodo-yatra-first-aaps-dig-over-political-crisis-in-rajasthan/articleshow/94457244.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Aam Aadmi Party (AAP) on Monday took a swipe at the Congress over the ongoing political crisis in Rajasthan and said it should first ta.",
+          "link": "https://timesofindia.indiatimes.com/india/take-out-congress-jodo-yatra-first-aaps-dig-over-political-crisis-in-rajasthan/articleshow/94457244.cms",
+          "publishedOn": "2022-09-26T12:05:48.000Z",
+          "wordCount": 6137,
+          "title": "Take out 'Congress Jodo Yatra' first: AAP's dig over political crisis in Rajasthan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/deeply-saddened-by-death-of-people-in-himachal-pradesh-road-accident-president-droupadi-murmu/articleshow/94455497.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: President Droupadi Murmu on Monday said she was deeply saddened by the death of people in a road accident in Himachal Pradesh and wished sp.",
+          "link": "https://timesofindia.indiatimes.com/india/deeply-saddened-by-death-of-people-in-himachal-pradesh-road-accident-president-droupadi-murmu/articleshow/94455497.cms",
+          "publishedOn": "2022-09-26T11:14:42.000Z",
+          "wordCount": 5396,
+          "title": "Deeply saddened by death of people in Himachal Pradesh road accident: President Droupadi Murmu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94455488,width-1070,height-580,imgsize-42902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/explained-rajasthan-crisis-sulking-gehlot-loyalists-and-what-it-means-for-congress-president-polls/articleshow/94454397.cms",
           "author": null,
@@ -5729,6 +5849,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/gunman-detained-after-shooting-at-russian-draft-office-in-siberia/articleshow/94454911.cms",
+          "author": null,
+          "description": "A gunman was detained after opening fire at a military draft office in Russia's Irkutsk region on Monday, the local governor said.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/gunman-detained-after-shooting-at-russian-draft-office-in-siberia/articleshow/94454911.cms",
+          "publishedOn": "2022-09-26T11:45:10.000Z",
+          "wordCount": 6654,
+          "title": "Gunman detained after shooting at Russian draft office in Siberia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/moldova-considers-sanctions-for-citizens-who-fight-for-russia-in-ukraine/articleshow/94454125.cms",
+          "author": null,
+          "description": "Moldova may revoke the citizenship of its nationals who go to fight for Russia in Ukraine after being called up because they also hold Russian passports, pro-Western President Maia Sandu said on Monday.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/moldova-considers-sanctions-for-citizens-who-fight-for-russia-in-ukraine/articleshow/94454125.cms",
+          "publishedOn": "2022-09-26T10:29:51.000Z",
+          "wordCount": 6328,
+          "title": "Moldova considers sanctions for citizens who fight for Russia in Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94454190,width-1070,height-580,imgsize-54808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/china/countries-call-for-un-human-rights-debate-about-chinas-xinjiang/articleshow/94452328.cms",
           "author": null,
@@ -6274,6 +6414,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-tumbles-954-points-nifty-settles-at-17016-top-reasons-behind-market-fall/articleshow/94456973.cms",
+          "author": null,
+          "description": "Equity indices dragged for the fourth straight session on Monday with the benchmark BSE sensex crashing over 900 points amid weak global market trends and foreign fund outflows. The 30-share BSE index tanked 953.70 points or 1.64% to settle at 57,145. During the day, it plummeted 1,061 points or 1.82% to 57,038. The NSE Nifty fell 311.05 points or 1.80% to end at 17,016.30.",
+          "link": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-tumbles-954-points-nifty-settles-at-17016-top-reasons-behind-market-fall/articleshow/94456973.cms",
+          "publishedOn": "2022-09-26T11:57:24.000Z",
+          "wordCount": 6676,
+          "title": "Sensex, Nifty fall for 4th day in a row: Top reasons",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94456945,width-1070,height-580,imgsize-132848,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/had-warned-charlie-dean-for-leaving-the-crease-early-repeatedly-told-umpires-too-deepti-sharma/articleshow/94454590.cms",
+          "author": null,
+          "description": "Since Saturday, when off-spin all-rounder Deepti Sharma ran out England's Charlie Dean in the 44th over at the non-striker's end to get a 16-run victory for India over England at Lord's to complete a 3-0 sweep, the cricketing world has been divided over whether the Indian team should have warned her before effecting the run-out.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/had-warned-charlie-dean-for-leaving-the-crease-early-repeatedly-told-umpires-too-deepti-sharma/articleshow/94454590.cms",
+          "publishedOn": "2022-09-26T10:51:35.000Z",
+          "wordCount": 6746,
+          "title": "Had warned Charlie Dean repeatedly: Deepti Sharma",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94454634,width-1070,height-580,imgsize-54182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/explained-rajasthan-crisis-sulking-gehlot-loyalists-and-what-it-means-for-congress-president-polls/articleshow/94454397.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Trouble is brewing in Rajasthan yet again after dozens of Congress MLAs loyal to chief minister Ashok Gehlot raised a banner of revolt late.",
+          "link": "https://timesofindia.indiatimes.com/india/explained-rajasthan-crisis-sulking-gehlot-loyalists-and-what-it-means-for-congress-president-polls/articleshow/94454397.cms",
+          "publishedOn": "2022-09-26T10:47:48.000Z",
+          "wordCount": 8280,
+          "title": "Explained: Rajasthan crisis & what it means for Cong prez polls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94454622,width-1070,height-580,imgsize-40514,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/global-prevalence-of-type-1-diabetes-to-double-by-2040-finds-study/photostory/94452243.cms",
+          "author": null,
+          "description": "Close to 8.4 million people are currently living with type 1 diabetes, and this number is expected to rise to 13.5 to 17.4 million by 2040, a new modeling study published in The Lancet Diabetes & Endocrinology has found.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/global-prevalence-of-type-1-diabetes-to-double-by-2040-finds-study/photostory/94452243.cms",
+          "publishedOn": "2022-09-26T10:30:00.000Z",
+          "wordCount": 11184,
+          "title": "Global prevalence of type 1 diabetes to double by 2040, finds study",
+          "imageUrl": "https://static.toiimg.com/photo/94452473.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/ramayans-sita-aka-dipika-chikhlia-impresses-fans-with-trendy-western-outfits-they-hail-her-as-a-beauty-queen/articleshow/94452741.cms",
           "author": null,
           "description": "Dipika Chikhlia, who rose to fame with the rerun of her popular show Ramayan during the lockdown, posted a video today (September 26) wherein she looks fashionable in western outfits.",
@@ -6392,6 +6572,16 @@
           "wordCount": 9371,
           "title": "In pics: India wins T20 Int'l series against Aus",
           "imageUrl": "https://static.toiimg.com/photo/94448827.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-gehlot-camp-mlas-quit-key-developments/articleshow/94444081.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Legislators and ministers loyal to Rajasthan chief minister Ashok Gehlot quite en masse on late Sunday ahead of a scheduled Congress legisl.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-gehlot-camp-mlas-quit-key-developments/articleshow/94444081.cms",
+          "publishedOn": "2022-09-26T07:47:49.000Z",
+          "wordCount": 8362,
+          "title": "Gehlot told to ensure 'discipline' amid MLAs' revolt",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94450062,width-1070,height-580,imgsize-53480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/home/science/nasa-set-to-ram-distant-asteroid-in-bid-to-avoid-future-catastrophes-on-earth/articleshow/94449840.cms",
@@ -6572,6 +6762,16 @@
           "wordCount": 9424,
           "title": "Live: Maruti Suzuki Grand Vitara 2022 launch",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94442757,width-1070,height-580,imgsize-673008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/news/cuet-pg-result-2022-live-updates-nta-cuet-pg-scorecard-cutoff-at-cuet-nta-nic-in/liveblog/94442578.cms",
+          "author": null,
+          "description": "CUET PG Result 2022 LIVE Updates: The National Testing Agency (NTA) has announced the CUET-PG Result 2022. Candidates can now visit the official website to check and download their results. However, the result was delayed. M Jagadesh Kumar, Chairman of University Grants Commission (UGC) took to Twitter on Sunday to announce the CUET-PG 2022 result time and date. Stay with the Times of India for all the latest updates on CUET-PG 2022 result, scorecard and admission process.",
+          "link": "https://timesofindia.indiatimes.com/education/news/cuet-pg-result-2022-live-updates-nta-cuet-pg-scorecard-cutoff-at-cuet-nta-nic-in/liveblog/94442578.cms",
+          "publishedOn": "2022-09-26T02:17:11.000Z",
+          "wordCount": 13789,
+          "title": "Live: CUET PG results declared",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94442578,width-1070,height-580,imgsize-150838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94442481.cms",
