@@ -2,10 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T11:09:29.010Z</updated>
+    <updated>2022-09-27T12:22:37.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HIDIVE Streams Vermeil in Gold Anime's English Dub, Reveals Cast]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190259</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/hidive-streams-vermeil-in-gold-anime-english-dub-reveals-cast/.190259"/>
+        <updated>2022-09-27T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Anime centers on student at magical academy who aims to become master of all magic]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp discloses critical vulnerability in older app versions]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve</id>
+        <link href="https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve"/>
+        <updated>2022-09-27T12:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+WhatsApp has published details of a “critical” vulnerability that has been patched in a newer version of the app but could still affect older installations that have not been updated.
+Details were disclosed in a September update of WhatsApp’s page on security advisories affecting the app and came to light on September 23rd.
+The critical bug would allow an attacker to exploit a code error known as an integer overflow, letting them execute their own code on a victim’s smartphone after sending a specially crafted video call. Remote code execution vulnerabilities are a key step in installing malware, spyware, or other malicious applications on a target system, as they give attackers a foot in the door that can be used to further compromise the m…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holiday in Montenegro becomes an escape from call-up for Russians]]></title>
+        <id>https://www.thehindu.com/news/international/holiday-in-montenegro-becomes-an-escape-from-call-up-for-russians/article65941965.ece</id>
+        <link href="https://www.thehindu.com/news/international/holiday-in-montenegro-becomes-an-escape-from-call-up-for-russians/article65941965.ece"/>
+        <updated>2022-09-27T12:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Though officials called on Russians to mobilise in Ukraine, some are turning down the opportunity to go to war]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA’s DART anti-asteroid satellite successfully smashes into space rock]]></title>
+        <id>https://techcrunch.com/?p=2408471</id>
+        <link href="https://techcrunch.com/2022/09/27/nasas-dart-anti-asteroid-satellite-successfully-smashes-into-space-rock/"/>
+        <updated>2022-09-27T12:08:19.000Z</updated>
+        <summary type="html"><![CDATA[NASA has completed a key step of its “Double Asteroid Redirection Test” (DART), smashing a satellite roughly the size of a vending machine into a small moon that’s about half-a-mile in diameter. The moon, Dimorphos, is orbiting an even larger asteroid, Didymos, and while neither is in any danger of colliding with Earth, they’re good […]
+NASA’s DART anti-asteroid satellite successfully smashes into space rock by Darrell Etherington originally published on TechCrunch]]></summary>
+        <author>
+            <name>Darrell Etherington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xi makes first public appearance since trip to Central Asia]]></title>
+        <id>https://timesofindia.indiatimes.com/world/china/chinas-xi-makes-first-public-appearance-in-beijing-since-trip-to-central-asia/articleshow/94482991.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/china/chinas-xi-makes-first-public-appearance-in-beijing-since-trip-to-central-asia/articleshow/94482991.cms"/>
+        <updated>2022-09-27T12:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Chinese President Xi Jinping visited an exhibition in Beijing on Tuesday, according to state television, in his first public appearance since returning to China from an official trip to Central Asia in mid-September. Xi is widely expected to secure a precedent-breaking third term as leader at the Communist Party's once-in-five-years congress next month.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republicans Are Furious a Driver Was Released After Killing ‘Extremist’ Teen]]></title>
+        <id>7k8evg</id>
+        <link href="https://www.vice.com/en_us/article/7k8evg/cayler-ellingson-death"/>
+        <updated>2022-09-27T12:03:39.000Z</updated>
+        <summary type="html"><![CDATA[The man who admitted to hitting an 18-year-old with his car said the teen was a “Republican extremist.” Authorities have found no evidence of that.]]></summary>
+        <author>
+            <name>Mack Lamoureux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show me the money: General Catalyst and Coatue dish the state of VC at Disrupt]]></title>
+        <id>https://techcrunch.com/?p=2408061</id>
+        <link href="https://techcrunch.com/2022/09/27/show-me-the-money-general-catalyst-and-coatue-dish-the-state-of-vc-at-disrupt/"/>
+        <updated>2022-09-27T12:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Early-stage founders eager to secure funding (in other words, just about 99.99% of you), listen up. While venture funding may have slowed, venture capital firms still have plenty — and by that we mean billions — of dollars at their disposal. Question is, how do you tap into that monetary mountain? You start by purchasing […]
+Show me the money: General Catalyst and Coatue dish the state of VC at Disrupt by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livin Farms’ investors are betting $5.8M on powdered fly larvae]]></title>
+        <id>https://techcrunch.com/?p=2408243</id>
+        <link href="https://techcrunch.com/2022/09/27/livin-farms-fly-larvae-powder/"/>
+        <updated>2022-09-27T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[In a world of climate change-fueled food shortages, insect-based proteins are being viewed as an increasingly valuable potential alternative food service. Livin Farms has put insect larvae at the center of its own alternative protein play. The Vienna-based firm produces Hive Pro, a modular system designed to automate the process of rearing and processing black […]
+Livin Farms’ investors are betting $5.8M on powdered fly larvae by Brian Heater originally published on TechCrunch]]></summary>
+        <author>
+            <name>Brian Heater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skullcandy’s new wireless gaming headset has a quirky design and Tile integration]]></title>
+        <id>https://www.theverge.com/2022/9/27/23372711/skullcandy-plyr-slyr-wireless-gaming-headset-bluetooth-features-price</id>
+        <link href="https://www.theverge.com/2022/9/27/23372711/skullcandy-plyr-slyr-wireless-gaming-headset-bluetooth-features-price"/>
+        <updated>2022-09-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PLYR has a unique (definitely divisive) design. This model, in particular, costs $129.99. | Image: Skullcandy
+    
+
+  
+You’d be forgiven for forgetting, or just not knowing, that Skullcandy once had some skin in the game of putting out gaming headsets. The company owned Astro Gaming throughout most of the 2010s, which it later sold to Logitech in 2017. It’s been relatively quiet on the gaming front since then, but Skullcandy’s now back with a new lineup of headsets. There are three, ranging in price and functionality — each accented with a slightly different-looking printer color test page pattern on their sidearms (my interpretation, not Skullcandy’s). There’s the $59.99 wired SLYR, the $99.99 wired but more feature-packed SLYR Pro, and finally, the $129.99 PLYR wireless headset, pict…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The pandemic child care crisis is still here]]></title>
+        <id>https://www.vox.com/policy-and-politics/2022/9/27/23356278/the-pandemic-child-care-inflation-crisis</id>
+        <link href="https://www.vox.com/policy-and-politics/2022/9/27/23356278/the-pandemic-child-care-inflation-crisis"/>
+        <updated>2022-09-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amanda Northrop/Vox
+    
+
+  
+Families are now grappling with inflation and a shortage of day care staff.
+ On the Senate floor in early August, just two days before lawmakers voted to pass the Inflation Reduction Act, four senior Democrats came out to lament what they believed to be the bill’s biggest omission: child care.  
+“We cannot simply vote on this package and call it a day,” Sen. Patty Murray (D-WA) said. “Our child care system isn’t just stretched thin; it is broken.”
+Less than two months later, the extent of that brokenness is clearer than ever. Public schools are fully reopened, and most pandemic-era restrictions are relaxed. But working conditions for families with kids who need child care are not back to normal. For both workers and parents, already-grim trends in child care ha…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abe was 'phenomenal', believed in India-Japan friendship, recalls Modi as he pays tribute]]></title>
+        <id>https://timesofindia.indiatimes.com/india/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482524.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482524.cms"/>
+        <updated>2022-09-27T11:47:06.000Z</updated>
+        <summary type="html"><![CDATA[India News: TOKYO: Shinzo Abe "was a great leader, a phenomenal individual and someone who believed in India-Japan friendship", Prime Minister Narendra Modi recal.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He was a phenomenal leader: PM pays tribute to Abe]]></title>
+        <id>https://timesofindia.indiatimes.com/world/south-asia/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482272.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/south-asia/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482272.cms"/>
+        <updated>2022-09-27T11:47:06.000Z</updated>
+        <summary type="html"><![CDATA[South Asia News: TOKYO: Shinzo Abe "was a great leader, a phenomenal individual and someone who believed in India-Japan friendship", Prime Minister Narendra Modi recal.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOI Poll: Real reason for crises in Congress is…]]></title>
+        <id>https://timesofindia.indiatimes.com/TOIPOLL-Real-reason-for-crises-in-Congress-is/polls/94479856.cms</id>
+        <link href="https://timesofindia.indiatimes.com/TOIPOLL-Real-reason-for-crises-in-Congress-is/polls/94479856.cms"/>
+        <updated>2022-09-27T11:43:21.000Z</updated>
+        <summary type="html"><![CDATA[The Gehlot versus Pilot fight in Rajasthan is a symptom of a festering problem in the Congress party. Take this short quiz and tell us what you think.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three times a Congress leader gave up CM seat for party president post]]></title>
+        <id>https://timesofindia.indiatimes.com/india/three-times-a-congress-leader-gave-up-cm-seat-for-party-president-post/articleshow/94478018.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/three-times-a-congress-leader-gave-up-cm-seat-for-party-president-post/articleshow/94478018.cms"/>
+        <updated>2022-09-27T11:38:44.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: With Sonia Gandhi, Rahul Gandhi and Priyanka Gandhi Vadra deciding not to run in next month's Congress president election, the party seems .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uddhav vs Shinde: SC allows EC to decide which faction is 'real' Shiv Sena]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms"/>
+        <updated>2022-09-27T11:37:39.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Tuesday dismissed Uddhav Thackeray's plea and allowed Election Commission (EC) to decide which of the two groups will be recognised as the 'real' Shiv Sena. A constitution bench headed Justice D Y Chandrachud passed the order after hearing both the factions and also election commission for over five-and-half hours.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uddhav vs Shinde: SC allows EC to decide which faction is 'real' Shiv Sena]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms"/>
+        <updated>2022-09-27T11:37:39.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Tuesday dismissed Uddhav Thackeray's plea and allowed Election Commission (EC) to decide which of the two groups will be recognised as the 'real' Shiv Sena. A constitution bench headed Justice D Y Chandrachud passed the order after hearing both the factions and also election commission for over five-and-half hours.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Old Anthony Bourdain Clip Has Sparked a Heated Debate About the Treatment of 'Maids']]></title>
+        <id>88qvg3</id>
+        <link href="https://www.vice.com/en_us/article/88qvg3/anthony-bourdain-domestic-workers-singapore"/>
+        <updated>2022-09-27T11:32:08.000Z</updated>
+        <summary type="html"><![CDATA[“You’re living off a repressed underclass,” Bourdain tells his Singaporean hosts, who talk of not filling their own glasses or doing their own washing.]]></summary>
+        <author>
+            <name>Koh Ewe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After three months, Dish’s 5G service still feels like a beta]]></title>
+        <id>https://www.theverge.com/2022/9/27/23373064/dish-project-genesis-5g-accounts-service</id>
+        <link href="https://www.theverge.com/2022/9/27/23373064/dish-project-genesis-5g-accounts-service"/>
+        <updated>2022-09-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Amelia Holowaty Krales / The Verge
+    
+
+
+  
+The company is expanding Project Genesis’ coverage, but there are still basic features missing that make it clear the service isn’t for the general public.
+ As soon as I got in my car, my Galaxy S22 connected to Dish’s brand new 5G network lost connection to the internet. I was a little surprised but not shocked — the service, Project Genesis, is only a few months old and only covers around a quarter of the US population. The service has always been a bit spotty on my side of Spokane, Washington, growing stronger and more reliable as you get closer to downtown. But as I drove laps around Riverside park, which was once my go-to testing area for the service, I grew increasingly confused — my phone no longer seemed to be connecting to any …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Supreme Court case that’s likely to handcuff the Clean Water Act]]></title>
+        <id>https://www.vox.com/policy-and-politics/2022/9/27/23363959/supreme-court-clean-water-act-sackett-epa-rapanos-wetlands</id>
+        <link href="https://www.vox.com/policy-and-politics/2022/9/27/23363959/supreme-court-clean-water-act-sackett-epa-rapanos-wetlands"/>
+        <updated>2022-09-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A wake from a passing tugboat buffets the shoreline of the Mississippi River on March 18, in New Orleans, Louisiana. | Andrew Lichtenstein/Corbis via Getty Images
+    
+
+  
+Sackett v. EPA may prove to be the most significant attack on America’s clean water laws since the 1970s.
+ For decades, the Supreme Court struggled to define a key term at the heart of the Clean Water Act, the landmark 1972 legislation that forms the backbone of America’s efforts to “restore and maintain the chemical, physical, and biological integrity of the Nation’s waters.” 
+It’s an admittedly difficult question, that is now in the hands of the most conservative Supreme Court since the 1930s. And the Court’s Republican-appointed supermajority seems poised to deal a severe blow to the clean water law, in a case that co…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Japan’s State Funeral for Shinzo Abe Is So Controversial]]></title>
+        <id>3ad5b9</id>
+        <link href="https://www.vice.com/en_us/article/3ad5b9/why-japan-state-funeral-shinzo-abe-controversial"/>
+        <updated>2022-09-27T11:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Thousands marched against the lavish ceremony as crowds lined up at memorial sites to pay their respects to the assassinated former prime minister.]]></summary>
+        <author>
+            <name>Hanako Montgomery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC to hear pleas challenging demonetisation of currency notes]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/sc-to-hear-pleas-challenging-demonetisation-of-currency-notes-on-september-28/articleshow/94480806.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/sc-to-hear-pleas-challenging-demonetisation-of-currency-notes-on-september-28/articleshow/94480806.cms"/>
+        <updated>2022-09-27T11:26:32.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court is all set of hear pleas challenging Centre's decision to demonetise currency notes of Rs 500, Rs 1,000 on Friday, September 28, news agency ANI reported.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King Charles' new monogram unveiled as royal mourning ends in UK]]></title>
+        <id>https://timesofindia.indiatimes.com/world/uk/king-charles-new-monogram-unveiled-as-royal-mourning-ends-in-uk/articleshow/94480949.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/uk/king-charles-new-monogram-unveiled-as-royal-mourning-ends-in-uk/articleshow/94480949.cms"/>
+        <updated>2022-09-27T11:14:40.000Z</updated>
+        <summary type="html"><![CDATA[King Charles III's new cypher is designed by the College of Arms and shows his initial – C – intertwined with the letter R for Rex, which is Latin for King, and III is marked within the letter R with the imperial crown above the letters. The all-in-gold royal monogram will be added to various public offices, papers, and street furniture across the UK over the coming months and years.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese PM Kishida expresses his intention to continue working with PM Modi to realise 'Free and Open Indo-Pacific']]></title>
+        <id>https://timesofindia.indiatimes.com/india/japanese-pm-kishida-expresses-his-intention-to-continue-working-with-pm-modi-to-realise-free-and-open-indo-pacific/articleshow/94480727.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/japanese-pm-kishida-expresses-his-intention-to-continue-working-with-pm-modi-to-realise-free-and-open-indo-pacific/articleshow/94480727.cms"/>
+        <updated>2022-09-27T11:09:02.000Z</updated>
+        <summary type="html"><![CDATA[India News: TOKYO: Japanese prime minister Fumio Kishida on Tuesday expressed his intention to continue working with Prime Minister Narendra Modi to realise a "Fr.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Document onboarding startup Flatfile nabs $50M from investors, including Workday]]></title>
         <id>https://techcrunch.com/?p=2404398</id>
@@ -56,6 +318,19 @@ Unless, of course, they actually hadn’t stopped.
 In recent years, researchers have begun questioning how the philanthropy sector tracks charitable giving. Ofte…]]></summary>
         <author>
             <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clea and Clea 2 to Deliver Double Dose of Horror on PlayStation 4]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27/clea-and-clea-2-to-deliver-double-dose-of-horror-on-playstation-4</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27/clea-and-clea-2-to-deliver-double-dose-of-horror-on-playstation-4"/>
+        <updated>2022-09-27T10:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Sekai Project lines up the next platform for September 30 launch
+
+
+Following releases on Steam, Nintendo Switch and Xbox, developer InvertMouse's Clea and Clea 2 horror games are now on the way to PlayStation 4. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
         </author>
     </entry>
     <entry>
@@ -139,6 +414,16 @@ A recent video published on the company’s science blog features a new “pinch
 The topic of warehouse automation is more relevant than ever in the retail and e-commerce industries…]]></summary>
         <author>
             <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman gives birth 24 hours after discovering she is pregnant]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/shocking-woman-gives-birth-24-hours-after-discovering-she-is-pregnant/articleshow/94477995.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/shocking-woman-gives-birth-24-hours-after-discovering-she-is-pregnant/articleshow/94477995.cms"/>
+        <updated>2022-09-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine the dread of going into labour just hours after finding out that you're pregnant. A 25-year-old woman, Molly Gilbert, from Trowell, Nottinghamshire, was startled to learn that she was pregnant, completely unaware of what was to follow 24 hours later.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -937,6 +1222,16 @@ Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit by Annie 
         <summary type="html"><![CDATA[Navratri is one of the major Hindu festivals that is celebrated with much enthusiasm in India as well as by the Hindu community abroad. Devotees, during this time, visit famous Durga temples across the country to pray to Maa Shakti (a form of Goddess Durga).This is also the time when people flock to different Shakti Peethas and the temples dedicated to the nine forms of Durga that are spread throughout the Indian subcontinent. On that note, let’s have a look at nine revered temples dedicated to Goddess’s nine different forms:]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temples dedicated to nine Durga avatars]]></title>
+        <id>https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms</id>
+        <link href="https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms"/>
+        <updated>2022-09-27T06:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Navratri is one of the major Hindu festivals that is celebrated with much enthusiasm in India as well as by the Hindu community abroad. Devotees, during this time, visit famous Durga temples across the country to pray to Maa Shakti (a form of Goddess Durga).This is also the time when people flock to different Shakti Peethas and the temples dedicated to the nine forms of Durga that are spread throughout the Indian subcontinent. On that note, let’s have a look at nine revered temples dedicated to Goddess’s nine different forms:]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

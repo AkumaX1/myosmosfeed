@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nWhatsApp has published details of a “critical” vulnerability that has been patched in a newer version of the app but could still affect older installations that have not been updated.\nDetails were disclosed in a September update of WhatsApp’s page on security advisories affecting the app and came to light on September 23rd.\nThe critical bug would allow an attacker to exploit a code error known as an integer overflow, letting them execute their own code on a victim’s smartphone after sending a specially crafted video call. Remote code execution vulnerabilities are a key step in installing malware, spyware, or other malicious applications on a target system, as they give attackers a foot in the door that can be used to further compromise the m…",
+          "link": "https://www.theverge.com/2022/9/27/23374468/whatsapp-bug-video-call-vulnerability-cve",
+          "publishedOn": "2022-09-27T12:13:49.000Z",
+          "wordCount": 11906,
+          "title": "WhatsApp discloses critical vulnerability in older app versions",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/dhd6q_wG0Md3XtEj_RngoI3qwiU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22245551/acastro_210119_1777_whatsapp_0003.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/27/23372711/skullcandy-plyr-slyr-wireless-gaming-headset-bluetooth-features-price",
+          "author": null,
+          "description": "The PLYR has a unique (definitely divisive) design. This model, in particular, costs $129.99. | Image: Skullcandy\n    \n\n  \nYou’d be forgiven for forgetting, or just not knowing, that Skullcandy once had some skin in the game of putting out gaming headsets. The company owned Astro Gaming throughout most of the 2010s, which it later sold to Logitech in 2017. It’s been relatively quiet on the gaming front since then, but Skullcandy’s now back with a new lineup of headsets. There are three, ranging in price and functionality — each accented with a slightly different-looking printer color test page pattern on their sidearms (my interpretation, not Skullcandy’s). There’s the $59.99 wired SLYR, the $99.99 wired but more feature-packed SLYR Pro, and finally, the $129.99 PLYR wireless headset, pict…",
+          "link": "https://www.theverge.com/2022/9/27/23372711/skullcandy-plyr-slyr-wireless-gaming-headset-bluetooth-features-price",
+          "publishedOn": "2022-09-27T12:00:00.000Z",
+          "wordCount": 13443,
+          "title": "Skullcandy’s new wireless gaming headset has a quirky design and Tile integration",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/T72zxJ_09wuqdrqP2WwOi34RAHA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24056282/skullcandyplyrhero.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/27/23373064/dish-project-genesis-5g-accounts-service",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n\n  \nThe company is expanding Project Genesis’ coverage, but there are still basic features missing that make it clear the service isn’t for the general public.\n As soon as I got in my car, my Galaxy S22 connected to Dish’s brand new 5G network lost connection to the internet. I was a little surprised but not shocked — the service, Project Genesis, is only a few months old and only covers around a quarter of the US population. The service has always been a bit spotty on my side of Spokane, Washington, growing stronger and more reliable as you get closer to downtown. But as I drove laps around Riverside park, which was once my go-to testing area for the service, I grew increasingly confused — my phone no longer seemed to be connecting to any …",
+          "link": "https://www.theverge.com/2022/9/27/23373064/dish-project-genesis-5g-accounts-service",
+          "publishedOn": "2022-09-27T11:30:00.000Z",
+          "wordCount": 17474,
+          "title": "After three months, Dish’s 5G service still feels like a beta",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/27JZX0V9x8j-u5Q0WOudkofK70c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23661443/akrales_220629_5323_0047.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23374420/lg-oled-transparent-train-ads-subway-display",
           "author": null,
           "description": "LG Display’s ‘Transparent OLED for Subway Trains’ are already in use within some Chinese trains and Japanese subways. | Image: LG Display\n    \n\n  \nLG Display is showcasing its “Transparent OLED for Subway Trains” at InnoTrans 2022, the world’s largest trade fair for transport technology, where it will feature as a replacement for windows in a concept train from Deutsche Bahn, Germany’s national railway company. The OLED window can be transparent or opaque depending on what it’s displaying. LG Display is using the show in Berlin to expand transparent panel sales to North American and European transport companies.\nLG Display has been supplying transparent OLED displays to transport companies in China and Japan since 2020, so we can already see it in action within a number of subway trains in…",
@@ -3351,6 +3381,36 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2408471",
+          "author": "Darrell Etherington",
+          "description": "NASA has completed a key step of its “Double Asteroid Redirection Test” (DART), smashing a satellite roughly the size of a vending machine into a small moon that’s about half-a-mile in diameter. The moon, Dimorphos, is orbiting an even larger asteroid, Didymos, and while neither is in any danger of colliding with Earth, they’re good […]\nNASA’s DART anti-asteroid satellite successfully smashes into space rock by Darrell Etherington originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/nasas-dart-anti-asteroid-satellite-successfully-smashes-into-space-rock/",
+          "publishedOn": "2022-09-27T12:08:19.000Z",
+          "wordCount": 5154,
+          "title": "NASA’s DART anti-asteroid satellite successfully smashes into space rock",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/dart-impact-nasa.gif?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408061",
+          "author": "Lauren Simonds",
+          "description": "Early-stage founders eager to secure funding (in other words, just about 99.99% of you), listen up. While venture funding may have slowed, venture capital firms still have plenty — and by that we mean billions — of dollars at their disposal. Question is, how do you tap into that monetary mountain? You start by purchasing […]\nShow me the money: General Catalyst and Coatue dish the state of VC at Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/show-me-the-money-general-catalyst-and-coatue-dish-the-state-of-vc-at-disrupt/",
+          "publishedOn": "2022-09-27T12:00:33.000Z",
+          "wordCount": 5608,
+          "title": "Show me the money: General Catalyst and Coatue dish the state of VC at Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/future-of-VC.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408243",
+          "author": "Brian Heater",
+          "description": "In a world of climate change-fueled food shortages, insect-based proteins are being viewed as an increasingly valuable potential alternative food service. Livin Farms has put insect larvae at the center of its own alternative protein play. The Vienna-based firm produces Hive Pro, a modular system designed to automate the process of rearing and processing black […]\nLivin Farms’ investors are betting $5.8M on powdered fly larvae by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/livin-farms-fly-larvae-powder/",
+          "publishedOn": "2022-09-27T12:00:04.000Z",
+          "wordCount": 5584,
+          "title": "Livin Farms’ investors are betting $5.8M on powdered fly larvae",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Tray-_-Black-Soldier-Fly-Larvae©ParisTsitsosforLivinFarms.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2404398",
           "author": "Kyle Wiggers",
           "description": "Data cleansing — prepping data for applications like predictive analytics — takes time. In fact, data scientists spend an estimated 60% of their time cleaning and organizing data, according to one recent survey. It’s not just time that’s lost. According to Experian, “dirty data” costs the average business 15% to 25% of their revenue and […]\nDocument onboarding startup Flatfile nabs $50M from investors, including Workday by Kyle Wiggers originally published on TechCrunch",
@@ -4138,6 +4198,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "7k8evg",
+          "author": "Mack Lamoureux",
+          "description": "The man who admitted to hitting an 18-year-old with his car said the teen was a “Republican extremist.” Authorities have found no evidence of that.",
+          "link": "https://www.vice.com/en_us/article/7k8evg/cayler-ellingson-death",
+          "publishedOn": "2022-09-27T12:03:39.000Z",
+          "wordCount": 4690,
+          "title": "Republicans Are Furious a Driver Was Released After Killing ‘Extremist’ Teen",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63326483f5756300962fbc9c/lede/1664247561698-ap22266568570259.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63326483f5756300962fbc9c/lede/1664247561698-ap22266568570259.jpeg"
+        },
+        {
+          "id": "88qvg3",
+          "author": "Koh Ewe",
+          "description": "“You’re living off a repressed underclass,” Bourdain tells his Singaporean hosts, who talk of not filling their own glasses or doing their own washing.",
+          "link": "https://www.vice.com/en_us/article/88qvg3/anthony-bourdain-domestic-workers-singapore",
+          "publishedOn": "2022-09-27T11:32:08.000Z",
+          "wordCount": 11555,
+          "title": "An Old Anthony Bourdain Clip Has Sparked a Heated Debate About the Treatment of 'Maids'",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6332d5dd112f84009b7db7a0/lede/1664277495945-gettyimages-97303108.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6332d5dd112f84009b7db7a0/lede/1664277495945-gettyimages-97303108.jpeg"
+        },
+        {
+          "id": "3ad5b9",
+          "author": "Hanako Montgomery",
+          "description": "Thousands marched against the lavish ceremony as crowds lined up at memorial sites to pay their respects to the assassinated former prime minister.",
+          "link": "https://www.vice.com/en_us/article/3ad5b9/why-japan-state-funeral-shinzo-abe-controversial",
+          "publishedOn": "2022-09-27T11:29:33.000Z",
+          "wordCount": 8774,
+          "title": "Why Japan’s State Funeral for Shinzo Abe Is So Controversial",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6332dd616475d10095c03a68/lede/1664278078229-00032k79rx.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6332dd616475d10095c03a68/lede/1664278078229-00032k79rx.jpeg"
+        },
+        {
           "id": "4axnnb",
           "author": "Helen Nguyen",
           "description": "Braise black pepper and fish sauce-marinated pork belly in coconut juice until golden and tender, then serve with fluffy rice and bright pickled mustard greens in this essential Vietnamese recipe.",
@@ -4654,6 +4759,26 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/policy-and-politics/2022/9/27/23356278/the-pandemic-child-care-inflation-crisis",
+          "author": null,
+          "description": "Amanda Northrop/Vox\n    \n\n  \nFamilies are now grappling with inflation and a shortage of day care staff.\n On the Senate floor in early August, just two days before lawmakers voted to pass the Inflation Reduction Act, four senior Democrats came out to lament what they believed to be the bill’s biggest omission: child care.  \n“We cannot simply vote on this package and call it a day,” Sen. Patty Murray (D-WA) said. “Our child care system isn’t just stretched thin; it is broken.”\nLess than two months later, the extent of that brokenness is clearer than ever. Public schools are fully reopened, and most pandemic-era restrictions are relaxed. But working conditions for families with kids who need child care are not back to normal. For both workers and parents, already-grim trends in child care ha…",
+          "link": "https://www.vox.com/policy-and-politics/2022/9/27/23356278/the-pandemic-child-care-inflation-crisis",
+          "publishedOn": "2022-09-27T12:00:00.000Z",
+          "wordCount": 4110,
+          "title": "The pandemic child care crisis is still here",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/8OCRzuLAncvQ5xgb2gbbKFoX1d4=/0x230:3000x1801/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24048190/childcare_final.jpg"
+        },
+        {
+          "id": "https://www.vox.com/policy-and-politics/2022/9/27/23363959/supreme-court-clean-water-act-sackett-epa-rapanos-wetlands",
+          "author": null,
+          "description": "A wake from a passing tugboat buffets the shoreline of the Mississippi River on March 18, in New Orleans, Louisiana. | Andrew Lichtenstein/Corbis via Getty Images\n    \n\n  \nSackett v. EPA may prove to be the most significant attack on America’s clean water laws since the 1970s.\n For decades, the Supreme Court struggled to define a key term at the heart of the Clean Water Act, the landmark 1972 legislation that forms the backbone of America’s efforts to “restore and maintain the chemical, physical, and biological integrity of the Nation’s waters.” \nIt’s an admittedly difficult question, that is now in the hands of the most conservative Supreme Court since the 1930s. And the Court’s Republican-appointed supermajority seems poised to deal a severe blow to the clean water law, in a case that co…",
+          "link": "https://www.vox.com/policy-and-politics/2022/9/27/23363959/supreme-court-clean-water-act-sackett-epa-rapanos-wetlands",
+          "publishedOn": "2022-09-27T11:30:00.000Z",
+          "wordCount": 3790,
+          "title": "The Supreme Court case that’s likely to handcuff the Clean Water Act",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/aHHK74ehDsGHcYabOaEfDhXM1uU=/0x392:5472x3257/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24039708/1387320570.jpg"
+        },
         {
           "id": "https://www.vox.com/recode/2022/9/27/23373134/philanthropy-giving-decline-billionaires",
           "author": null,
@@ -6377,6 +6502,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190259",
+          "author": null,
+          "description": "Anime centers on student at magical academy who aims to become master of all magic",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/hidive-streams-vermeil-in-gold-anime-english-dub-reveals-cast/.190259",
+          "publishedOn": "2022-09-27T12:15:00.000Z",
+          "wordCount": 3593,
+          "title": "HIDIVE Streams Vermeil in Gold Anime's English Dub, Reveals Cast",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.5/185551/vermeil_visual.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190253",
           "author": null,
           "description": "EA Originals and Koei Tecmo Games' Omega Force studio revealed the title of its upcoming hunting game Wild Hearts on Tuesday. The companies will begin...",
@@ -7193,6 +7328,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27/clea-and-clea-2-to-deliver-double-dose-of-horror-on-playstation-4",
+          "author": "Joseph Luster",
+          "description": "Sekai Project lines up the next platform for September 30 launch\n\n\nFollowing releases on Steam, Nintendo Switch and Xbox, developer InvertMouse's Clea and Clea 2 horror games are now on the way to PlayStation 4. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27/clea-and-clea-2-to-deliver-double-dose-of-horror-on-playstation-4",
+          "publishedOn": "2022-09-27T10:57:24.000Z",
+          "wordCount": 5926,
+          "title": "Clea and Clea 2 to Deliver Double Dose of Horror on PlayStation 4",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/fe8e52b0df9f3534684e227e820aa6011664276145_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27/giant-beasts-of-ars-original-tv-anime-announced-for-january-2023",
           "author": "Liam Dempsey",
@@ -8091,6 +8236,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/holiday-in-montenegro-becomes-an-escape-from-call-up-for-russians/article65941965.ece",
+          "author": "Reuters",
+          "description": "Though officials called on Russians to mobilise in Ukraine, some are turning down the opportunity to go to war",
+          "link": "https://www.thehindu.com/news/international/holiday-in-montenegro-becomes-an-escape-from-call-up-for-russians/article65941965.ece",
+          "publishedOn": "2022-09-27T12:10:32.000Z",
+          "wordCount": 6238,
+          "title": "Holiday in Montenegro becomes an escape from call-up for Russians",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/78ow64/article65941990.ece/alternates/LANDSCAPE_615/5KXBFM7QGBJGZJMPMEYE2ZBYPY.jpeg"
+        },
+        {
           "id": "https://www.thehindu.com/business/Industry/defence-manufacturer-saab-to-set-up-new-facility-in-india-make-weapons-system/article65941544.ece",
           "author": "Reuters",
           "description": "The Carl-Gustaf M4 is a recoilless rifle which has been ordered by the Indian armed forces.",
@@ -8737,6 +8892,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482524.cms",
+          "author": null,
+          "description": "India News: TOKYO: Shinzo Abe \"was a great leader, a phenomenal individual and someone who believed in India-Japan friendship\", Prime Minister Narendra Modi recal.",
+          "link": "https://timesofindia.indiatimes.com/india/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482524.cms",
+          "publishedOn": "2022-09-27T11:47:06.000Z",
+          "wordCount": 6029,
+          "title": "Abe was 'phenomenal', believed in India-Japan friendship, recalls Modi as he pays tribute",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94482349,width-1070,height-580,imgsize-1679507,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/three-times-a-congress-leader-gave-up-cm-seat-for-party-president-post/articleshow/94478018.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: With Sonia Gandhi, Rahul Gandhi and Priyanka Gandhi Vadra deciding not to run in next month's Congress president election, the party seems .",
+          "link": "https://timesofindia.indiatimes.com/india/three-times-a-congress-leader-gave-up-cm-seat-for-party-president-post/articleshow/94478018.cms",
+          "publishedOn": "2022-09-27T11:38:44.000Z",
+          "wordCount": 6864,
+          "title": "Three times a Congress leader gave up CM seat for party president post",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94481653,width-1070,height-580,imgsize-664456,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday dismissed Uddhav Thackeray's plea and allowed Election Commission (EC) to decide which of the two groups will be recognised as the 'real' Shiv Sena. A constitution bench headed Justice D Y Chandrachud passed the order after hearing both the factions and also election commission for over five-and-half hours.",
+          "link": "https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms",
+          "publishedOn": "2022-09-27T11:37:39.000Z",
+          "wordCount": 5346,
+          "title": "Uddhav vs Shinde: SC allows EC to decide which faction is 'real' Shiv Sena",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94481917,width-1070,height-580,imgsize-948582,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/japanese-pm-kishida-expresses-his-intention-to-continue-working-with-pm-modi-to-realise-free-and-open-indo-pacific/articleshow/94480727.cms",
+          "author": null,
+          "description": "India News: TOKYO: Japanese prime minister Fumio Kishida on Tuesday expressed his intention to continue working with Prime Minister Narendra Modi to realise a \"Fr.",
+          "link": "https://timesofindia.indiatimes.com/india/japanese-pm-kishida-expresses-his-intention-to-continue-working-with-pm-modi-to-realise-free-and-open-indo-pacific/articleshow/94480727.cms",
+          "publishedOn": "2022-09-27T11:09:02.000Z",
+          "wordCount": 7058,
+          "title": "Japanese PM Kishida expresses his intention to continue working with PM Modi to realise 'Free and Open Indo-Pacific'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94480626,width-1070,height-580,imgsize-39578,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/cats-dogs-super-sniffer-dog-squad-to-protect-namibian-cheetahs-from-poachers-at-kuno-national-park/articleshow/94479621.cms",
           "author": null,
@@ -9965,6 +10160,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/uk/king-charles-new-monogram-unveiled-as-royal-mourning-ends-in-uk/articleshow/94480949.cms",
+          "author": null,
+          "description": "King Charles III's new cypher is designed by the College of Arms and shows his initial – C – intertwined with the letter R for Rex, which is Latin for King, and III is marked within the letter R with the imperial crown above the letters. The all-in-gold royal monogram will be added to various public offices, papers, and street furniture across the UK over the coming months and years.",
+          "link": "https://timesofindia.indiatimes.com/world/uk/king-charles-new-monogram-unveiled-as-royal-mourning-ends-in-uk/articleshow/94480949.cms",
+          "publishedOn": "2022-09-27T11:14:40.000Z",
+          "wordCount": 9872,
+          "title": "King Charles' new monogram unveiled as royal mourning ends in UK",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94480963,width-1070,height-580,imgsize-81922,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/us/us-teen-interest-in-long-lasting-birth-control-soars-after-roe/articleshow/94477138.cms",
           "author": null,
           "description": "US News: Sixteen-year-old Adismarys Abreu had been discussing a long-lasting birth control implant with her mother for about a year as a potential solution to .",
@@ -10879,6 +11084,66 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/china/chinas-xi-makes-first-public-appearance-in-beijing-since-trip-to-central-asia/articleshow/94482991.cms",
+          "author": null,
+          "description": "Chinese President Xi Jinping visited an exhibition in Beijing on Tuesday, according to state television, in his first public appearance since returning to China from an official trip to Central Asia in mid-September. Xi is widely expected to secure a precedent-breaking third term as leader at the Communist Party's once-in-five-years congress next month.",
+          "link": "https://timesofindia.indiatimes.com/world/china/chinas-xi-makes-first-public-appearance-in-beijing-since-trip-to-central-asia/articleshow/94482991.cms",
+          "publishedOn": "2022-09-27T12:06:40.000Z",
+          "wordCount": 5310,
+          "title": "Xi makes first public appearance since trip to Central Asia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94483061,width-1070,height-580,imgsize-33006,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482272.cms",
+          "author": null,
+          "description": "South Asia News: TOKYO: Shinzo Abe \"was a great leader, a phenomenal individual and someone who believed in India-Japan friendship\", Prime Minister Narendra Modi recal.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/abe-was-phenomenal-believed-in-india-japan-friendship-recalls-modi-as-he-pays-tribute/articleshow/94482272.cms",
+          "publishedOn": "2022-09-27T11:47:06.000Z",
+          "wordCount": 7075,
+          "title": "He was a phenomenal leader: PM pays tribute to Abe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94482349,width-1070,height-580,imgsize-1679507,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/TOIPOLL-Real-reason-for-crises-in-Congress-is/polls/94479856.cms",
+          "author": null,
+          "description": "The Gehlot versus Pilot fight in Rajasthan is a symptom of a festering problem in the Congress party. Take this short quiz and tell us what you think.",
+          "link": "https://timesofindia.indiatimes.com/TOIPOLL-Real-reason-for-crises-in-Congress-is/polls/94479856.cms",
+          "publishedOn": "2022-09-27T11:43:21.000Z",
+          "wordCount": 3018,
+          "title": "TOI Poll: Real reason for crises in Congress is…",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/47529300.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday dismissed Uddhav Thackeray's plea and allowed Election Commission (EC) to decide which of the two groups will be recognised as the 'real' Shiv Sena. A constitution bench headed Justice D Y Chandrachud passed the order after hearing both the factions and also election commission for over five-and-half hours.",
+          "link": "https://timesofindia.indiatimes.com/india/sena-vs-sena-sc-dismisses-uddhavs-plea-to-stay-ec-proceedings/articleshow/94481829.cms",
+          "publishedOn": "2022-09-27T11:37:39.000Z",
+          "wordCount": 5346,
+          "title": "Uddhav vs Shinde: SC allows EC to decide which faction is 'real' Shiv Sena",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94481917,width-1070,height-580,imgsize-948582,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/sc-to-hear-pleas-challenging-demonetisation-of-currency-notes-on-september-28/articleshow/94480806.cms",
+          "author": null,
+          "description": "The Supreme Court is all set of hear pleas challenging Centre's decision to demonetise currency notes of Rs 500, Rs 1,000 on Friday, September 28, news agency ANI reported.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/sc-to-hear-pleas-challenging-demonetisation-of-currency-notes-on-september-28/articleshow/94480806.cms",
+          "publishedOn": "2022-09-27T11:26:32.000Z",
+          "wordCount": 5112,
+          "title": "SC to hear pleas challenging demonetisation of currency notes",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94481476,width-1070,height-580,imgsize-27218,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/shocking-woman-gives-birth-24-hours-after-discovering-she-is-pregnant/articleshow/94477995.cms",
+          "author": null,
+          "description": "Imagine the dread of going into labour just hours after finding out that you're pregnant. A 25-year-old woman, Molly Gilbert, from Trowell, Nottinghamshire, was startled to learn that she was pregnant, completely unaware of what was to follow 24 hours later.",
+          "link": "https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/shocking-woman-gives-birth-24-hours-after-discovering-she-is-pregnant/articleshow/94477995.cms",
+          "publishedOn": "2022-09-27T10:30:00.000Z",
+          "wordCount": 10229,
+          "title": "Woman gives birth 24 hours after discovering she is pregnant",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94478045,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-139078/94478045.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-moves-up-to-fifth-in-icc-odi-rankings/articleshow/94478763.cms",
           "author": null,
           "description": "Riding on her stupendous show against England, India captain Harmanpreet Kaur on Tuesday jumped four spots to reach the fifth spot in the ICC Women's ODI Player Rankings.",
@@ -11027,6 +11292,16 @@
           "wordCount": 9624,
           "title": "Pictures from Jhulan Goswami's last match",
           "imageUrl": "https://static.toiimg.com/photo/94470588.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms",
+          "author": null,
+          "description": "Navratri is one of the major Hindu festivals that is celebrated with much enthusiasm in India as well as by the Hindu community abroad. Devotees, during this time, visit famous Durga temples across the country to pray to Maa Shakti (a form of Goddess Durga).This is also the time when people flock to different Shakti Peethas and the temples dedicated to the nine forms of Durga that are spread throughout the Indian subcontinent. On that note, let’s have a look at nine revered temples dedicated to Goddess’s nine different forms:",
+          "link": "https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms",
+          "publishedOn": "2022-09-27T06:38:15.000Z",
+          "wordCount": 5576,
+          "title": "Temples dedicated to nine Durga avatars",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460365,width-1070,height-580,resizemode-75,imgsize-94460365,pt-32,y_pad-40/94460365.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/auto/electric-cars/car-service-once-every-two-years-mercedes-benz-eqs-sets-new-standard-for-evs/articleshow/94471724.cms",
