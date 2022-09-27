@@ -889,6 +889,66 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html",
+          "author": "Alan Rappeport",
+          "description": "The fate of America’s social safety net programs has re-emerged as a campaign issue ahead of November’s midterm elections.",
+          "link": "https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html",
+          "publishedOn": "2022-09-27T23:00:53.000Z",
+          "wordCount": null,
+          "title": "Biden Says Social Security Is on ‘Chopping Block’ if Republicans Win Congress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/iran-protest-russia.html",
+          "author": "Bret Stephens",
+          "description": "A regime that will not give relief to women deserves no relief from sanctions.",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/iran-protest-russia.html",
+          "publishedOn": "2022-09-27T23:00:07.000Z",
+          "wordCount": null,
+          "title": "Bring On the Women’s Revolutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/ukraine-war-environment.html",
+          "author": "Thomas L. Friedman",
+          "description": "To fully see the destructive impact of the Ukraine war, listen to the Indigenous people who are guardians of some of the world’s remote ecosystems.",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/ukraine-war-environment.html",
+          "publishedOn": "2022-09-27T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Why Putin’s War Is a Crime Against the Planet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/us/mcconnell-electoral-count-act.html",
+          "author": "Carl Hulse",
+          "description": "The Republican leader’s backing enhanced prospects for legislation drafted to prevent a repeat of the Jan. 6 assault, when rioters tried to pressure the vice president to overturn the election.",
+          "link": "https://www.nytimes.com/2022/09/27/us/mcconnell-electoral-count-act.html",
+          "publishedOn": "2022-09-27T22:44:22.000Z",
+          "wordCount": null,
+          "title": "McConnell Endorses Electoral Count Overhaul, Lifting Chances of Enactment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html",
+          "author": "Matthew Cullen",
+          "description": "Here’s what you need to know at the end of the day.",
+          "link": "https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html",
+          "publishedOn": "2022-09-27T22:07:07.000Z",
+          "wordCount": null,
+          "title": "Your Tuesday Evening Briefing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/well/family/gottman-the-love-prescription-marriage.html",
+          "author": "Catherine Pearson",
+          "description": "The renowned love researchers have been happily wed for decades. Would following the advice in their new book improve my own relationship?",
+          "link": "https://www.nytimes.com/2022/09/27/well/family/gottman-the-love-prescription-marriage.html",
+          "publishedOn": "2022-09-27T21:21:49.000Z",
+          "wordCount": null,
+          "title": "The Gottmans’ New Book Tries to Fix Your Marriage In 7 Days",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html",
           "author": "Luke Broadwater",
           "description": "A member of the committee, Stephanie Murphy, represents a district in the path of Hurricane Ian.",
@@ -939,6 +999,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/uk-pound-inflation-mortages.html",
+          "author": "Paul Krugman",
+          "description": "One surprising factor may be home mortgages.",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/uk-pound-inflation-mortages.html",
+          "publishedOn": "2022-09-27T17:06:41.000Z",
+          "wordCount": null,
+          "title": "What’s Behind the British Pound’s Decline?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/us/politics/biden-immigration-asylum.html",
           "author": "Michael D. Shear and Miriam Jordan",
           "description": "The United States has started to allow people to apply for asylum under a new process that the secretary of homeland security hopes can help fix the current “very broken system.”",
@@ -986,6 +1056,16 @@
           "publishedOn": "2022-09-27T15:17:26.000Z",
           "wordCount": null,
           "title": "Inflation Has Hit Tenants Hard. What About Their Landlords?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html",
+          "author": "Somini Sengupta",
+          "description": "There’s growing grievance against a global system that saddles developing countries with debt after extreme weather disasters.",
+          "link": "https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html",
+          "publishedOn": "2022-09-27T14:29:14.000Z",
+          "wordCount": null,
+          "title": "Who pays for climate havoc?",
           "imageUrl": null
         },
         {
@@ -3467,6 +3547,16 @@
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/AP22232500023044.jpg?w=1024"
         },
         {
+          "id": "https://www.rollingstone.com/?p=1349222",
+          "author": "John Lonsdale",
+          "description": "Months after releasing his third album Harry's House, Styles has kicked off his much-anticipated tour (and here's where you can still find tickets to the sold-out shows)",
+          "link": "https://www.rollingstone.com/music/music-news/how-to-buy-harry-styles-tickets-online-love-on-tour-1349222/",
+          "publishedOn": "2022-09-27T18:30:00.000Z",
+          "wordCount": 8492,
+          "title": "Love On Tour 2022: How to Buy Harry Styles Concert Tickets Online",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/05/harry-styles-tickets.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600824",
           "author": "Tomás Mier",
           "description": "Video was created by Ukrainian video director Tanu Muino, who worked on Harry Styles' \"As It Was\" and Normani's \"Wild Side\"",
@@ -5408,6 +5498,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "3ad5kv",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "Postmodern grinders, chrome pipes—the brand’s aesthetic smoking wares got a makeover that would get them into Berghain.",
+          "link": "https://www.vice.com/en_us/article/3ad5kv/laundry-day-rebrand",
+          "publishedOn": "2022-09-27T22:42:04.000Z",
+          "wordCount": 5532,
+          "title": "Laundry Day Just Dropped an Ultra Sick Collection of Futuristic Smokeware",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633358fc46002a009c9d8799/lede/1664318272343-screen-shot-2022-09-27-at-63736-pm.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633358fc46002a009c9d8799/lede/1664318272343-screen-shot-2022-09-27-at-63736-pm.png"
+        },
+        {
+          "id": "m7gpbv",
+          "author": "Nicolette Accardi",
+          "description": "Golde teams up digestive enzymes team up with probiotics and ginger to break the spell when your gut is busted.",
+          "link": "https://www.vice.com/en_us/article/m7gpbv/golde-debloat-ade-review",
+          "publishedOn": "2022-09-27T22:13:21.000Z",
+          "wordCount": 6032,
+          "title": "This Powdered Pineapple Drink Is My Secret Weapon Against Bloat",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633346a6de35bf009b1a96b0/lede/1664305114342-golde.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633346a6de35bf009b1a96b0/lede/1664305114342-golde.png"
+        },
+        {
           "id": "v7vyva",
           "author": "Annabel Gat",
           "description": "Mars in Gemini connects with Saturn in Aquarius.",
@@ -6546,6 +6666,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849588275",
+          "author": "Zack Zwiezen",
+          "description": "I don’t know much about the Gundam franchise beyond a few memories of the older shows when they aired on Toonami back in the day. Young Zack liked the big mech battles. And in 2022, I still like big mechs. I also like team-based shooters. So lucky me, Gundam Evolution mashes together the famous mechs from the Gundam …\nRead more...",
+          "link": "https://kotaku.com/gundam-evolution-evo-shooter-overwatch-f2p-pc-anime-1849588275",
+          "publishedOn": "2022-09-27T22:12:39.000Z",
+          "wordCount": 6003,
+          "title": "New Gundam Game Is Basically Just Overwatch With Giant Mechs",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/db378c992da938a35715d57d3337916d.jpg"
+        },
         {
           "id": "1849588085",
           "author": "Levi Winslow",
@@ -10236,6 +10366,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/national/we-could-not-agree-more-blinken-on-pm-modis-message-to-putin-on-ukraine-war/article65943968.ece",
+          "author": "Sriram Lakshman",
+          "description": "The U.S. Secretary of State was referring to Mr. Modi telling Mr. Putin in Samarkand, on Sept. 16, that this was not the era for war.",
+          "link": "https://www.thehindu.com/news/national/we-could-not-agree-more-blinken-on-pm-modis-message-to-putin-on-ukraine-war/article65943968.ece",
+          "publishedOn": "2022-09-27T22:12:10.000Z",
+          "wordCount": 6339,
+          "title": "‘We could not agree more’: Blinken on PM Modi’s message to Putin on Ukraine war",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ultakf/article65943970.ece/alternates/LANDSCAPE_615/2022-09-27T183332Z_2077472358_RC2TPW9URCND_RTRMADP_3_USA-TAJIKISTAN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/era-of-blind-china-engagement-ending-says-pompeo-in-taiwan/article65943525.ece",
+          "author": "AFP",
+          "description": "President Joe Biden has begun moving to a less ambiguous stance, saying in multiple interviews that the U.S. would come to Taiwan’s aid in the event of an attack",
+          "link": "https://www.thehindu.com/news/international/era-of-blind-china-engagement-ending-says-pompeo-in-taiwan/article65943525.ece",
+          "publishedOn": "2022-09-27T17:04:48.000Z",
+          "wordCount": 6264,
+          "title": "Era of ‘blind’ China engagement ending, says Pompeo in Taiwan",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/inb9oe/article65943532.ece/alternates/LANDSCAPE_615/000_32K78HU.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/kremlin-proxies-to-close-polls-in-sham-ukraine-annexation-votes/article65943277.ece",
           "author": "AFP",
           "description": "The four Russian-occupied regions of Ukraine announced that they would hold the elections just days before voting began on last Friday",
@@ -10244,6 +10394,26 @@
           "wordCount": 6640,
           "title": "Russia’s annexation votes in Ukraine to come to a close",
           "imageUrl": "https://th-i.thgim.com/public/incoming/4f17zi/article65943502.ece/alternates/LANDSCAPE_615/Russia_Ukraine_16104.jpg-93c08.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/rights-group-says-iran-protest-death-toll-increases-as-crackdown-intensifies/article65942956.ece",
+          "author": "AFP",
+          "description": "Iran has seen nationwide protests for the past few days over the death of Mahsa Amini",
+          "link": "https://www.thehindu.com/news/international/rights-group-says-iran-protest-death-toll-increases-as-crackdown-intensifies/article65942956.ece",
+          "publishedOn": "2022-09-27T16:20:28.000Z",
+          "wordCount": 6312,
+          "title": "Rights group says Iran protest death toll tops 75 as crackdown intensifies",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ct4qj7/article65943419.ece/alternates/LANDSCAPE_615/Iran_Protest_06094.jpg-6c817.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/uk-largest-container-port-hit-by-another-strike-by-workers-union/article65943171.ece",
+          "author": "AFP",
+          "description": "The strike at Felixstowe, which accounts for almost half of the U.K.’s container trade, follows an eight-day walkout last month, the first since 1989",
+          "link": "https://www.thehindu.com/news/international/uk-largest-container-port-hit-by-another-strike-by-workers-union/article65943171.ece",
+          "publishedOn": "2022-09-27T15:34:07.000Z",
+          "wordCount": 6180,
+          "title": "U.K.’s largest container port hit by another strike by workers union",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/w1wg4x/article65943161.ece/alternates/LANDSCAPE_615/2022-08-22T164337Z_1720654973_RC2J1W9HNIXG_RTRMADP_3_BRITAIN-STRIKES-FELIXSTOWE.JPG"
         },
         {
           "id": "https://www.thehindu.com/news/international/questioned-on-f16-assistance-to-pakistan-us-says-relationships-with-india-pakistan-distinct/article65942023.ece",
@@ -10952,6 +11122,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "author": null,
+          "description": "Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.",
+          "link": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "publishedOn": "2022-09-27T22:46:52.000Z",
+          "wordCount": 5643,
+          "title": "UP mantri, BJP MLA sent to jail in riots case, get bail in 2 hours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491715,width-1070,height-580,imgsize-44272,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "author": null,
+          "description": "The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on \"high priority\". \"Security audit of vital installations are being carried out on a regular basis,\" he said.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "publishedOn": "2022-09-27T22:02:36.000Z",
+          "wordCount": 5420,
+          "title": "RSS headquarters cover beefed up; not linked to PFI raids, say cops",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491685,width-1070,height-580,imgsize-55250,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/now-watch-sc-proceedings-streaming-live-on-your-screen/articleshow/94491552.cms",
           "author": null,
@@ -13543,6 +13733,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "author": null,
+          "description": "The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on \"high priority\". \"Security audit of vital installations are being carried out on a regular basis,\" he said.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "publishedOn": "2022-09-27T22:02:36.000Z",
+          "wordCount": 5420,
+          "title": "RSS HQ cover beefed up; not linked to PFI raids: Cops",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491685,width-1070,height-580,imgsize-55250,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/now-watch-sc-proceedings-streaming-live-on-your-screen/articleshow/94491552.cms",
+          "author": null,
+          "description": "Tuesday's streaming was smooth and glitch free, the credit for which goes to Justice D Y Chandrachud under whose leadership the e-committee of the Supreme Court has been striving hard to bring reform in the judicial sector by adoption of new technologies and the live streaming is one of them.",
+          "link": "https://timesofindia.indiatimes.com/india/now-watch-sc-proceedings-streaming-live-on-your-screen/articleshow/94491552.cms",
+          "publishedOn": "2022-09-27T21:42:46.000Z",
+          "wordCount": 7900,
+          "title": "SC live streaming rare treat for students of law",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491578,width-1070,height-580,imgsize-49202,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms",
           "author": null,

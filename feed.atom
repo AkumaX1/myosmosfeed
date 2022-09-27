@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T22:10:47.800Z</updated>
+    <updated>2022-09-27T23:11:46.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Biden Says Social Security Is on ‘Chopping Block’ if Republicans Win Congress]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html"/>
+        <updated>2022-09-27T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[The fate of America’s social safety net programs has re-emerged as a campaign issue ahead of November’s midterm elections.]]></summary>
+        <author>
+            <name>Alan Rappeport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring On the Women’s Revolutions]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/iran-protest-russia.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/iran-protest-russia.html"/>
+        <updated>2022-09-27T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[A regime that will not give relief to women deserves no relief from sanctions.]]></summary>
+        <author>
+            <name>Bret Stephens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Putin’s War Is a Crime Against the Planet]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/ukraine-war-environment.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/ukraine-war-environment.html"/>
+        <updated>2022-09-27T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[To fully see the destructive impact of the Ukraine war, listen to the Indigenous people who are guardians of some of the world’s remote ecosystems.]]></summary>
+        <author>
+            <name>Thomas L. Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UP mantri, BJP MLA sent to jail in riots case, get bail in 2 hours]]></title>
+        <id>https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms"/>
+        <updated>2022-09-27T22:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McConnell Endorses Electoral Count Overhaul, Lifting Chances of Enactment]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/mcconnell-electoral-count-act.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/mcconnell-electoral-count-act.html"/>
+        <updated>2022-09-27T22:44:22.000Z</updated>
+        <summary type="html"><![CDATA[The Republican leader’s backing enhanced prospects for legislation drafted to prevent a repeat of the Jan. 6 assault, when rioters tried to pressure the vice president to overturn the election.]]></summary>
+        <author>
+            <name>Carl Hulse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laundry Day Just Dropped an Ultra Sick Collection of Futuristic Smokeware]]></title>
+        <id>3ad5kv</id>
+        <link href="https://www.vice.com/en_us/article/3ad5kv/laundry-day-rebrand"/>
+        <updated>2022-09-27T22:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Postmodern grinders, chrome pipes—the brand’s aesthetic smoking wares got a makeover that would get them into Berghain.]]></summary>
+        <author>
+            <name>Mary Frances "Francky" Knapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Powdered Pineapple Drink Is My Secret Weapon Against Bloat]]></title>
+        <id>m7gpbv</id>
+        <link href="https://www.vice.com/en_us/article/m7gpbv/golde-debloat-ade-review"/>
+        <updated>2022-09-27T22:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Golde teams up digestive enzymes team up with probiotics and ginger to break the spell when your gut is busted.]]></summary>
+        <author>
+            <name>Nicolette Accardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Gundam Game Is Basically Just Overwatch With Giant Mechs]]></title>
+        <id>1849588275</id>
+        <link href="https://kotaku.com/gundam-evolution-evo-shooter-overwatch-f2p-pc-anime-1849588275"/>
+        <updated>2022-09-27T22:12:39.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know much about the Gundam franchise beyond a few memories of the older shows when they aired on Toonami back in the day. Young Zack liked the big mech battles. And in 2022, I still like big mechs. I also like team-based shooters. So lucky me, Gundam Evolution mashes together the famous mechs from the Gundam …
+Read more...]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We could not agree more’: Blinken on PM Modi’s message to Putin on Ukraine war]]></title>
+        <id>https://www.thehindu.com/news/national/we-could-not-agree-more-blinken-on-pm-modis-message-to-putin-on-ukraine-war/article65943968.ece</id>
+        <link href="https://www.thehindu.com/news/national/we-could-not-agree-more-blinken-on-pm-modis-message-to-putin-on-ukraine-war/article65943968.ece"/>
+        <updated>2022-09-27T22:12:10.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Secretary of State was referring to Mr. Modi telling Mr. Putin in Samarkand, on Sept. 16, that this was not the era for war.]]></summary>
+        <author>
+            <name>Sriram Lakshman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Tuesday Evening Briefing]]></title>
+        <id>https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html"/>
+        <updated>2022-09-27T22:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Here’s what you need to know at the end of the day.]]></summary>
+        <author>
+            <name>Matthew Cullen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid]]></title>
         <id>https://techcrunch.com/?p=2409167</id>
@@ -15,6 +116,26 @@
 Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid by Christine Hall originally published on TechCrunch]]></summary>
         <author>
             <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS headquarters cover beefed up; not linked to PFI raids, say cops]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms"/>
+        <updated>2022-09-27T22:02:36.000Z</updated>
+        <summary type="html"><![CDATA[The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on "high priority". "Security audit of vital installations are being carried out on a regular basis," he said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS HQ cover beefed up; not linked to PFI raids: Cops]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms"/>
+        <updated>2022-09-27T22:02:36.000Z</updated>
+        <summary type="html"><![CDATA[The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on "high priority". "Security audit of vital installations are being carried out on a regular basis," he said.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -140,6 +261,16 @@ It’s a playful way for the developers to wink back at potential haters. If you
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SC live streaming rare treat for students of law]]></title>
+        <id>https://timesofindia.indiatimes.com/india/now-watch-sc-proceedings-streaming-live-on-your-screen/articleshow/94491552.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/now-watch-sc-proceedings-streaming-live-on-your-screen/articleshow/94491552.cms"/>
+        <updated>2022-09-27T21:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday's streaming was smooth and glitch free, the credit for which goes to Justice D Y Chandrachud under whose leadership the e-committee of the Supreme Court has been striving hard to bring reform in the judicial sector by adoption of new technologies and the live streaming is one of them.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Try Guys cut ties with Ned Fulmer after Redditors uncover cheating scandal]]></title>
         <id>https://www.theverge.com/2022/9/27/23375376/the-try-guys-ned-fulmer-cheating-scandal-youtube-reddit-rumors</id>
         <link href="https://www.theverge.com/2022/9/27/23375376/the-try-guys-ned-fulmer-cheating-scandal-youtube-reddit-rumors"/>
@@ -205,6 +336,16 @@ The device starts at $999 and will be available from Asus and Amazon. Ship dates
 Earlier this year, Asus announced an almost-as-large Zenbook Pro 16X OLED, starting at $2,599. The Pro 17, while bigger,…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gottmans’ New Book Tries to Fix Your Marriage In 7 Days]]></title>
+        <id>https://www.nytimes.com/2022/09/27/well/family/gottman-the-love-prescription-marriage.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/well/family/gottman-the-love-prescription-marriage.html"/>
+        <updated>2022-09-27T21:21:49.000Z</updated>
+        <summary type="html"><![CDATA[The renowned love researchers have been happily wed for decades. Would following the advice in their new book improve my own relationship?]]></summary>
+        <author>
+            <name>Catherine Pearson</name>
         </author>
     </entry>
     <entry>
@@ -762,6 +903,16 @@ Here’s Apple’s full statement, from…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Love On Tour 2022: How to Buy Harry Styles Concert Tickets Online]]></title>
+        <id>https://www.rollingstone.com/?p=1349222</id>
+        <link href="https://www.rollingstone.com/music/music-news/how-to-buy-harry-styles-tickets-online-love-on-tour-1349222/"/>
+        <updated>2022-09-27T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Months after releasing his third album Harry's House, Styles has kicked off his much-anticipated tour (and here's where you can still find tickets to the sold-out shows)]]></summary>
+        <author>
+            <name>John Lonsdale</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Interpretive Dance, Earbud Ads, Colorful Buildings But No Elton John or Britney Spears in ‘Hold Me Closer’ Video]]></title>
         <id>https://www.rollingstone.com/?p=1234600824</id>
         <link href="https://www.rollingstone.com/music/music-news/britney-spears-elton-john-hold-me-closer-video-1234600824/"/>
@@ -1118,6 +1269,16 @@ TechCrunch+ roundup: Dot-com crash lessons, reducing CAC, product-led sales by W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s Behind the British Pound’s Decline?]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/uk-pound-inflation-mortages.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/uk-pound-inflation-mortages.html"/>
+        <updated>2022-09-27T17:06:41.000Z</updated>
+        <summary type="html"><![CDATA[One surprising factor may be home mortgages.]]></summary>
+        <author>
+            <name>Paul Krugman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘I Was Indoctrinated’: Maisie Williams Discusses ‘Traumatic’ Childhood Relationship With Her Dad]]></title>
         <id>https://www.rollingstone.com/?p=1234600763</id>
         <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/maisie-williams-father-traumatic-childhood-indoctrinated-interview-1234600763/"/>
@@ -1152,6 +1313,16 @@ There’s a wealth to choose from and not nearly enough time in the day to watch
         <summary type="html"><![CDATA[These autumn-scented candles will set the mood for the season of crunchy leaves, cardamom spice, and cuffing.]]></summary>
         <author>
             <name>Becca Blasdel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Era of ‘blind’ China engagement ending, says Pompeo in Taiwan]]></title>
+        <id>https://www.thehindu.com/news/international/era-of-blind-china-engagement-ending-says-pompeo-in-taiwan/article65943525.ece</id>
+        <link href="https://www.thehindu.com/news/international/era-of-blind-china-engagement-ending-says-pompeo-in-taiwan/article65943525.ece"/>
+        <updated>2022-09-27T17:04:48.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden has begun moving to a less ambiguous stance, saying in multiple interviews that the U.S. would come to Taiwan’s aid in the event of an attack]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -1361,6 +1532,16 @@ Here’s how the new widgets look on my Android phone homescreen.
 It’s ironic and kind of great that Splatoon 3 brought about this forward-thinking online integration out of Nintendo. Compared to previous installments, this game’s online modes are much easier to join and play with friends, and this update is further evidence that Nintendo is more serious than ever before about online. Though, I still haven’t forgotten about that convoluted voice chat solution it devised for Splatoon 2.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rights group says Iran protest death toll tops 75 as crackdown intensifies]]></title>
+        <id>https://www.thehindu.com/news/international/rights-group-says-iran-protest-death-toll-increases-as-crackdown-intensifies/article65942956.ece</id>
+        <link href="https://www.thehindu.com/news/international/rights-group-says-iran-protest-death-toll-increases-as-crackdown-intensifies/article65942956.ece"/>
+        <updated>2022-09-27T16:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Iran has seen nationwide protests for the past few days over the death of Mahsa Amini]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -1691,6 +1872,16 @@ You can get phenomenal noise cancellation and sound quality in the premium tier 
         <summary type="html"><![CDATA[Band will play 16 shows in March, April, July, and August of next year]]></summary>
         <author>
             <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.K.’s largest container port hit by another strike by workers union]]></title>
+        <id>https://www.thehindu.com/news/international/uk-largest-container-port-hit-by-another-strike-by-workers-union/article65943171.ece</id>
+        <link href="https://www.thehindu.com/news/international/uk-largest-container-port-hit-by-another-strike-by-workers-union/article65943171.ece"/>
+        <updated>2022-09-27T15:34:07.000Z</updated>
+        <summary type="html"><![CDATA[The strike at Felixstowe, which accounts for almost half of the U.K.’s container trade, follows an eight-day walkout last month, the first since 1989]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -2079,6 +2270,16 @@ WhatsApp fixes ‘critical’ security bug that put Android phone data at risk b
         <summary type="html"><![CDATA[India News: India will likely extend by three months its free food grains program that covers the majority of the nation’s population and costs more than $18 bill.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who pays for climate havoc?]]></title>
+        <id>https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html"/>
+        <updated>2022-09-27T14:29:14.000Z</updated>
+        <summary type="html"><![CDATA[There’s growing grievance against a global system that saddles developing countries with debt after extreme weather disasters.]]></summary>
+        <author>
+            <name>Somini Sengupta</name>
         </author>
     </entry>
     <entry>
