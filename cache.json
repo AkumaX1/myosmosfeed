@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android",
+          "author": null,
+          "description": "You can set up your username right from the games tab in the Android app. | Image: Netflix\n    \n\n  \nNetflix is officially introducing gamertag-style handles subscribers can use in its mobile games. The company first began rolling out handles that will be shown in multiplayer games and on online leaderboards in some games last month, but in a blog post published Tuesday, Netflix said that users can now set them up on both iOS and Android devices.\nThe process of actually making your handle differs depending on which operating system you use. On Android, in the games tab in Netflix’s navigation bar, you can tap the banner that says “Create your Netflix game handle” to get started. The iOS version of the Netflix app doesn’t have a dedicated games tab, so you’ll need to download a game like Riv…",
+          "link": "https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android",
+          "publishedOn": "2022-09-27T20:14:07.000Z",
+          "wordCount": 13349,
+          "title": "Go get your Netflix gamertag",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/weRiqKfG3RpNAVcQlMh6lZYrjzk=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059352/N_Games_Promo_Ident1.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon",
           "author": null,
           "description": "Currently, the wallet only supports Polygon — no relation to Vox Media’s gaming-focused publication. | Image: Robinhood\n    \n\n  \nRobinhood has launched the beta for its “Web3 wallet” for 10,000 iOS users who signed up for the waitlist. The company teased this product earlier this year after making an earlier crypto wallet more broadly available. Unlike its existing cryptocurrency wallet, the Web3 wallet isn’t just for storing cryptocurrencies that can be traded on the financial platform — it can also be used to “seamlessly access the decentralized web,” as Robinhood’s press release puts it. The wallet will also let people trade cryptocurrencies without any fees.\nThe Web3 wallet also differs from the company’s other crypto wallet in that it’s self-custody, meaning you’re responsible for kee…",
@@ -3357,6 +3367,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234600847",
+          "author": "Larisha Paul",
+          "description": "“It’s my birthday and Kanye West is playing tracks we made,” Blake wrote on Twitter, confirming he produced all three of the teaser songs the rapper shared",
+          "link": "https://www.rollingstone.com/music/music-news/kanye-west-james-blake-new-songs-london-1234600847/",
+          "publishedOn": "2022-09-27T20:37:27.000Z",
+          "wordCount": 7113,
+          "title": "Kanye West Previewed New Songs With James Blake in London, Who Knows if We’ll Ever Hear Them",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/kanye-west-james-blake.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600913",
           "author": "Tomás Mier",
           "description": "\"This gotta be the most random drop of all, but this was so much fun,\" she said",
@@ -4090,6 +4110,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408771",
+          "author": "Devin Coldewey",
+          "description": "Although today’s rocket engines are advanced and powerful, they tend to rely on traditional — and naturally volatile — fuels like hydrazine or liquid oxygen and kerosene. Firehawk Aerospace has a safer and more stable new fuel, new engines, and millions in new funding to take it through the next round of tests to its […]\nFirehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/firehawks-rocket-engines-and-3d-printed-fuel-hit-testing-milestones-ahead-of-first-launch/",
+          "publishedOn": "2022-09-27T20:59:54.000Z",
+          "wordCount": 7775,
+          "title": "Firehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/firehawk-test-stand.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408734",
+          "author": "Rita Liao",
+          "description": "China’s electric vehicle upstart Nio has joined Tesla in sourcing raw materials directly from mines rather than its own battery suppliers as soaring prices of lithium, a critical component of EV batteries, hurt manufacturers’ supply chain stability and bottom lines. Lithium carbonate prices in China hit a record 501,500 yuan/tonne in September, tripling the number […]\nChina’s Nio joins the race for lithium, buys 12% of Australia’s Greenwing Resources by Rita Liao originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/china-ev-nio-race-secure-lithium/",
+          "publishedOn": "2022-09-27T20:47:48.000Z",
+          "wordCount": 7555,
+          "title": "China’s Nio joins the race for lithium, buys 12% of Australia’s Greenwing Resources",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-951522422.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408980",
+          "author": "Amanda Silberling",
+          "description": "Tumblr announced a “community labels” feature this week that will make it easier for bloggers to filter out sensitive content that they may not want to see. Now, users can tag posts with labels pertaining to drug and alcohol addiction, violence and sexual content. Tumblr stopped allowing pornography in 2018 after the Tumblr app was temporarily […]\nNo, Tumblr is not bringing back porn by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/tumblr-bring-back-porn-nsfw-community-labels/",
+          "publishedOn": "2022-09-27T20:44:28.000Z",
+          "wordCount": 7913,
+          "title": "No, Tumblr is not bringing back porn",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/matureShow-e1664306306221.png"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409060",
+          "author": "Tim De Chant",
+          "description": "Kopperfield hopes to make installing a charger as easy for homeowners as ordering new furniture.\nClick to install: Kopperfield’s $5M seed round seeks to speed EV charger adoption by Tim De Chant originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/click-to-install-kopperfields-5m-seed-round-seeks-to-speed-ev-charger-adoption/",
+          "publishedOn": "2022-09-27T20:30:12.000Z",
+          "wordCount": 6454,
+          "title": "Click to install: Kopperfield’s $5M seed round seeks to speed EV charger adoption",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1404846568.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2409164",
           "author": "Lucas Matney",
@@ -5248,6 +5308,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "v7vyva",
+          "author": "Annabel Gat",
+          "description": "Mars in Gemini connects with Saturn in Aquarius.",
+          "link": "https://www.vice.com/en_us/article/v7vyva/daily-horoscope-september-28-2022",
+          "publishedOn": "2022-09-27T21:00:00.000Z",
+          "wordCount": 4775,
+          "title": "Daily Horoscope: September 28, 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6333199e0b7b1a0094aef004/lede/1664293294071-7libradaily21920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6333199e0b7b1a0094aef004/lede/1664293294071-7libradaily21920x1080.jpeg"
+        },
+        {
+          "id": "7k8exe",
+          "author": "Samantha Cole",
+          "description": "A deli in New Jersey that went viral last year for entering the stock market with a multimillion-dollar valuation is now facing charges.",
+          "link": "https://www.vice.com/en_us/article/7k8exe/sec-charges-owners-of-jersey-deli-somehow-worth-dollar100-million-with-brazen-fraud",
+          "publishedOn": "2022-09-27T20:32:30.000Z",
+          "wordCount": 3925,
+          "title": "SEC Charges Owners of Jersey Deli Somehow Worth $100 Million With ‘Brazen’ Fraud",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63335d6dd18e93009f8f43e3/lede/1664310639745-screen-shot-2022-09-27-at-42913-pm.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63335d6dd18e93009f8f43e3/lede/1664310639745-screen-shot-2022-09-27-at-42913-pm.png"
+        },
+        {
           "id": "epnywe",
           "author": "Mary Frances \"Francky\" Knapp",
           "description": "No need to blow your whole gourd on a rad Halloween costume with these affordable, comfy, creative, sExY, and brain-melting disguises.",
@@ -6347,6 +6437,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849587727",
+          "author": "Claire Jackson",
+          "description": "Though it’s not expected until next year, this week we got an even closer look at the upcoming HBO TV adaptation of the PlayStation 3 megahit, The Last of Us. Previous glimpses of the show revealed some stunning parity to the source material, and the first teaser trailer shows even more synergy with the game’s set…\nRead more...",
+          "link": "https://kotaku.com/the-last-of-us-hbo-joel-ellie-naughty-dog-playstation-1849587727",
+          "publishedOn": "2022-09-27T20:45:00.000Z",
+          "wordCount": 6852,
+          "title": "HBO’s The Last Of Us Trailer: 11 Things That Caught Our Eye",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5c4717a729cf8048e6efdbb8b7bc314a.jpg"
+        },
+        {
+          "id": "1849587799",
+          "author": "Ethan Gach",
+          "description": "With Overwatch 2’s launch just a week away, Blizzard spilled more details about what will be different in the free-to-play sequel, and it’s sounding rough. While returning players will have access to all of the game’s returning heroes, brand new players will have to play approximately 100 matches to unlock them all. A…\nRead more...",
+          "link": "https://kotaku.com/overwatch-2-unlock-heroes-ftp-battle-pass-blizzard-1849587799",
+          "publishedOn": "2022-09-27T20:36:00.000Z",
+          "wordCount": 5872,
+          "title": "Overwatch 2 Is Sounding More And More Like A Free-To-Play Nightmare",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7e70679e993db891a56cee5625b72645.jpg"
+        },
+        {
           "id": "1849587596",
           "author": "Levi Winslow",
           "description": "If you were hoping for more Madden 23 content as part of the game’s weekly schedule, you might be waiting a little longer. With Florida currently experiencing horrid complications due to the rapidly approaching Hurricane Ian, developer EA Tiburon announced that this week’s Madden drops are “subject to change.”\nRead more...",
@@ -7064,6 +7174,26 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23373620/league-of-legends-spirit-blossom-sett-aphelios-ship-fan-art",
+          "author": null,
+          "description": "Image: Riot Games\n    \n\n  \nWhat’s more romantic than calling your beau a mooncake?\n Shipping is fun, and League of Legends offers a veritable armada of potential ships to sail. The roster has over 160 champions, some of whom are canonically together, while others have plenty of in-universe justification for ships. Then, there’s the just-for-fun ships, the combinations of champions that haven’t happened to meet yet and may never meet. But once in a while, these long-shot ships pay off, and fans get to enjoy a feast of vindication.\nTake Sett and Aphelios. Sett is a yakuza-style criminal who runs an Ionian fighting ring, and Aphelios is a silent moon assassin from Mount Targon who channels the spiritual power of his twin sister Alune to summon mystical weapons and slay sun warriors. Despite b…",
+          "link": "https://www.polygon.com/23373620/league-of-legends-spirit-blossom-sett-aphelios-ship-fan-art",
+          "publishedOn": "2022-09-27T21:05:00.000Z",
+          "wordCount": 2773,
+          "title": "League of Legends fans are making gorgeous fan art for an unexpected Spirit Blossom ship",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/55qq9b3yYatIKsNCtS84cRn-v9A=/0x50:4096x2195/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24039190/FdHITr4X0AAQ6xR.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23375343/joker-multiversus-mark-hamill-roster-leak-batman",
+          "author": null,
+          "description": "Image: Warner Bros. Animation\n    \n\n  \nA dataminer claimed to find the files with Mark Hamill’s voice\n Mark Hamill could be the voice of the Joker in Warner Bros.’ fighting game, MultiVersus, a new datamine revealed on Tuesday. The actor, who is perhaps most known for playing Luke Skywalker in the Star Wars series is also one of the most recognizable voices of Joker. The actor first played Batman’s iconic nemesis in Batman: The Animated Series, and now it’s looking like he’ll reprise his role in the game.\nThe Joker was previously rumored to be a fighter in the game thanks to a March datamine. The new audio containing the Joker’s lines was posted on Twitter by user Laisul. In the video, you can hear all of Joker’s match announcement lines, in a voice that sounds quite a bit like Hamill’s. \nPolygon reached out to a representative of the development team to confirm the leak, and will update this story as we hear back. \nHamill has reprised his role as The Clown Prince of Crime several times since his first appearance in the 1992 animate series, including in games like the Batman: Arkham series and Lego DC Super-Villains.\nMultiVersus is a free-to-play competitive fighting game series that features a cast of fighters from various Warner Bros. properties and series. Most recently, the developers added Rick Sanchez from the adult animation series Rick and Morty to the game.",
+          "link": "https://www.polygon.com/23375343/joker-multiversus-mark-hamill-roster-leak-batman",
+          "publishedOn": "2022-09-27T20:35:59.000Z",
+          "wordCount": 2061,
+          "title": "MultiVersus might be getting the best version of the Joker",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/sGRE1KA0-ce8g9uQ1Y6kHBxNbWo=/0x30:2394x1283/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22158046/Christmas_with_the_Joker.png"
+        },
+        {
           "id": "https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players",
           "author": null,
           "description": "Image: Blizzard Entertainment\n    \n\n  \nBlizzard says Overwatch newcomers will need to play about 100 matches to unlock every classic hero\n Overwatch 2 players who are brand-new to the franchise — meaning those who never played the original Overwatch — will need to spend considerable time with the sequel to unlock the game’s existing roster of 32 heroes. Blizzard Entertainment said Tuesday that as part of Overwatch 2’s “first-time user experience,” new players will unlock the game’s modes and all original Overwatch heroes “over the course of approximately 100 matches.”\nBlizzard cited “consistent feedback from new players feeling overwhelmed by numerous game modes and heroes” in a blog post explaining how the game maker plans to accommodate an influx of newcomers with Overwatch’s free-to-pla…",
@@ -7310,6 +7440,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating",
+          "author": null,
+          "description": "Photo by Kevin Winter/Getty Images for Global Citizen VAX LIVE\n    \n\n  \nWhy Ned Fulmer is out of the popular YouTube group\n On Tuesday, popular YouTube group The Try Guys announced they have parted with co-creator and executive producer Ned Fulmer. The group shared the announcement on social media platforms, including Twitter and Instagram, and it caps off a day of intense internet sleuthing, speculation, and conspiracy from fans.\n“Ned Fulmer is no longer working with The Try Guys,” the statement reads. “As a result of a thorough internal review, we do not see a path forward together. We thank you for your support as we navigate this change.” \nThe group’s Twitter bio has already been updated to remove Fulmer’s handle, and their social media avatars across the brand’s pages have been change…",
+          "link": "https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating",
+          "publishedOn": "2022-09-27T20:55:01.000Z",
+          "wordCount": 2886,
+          "title": "The Try Guys firing drama, explained",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/aBOJx74Or8mqxIy-3QnwqonP0O0=/0x0:5000x2618/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059567/1315963383.jpg"
+        },
         {
           "id": "https://www.polygon.com/22919571/best-anime-2022",
           "author": null,
@@ -7667,6 +7807,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "5a27df8e-44c4-493b-89c8-8797c2a4b792",
+          "author": "Logan Plant",
+          "description": "Popular controller builder Rudeism shows off the custom trombone controller he made for Trombone Champ.",
+          "link": "https://www.ign.com/articles/trombone-champ-trombone-controller",
+          "publishedOn": "2022-09-27T19:42:57.000Z",
+          "wordCount": 9378,
+          "title": "Here’s Trombone Champ Being Played With a Custom Trombone Controller",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/21/trombonechampannouncementtrailer-ign-blogroll-1663784672537.jpg?width=1280"
+        },
         {
           "id": "320fc802-e84e-48f1-a504-4cc9c5ed7abc",
           "author": "George Yang",
@@ -8091,6 +8241,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190265",
+          "author": null,
+          "description": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc, Yuki Yuna is a Hero anime; Thus Spoke Rohan Kishibe, Lazy Dungeon Master manga ship",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/north-american-anime-manga-releases-september-25-october-1/.190265",
+          "publishedOn": "2022-09-27T21:00:00.000Z",
+          "wordCount": 4233,
+          "title": "North American Anime, Manga Releases, September 25-October 1",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g99/herald/139673/816546026639-anime-demon-slayer-kimetsu-no-yaiba-mugen-train-arc-limited-edition-blu-ray-primary.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190264",
           "author": null,
@@ -10653,6 +10813,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/sachin-pilot-rushes-back-to-delhi-sonia-gandhi-meets-raft-of-congress-leaders/articleshow/94491167.cms",
+          "author": null,
+          "description": "Three Rajasthan Congress members - senior ministers Shanti Dhariwal and Mahesh Joshi, and RTDC chairman Dharmendra Rathore - have been asked to respond to a show-cause notice in 10 days for Sunday's boycott of the legislature party meeting in Jaipur.",
+          "link": "https://timesofindia.indiatimes.com/india/sachin-pilot-rushes-back-to-delhi-sonia-gandhi-meets-raft-of-congress-leaders/articleshow/94491167.cms",
+          "publishedOn": "2022-09-27T20:17:45.000Z",
+          "wordCount": 6144,
+          "title": "Sachin Pilot rushes back to Delhi; Sonia Gandhi meets raft of Congress leaders",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491192,width-1070,height-580,imgsize-58584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-tries-to-distance-self-from-parallel-meeting/articleshow/94491166.cms",
+          "author": null,
+          "description": "Rajasthan CM Ashok Gehlot on Tuesday distanced himself from the alleged \"parallel meeting\" at cabinet colleague Shanti Dhariwal's residence in the run-up to the mass resignations that scuttled Sunday night's CLP meeting, saying that MLAs supposedly loyal to him gathered there without his knowledge and that he never intended to deviate from what the Congress high command wanted him to do.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-tries-to-distance-self-from-parallel-meeting/articleshow/94491166.cms",
+          "publishedOn": "2022-09-27T20:17:13.000Z",
+          "wordCount": 6256,
+          "title": "Ashok Gehlot tries to distance self from 'parallel meeting'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491184,width-1070,height-580,imgsize-29818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/hindus-for-labour-says-party-would-strengthen-bilateral-ties-between-india-pakistan/articleshow/94490648.cms",
           "author": null,
           "description": "Hindus for Labour is calling for a future Labour government to strengthen bilateral relations between India and Pakistan in order to build strong communities in Britain, particularly in light of the Leicester violence.",
@@ -13113,6 +13293,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/contest-aicc-poll-leave-rajasthan-cm-call-to-sonia-gandhi-congress-to-ashok-gehlot/articleshow/94491215.cms",
+          "author": null,
+          "description": "The bid to rope in Gehlot, who is in the eye of a storm over the boycott of the legislative party meeting in Jaipur on Sunday, have been on for two days, and the party seems to be using a mix of persuasion and sternness to nudge him.",
+          "link": "https://timesofindia.indiatimes.com/india/contest-aicc-poll-leave-rajasthan-cm-call-to-sonia-gandhi-congress-to-ashok-gehlot/articleshow/94491215.cms",
+          "publishedOn": "2022-09-27T20:39:24.000Z",
+          "wordCount": 7515,
+          "title": "Contest AICC poll, leave Rajasthan CM call to Sonia Gandhi: Congress to Ashok Gehlot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491242,width-1070,height-580,imgsize-94174,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/army-set-to-induct-kamikaze-drones-deploys-more-winterised-howitzers-on-china-front/articleshow/94490192.cms",
           "author": null,
