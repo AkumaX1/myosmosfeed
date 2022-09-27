@@ -2016,6 +2016,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html",
+          "author": "Chang Che and Zixu Wang",
+          "description": "China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.",
+          "link": "https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html",
+          "publishedOn": "2022-09-27T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Dating Apps Thrive in China, but Not Just for Romance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html",
           "author": "Ellen Gabler and Sheera Frenkel",
           "description": "We want to hear from you.",
@@ -2183,6 +2193,36 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html",
+          "author": "Kim Severson",
+          "description": "A new, unauthorized biography reveals intimate, often raw, details of the TV star’s life and death. And it’s drawing criticism from many of his friends and family.",
+          "link": "https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html",
+          "publishedOn": "2022-09-27T09:00:21.000Z",
+          "wordCount": null,
+          "title": "A New Book Traces the Last, Painful Days of Anthony Bourdain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/books/review/listen-world-julia-scheeres-allison-gilbert.html",
+          "author": "Glynnis MacNicol",
+          "description": "In “Listen, World!,” Julia Scheeres and Allison Gilbert present a portrait of the pioneering journalist Elsie Robinson.",
+          "link": "https://www.nytimes.com/2022/09/27/books/review/listen-world-julia-scheeres-allison-gilbert.html",
+          "publishedOn": "2022-09-27T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Book Review: “Listen, World!” by Julia Scheeres and Allison Gilbert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/books/review/sweet-soft-plenty-rhythm-laura-warrell.html",
+          "author": "Lauren Christensen",
+          "description": "Laura Warrell’s debut novel, “Sweet, Soft, Plenty Rhythm,” features a rugged trumpet player and all the women he disappoints.",
+          "link": "https://www.nytimes.com/2022/09/27/books/review/sweet-soft-plenty-rhythm-laura-warrell.html",
+          "publishedOn": "2022-09-27T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Sweet, Soft, Plenty Rhythm,’ by Laura Warrell",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/books/review/concerning-my-daughter-kim-hye-jin.html",
           "author": "Imogen West-Knights",
           "description": "In Kim Hye-jin’s “Concerning My Daughter,” an unnamed mother laments her adult child’s life choices, even as she takes her back in.",
@@ -2329,6 +2369,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html",
+          "author": "Corey Kilgannon",
+          "description": "“The Greatest Beer Run Ever” tells the story of Chickie Donohue’s unlikely but true adventure bringing suds from New York to his military pals in 1967 Vietnam.",
+          "link": "https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html",
+          "publishedOn": "2022-09-27T09:00:13.000Z",
+          "wordCount": null,
+          "title": "The True Story Behind ‘The Greatest Beer Run Ever’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html",
           "author": "Trish Bendix",
@@ -2874,6 +2924,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234600557",
+          "author": "Emily Zemler",
+          "description": "\"I was like, 'Hey Harry, you know what would be a great idea?'\" the comedian joked of #SpitGate",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/nick-kroll-dont-worry-darling-drama-fallon-1234600557/",
+          "publishedOn": "2022-09-27T09:00:44.000Z",
+          "wordCount": 7407,
+          "title": "Nick Kroll Takes Credit for ‘Don’t Worry Darling’ Drama on ‘Fallon’: ‘I’m the Puppeteer’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/NUP_199240_01101.jpg?w=1000"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234578282",
           "author": "Sage Anderson",
           "description": "Three years after the GoT finale, you can catch the rise and fall of the Targaryen family on HBO Max",
@@ -3110,6 +3170,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2404012",
+          "author": "Paul Sawers",
+          "description": "Internal combustion engines still rule the roost when it comes to powering automobiles, but there are signs that they’re slowly trundling into oblivion, at least in some markets. The likes of Sweden, Denmark, and the U.K. are planning to ban sales of diesel and petrol cars by the end of the decade, while markets such […]\nPapaya wants to help electrify last-mile logistics in Europe by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/papaya-wants-to-help-electrify-last-mile-logistics-in-europe/",
+          "publishedOn": "2022-09-27T08:42:40.000Z",
+          "wordCount": 7220,
+          "title": "Papaya wants to help electrify last-mile logistics in Europe",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/IMG_3903.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2408402",
           "author": "Annie Njanja",
@@ -6032,6 +6102,26 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190234",
+          "author": null,
+          "description": "Mino recently ended Yakuza Lover manga in June",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/yakuza-lover-nozomi-mino-launches-new-manga-on-december-23/.190234",
+          "publishedOn": "2022-09-27T09:03:00.000Z",
+          "wordCount": 3296,
+          "title": "Yakuza Lover's Nozomi Mino Launches New Manga on December 23",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK5/cms/news.5/181939/yakuzalover.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190237",
+          "author": null,
+          "description": "Manga launches on October 26",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/yuichi-hasegawa-launches-new-crossbone-gundam-manga-about-karras/.190237",
+          "publishedOn": "2022-09-27T08:33:00.000Z",
+          "wordCount": 3436,
+          "title": "Yūichi Hasegawa Launches New Crossbone Gundam Manga About Karras",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g3L/cms/news.5/190237/karras.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190211",
           "author": null,
           "description": "Stage play runs from December 2022 to January 2023",
@@ -8303,6 +8393,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/time-is-to-move-ahead-at-faster-pace-rajnath-to-indian-defence-manufacturers/articleshow/94476546.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: India has set a target of Rs 1.",
+          "link": "https://timesofindia.indiatimes.com/india/time-is-to-move-ahead-at-faster-pace-rajnath-to-indian-defence-manufacturers/articleshow/94476546.cms",
+          "publishedOn": "2022-09-27T09:03:18.000Z",
+          "wordCount": 5476,
+          "title": "Time is to move ahead at faster pace: Rajnath to Indian defence manufacturers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94476561,width-1070,height-580,imgsize-41468,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/school-uniforms-could-become-covid-magnets/articleshow/94476439.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Your children's school clothes may look neat and clean, but are they safe to wear? Maybe not.",
+          "link": "https://timesofindia.indiatimes.com/india/school-uniforms-could-become-covid-magnets/articleshow/94476439.cms",
+          "publishedOn": "2022-09-27T08:59:06.000Z",
+          "wordCount": 5652,
+          "title": "School uniforms could become Covid magnets",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94476486,width-1070,height-580,imgsize-48432,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hal-honeywell-to-jointly-make-high-power-turbogenerators/articleshow/94475986.cms",
+          "author": null,
+          "description": "India News: BENGALURU: Defence PSU Hindustan Aeronautics Limited (HAL) and Honeywell on Tuesday signed a memorandum of understanding (MoU) to jointly manufacture .",
+          "link": "https://timesofindia.indiatimes.com/india/hal-honeywell-to-jointly-make-high-power-turbogenerators/articleshow/94475986.cms",
+          "publishedOn": "2022-09-27T08:40:01.000Z",
+          "wordCount": 5684,
+          "title": "HAL, Honeywell to jointly make high-power turbogenerators",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94475999,width-1070,height-580,imgsize-19494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
           "author": null,
           "description": "Soon after the Congress’s Bharat Jodo Yatra was launched on September 7, the party has been accusing its rival BJP of “headline management” in a bid to divert the people’s attention from the ambitious programme. However, the political crisis in Rajasthan following the defiance by MLAs loyal to chief minister Ashok Gehlot has robbed the party of this accusation.",
@@ -9430,6 +9550,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-back-bids-of-india-and-japan-for-permanent-member-status-at-unsc-president-wickremesinghe/articleshow/94476617.cms",
+          "author": null,
+          "description": "South Asia News: COLOMBO: Sri Lankan President Ranil Wickremesinghe on Tuesday said his government will back the bids of India and Japan for permanent member status at.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-back-bids-of-india-and-japan-for-permanent-member-status-at-unsc-president-wickremesinghe/articleshow/94476617.cms",
+          "publishedOn": "2022-09-27T09:05:37.000Z",
+          "wordCount": 8886,
+          "title": "Lanka to back bids of India & Japan for permanent member status at UNSC: President Wickremesinghe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94476615,width-1070,height-580,imgsize-38522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/us-asks-pakistan-to-seek-debt-relief-from-china-after-floods/articleshow/94474341.cms",
           "author": null,
           "description": "Pakistan owes $30 billion to China, or about a third of its total external debt. Beijing has made nearly $26 billion in short and medium-term loans to Pakistan and Sri Lanka over the past five years.",
@@ -10294,6 +10424,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-finds-this-gut-problem-is-common-among-those-infected-after-covid-vaccination/photostory/94475425.cms",
+          "author": null,
+          "description": "For those who had COVID after being vaccinated, the common symptom was related to gut health, a new study has found, putting lots of questions on the course of action of the virus on vaccinated and non-vaccinated individuals and also forcing us to refresh our knowledge around the common symptoms of the infection.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-finds-this-gut-problem-is-common-among-those-infected-after-covid-vaccination/photostory/94475425.cms",
+          "publishedOn": "2022-09-27T08:30:00.000Z",
+          "wordCount": 11055,
+          "title": "Gut problem common among those infected after Covid vaccination",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94475883.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/billionaire-gautam-adani-says-china-will-feel-increasingly-isolated/articleshow/94474657.cms",
+          "author": null,
+          "description": "Gautam Adani said China will feel increasingly isolated as rising nationalism, shifts in supply chains and technology curbs threaten the world’s second-biggest economy. China’s Belt and Road Initiative has run into resistance in many countries, challenging Beijing’s global ambitions, the world’s third-richest man told a conference in Singapore on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/billionaire-gautam-adani-says-china-will-feel-increasingly-isolated/articleshow/94474657.cms",
+          "publishedOn": "2022-09-27T08:01:36.000Z",
+          "wordCount": 6156,
+          "title": "Gautam Adani says China will feel increasingly isolated",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94474599,width-1070,height-580,imgsize-26204,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-star-asha-parekh-to-be-conferred-with-dada-saheb-phalke-award/articleshow/94474108.cms",
           "author": null,
           "description": "Veteran actor Asha Parekh will be honoured with the Dadasaheb Phalke award for 2020, the highest recognition in the field of Indian cinema, Union Minister for Information and Broadcasting Anurag Thakur said on Tuesday.",
@@ -10302,6 +10452,16 @@
           "wordCount": 8965,
           "title": "Asha Parekh to be conferred with Dada Saheb Phalke award",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94474158,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-36706/94474158.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/with-flowers-and-a-gun-salute-japan-bids-farewell-to-shinzo-abe-at-state-funeral/articleshow/94473740.cms",
+          "author": null,
+          "description": "With flowers, prayers and a 19-gun salute, Japan honoured slain former Prime Minister Shinzo Abe on Tuesday at the first state funeral for a former premier in 55 years - a ceremony that has become as controversial as he was in life. A moment of silence was followed by a retrospective of Abe's political life and speeches by leading ruling party figures.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/with-flowers-and-a-gun-salute-japan-bids-farewell-to-shinzo-abe-at-state-funeral/articleshow/94473740.cms",
+          "publishedOn": "2022-09-27T07:37:04.000Z",
+          "wordCount": 10977,
+          "title": "With flowers and gun salute, Japan bids farewell to Abe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473784,width-1070,height-580,imgsize-213480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
@@ -10352,6 +10512,16 @@
           "wordCount": 9624,
           "title": "Pictures from Jhulan Goswami's last match",
           "imageUrl": "https://static.toiimg.com/photo/94470588.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/electric-cars/car-service-once-every-two-years-mercedes-benz-eqs-sets-new-standard-for-evs/articleshow/94471724.cms",
+          "author": null,
+          "description": "An electric drivetrain has less moving parts as all the  complicated oily bits such as the engine, fuel lines and tank get replaced by an electric motor, controller and battery pack. However, manufacturers need to check periodically that all present systems are at optimum performance levels. The main components for service and inspection are the electric motor(s), battery pack and thermal cooling system.",
+          "link": "https://timesofindia.indiatimes.com/auto/electric-cars/car-service-once-every-two-years-mercedes-benz-eqs-sets-new-standard-for-evs/articleshow/94471724.cms",
+          "publishedOn": "2022-09-27T06:33:23.000Z",
+          "wordCount": 7154,
+          "title": "Car service once every two years! Mercedes-Benz EQS sets new standard for EVs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94471791,width-1070,height-580,imgsize-796683,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/travel/web-stories/world-tourism-day-10-trends-that-are-here-to-stay/photostory/94467491.cms",
