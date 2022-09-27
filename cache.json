@@ -539,6 +539,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/russia-mobilization-putin-war.html",
+          "author": "Ilia Krasilshchik",
+          "description": "For citizens who want to escape conscription, there simply aren’t many options.",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/russia-mobilization-putin-war.html",
+          "publishedOn": "2022-09-27T05:00:05.000Z",
+          "wordCount": null,
+          "title": "Russians Are Terrified, and Have Nowhere to Turn",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html",
           "author": "Kenneth Chang",
           "description": "The DART spacecraft completed its 10-month journey to demonstrate a technique that could defend the planet from deadly space rocks in the future.",
@@ -686,6 +696,16 @@
           "publishedOn": "2022-09-26T19:51:03.000Z",
           "wordCount": null,
           "title": "White House Student Loan Forgiveness Could Cost About $400 Billion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html",
+          "author": "Ellen Gabler and Sheera Frenkel",
+          "description": "We want to hear from you.",
+          "link": "https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html",
+          "publishedOn": "2022-09-26T19:32:07.000Z",
+          "wordCount": null,
+          "title": "Are Your Patients Worried About the Polio Vaccine?",
           "imageUrl": null
         },
         {
@@ -856,6 +876,16 @@
           "publishedOn": "2022-09-26T13:51:22.000Z",
           "wordCount": null,
           "title": "Meloni Faces Early Test of Italy’s Resolve on Russia and Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/asia/thai-cave-rescue-tourism.html",
+          "author": "Richard C. Paddock and Muktita Suhartono",
+          "description": "An unheralded national park in Thailand was the center of global attention when 12 boys were trapped in a cave there. In the wake of major movies about the rescue, the park expects a visitor surge.",
+          "link": "https://www.nytimes.com/2022/09/26/world/asia/thai-cave-rescue-tourism.html",
+          "publishedOn": "2022-09-26T13:35:29.000Z",
+          "wordCount": null,
+          "title": "4 Years After Thrilling Cave Rescue, Sleepy Park Readies for Onslaught",
           "imageUrl": null
         },
         {
@@ -3010,6 +3040,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407845",
+          "author": "Romain Dillet",
+          "description": "French startup Regate has raised a $20 million Series A funding round (€20 million) led by Valar Ventures. The company has built a modern software-as-a-service product that integrates directly with your existing accounting stack and connects with your corporate bank account. This way, you can automate and simplify some of your financial and accounting tasks […]\nRegate modernizes accounting and financial tools by Romain Dillet originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/regate-modernizes-accounting-and-financial-tools/",
+          "publishedOn": "2022-09-27T05:00:00.000Z",
+          "wordCount": 6669,
+          "title": "Regate modernizes accounting and financial tools",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1317775180.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2407790",
           "author": "Brian Heater",
@@ -5548,6 +5588,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "304de5d2-113d-40ec-a9c1-c52baf87a7c4",
+          "author": "Adam Mathew",
+          "description": "Now is the time to stock up your PlayStation, PC, Switch and Xbox libraries with cheap games. We've also got the skinny on the lowest price preorders!",
+          "link": "https://www.ign.com/articles/aussie-deals-a-haul-of-must-own-9-ps-hits-19-buck-far-cry-6-and-super-cheap-multi-game-bundles",
+          "publishedOn": "2022-09-27T02:03:42.000Z",
+          "wordCount": 7538,
+          "title": "Aussie Deals: A Haul of Must-own $9 PS Hits, 19 Buck Far Cry 6 and Super Cheap Multi-game Bundles!",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/27/thisaone-1664243970393.jpg?width=1280"
+        },
+        {
           "id": "942726dc-f6ce-46b8-bf7e-8097297b9f65",
           "author": "Jada Griffin",
           "description": "IGN and its community discuss the future of the Halo franchise.",
@@ -5891,6 +5941,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190208",
+          "author": null,
+          "description": "Film earned US$86,610 in 416 theaters from September 14-22",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/goodbye-don-glees-anime-film-crosses-86000-at-u.s-box-office/.190208",
+          "publishedOn": "2022-09-27T04:04:40.000Z",
+          "wordCount": 3414,
+          "title": "'Goodbye, Don Glees!' Anime Film Crosses $86,000 at U.S. Box Office",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.5/185823/goodbye-don-glees.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190232",
           "author": null,
@@ -7466,6 +7526,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/us-expands-extends-myanmar-immigration-status-to-may-2024/article65940699.ece",
+          "author": "AP",
+          "description": "About 150,000 immigrants from Myanmar lived in the U.S. in 2019, according to the Migration Policy Institute analysis of census data",
+          "link": "https://www.thehindu.com/news/international/us-expands-extends-myanmar-immigration-status-to-may-2024/article65940699.ece",
+          "publishedOn": "2022-09-27T04:57:36.000Z",
+          "wordCount": 6189,
+          "title": "U.S. expands, extends Myanmar immigration status to May 2024",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ilbf1/article65940740.ece/alternates/LANDSCAPE_615/US_Immigration_Myanmar_32943.jpg-614fd.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/tense-japan-holds-funeral-for-assassinated-ex-leader-abe/article65940626.ece",
+          "author": "AP",
+          "description": "Tokyo was under maximum security as angry protestors opposed the state funeral of assassinated former Prime Minister Shinzo Abe",
+          "link": "https://www.thehindu.com/news/international/tense-japan-holds-funeral-for-assassinated-ex-leader-abe/article65940626.ece",
+          "publishedOn": "2022-09-27T04:03:12.000Z",
+          "wordCount": 6763,
+          "title": "Tense Japan holds funeral for assassinated ex-leader Abe",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/go8wxy/article65940632.ece/alternates/LANDSCAPE_615/2022-09-27T023305Z_627141100_RC2EPW9LP0NH_RTRMADP_3_JAPAN-ABE-FUNERAL.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/russian-military-recruiter-shot-amid-fear-of-ukraine-call-up/article65940586.ece",
           "author": "AP",
           "description": "Ruslan Zinin was arrested and officials vowed tough punishment. Authorities said the military commandant was in intensive care",
@@ -8002,6 +8082,76 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-reports-3230-covid-cases-lowest-in-over-3-months/articleshow/94469414.cms",
+          "author": null,
+          "description": "The death toll in the country has reached 5,28,562. The 32 deaths reported in the last 24 hours also include 22 deaths reconciled by Kerala. The active Covid cases in the country saw a slight decline and settled at 42,358. Currently active cases comprise of 0.10 per cent of total cases.",
+          "link": "https://timesofindia.indiatimes.com/india/india-reports-3230-covid-cases-lowest-in-over-3-months/articleshow/94469414.cms",
+          "publishedOn": "2022-09-27T05:05:16.000Z",
+          "wordCount": 5518,
+          "title": "India reports 3,230 Covid cases, lowest in over 3 months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94469496,width-1070,height-580,imgsize-105094,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-leaders-houses-raided-in-udupi/articleshow/94469135.cms",
+          "author": null,
+          "description": "The houses of PFI leaders in various parts of Udupi district were raided by the police on Tuesday and four people were taken into custody in connection with various cases. Four PFI leaders have been taken into custody, police sources said. The raids were conducted at Hoode, Gangolli and Byndoor in the district.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-leaders-houses-raided-in-udupi/articleshow/94469135.cms",
+          "publishedOn": "2022-09-27T04:50:45.000Z",
+          "wordCount": 4901,
+          "title": "PFI leaders' houses raided in Udupi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94469182,width-1070,height-580,imgsize-56774,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/assam-police-launches-operation-against-pfi-detains-several-people/articleshow/94468874.cms",
+          "author": null,
+          "description": "India News: GUWAHATI (ASSAM): The Assam Police on Tuesday launched another operation against the Popular Front of India (PFI) in various districts of the state.",
+          "link": "https://timesofindia.indiatimes.com/india/assam-police-launches-operation-against-pfi-detains-several-people/articleshow/94468874.cms",
+          "publishedOn": "2022-09-27T04:42:45.000Z",
+          "wordCount": 6314,
+          "title": "Assam Police launches operation against PFI, detains several people",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94468824.cms",
+          "author": null,
+          "description": "PM Modi, who is here to attend the state funeral of Abe, met Kishida ahead of the ceremony and the two leaders renewed their commitment towards further strengthening the India-Japan special strategic and global partnership, and in working together in the region and in various international groupings and institutions.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94468824.cms",
+          "publishedOn": "2022-09-27T04:34:37.000Z",
+          "wordCount": 5707,
+          "title": "PM Narendra Modi meets Japanese counterpart Fumio Kishida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468828,width-1070,height-580,imgsize-51558,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/5-pfi-activists-arrested-from-kerala-for-violent-activities-during-state-wide-hartal-on-september-23/articleshow/94468568.cms",
+          "author": null,
+          "description": "Four activists of the Popular Front of India (PFI) were arrested from Kottayam on Monday for breaking the glass of a bakery and damaging a KSRTC bus, police said. From Kollam, a PFI activist was arrested on Monday for allegedly ramming into a police motorbike with his two-wheeler in his bid to escape the clutches of the police personnel. The officers on the bike were seriously injured, police said.",
+          "link": "https://timesofindia.indiatimes.com/india/5-pfi-activists-arrested-from-kerala-for-violent-activities-during-state-wide-hartal-on-september-23/articleshow/94468568.cms",
+          "publishedOn": "2022-09-27T04:29:12.000Z",
+          "wordCount": 5900,
+          "title": "5 PFI activists arrested from Kerala for violent activities during state-wide hartal on September 23",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468706,width-1070,height-580,imgsize-68974,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaipur-rebellion-puts-question-mark-on-ashok-gehlot-running-for-congress-chiefs-post/articleshow/94468202.cms",
+          "author": null,
+          "description": "Sonia Gandhi is reportedly 'upset' over the Rajasthan developments as Ashok Gehlot was being considered as her successor for the top post. Sources said Gehlot told the two observers that he is not behind the Jaipur development and the MLAs involved in it were not listening to him. Mallikarjun Kharge and Ajay Maken are likely to submit their report to Sonia about the crisis by Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/india/jaipur-rebellion-puts-question-mark-on-ashok-gehlot-running-for-congress-chiefs-post/articleshow/94468202.cms",
+          "publishedOn": "2022-09-27T04:00:38.000Z",
+          "wordCount": 7387,
+          "title": "Jaipur rebellion puts question mark on Ashok Gehlot running for Congress chief's post",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468168,width-1070,height-580,imgsize-24914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/nia-conducts-pan-india-raids-against-pfi-50-detained/articleshow/94467608.cms",
+          "author": null,
+          "description": "The National Investigation Agency (NIA) was conducting raids in over eight states and at multiple locations linked to the Popular Front of India (PFI) members on Tuesday. Sources said that more than 50 people have been detained and the arrests will depend on their questioning.",
+          "link": "https://timesofindia.indiatimes.com/india/nia-conducts-pan-india-raids-against-pfi-50-detained/articleshow/94467608.cms",
+          "publishedOn": "2022-09-27T03:27:30.000Z",
+          "wordCount": 5543,
+          "title": "NIA conducts pan-India raids against PFI, 50 detained",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467652,width-1070,height-580,imgsize-62682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/nia-conducts-raids-in-western-up-over-pfi-links/articleshow/94467608.cms",
           "author": null,
@@ -8970,6 +9120,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/as-ukraine-war-grinds-on-saudi-arabia-influence-grows/articleshow/94468384.cms",
+          "author": null,
+          "description": "The release of the 10 foreign fighters, including two from the United States and five from Britain, came alongside a broader prisoner-of-war swap, brokered by Turkey, that saw 215 Ukrainians walk free while Russia received 55 prisoners.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/as-ukraine-war-grinds-on-saudi-arabia-influence-grows/articleshow/94468384.cms",
+          "publishedOn": "2022-09-27T04:11:02.000Z",
+          "wordCount": 10500,
+          "title": "As Ukraine war grinds on, Saudi Arabia influence grows",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468372,width-1070,height-580,imgsize-124042,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/cuba-approves-same-sex-marriage-in-unusual-referendum/articleshow/94468132.cms",
+          "author": null,
+          "description": "Cubans have approved a sweeping \"family law” code that will allow same-sex couples to marry and adopt as well as redefining rights for children and grandparents, officials said on Monday, though opposition in the national referendum was unusually strong on the Communist Party-governed island.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/cuba-approves-same-sex-marriage-in-unusual-referendum/articleshow/94468132.cms",
+          "publishedOn": "2022-09-27T03:57:34.000Z",
+          "wordCount": 8464,
+          "title": "Cuba approves same-sex marriage in unusual referendum",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468119,width-1070,height-580,imgsize-65568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/rights-group-says-iran-protest-death-toll-tops-75-as-crackdown-intensifies/articleshow/94468089.cms",
+          "author": null,
+          "description": "Officials said Monday they arrested more than 1,200 people as the dragnet widens against the nationwide demonstrations over Amini's death following her arrest for allegedly breaching the country's strict rules on hijab headscarves and modest clothing.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/rights-group-says-iran-protest-death-toll-tops-75-as-crackdown-intensifies/articleshow/94468089.cms",
+          "publishedOn": "2022-09-27T03:53:47.000Z",
+          "wordCount": 11124,
+          "title": "'Iran protest death toll tops 75 as crackdown intensifies'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468078,width-1070,height-580,imgsize-356698,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/china-reports-968-new-covid-cases-for-september-26-versus-999-a-day-earlier/articleshow/94467804.cms",
+          "author": null,
+          "description": "As of September 26, mainland China had confirmed 2,49,929 cases with symptoms. China's capital Beijing and financial hub Shanghai reported no new local infections, according to local government data.",
+          "link": "https://timesofindia.indiatimes.com/world/china/china-reports-968-new-covid-cases-for-september-26-versus-999-a-day-earlier/articleshow/94467804.cms",
+          "publishedOn": "2022-09-27T03:53:20.000Z",
+          "wordCount": 5491,
+          "title": "China reports 968 new Covid cases on September 26",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468049,width-1070,height-580,imgsize-53806,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-consul-on-spying-charge-tokyo-hints-at-retaliation/articleshow/94467611.cms",
           "author": null,
           "description": "Russia's FSB security agency said the consul, Motoki Tatsunori, was declared persona non grata after he was caught \"red-handed\" receiving secret information on the effects of Western sanctions on the economic situation in Russia's far east.",
@@ -9038,6 +9228,16 @@
           "wordCount": 7068,
           "title": "Bam! NASA spacecraft crashes into asteroid in defense test",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94465335,width-1070,height-580,imgsize-77752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-giorgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "author": null,
+          "description": "Italy took a sharp turn to the right on Monday after Giorgia Meloni's Eurosceptic populist party swept to victory in general elections, putting the one-time Mussolini admirer on course to become the first woman to lead the country.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-giorgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "publishedOn": "2022-09-27T00:33:10.000Z",
+          "wordCount": 5765,
+          "title": "Far-right leader Girgia Meloni to be Italy's first woman PM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465010,width-1070,height-580,imgsize-74354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
@@ -9734,6 +9934,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The National Investigation Agency (NIA) is conducting raids in at least eight states and at multiple locations linked to the Popular Front .",
+          "link": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
+          "publishedOn": "2022-09-27T05:33:33.000Z",
+          "wordCount": 5691,
+          "title": "Second round of NIA raids on PFI under way across India: Key pts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94470237,width-1070,height-580,imgsize-48656,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-is-loading-at-iconic-mcg-ahead-of-india-pakistan-clash-at-t20-world-cup-2022/articleshow/94468924.cms",
+          "author": null,
+          "description": "Preparations have started at the Melbourne Cricket Ground for a blockbuster ICC T20 World Cup 2022 clash between India and Pakistan, which will take place next month.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-is-loading-at-iconic-mcg-ahead-of-india-pakistan-clash-at-t20-world-cup-2022/articleshow/94468924.cms",
+          "publishedOn": "2022-09-27T04:39:01.000Z",
+          "wordCount": 6758,
+          "title": "'Cricket is loading' at MCG ahead of India-Pakistan clash",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468939,width-1070,height-580,imgsize-146944,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-is-choti-sardarnis-nimrit-kaur-ahluwalia-a-confirmed-contestant-this-season/articleshow/94468251.cms",
+          "author": null,
+          "description": "The makers dropped another promo featuring the next constant. It seems like Choti Sardarni actress Nimrit Kaur Ahluwalia is going to be seen in the season.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-is-choti-sardarnis-nimrit-kaur-ahluwalia-a-confirmed-contestant-this-season/articleshow/94468251.cms",
+          "publishedOn": "2022-09-27T04:06:10.000Z",
+          "wordCount": 9214,
+          "title": "Bigg Boss 16: Nimrit Kaur a confirmed contestant?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94468149,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94468149.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94460945.cms?utm_source=newsletter&utm_medium=email&utm_campaign=timestop10_daily_newsletter",
           "author": null,
           "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
@@ -9764,6 +9994,26 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94466972,width-1070,height-580,imgsize-23626,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/rajkot/gujarat-deer-horns-come-to-haunt-farmer-after-37-years/articleshow/94466271.cms",
+          "author": null,
+          "description": "People coming to Bachhu Sojitra's house in a village of Amreli district never missed gaping at the antlers of spotted deer that had proudly displayed on the wall.",
+          "link": "https://timesofindia.indiatimes.com/city/rajkot/gujarat-deer-horns-come-to-haunt-farmer-after-37-years/articleshow/94466271.cms",
+          "publishedOn": "2022-09-27T02:38:46.000Z",
+          "wordCount": 5269,
+          "title": "Deer horns come to haunt farmer after 37 years!",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94466356,width-1070,height-580,imgsize-1903319,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-shraddha-kapoor-neha-kakkar-most-popular-female-celebrities-on-instagram/photostory/94467577.cms",
+          "author": null,
+          "description": "Priyanka Chopra, Shraddha Kapoor, Neha Kakkar: Most popular female celebrities on Instagram",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-shraddha-kapoor-neha-kakkar-most-popular-female-celebrities-on-instagram/photostory/94467577.cms",
+          "publishedOn": "2022-09-27T02:30:00.000Z",
+          "wordCount": 10343,
+          "title": "Most popular female celebrities on Instagram",
+          "imageUrl": "https://static.toiimg.com/photo/94467602.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
           "author": null,
           "description": "The galactic slam occurred at a harmless asteroid 7 million miles (9.6 million kilometers) away, with the spacecraft named Dart plowing into the space rock at 14,000 mph (22,500 kph). Scientists expected the impact to carve out a crater, hurl streams of rocks and dirt into space and, most importantly, alter the asteroid's orbit.",
@@ -9772,6 +10022,16 @@
           "wordCount": 7068,
           "title": "Bam! NASA spacecraft crashes into asteroid in defense test",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94465335,width-1070,height-580,imgsize-77752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/lucknow/cpr-can-save-7-out-of-10-cardiac-arrest-patients-doctor/articleshow/94465263.cms",
+          "author": null,
+          "description": "Former President APJ Abdul Kalam could have been saved had someone in the audience at the Indian Institute of Management-Shillong performed cardiopulmonary resuscitation (CPR) when he suddenly collapsed while delivering a lecture, said professor Aditya Kapoor, head of cardiology department at the Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS) on Monday.",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/cpr-can-save-7-out-of-10-cardiac-arrest-patients-doctor/articleshow/94465263.cms",
+          "publishedOn": "2022-09-27T01:06:26.000Z",
+          "wordCount": 6331,
+          "title": "CPR can save 7 out of 10 cardiac arrest patients: Doctor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465300,width-1070,height-580,imgsize-659155,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/no-tarikh-pe-tarikh-sc-rejects-adjournment-pleas/articleshow/94465196.cms",
@@ -9842,6 +10102,16 @@
           "wordCount": 6483,
           "title": "Centre sets stiffer air pollution reduction target",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94464827,width-1070,height-580,imgsize-39600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-municipal-corporation-move-to-ban-rearing-selling-of-pitbull-rottweiler/articleshow/94464758.cms",
+          "author": null,
+          "description": "The Kanpur Municipal Corporation (KMC) House on Saturday passed a resolution banning rearing of Pitbull and Rottweiler breeds of dogs in Kanpur.",
+          "link": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-municipal-corporation-move-to-ban-rearing-selling-of-pitbull-rottweiler/articleshow/94464758.cms",
+          "publishedOn": "2022-09-26T23:45:18.000Z",
+          "wordCount": 5969,
+          "title": "Ban in Kanpur on rearing, selling of Pitbull, Rottweiler",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464771,width-1070,height-580,imgsize-1039196,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/jaipur/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
@@ -9982,6 +10252,16 @@
           "wordCount": 5295,
           "title": "Live: Pro-Pilot posters in Rajasthan CM hometown",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94463389,width-1070,height-580,imgsize-59678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-september-27/liveblog/94463353.cms",
+          "author": null,
+          "description": "Stay here for real-time updates on breaking news from India and across the world that you can't miss:",
+          "link": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-september-27/liveblog/94463353.cms",
+          "publishedOn": "2022-09-26T18:38:22.000Z",
+          "wordCount": 9961,
+          "title": "Live: Supreme Court live-stream of hearings begins",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463353,width-1070,height-580,imgsize-50524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-september-27/liveblog/94463311.cms",
