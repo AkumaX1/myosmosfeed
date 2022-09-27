@@ -539,6 +539,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html",
+          "author": "Victoria Kim and Melissa Eddy",
+          "description": "Neither of the pipelines was active, but both were filled with natural gas. The sharp drop in pressure could only be caused by a leak, authorities said.",
+          "link": "https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html",
+          "publishedOn": "2022-09-27T07:11:14.000Z",
+          "wordCount": null,
+          "title": "Germany Investigates Leaks in Nord Stream Gas Pipelines",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html",
           "author": "Austin Ramzy",
           "description": "Concerns about rising interest rates and the prospects of a global slowdown remain.",
@@ -2576,6 +2586,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600548",
+          "author": "Emily Zemler",
+          "description": "\"I simply don’t have it. I can’t make it work.\"",
+          "link": "https://www.rollingstone.com/music/music-news/santigold-north-american-tour-cancellation-1234600548/",
+          "publishedOn": "2022-09-27T07:56:39.000Z",
+          "wordCount": 7262,
+          "title": "Santigold Cancels North American Tour Citing Changing Industry and Artist Welfare",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Santigold-by-Frank-Ockenfels-Shake.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600543",
+          "author": "Emily Zemler",
+          "description": "Rap duo was joined by Greg Nice and DJ Premier",
+          "link": "https://www.rollingstone.com/music/music-news/run-the-jewels-ooh-la-la-kimmel-1234600543/",
+          "publishedOn": "2022-09-27T07:37:13.000Z",
+          "wordCount": 7013,
+          "title": "Watch Run The Jewels Perform Single ‘Ooh La La’ on ‘Kimmel’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-27-at-8.25.37-AM.png?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234600220",
           "author": "Larisha Paul",
@@ -6002,6 +6032,26 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190211",
+          "author": null,
+          "description": "Stage play runs from December 2022 to January 2023",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/fuuto-pi-manga-gets-stage-play-this-winter/.190211",
+          "publishedOn": "2022-09-27T08:03:00.000Z",
+          "wordCount": 3463,
+          "title": "Fuuto PI Manga Gets Stage Play This Winter",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG3/cms/news.5/190211/fuuto_stage_tv.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190231",
+          "author": null,
+          "description": "A Whisker Away film earns 1.8% rating",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/japanese-animation-tv-ranking-september-12-18/.190231",
+          "publishedOn": "2022-09-27T07:33:00.000Z",
+          "wordCount": 3327,
+          "title": "Japanese Animation TV Ranking, September 12-18",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gML/cms/news.3/157300/visual.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.189931",
           "author": null,
           "description": "New series titled Hypnosis Mic -Division Rap Battle- side D.H & B.A.T+ (Plus)",
@@ -7615,6 +7665,36 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/famed-american-ski-mountaineer-missing-in-nepal-mountain/article65941048.ece",
+          "author": "AP",
+          "description": "Popular U. S. ski mountaineer Hilaree Nelson, 49, was skiing down from the 8,163-metre summit with her partner Jim Morrison when she fell off the mountain",
+          "link": "https://www.thehindu.com/news/international/famed-american-ski-mountaineer-missing-in-nepal-mountain/article65941048.ece",
+          "publishedOn": "2022-09-27T08:11:06.000Z",
+          "wordCount": 6152,
+          "title": "Famed American ski mountaineer missing in Nepal mountain",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/a9tqcs/article65941164.ece/alternates/LANDSCAPE_615/Nepal_US_Missing_Mountaineer_04726.jpg-c88b6.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/indias-reforms-push-at-the-un/article65937261.ece",
+          "author": "Anantha Krishnan",
+          "description": "Understand international affairs from the Indian perspective with View from India",
+          "link": "https://www.thehindu.com/news/international/indias-reforms-push-at-the-un/article65937261.ece",
+          "publishedOn": "2022-09-27T07:55:35.000Z",
+          "wordCount": 7115,
+          "title": "The View from India | India’s Reforms Push at the U.N.",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ms7o5e/article65934072.ece/alternates/LANDSCAPE_615/AP09_25_2022_000005A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/asian-development-bank-announces-14-billion-support-for-food-security-in-asia-pacific/article65941108.ece",
+          "author": "PTI",
+          "description": "While $3.3 billion will be spent in 2022, $10.7 billion is to be utilised between 2023-25",
+          "link": "https://www.thehindu.com/news/international/asian-development-bank-announces-14-billion-support-for-food-security-in-asia-pacific/article65941108.ece",
+          "publishedOn": "2022-09-27T07:53:25.000Z",
+          "wordCount": 6047,
+          "title": "Asian Development Bank announces $14 billion support for food security in Asia Pacific",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/y088l/article65314485.ece/alternates/LANDSCAPE_615/MDF70090.JPG"
+        },
         {
           "id": "https://www.thehindu.com/news/international/us-provided-usd-565-million-in-aid-to-pakistan-for-flood-relief-humanitarian-assistance/article65941024.ece",
           "author": "Asian News International",
@@ -9350,6 +9430,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/us-asks-pakistan-to-seek-debt-relief-from-china-after-floods/articleshow/94474341.cms",
+          "author": null,
+          "description": "Pakistan owes $30 billion to China, or about a third of its total external debt. Beijing has made nearly $26 billion in short and medium-term loans to Pakistan and Sri Lanka over the past five years.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/us-asks-pakistan-to-seek-debt-relief-from-china-after-floods/articleshow/94474341.cms",
+          "publishedOn": "2022-09-27T07:55:37.000Z",
+          "wordCount": 7785,
+          "title": "US asks Pakistan to seek debt relief from China after floods",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94474329,width-1070,height-580,imgsize-73314,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/with-flowers-and-a-gun-salute-japan-bids-farewell-to-shinzo-abe-at-state-funeral/articleshow/94473740.cms",
+          "author": null,
+          "description": "With flowers, prayers and a 19-gun salute, Japan honoured slain former Prime Minister Shinzo Abe on Tuesday at the first state funeral for a former premier in 55 years - a ceremony that has become as controversial as he was in life. A moment of silence was followed by a retrospective of Abe's political life and speeches by leading ruling party figures.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/with-flowers-and-a-gun-salute-japan-bids-farewell-to-shinzo-abe-at-state-funeral/articleshow/94473740.cms",
+          "publishedOn": "2022-09-27T07:37:04.000Z",
+          "wordCount": 10977,
+          "title": "With flowers and a gun salute, Japan bids farewell to Shinzo Abe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473784,width-1070,height-580,imgsize-213480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/russian-reservists-leave-behind-sobbing-relatives-new-brides/articleshow/94471853.cms",
           "author": null,
           "description": "Protests against the call-up and Russia's military operation have taken place in dozens of cities, and long queues have formed at Russia's land borders with several countries.",
@@ -10194,6 +10294,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-star-asha-parekh-to-be-conferred-with-dada-saheb-phalke-award/articleshow/94474108.cms",
+          "author": null,
+          "description": "Veteran actor Asha Parekh will be honoured with the Dadasaheb Phalke award for 2020, the highest recognition in the field of Indian cinema, Union Minister for Information and Broadcasting Anurag Thakur said on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-star-asha-parekh-to-be-conferred-with-dada-saheb-phalke-award/articleshow/94474108.cms",
+          "publishedOn": "2022-09-27T07:46:24.000Z",
+          "wordCount": 8965,
+          "title": "Asha Parekh to be conferred with Dada Saheb Phalke award",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94474158,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-36706/94474158.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
+          "author": null,
+          "description": "Soon after the Congress’s Bharat Jodo Yatra was launched on September 7, the party has been accusing its rival BJP of “headline management” in a bid to divert the people’s attention from the ambitious programme. However, the political crisis in Rajasthan following the defiance by MLAs loyal to chief minister Ashok Gehlot has robbed the party of this accusation.",
+          "link": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
+          "publishedOn": "2022-09-27T07:21:28.000Z",
+          "wordCount": 9323,
+          "title": "How Raj crisis robs Cong of claims about Bharat Jodo Yatra",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473391,width-1070,height-580,imgsize-29850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/nikki-tamboli-taken-inside-delhis-tihar-jail-to-recreate-her-meeting-with-conman-sukesh-chandrashekhar-police/articleshow/94473340.cms",
+          "author": null,
+          "description": "A Delhi Police team took two actresses inside the Tihar jail to \"recreate\" their alleged meeting with conmon Sukesh Chandrashekhar as part of a probe into a Rs 200-crore extortion case, officials said on Monday. The police said ever since Chandrasherkar has been jailed, the prison had become a hub of illegal activities which he carried out with the help of jail officials.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/nikki-tamboli-taken-inside-delhis-tihar-jail-to-recreate-her-meeting-with-conman-sukesh-chandrashekhar-police/articleshow/94473340.cms",
+          "publishedOn": "2022-09-27T07:18:08.000Z",
+          "wordCount": 9545,
+          "title": "Nikki taken inside Tihar to 'recreate' meeting with conman Sukesh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473185,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94473185.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-india-look-to-address-death-bowling-concerns-in-final-tune-up-ahead-of-t20-wc/articleshow/94473073.cms",
           "author": null,
           "description": "India will be looking to round off their T20 World Cup preparation with a marked improvement in their death bowling besides providing crucial game time to its untested players in the three-match series against South Africa, beginning on Wednesday.",
@@ -10352,6 +10482,16 @@
           "wordCount": 10343,
           "title": "Most popular female celebrities on Instagram",
           "imageUrl": "https://static.toiimg.com/photo/94467602.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-resort-was-hub-of-prostitution-drugs-say-former-staffers/articleshow/94465509.cms",
+          "author": null,
+          "description": "Amid the ongoing probe in the Ankita Bhandari murder case, former staffers of main-accused Pulkit Arya's resort have come forward to tell police that the site was a \"den of prostitution and drug abuse.\" Staffers claimed that Pulkit, son of now-expelled BJP leader Vinod Arya, used to \"mentally harass the employees\" and \"frame\" anyone trying to quit with \"false cases of theft and assault\".",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-resort-was-hub-of-prostitution-drugs-say-former-staffers/articleshow/94465509.cms",
+          "publishedOn": "2022-09-27T01:37:33.000Z",
+          "wordCount": 6771,
+          "title": "Ankita murder: Uttarakhand resort a den of prostitution & drug abuse, say ex-staffers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465549,width-1070,height-580,imgsize-106048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
