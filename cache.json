@@ -829,6 +829,46 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html",
+          "author": "Luke Broadwater",
+          "description": "A member of the committee, Stephanie Murphy, represents a district in the path of Hurricane Ian.",
+          "link": "https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html",
+          "publishedOn": "2022-09-27T20:05:04.000Z",
+          "wordCount": null,
+          "title": "House Jan. 6 Panel Postpones Hearing, Citing Hurricane Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/nyregion/trump-carroll-lawsuit.html",
+          "author": "Rebecca Davis O’Brien and Benjamin Weiser",
+          "description": "E. Jean Carroll’s case may fail thanks to broad protections granted to federal officials and employees. She still plans to file a separate suit accusing the ex-president of rape.",
+          "link": "https://www.nytimes.com/2022/09/27/nyregion/trump-carroll-lawsuit.html",
+          "publishedOn": "2022-09-27T19:41:06.000Z",
+          "wordCount": null,
+          "title": "Trump Might Escape E. Jean Carroll’s Suit Because He Was President",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/nyregion/cheslie-kryst-mental-health.html",
+          "author": "Dodai Stewart",
+          "description": "A beauty queen, an attorney, a TV star whose suicide was a reminder of a troubling uptick in mental health struggles among women and in the Black community.",
+          "link": "https://www.nytimes.com/2022/09/27/nyregion/cheslie-kryst-mental-health.html",
+          "publishedOn": "2022-09-27T19:35:48.000Z",
+          "wordCount": null,
+          "title": "The Dazzling Life and Shocking Death of Cheslie Kryst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/business/biden-student-debt-suit.html",
+          "author": "Stacy Cowley",
+          "description": "A lawyer at a conservative legal group said in a complaint that he would personally be financially harmed by the government’s approach.",
+          "link": "https://www.nytimes.com/2022/09/27/business/biden-student-debt-suit.html",
+          "publishedOn": "2022-09-27T19:26:58.000Z",
+          "wordCount": null,
+          "title": "Lawsuit Seeks to Block Biden’s Student Debt Cancellation Plan",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html",
           "author": "Jane Arraf",
           "description": "People with disabilities in the country are often isolated and poor, and for those like Antonina Andriyenko and her daughter, Tanya, the fear and confusion of trying to stay safe is a constant struggle.",
@@ -2803,6 +2843,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/books/goodnight-moon-memories.html",
+          "author": "Elisabeth Egan",
+          "description": "An essay celebrating the story’s 75th anniversary prompted an outpouring from our readers.",
+          "link": "https://www.nytimes.com/2022/09/27/books/goodnight-moon-memories.html",
+          "publishedOn": "2022-09-27T19:57:26.000Z",
+          "wordCount": null,
+          "title": "Readers Share Memories of ‘Goodnight Moon’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/books/review/best-of-friends-kamila-shamsie.html",
           "author": "Molly Young",
           "description": "Kamila Shamsie’s new novel, “Best of Friends,” follows its title characters from their Pakistani girlhoods to their adult lives in London.",
@@ -2989,6 +3039,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/27/books/goodnight-moon-memories.html",
+          "author": "Elisabeth Egan",
+          "description": "An essay celebrating the story’s 75th anniversary prompted an outpouring from our readers.",
+          "link": "https://www.nytimes.com/2022/09/27/books/goodnight-moon-memories.html",
+          "publishedOn": "2022-09-27T19:57:26.000Z",
+          "wordCount": null,
+          "title": "Readers Share Memories of ‘Goodnight Moon’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html",
           "author": "Corey Kilgannon",
@@ -3296,6 +3356,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600913",
+          "author": "Tomás Mier",
+          "description": "\"This gotta be the most random drop of all, but this was so much fun,\" she said",
+          "link": "https://www.rollingstone.com/music/music-news/amandla-stenberg-drops-alice-bodies-bodies-bodies-1234600913/",
+          "publishedOn": "2022-09-27T20:08:08.000Z",
+          "wordCount": 7119,
+          "title": "Amandla Stenberg Turns a ‘Bodies Bodies Bodies’ Improv Song Into an Equally Silly Banger, ‘Alice’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/BBB_05961_R2.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600899",
+          "author": "Andre Gee",
+          "description": "Emmanul Danquah says his 2021 argument with PNB Rock was misrepresented to implicate him in the rapper’s murder.",
+          "link": "https://www.rollingstone.com/music/music-news/man-accused-in-pnb-rock-murder-clears-name-1234600899/",
+          "publishedOn": "2022-09-27T19:57:42.000Z",
+          "wordCount": 7716,
+          "title": "Man Implicated in PNB Rock Murder Clears His Name",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/pnb-rock-update.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234600875",
           "author": "Jon Blistein",
@@ -4010,6 +4090,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2409164",
+          "author": "Lucas Matney",
+          "description": "The crypto world has never shied away from making big promises, but as the industry matures and its audience widens, now’s a good time to take a step back and look at how the space is delivering on its vision. Welcome to Chain Reaction, where we unpack and explain the latest in crypto news, drama and […]\nCan crypto make the world a better place? by Lucas Matney originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/can-crypto-make-the-world-a-better-place/",
+          "publishedOn": "2022-09-27T20:10:36.000Z",
+          "wordCount": 7050,
+          "title": "Can crypto make the world a better place?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-919509886.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408472",
+          "author": "Dominic-Madori Davis",
+          "description": "Some of the most prominent women in venture capital descended upon Paris this week for the first-ever Women in VC Summit: Europe.\nEurope’s inaugural Women in VC Summit the first step in a long climb toward equity by Dominic-Madori Davis originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/europes-inaugural-women-in-vc-summit-the-first-step-in-a-long-climb-toward-equity/",
+          "publishedOn": "2022-09-27T19:45:14.000Z",
+          "wordCount": 6629,
+          "title": "Europe’s inaugural Women in VC Summit the first step in a long climb toward equity",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341637572.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2408916",
           "author": "Aisha Malik",
@@ -5148,6 +5248,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "epnywe",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "No need to blow your whole gourd on a rad Halloween costume with these affordable, comfy, creative, sExY, and brain-melting disguises.",
+          "link": "https://www.vice.com/en_us/article/epnywe/best-halloween-costumes-under-100-dollars",
+          "publishedOn": "2022-09-27T19:51:00.000Z",
+          "wordCount": 9888,
+          "title": "The Best Halloween Costumes for Under $100 That Don't Suck",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/615e23d05d19620094cd51e1/lede/1633619865477-underahundocostumes-copy.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/615e23d05d19620094cd51e1/lede/1633619865477-underahundocostumes-copy.jpeg"
+        },
+        {
           "id": "qjkwvp",
           "author": "Hannah Docter-Loeb",
           "description": "An invisibility cloak shouldn't just hide a person from the human eye, it should also shield the wearer from detection using thermal imaging.",
@@ -5935,6 +6050,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/9/13/23344990/electoral-count-reform-act",
+          "author": null,
+          "description": "Christina Animashaun/Vox\n    \n\n\n  \nHow a few election law fixes could protect democracy in 2024. \n The human mind is ingenious. It can create towering works of art and make remarkable scientific discoveries. It is, as we saw in the aftermath of the 2020 presidential election, also capable of inventing new ways to undermine American democracy by abusing our existing election laws, and turning orderly presidential elections into anarchy and chaos. \nIt’s beyond the ken of lawmakers, or perhaps anyone, to try to sniff out every potential avenue for havoc. But they can fix obvious defects in presidential elections once they have been exploited. \nThe Electoral Count Reform Act currently before the Senate is an effort to do that, fitting into a long history of legislative action following a break…",
+          "link": "https://www.vox.com/policy-and-politics/2022/9/13/23344990/electoral-count-reform-act",
+          "publishedOn": "2022-09-27T20:05:40.000Z",
+          "wordCount": 3112,
+          "title": "Trump found the holes in our election laws. Congress is trying to patch them.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/1kb8jWc4WBV2uRYmxNrs8d63nZo=/0x36:1800x978/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24017029/electoral_board_3.jpg"
+        },
+        {
           "id": "https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos",
           "author": null,
           "description": "The asteroid moonlet Dimorphos as seen by the DART spacecraft 11 seconds before impact. | NASA/Johns Hopkins APL\n    \n\n  \nHumanity now has the beginnings of a true defense against asteroids. \n At 7:14 EDT Monday night, something historic happened for the human species — and it took place more than 7 million miles from our planet.\nNASA’s Double Asteroid Redirection Test (DART) spacecraft successfully collided with the asteroid moonlet Dimorphos, which circles the larger asteroid Didymos (hence the “double asteroid”). The 1,250-pound DART spacecraft hit the asteroid at approximately 14,760 mph — in the days to come, NASA scientists will pore over data to figure out how much Dimorphos’s momentum was changed by the collision, with initial estimates projecting that it moved 1 percent closer to …",
@@ -6221,6 +6346,26 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849587596",
+          "author": "Levi Winslow",
+          "description": "If you were hoping for more Madden 23 content as part of the game’s weekly schedule, you might be waiting a little longer. With Florida currently experiencing horrid complications due to the rapidly approaching Hurricane Ian, developer EA Tiburon announced that this week’s Madden drops are “subject to change.”\nRead more...",
+          "link": "https://kotaku.com/ea-madden-23-ultimate-team-delay-hurricane-ian-florida-1849587596",
+          "publishedOn": "2022-09-27T19:55:00.000Z",
+          "wordCount": 5740,
+          "title": "Madden’s Regular Weekly Content Might Be Delayed By Hurricane Ian",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/51a808c74c4d6c625930171456b668b5.jpg"
+        },
+        {
+          "id": "1849587283",
+          "author": "Isaiah Colbert",
+          "description": "It’s not often that a rapper goes to bat for a video game developer after a disgruntled fan base enacts gross harassment, but not all rappers are built like T-Pain.\nRead more...",
+          "link": "https://kotaku.com/t-pain-apex-legends-respawn-bungie-developers-harass-1849587283",
+          "publishedOn": "2022-09-27T19:15:00.000Z",
+          "wordCount": 6151,
+          "title": "T-Pain Tells Awful Apex Legends Players To Touch Grass, Stop Harassing Developers",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ef8b1fc3344228228a0deb9dd9918236.jpg"
+        },
         {
           "id": "1849586514",
           "author": "Sisi Jiang",
@@ -7563,6 +7708,16 @@
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/27/esperanca-portugal-003-1080-1664272798292.jpg?width=1280"
         },
         {
+          "id": "268aa0a7-e44c-4a81-9520-353f38f56618",
+          "author": "Kevin Lee",
+          "description": "These are the best gaming mouse that should fit like glove, glide like butter, and win you first place.",
+          "link": "https://www.ign.com/articles/best-gaming-mouse",
+          "publishedOn": "2022-09-27T12:26:55.000Z",
+          "wordCount": 17570,
+          "title": "Best Gaming Mouse 2022",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/06/29/gaming-mouse-1656479071918.jpg?width=1280"
+        },
+        {
           "id": "25f664c8-4ef5-4fb0-a616-e61719740eb3",
           "author": "Matt Purslow",
           "description": "People Can Fly has announced that it is parting ways with Take-Two, the publisher of its upcoming game codenamed Project Dagger.",
@@ -8813,6 +8968,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/director-john-carpenter-hosts-4-night-godzilla-marathon-in-november",
+          "author": "Paul Chapman",
+          "description": "\"Masters of Monsters\" event sponsored by Shout! Factory features 4 classic giant monster films from Toho\n\n\nSome quick news for all you movie monster fans out there: in November of 2022, film distributors Shout! Factory and director John Carpenter are teaming up for \"Masters of Monsters\", a four night movie marathon event featuring four classic giant monster movies produced by Toho Studios. Hit the jump for all the gory details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/director-john-carpenter-hosts-4-night-godzilla-marathon-in-november",
+          "publishedOn": "2022-09-27T19:34:25.000Z",
+          "wordCount": 5891,
+          "title": "Director John Carpenter Hosts 4 Night Godzilla Marathon in November",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/4a9b5007bd7a77e48cfcc9d7294dfb4c1664306548_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27/one-piece-film-red-times-square-takeover-and-more-planned-for-nycc",
           "author": "Joseph Luster",
