@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder",
+          "author": null,
+          "description": "Arm CEO Rene Haas | Illustration by William Joel / The Verge\n    \n\n\n  \nArm’s chips are in your iPhone — but what exactly does Arm do?\n One of the more interesting quirks of the modern tech world is that there’s a really important company at the center of it all that doesn’t make anything. But its work is in your phone, in your TV, your car, maybe even your laptop — and the data centers that keep all these things working. \nI’m talking about Arm, a chip design company that’s been through quite a lot these past few years. Arm designs the instruction sets for modern chips; Qualcomm, Apple, and Samsung chips are all Arm chips. Arm licenses the instruction sets to those companies, who then go off and actually make chips with all sorts of customizations. This model has been a runaway success. \nSo…",
+          "link": "https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder",
+          "publishedOn": "2022-09-27T15:00:00.000Z",
+          "wordCount": 30890,
+          "title": "How Arm conquered the chip market without making a single chip, with CEO Rene Haas",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/sgpeGlSQSMXGeFrLda4QWoJYGZQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057649/226318_Rene_Haas_Decoder_WJoel.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23373610/freewrite-alpha-third-gen-distraction-free-keyboard-indiegogo-campaign-pricing-release",
           "author": null,
           "description": "The Freewrite Alpha typewriter | Image: Freewrite\n    \n\n  \nIf you’ve been intrigued by the high-tech Freewrite typewriter but put off by its price tag, manufacturer Astrohaus’ new design is (maybe) for you. Astrohaus is opening preorders for the Freewrite Alpha, a lower-profile version of its first-generation device. Like the original Freewrite, it’s billed as a distraction-free writing tool that syncs wirelessly with services like Google Drive or Dropbox but for $349 (or $249 for early orders) instead of the original Freewrite’s $649 price tag. An Indiegogo campaign launches today with a shipping date of July 2023.\nThe Alpha looks starkly different from either the gigantic original Freewrite or the $499 portable 2020 Freewrite Traveler, both of which will still be sold after its release. …",
@@ -2346,6 +2356,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html",
+          "author": "Natasha Singer",
+          "description": "A study that looked back at those tests found that relatively weak social connections were more helpful in finding jobs than stronger social ties.",
+          "link": "https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html",
+          "publishedOn": "2022-09-25T23:13:43.000Z",
+          "wordCount": null,
+          "title": "LinkedIn Ran Social Experiments on 20 Million Users Over Five Years",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html",
           "author": "Kashmir Hill",
           "description": "A tech-savvy artist unearthed video footage of people working hard to capture the perfect shot for Instagram. It is a lesson in the artifice of social media and the ubiquity of surveillance.",
@@ -2353,6 +2373,16 @@
           "publishedOn": "2022-09-25T00:40:30.000Z",
           "wordCount": null,
           "title": "This Surveillance Artist Knows How You Got That Perfect Instagram Photo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html",
+          "author": "Erin Griffith",
+          "description": "Elon Musk, Mark Zuckerberg and Marc Andreessen show how the tech industry’s insular culture remains largely unchanged.",
+          "link": "https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html",
+          "publishedOn": "2022-09-24T21:13:44.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley Slides Back Into ‘Bro’ Culture",
           "imageUrl": null
         },
         {
@@ -2927,6 +2957,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234600666",
+          "author": "Jon Blistein",
+          "description": "Sawayama channeled the distortion-heavy end of the original to create a full-blown alt-rock take on the single",
+          "link": "https://www.rollingstone.com/music/music-news/rina-sawayamas-billie-eilish-happier-than-ever-cover-1234600666/",
+          "publishedOn": "2022-09-27T15:02:54.000Z",
+          "wordCount": 7006,
+          "title": "Rina Sawayama’s Cover of Billie Eilish’s ‘Happier Than Ever’ Is a Headbanger’s Delight",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/AP22221844338841.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600049",
           "author": "Kory Grow",
           "description": "Around 300 million miles from Earth, Nilerodgers (191911) is orbiting the sun. \"It's so ... out of this world,\" hitmaker says.",
@@ -3264,6 +3304,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234600616",
+          "author": "Larisha Paul",
+          "description": "The late actress' husband shared a heartfelt story about one of their earliest vacations in remembrance",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/john-easterling-birthday-tribute-olivia-newton-john-1234600616/",
+          "publishedOn": "2022-09-27T14:40:06.000Z",
+          "wordCount": 7193,
+          "title": "John Easterling Shares Sweet Birthday Tribute to Olivia Newton-John: ‘Every Day With Olivia There Was A Hint Of Magic’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/olivia-newton-john-birthday.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234598131",
           "author": "Maria Fontoura",
           "description": "The cast and crew — including Fred Armisen, Julio Torres, and Ana Fabrega — take us inside the world of HBO’s strange, spooky comedy",
@@ -3520,6 +3570,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408530",
+          "author": "Jacquelyn Melinek",
+          "description": "Space and Time, a decentralized data platform, has raised $20 million in strategic funding to help businesses grow through smart contract technology. “Our mission is to make smart contracts smarter and expand the use cases of business logic through smart contracts,” Nate Holiday, co-founder and CEO of Space and Time, said to TechCrunch. “We see […]\nMicrosoft’s M12 led $20M investment in web3 platform Space and Time by Jacquelyn Melinek originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/microsofts-m12-led-20m-investment-in-web3-platform-space-and-time/",
+          "publishedOn": "2022-09-27T15:00:51.000Z",
+          "wordCount": 5190,
+          "title": "Microsoft’s M12 led $20M investment in web3 platform Space and Time",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1301083144.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407593",
+          "author": "Lauren Simonds",
+          "description": "Downsizing, layoffs, reducing redundancy — to paraphrase the Bard, this “rose” by any other name simply stinks. If you fall into this category, take heart — when one door closes, another door opens, and on the other side is a free Expo Pass to TechCrunch Disrupt on October 18–20 in San Francisco (a $495 value). […]\nGot laid off? Grab a Free Expo Pass to TechCrunch Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/got-laid-off-grab-a-free-expo-pass-to-techcrunch-disrupt/",
+          "publishedOn": "2022-09-27T15:00:34.000Z",
+          "wordCount": 5324,
+          "title": "Got laid off? Grab a Free Expo Pass to TechCrunch Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Whenonedoor_1200x628.png"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408292",
+          "author": "Walter Thompson",
+          "description": "“When you no longer believe, if you're not buying what you're selling anymore, then it is time to stop,\" said M13 Partner Anna Barber.\nWhat can the 2000 dot-com crash teach us about the 2022 tech downturn? by Walter Thompson originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/what-can-the-2000-dotcom-crash-teach-us-about-the-2022-tech-downturn/",
+          "publishedOn": "2022-09-27T15:00:16.000Z",
+          "wordCount": 6170,
+          "title": "What can the 2000 dot-com crash teach us about the 2022 tech downturn?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-52487062.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408526",
+          "author": "Carly Page",
+          "description": "WhatsApp has published details of a “critical”-rated security vulnerability affecting its Android app that could allow attackers to remotely plant malware on a victim’s smartphone during a video call. Details of the flaw, tracked as CVE-2022-36934 with an assigned severity rating of 9.8 out of 10, is described by WhatsApp as an integer overflow bug. […]\nWhatsApp fixes ‘critical’ security bug that put Android phone data at risk by Carly Page originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/",
+          "publishedOn": "2022-09-27T14:38:04.000Z",
+          "wordCount": 4921,
+          "title": "WhatsApp fixes ‘critical’ security bug that put Android phone data at risk",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1237939625.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2408561",
           "author": "Romain Dillet",
@@ -4478,6 +4568,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "m7gpg4",
+          "author": "Jordan Pearson",
+          "description": "Damage to the Nord Stream 1 pipeline is an \"act of sabotage, related to the next step of escalation of the situation in Ukraine,\" Poland's PM alleged.",
+          "link": "https://www.vice.com/en_us/article/m7gpg4/russia-nord-stream-1-pipeline-leak-sabotage",
+          "publishedOn": "2022-09-27T15:09:20.000Z",
+          "wordCount": 4251,
+          "title": "Massive Leak in Russia’s Gas Pipeline to Europe ‘Act of Sabotage,’ Polish PM Says",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633310c546002a009c9d6f6e/lede/1664291313646-untitled-design-2022-09-27t110815452.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633310c546002a009c9d6f6e/lede/1664291313646-untitled-design-2022-09-27t110815452.jpeg"
+        },
+        {
           "id": "v7vyvb",
           "author": "Claire Woodcock",
           "description": "Librarians and patrons believe the threats were part of a coordinated effort to limit information access, and come amidst a recent wave of book bans.",
@@ -5129,6 +5234,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos",
+          "author": null,
+          "description": "The asteroid moonlet Dimorphos as seen by the DART spacecraft 11 seconds before impact. | NASA/Johns Hopkins APL\n    \n\n  \nHumanity now has the beginnings of a true defense against asteroids. \n At 7:14 EDT Monday night, something historic happened for the human species — and it took place more than 7 million miles from our planet.\nNASA’s Double Asteroid Redirection Test (DART) spacecraft successfully collided with the asteroid moonlet Dimorphos, which circles the larger asteroid Didymos (hence the “double asteroid”). The 1,250-pound DART spacecraft hit the asteroid at approximately 14,760 mph — in the days to come, NASA scientists will pore over data to figure out how much Dimorphos’s momentum was changed by the collision, with initial estimates projecting that it moved 1 percent closer to …",
+          "link": "https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos",
+          "publishedOn": "2022-09-27T15:10:00.000Z",
+          "wordCount": 3585,
+          "title": "The universe is a dangerous place. NASA just showed it was possible to defend Earth against it.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/AeWvhoklkJTOsrRavHcCu7g185M=/0x258:985x774/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24058341/all_dimorphos_dart_0401930040_12262_01_raw_0.png"
+        },
         {
           "id": "https://www.vox.com/culture/23372909/riotsville-usa-review-interview",
           "author": null,
@@ -6251,6 +6366,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23345284/star-trek-tv-show-best-start",
+          "author": null,
+          "description": "Photo: Marni Grossman/Paramount Plus\n    \n\n\n  \nThe sci-fi franchise is all TV these days, and there’s something for (almost) everyone\n Here’s a wild statistic: There are nearly as many currently running Star Trek television series as there are completed Star Trek television series. The first 40 years of the franchise’s history include five live-action series and one animated spinoff, totaling 725 episodes. In the past five years, five new series have launched (six if you count Short Treks as its own entity), airing a cumulative 130 episodes as of today. Star Trek as a brand is busier than it’s been since the mid-1990s, when Deep Space Nine, Voyager, and the Next Generation TV series were all running concurrently and shops around the world dedicated entire displays to Star Trek toys, novels…",
+          "link": "https://www.polygon.com/23345284/star-trek-tv-show-best-start",
+          "publishedOn": "2022-09-27T14:40:00.000Z",
+          "wordCount": 3627,
+          "title": "Star Trek has truly reinvented itself",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/a8flZOuIe1L0xJvM8joZ2J6ErkM=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24009755/SNW_109_MG_09_30_21__049544_RT.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23373706/house-dragon-lord-rings-power-the-same-maybe",
           "author": null,
           "description": "Photo: Gary Moyes/HBO\n    \n\n\n  \nA classic trope, done two ways\n Perhaps you have noticed that two of the biggest television shows airing (or streaming) right now are both fantasy epics based on popular novels exploring the time period before a popular previous adaptation. While it would be reductive to call HBO’s House of the Dragon and Amazon’s The Lord of the Rings: The Rings of Power the same kind of show — they extremely are not — occasionally, in ways big and small, they do some of the same things. Like last weekend, when the latest episodes of each show both engaged in the classic trope of having an experienced sword fighter school some young whippersnappers in the best way to study the blade.\n[Ed. note: This episode discusses the plots through episode 5 of The Rings of Power and epi…",
@@ -6567,6 +6692,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "b8710211-36d0-45e8-9845-4df5c85d4f3b",
+          "author": "Simon Cardy",
+          "description": "We spoke to Blizzard about the creation of the new Overwatch 2 map set in Portugal, Esperança.",
+          "link": "https://www.ign.com/articles/creating-overwatch-2s-new-portugal-map-from-tall-towers-to-tiny-tarts",
+          "publishedOn": "2022-09-27T13:00:20.000Z",
+          "wordCount": 14104,
+          "title": "Creating Overwatch 2’s New Portugal Map, from Tall Towers to Tiny Tarts",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/27/esperanca-portugal-003-1080-1664272798292.jpg?width=1280"
+        },
         {
           "id": "25f664c8-4ef5-4fb0-a616-e61719740eb3",
           "author": "Matt Purslow",
@@ -7769,6 +7904,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/the-eminence-in-shadow-master-of-garden-mobile-game-revealed",
+          "author": "Joseph Luster",
+          "description": "iOS, Android and PC game is due out sometime this year\n\n\nDaisuke Aizawa and illustrator Tozai's The Eminence in Shadow light novel series is about to make its screen debut as a TV anime this October, but there's more on the way beyond that. Read on for the latest.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/the-eminence-in-shadow-master-of-garden-mobile-game-revealed",
+          "publishedOn": "2022-09-27T14:15:37.000Z",
+          "wordCount": 6013,
+          "title": "The Eminence in Shadow: Master of Garden Mobile Game Revealed",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/aab6485407040e387b0612c5d3f9f6741664288106_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/umamusume-pretty-derby-spinoff-umayuru-gallops-out-of-the-gate-on-october-16",
+          "author": "Kara Dennison",
+          "description": "The new short web anime will air on the project's official YouTube channel\n\n\nBack in May, horse idol media mix project Umamusume: Pretty Derby announced a cute online spinoff, UmaYuru. We now have an official start date for the YouTube series",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/umamusume-pretty-derby-spinoff-umayuru-gallops-out-of-the-gate-on-october-16",
+          "publishedOn": "2022-09-27T13:47:17.000Z",
+          "wordCount": 5937,
+          "title": "Umamusume: Pretty Derby Spinoff UmaYuru Gallops out of the Gate on October 16",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/b54554785db49e038b0bf7c4492823d91664284508_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27/clea-and-clea-2-to-deliver-double-dose-of-horror-on-playstation-4",
           "author": "Joseph Luster",
           "description": "Sekai Project lines up the next platform for September 30 launch\n\n\nFollowing releases on Steam, Nintendo Switch and Xbox, developer InvertMouse's Clea and Clea 2 horror games are now on the way to PlayStation 4. Read on for more.",
@@ -8676,6 +8831,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece",
+          "author": "AFP",
+          "description": "Myanmar has been in chaos since the military seized power in a coup in February last year, with nearly 2,300 civilians killed in a crackdown on dissent",
+          "link": "https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece",
+          "publishedOn": "2022-09-27T14:59:03.000Z",
+          "wordCount": 6278,
+          "title": "Myanmar school attack could be &#039;war crime&#039;: UN probe",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ibtnpg/article65548974.ece/alternates/LANDSCAPE_615/2022-05-31T174022Z_1110525267_RC2GIU96PPUP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-FOOD-UN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/xi-jinping-appears-in-public-for-first-time-after-sco-summit-visits-cpc-exhibition/article65942842.ece",
+          "author": "PTI",
+          "description": "Chinese President’s absence sparked rumours of tensions within the CPC which is set to endorse Xi Jinping for a record third-term",
+          "link": "https://www.thehindu.com/news/international/xi-jinping-appears-in-public-for-first-time-after-sco-summit-visits-cpc-exhibition/article65942842.ece",
+          "publishedOn": "2022-09-27T14:56:40.000Z",
+          "wordCount": 6667,
+          "title": "Xi Jinping appears in public for first time after SCO summit; visits CPC exhibition",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g8h4se/article65943040.ece/alternates/LANDSCAPE_615/China_Politics_Xi_Reappears_27925.jpg-4705b.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/sabotage-suspected-after-leaks-in-russia-europe-gas-pipelines/article65942804.ece",
+          "author": "AFP",
+          "description": "The pipelines have been at the centre of geopolitical tensions in recent months as Russia cut gas supplies to Europe",
+          "link": "https://www.thehindu.com/news/international/sabotage-suspected-after-leaks-in-russia-europe-gas-pipelines/article65942804.ece",
+          "publishedOn": "2022-09-27T14:44:07.000Z",
+          "wordCount": 6604,
+          "title": "Sabotage suspected after leaks in Russia’s Nord Stream pipelines",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/wu0xa1/article65942786.ece/alternates/LANDSCAPE_615/2022-09-27T132447Z_1310930342_RC2PPW9E9IQW_RTRMADP_3_UKRAINE-CRISIS-DENMARK-REGULATOR.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/several-feared-dead-trucks-destroyed-in-burkina-faso-convoy-attack/article65942096.ece",
           "author": "Reuters",
           "description": "The convoy, which was under military escort, was carrying supplies to the town of Djibo, just over 20 km (12 miles) away from Gaskinde",
@@ -9342,6 +9527,66 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-observers-submit-report-on-rajasthan-developments-to-sonia-gandhi-key-points/articleshow/94487460.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Amid the ongoing political crisis on Rajasthan, the Congress observers submitted a report to Sonia Gandhi and pointed to \"gross indisciplin.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-observers-submit-report-on-rajasthan-developments-to-sonia-gandhi-key-points/articleshow/94487460.cms",
+          "publishedOn": "2022-09-27T14:49:53.000Z",
+          "wordCount": 6265,
+          "title": "Congress observers submit report on Rajasthan developments to Sonia Gandhi: Key points",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487483,width-1070,height-580,imgsize-44558,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaishankar-austin-discuss-new-opportunities-for-bilateral-defence-industrial-cooperation/articleshow/94487427.cms",
+          "author": null,
+          "description": "India News: WASHINGTON: External affairs minister S Jaishankar and US Defence Secretary Lloyd Austin have discussed new opportunities for bilateral defence indust.",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankar-austin-discuss-new-opportunities-for-bilateral-defence-industrial-cooperation/articleshow/94487427.cms",
+          "publishedOn": "2022-09-27T14:47:45.000Z",
+          "wordCount": 6486,
+          "title": "Jaishankar, Austin discuss new opportunities for bilateral defence industrial cooperation",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487457,width-1070,height-580,imgsize-56914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-will-likely-extend-free-food-grains-program-until-december/articleshow/94487252.cms",
+          "author": null,
+          "description": "India News: India will likely extend by three months its free food grains program that covers the majority of the nation’s population and costs more than $18 bill.",
+          "link": "https://timesofindia.indiatimes.com/india/india-will-likely-extend-free-food-grains-program-until-december/articleshow/94487252.cms",
+          "publishedOn": "2022-09-27T14:34:07.000Z",
+          "wordCount": 5833,
+          "title": "India will likely extend free food grains program until December",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487256,width-1070,height-580,imgsize-198608,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/will-apply-rule-of-majority-principle-says-cec-after-supreme-court-allows-ec-to-hear-shinde-factions-real-shiv-sena-plea/articleshow/94487108.cms",
+          "author": null,
+          "description": "India News: GANDHINAGAR: Chief Election Commissioner (CEC) Rajiv Kumar on Tuesday said the Election Commission of India will apply the transparent process of the .",
+          "link": "https://timesofindia.indiatimes.com/india/will-apply-rule-of-majority-principle-says-cec-after-supreme-court-allows-ec-to-hear-shinde-factions-real-shiv-sena-plea/articleshow/94487108.cms",
+          "publishedOn": "2022-09-27T14:23:05.000Z",
+          "wordCount": 5677,
+          "title": "Will apply 'rule of majority' principle, says CEC after Supreme Court allows EC to hear Shinde faction's 'real' Shiv Sena plea",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487095,width-1070,height-580,imgsize-39850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-at-forefront-of-plans-to-cause-riots-in-kerala-centre-should-disclose-its-debts-cpim-response-to-naddas-remarks/articleshow/94487090.cms",
+          "author": null,
+          "description": "India News: THIRUVANANTHAPURAM: A day after BJP chief J P Nadda alleged that Kerala was a \"hotspot\" of terrorism and a \"debt trap\", the ruling CPI(M) hit back by .",
+          "link": "https://timesofindia.indiatimes.com/india/rss-at-forefront-of-plans-to-cause-riots-in-kerala-centre-should-disclose-its-debts-cpim-response-to-naddas-remarks/articleshow/94487090.cms",
+          "publishedOn": "2022-09-27T14:22:05.000Z",
+          "wordCount": 6712,
+          "title": "RSS at forefront of plans to cause riots in Kerala; Centre should disclose its debts: CPI(M) response to Nadda's remarks",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajnath-exhorts-defence-industry-to-manufacture-cost-effective-military-products/articleshow/94486949.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Defence minister Rajnath Singh on Tuesday called on the Indian defence manufacturers to produce state-of-the-art and cost effective militar.",
+          "link": "https://timesofindia.indiatimes.com/india/rajnath-exhorts-defence-industry-to-manufacture-cost-effective-military-products/articleshow/94486949.cms",
+          "publishedOn": "2022-09-27T14:13:04.000Z",
+          "wordCount": 6870,
+          "title": "Rajnath exhorts defence industry to manufacture cost-effective military products",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94486935,width-1070,height-580,imgsize-28424,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/drdo-conducts-successful-test-flight-of-vshorads-missile/articleshow/94485875.cms",
           "author": null,
@@ -10658,6 +10903,16 @@
           "wordCount": 9429,
           "title": "Rishi Sunak supporters speak out as UK economy spirals under Liz Truss",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94486634,width-1070,height-580,imgsize-54640,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/huge-nord-stream-gas-leaks-bubbling-up-in-baltic-sea-danish-military/articleshow/94486208.cms",
+          "author": null,
+          "description": "Europe News: COPENHAGEN: The three gas leaks on the Nord Stream 1 and 2 pipelines were visible Tuesday in waters off Denmark with bubbles spreading from 200 to 1,0.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/huge-nord-stream-gas-leaks-bubbling-up-in-baltic-sea-danish-military/articleshow/94486208.cms",
+          "publishedOn": "2022-09-27T13:38:53.000Z",
+          "wordCount": 5495,
+          "title": "Huge Nord Stream gas leaks bubbling up in Baltic Sea: Danish military",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94486354,width-1070,height-580,imgsize-166732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/uk/king-charles-new-monogram-unveiled-as-royal-mourning-ends-in-uk/articleshow/94480949.cms",

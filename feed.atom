@@ -2,10 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T14:26:33.996Z</updated>
+    <updated>2022-09-27T15:13:22.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The universe is a dangerous place. NASA just showed it was possible to defend Earth against it.]]></title>
+        <id>https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos</id>
+        <link href="https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos"/>
+        <updated>2022-09-27T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The asteroid moonlet Dimorphos as seen by the DART spacecraft 11 seconds before impact. | NASA/Johns Hopkins APL
+    
+
+  
+Humanity now has the beginnings of a true defense against asteroids. 
+ At 7:14 EDT Monday night, something historic happened for the human species — and it took place more than 7 million miles from our planet.
+NASA’s Double Asteroid Redirection Test (DART) spacecraft successfully collided with the asteroid moonlet Dimorphos, which circles the larger asteroid Didymos (hence the “double asteroid”). The 1,250-pound DART spacecraft hit the asteroid at approximately 14,760 mph — in the days to come, NASA scientists will pore over data to figure out how much Dimorphos’s momentum was changed by the collision, with initial estimates projecting that it moved 1 percent closer to …]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Leak in Russia’s Gas Pipeline to Europe ‘Act of Sabotage,’ Polish PM Says]]></title>
+        <id>m7gpg4</id>
+        <link href="https://www.vice.com/en_us/article/m7gpg4/russia-nord-stream-1-pipeline-leak-sabotage"/>
+        <updated>2022-09-27T15:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Damage to the Nord Stream 1 pipeline is an "act of sabotage, related to the next step of escalation of the situation in Ukraine," Poland's PM alleged.]]></summary>
+        <author>
+            <name>Jordan Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rina Sawayama’s Cover of Billie Eilish’s ‘Happier Than Ever’ Is a Headbanger’s Delight]]></title>
+        <id>https://www.rollingstone.com/?p=1234600666</id>
+        <link href="https://www.rollingstone.com/music/music-news/rina-sawayamas-billie-eilish-happier-than-ever-cover-1234600666/"/>
+        <updated>2022-09-27T15:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Sawayama channeled the distortion-heavy end of the original to create a full-blown alt-rock take on the single]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s M12 led $20M investment in web3 platform Space and Time]]></title>
+        <id>https://techcrunch.com/?p=2408530</id>
+        <link href="https://techcrunch.com/2022/09/27/microsofts-m12-led-20m-investment-in-web3-platform-space-and-time/"/>
+        <updated>2022-09-27T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Space and Time, a decentralized data platform, has raised $20 million in strategic funding to help businesses grow through smart contract technology. “Our mission is to make smart contracts smarter and expand the use cases of business logic through smart contracts,” Nate Holiday, co-founder and CEO of Space and Time, said to TechCrunch. “We see […]
+Microsoft’s M12 led $20M investment in web3 platform Space and Time by Jacquelyn Melinek originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jacquelyn Melinek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Got laid off? Grab a Free Expo Pass to TechCrunch Disrupt]]></title>
+        <id>https://techcrunch.com/?p=2407593</id>
+        <link href="https://techcrunch.com/2022/09/27/got-laid-off-grab-a-free-expo-pass-to-techcrunch-disrupt/"/>
+        <updated>2022-09-27T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Downsizing, layoffs, reducing redundancy — to paraphrase the Bard, this “rose” by any other name simply stinks. If you fall into this category, take heart — when one door closes, another door opens, and on the other side is a free Expo Pass to TechCrunch Disrupt on October 18–20 in San Francisco (a $495 value). […]
+Got laid off? Grab a Free Expo Pass to TechCrunch Disrupt by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What can the 2000 dot-com crash teach us about the 2022 tech downturn?]]></title>
+        <id>https://techcrunch.com/?p=2408292</id>
+        <link href="https://techcrunch.com/2022/09/27/what-can-the-2000-dotcom-crash-teach-us-about-the-2022-tech-downturn/"/>
+        <updated>2022-09-27T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[“When you no longer believe, if you're not buying what you're selling anymore, then it is time to stop," said M13 Partner Anna Barber.
+What can the 2000 dot-com crash teach us about the 2022 tech downturn? by Walter Thompson originally published on TechCrunch]]></summary>
+        <author>
+            <name>Walter Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Arm conquered the chip market without making a single chip, with CEO Rene Haas]]></title>
+        <id>https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder</id>
+        <link href="https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder"/>
+        <updated>2022-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arm CEO Rene Haas | Illustration by William Joel / The Verge
+    
+
+
+  
+Arm’s chips are in your iPhone — but what exactly does Arm do?
+ One of the more interesting quirks of the modern tech world is that there’s a really important company at the center of it all that doesn’t make anything. But its work is in your phone, in your TV, your car, maybe even your laptop — and the data centers that keep all these things working. 
+I’m talking about Arm, a chip design company that’s been through quite a lot these past few years. Arm designs the instruction sets for modern chips; Qualcomm, Apple, and Samsung chips are all Arm chips. Arm licenses the instruction sets to those companies, who then go off and actually make chips with all sorts of customizations. This model has been a runaway success. 
+So…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myanmar school attack could be &#039;war crime&#039;: UN probe]]></title>
+        <id>https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece</id>
+        <link href="https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece"/>
+        <updated>2022-09-27T14:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Myanmar has been in chaos since the military seized power in a coup in February last year, with nearly 2,300 civilians killed in a crackdown on dissent]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xi Jinping appears in public for first time after SCO summit; visits CPC exhibition]]></title>
+        <id>https://www.thehindu.com/news/international/xi-jinping-appears-in-public-for-first-time-after-sco-summit-visits-cpc-exhibition/article65942842.ece</id>
+        <link href="https://www.thehindu.com/news/international/xi-jinping-appears-in-public-for-first-time-after-sco-summit-visits-cpc-exhibition/article65942842.ece"/>
+        <updated>2022-09-27T14:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Chinese President’s absence sparked rumours of tensions within the CPC which is set to endorse Xi Jinping for a record third-term]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress observers submit report on Rajasthan developments to Sonia Gandhi: Key points]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-observers-submit-report-on-rajasthan-developments-to-sonia-gandhi-key-points/articleshow/94487460.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-observers-submit-report-on-rajasthan-developments-to-sonia-gandhi-key-points/articleshow/94487460.cms"/>
+        <updated>2022-09-27T14:49:53.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Amid the ongoing political crisis on Rajasthan, the Congress observers submitted a report to Sonia Gandhi and pointed to "gross indisciplin.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaishankar, Austin discuss new opportunities for bilateral defence industrial cooperation]]></title>
+        <id>https://timesofindia.indiatimes.com/india/jaishankar-austin-discuss-new-opportunities-for-bilateral-defence-industrial-cooperation/articleshow/94487427.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/jaishankar-austin-discuss-new-opportunities-for-bilateral-defence-industrial-cooperation/articleshow/94487427.cms"/>
+        <updated>2022-09-27T14:47:45.000Z</updated>
+        <summary type="html"><![CDATA[India News: WASHINGTON: External affairs minister S Jaishankar and US Defence Secretary Lloyd Austin have discussed new opportunities for bilateral defence indust.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sabotage suspected after leaks in Russia’s Nord Stream pipelines]]></title>
+        <id>https://www.thehindu.com/news/international/sabotage-suspected-after-leaks-in-russia-europe-gas-pipelines/article65942804.ece</id>
+        <link href="https://www.thehindu.com/news/international/sabotage-suspected-after-leaks-in-russia-europe-gas-pipelines/article65942804.ece"/>
+        <updated>2022-09-27T14:44:07.000Z</updated>
+        <summary type="html"><![CDATA[The pipelines have been at the centre of geopolitical tensions in recent months as Russia cut gas supplies to Europe]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Easterling Shares Sweet Birthday Tribute to Olivia Newton-John: ‘Every Day With Olivia There Was A Hint Of Magic’]]></title>
+        <id>https://www.rollingstone.com/?p=1234600616</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/john-easterling-birthday-tribute-olivia-newton-john-1234600616/"/>
+        <updated>2022-09-27T14:40:06.000Z</updated>
+        <summary type="html"><![CDATA[The late actress' husband shared a heartfelt story about one of their earliest vacations in remembrance]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Trek has truly reinvented itself]]></title>
+        <id>https://www.polygon.com/23345284/star-trek-tv-show-best-start</id>
+        <link href="https://www.polygon.com/23345284/star-trek-tv-show-best-start"/>
+        <updated>2022-09-27T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Marni Grossman/Paramount Plus
+    
+
+
+  
+The sci-fi franchise is all TV these days, and there’s something for (almost) everyone
+ Here’s a wild statistic: There are nearly as many currently running Star Trek television series as there are completed Star Trek television series. The first 40 years of the franchise’s history include five live-action series and one animated spinoff, totaling 725 episodes. In the past five years, five new series have launched (six if you count Short Treks as its own entity), airing a cumulative 130 episodes as of today. Star Trek as a brand is busier than it’s been since the mid-1990s, when Deep Space Nine, Voyager, and the Next Generation TV series were all running concurrently and shops around the world dedicated entire displays to Star Trek toys, novels…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp fixes ‘critical’ security bug that put Android phone data at risk]]></title>
+        <id>https://techcrunch.com/?p=2408526</id>
+        <link href="https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/"/>
+        <updated>2022-09-27T14:38:04.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp has published details of a “critical”-rated security vulnerability affecting its Android app that could allow attackers to remotely plant malware on a victim’s smartphone during a video call. Details of the flaw, tracked as CVE-2022-36934 with an assigned severity rating of 9.8 out of 10, is described by WhatsApp as an integer overflow bug. […]
+WhatsApp fixes ‘critical’ security bug that put Android phone data at risk by Carly Page originally published on TechCrunch]]></summary>
+        <author>
+            <name>Carly Page</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India will likely extend free food grains program until December]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-will-likely-extend-free-food-grains-program-until-december/articleshow/94487252.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-will-likely-extend-free-food-grains-program-until-december/articleshow/94487252.cms"/>
+        <updated>2022-09-27T14:34:07.000Z</updated>
+        <summary type="html"><![CDATA[India News: India will likely extend by three months its free food grains program that covers the majority of the nation’s population and costs more than $18 bill.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MultiVersus’ new patch makes leveling up harder]]></title>
         <id>https://www.polygon.com/23374639/multiversus-patch-notes-rick-xp-nerf-leveling</id>
@@ -26,6 +210,16 @@ MultiVersus patch 1.03 will arrive after the game’s maintenance, which should 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will apply 'rule of majority' principle, says CEC after Supreme Court allows EC to hear Shinde faction's 'real' Shiv Sena plea]]></title>
+        <id>https://timesofindia.indiatimes.com/india/will-apply-rule-of-majority-principle-says-cec-after-supreme-court-allows-ec-to-hear-shinde-factions-real-shiv-sena-plea/articleshow/94487108.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/will-apply-rule-of-majority-principle-says-cec-after-supreme-court-allows-ec-to-hear-shinde-factions-real-shiv-sena-plea/articleshow/94487108.cms"/>
+        <updated>2022-09-27T14:23:05.000Z</updated>
+        <summary type="html"><![CDATA[India News: GANDHINAGAR: Chief Election Commissioner (CEC) Rajiv Kumar on Tuesday said the Election Commission of India will apply the transparent process of the .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nile Rodgers Just Got an Asteroid Named After Him for His 70th Birthday]]></title>
         <id>https://www.rollingstone.com/?p=1234600049</id>
         <link href="https://www.rollingstone.com/music/music-news/nile-rodgers-birthday-asteroid-1234600049/"/>
@@ -33,6 +227,39 @@ MultiVersus patch 1.03 will arrive after the game’s maintenance, which should 
         <summary type="html"><![CDATA[Around 300 million miles from Earth, Nilerodgers (191911) is orbiting the sun. "It's so ... out of this world," hitmaker says.]]></summary>
         <author>
             <name>Kory Grow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS at forefront of plans to cause riots in Kerala; Centre should disclose its debts: CPI(M) response to Nadda's remarks]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rss-at-forefront-of-plans-to-cause-riots-in-kerala-centre-should-disclose-its-debts-cpim-response-to-naddas-remarks/articleshow/94487090.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rss-at-forefront-of-plans-to-cause-riots-in-kerala-centre-should-disclose-its-debts-cpim-response-to-naddas-remarks/articleshow/94487090.cms"/>
+        <updated>2022-09-27T14:22:05.000Z</updated>
+        <summary type="html"><![CDATA[India News: THIRUVANANTHAPURAM: A day after BJP chief J P Nadda alleged that Kerala was a "hotspot" of terrorism and a "debt trap", the ruling CPI(M) hit back by .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eminence in Shadow: Master of Garden Mobile Game Revealed]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27-1/the-eminence-in-shadow-master-of-garden-mobile-game-revealed</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27-1/the-eminence-in-shadow-master-of-garden-mobile-game-revealed"/>
+        <updated>2022-09-27T14:15:37.000Z</updated>
+        <summary type="html"><![CDATA[iOS, Android and PC game is due out sometime this year
+
+
+Daisuke Aizawa and illustrator Tozai's The Eminence in Shadow light novel series is about to make its screen debut as a TV anime this October, but there's more on the way beyond that. Read on for the latest.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajnath exhorts defence industry to manufacture cost-effective military products]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajnath-exhorts-defence-industry-to-manufacture-cost-effective-military-products/articleshow/94486949.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajnath-exhorts-defence-industry-to-manufacture-cost-effective-military-products/articleshow/94486949.cms"/>
+        <updated>2022-09-27T14:13:04.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Defence minister Rajnath Singh on Tuesday called on the Indian defence manufacturers to produce state-of-the-art and cost effective militar.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -183,6 +410,19 @@ A classic trope, done two ways
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Umamusume: Pretty Derby Spinoff UmaYuru Gallops out of the Gate on October 16]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27-1/umamusume-pretty-derby-spinoff-umayuru-gallops-out-of-the-gate-on-october-16</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27-1/umamusume-pretty-derby-spinoff-umayuru-gallops-out-of-the-gate-on-october-16"/>
+        <updated>2022-09-27T13:47:17.000Z</updated>
+        <summary type="html"><![CDATA[The new short web anime will air on the project's official YouTube channel
+
+
+Back in May, horse idol media mix project Umamusume: Pretty Derby announced a cute online spinoff, UmaYuru. We now have an official start date for the YouTube series]]></summary>
+        <author>
+            <name>Kara Dennison</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Avidbots, maker of autonomous industrial cleaning robots, nabs $70M]]></title>
         <id>https://techcrunch.com/?p=2408524</id>
         <link href="https://techcrunch.com/2022/09/27/avidbots-maker-of-autonomous-industrial-cleaning-robots-nabs-70m/"/>
@@ -222,6 +462,16 @@ Avidbots, maker of autonomous industrial cleaning robots, nabs $70M by Paul Sawe
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huge Nord Stream gas leaks bubbling up in Baltic Sea: Danish military]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/huge-nord-stream-gas-leaks-bubbling-up-in-baltic-sea-danish-military/articleshow/94486208.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/huge-nord-stream-gas-leaks-bubbling-up-in-baltic-sea-danish-military/articleshow/94486208.cms"/>
+        <updated>2022-09-27T13:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: COPENHAGEN: The three gas leaks on the Nord Stream 1 and 2 pipelines were visible Tuesday in waters off Denmark with bubbles spreading from 200 to 1,0.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -420,6 +670,16 @@ The OG App promises you an ad-free Instagram feed by Ivan Mehta originally publi
 Kumo aims to bring predictive AI to the enterprise with $18M in fresh capital by Kyle Wiggers originally published on TechCrunch]]></summary>
         <author>
             <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Overwatch 2’s New Portugal Map, from Tall Towers to Tiny Tarts]]></title>
+        <id>b8710211-36d0-45e8-9845-4df5c85d4f3b</id>
+        <link href="https://www.ign.com/articles/creating-overwatch-2s-new-portugal-map-from-tall-towers-to-tiny-tarts"/>
+        <updated>2022-09-27T13:00:20.000Z</updated>
+        <summary type="html"><![CDATA[We spoke to Blizzard about the creation of the new Overwatch 2 map set in Portugal, Esperança.]]></summary>
+        <author>
+            <name>Simon Cardy</name>
         </author>
     </entry>
     <entry>
@@ -8446,6 +8706,16 @@ House of the Dragon’s time jumps make Martin…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LinkedIn Ran Social Experiments on 20 Million Users Over Five Years]]></title>
+        <id>https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html"/>
+        <updated>2022-09-25T23:13:43.000Z</updated>
+        <summary type="html"><![CDATA[A study that looked back at those tests found that relatively weak social connections were more helpful in finding jobs than stronger social ties.]]></summary>
+        <author>
+            <name>Natasha Singer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Disperse, which brings AI-fuelled data to construction projects, raises $16M]]></title>
         <id>https://techcrunch.com/?p=2406254</id>
         <link href="https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/"/>
@@ -10510,6 +10780,16 @@ To do this, Respeecher uses sound bites to “clone” an actor’s voice, allow
         <summary type="html"><![CDATA[IGN and it's community discuss whether the developer or publisher is more important when buying a game.]]></summary>
         <author>
             <name>Jada Griffin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley Slides Back Into ‘Bro’ Culture]]></title>
+        <id>https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html</id>
+        <link href="https://www.nytimes.com/2022/09/24/technology/silicon-valley-slides-back-into-bro-culture.html"/>
+        <updated>2022-09-24T21:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk, Mark Zuckerberg and Marc Andreessen show how the tech industry’s insular culture remains largely unchanged.]]></summary>
+        <author>
+            <name>Erin Griffith</name>
         </author>
     </entry>
     <entry>
