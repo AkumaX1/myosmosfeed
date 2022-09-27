@@ -539,6 +539,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html",
+          "author": "Austin Ramzy",
+          "description": "Concerns about rising interest rates and the prospects of a global slowdown remain.",
+          "link": "https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html",
+          "publishedOn": "2022-09-27T06:15:58.000Z",
+          "wordCount": null,
+          "title": "Markets Calm Down After Recession Fears Drive Steep Drops",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html",
           "author": "Emily Cochrane",
           "description": "The package would also provide major new aid to Ukraine, but its fate in an initial Senate vote on Tuesday is uncertain.",
@@ -9209,6 +9219,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/vladimir-putin-likely-to-announce-accession-of-occupied-regions-of-ukraine-on-september-30-uk-says/articleshow/94471426.cms",
+          "author": null,
+          "description": "Rest of World News: MOSCOW: Russian President Vladimir Putin is likely to announce the accession of occupied regions of Ukraine to the Russian federation during his addre.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/vladimir-putin-likely-to-announce-accession-of-occupied-regions-of-ukraine-on-september-30-uk-says/articleshow/94471426.cms",
+          "publishedOn": "2022-09-27T06:14:55.000Z",
+          "wordCount": 5441,
+          "title": "'Putin likely to announce accession of occupied regions of Ukraine on September 30'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94471416,width-1070,height-580,imgsize-22830,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms",
           "author": null,

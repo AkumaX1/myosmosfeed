@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T06:18:14.134Z</updated>
+    <updated>2022-09-27T06:42:53.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Calm Down After Recession Fears Drive Steep Drops]]></title>
+        <id>https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html"/>
+        <updated>2022-09-27T06:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Concerns about rising interest rates and the prospects of a global slowdown remain.]]></summary>
+        <author>
+            <name>Austin Ramzy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Putin likely to announce accession of occupied regions of Ukraine on September 30']]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/vladimir-putin-likely-to-announce-accession-of-occupied-regions-of-ukraine-on-september-30-uk-says/articleshow/94471426.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/vladimir-putin-likely-to-announce-accession-of-occupied-regions-of-ukraine-on-september-30-uk-says/articleshow/94471426.cms"/>
+        <updated>2022-09-27T06:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: MOSCOW: Russian President Vladimir Putin is likely to announce the accession of occupied regions of Ukraine to the Russian federation during his addre.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan diplomat ‘blindfolded and restrained’ in Russia]]></title>
         <id>https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms</id>
