@@ -3081,6 +3081,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2408402",
+          "author": "Annie Njanja",
+          "description": "Ghanaian agtech Farmerline has secured $1.5 million equity funding from Dutch impact investor Oikocredit in its second close of the pre-series A round. The new funding brings the total amount raised in the round to $14.4 million, including $6.4 debt funding. The funding comes at a time when Farmerline, which has operations across Ghana, is […]\nGhanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit by Annie Njanja originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/ghanaian-agtech-farmerline-raises-1-5m-from-dutch-investor-oikocredit/",
+          "publishedOn": "2022-09-27T07:00:10.000Z",
+          "wordCount": 6058,
+          "title": "Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/Farmerline-partner-agribusiness-min.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2407311",
           "author": "Catherine Shu",
           "description": "Meetings are essential to helping teams, especially remote or hybrid ones, stay in touch. But too many meetings can become unproductive, as shared information and action items get buried underneath all the other stuff workers have to do. Productivity platform Loopin wants to help by integrating with work apps and gathering information from across multiple […]\nProductivity platform Loopin helps work teams wrangle meetings by Catherine Shu originally published on TechCrunch",
@@ -5992,6 +6002,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.189931",
+          "author": null,
+          "description": "New series titled Hypnosis Mic -Division Rap Battle- side D.H & B.A.T+ (Plus)",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/hypnosis-mic-division-rap-battle-side-d.h-and-b.a.t-manga-launches-new-series/.189931",
+          "publishedOn": "2022-09-27T07:03:28.000Z",
+          "wordCount": 3390,
+          "title": "Hypnosis Mic -Division Rap Battle- side D.H & B.A.T Manga Launches New Series",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC9/cms/news.5/189931/hypmic.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190208",
           "author": null,
           "description": "Film earned US$86,610 in 416 theaters from September 14-22",
@@ -6718,6 +6738,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26/one-piece-film-red-passes-ponyo-to-be-6th-highest-grossing-anime-film-in-japan",
+          "author": "Daryl Harding",
+          "description": "The idol adventure film rises to 11th place on the all-time charts\n\n\nEven eight weeks on, One Piece Film Red continues to reign at the top of the Japanese box office. As previously reported, the Toei Animation-produced film stayed at number one this week with nearly 15.7 billion yen made at the Japanese box office overall. This has let the film pass Ponyo on the all-time charts. More after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26/one-piece-film-red-passes-ponyo-to-be-6th-highest-grossing-anime-film-in-japan",
+          "publishedOn": "2022-09-27T06:12:19.000Z",
+          "wordCount": 6261,
+          "title": "One Piece Film Red Passes Ponyo to Be 6th Highest-Grossing Anime Film in Japan",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/4a3eaa50fbb0520dfce01ece49d386c91664259090_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/watch-as-lupin-forgets-fujiko-mines-order-in-mcdonalds-japan-anime-collab",
           "author": "Daryl Harding",
@@ -7586,6 +7616,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/us-provided-usd-565-million-in-aid-to-pakistan-for-flood-relief-humanitarian-assistance/article65941024.ece",
+          "author": "Asian News International",
+          "description": "Antony Blinken expressed his sorrow over the devastation and loss of life throughout Pakistan caused by catastrophic flooding",
+          "link": "https://www.thehindu.com/news/international/us-provided-usd-565-million-in-aid-to-pakistan-for-flood-relief-humanitarian-assistance/article65941024.ece",
+          "publishedOn": "2022-09-27T07:21:08.000Z",
+          "wordCount": 6379,
+          "title": "U.S. provided USD 56.5 million in aid to Pakistan for flood relief, humanitarian assistance",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ndqkfq/article65941033.ece/alternates/LANDSCAPE_615/2022-09-23T201021Z_777969285_RC2AIW96LOLK_RTRMADP_3_CLIMATE-CHANGE-UN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/pakistani-pm-sharif-summons-nsc-meet-to-discuss-audio-leaks-from-pmo/article65940964.ece",
+          "author": "PTI",
+          "description": "Ousted prime minister Imran Khan demanded the resignation of his successor Shehbaz Sharif over the issue",
+          "link": "https://www.thehindu.com/news/international/pakistani-pm-sharif-summons-nsc-meet-to-discuss-audio-leaks-from-pmo/article65940964.ece",
+          "publishedOn": "2022-09-27T07:20:21.000Z",
+          "wordCount": 6394,
+          "title": "Pakistani PM Sharif summons NSC meet to discuss audio leaks from PMO",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bi47e6/article65941045.ece/alternates/LANDSCAPE_615/AP09_24_2022_000052A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/hurricane-ian-lashes-cuba-aims-at-florida-as-possible-category-4/article65940995.ece",
+          "author": "AP",
+          "description": "A strengthening Hurricane Ian’s rain and winds are lashing Cuba’s western tip as it roared on a path that could see it hit Florida’s west coast as a Category 4 hurricane",
+          "link": "https://www.thehindu.com/news/international/hurricane-ian-lashes-cuba-aims-at-florida-as-possible-category-4/article65940995.ece",
+          "publishedOn": "2022-09-27T07:16:05.000Z",
+          "wordCount": 6734,
+          "title": "Hurricane Ian lashes Cuba, aims at Florida as possible Category 4",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/vmkt7x/article65941050.ece/alternates/LANDSCAPE_615/2022-09-27T003851Z_101807578_RC2CPW9VUEXX_RTRMADP_3_STORM-IAN-CUBA.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/harris-focuses-asia-trip-on-security-adds-tour-to-korea-dmz/article65940839.ece",
           "author": "AP",
           "description": "Harris has been emphasising security ties during her time in Tokyo, where she’s attending the state funeral of former Prime Minister Shinzo Abe",
@@ -8162,6 +8222,76 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
+          "author": null,
+          "description": "Soon after the Congress’s Bharat Jodo Yatra was launched on September 7, the party has been accusing its rival BJP of “headline management” in a bid to divert the people’s attention from the ambitious programme. However, the political crisis in Rajasthan following the defiance by MLAs loyal to chief minister Ashok Gehlot has robbed the party of this accusation.",
+          "link": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
+          "publishedOn": "2022-09-27T07:21:28.000Z",
+          "wordCount": 9323,
+          "title": "How Rajasthan political crisis robs Congress of claims about Bharat Jodo Yatra",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473391,width-1070,height-580,imgsize-29850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-commercial-activities-within-500-metres-of-taj-mahal-sc/articleshow/94472780.cms",
+          "author": null,
+          "description": "The Supreme Court has directed the Agra Development Authority to immediately stop all commercial activities within a 500-metre radius from the peripheral wall of the iconic Taj Mahal. A bench of Justices Sanjay Kishan Kaul and AS Oka told the Agra Development Authority to ensure compliance with its order in relation to the 17th-century white marble mausoleum.",
+          "link": "https://timesofindia.indiatimes.com/india/no-commercial-activities-within-500-metres-of-taj-mahal-sc/articleshow/94472780.cms",
+          "publishedOn": "2022-09-27T07:00:27.000Z",
+          "wordCount": 6200,
+          "title": "No commercial activities within 500 metres of Taj Mahal: SC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94472756,width-1070,height-580,imgsize-69194,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-malappuram/articleshow/94471658.cms",
+          "author": null,
+          "description": "India News: MALAPPURAM: The Congress' Bharat Jodo Yatra entered Malappuram district of Kerala on Tuesday with hundreds of party workers and supporters walking alo.",
+          "link": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-enters-malappuram/articleshow/94471658.cms",
+          "publishedOn": "2022-09-27T06:54:27.000Z",
+          "wordCount": 5199,
+          "title": "Bharat Jodo Yatra enters Malappuram",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94472577,width-1070,height-580,imgsize-86848,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hal-cryo-engine-facility-inaugurated-to-be-operational-from-march/articleshow/94472475.cms",
+          "author": null,
+          "description": "President Droupadi Murmu on Tuesday inaugurated Hindustan Aeronautics Limited’s (HAL) Integrated Cryogenic Engine Manufacturing Facility (ICMF), which will cater to the entire rocket engine manufacturing under one roof for Indian Space Research Organisation (Isro). The state-of-the-art facility, the defence PSU said, will boost self-reliance in manufacturing of high-thrust rocket engines.",
+          "link": "https://timesofindia.indiatimes.com/india/hal-cryo-engine-facility-inaugurated-to-be-operational-from-march/articleshow/94472475.cms",
+          "publishedOn": "2022-09-27T06:53:40.000Z",
+          "wordCount": 5767,
+          "title": "HAL cryo engine facility inaugurated to be operational from March",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94472551,width-1070,height-580,imgsize-63652,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms",
+          "author": null,
+          "description": "Navratri is one of the major Hindu festivals that is celebrated with much enthusiasm in India as well as by the Hindu community abroad. Devotees, during this time, visit famous Durga temples across the country to pray to Maa Shakti (a form of Goddess Durga).This is also the time when people flock to different Shakti Peethas and the temples dedicated to the nine forms of Durga that are spread throughout the Indian subcontinent. On that note, let’s have a look at nine revered temples dedicated to Goddess’s nine different forms:",
+          "link": "https://timesofindia.indiatimes.com/travel/destinations/9-days-9-places-temples-dedicated-to-different-durga-avatars/photostory/94460365.cms",
+          "publishedOn": "2022-09-27T06:38:15.000Z",
+          "wordCount": 5582,
+          "title": "Temples dedicated to nine Durga avatars",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94460365,width-1070,height-580,resizemode-75,imgsize-94460365,pt-32,y_pad-40/94460365.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-global-climate-strikes-students-to-occupy-schools-universities-against-fossil-fuel-industry-under-action-end-fossil-occupy/articleshow/94471934.cms",
+          "author": null,
+          "description": "India News: BATHINDA: After scores of climate activists participated in climate strikes demanding climate justice on September 23, students are now preparing for .",
+          "link": "https://timesofindia.indiatimes.com/india/after-global-climate-strikes-students-to-occupy-schools-universities-against-fossil-fuel-industry-under-action-end-fossil-occupy/articleshow/94471934.cms",
+          "publishedOn": "2022-09-27T06:35:02.000Z",
+          "wordCount": 5754,
+          "title": "After global climate strikes, students to occupy schools, universities against fossil fuel industry under action End Fossil: Occupy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/siis-adar-poonawalla-makes-clarion-call-for-global-certification-of-vaccines/articleshow/94471910.cms",
+          "author": null,
+          "description": "Multilateral organisations like the UN and the WTO should take it upon themselves to harmonise the certification of vaccines especially ahead of another pandemic as witnessed one induced by the Covid-19 virus that has badly hit the global economies, CEO of Serum Institute of India, Adar Poonawalla has said.",
+          "link": "https://timesofindia.indiatimes.com/india/siis-adar-poonawalla-makes-clarion-call-for-global-certification-of-vaccines/articleshow/94471910.cms",
+          "publishedOn": "2022-09-27T06:34:27.000Z",
+          "wordCount": 7040,
+          "title": "SII's Adar Poonawalla makes clarion call for global certification of vaccines",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94471883,width-1070,height-580,imgsize-18878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms",
           "author": null,
@@ -9220,6 +9350,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russian-reservists-leave-behind-sobbing-relatives-new-brides/articleshow/94471853.cms",
+          "author": null,
+          "description": "Protests against the call-up and Russia's military operation have taken place in dozens of cities, and long queues have formed at Russia's land borders with several countries.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russian-reservists-leave-behind-sobbing-relatives-new-brides/articleshow/94471853.cms",
+          "publishedOn": "2022-09-27T06:32:56.000Z",
+          "wordCount": 6984,
+          "title": "Russian reservists leave behind sobbing relatives, new brides",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94471808,width-1070,height-580,imgsize-99754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/vladimir-putin-likely-to-announce-accession-of-occupied-regions-of-ukraine-on-september-30-uk-says/articleshow/94471426.cms",
           "author": null,
           "description": "Rest of World News: MOSCOW: Russian President Vladimir Putin is likely to announce the accession of occupied regions of Ukraine to the Russian federation during his addre.",
@@ -10054,6 +10194,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-india-look-to-address-death-bowling-concerns-in-final-tune-up-ahead-of-t20-wc/articleshow/94473073.cms",
+          "author": null,
+          "description": "India will be looking to round off their T20 World Cup preparation with a marked improvement in their death bowling besides providing crucial game time to its untested players in the three-match series against South Africa, beginning on Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-india-look-to-address-death-bowling-concerns-in-final-tune-up-ahead-of-t20-wc/articleshow/94473073.cms",
+          "publishedOn": "2022-09-27T07:16:54.000Z",
+          "wordCount": 7263,
+          "title": "India v SA: India look to address death bowling concerns",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473130,width-1070,height-580,imgsize-74458,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sidharth-kiara-athiya-kl-rahul-ira-nupur-hottest-romances-of-bollywood/photostory/94471787.cms",
+          "author": null,
+          "description": "Sidharth-Kiara, Athiya-KL Rahul, Ira-Nupur: Hottest romances of Bollywood",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sidharth-kiara-athiya-kl-rahul-ira-nupur-hottest-romances-of-bollywood/photostory/94471787.cms",
+          "publishedOn": "2022-09-27T06:38:37.000Z",
+          "wordCount": 10025,
+          "title": "Sidharth-Kiara, Ira-Nupur: Hottest romances of Bollywood",
+          "imageUrl": "https://static.toiimg.com/photo/94472051.cms"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/sports/cricket/pictures-from-jhulan-goswamis-last-match-take-over-the-internet-as-india-beat-england-in-3rd-womens-odi/articleshow/94470499.cms",
+          "author": null,
+          "description": "This year seems to be the most difficult one for the sports community across the world as several ace players have announced their retirement. While in the world of tennis, it's Serena Williams and Roger Federer, in cricket, it's legendary Indian pacer Jhulan Goswami who has put an end to her cricketing career. Goswami played her final international match for the country against England at Lord's on September 24, 2022. Skipper Harmanpreet Kaur, vice-captain and superstar opener Smriti Mandhana paid their tributes during her farewell as India women beat England by 16 runs in the 3rd and final ODI. Goswami also received a Guard of Honor from the England players as she walked out to bat one final time during the match. Taking to social media, she penned an emotional retirement post expressing her gratitude towards everyone who was a part of her journey. \"To my cricket family and beyond. So, the day has finally arrived! Like every journey has an end, my cricket journey of over 20 years ends today as I announce my retirement from all forms Of cricket. As Ernest Hemingway said, `It is good to have an end to journey toward, but it is the journey that matters in the end. For me, this journey has been the most satisfying. It has been exhilarating, thrilling to say the least adventurous. I have had the honour of donning the India jersey for over two decades and serving my country to the best of my abilities. There is a sense of pride every time I hear the National Anthem before a match,\" she wrote. Here, we bring you pictures from Goswami's final match.",
+          "link": "https://photogallery.indiatimes.com/sports/cricket/pictures-from-jhulan-goswamis-last-match-take-over-the-internet-as-india-beat-england-in-3rd-womens-odi/articleshow/94470499.cms",
+          "publishedOn": "2022-09-27T06:38:31.000Z",
+          "wordCount": 9624,
+          "title": "Pictures from Jhulan Goswami's last match",
+          "imageUrl": "https://static.toiimg.com/photo/94470588.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/web-stories/world-tourism-day-10-trends-that-are-here-to-stay/photostory/94467491.cms",
+          "author": null,
+          "description": "World Tourism Day: 10 trends that are here to stay. September 27, 2022, is the 42nd edition of World Tourism Day. This year, it will be hosted by Bali, Indonesia. The official theme for this year is 'Rethinking Tourism'. This year’s theme focuses on the future of tourism. After a major global setback due to the COVID-19 pandemic, the tourism sector is on its path to recovery and it is time we rethink how we do tourism. This is to call every stakeholder for a more sustainable, inclusive and resilient sector. More on Times Travel.",
+          "link": "https://timesofindia.indiatimes.com/travel/web-stories/world-tourism-day-10-trends-that-are-here-to-stay/photostory/94467491.cms",
+          "publishedOn": "2022-09-27T06:32:35.000Z",
+          "wordCount": 3080,
+          "title": "Wolrd Tourism Day: 10 trends that would stay for long",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94467464.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-imlie-fame-sumbul-touqeer-introduced-as-new-confirmed-contestant-watch-promo/articleshow/94470940.cms",
           "author": null,
           "description": "With just a few days left for Bigg Boss 16 to premiere on the small screen, the channel has started releasing promos of some of the confirmed contestants. The latest one features Sumbul Touqeer, who played the title role in the TV show, Imlie.",
@@ -10072,6 +10252,16 @@
           "wordCount": 6020,
           "title": "Supreme Court begins livestreaming of hearings",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94470789,width-1070,height-580,imgsize-46880,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/reviews/maruti-suzuki-grand-vitara-review-taking-the-fight-to-hyundai-creta-and-kia-seltos/articleshow/94468602.cms",
+          "author": null,
+          "description": "In terms of driving experience, it is a very smooth car to drive and it starts in electric mode. You can drive it powered by battery only up to a certain speed though. Also, one needs to be gentle with the throttle to stay in EV mode but if you're going to use the throttle generously, the engine will have to kick in and support the propulsion.",
+          "link": "https://timesofindia.indiatimes.com/auto/reviews/maruti-suzuki-grand-vitara-review-taking-the-fight-to-hyundai-creta-and-kia-seltos/articleshow/94468602.cms",
+          "publishedOn": "2022-09-27T05:47:43.000Z",
+          "wordCount": 10229,
+          "title": "Maruti Suzuki Grand Vitara review",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94469316,width-1070,height-580,imgsize-1299031,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
