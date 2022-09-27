@@ -539,6 +539,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html",
+          "author": "Emily Cochrane",
+          "description": "The package would also provide major new aid to Ukraine, but its fate in an initial Senate vote on Tuesday is uncertain.",
+          "link": "https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html",
+          "publishedOn": "2022-09-27T05:55:55.000Z",
+          "wordCount": null,
+          "title": "Lawmakers Propose Measure to Avert Government Shutdown This Week",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/opinion/russia-mobilization-putin-war.html",
           "author": "Ilia Krasilshchik",
           "description": "For citizens who want to escape conscription, there simply aren’t many options.",
@@ -596,6 +606,16 @@
           "publishedOn": "2022-09-27T00:16:05.000Z",
           "wordCount": null,
           "title": "Hurricane Ian’s Uncertain Path Keeps Much of Florida on Alert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html",
+          "author": "David E. Sanger",
+          "description": "President Biden has quickly backed demonstrators in Iran. When the country faced similar unrest 13 years ago, U.S. officials feared such a strong approach would be counterproductive.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html",
+          "publishedOn": "2022-09-26T23:46:34.000Z",
+          "wordCount": null,
+          "title": "Biden’s Support for Iran Protesters Comes After Bitter Lessons of 2009",
           "imageUrl": null
         },
         {
@@ -2290,6 +2310,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html",
+          "author": "Trish Bendix",
+          "description": "“The real presidency is the rich friends we made along the way,” Colbert said in response to Trump’s remark that he has “so many rich friends, and nobody knows who they are.”",
+          "link": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html",
+          "publishedOn": "2022-09-27T05:40:41.000Z",
+          "wordCount": null,
+          "title": "Stephen Colbert Details Tidbits From a Forthcoming Trump Book",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/us/pandemic-inspiration-bts-levar-burton.html",
           "author": "Joshua Needelman",
           "description": "Notable pop culture figures, including the actor LeVar Burton and the K-pop phenomenon BTS, helped people get through Covid — from a distance.",
@@ -3040,6 +3070,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407311",
+          "author": "Catherine Shu",
+          "description": "Meetings are essential to helping teams, especially remote or hybrid ones, stay in touch. But too many meetings can become unproductive, as shared information and action items get buried underneath all the other stuff workers have to do. Productivity platform Loopin wants to help by integrating with work apps and gathering information from across multiple […]\nProductivity platform Loopin helps work teams wrangle meetings by Catherine Shu originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/productivity-platform-loopin-helps-work-teams-wrangle-meetings/",
+          "publishedOn": "2022-09-27T06:00:41.000Z",
+          "wordCount": 6194,
+          "title": "Productivity platform Loopin helps work teams wrangle meetings",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1357264831.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2407845",
           "author": "Romain Dillet",
@@ -6669,6 +6709,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/watch-as-lupin-forgets-fujiko-mines-order-in-mcdonalds-japan-anime-collab",
+          "author": "Daryl Harding",
+          "description": "The gentleman thief learns modern tech in the new advertisement\n\n\nEven those sleuthing need a feed and when you're on the job, the only option really is fast food. Luckily for Lupin and the gang, there's a Mcdonald's nearly everywhere in the world. Catch the anime advert after the jump and learn more!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/watch-as-lupin-forgets-fujiko-mines-order-in-mcdonalds-japan-anime-collab",
+          "publishedOn": "2022-09-27T05:08:05.000Z",
+          "wordCount": 5941,
+          "title": "Watch as Lupin Forgets Fujiko Mine's Order in McDonald's Japan Anime Collab",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/cdb8c186687dc5dbf8e8930fb3584e181664255237_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/va-unit-run-girls-run-to-hold-their-final-concert-on-march-25-2023",
           "author": "Mikikazu Komatsu",
           "description": "The unit will end their activities on March 31, 2023 \n\n\nAt the final Tokyo performance of the live tour to celebrate their fifth anniversary held on September 25, the three-member voice actress idol unit Run Girls, Run! announced that their final concert \"Run Girls,Run！FINAL LIVE\" (tentative title) will be held at YAMANO HALL in Tokyo on March 25, 2023. Hit the jump for more details.",
@@ -7526,6 +7576,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/harris-focuses-asia-trip-on-security-adds-tour-to-korea-dmz/article65940839.ece",
+          "author": "AP",
+          "description": "Harris has been emphasising security ties during her time in Tokyo, where she’s attending the state funeral of former Prime Minister Shinzo Abe",
+          "link": "https://www.thehindu.com/news/international/harris-focuses-asia-trip-on-security-adds-tour-to-korea-dmz/article65940839.ece",
+          "publishedOn": "2022-09-27T06:02:05.000Z",
+          "wordCount": 6439,
+          "title": "Harris focuses Asia trip on security, adds tour to Korea DMZ",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/dysijs/article65940864.ece/alternates/LANDSCAPE_615/2022-09-27T051247Z_947439868_RC2GPW97Z1VB_RTRMADP_3_JAPAN-ABE-FUNERAL.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/us-expands-extends-myanmar-immigration-status-to-may-2024/article65940699.ece",
           "author": "AP",
           "description": "About 150,000 immigrants from Myanmar lived in the U.S. in 2019, according to the Migration Policy Institute analysis of census data",
@@ -7644,6 +7704,16 @@
           "wordCount": 6480,
           "title": "Putin grants Russian citizenship to Edward Snowden",
           "imageUrl": "https://th-i.thgim.com/public/incoming/roix14/article65939300.ece/alternates/LANDSCAPE_615/2022-09-26T162535Z_748421927_RC23PW90JG5U_RTRMADP_3_RUSSIA-USA-SNOWDEN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/explained-why-has-the-state-funeral-for-shinzo-abe-divided-japan/article65939269.ece",
+          "author": "Sumeda",
+          "description": "What has led to the clashes and protests? Why is the ruling Liberal Democratic Party being blamed? What stand has Prime Minister Fumio Kishida adopted?",
+          "link": "https://www.thehindu.com/news/international/explained-why-has-the-state-funeral-for-shinzo-abe-divided-japan/article65939269.ece",
+          "publishedOn": "2022-09-26T17:26:02.000Z",
+          "wordCount": 6519,
+          "title": "Explained | Why has the state funeral for Shinzo Abe divided Japan?",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/l5j93m/article65939281.ece/alternates/LANDSCAPE_615/DCX_DownloadUtils_7mx493rf25v17v7ekss9.jpg"
         },
         {
           "id": "https://www.thehindu.com/news/international/as-sri-lanka-backs-freedom-of-expression-at-un-police-arrest-dozens-of-protesters-at-home/article65937860.ece",
@@ -8082,6 +8152,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday started livestreaming of hearings.  The apex court had on Monday said it would have its own 'platform' to live-stream proceedings and the use of YouTube for the purpose was temporary. In a unanimous decision, the court decided to live-stream proceedings of all constitution bench hearings, almost four years after a path-breaking verdict in this regard was delivered in 2018.​​",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms",
+          "publishedOn": "2022-09-27T05:54:01.000Z",
+          "wordCount": 6020,
+          "title": "Supreme Court begins livestreaming of hearings on YouTube, to have own platform soon",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94470789,width-1070,height-580,imgsize-46880,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
+          "author": null,
+          "description": "In another major crackdown on the Popular Front of India (PFI), police along with other investigative agencies conducted raids across several states on Tuesday. The raids are under way in Assam, Karnataka, Madhya Pradesh, Delhi, Maharashtra and Uttar Pradesh. Earlier this week, over 106 members of PFI were arrested by the NIA and the ED for allegedly supporting terror activities in the country.",
+          "link": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
+          "publishedOn": "2022-09-27T05:33:33.000Z",
+          "wordCount": 5691,
+          "title": "Second round of NIA raids on PFI under way across India: Latest developments",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94470237,width-1070,height-580,imgsize-48656,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-reports-3230-covid-cases-lowest-in-over-3-months/articleshow/94469414.cms",
           "author": null,
@@ -9120,6 +9210,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms",
+          "author": null,
+          "description": "Japan on Tuesday demanded Russia apologise for detaining a diplomat over alleged espionage, denying the charge and accusing Moscow of blindfolding and pinning the man down in \"unbelievable acts\".",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms",
+          "publishedOn": "2022-09-27T06:12:06.000Z",
+          "wordCount": 7159,
+          "title": "Japan diplomat ‘blindfolded and restrained’ in Russia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94471285,width-1070,height-580,imgsize-53852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/as-ukraine-war-grinds-on-saudi-arabia-influence-grows/articleshow/94468384.cms",
           "author": null,
           "description": "The release of the 10 foreign fighters, including two from the United States and five from Britain, came alongside a broader prisoner-of-war swap, brokered by Turkey, that saw 215 Ukrainians walk free while Russia received 55 prisoners.",
@@ -9934,6 +10034,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-imlie-fame-sumbul-touqeer-introduced-as-new-confirmed-contestant-watch-promo/articleshow/94470940.cms",
+          "author": null,
+          "description": "With just a few days left for Bigg Boss 16 to premiere on the small screen, the channel has started releasing promos of some of the confirmed contestants. The latest one features Sumbul Touqeer, who played the title role in the TV show, Imlie.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-imlie-fame-sumbul-touqeer-introduced-as-new-confirmed-contestant-watch-promo/articleshow/94470940.cms",
+          "publishedOn": "2022-09-27T05:59:32.000Z",
+          "wordCount": 9219,
+          "title": "Bigg Boss: Imlie fame Sumbul Touqeer is a contestant",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94470856,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94470856.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday started livestreaming of hearings.  The apex court had on Monday said it would have its own 'platform' to live-stream proceedings and the use of YouTube for the purpose was temporary. In a unanimous decision, the court decided to live-stream proceedings of all constitution bench hearings, almost four years after a path-breaking verdict in this regard was delivered.",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms",
+          "publishedOn": "2022-09-27T05:54:01.000Z",
+          "wordCount": 6020,
+          "title": "Supreme Court begins livestreaming of hearings",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94470789,width-1070,height-580,imgsize-46880,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms",
           "author": null,
           "description": "India News: NEW DELHI: The National Investigation Agency (NIA) is conducting raids in at least eight states and at multiple locations linked to the Popular Front .",
@@ -9942,6 +10062,16 @@
           "wordCount": 5691,
           "title": "Second round of NIA raids on PFI under way across India: Key pts",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94470237,width-1070,height-580,imgsize-48656,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/web-stories/hindi/take-fashion-cues-from-these-tv-celebs-on-day-2-of-navratri/photostory/94460757.cms",
+          "author": null,
+          "description": "On Day 2 of Navratri take a look at these TV actresses' red-themed Indian outfits:",
+          "link": "https://timesofindia.indiatimes.com/tv/web-stories/hindi/take-fashion-cues-from-these-tv-celebs-on-day-2-of-navratri/photostory/94460757.cms",
+          "publishedOn": "2022-09-27T05:30:00.000Z",
+          "wordCount": 1880,
+          "title": "Take fashion cues from these TV celebs on day 2 of Navratri",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94463799.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-is-loading-at-iconic-mcg-ahead-of-india-pakistan-clash-at-t20-world-cup-2022/articleshow/94468924.cms",

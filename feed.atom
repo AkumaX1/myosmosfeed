@@ -1,11 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
+    <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T05:54:50.635Z</updated>
+    <updated>2022-09-27T06:18:14.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
-    <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
+    <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japan diplomat ‘blindfolded and restrained’ in Russia]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/unbelievable-treatment-japan-diplomat-blindfolded-and-restrained-in-russia/articleshow/94471245.cms"/>
+        <updated>2022-09-27T06:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Japan on Tuesday demanded Russia apologise for detaining a diplomat over alleged espionage, denying the charge and accusing Moscow of blindfolding and pinning the man down in "unbelievable acts".]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harris focuses Asia trip on security, adds tour to Korea DMZ]]></title>
+        <id>https://www.thehindu.com/news/international/harris-focuses-asia-trip-on-security-adds-tour-to-korea-dmz/article65940839.ece</id>
+        <link href="https://www.thehindu.com/news/international/harris-focuses-asia-trip-on-security-adds-tour-to-korea-dmz/article65940839.ece"/>
+        <updated>2022-09-27T06:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Harris has been emphasising security ties during her time in Tokyo, where she’s attending the state funeral of former Prime Minister Shinzo Abe]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity platform Loopin helps work teams wrangle meetings]]></title>
+        <id>https://techcrunch.com/?p=2407311</id>
+        <link href="https://techcrunch.com/2022/09/26/productivity-platform-loopin-helps-work-teams-wrangle-meetings/"/>
+        <updated>2022-09-27T06:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Meetings are essential to helping teams, especially remote or hybrid ones, stay in touch. But too many meetings can become unproductive, as shared information and action items get buried underneath all the other stuff workers have to do. Productivity platform Loopin wants to help by integrating with work apps and gathering information from across multiple […]
+Productivity platform Loopin helps work teams wrangle meetings by Catherine Shu originally published on TechCrunch]]></summary>
+        <author>
+            <name>Catherine Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss: Imlie fame Sumbul Touqeer is a contestant]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-imlie-fame-sumbul-touqeer-introduced-as-new-confirmed-contestant-watch-promo/articleshow/94470940.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-imlie-fame-sumbul-touqeer-introduced-as-new-confirmed-contestant-watch-promo/articleshow/94470940.cms"/>
+        <updated>2022-09-27T05:59:32.000Z</updated>
+        <summary type="html"><![CDATA[With just a few days left for Bigg Boss 16 to premiere on the small screen, the channel has started releasing promos of some of the confirmed contestants. The latest one features Sumbul Touqeer, who played the title role in the TV show, Imlie.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawmakers Propose Measure to Avert Government Shutdown This Week]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html"/>
+        <updated>2022-09-27T05:55:55.000Z</updated>
+        <summary type="html"><![CDATA[The package would also provide major new aid to Ukraine, but its fate in an initial Senate vote on Tuesday is uncertain.]]></summary>
+        <author>
+            <name>Emily Cochrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court begins livestreaming of hearings on YouTube, to have own platform soon]]></title>
+        <id>https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms"/>
+        <updated>2022-09-27T05:54:01.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Tuesday started livestreaming of hearings.  The apex court had on Monday said it would have its own 'platform' to live-stream proceedings and the use of YouTube for the purpose was temporary. In a unanimous decision, the court decided to live-stream proceedings of all constitution bench hearings, almost four years after a path-breaking verdict in this regard was delivered in 2018.​​]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court begins livestreaming of hearings]]></title>
+        <id>https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/supreme-court-begins-livestreaming-of-hearings-on-youtube-to-have-own-platform-soon/articleshow/94470239.cms"/>
+        <updated>2022-09-27T05:54:01.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Tuesday started livestreaming of hearings.  The apex court had on Monday said it would have its own 'platform' to live-stream proceedings and the use of YouTube for the purpose was temporary. In a unanimous decision, the court decided to live-stream proceedings of all constitution bench hearings, almost four years after a path-breaking verdict in this regard was delivered.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stephen Colbert Details Tidbits From a Forthcoming Trump Book]]></title>
+        <id>https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html"/>
+        <updated>2022-09-27T05:40:41.000Z</updated>
+        <summary type="html"><![CDATA[“The real presidency is the rich friends we made along the way,” Colbert said in response to Trump’s remark that he has “so many rich friends, and nobody knows who they are.”]]></summary>
+        <author>
+            <name>Trish Bendix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second round of NIA raids on PFI under way across India: Latest developments]]></title>
+        <id>https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms"/>
+        <updated>2022-09-27T05:33:33.000Z</updated>
+        <summary type="html"><![CDATA[In another major crackdown on the Popular Front of India (PFI), police along with other investigative agencies conducted raids across several states on Tuesday. The raids are under way in Assam, Karnataka, Madhya Pradesh, Delhi, Maharashtra and Uttar Pradesh. Earlier this week, over 106 members of PFI were arrested by the NIA and the ED for allegedly supporting terror activities in the country.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second round of NIA raids on PFI under way across India: Key pts]]></title>
         <id>https://timesofindia.indiatimes.com/india/second-round-of-nia-raids-on-pfi-under-way-across-india-latest-developments/articleshow/94469348.cms</id>
@@ -14,6 +105,29 @@
         <summary type="html"><![CDATA[India News: NEW DELHI: The National Investigation Agency (NIA) is conducting raids in at least eight states and at multiple locations linked to the Popular Front .]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take fashion cues from these TV celebs on day 2 of Navratri]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/web-stories/hindi/take-fashion-cues-from-these-tv-celebs-on-day-2-of-navratri/photostory/94460757.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/web-stories/hindi/take-fashion-cues-from-these-tv-celebs-on-day-2-of-navratri/photostory/94460757.cms"/>
+        <updated>2022-09-27T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On Day 2 of Navratri take a look at these TV actresses' red-themed Indian outfits:]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch as Lupin Forgets Fujiko Mine's Order in McDonald's Japan Anime Collab]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/26-1/watch-as-lupin-forgets-fujiko-mines-order-in-mcdonalds-japan-anime-collab</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/26-1/watch-as-lupin-forgets-fujiko-mines-order-in-mcdonalds-japan-anime-collab"/>
+        <updated>2022-09-27T05:08:05.000Z</updated>
+        <summary type="html"><![CDATA[The gentleman thief learns modern tech in the new advertisement
+
+
+Even those sleuthing need a feed and when you're on the job, the only option really is fast food. Luckily for Lupin and the gang, there's a Mcdonald's nearly everywhere in the world. Catch the anime advert after the jump and learn more!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -890,6 +1004,16 @@ A NASA spacecraft slammed into the surface of a distant asteroid at 7:14PM ET on
 An hour before impact, the target asteroid, Dimorphos, wasn’t even visible in the images from the spacecraft. In some of the early images sent back to Earth, even Dimorphos’ larger companion Didymos, looked like a single speck against a sea of black. The DART spacecraft was moving at 14,000 miles per hour, and details quickly came into view. Viewers on Earth saw the rough surface of Didymos zip by as the spacecraft cruised autonomously towards Dimorphos. Boulders filled the screen just before it went bright red, indicating a loss of sign…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Support for Iran Protesters Comes After Bitter Lessons of 2009]]></title>
+        <id>https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html"/>
+        <updated>2022-09-26T23:46:34.000Z</updated>
+        <summary type="html"><![CDATA[President Biden has quickly backed demonstrators in Iran. When the country faced similar unrest 13 years ago, U.S. officials feared such a strong approach would be counterproductive.]]></summary>
+        <author>
+            <name>David E. Sanger</name>
         </author>
     </entry>
     <entry>
@@ -2290,6 +2414,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[India News: New Delhi: For the 12 year in a row, the Indian Railways is likely to give the 78-day bonus to over 11 lakh railway employees before Dussehra.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explained | Why has the state funeral for Shinzo Abe divided Japan?]]></title>
+        <id>https://www.thehindu.com/news/international/explained-why-has-the-state-funeral-for-shinzo-abe-divided-japan/article65939269.ece</id>
+        <link href="https://www.thehindu.com/news/international/explained-why-has-the-state-funeral-for-shinzo-abe-divided-japan/article65939269.ece"/>
+        <updated>2022-09-26T17:26:02.000Z</updated>
+        <summary type="html"><![CDATA[What has led to the clashes and protests? Why is the ruling Liberal Democratic Party being blamed? What stand has Prime Minister Fumio Kishida adopted?]]></summary>
+        <author>
+            <name>Sumeda</name>
         </author>
     </entry>
     <entry>
