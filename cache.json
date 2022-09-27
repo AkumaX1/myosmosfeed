@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price",
+          "author": null,
+          "description": "The Roomba Combo j7 Plus is iRobot’s first combination robot vacuum and mop. | Image: iRobot\n    \n\n  \nRobot vacuums that can also mop have been around for a while, but most make you remove the mop before they can vacuum your carpets — unless you like slightly damp carpets. iRobot’s newest bot looks to solve this problem with a retractable robot mop arm that can lift itself up and under the vacuum to mop when it’s needed and stow itself up top when it’s not.\nThe Roomba Combo j7 Plus costs $1,099 and is available to preorder today. It will ship on October 4th, and is only being sold with the auto-emptying Clean Base at launch. The two-in-one vacuum mop uses a new combination of acoustic sensors to detect the different types of flooring in a home and “decide” when to lift its pad to avoid thr…",
+          "link": "https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price",
+          "publishedOn": "2022-09-27T04:01:00.000Z",
+          "wordCount": 14383,
+          "title": "Roomba’s latest robot vacuum has a robot mop on top",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/CWz9doDZZpQt0Sb2VozxFNCDcvY=/0x0:2048x1536/1200x628/filters:focal(1024x768:1025x769)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057001/Roomba_Combo_j7_Mop_Extended_Side.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nNew York Attorney General Letitia James is suing crypto company Nexo, alleging that the company misled customers by saying it was registered to sell securities and commodities and that it wasn’t approved to offer services like its “Earn Interest Product” that promised returns on deposited crypto. It’s the latest legal move in a fight between regulators and crypto companies looking to offer interest-earning accounts, often insisting that they shouldn’t be classified as securities.\nSeven other states — California, Kentucky, Maryland, Oklahoma, South Carolina, Washington, and Vermont — are also filing “administrative actions” against the company, according to a press release from the New York AG. The release also quotes James as saying: “Nexo v…",
@@ -529,6 +539,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html",
+          "author": "Kenneth Chang",
+          "description": "The DART spacecraft completed its 10-month journey to demonstrate a technique that could defend the planet from deadly space rocks in the future.",
+          "link": "https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html",
+          "publishedOn": "2022-09-27T02:13:14.000Z",
+          "wordCount": null,
+          "title": "NASA Smashes Into an Asteroid, Completing a Mission to Save a Future Day",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html",
           "author": "Lawrence K. Altman",
           "description": "Health doesn’t have to be so political.",
@@ -599,6 +619,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html",
+          "author": "Paul Krugman",
+          "description": "MAGA is in charge, but policy caters to the wealthy.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html",
+          "publishedOn": "2022-09-26T23:00:06.000Z",
+          "wordCount": null,
+          "title": "Why Zombie Reaganomics Still Rules the G.O.P.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/opinion/why-zombie-reaganomics-still-rules-the-gop.html",
           "author": "Paul Krugman",
           "description": "MAGA is in charge, but policy caters to the wealthy.",
@@ -636,6 +666,16 @@
           "publishedOn": "2022-09-26T22:08:25.000Z",
           "wordCount": null,
           "title": "Your Monday Evening Briefing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/25/business/stock-market-today.html",
+          "author": "Isabella Simonetti",
+          "description": "The drop to the new low, after stocks staged a brief recovery this summer, shows how uncertain the environment for investors has become.",
+          "link": "https://www.nytimes.com/2022/09/25/business/stock-market-today.html",
+          "publishedOn": "2022-09-26T20:33:23.000Z",
+          "wordCount": null,
+          "title": "S&P 500 Hits Lowest Level of 2022 as Global Sell-off Continues",
           "imageUrl": null
         },
         {
@@ -2970,6 +3010,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407790",
+          "author": "Brian Heater",
+          "description": "IRobot makes robots that vacuum. IRobot makes robots that mop. Other companies make robots that vacuum and mop. So, why doesn’t iRobot? If you had asked the company that question as recently as a few weeks back, you likely would have gotten a stock answer about not doing something until you can do it right. […]\nFinally, a Roomba that vacuums and mops by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/",
+          "publishedOn": "2022-09-27T04:01:37.000Z",
+          "wordCount": 5753,
+          "title": "Finally, a Roomba that vacuums and mops",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Roomba-Combo-j7_Extended-B-Roll.2022-09-26-09_47_05.gif"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407793",
+          "author": "Rita Liao",
+          "description": "In China, a crop of homegrown chip companies has popped up as Beijing strives to decouple from America’s advanced technology and manage sanctions risks, which have crippled Huawei’s lucrative smartphone business. In the red-hot space of autonomous driving, Chinese semiconductor firms, buoyed with venture capital, are aiming to provide the best alternatives to Nvidia and […]\nInvestors bank on China’s alternatives to Nvidia’s auto chips by Rita Liao originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/26/china-auto-chipmaker/",
+          "publishedOn": "2022-09-27T02:43:12.000Z",
+          "wordCount": 5932,
+          "title": "Investors bank on China’s alternatives to Nvidia’s auto chips",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screenshot-2022-09-27-at-10.32.23-AM.png?resize=1200,692"
+        },
         {
           "id": "https://techcrunch.com/?p=2408086",
           "author": "Christine Hall",
@@ -5832,6 +5892,26 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190232",
+          "author": null,
+          "description": "Bunny Drop creator's high school choir story gets 5-minute episodes debuting on October 17",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/yumi-unita-proceed-with-crescendo-manga-gets-live-action-tv-shorts/.190232",
+          "publishedOn": "2022-09-27T02:30:22.000Z",
+          "wordCount": 3405,
+          "title": "Yumi Unita's Proceed With Crescendo Manga Gets Live-Action TV Shorts",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.5/190232/crescendo.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190213",
+          "author": null,
+          "description": "Eiga Delicious Party♡Precure Yume Miru ♡ Okosama Lunch film debuts at #3 with 367 million yen",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-26/one-piece-film-red-stays-at-no.1-for-8th-weekend-delicious-party-precure-film-opens-at-no.3/.190213",
+          "publishedOn": "2022-09-27T02:14:06.000Z",
+          "wordCount": 4340,
+          "title": "One Piece Film Red Stays at #1 for 8th Weekend, Delicious Party Precure Film Opens at #3",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/cms/news.5/186449/one-piece-film-red-visual.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190223",
           "author": null,
           "description": "Manga centers on 2 high schoolers raised in an orphanage together",
@@ -6528,6 +6608,26 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/va-unit-run-girls-run-to-hold-their-final-concert-on-march-25-2023",
+          "author": "Mikikazu Komatsu",
+          "description": "The unit will end their activities on March 31, 2023 \n\n\nAt the final Tokyo performance of the live tour to celebrate their fifth anniversary held on September 25, the three-member voice actress idol unit Run Girls, Run! announced that their final concert \"Run Girls,Run！FINAL LIVE\" (tentative title) will be held at YAMANO HALL in Tokyo on March 25, 2023. Hit the jump for more details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/va-unit-run-girls-run-to-hold-their-final-concert-on-march-25-2023",
+          "publishedOn": "2022-09-27T02:35:00.000Z",
+          "wordCount": 5965,
+          "title": "VA Unit Run Girls, Run! to Hold Their Final Concert on March 25, 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/5982d944a46238d1a67c00341bd190cc1664245853_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26/japan-box-office-delicious-party-pretty-cure-film-makes-its-3rd-place-debut",
+          "author": "Mikikazu Komatsu",
+          "description": "\"One Piece Film Red\" has stayed on No.1 for 8 consecutive weekends\n\n\nDelicious Party Pretty Cure the Movie: Dreamy Children's Lunch!, the 31st feature film in Toei Animation's long-running magical girl anime franchise, was released in Japan on September 23, then earned a very good 186 million yen (1.29 million USD) on its first Saturday and Sunday to make its third place debut. Hit the jump for more details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26/japan-box-office-delicious-party-pretty-cure-film-makes-its-3rd-place-debut",
+          "publishedOn": "2022-09-27T01:55:02.000Z",
+          "wordCount": 6235,
+          "title": "Japan Box Office: Delicious Party Pretty Cure Film Makes Its 3rd Place Debut",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/670dc1e2cca8ab28b8783d768809bbfe1664243414_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/emiri-kato-kaori-fukuharas-legendary-va-unit-katofuku-resumes-activities-after-6-years",
           "author": "Mikikazu Komatsu",
@@ -7366,6 +7466,66 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/russian-military-recruiter-shot-amid-fear-of-ukraine-call-up/article65940586.ece",
+          "author": "AP",
+          "description": "Ruslan Zinin was arrested and officials vowed tough punishment. Authorities said the military commandant was in intensive care",
+          "link": "https://www.thehindu.com/news/international/russian-military-recruiter-shot-amid-fear-of-ukraine-call-up/article65940586.ece",
+          "publishedOn": "2022-09-27T03:49:56.000Z",
+          "wordCount": 7161,
+          "title": "Russian military recruiter shot amid fear of Ukraine call-up",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/india-pakistan-both-partners-of-us-with-different-points-of-emphasis-biden-administration/article65940554.ece",
+          "author": "PTI",
+          "description": "The relationship we have with Pakistan stands on its own, State Department Spokesperson Ned Price said",
+          "link": "https://www.thehindu.com/news/international/india-pakistan-both-partners-of-us-with-different-points-of-emphasis-biden-administration/article65940554.ece",
+          "publishedOn": "2022-09-27T03:05:46.000Z",
+          "wordCount": 6383,
+          "title": "India, Pakistan both partners of U.S. with different points of emphasis: Biden administration",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/4tp85v/article65940561.ece/alternates/LANDSCAPE_615/2022-09-14T193830Z_19325001_RC26HW9LGH7D_RTRMADP_3_UKRAINE-CRISIS-USA-MEASURES.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/at-unga-bhutan-nepal-express-gratitude-for-indias-supply-of-covid-19-vaccines/article65940530.ece",
+          "author": "PTI",
+          "description": "Under the Vaccine Maitri initiative, nearly 95 lakh doses have been supplied to Nepal and 5.5 lakh doses to Bhutan",
+          "link": "https://www.thehindu.com/news/international/at-unga-bhutan-nepal-express-gratitude-for-indias-supply-of-covid-19-vaccines/article65940530.ece",
+          "publishedOn": "2022-09-27T02:38:54.000Z",
+          "wordCount": 6258,
+          "title": "At UNGA, Bhutan, Nepal express gratitude for India&#039;s supply of COVID-19 vaccines",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/fcl1mc/article65940534.ece/alternates/LANDSCAPE_615/2022-09-26T153151Z_1020673088_RC23PW9JSVOP_RTRMADP_3_UN-ASSEMBLY.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/jaishankar-austin-discuss-opportunities-for-bilateral-defence-industrial-cooperation/article65940517.ece",
+          "author": "PTI",
+          "description": "Lloyd Austin and S. Jaishankar committed to expanding information-sharing and logistics cooperation to drive deeper operational coordination between the U.S. and Indian militaries",
+          "link": "https://www.thehindu.com/news/national/jaishankar-austin-discuss-opportunities-for-bilateral-defence-industrial-cooperation/article65940517.ece",
+          "publishedOn": "2022-09-27T02:33:50.000Z",
+          "wordCount": 6269,
+          "title": "Jaishankar, Austin discuss opportunities for bilateral defence industrial cooperation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/fhyfq9/article65940529.ece/alternates/LANDSCAPE_615/US_India_Austin_39490.jpg-425f5.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-27-2022/article65939178.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-27-2022/article65939178.ece",
+          "publishedOn": "2022-09-27T02:15:05.000Z",
+          "wordCount": 6939,
+          "title": "Morning Digest | Sachin Pilot waiting for Sonia’s ruling on Gehlot camp revolt; Putin grants Russian citizenship to U.S. whistleblower Snowden, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/mfoto3/article65939308.ece/alternates/LANDSCAPE_615/AJAY_MAKEN_RAJASTHAN_Delhi_2022_26_09_7.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/sci-tech/science/nasas-dart-spacecraft-hits-target-asteroid-in-first-planetary-defence-test/article65940497.ece",
+          "author": "Reuters",
+          "description": "The mission was devised to determine whether a spacecraft is capable of changing the trajectory of an asteroid through sheer kinetic force",
+          "link": "https://www.thehindu.com/sci-tech/science/nasas-dart-spacecraft-hits-target-asteroid-in-first-planetary-defence-test/article65940497.ece",
+          "publishedOn": "2022-09-27T01:50:10.000Z",
+          "wordCount": 6802,
+          "title": "NASA&#039;s DART spacecraft hits target asteroid in first planetary defence test",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bb4jtu/article65940500.ece/alternates/LANDSCAPE_615/Asteroid_Strike_15661.jpg-7c31b.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/pm-modi-arrives-in-japan-to-attend-former-premier-abes-state-funeral/article65939709.ece",
           "author": "PTI",
           "description": "Tokyo",
@@ -7842,6 +8002,176 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/nia-conducts-raids-in-western-up-over-pfi-links/articleshow/94467608.cms",
+          "author": null,
+          "description": "The National Investigation Agency (NIA) is conducting raids at the premises of Popular Front of India (PFI) members at multiple locations in western Uttar Pradesh, including Bulandshahr and Meerut, on Tuesday. The raids started early Tuesday morning and are currently underway. NIA sources said that a number of people have already been detained in connection.",
+          "link": "https://timesofindia.indiatimes.com/india/nia-conducts-raids-in-western-up-over-pfi-links/articleshow/94467608.cms",
+          "publishedOn": "2022-09-27T03:27:30.000Z",
+          "wordCount": 5543,
+          "title": "NIA conducts raids in western UP over PFI links",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467652,width-1070,height-580,imgsize-62682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/explainer-now-you-can-watch-supreme-court-live/articleshow/94467488.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The live-streaming of Supreme Court proceedings will begin from today.",
+          "link": "https://timesofindia.indiatimes.com/india/explainer-now-you-can-watch-supreme-court-live/articleshow/94467488.cms",
+          "publishedOn": "2022-09-27T03:17:16.000Z",
+          "wordCount": 5653,
+          "title": "Explainer: Now, you can watch Supreme Court live",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467501,width-1070,height-580,imgsize-50758,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94467425.cms",
+          "author": null,
+          "description": "Modi, who is here to attend the state funeral of former Japanese prime minister Shinzo Abe, met his Japanese counterpart ahead of the ceremony.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94467425.cms",
+          "publishedOn": "2022-09-27T03:12:07.000Z",
+          "wordCount": 5482,
+          "title": "PM Narendra Modi meets Japanese counterpart Fumio Kishida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467404,width-1070,height-580,imgsize-28716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/what-us-said-on-jaishankars-youre-not-fooling-anybody-remark-over-f-16-sustenance-package/articleshow/94467183.cms",
+          "author": null,
+          "description": "\"We don't view our relationship with Pakistan, and on the other hand, we don't view our relationship with India as in relation to one another. These are both partners of ours with different points of emphasis in each,\" state department spokesperson Ned Price told reporters at his daily news conference.",
+          "link": "https://timesofindia.indiatimes.com/india/what-us-said-on-jaishankars-youre-not-fooling-anybody-remark-over-f-16-sustenance-package/articleshow/94467183.cms",
+          "publishedOn": "2022-09-27T03:08:05.000Z",
+          "wordCount": 6567,
+          "title": "What US said on Jaishankar's 'you're not fooling anybody' remark over F-16 sustenance package",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467213,width-1070,height-580,imgsize-36496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-to-hear-plea-on-state-govts-taking-out-ads-in-other-states/articleshow/94467055.cms",
+          "author": null,
+          "description": "India News: Though a bench of Justices DY Chandrachud and Hima Kohli was initially reluctant to entertain the PIL filed by an NGO, saying the governments advertis.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-to-hear-plea-on-state-govts-taking-out-ads-in-other-states/articleshow/94467055.cms",
+          "publishedOn": "2022-09-27T03:01:47.000Z",
+          "wordCount": 5104,
+          "title": "SC to hear plea on state govts taking out ads in other states",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/7-delhi-up-tourists-killed-as-bus-skids-falls-into-gorge-in-kullu/articleshow/94466887.cms",
+          "author": null,
+          "description": "Seven tourists from Delhi and UP were killed and 10 more were injured after their bus skidded off the road and fell into a gorge near Jalori Jot in Kullu's Banjar area of Himachal Pradesh around 9pm Sunday. The accident brought back into focus the dangers of nightly travel on winding Himalayan roads, especially in the wet season.",
+          "link": "https://timesofindia.indiatimes.com/india/7-delhi-up-tourists-killed-as-bus-skids-falls-into-gorge-in-kullu/articleshow/94466887.cms",
+          "publishedOn": "2022-09-27T02:56:56.000Z",
+          "wordCount": 5561,
+          "title": "7 Delhi, UP tourists killed as bus skids, falls into gorge in Kullu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-had-stalled-narmada-project-since-1964-amit-shah/articleshow/94466816.cms",
+          "author": null,
+          "description": "Union home and cooperation minister Amit Shah said on Monday that Congress had attempted to stall the Narmada project since 1964 but the efforts of Narendra Modi as Gujarat CM ensured rapid progress of the project.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-had-stalled-narmada-project-since-1964-amit-shah/articleshow/94466816.cms",
+          "publishedOn": "2022-09-27T02:55:01.000Z",
+          "wordCount": 5628,
+          "title": "Congress had stalled Narmada project since 1964: Amit Shah",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94466855,width-1070,height-580,imgsize-41786,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/5g-across-india-in-a-few-yrs-mantri/articleshow/94466737.cms",
+          "author": null,
+          "description": "The government on Monday told Russia that the two countries can collaborate which include development of 5G use cases, design 6G technology, internet of things (IoT), cyber security and developing reliable last mile solution.",
+          "link": "https://timesofindia.indiatimes.com/india/5g-across-india-in-a-few-yrs-mantri/articleshow/94466737.cms",
+          "publishedOn": "2022-09-27T02:52:52.000Z",
+          "wordCount": 5142,
+          "title": "5G across India in a few yrs: Mantri",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/assaulted-by-teacher-fortnight-back-up-dalit-teen-dies-of-injuries/articleshow/94466559.cms",
+          "author": null,
+          "description": "Two weeks after his teacher brutally assaulted him for making two mistakes in an exam, a 15-year-old Dalit student of a government school in UP's Auraiya died of injuries Monday. The teacher was made to pay Rs 40,000 towards the boy's medical expenses, but has been on the run since a case was later filed against him.",
+          "link": "https://timesofindia.indiatimes.com/india/assaulted-by-teacher-fortnight-back-up-dalit-teen-dies-of-injuries/articleshow/94466559.cms",
+          "publishedOn": "2022-09-27T02:47:49.000Z",
+          "wordCount": 5550,
+          "title": "'Assaulted' by teacher fortnight back, UP Dalit teen 'dies of injuries'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94466601,width-1070,height-580,imgsize-17064,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-losing-foxconn-unit-maharashtra-sends-mantris-to-study-gujarat-model/articleshow/94466349.cms",
+          "author": null,
+          "description": "As part of a new team set up by Maharashtra chief minister Eknath Shinde and based on the concept mooted by PM Narendra Modi to study 'best practices' in various states, Maharashtra industries minister Uday Samant and forest minister Sudhir Mungantiwar visited Gujarat on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/after-losing-foxconn-unit-maharashtra-sends-mantris-to-study-gujarat-model/articleshow/94466349.cms",
+          "publishedOn": "2022-09-27T02:41:38.000Z",
+          "wordCount": 5771,
+          "title": "After losing Foxconn unit, Maharashtra sends mantris to study Gujarat model",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-to-phase-out-100-awards-several-fellowships-in-science/articleshow/94466088.cms",
+          "author": null,
+          "description": "The Centre has issued a notification saying about 100 awards and several fellowships in science were being discontinued. Private endowment awards have been cancelled. Most departments will now have one award of \"high stature\".",
+          "link": "https://timesofindia.indiatimes.com/india/govt-to-phase-out-100-awards-several-fellowships-in-science/articleshow/94466088.cms",
+          "publishedOn": "2022-09-27T02:27:20.000Z",
+          "wordCount": 5603,
+          "title": "Govt to phase out 100 awards, several fellowships in science",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/facing-deluge-of-nrc-deportation-cases-sc-shields-all-petitioners/articleshow/94466043.cms",
+          "author": null,
+          "description": "Days after the Supreme Court passed an order staying deportation of an Assam-based woman who was declared foreigner despite allegedly being born here and though all her family members including brothers, sisters and in-laws are Indian citizens, the court is facing a \"deluge\" of such cases.",
+          "link": "https://timesofindia.indiatimes.com/india/facing-deluge-of-nrc-deportation-cases-sc-shields-all-petitioners/articleshow/94466043.cms",
+          "publishedOn": "2022-09-27T02:24:17.000Z",
+          "wordCount": 5543,
+          "title": "Facing deluge of NRC deportation cases, SC shields all petitioners",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94466049,width-1070,height-580,imgsize-15968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/twitter-challenges-order-to-block-account/articleshow/94465918.cms",
+          "author": null,
+          "description": "The Centre's directive to take down a Twitter account for a particular tweet goes against Sec 69A of the IT Act and is a violation of the right to equality enshrined in Art 14, the multi-blogging platform said in the Karnataka HC on Monday. Twitter has approached the HC, challenging a series of blocking orders issued by the Centre from February 2, 2021, till Feb 28, 2022.",
+          "link": "https://timesofindia.indiatimes.com/india/twitter-challenges-order-to-block-account/articleshow/94465918.cms",
+          "publishedOn": "2022-09-27T02:11:53.000Z",
+          "wordCount": 5939,
+          "title": "Twitter challenges order to block account",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-seeks-govt-stand-on-rajiv-gandhi-assassins-plea-for-early-release/articleshow/94465691.cms",
+          "author": null,
+          "description": "The Supreme Court Monday sought responses from the Centre and the Tamil Nadu government on a plea filed by Nalini Sriharan, serving life sentence in the Rajiv Gandhi assassination case, seeking premature release.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-seeks-govt-stand-on-rajiv-gandhi-assassins-plea-for-early-release/articleshow/94465691.cms",
+          "publishedOn": "2022-09-27T01:55:02.000Z",
+          "wordCount": 5677,
+          "title": "SC seeks govt stand on Rajiv Gandhi assassin's plea for early release",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465700,width-1070,height-580,imgsize-15968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-relief-for-srk-in-17-vadodara-station-stampede-case/articleshow/94465657.cms",
+          "author": null,
+          "description": "The Supreme Court on Monday upheld the decision of the Gujarat high court quashing a criminal case filed against actor Shah Rukh Khan and others, who were booked for causing a stampede in 2017 at the Vadodara railway station while promoting his film.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-relief-for-srk-in-17-vadodara-station-stampede-case/articleshow/94465657.cms",
+          "publishedOn": "2022-09-27T01:51:19.000Z",
+          "wordCount": 5851,
+          "title": "SC relief for SRK in '17 Vadodara station stampede case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-narayan-rane-house-razing/articleshow/94465640.cms",
+          "author": null,
+          "description": "The Supreme Court on Monday dismissed a plea challenging a Bombay high court order directing Brihanmumbai Municipal Corporation (BMC) to demolish unauthorised portions of Union minister Narayan Rane's Juhu residence 'Aadhish'.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-narayan-rane-house-razing/articleshow/94465640.cms",
+          "publishedOn": "2022-09-27T01:49:34.000Z",
+          "wordCount": 5603,
+          "title": "SC refuses to stay Narayan Rane 'house' razing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465643,width-1070,height-580,imgsize-15968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/po-passport-seva-kendras-to-help-get-police-clearance-online/articleshow/94465622.cms",
+          "author": null,
+          "description": "In order to address the unanticipated surge in demand for police clearance certificates (PCCs), the Union ministry of external affairs (MEA) has decided to include the facility to apply for PCC services at all online Post Office Passport Seva Kendras (POPSKs) across India, starting September 28, the government announced on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/po-passport-seva-kendras-to-help-get-police-clearance-online/articleshow/94465622.cms",
+          "publishedOn": "2022-09-27T01:47:11.000Z",
+          "wordCount": 5341,
+          "title": "PO passport seva kendras to help get police clearance online",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465627,width-1070,height-580,imgsize-801745,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/kolkatas-muslim-organised-pujas-send-out-a-message-of-harmony/articleshow/94465051.cms",
           "author": null,
@@ -8640,6 +8970,76 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-consul-on-spying-charge-tokyo-hints-at-retaliation/articleshow/94467611.cms",
+          "author": null,
+          "description": "Russia's FSB security agency said the consul, Motoki Tatsunori, was declared persona non grata after he was caught \"red-handed\" receiving secret information on the effects of Western sanctions on the economic situation in Russia's far east.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-consul-on-spying-charge-tokyo-hints-at-retaliation/articleshow/94467611.cms",
+          "publishedOn": "2022-09-27T03:24:52.000Z",
+          "wordCount": 6534,
+          "title": "Russia detains Japanese consul on spying charge",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467604,width-1070,height-580,imgsize-40288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/arizona-abortion-clinics-send-women-to-other-states/articleshow/94467525.cms",
+          "author": null,
+          "description": "Women seeking abortions across Arizona were forced to find alternatives beyond the state's borders after the ruling, which clears the way for prosecutors to charge doctors and others who help a woman end a pregnancy unless her life is in danger.",
+          "link": "https://timesofindia.indiatimes.com/world/us/arizona-abortion-clinics-send-women-to-other-states/articleshow/94467525.cms",
+          "publishedOn": "2022-09-27T03:19:06.000Z",
+          "wordCount": 13563,
+          "title": "Arizona abortion clinics send women to other states",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467517,width-1070,height-580,imgsize-100048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/the-four-kremlin-held-ukraine-regions-voting-on-annexation/articleshow/94467485.cms",
+          "author": null,
+          "description": "The Lugansk region, home to 2.1 million people before the war, borders Russia on three sides and forms part of the industrial Donbas area along with neighbouring Donetsk.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/the-four-kremlin-held-ukraine-regions-voting-on-annexation/articleshow/94467485.cms",
+          "publishedOn": "2022-09-27T03:15:42.000Z",
+          "wordCount": 8948,
+          "title": "The four Kremlin-held Ukraine regions voting on annexation",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467467,width-1070,height-580,imgsize-91954,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/tokyo-tightens-security-for-slain-shinzo-abes-funeral/articleshow/94467286.cms",
+          "author": null,
+          "description": "Abe was shot from close range by a man with a homemade gun while on the campaign trail in the western city of Nara, an act that shocked a nation where violent crime is rare and dignitaries tend to travel with only modest protection.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/tokyo-tightens-security-for-slain-shinzo-abes-funeral/articleshow/94467286.cms",
+          "publishedOn": "2022-09-27T03:08:38.000Z",
+          "wordCount": 8359,
+          "title": "Tokyo tightens security for slain Abe's funeral",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467265,width-1070,height-580,imgsize-97424,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/kamala-harris-set-to-visit-korean-dmz-after-kims-missile-test/articleshow/94467178.cms",
+          "author": null,
+          "description": "The visit, announced on Tuesday, comes days after North Korea fired a ballistic missile towards the sea and amid fears of a possible nuclear test as the Biden administration's attempts at outreach to North Korean leader Kim Jong Un have failed.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/kamala-harris-set-to-visit-korean-dmz-after-kims-missile-test/articleshow/94467178.cms",
+          "publishedOn": "2022-09-27T03:05:21.000Z",
+          "wordCount": 7848,
+          "title": "Kamala Harris set to visit Korean DMZ after Kim's missile test",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467166,width-1070,height-580,imgsize-656277,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-holding-state-funeral-for-shinzo-abe-amid-tensions/articleshow/94467097.cms",
+          "author": null,
+          "description": "Tokyo was under maximum security, with a large number of uniformed police mobilize around the Budokan hall, where the funeral is being held, and major train stations. Roads around the venue are closed throughout the day, and coin lockers at main stations were sealed for security. PM Fumio Kishida has been criticized for forcing the costly event for Abe, who was assassinated in July.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-holding-state-funeral-for-shinzo-abe-amid-tensions/articleshow/94467097.cms",
+          "publishedOn": "2022-09-27T03:02:51.000Z",
+          "wordCount": 11123,
+          "title": "Japan holding state funeral for Shinzo Abe amid tensions",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467076,width-1070,height-580,imgsize-68008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
+          "author": null,
+          "description": "The galactic slam occurred at a harmless asteroid 7 million miles (9.6 million kilometers) away, with the spacecraft named Dart plowing into the space rock at 14,000 mph (22,500 kph). Scientists expected the impact to carve out a crater, hurl streams of rocks and dirt into space and, most importantly, alter the asteroid's orbit.",
+          "link": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
+          "publishedOn": "2022-09-27T01:15:07.000Z",
+          "wordCount": 7068,
+          "title": "Bam! NASA spacecraft crashes into asteroid in defense test",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465335,width-1070,height-580,imgsize-77752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
           "author": null,
           "description": "Italy took a sharp turn to the right on Monday after Giorgia Meloni's Eurosceptic populist party swept to victory in general elections, putting the one-time Mussolini admirer on course to become the first woman to lead the country.",
@@ -9334,6 +9734,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94460945.cms?utm_source=newsletter&utm_medium=email&utm_campaign=timestop10_daily_newsletter",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94460945.cms?utm_source=newsletter&utm_medium=email&utm_campaign=timestop10_daily_newsletter",
+          "publishedOn": "2022-09-27T03:10:30.000Z",
+          "wordCount": 4842,
+          "title": "Top10: Rupee and shares nosedive before RBI goes into a huddle",
+          "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-in-for-injured-deepak-hooda/articleshow/94467290.cms",
+          "author": null,
+          "description": "India's batting allrounder Deepak Hooda will be unavailable for the three-match South Africa T20 series that begins on Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-in-for-injured-deepak-hooda/articleshow/94467290.cms",
+          "publishedOn": "2022-09-27T03:08:45.000Z",
+          "wordCount": 5669,
+          "title": "India vs South Africa: Shreyas Iyer in for injured Deepak Hooda",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94467242,width-1070,height-580,imgsize-66120,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/former-japan-pm-shinzo-abe-funeral-live-updates-september-27/liveblog/94466972.cms",
+          "author": null,
+          "description": "Japan is filled with tension today as a rare state funeral for the assassinated former PM Shinzo Abe deeply splits the nation. Tokyo was under maximum security, with a large number of uniformed police mobilize around the Budokan hall, where the funeral is being held, and major train stations. Roads around the venue are closed throughout the day, and coin lockers at main stations were sealed for security.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/former-japan-pm-shinzo-abe-funeral-live-updates-september-27/liveblog/94466972.cms",
+          "publishedOn": "2022-09-27T02:59:00.000Z",
+          "wordCount": 6935,
+          "title": "Abe funeral live: PM Modi holds bilateral meet with Kishida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94466972,width-1070,height-580,imgsize-23626,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
+          "author": null,
+          "description": "The galactic slam occurred at a harmless asteroid 7 million miles (9.6 million kilometers) away, with the spacecraft named Dart plowing into the space rock at 14,000 mph (22,500 kph). Scientists expected the impact to carve out a crater, hurl streams of rocks and dirt into space and, most importantly, alter the asteroid's orbit.",
+          "link": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",
+          "publishedOn": "2022-09-27T01:15:07.000Z",
+          "wordCount": 7068,
+          "title": "Bam! NASA spacecraft crashes into asteroid in defense test",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465335,width-1070,height-580,imgsize-77752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-tarikh-pe-tarikh-sc-rejects-adjournment-pleas/articleshow/94465196.cms",
+          "author": null,
+          "description": "Shedding its usual practice of adopting a liberal approach, especially with regard to senior lawyers who are unable to appear on many occasions due to engagements in other cases, the Supreme Court on Monday made it clear that hearings would not be deferred as it asked a senior advocate not to embarrass the bench by asking for adjournment.",
+          "link": "https://timesofindia.indiatimes.com/india/no-tarikh-pe-tarikh-sc-rejects-adjournment-pleas/articleshow/94465196.cms",
+          "publishedOn": "2022-09-27T00:58:43.000Z",
+          "wordCount": 6536,
+          "title": "No 'tarikh pe tarikh': Supreme Court rejects adjournment pleas",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465211,width-1070,height-580,imgsize-15968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-camp-boycott-gross-indiscipline-says-congress/articleshow/94465133.cms",
           "author": null,
           "description": "Even as Congress termed the boycott by MLAs close to Rajasthan chief minister Ashok Gehlot \"gross indiscipline\", it is learned that the party is scrambling to salvage the situation and has reached out to the state leadership. The party brass is in a dilemma owing to the AICC presidential election, for which Gehlot is the top contender.",
@@ -9394,6 +9844,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94464827,width-1070,height-580,imgsize-39600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/jaipur/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "author": null,
+          "description": "First-time Congress MLA Divya Maderna, scion of the Maderna political family, on Monday said that the condition put forth for the CLP resolution by Gehlot-loyalist MLAs was tantamount to party indiscipline.",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "publishedOn": "2022-09-26T23:36:24.000Z",
+          "wordCount": 5393,
+          "title": "1st-time MLA reminds Gehlot camp of history",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464726,width-1070,height-580,imgsize-27808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
           "author": null,
           "description": "First-time Congress MLA Divya Maderna, scion of the Maderna political family, on Monday said that the condition put forth for the CLP resolution by Gehlot-loyalist MLAs was tantamount to party indiscipline.",
@@ -9412,6 +9872,16 @@
           "wordCount": 5649,
           "title": "Not fooling anybody: EAM slams Pakistan package",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94464679,width-1070,height-580,imgsize-37422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "author": null,
+          "description": "The Rashtriya Indian Military College (RIMC) inducted two girls for the first time in the institution's history of over 100 years, reports Pankul Sharma. The 'July batch of 2022' began on Monday with students of Class 8, including the two girl students. Central command PRO Shantanu Pratap Singh termed it \"a historic moment for the college\". He said one of the girl students is from Haryana and the other is a day scholar. The decision on RIMC came after the Centre opened the doors of the NDA for women.",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "publishedOn": "2022-09-26T23:09:59.000Z",
+          "wordCount": 6030,
+          "title": "In a first, 2 girls inducted into RIMC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464658,width-1070,height-580,imgsize-109524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
@@ -9474,6 +9944,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94464274,width-1070,height-580,imgsize-65222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/jaipur/getting-mlas-to-switch-was-makens-pilot-project-mantri/articleshow/94463926.cms",
+          "author": null,
+          "description": "Minister and Ashok Gehlot loyalist Shanti Dhariwal alleged a “100% conspiracy” against the CM by Ajay Maken and Sachin Pilot. Accusing Maken of approaching MLAs to campaign for Pilot as the next CM, Dhariwal said he had proof to back his allegation.",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/getting-mlas-to-switch-was-makens-pilot-project-mantri/articleshow/94463926.cms",
+          "publishedOn": "2022-09-26T20:12:46.000Z",
+          "wordCount": 8072,
+          "title": "Getting MLAs to switch was Maken's Pilot project: Gehlot loyalist",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464093,width-1070,height-580,imgsize-46800,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/getting-mlas-to-switch-was-makens-pilot-project-mantri/articleshow/94463926.cms",
           "author": null,
           "description": "Minister and Ashok Gehlot loyalist Shanti Dhariwal alleged a “100% conspiracy” against the CM by Ajay Maken and Sachin Pilot. Accusing Maken of approaching MLAs to campaign for Pilot as the next CM, Dhariwal said he had proof to back his allegation.",
@@ -9502,6 +9982,26 @@
           "wordCount": 5295,
           "title": "Live: Pro-Pilot posters in Rajasthan CM hometown",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94463389,width-1070,height-580,imgsize-59678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-september-27/liveblog/94463311.cms",
+          "author": null,
+          "description": "The Centre is planning to repurpose two main pillars of nation's digital health systems that were used to track Covid - CoWin and Aarogya Setu - as India's health application. Stay with TOI for live updates --",
+          "link": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-september-27/liveblog/94463311.cms",
+          "publishedOn": "2022-09-26T18:31:31.000Z",
+          "wordCount": 7110,
+          "title": "Live: India reports 3,230 Covid cases, lowest in over 3 months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463311,width-1070,height-580,imgsize-66436,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/russia-ukraine-war-news-live-updates-september-27/liveblog/94463263.cms",
+          "author": null,
+          "description": "Ukrainian and Russian forces were locked in heavy fighting in different parts of Ukraine on Tuesday as Russian-organised referendums in four regions Moscow hopes to annex drew to a close. Ukrainian President Volodymyr Zelenskyy said the Donetsk region in the east remained his country's -- and Russia's -- top strategic priority, with fighting engulfing several towns as Russian troops try to advance to the south and west. Stay with TOI for live updates -",
+          "link": "https://timesofindia.indiatimes.com/world/russia-ukraine-war-news-live-updates-september-27/liveblog/94463263.cms",
+          "publishedOn": "2022-09-26T18:24:17.000Z",
+          "wordCount": 7921,
+          "title": "Live: Heavy fighting as annexation vote in Ukraine enters final day",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94463263,width-1070,height-580,imgsize-66542,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-former-staffers-tell-probe-team-resort-was-den-of-vice/articleshow/94462829.cms",

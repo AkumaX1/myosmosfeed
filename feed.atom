@@ -2,10 +2,453 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T01:00:39.024Z</updated>
+    <updated>2022-09-27T04:03:41.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finally, a Roomba that vacuums and mops]]></title>
+        <id>https://techcrunch.com/?p=2407790</id>
+        <link href="https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/"/>
+        <updated>2022-09-27T04:01:37.000Z</updated>
+        <summary type="html"><![CDATA[IRobot makes robots that vacuum. IRobot makes robots that mop. Other companies make robots that vacuum and mop. So, why doesn’t iRobot? If you had asked the company that question as recently as a few weeks back, you likely would have gotten a stock answer about not doing something until you can do it right. […]
+Finally, a Roomba that vacuums and mops by Brian Heater originally published on TechCrunch]]></summary>
+        <author>
+            <name>Brian Heater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roomba’s latest robot vacuum has a robot mop on top]]></title>
+        <id>https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price</id>
+        <link href="https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price"/>
+        <updated>2022-09-27T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roomba Combo j7 Plus is iRobot’s first combination robot vacuum and mop. | Image: iRobot
+    
+
+  
+Robot vacuums that can also mop have been around for a while, but most make you remove the mop before they can vacuum your carpets — unless you like slightly damp carpets. iRobot’s newest bot looks to solve this problem with a retractable robot mop arm that can lift itself up and under the vacuum to mop when it’s needed and stow itself up top when it’s not.
+The Roomba Combo j7 Plus costs $1,099 and is available to preorder today. It will ship on October 4th, and is only being sold with the auto-emptying Clean Base at launch. The two-in-one vacuum mop uses a new combination of acoustic sensors to detect the different types of flooring in a home and “decide” when to lift its pad to avoid thr…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian military recruiter shot amid fear of Ukraine call-up]]></title>
+        <id>https://www.thehindu.com/news/international/russian-military-recruiter-shot-amid-fear-of-ukraine-call-up/article65940586.ece</id>
+        <link href="https://www.thehindu.com/news/international/russian-military-recruiter-shot-amid-fear-of-ukraine-call-up/article65940586.ece"/>
+        <updated>2022-09-27T03:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Ruslan Zinin was arrested and officials vowed tough punishment. Authorities said the military commandant was in intensive care]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIA conducts raids in western UP over PFI links]]></title>
+        <id>https://timesofindia.indiatimes.com/india/nia-conducts-raids-in-western-up-over-pfi-links/articleshow/94467608.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/nia-conducts-raids-in-western-up-over-pfi-links/articleshow/94467608.cms"/>
+        <updated>2022-09-27T03:27:30.000Z</updated>
+        <summary type="html"><![CDATA[The National Investigation Agency (NIA) is conducting raids at the premises of Popular Front of India (PFI) members at multiple locations in western Uttar Pradesh, including Bulandshahr and Meerut, on Tuesday. The raids started early Tuesday morning and are currently underway. NIA sources said that a number of people have already been detained in connection.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia detains Japanese consul on spying charge]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-consul-on-spying-charge-tokyo-hints-at-retaliation/articleshow/94467611.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-consul-on-spying-charge-tokyo-hints-at-retaliation/articleshow/94467611.cms"/>
+        <updated>2022-09-27T03:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Russia's FSB security agency said the consul, Motoki Tatsunori, was declared persona non grata after he was caught "red-handed" receiving secret information on the effects of Western sanctions on the economic situation in Russia's far east.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arizona abortion clinics send women to other states]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/arizona-abortion-clinics-send-women-to-other-states/articleshow/94467525.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/arizona-abortion-clinics-send-women-to-other-states/articleshow/94467525.cms"/>
+        <updated>2022-09-27T03:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Women seeking abortions across Arizona were forced to find alternatives beyond the state's borders after the ruling, which clears the way for prosecutors to charge doctors and others who help a woman end a pregnancy unless her life is in danger.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainer: Now, you can watch Supreme Court live]]></title>
+        <id>https://timesofindia.indiatimes.com/india/explainer-now-you-can-watch-supreme-court-live/articleshow/94467488.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/explainer-now-you-can-watch-supreme-court-live/articleshow/94467488.cms"/>
+        <updated>2022-09-27T03:17:16.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The live-streaming of Supreme Court proceedings will begin from today.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The four Kremlin-held Ukraine regions voting on annexation]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/the-four-kremlin-held-ukraine-regions-voting-on-annexation/articleshow/94467485.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/the-four-kremlin-held-ukraine-regions-voting-on-annexation/articleshow/94467485.cms"/>
+        <updated>2022-09-27T03:15:42.000Z</updated>
+        <summary type="html"><![CDATA[The Lugansk region, home to 2.1 million people before the war, borders Russia on three sides and forms part of the industrial Donbas area along with neighbouring Donetsk.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Narendra Modi meets Japanese counterpart Fumio Kishida]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94467425.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-japanese-counterpart-fumio-kishida/articleshow/94467425.cms"/>
+        <updated>2022-09-27T03:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Modi, who is here to attend the state funeral of former Japanese prime minister Shinzo Abe, met his Japanese counterpart ahead of the ceremony.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top10: Rupee and shares nosedive before RBI goes into a huddle]]></title>
+        <id>https://timesofindia.indiatimes.com/india/timestopten/msid-94460945.cms?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=timestop10_daily_newsletter</id>
+        <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94460945.cms?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=timestop10_daily_newsletter"/>
+        <updated>2022-09-27T03:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India vs South Africa: Shreyas Iyer in for injured Deepak Hooda]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-in-for-injured-deepak-hooda/articleshow/94467290.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-in-for-injured-deepak-hooda/articleshow/94467290.cms"/>
+        <updated>2022-09-27T03:08:45.000Z</updated>
+        <summary type="html"><![CDATA[India's batting allrounder Deepak Hooda will be unavailable for the three-match South Africa T20 series that begins on Wednesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo tightens security for slain Abe's funeral]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/tokyo-tightens-security-for-slain-shinzo-abes-funeral/articleshow/94467286.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/tokyo-tightens-security-for-slain-shinzo-abes-funeral/articleshow/94467286.cms"/>
+        <updated>2022-09-27T03:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Abe was shot from close range by a man with a homemade gun while on the campaign trail in the western city of Nara, an act that shocked a nation where violent crime is rare and dignitaries tend to travel with only modest protection.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What US said on Jaishankar's 'you're not fooling anybody' remark over F-16 sustenance package]]></title>
+        <id>https://timesofindia.indiatimes.com/india/what-us-said-on-jaishankars-youre-not-fooling-anybody-remark-over-f-16-sustenance-package/articleshow/94467183.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/what-us-said-on-jaishankars-youre-not-fooling-anybody-remark-over-f-16-sustenance-package/articleshow/94467183.cms"/>
+        <updated>2022-09-27T03:08:05.000Z</updated>
+        <summary type="html"><![CDATA["We don't view our relationship with Pakistan, and on the other hand, we don't view our relationship with India as in relation to one another. These are both partners of ours with different points of emphasis in each," state department spokesperson Ned Price told reporters at his daily news conference.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India, Pakistan both partners of U.S. with different points of emphasis: Biden administration]]></title>
+        <id>https://www.thehindu.com/news/international/india-pakistan-both-partners-of-us-with-different-points-of-emphasis-biden-administration/article65940554.ece</id>
+        <link href="https://www.thehindu.com/news/international/india-pakistan-both-partners-of-us-with-different-points-of-emphasis-biden-administration/article65940554.ece"/>
+        <updated>2022-09-27T03:05:46.000Z</updated>
+        <summary type="html"><![CDATA[The relationship we have with Pakistan stands on its own, State Department Spokesperson Ned Price said]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris set to visit Korean DMZ after Kim's missile test]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/kamala-harris-set-to-visit-korean-dmz-after-kims-missile-test/articleshow/94467178.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/kamala-harris-set-to-visit-korean-dmz-after-kims-missile-test/articleshow/94467178.cms"/>
+        <updated>2022-09-27T03:05:21.000Z</updated>
+        <summary type="html"><![CDATA[The visit, announced on Tuesday, comes days after North Korea fired a ballistic missile towards the sea and amid fears of a possible nuclear test as the Biden administration's attempts at outreach to North Korean leader Kim Jong Un have failed.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan holding state funeral for Shinzo Abe amid tensions]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/japan-holding-state-funeral-for-shinzo-abe-amid-tensions/articleshow/94467097.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/japan-holding-state-funeral-for-shinzo-abe-amid-tensions/articleshow/94467097.cms"/>
+        <updated>2022-09-27T03:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo was under maximum security, with a large number of uniformed police mobilize around the Budokan hall, where the funeral is being held, and major train stations. Roads around the venue are closed throughout the day, and coin lockers at main stations were sealed for security. PM Fumio Kishida has been criticized for forcing the costly event for Abe, who was assassinated in July.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC to hear plea on state govts taking out ads in other states]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-to-hear-plea-on-state-govts-taking-out-ads-in-other-states/articleshow/94467055.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-to-hear-plea-on-state-govts-taking-out-ads-in-other-states/articleshow/94467055.cms"/>
+        <updated>2022-09-27T03:01:47.000Z</updated>
+        <summary type="html"><![CDATA[India News: Though a bench of Justices DY Chandrachud and Hima Kohli was initially reluctant to entertain the PIL filed by an NGO, saying the governments advertis.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abe funeral live: PM Modi holds bilateral meet with Kishida]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/former-japan-pm-shinzo-abe-funeral-live-updates-september-27/liveblog/94466972.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/former-japan-pm-shinzo-abe-funeral-live-updates-september-27/liveblog/94466972.cms"/>
+        <updated>2022-09-27T02:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan is filled with tension today as a rare state funeral for the assassinated former PM Shinzo Abe deeply splits the nation. Tokyo was under maximum security, with a large number of uniformed police mobilize around the Budokan hall, where the funeral is being held, and major train stations. Roads around the venue are closed throughout the day, and coin lockers at main stations were sealed for security.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Delhi, UP tourists killed as bus skids, falls into gorge in Kullu]]></title>
+        <id>https://timesofindia.indiatimes.com/india/7-delhi-up-tourists-killed-as-bus-skids-falls-into-gorge-in-kullu/articleshow/94466887.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/7-delhi-up-tourists-killed-as-bus-skids-falls-into-gorge-in-kullu/articleshow/94466887.cms"/>
+        <updated>2022-09-27T02:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Seven tourists from Delhi and UP were killed and 10 more were injured after their bus skidded off the road and fell into a gorge near Jalori Jot in Kullu's Banjar area of Himachal Pradesh around 9pm Sunday. The accident brought back into focus the dangers of nightly travel on winding Himalayan roads, especially in the wet season.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress had stalled Narmada project since 1964: Amit Shah]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-had-stalled-narmada-project-since-1964-amit-shah/articleshow/94466816.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-had-stalled-narmada-project-since-1964-amit-shah/articleshow/94466816.cms"/>
+        <updated>2022-09-27T02:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Union home and cooperation minister Amit Shah said on Monday that Congress had attempted to stall the Narmada project since 1964 but the efforts of Narendra Modi as Gujarat CM ensured rapid progress of the project.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G across India in a few yrs: Mantri]]></title>
+        <id>https://timesofindia.indiatimes.com/india/5g-across-india-in-a-few-yrs-mantri/articleshow/94466737.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/5g-across-india-in-a-few-yrs-mantri/articleshow/94466737.cms"/>
+        <updated>2022-09-27T02:52:52.000Z</updated>
+        <summary type="html"><![CDATA[The government on Monday told Russia that the two countries can collaborate which include development of 5G use cases, design 6G technology, internet of things (IoT), cyber security and developing reliable last mile solution.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Assaulted' by teacher fortnight back, UP Dalit teen 'dies of injuries']]></title>
+        <id>https://timesofindia.indiatimes.com/india/assaulted-by-teacher-fortnight-back-up-dalit-teen-dies-of-injuries/articleshow/94466559.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/assaulted-by-teacher-fortnight-back-up-dalit-teen-dies-of-injuries/articleshow/94466559.cms"/>
+        <updated>2022-09-27T02:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Two weeks after his teacher brutally assaulted him for making two mistakes in an exam, a 15-year-old Dalit student of a government school in UP's Auraiya died of injuries Monday. The teacher was made to pay Rs 40,000 towards the boy's medical expenses, but has been on the run since a case was later filed against him.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors bank on China’s alternatives to Nvidia’s auto chips]]></title>
+        <id>https://techcrunch.com/?p=2407793</id>
+        <link href="https://techcrunch.com/2022/09/26/china-auto-chipmaker/"/>
+        <updated>2022-09-27T02:43:12.000Z</updated>
+        <summary type="html"><![CDATA[In China, a crop of homegrown chip companies has popped up as Beijing strives to decouple from America’s advanced technology and manage sanctions risks, which have crippled Huawei’s lucrative smartphone business. In the red-hot space of autonomous driving, Chinese semiconductor firms, buoyed with venture capital, are aiming to provide the best alternatives to Nvidia and […]
+Investors bank on China’s alternatives to Nvidia’s auto chips by Rita Liao originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rita Liao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After losing Foxconn unit, Maharashtra sends mantris to study Gujarat model]]></title>
+        <id>https://timesofindia.indiatimes.com/india/after-losing-foxconn-unit-maharashtra-sends-mantris-to-study-gujarat-model/articleshow/94466349.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/after-losing-foxconn-unit-maharashtra-sends-mantris-to-study-gujarat-model/articleshow/94466349.cms"/>
+        <updated>2022-09-27T02:41:38.000Z</updated>
+        <summary type="html"><![CDATA[As part of a new team set up by Maharashtra chief minister Eknath Shinde and based on the concept mooted by PM Narendra Modi to study 'best practices' in various states, Maharashtra industries minister Uday Samant and forest minister Sudhir Mungantiwar visited Gujarat on Monday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At UNGA, Bhutan, Nepal express gratitude for India&#039;s supply of COVID-19 vaccines]]></title>
+        <id>https://www.thehindu.com/news/international/at-unga-bhutan-nepal-express-gratitude-for-indias-supply-of-covid-19-vaccines/article65940530.ece</id>
+        <link href="https://www.thehindu.com/news/international/at-unga-bhutan-nepal-express-gratitude-for-indias-supply-of-covid-19-vaccines/article65940530.ece"/>
+        <updated>2022-09-27T02:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Under the Vaccine Maitri initiative, nearly 95 lakh doses have been supplied to Nepal and 5.5 lakh doses to Bhutan]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VA Unit Run Girls, Run! to Hold Their Final Concert on March 25, 2023]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/26-1/va-unit-run-girls-run-to-hold-their-final-concert-on-march-25-2023</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/26-1/va-unit-run-girls-run-to-hold-their-final-concert-on-march-25-2023"/>
+        <updated>2022-09-27T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The unit will end their activities on March 31, 2023 
+
+
+At the final Tokyo performance of the live tour to celebrate their fifth anniversary held on September 25, the three-member voice actress idol unit Run Girls, Run! announced that their final concert "Run Girls,Run！FINAL LIVE" (tentative title) will be held at YAMANO HALL in Tokyo on March 25, 2023. Hit the jump for more details.]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaishankar, Austin discuss opportunities for bilateral defence industrial cooperation]]></title>
+        <id>https://www.thehindu.com/news/national/jaishankar-austin-discuss-opportunities-for-bilateral-defence-industrial-cooperation/article65940517.ece</id>
+        <link href="https://www.thehindu.com/news/national/jaishankar-austin-discuss-opportunities-for-bilateral-defence-industrial-cooperation/article65940517.ece"/>
+        <updated>2022-09-27T02:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Lloyd Austin and S. Jaishankar committed to expanding information-sharing and logistics cooperation to drive deeper operational coordination between the U.S. and Indian militaries]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yumi Unita's Proceed With Crescendo Manga Gets Live-Action TV Shorts]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190232</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-26/yumi-unita-proceed-with-crescendo-manga-gets-live-action-tv-shorts/.190232"/>
+        <updated>2022-09-27T02:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Bunny Drop creator's high school choir story gets 5-minute episodes debuting on October 17]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt to phase out 100 awards, several fellowships in science]]></title>
+        <id>https://timesofindia.indiatimes.com/india/govt-to-phase-out-100-awards-several-fellowships-in-science/articleshow/94466088.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/govt-to-phase-out-100-awards-several-fellowships-in-science/articleshow/94466088.cms"/>
+        <updated>2022-09-27T02:27:20.000Z</updated>
+        <summary type="html"><![CDATA[The Centre has issued a notification saying about 100 awards and several fellowships in science were being discontinued. Private endowment awards have been cancelled. Most departments will now have one award of "high stature".]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facing deluge of NRC deportation cases, SC shields all petitioners]]></title>
+        <id>https://timesofindia.indiatimes.com/india/facing-deluge-of-nrc-deportation-cases-sc-shields-all-petitioners/articleshow/94466043.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/facing-deluge-of-nrc-deportation-cases-sc-shields-all-petitioners/articleshow/94466043.cms"/>
+        <updated>2022-09-27T02:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Days after the Supreme Court passed an order staying deportation of an Assam-based woman who was declared foreigner despite allegedly being born here and though all her family members including brothers, sisters and in-laws are Indian citizens, the court is facing a "deluge" of such cases.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Digest | Sachin Pilot waiting for Sonia’s ruling on Gehlot camp revolt; Putin grants Russian citizenship to U.S. whistleblower Snowden, and more]]></title>
+        <id>https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-27-2022/article65939178.ece</id>
+        <link href="https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-27-2022/article65939178.ece"/>
+        <updated>2022-09-27T02:15:05.000Z</updated>
+        <summary type="html"><![CDATA[A select list of stories to read before you start your day]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Piece Film Red Stays at #1 for 8th Weekend, Delicious Party Precure Film Opens at #3]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190213</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-26/one-piece-film-red-stays-at-no.1-for-8th-weekend-delicious-party-precure-film-opens-at-no.3/.190213"/>
+        <updated>2022-09-27T02:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Eiga Delicious Party♡Precure Yume Miru ♡ Okosama Lunch film debuts at #3 with 367 million yen]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Smashes Into an Asteroid, Completing a Mission to Save a Future Day]]></title>
+        <id>https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html"/>
+        <updated>2022-09-27T02:13:14.000Z</updated>
+        <summary type="html"><![CDATA[The DART spacecraft completed its 10-month journey to demonstrate a technique that could defend the planet from deadly space rocks in the future.]]></summary>
+        <author>
+            <name>Kenneth Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter challenges order to block account]]></title>
+        <id>https://timesofindia.indiatimes.com/india/twitter-challenges-order-to-block-account/articleshow/94465918.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/twitter-challenges-order-to-block-account/articleshow/94465918.cms"/>
+        <updated>2022-09-27T02:11:53.000Z</updated>
+        <summary type="html"><![CDATA[The Centre's directive to take down a Twitter account for a particular tweet goes against Sec 69A of the IT Act and is a violation of the right to equality enshrined in Art 14, the multi-blogging platform said in the Karnataka HC on Monday. Twitter has approached the HC, challenging a series of blocking orders issued by the Centre from February 2, 2021, till Feb 28, 2022.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan Box Office: Delicious Party Pretty Cure Film Makes Its 3rd Place Debut]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/26/japan-box-office-delicious-party-pretty-cure-film-makes-its-3rd-place-debut</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/26/japan-box-office-delicious-party-pretty-cure-film-makes-its-3rd-place-debut"/>
+        <updated>2022-09-27T01:55:02.000Z</updated>
+        <summary type="html"><![CDATA["One Piece Film Red" has stayed on No.1 for 8 consecutive weekends
+
+
+Delicious Party Pretty Cure the Movie: Dreamy Children's Lunch!, the 31st feature film in Toei Animation's long-running magical girl anime franchise, was released in Japan on September 23, then earned a very good 186 million yen (1.29 million USD) on its first Saturday and Sunday to make its third place debut. Hit the jump for more details!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC seeks govt stand on Rajiv Gandhi assassin's plea for early release]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-seeks-govt-stand-on-rajiv-gandhi-assassins-plea-for-early-release/articleshow/94465691.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-seeks-govt-stand-on-rajiv-gandhi-assassins-plea-for-early-release/articleshow/94465691.cms"/>
+        <updated>2022-09-27T01:55:02.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court Monday sought responses from the Centre and the Tamil Nadu government on a plea filed by Nalini Sriharan, serving life sentence in the Rajiv Gandhi assassination case, seeking premature release.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC relief for SRK in '17 Vadodara station stampede case]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-relief-for-srk-in-17-vadodara-station-stampede-case/articleshow/94465657.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-relief-for-srk-in-17-vadodara-station-stampede-case/articleshow/94465657.cms"/>
+        <updated>2022-09-27T01:51:19.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Monday upheld the decision of the Gujarat high court quashing a criminal case filed against actor Shah Rukh Khan and others, who were booked for causing a stampede in 2017 at the Vadodara railway station while promoting his film.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA&#039;s DART spacecraft hits target asteroid in first planetary defence test]]></title>
+        <id>https://www.thehindu.com/sci-tech/science/nasas-dart-spacecraft-hits-target-asteroid-in-first-planetary-defence-test/article65940497.ece</id>
+        <link href="https://www.thehindu.com/sci-tech/science/nasas-dart-spacecraft-hits-target-asteroid-in-first-planetary-defence-test/article65940497.ece"/>
+        <updated>2022-09-27T01:50:10.000Z</updated>
+        <summary type="html"><![CDATA[The mission was devised to determine whether a spacecraft is capable of changing the trajectory of an asteroid through sheer kinetic force]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC refuses to stay Narayan Rane 'house' razing]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-narayan-rane-house-razing/articleshow/94465640.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-narayan-rane-house-razing/articleshow/94465640.cms"/>
+        <updated>2022-09-27T01:49:34.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Monday dismissed a plea challenging a Bombay high court order directing Brihanmumbai Municipal Corporation (BMC) to demolish unauthorised portions of Union minister Narayan Rane's Juhu residence 'Aadhish'.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PO passport seva kendras to help get police clearance online]]></title>
+        <id>https://timesofindia.indiatimes.com/india/po-passport-seva-kendras-to-help-get-police-clearance-online/articleshow/94465622.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/po-passport-seva-kendras-to-help-get-police-clearance-online/articleshow/94465622.cms"/>
+        <updated>2022-09-27T01:47:11.000Z</updated>
+        <summary type="html"><![CDATA[In order to address the unanticipated surge in demand for police clearance certificates (PCCs), the Union ministry of external affairs (MEA) has decided to include the facility to apply for PCC services at all online Post Office Passport Seva Kendras (POPSKs) across India, starting September 28, the government announced on Monday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bam! NASA spacecraft crashes into asteroid in defense test]]></title>
+        <id>https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms</id>
+        <link href="https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms"/>
+        <updated>2022-09-27T01:15:07.000Z</updated>
+        <summary type="html"><![CDATA[The galactic slam occurred at a harmless asteroid 7 million miles (9.6 million kilometers) away, with the spacecraft named Dart plowing into the space rock at 14,000 mph (22,500 kph). Scientists expected the impact to carve out a crater, hurl streams of rocks and dirt into space and, most importantly, alter the asteroid's orbit.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bam! NASA spacecraft crashes into asteroid in defense test]]></title>
+        <id>https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms</id>
+        <link href="https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms"/>
+        <updated>2022-09-27T01:15:07.000Z</updated>
+        <summary type="html"><![CDATA[The galactic slam occurred at a harmless asteroid 7 million miles (9.6 million kilometers) away, with the spacecraft named Dart plowing into the space rock at 14,000 mph (22,500 kph). Scientists expected the impact to carve out a crater, hurl streams of rocks and dirt into space and, most importantly, alter the asteroid's orbit.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No 'tarikh pe tarikh': Supreme Court rejects adjournment pleas]]></title>
+        <id>https://timesofindia.indiatimes.com/india/no-tarikh-pe-tarikh-sc-rejects-adjournment-pleas/articleshow/94465196.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/no-tarikh-pe-tarikh-sc-rejects-adjournment-pleas/articleshow/94465196.cms"/>
+        <updated>2022-09-27T00:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Shedding its usual practice of adopting a liberal approach, especially with regard to senior lawyers who are unable to appear on many occasions due to engagements in other cases, the Supreme Court on Monday made it clear that hearings would not be deferred as it asked a senior advocate not to embarrass the bench by asking for adjournment.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gehlot camp boycott 'gross indiscipline': Congress]]></title>
         <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-camp-boycott-gross-indiscipline-says-congress/articleshow/94465133.cms</id>
@@ -220,6 +663,16 @@ An hour before impact, the target asteroid, Dimorphos, wasn’t even visible in 
     </entry>
     <entry>
         <title type="html"><![CDATA[1st-time MLA reminds Gehlot camp of history]]></title>
+        <id>https://timesofindia.indiatimes.com/city/jaipur/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/jaipur/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms"/>
+        <updated>2022-09-26T23:36:24.000Z</updated>
+        <summary type="html"><![CDATA[First-time Congress MLA Divya Maderna, scion of the Maderna political family, on Monday said that the condition put forth for the CLP resolution by Gehlot-loyalist MLAs was tantamount to party indiscipline.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1st-time MLA reminds Gehlot camp of history]]></title>
         <id>https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms"/>
         <updated>2022-09-26T23:36:24.000Z</updated>
@@ -299,6 +752,16 @@ An hour before impact, the target asteroid, Dimorphos, wasn’t even visible in 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In a first, 2 girls inducted into RIMC]]></title>
+        <id>https://timesofindia.indiatimes.com/city/dehradun/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/dehradun/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms"/>
+        <updated>2022-09-26T23:09:59.000Z</updated>
+        <summary type="html"><![CDATA[The Rashtriya Indian Military College (RIMC) inducted two girls for the first time in the institution's history of over 100 years, reports Pankul Sharma. The 'July batch of 2022' began on Monday with students of Class 8, including the two girl students. Central command PRO Shantanu Pratap Singh termed it "a historic moment for the college". He said one of the girl students is from Haryana and the other is a day scholar. The decision on RIMC came after the Centre opened the doors of the NDA for women.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In a first, 2 girls inducted into Rashtriya Indian Military College]]></title>
         <id>https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms"/>
@@ -317,6 +780,16 @@ An hour before impact, the target asteroid, Dimorphos, wasn’t even visible in 
 Read more...]]></summary>
         <author>
             <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Zombie Reaganomics Still Rules the G.O.P.]]></title>
+        <id>https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html"/>
+        <updated>2022-09-26T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[MAGA is in charge, but policy caters to the wealthy.]]></summary>
+        <author>
+            <name>Paul Krugman</name>
         </author>
     </entry>
     <entry>
@@ -728,6 +1201,16 @@ Crypto platform Nexo sued by New York, California and six other US regulators by
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[S&P 500 Hits Lowest Level of 2022 as Global Sell-off Continues]]></title>
+        <id>https://www.nytimes.com/2022/09/25/business/stock-market-today.html</id>
+        <link href="https://www.nytimes.com/2022/09/25/business/stock-market-today.html"/>
+        <updated>2022-09-26T20:33:23.000Z</updated>
+        <summary type="html"><![CDATA[The drop to the new low, after stocks staged a brief recovery this summer, shows how uncertain the environment for investors has become.]]></summary>
+        <author>
+            <name>Isabella Simonetti</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sony is selling a PlayStation 5 bundle right now]]></title>
         <id>https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check</id>
         <link href="https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check"/>
@@ -819,6 +1302,16 @@ Hugging Face and ServiceNow launch BigCode, a project to open source code-genera
         <summary type="html"><![CDATA[Minister and Ashok Gehlot loyalist Shanti Dhariwal alleged a “100% conspiracy” against the CM by Ajay Maken and Sachin Pilot. Accusing Maken of approaching MLAs to campaign for Pilot as the next CM, Dhariwal said he had proof to back his allegation.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting MLAs to switch was Maken's Pilot project: Gehlot loyalist]]></title>
+        <id>https://timesofindia.indiatimes.com/city/jaipur/getting-mlas-to-switch-was-makens-pilot-project-mantri/articleshow/94463926.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/jaipur/getting-mlas-to-switch-was-makens-pilot-project-mantri/articleshow/94463926.cms"/>
+        <updated>2022-09-26T20:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Minister and Ashok Gehlot loyalist Shanti Dhariwal alleged a “100% conspiracy” against the CM by Ajay Maken and Sachin Pilot. Accusing Maken of approaching MLAs to campaign for Pilot as the next CM, Dhariwal said he had proof to back his allegation.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1238,6 +1731,16 @@ Personally, everything I’ve learned about the feature film — which stars Flo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live: India reports 3,230 Covid cases, lowest in over 3 months]]></title>
+        <id>https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-september-27/liveblog/94463311.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-september-27/liveblog/94463311.cms"/>
+        <updated>2022-09-26T18:31:31.000Z</updated>
+        <summary type="html"><![CDATA[The Centre is planning to repurpose two main pillars of nation's digital health systems that were used to track Covid - CoWin and Aarogya Setu - as India's health application. Stay with TOI for live updates --]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Here are the industries ripe for innovation under the Inflation Reduction Act]]></title>
         <id>https://techcrunch.com/?p=2407798</id>
         <link href="https://techcrunch.com/2022/09/26/here-are-the-industries-ripe-for-innovation-under-the-inflation-reduction-act/"/>
@@ -1275,6 +1778,16 @@ So far, the company has focused on buying pre-existing studios to invest in game
 The streaming service features a growing catalogue of games that subscribers can play at no additional cost with no ads on iOS and Android devices. Some highlights include the charming animated platformer Poinpy and Before Your Eyes, which you can literally play by blinking. Sam Barlow’s creepy film-fueled narrative adventure Immortality, will also be added to the streaming service soon.]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: Heavy fighting as annexation vote in Ukraine enters final day]]></title>
+        <id>https://timesofindia.indiatimes.com/world/russia-ukraine-war-news-live-updates-september-27/liveblog/94463263.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/russia-ukraine-war-news-live-updates-september-27/liveblog/94463263.cms"/>
+        <updated>2022-09-26T18:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian and Russian forces were locked in heavy fighting in different parts of Ukraine on Tuesday as Russian-organised referendums in four regions Moscow hopes to annex drew to a close. Ukrainian President Volodymyr Zelenskyy said the Donetsk region in the east remained his country's -- and Russia's -- top strategic priority, with fighting engulfing several towns as Russian troops try to advance to the south and west. Stay with TOI for live updates -]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
