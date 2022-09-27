@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23374696/samsung-oneui-beta-lock-screen-customization-iphone-ios16",
+          "author": null,
+          "description": "Photo by Allison Johnson / The Verge\n    \n\n  \nSamsung’s third One UI 5.0 beta arrived late last week, and users have started noticing that the lock screen customization options look pretty darn similar to those introduced by Apple in iOS 16 earlier this month (via 9to5Mac). While Samsung has been letting users customize their lock screens for years now, whether through its Good Lock app or its One UI system, its most recent update seems to take a lot of inspiration from Apple (although inspiration can flow in both directions).\nLock screen customization is one of the biggest changes in iOS 16, as Apple introduced widgets, new wallpaper options, and the ability to tweak everything from font type, colors, wallpaper filters, and more. The latest version of the beta gives Samsung users more con…",
+          "link": "https://www.theverge.com/2022/9/27/23374696/samsung-oneui-beta-lock-screen-customization-iphone-ios16",
+          "publishedOn": "2022-09-27T16:13:31.000Z",
+          "wordCount": 11965,
+          "title": "Samsung’s latest One UI beta tries iOS 16-like lock screen customization on Android",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WwCIsl-GfHZt0Qr7G4aDHopkL8w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23262019/ajohnson_220216_5033_0009.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/27/23374882/nvidia-geforce-driver-windows-11-2022-update-stutter-frame-rate-issues",
+          "author": null,
+          "description": "Image: Nvidia\n    \n\n  \nNvidia is releasing an important driver update today for those on the latest Windows 11 2022 Update. The new Game Ready 517.48 driver fixes an issue with the GeForce Experience overlay causing stuttering and frame rate drops with Microsoft’s latest Windows 11 2022 Update.\nMany Nvidia users had reported the issues last week, and Nvidia quickly issued a beta fix ahead of this new driver today. Alongside the big fixes for Windows 11, this new driver also includes additional Deep Learning Super Sampling (DLSS) support for Microsoft Flight Simulator.\nImage: Microsoft\n      Nvidia’s latest driver introduces full DLSS 2 support in Microsoft Flight Simulator.\n  \n“Developer Asobo Studio has just launched Sim Update 10, with the integration of NVIDIA DLSS 2,” explains Nvidia’s Andrew Burnes. “To take full advantage of this technology, our new Game Ready Driver is a required update.”\nThis latest driver is also optimized for Overwatch 2, which arrives as a free-to-play title on October 4th. Nvidia’s latency-reducing Reflex technology will also be supported in Overwatch 2. Four more G-Sync compatible displays are also supported in this new driver, including Sony’s new Inzone gaming monitors.\nYou can download Nvidia’s latest 517.48 driver for both Windows 10 and Windows 11 over at Nvidia’s download page.",
+          "link": "https://www.theverge.com/2022/9/27/23374882/nvidia-geforce-driver-windows-11-2022-update-stutter-frame-rate-issues",
+          "publishedOn": "2022-09-27T16:07:18.000Z",
+          "wordCount": 11736,
+          "title": "Nvidia’s latest driver fixes Windows 11 2022 Update stutters and frame rates",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/9M5PUWlKlpE1tXgbdL5P5IK0v8I=/0x0:1200x675/1200x628/filters:focal(600x338:601x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/24058733/nvidia.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nMeta says it has disrupted a sophisticated Russian influence operation that operated across its own social platforms, Facebook and Instagram, as well as Twitter, YouTube, Telegram, and even LiveJournal.\nIn a new report on removing coordinated inauthentic behavior, Meta says that the influence campaign originated in Russia and involved a “sprawling” network of more than 60 fake websites. In a bid for borrowed credibility, some of those sites impersonated mainstream European news outlets like Der Spiegel, The Guardian and Bild.\nSocial media accounts within the network shared spoofed articles from these news outlets, mostly criticizing Ukraine and Ukrainian refugees or arguing against sanctions placed on Russia. Content in the spoofed articles …",
+          "link": "https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda",
+          "publishedOn": "2022-09-27T15:55:57.000Z",
+          "wordCount": 11808,
+          "title": "Russian campaign spent $100,000 on anti-Ukraine propaganda, Meta says",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/qxym8ImmPkW13oLOQoP9aLaQR1o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/21309820/best-wireless-earbuds",
+          "author": null,
+          "description": "The current earbuds lineup is the strongest to date.\n    \n\n\n  \nThe best from Apple, Bose, Samsung, Sony, Beats, Google, and more\n It’s hard to buy a bad pair of wireless earbuds these days. The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance, all for the sake of ditching cables. Things are much different now. After several product generations of learned lessons, companies like Sony, Apple, Samsung, and others are releasing their most impressive earbuds to date. \nYou can get phenomenal noise cancellation and sound quality in the premium tier of earbuds if you’re willing to spend big. But those aren’t always the most important criteria for everyone: maybe you’re looking for the perfect fitness …",
+          "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
+          "publishedOn": "2022-09-27T15:45:56.000Z",
+          "wordCount": 20390,
+          "title": "The best wireless earbuds to buy right now",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TPfUcbwUraEmoLxS6dJKdjN20Yw=/0x0:2040x1360/1200x628/filters:focal(929x614:930x615)/cdn.vox-cdn.com/uploads/chorus_asset/file/24058703/DSCF9357_2.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder",
           "author": null,
           "description": "Arm CEO Rene Haas | Illustration by William Joel / The Verge\n    \n\n\n  \nArm’s chips are in your iPhone — but what exactly does Arm do?\n One of the more interesting quirks of the modern tech world is that there’s a really important company at the center of it all that doesn’t make anything. But its work is in your phone, in your TV, your car, maybe even your laptop — and the data centers that keep all these things working. \nI’m talking about Arm, a chip design company that’s been through quite a lot these past few years. Arm designs the instruction sets for modern chips; Qualcomm, Apple, and Samsung chips are all Arm chips. Arm licenses the instruction sets to those companies, who then go off and actually make chips with all sorts of customizations. This model has been a runaway success. \nSo…",
@@ -649,6 +689,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html",
+          "author": "Nicholas Casey",
+          "description": "Under Francisco Franco’s rule, thousands of newborns were secretly taken from hospitals and sold to wealthy Catholic families. Now they are beginning to uncover their own histories.",
+          "link": "https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html",
+          "publishedOn": "2022-09-27T15:58:51.000Z",
+          "wordCount": null,
+          "title": "The Stolen Babies of Spain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html",
+          "author": "Lydia DePillis",
+          "description": "Publicly traded corporate landlords are reporting some of their highest margins ever, while smaller operators say rent increases are eaten up by costs.",
+          "link": "https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html",
+          "publishedOn": "2022-09-27T15:17:26.000Z",
+          "wordCount": null,
+          "title": "Inflation Has Hit Tenants Hard. What About Their Landlords?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html",
           "author": "Steven Lee Myers",
           "description": "The parent of Facebook and Instagram said that it had taken down what was the first targeted Chinese campaign to interfere in U.S. politics and that the effort was limited.",
@@ -719,6 +779,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html",
+          "author": "Annie Sneed",
+          "description": "The brightly colored powdered green tea has become popular among health-conscious consumers. Does it have any nutritional benefits?",
+          "link": "https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html",
+          "publishedOn": "2022-09-27T09:00:24.000Z",
+          "wordCount": null,
+          "title": "Is Matcha Good for You?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html",
           "author": "Dara Lind",
           "description": "Does America still embrace its international obligation to provide sanctuary to at least some unauthorized immigrants?",
@@ -756,6 +826,16 @@
           "publishedOn": "2022-09-27T09:00:18.000Z",
           "wordCount": null,
           "title": "House Jan. 6 Panel Faces Key Decisions as It Wraps Up Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html",
+          "author": "Nate Cohn",
+          "description": "There are some signs of a drift toward issues where the party has an advantage, like the economy and immigration.",
+          "link": "https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html",
+          "publishedOn": "2022-09-27T09:00:17.000Z",
+          "wordCount": null,
+          "title": "Are Political Winds Blowing in Republicans’ Favor Again?",
           "imageUrl": null
         },
         {
@@ -2503,6 +2583,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/books/review/best-of-friends-kamila-shamsie.html",
+          "author": "Molly Young",
+          "description": "Kamila Shamsie’s new novel, “Best of Friends,” follows its title characters from their Pakistani girlhoods to their adult lives in London.",
+          "link": "https://www.nytimes.com/2022/09/27/books/review/best-of-friends-kamila-shamsie.html",
+          "publishedOn": "2022-09-27T16:05:05.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Best of Friends,’ by Kamila Shamsie",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html",
           "author": "Kim Severson",
           "description": "A new, unauthorized biography reveals intimate, often raw, details of the TV star’s life and death. And it’s drawing criticism from many of his friends and family.",
@@ -2956,6 +3046,46 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600231",
+          "author": "Ethan Millman",
+          "description": "Styles joins the likes of Eminem, Beyonce and Prince in accomplishing the rare feat",
+          "link": "https://www.rollingstone.com/music/music-news/harry-styles-in-tops-box-office-hot-100-chart-as-it-was-dont-worry-darling-1234600231/",
+          "publishedOn": "2022-09-27T16:13:21.000Z",
+          "wordCount": 7528,
+          "title": "Harry Styles In Rarified Air as He Simultaneously Tops Box Office and Singles Chart",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/harry-styles-number-1-single-and-movie.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600677",
+          "author": "Larisha Paul",
+          "description": "The pair also performed a five-song set together featuring Tweedy's ‘Jesus, Etc.,’ ‘Muzzle of Bees’ and ‘Sunken Treasure’ for the newly-launched podcast",
+          "link": "https://www.rollingstone.com/music/music-news/jeff-tweedy-norah-jones-playing-along-debut-podcast-episode-1234600677/",
+          "publishedOn": "2022-09-27T16:09:12.000Z",
+          "wordCount": 7233,
+          "title": "Jeff Tweedy Joins Norah Jones to Talk Hardcore Fans and Live Performances on ‘Playing Along’ Debut Podcast Episode",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/norah-jones-podcast.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600312",
+          "author": "Jon Blistein",
+          "description": "Spector, an upcoming four-part series, will premiere on Showtime in November",
+          "link": "https://www.rollingstone.com/music/music-news/phil-spector-lana-clarkson-docuseries-showtime-spector-trailer-1234600312/",
+          "publishedOn": "2022-09-27T16:00:00.000Z",
+          "wordCount": 6983,
+          "title": "Hitmaker and Murderer: New Doc to Cover Phil Spector’s Career and Killing of Lana Clarkson",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/AP583780176537.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600695",
+          "author": "Jon Blistein",
+          "description": "Band will play 16 shows in March, April, July, and August of next year",
+          "link": "https://www.rollingstone.com/music/music-news/maroon-5-las-vegas-residency-2023-adam-levine-1234600695/",
+          "publishedOn": "2022-09-27T15:40:29.000Z",
+          "wordCount": 7022,
+          "title": "Holy F–king F–k. That Maroon 5 Las Vegas Residency of Yours is Absurd",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/M5-Band-Photo-TRAVIS-SCHNEIDER-1.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234600666",
           "author": "Jon Blistein",
@@ -3570,6 +3700,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408667",
+          "author": "Greg Kumparak",
+          "description": "Alchemist Accelerator, the enterprise-focused startup incubator, is hosting a Demo Day today for its 31st batch of companies. For many of these companies, it’s the first time they’ve shown their efforts to the world. The accelerator itself, meanwhile, has some news: new leadership. Rachel Chalmers, formerly the head of AlchemistX (a division of Alchemist that […]\nAlchemist Accelerator announces new leadership alongside its latest class of companies by Greg Kumparak originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/alchemist-accelerator-demo-day/",
+          "publishedOn": "2022-09-27T15:55:00.000Z",
+          "wordCount": 7373,
+          "title": "Alchemist Accelerator announces new leadership alongside its latest class of companies",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/10/alchemist-.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408546",
+          "author": "Natasha Lomas",
+          "description": "Another bit of self-reporting from Meta today vis-a-vis internal efforts to identify and shut down political disinformation networks operating on its social platforms (aka “coordinated, inauthentic behavior” — or CIB — as it prefers to term it). Specifically, it’s reported taking down two, separate political disinformation networks — one “small” network originating from China which […]\nMeta reports takedowns of influence ops targeting US midterms, Ukraine war by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/meta-disinformation-china-russia-us-midterms-ukraine/",
+          "publishedOn": "2022-09-27T15:33:41.000Z",
+          "wordCount": 8460,
+          "title": "Meta reports takedowns of influence ops targeting US midterms, Ukraine war",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/Meta-e1657103014362.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408555",
+          "author": "Ingrid Lunden",
+          "description": "Calendly, the scheduling startup that landed with a splash last year when it raised a huge round out of nowhere at a $3 billion+ valuation, has made a name for itself for tools that are used by more than 10 million people to book appointments, arrange meetings, and plan any event that involves two or […]\nCalendly, the $3B+ scheduling startup, acquires Prelude to drive into the recruitment sector by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/calendly-the-3b-scheduling-startup-acquires-prelude-to-drive-into-the-recruitment-sector/",
+          "publishedOn": "2022-09-27T15:25:32.000Z",
+          "wordCount": 8810,
+          "title": "Calendly, the $3B+ scheduling startup, acquires Prelude to drive into the recruitment sector",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-510240901.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2408530",
           "author": "Jacquelyn Melinek",
@@ -4568,6 +4728,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "y3p5pb",
+          "author": "Jules Roscoe",
+          "description": "Amazon workers at ALB1 say anti-union consultants from out of town are holding captive audience meetings and making it difficult for workers to do their jobs.",
+          "link": "https://www.vice.com/en_us/article/y3p5pb/amazons-dollar3200-per-day-union-busters-say-this-is-the-best-spot-for-steak-and-caviar-in-albany",
+          "publishedOn": "2022-09-27T15:26:23.000Z",
+          "wordCount": 5428,
+          "title": "Amazon’s $3,200 Per Day Union Busters Say This Is the Best Spot for Steak and Caviar in Albany",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6333005a46002a009c9d64ad/lede/1664290499835-attachment-2.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6333005a46002a009c9d64ad/lede/1664290499835-attachment-2.jpeg"
+        },
+        {
+          "id": "epz5z7",
+          "author": "Paul Blest",
+          "description": "In a new book, onetime congressman Denver Riggleman made the allegation about Republicans Paul Gosar and Louie Gohmert due to his interactions with them.",
+          "link": "https://www.vice.com/en_us/article/epz5z7/republican-denver-riggleman-book-paul-gosar",
+          "publishedOn": "2022-09-27T15:25:47.000Z",
+          "wordCount": 5138,
+          "title": "Ex-GOP Politician Is Worried Far-Right Congressmen Have ‘Serious Cognitive Issues’",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6333134ed18e93009f8f314c/lede/1664292288864-republican-denver-riggleman-book-paul-gosar.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6333134ed18e93009f8f314c/lede/1664292288864-republican-denver-riggleman-book-paul-gosar.jpeg"
+        },
+        {
+          "id": "qjkwkx",
+          "author": "Carter Sherman",
+          "description": "A memo also warned faculty they must “remain neutral” in speaking about abortion at all.",
+          "link": "https://www.vice.com/en_us/article/qjkwkx/university-of-idaho-abortion-birth-control",
+          "publishedOn": "2022-09-27T15:24:52.000Z",
+          "wordCount": 4046,
+          "title": "University Staff Warned They Could Be Fired for Providing Birth Control",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63330991b94bd8009d423f13/lede/1664290654632-university-of-idaho.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63330991b94bd8009d423f13/lede/1664290654632-university-of-idaho.jpeg"
+        },
+        {
           "id": "m7gpg4",
           "author": "Jordan Pearson",
           "description": "Damage to the Nord Stream 1 pipeline is an \"act of sabotage, related to the next step of escalation of the situation in Ukraine,\" Poland's PM alleged.",
@@ -5512,6 +5717,36 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849585984",
+          "author": "Ashley Bardhan",
+          "description": "Epic Games, the company behind Fortnite and Fall Guys, has unleashed another “F” into the world by adding an NFT-based video game to its online store: Fuck, are we still doing this crypto-baby thing?\n\nRead more...",
+          "link": "https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984",
+          "publishedOn": "2022-09-27T16:04:42.000Z",
+          "wordCount": 5539,
+          "title": "The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You're Expecting",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/49bd8386b06ed9a55a2aa9c2f1bedb5f.jpg"
+        },
+        {
+          "id": "1849585913",
+          "author": "Ethan Gach",
+          "description": "Cyberpunk 2077’s launch has been one of the messiest in recent history. Praised in many initial reviews on PC, so broken on last-gen consoles it was pulled from the PlayStation Store, and then saddled with post-launch delays as players waited for promised fixes and new content. Now, nearly two years later, the…\nRead more...",
+          "link": "https://kotaku.com/cyberpunk-2077-netflix-anime-edgerunners-cdpr-steam-1849585913",
+          "publishedOn": "2022-09-27T15:47:58.000Z",
+          "wordCount": 6075,
+          "title": "Cyberpunk 2077 Dev On The Million-Player Revival: 'It's F****** Good To Be Back'",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f67e4a71194c27f932c925135873e17b.jpg"
+        },
+        {
+          "id": "1849585596",
+          "author": "John Walker",
+          "description": "Are you a FIFA fan? Are you also a  little baby-human who sometimes just doesn’t want to hear it? Then does EA have the new feature for you! FIFA 23, out for pre-orderers today, will let you turn off commentary that’s critical of how you’re playing. Alternative idea: play better?\n\nRead more...",
+          "link": "https://kotaku.com/fifa-23-ea-sports-football-commentary-criticism-soccer-1849585596",
+          "publishedOn": "2022-09-27T15:25:00.000Z",
+          "wordCount": 5256,
+          "title": "FIFA 23 Has Option Where Game Won't Tell You How Bad You Are",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8ccdf93e009066e64c7daded4474a9f.jpg"
+        },
+        {
           "id": "1849585148",
           "author": "John Walker",
           "description": "Art generated by AI is proving a very contentious issue, raising enormous amounts of concern among artists about their potential replacement by machine learning, let alone the ethical questions about whether an algorithm studying thousands of other people’s creations is fair to the original creators. But put all that…\nRead more...",
@@ -6169,6 +6404,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha",
+          "author": null,
+          "description": "Image: Embark Studios\n    \n\n  \nNexon-backed Embark Studios shows its first game, a Running Man-style game show\n Four years ago, Electronic Arts’ chief design officer left to co-found his own studio, created with Nexon’s backing. On Monday, Patrick Söderlund’s studio showed off its first game: The Finals, a squad-based, free-to-play multiplayer shooter inspired by sci-fi bloodsport narratives like Squid Game and The Running Man, where pretty much everything on the game’s maps can be destroyed.\nThe Finals, said Embark Studios creative director Gustav Tilleby, is “a hero builder, not a hero shooter.” As shown in a debut trailer, players will have access to a variety of weapons and their tactical uses, from a katana and other melee weapons, to rocket launchers, and even a foam gun that can rei…",
+          "link": "https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha",
+          "publishedOn": "2022-09-27T16:01:13.000Z",
+          "wordCount": 2705,
+          "title": "In The Finals, a new squad shooter from Battlefield alumni, everything is destructible",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/5LVwp9UIp7WWYp6_GkSBZXrFBxg=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056814/ss_ae8a2f6eb4c9f1eaa125711db87deca1eea27546.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23374639/multiversus-patch-notes-rick-xp-nerf-leveling",
           "author": null,
           "description": "Image: Player First Games/Warner Bros. Interactive Entertainment via YouTube\n    \n\n  \nRick Sanchez also joins the game’s roster\n MultiVersus has a new update that’s set to bring a few changes to the game. Beta patch 1.03 adds Rick Sanchez to the game as its newest fighter, makes a few balance tweaks, and most importantly significantly increases the amount of experience players need to hit level 15 with every character. \nAccording to the patch notes from developer Player First Games, the XP requirements for progressing from level 3 to level 15 have been doubled. The developer says that it’s making the change because it felt that players were progressing through the levels too quickly, and it wanted to “make it a bit more of a journey.” \nThe only problem is, despite increasing the time it takes to earn these levels, Player First Games didn’t increase the rewards that players get for progressing. So it’s more work for the exact same reward. \nOther than this slightly frustrating adjustment, the patch also brings in the game’s latest character with Rick Sanchez from Rick and Morty, and a new anti-infinite combo system that should help prevent players from getting caught in enemy combos that chain the same move together too many times in a row. \nMultiVersus patch 1.03 will arrive after the game’s maintenance, which should end around 1 p.m. ET. For a look at all of the changes in the latest MultiVersus patch you can check out the full patch notes.",
@@ -6365,6 +6610,26 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23373124/bullet-train-blooper-reel",
+          "author": null,
+          "description": "Photo: Scott Garfield/Sony Pictures\n    \n\n  \nAnd they’re even more fun in the movie\n Bullet Train was one of this summer’s non-franchise delights, a violent action-comedy best described as John Wick by way of Looney Tunes. With its theatrical run now firmly behind it, the cinematic pain train from the director of Deadpool 2 is about to arrive at its next stop: video on-demand. \nA madcap action movie about a semi-retired assassin named Ladybug (Brad Pitt) trying his best to get a suitcase off a train full of other assassins who want the same thing, Bullet Train is the kind of movie one imagines was as fun to make as the comedy on screen. A behind-the-scenes look at the film, which arrives with the home video release, confirms as such. As a little teaser, Polygon can exclusively share a brief blooper reel, which mostly features two of the movies best characters, the duo Tangerine (Aaron Taylor-Johnson) and Lemon (Brian Tyree Henry), pal-ing around when they should be doing stuff like hurting people.\nBullet Train is now available on VOD, and arrives on DVD, Blu-ray, and Ultra HD on October 18.",
+          "link": "https://www.polygon.com/23373124/bullet-train-blooper-reel",
+          "publishedOn": "2022-09-27T16:05:00.000Z",
+          "wordCount": 2019,
+          "title": "Bullet Train’s two best blokes pal around in the jauntiest blooper reel",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/OGFQSsismU3wYU0fRs2tBUMJ5gI=/0x0:6000x3141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056656/bullet_train_lemon_tangerine.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/reviews/23373306/the-menu-review",
+          "author": null,
+          "description": "Photo: Eric Zachanowich/Searchlight Pictures\n    \n\n\n  \nAnya Taylor-Joy and Ralph Fiennes lead a delectable thriller\n Polygon is on the ground at the 2022 Fantastic Fest, reporting on new horror, sci-fi, cult, and action movies making their way to theaters and streaming. This review was published in conjunction with the film’s Fantastic Fest premiere.\n2021’s movie scene of the year — the one that dominated critic and cinephile talk during awards season — came from Michael Sarnoski’s Pig, a deliriously violent but quiet thriller about Nicolas Cage’s ex-chef chasing down his stolen truffle pig. At one point, Cage’s character, Rob, a retired chef turned backwoods recluse, sits down in a ritzy haute cuisine restaurant and summons the chef, a former employee of his. Without raising his voice, Ro…",
+          "link": "https://www.polygon.com/reviews/23373306/the-menu-review",
+          "publishedOn": "2022-09-27T15:27:00.000Z",
+          "wordCount": 2251,
+          "title": "Anya Taylor-Joy owns the dark and twisty mayhem of The Menu",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/hzd5ljQ5P_6OKhjclfrnhP5yzM0=/0x0:6980x3654/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056233/the_menu_anya_ralph.jpg"
+        },
         {
           "id": "https://www.polygon.com/23345284/star-trek-tv-show-best-start",
           "author": null,
@@ -7076,6 +7341,26 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190262",
+          "author": null,
+          "description": "1st 3 episodes debut on YouTube simultaneously",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/uma-musume-franchise-new-short-anime-series-uma-yuru-premieres-on-october-16/.190262",
+          "publishedOn": "2022-09-27T15:15:42.000Z",
+          "wordCount": 3612,
+          "title": "Uma Musume Franchise's New Short Anime Series Uma Yuru Premieres on October 16",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.5/185350/umayuru_teaser.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190246",
+          "author": null,
+          "description": "Manga returns in Monthly Flowers magazine after going on hiatus in 2018",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/yuu-watase-fushigi-yugi-byakko-senki-manga-returns-in-fall-2023/.190246",
+          "publishedOn": "2022-09-27T15:00:00.000Z",
+          "wordCount": 3549,
+          "title": "Yuu Watase's Fushigi Yūgi: Byakko Senki Manga Returns in Fall 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news/130178/fushigiyugi_byakko.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190259",
           "author": null,
@@ -7903,6 +8188,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/27/feature-celebrating-the-resilience-of-female-friendship-through-anime",
+          "author": "Manas B. Sharma",
+          "description": "Five anime that show how the bonds between women are strengthened, not weakened, by their differences\n\n\nThe \"power of friendship\" trope is a classic of manga and anime. The closeness, the empathy, the altruism: it's all so heartwarming I could explode. But why should boys have all the fun? Hit the jump to see some shining examples of close bonds between women in anime that persist against all odds.",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/27/feature-celebrating-the-resilience-of-female-friendship-through-anime",
+          "publishedOn": "2022-09-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: Celebrating The Resilience of Female Friendship Through Anime",
+          "imageUrl": null
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/the-eminence-in-shadow-master-of-garden-mobile-game-revealed",
           "author": "Joseph Luster",
@@ -8831,6 +9126,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/questioned-on-f16-assistance-to-pakistan-us-says-relationships-with-india-pakistan-distinct/article65942023.ece",
+          "author": "Sriram Lakshman",
+          "description": "India has repeatedly raised - at various levels - its objections to the U.S. assistance package for the F-16s",
+          "link": "https://www.thehindu.com/news/international/questioned-on-f16-assistance-to-pakistan-us-says-relationships-with-india-pakistan-distinct/article65942023.ece",
+          "publishedOn": "2022-09-27T15:19:52.000Z",
+          "wordCount": 6391,
+          "title": "Questioned on F-16 assistance to Pakistan, U.S. says relationships with India, Pakistan distinct",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/zf03t8/article65943067.ece/alternates/LANDSCAPE_615/IMG_IMG_INDIA-KASHMIR_PA_2_1_O2A8U74Q.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece",
           "author": "AFP",
           "description": "Myanmar has been in chaos since the military seized power in a coup in February last year, with nearly 2,300 civilians killed in a crackdown on dissent",
@@ -9527,6 +9832,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-who-are-three-congress-mlas-facing-disciplinary-action/articleshow/94488075.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress disciplinary committee on Tuesday issued show-cause notice to three loyalists from Rajasthan chief minister Ashok Gehlot's camp- S.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-who-are-three-congress-mlas-facing-disciplinary-action/articleshow/94488075.cms",
+          "publishedOn": "2022-09-27T15:48:38.000Z",
+          "wordCount": 5842,
+          "title": "Rajasthan political crisis: Who are three Congress MLAs facing disciplinary action?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94488502,width-1070,height-580,imgsize-1038944,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/when-she-refused-to-become-a-prostitute-she-was-found-dead-rahul-slams-bjp-govt-over-ankita-bhandari-murder-case/articleshow/94488155.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Slamming the BJP government in Uttarakhand over Ankita Bhandari murder case, Congress MP Rahul Gandhi on Tuesday said the only reason she i.",
+          "link": "https://timesofindia.indiatimes.com/india/when-she-refused-to-become-a-prostitute-she-was-found-dead-rahul-slams-bjp-govt-over-ankita-bhandari-murder-case/articleshow/94488155.cms",
+          "publishedOn": "2022-09-27T15:28:32.000Z",
+          "wordCount": 6135,
+          "title": "She is dead as she refused to become a prostitute: Rahul slams BJP govt over Ankita Bhandari murder",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94488180,width-1070,height-580,imgsize-23426,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-observers-submit-report-on-rajasthan-developments-to-sonia-gandhi-key-points/articleshow/94487460.cms",
           "author": null,
@@ -10895,6 +11220,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/in-wealthy-dubai-poor-get-free-bread-from-machines/articleshow/94487383.cms",
+          "author": null,
+          "description": "With the cost of living surging, free hot bread distribution for the poor has been introduced in Dubai, a rich Gulf emirate where millionaires rub shoulders with hard-working migrants.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/in-wealthy-dubai-poor-get-free-bread-from-machines/articleshow/94487383.cms",
+          "publishedOn": "2022-09-27T14:42:36.000Z",
+          "wordCount": 9320,
+          "title": "In wealthy Dubai, poor get free bread from machines",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487644,width-1070,height-580,imgsize-27644,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/officials-say-98000-russians-enter-kazakhstan-after-call-up/articleshow/94487371.cms",
+          "author": null,
+          "description": "About 98,000 Russians have crossed into Kazakhstan in the week since President Vladimir Putin announced a partial mobilization of reservists to fight in Ukraine, Kazakh officials said Tuesday, as men seeking to avoid the call-up continued to flee by land and air into neighboring countries.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/officials-say-98000-russians-enter-kazakhstan-after-call-up/articleshow/94487371.cms",
+          "publishedOn": "2022-09-27T14:41:39.000Z",
+          "wordCount": 6901,
+          "title": "Officials say 98,000 Russians enter Kazakhstan after call-up",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94487550,width-1070,height-580,imgsize-58876,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/uk/rishi-sunak-supporters-speak-out-as-uk-economy-spirals-under-liz-truss/articleshow/94486601.cms",
           "author": null,
           "description": "UK News: LONDON: The supporters of Rishi Sunak in the Conservative Party leadership race, which concluded earlier this month with opponent Liz Truss as British.",
@@ -11839,6 +12184,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-salman-khan-to-host-friday-and-saturday-ka-vaar-instead-of-the-usual-weekend-ka-vaar/articleshow/94488107.cms",
+          "author": null,
+          "description": "Bigg Boss 16 is all set to leave the fans stunned, host Salman Khan looked smart in an all-black avatar at the launch press meet today (September 27). While interacting with the media, Salman Khan was informed by Bigg Boss himself that this time the host will meet the contestants on Friday and Saturday instead of their usual weekend meet.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-salman-khan-to-host-friday-and-saturday-ka-vaar-instead-of-the-usual-weekend-ka-vaar/articleshow/94488107.cms",
+          "publishedOn": "2022-09-27T15:29:36.000Z",
+          "wordCount": 9271,
+          "title": "BB 16: Salman to host Friday and Saturday ka Vaar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94488403,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94488403.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/failed-to-defend-targets-because-of-dew-india-batting-coach-vikram-rathour/articleshow/94486763.cms",
           "author": null,
           "description": "Defending targets in T20 Internationals has been a grey area for the Indian team but batting coach Vikram Rathour surprisingly cited \"dew\" being a factor which was not the case when the team played in the recently concluded Asia Cup.",
@@ -11847,6 +12202,16 @@
           "wordCount": 7204,
           "title": "Failed to defend targets because of dew: India batting coach",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94486827,width-1070,height-580,imgsize-48756,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/policy-and-industry/ev-fires-morth-govt-pushes-new-ev-battery-safety-norms-deadline-to-1-december-2022/articleshow/94483436.cms",
+          "author": null,
+          "description": "The new EV battery safety norms will be brought into effect in two phases. Phase 1 will begin on 1 December 2022 and Phase 2 will come into effect on 31 March 2023. Following the recent incidents of EV fires, the government set up a committee to investigate the matter. As a result, MoRTH introduced additional safety provisions.",
+          "link": "https://timesofindia.indiatimes.com/auto/policy-and-industry/ev-fires-morth-govt-pushes-new-ev-battery-safety-norms-deadline-to-1-december-2022/articleshow/94483436.cms",
+          "publishedOn": "2022-09-27T13:51:13.000Z",
+          "wordCount": 6721,
+          "title": "Govt pushes EV battery safety norms deadline to December",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94483436,width-1070,height-580,imgsize-29458,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/europe/gas-leaks-in-russian-pipelines-to-europe-stoke-sabotage-fears/articleshow/94486426.cms",
@@ -12287,6 +12652,16 @@
           "wordCount": 6771,
           "title": "Ankita murder: Uttarakhand resort a den of prostitution & drug abuse, say ex-staffers",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94465549,width-1070,height-580,imgsize-106048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/in-charts-why-india-is-an-outlier-in-an-uncertain-global-world/articleshow/94465016.cms",
+          "author": null,
+          "description": "In a “reverse-Goldilocks” economy – where the global economy and policymakers are confronted with a stagflationary supply shock that is negative for growth and will tend to push up inflation further- SBI thinks India has emerged as an outlier.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/in-charts-why-india-is-an-outlier-in-an-uncertain-global-world/articleshow/94465016.cms",
+          "publishedOn": "2022-09-27T01:16:49.000Z",
+          "wordCount": 9114,
+          "title": "Explained: Why India is an outlier in an uncertain global world",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465324,width-1070,height-580,imgsize-66992,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/home/science/bam-nasa-spacecraft-crashes-into-asteroid-in-defense-test/articleshow/94465323.cms",

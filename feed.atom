@@ -2,10 +2,347 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T15:13:22.823Z</updated>
+    <updated>2022-09-27T16:18:29.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s latest One UI beta tries iOS 16-like lock screen customization on Android]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374696/samsung-oneui-beta-lock-screen-customization-iphone-ios16</id>
+        <link href="https://www.theverge.com/2022/9/27/23374696/samsung-oneui-beta-lock-screen-customization-iphone-ios16"/>
+        <updated>2022-09-27T16:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Allison Johnson / The Verge
+    
+
+  
+Samsung’s third One UI 5.0 beta arrived late last week, and users have started noticing that the lock screen customization options look pretty darn similar to those introduced by Apple in iOS 16 earlier this month (via 9to5Mac). While Samsung has been letting users customize their lock screens for years now, whether through its Good Lock app or its One UI system, its most recent update seems to take a lot of inspiration from Apple (although inspiration can flow in both directions).
+Lock screen customization is one of the biggest changes in iOS 16, as Apple introduced widgets, new wallpaper options, and the ability to tweak everything from font type, colors, wallpaper filters, and more. The latest version of the beta gives Samsung users more con…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harry Styles In Rarified Air as He Simultaneously Tops Box Office and Singles Chart]]></title>
+        <id>https://www.rollingstone.com/?p=1234600231</id>
+        <link href="https://www.rollingstone.com/music/music-news/harry-styles-in-tops-box-office-hot-100-chart-as-it-was-dont-worry-darling-1234600231/"/>
+        <updated>2022-09-27T16:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Styles joins the likes of Eminem, Beyonce and Prince in accomplishing the rare feat]]></summary>
+        <author>
+            <name>Ethan Millman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Tweedy Joins Norah Jones to Talk Hardcore Fans and Live Performances on ‘Playing Along’ Debut Podcast Episode]]></title>
+        <id>https://www.rollingstone.com/?p=1234600677</id>
+        <link href="https://www.rollingstone.com/music/music-news/jeff-tweedy-norah-jones-playing-along-debut-podcast-episode-1234600677/"/>
+        <updated>2022-09-27T16:09:12.000Z</updated>
+        <summary type="html"><![CDATA[The pair also performed a five-song set together featuring Tweedy's ‘Jesus, Etc.,’ ‘Muzzle of Bees’ and ‘Sunken Treasure’ for the newly-launched podcast]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s latest driver fixes Windows 11 2022 Update stutters and frame rates]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374882/nvidia-geforce-driver-windows-11-2022-update-stutter-frame-rate-issues</id>
+        <link href="https://www.theverge.com/2022/9/27/23374882/nvidia-geforce-driver-windows-11-2022-update-stutter-frame-rate-issues"/>
+        <updated>2022-09-27T16:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Image: Nvidia
+    
+
+  
+Nvidia is releasing an important driver update today for those on the latest Windows 11 2022 Update. The new Game Ready 517.48 driver fixes an issue with the GeForce Experience overlay causing stuttering and frame rate drops with Microsoft’s latest Windows 11 2022 Update.
+Many Nvidia users had reported the issues last week, and Nvidia quickly issued a beta fix ahead of this new driver today. Alongside the big fixes for Windows 11, this new driver also includes additional Deep Learning Super Sampling (DLSS) support for Microsoft Flight Simulator.
+Image: Microsoft
+      Nvidia’s latest driver introduces full DLSS 2 support in Microsoft Flight Simulator.
+  
+“Developer Asobo Studio has just launched Sim Update 10, with the integration of NVIDIA DLSS 2,” explains Nvidia’s Andrew Burnes. “To take full advantage of this technology, our new Game Ready Driver is a required update.”
+This latest driver is also optimized for Overwatch 2, which arrives as a free-to-play title on October 4th. Nvidia’s latency-reducing Reflex technology will also be supported in Overwatch 2. Four more G-Sync compatible displays are also supported in this new driver, including Sony’s new Inzone gaming monitors.
+You can download Nvidia’s latest 517.48 driver for both Windows 10 and Windows 11 over at Nvidia’s download page.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘Best of Friends,’ by Kamila Shamsie]]></title>
+        <id>https://www.nytimes.com/2022/09/27/books/review/best-of-friends-kamila-shamsie.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/books/review/best-of-friends-kamila-shamsie.html"/>
+        <updated>2022-09-27T16:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Kamila Shamsie’s new novel, “Best of Friends,” follows its title characters from their Pakistani girlhoods to their adult lives in London.]]></summary>
+        <author>
+            <name>Molly Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bullet Train’s two best blokes pal around in the jauntiest blooper reel]]></title>
+        <id>https://www.polygon.com/23373124/bullet-train-blooper-reel</id>
+        <link href="https://www.polygon.com/23373124/bullet-train-blooper-reel"/>
+        <updated>2022-09-27T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Scott Garfield/Sony Pictures
+    
+
+  
+And they’re even more fun in the movie
+ Bullet Train was one of this summer’s non-franchise delights, a violent action-comedy best described as John Wick by way of Looney Tunes. With its theatrical run now firmly behind it, the cinematic pain train from the director of Deadpool 2 is about to arrive at its next stop: video on-demand. 
+A madcap action movie about a semi-retired assassin named Ladybug (Brad Pitt) trying his best to get a suitcase off a train full of other assassins who want the same thing, Bullet Train is the kind of movie one imagines was as fun to make as the comedy on screen. A behind-the-scenes look at the film, which arrives with the home video release, confirms as such. As a little teaser, Polygon can exclusively share a brief blooper reel, which mostly features two of the movies best characters, the duo Tangerine (Aaron Taylor-Johnson) and Lemon (Brian Tyree Henry), pal-ing around when they should be doing stuff like hurting people.
+Bullet Train is now available on VOD, and arrives on DVD, Blu-ray, and Ultra HD on October 18.]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You're Expecting]]></title>
+        <id>1849585984</id>
+        <link href="https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984"/>
+        <updated>2022-09-27T16:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games, the company behind Fortnite and Fall Guys, has unleashed another “F” into the world by adding an NFT-based video game to its online store: Fuck, are we still doing this crypto-baby thing?
+
+Read more...]]></summary>
+        <author>
+            <name>Ashley Bardhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In The Finals, a new squad shooter from Battlefield alumni, everything is destructible]]></title>
+        <id>https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha</id>
+        <link href="https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha"/>
+        <updated>2022-09-27T16:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Image: Embark Studios
+    
+
+  
+Nexon-backed Embark Studios shows its first game, a Running Man-style game show
+ Four years ago, Electronic Arts’ chief design officer left to co-found his own studio, created with Nexon’s backing. On Monday, Patrick Söderlund’s studio showed off its first game: The Finals, a squad-based, free-to-play multiplayer shooter inspired by sci-fi bloodsport narratives like Squid Game and The Running Man, where pretty much everything on the game’s maps can be destroyed.
+The Finals, said Embark Studios creative director Gustav Tilleby, is “a hero builder, not a hero shooter.” As shown in a debut trailer, players will have access to a variety of weapons and their tactical uses, from a katana and other melee weapons, to rocket launchers, and even a foam gun that can rei…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitmaker and Murderer: New Doc to Cover Phil Spector’s Career and Killing of Lana Clarkson]]></title>
+        <id>https://www.rollingstone.com/?p=1234600312</id>
+        <link href="https://www.rollingstone.com/music/music-news/phil-spector-lana-clarkson-docuseries-showtime-spector-trailer-1234600312/"/>
+        <updated>2022-09-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spector, an upcoming four-part series, will premiere on Showtime in November]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Stolen Babies of Spain]]></title>
+        <id>https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html"/>
+        <updated>2022-09-27T15:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Under Francisco Franco’s rule, thousands of newborns were secretly taken from hospitals and sold to wealthy Catholic families. Now they are beginning to uncover their own histories.]]></summary>
+        <author>
+            <name>Nicholas Casey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian campaign spent $100,000 on anti-Ukraine propaganda, Meta says]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda</id>
+        <link href="https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda"/>
+        <updated>2022-09-27T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Meta says it has disrupted a sophisticated Russian influence operation that operated across its own social platforms, Facebook and Instagram, as well as Twitter, YouTube, Telegram, and even LiveJournal.
+In a new report on removing coordinated inauthentic behavior, Meta says that the influence campaign originated in Russia and involved a “sprawling” network of more than 60 fake websites. In a bid for borrowed credibility, some of those sites impersonated mainstream European news outlets like Der Spiegel, The Guardian and Bild.
+Social media accounts within the network shared spoofed articles from these news outlets, mostly criticizing Ukraine and Ukrainian refugees or arguing against sanctions placed on Russia. Content in the spoofed articles …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alchemist Accelerator announces new leadership alongside its latest class of companies]]></title>
+        <id>https://techcrunch.com/?p=2408667</id>
+        <link href="https://techcrunch.com/2022/09/27/alchemist-accelerator-demo-day/"/>
+        <updated>2022-09-27T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Alchemist Accelerator, the enterprise-focused startup incubator, is hosting a Demo Day today for its 31st batch of companies. For many of these companies, it’s the first time they’ve shown their efforts to the world. The accelerator itself, meanwhile, has some news: new leadership. Rachel Chalmers, formerly the head of AlchemistX (a division of Alchemist that […]
+Alchemist Accelerator announces new leadership alongside its latest class of companies by Greg Kumparak originally published on TechCrunch]]></summary>
+        <author>
+            <name>Greg Kumparak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajasthan political crisis: Who are three Congress MLAs facing disciplinary action?]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-who-are-three-congress-mlas-facing-disciplinary-action/articleshow/94488075.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-who-are-three-congress-mlas-facing-disciplinary-action/articleshow/94488075.cms"/>
+        <updated>2022-09-27T15:48:38.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Congress disciplinary committee on Tuesday issued show-cause notice to three loyalists from Rajasthan chief minister Ashok Gehlot's camp- S.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 Dev On The Million-Player Revival: 'It's F****** Good To Be Back']]></title>
+        <id>1849585913</id>
+        <link href="https://kotaku.com/cyberpunk-2077-netflix-anime-edgerunners-cdpr-steam-1849585913"/>
+        <updated>2022-09-27T15:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Cyberpunk 2077’s launch has been one of the messiest in recent history. Praised in many initial reviews on PC, so broken on last-gen consoles it was pulled from the PlayStation Store, and then saddled with post-launch delays as players waited for promised fixes and new content. Now, nearly two years later, the…
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best wireless earbuds to buy right now]]></title>
+        <id>https://www.theverge.com/21309820/best-wireless-earbuds</id>
+        <link href="https://www.theverge.com/21309820/best-wireless-earbuds"/>
+        <updated>2022-09-27T15:45:56.000Z</updated>
+        <summary type="html"><![CDATA[The current earbuds lineup is the strongest to date.
+    
+
+
+  
+The best from Apple, Bose, Samsung, Sony, Beats, Google, and more
+ It’s hard to buy a bad pair of wireless earbuds these days. The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance, all for the sake of ditching cables. Things are much different now. After several product generations of learned lessons, companies like Sony, Apple, Samsung, and others are releasing their most impressive earbuds to date. 
+You can get phenomenal noise cancellation and sound quality in the premium tier of earbuds if you’re willing to spend big. But those aren’t always the most important criteria for everyone: maybe you’re looking for the perfect fitness …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holy F–king F–k. That Maroon 5 Las Vegas Residency of Yours is Absurd]]></title>
+        <id>https://www.rollingstone.com/?p=1234600695</id>
+        <link href="https://www.rollingstone.com/music/music-news/maroon-5-las-vegas-residency-2023-adam-levine-1234600695/"/>
+        <updated>2022-09-27T15:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Band will play 16 shows in March, April, July, and August of next year]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta reports takedowns of influence ops targeting US midterms, Ukraine war]]></title>
+        <id>https://techcrunch.com/?p=2408546</id>
+        <link href="https://techcrunch.com/2022/09/27/meta-disinformation-china-russia-us-midterms-ukraine/"/>
+        <updated>2022-09-27T15:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Another bit of self-reporting from Meta today vis-a-vis internal efforts to identify and shut down political disinformation networks operating on its social platforms (aka “coordinated, inauthentic behavior” — or CIB — as it prefers to term it). Specifically, it’s reported taking down two, separate political disinformation networks — one “small” network originating from China which […]
+Meta reports takedowns of influence ops targeting US midterms, Ukraine war by Natasha Lomas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BB 16: Salman to host Friday and Saturday ka Vaar]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-salman-khan-to-host-friday-and-saturday-ka-vaar-instead-of-the-usual-weekend-ka-vaar/articleshow/94488107.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-salman-khan-to-host-friday-and-saturday-ka-vaar-instead-of-the-usual-weekend-ka-vaar/articleshow/94488107.cms"/>
+        <updated>2022-09-27T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Bigg Boss 16 is all set to leave the fans stunned, host Salman Khan looked smart in an all-black avatar at the launch press meet today (September 27). While interacting with the media, Salman Khan was informed by Bigg Boss himself that this time the host will meet the contestants on Friday and Saturday instead of their usual weekend meet.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She is dead as she refused to become a prostitute: Rahul slams BJP govt over Ankita Bhandari murder]]></title>
+        <id>https://timesofindia.indiatimes.com/india/when-she-refused-to-become-a-prostitute-she-was-found-dead-rahul-slams-bjp-govt-over-ankita-bhandari-murder-case/articleshow/94488155.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/when-she-refused-to-become-a-prostitute-she-was-found-dead-rahul-slams-bjp-govt-over-ankita-bhandari-murder-case/articleshow/94488155.cms"/>
+        <updated>2022-09-27T15:28:32.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Slamming the BJP government in Uttarakhand over Ankita Bhandari murder case, Congress MP Rahul Gandhi on Tuesday said the only reason she i.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anya Taylor-Joy owns the dark and twisty mayhem of The Menu]]></title>
+        <id>https://www.polygon.com/reviews/23373306/the-menu-review</id>
+        <link href="https://www.polygon.com/reviews/23373306/the-menu-review"/>
+        <updated>2022-09-27T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Eric Zachanowich/Searchlight Pictures
+    
+
+
+  
+Anya Taylor-Joy and Ralph Fiennes lead a delectable thriller
+ Polygon is on the ground at the 2022 Fantastic Fest, reporting on new horror, sci-fi, cult, and action movies making their way to theaters and streaming. This review was published in conjunction with the film’s Fantastic Fest premiere.
+2021’s movie scene of the year — the one that dominated critic and cinephile talk during awards season — came from Michael Sarnoski’s Pig, a deliriously violent but quiet thriller about Nicolas Cage’s ex-chef chasing down his stolen truffle pig. At one point, Cage’s character, Rob, a retired chef turned backwoods recluse, sits down in a ritzy haute cuisine restaurant and summons the chef, a former employee of his. Without raising his voice, Ro…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s $3,200 Per Day Union Busters Say This Is the Best Spot for Steak and Caviar in Albany]]></title>
+        <id>y3p5pb</id>
+        <link href="https://www.vice.com/en_us/article/y3p5pb/amazons-dollar3200-per-day-union-busters-say-this-is-the-best-spot-for-steak-and-caviar-in-albany"/>
+        <updated>2022-09-27T15:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon workers at ALB1 say anti-union consultants from out of town are holding captive audience meetings and making it difficult for workers to do their jobs.]]></summary>
+        <author>
+            <name>Jules Roscoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-GOP Politician Is Worried Far-Right Congressmen Have ‘Serious Cognitive Issues’]]></title>
+        <id>epz5z7</id>
+        <link href="https://www.vice.com/en_us/article/epz5z7/republican-denver-riggleman-book-paul-gosar"/>
+        <updated>2022-09-27T15:25:47.000Z</updated>
+        <summary type="html"><![CDATA[In a new book, onetime congressman Denver Riggleman made the allegation about Republicans Paul Gosar and Louie Gohmert due to his interactions with them.]]></summary>
+        <author>
+            <name>Paul Blest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calendly, the $3B+ scheduling startup, acquires Prelude to drive into the recruitment sector]]></title>
+        <id>https://techcrunch.com/?p=2408555</id>
+        <link href="https://techcrunch.com/2022/09/27/calendly-the-3b-scheduling-startup-acquires-prelude-to-drive-into-the-recruitment-sector/"/>
+        <updated>2022-09-27T15:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Calendly, the scheduling startup that landed with a splash last year when it raised a huge round out of nowhere at a $3 billion+ valuation, has made a name for itself for tools that are used by more than 10 million people to book appointments, arrange meetings, and plan any event that involves two or […]
+Calendly, the $3B+ scheduling startup, acquires Prelude to drive into the recruitment sector by Ingrid Lunden originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ingrid Lunden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA 23 Has Option Where Game Won't Tell You How Bad You Are]]></title>
+        <id>1849585596</id>
+        <link href="https://kotaku.com/fifa-23-ea-sports-football-commentary-criticism-soccer-1849585596"/>
+        <updated>2022-09-27T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you a FIFA fan? Are you also a  little baby-human who sometimes just doesn’t want to hear it? Then does EA have the new feature for you! FIFA 23, out for pre-orderers today, will let you turn off commentary that’s critical of how you’re playing. Alternative idea: play better?
+
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University Staff Warned They Could Be Fired for Providing Birth Control]]></title>
+        <id>qjkwkx</id>
+        <link href="https://www.vice.com/en_us/article/qjkwkx/university-of-idaho-abortion-birth-control"/>
+        <updated>2022-09-27T15:24:52.000Z</updated>
+        <summary type="html"><![CDATA[A memo also warned faculty they must “remain neutral” in speaking about abortion at all.]]></summary>
+        <author>
+            <name>Carter Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questioned on F-16 assistance to Pakistan, U.S. says relationships with India, Pakistan distinct]]></title>
+        <id>https://www.thehindu.com/news/international/questioned-on-f16-assistance-to-pakistan-us-says-relationships-with-india-pakistan-distinct/article65942023.ece</id>
+        <link href="https://www.thehindu.com/news/international/questioned-on-f16-assistance-to-pakistan-us-says-relationships-with-india-pakistan-distinct/article65942023.ece"/>
+        <updated>2022-09-27T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[India has repeatedly raised - at various levels - its objections to the U.S. assistance package for the F-16s]]></summary>
+        <author>
+            <name>Sriram Lakshman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflation Has Hit Tenants Hard. What About Their Landlords?]]></title>
+        <id>https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html"/>
+        <updated>2022-09-27T15:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Publicly traded corporate landlords are reporting some of their highest margins ever, while smaller operators say rent increases are eaten up by costs.]]></summary>
+        <author>
+            <name>Lydia DePillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uma Musume Franchise's New Short Anime Series Uma Yuru Premieres on October 16]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190262</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/uma-musume-franchise-new-short-anime-series-uma-yuru-premieres-on-october-16/.190262"/>
+        <updated>2022-09-27T15:15:42.000Z</updated>
+        <summary type="html"><![CDATA[1st 3 episodes debut on YouTube simultaneously]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The universe is a dangerous place. NASA just showed it was possible to defend Earth against it.]]></title>
         <id>https://www.vox.com/future-perfect/2022/9/27/23374653/nasa-asteroids-dart-existential-risk-extinction-planetary-defense-didymos</id>
@@ -94,6 +431,29 @@ So…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yuu Watase's Fushigi Yūgi: Byakko Senki Manga Returns in Fall 2023]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190246</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/yuu-watase-fushigi-yugi-byakko-senki-manga-returns-in-fall-2023/.190246"/>
+        <updated>2022-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Manga returns in Monthly Flowers magazine after going on hiatus in 2018]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FEATURE: Celebrating The Resilience of Female Friendship Through Anime]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/09/27/feature-celebrating-the-resilience-of-female-friendship-through-anime</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/09/27/feature-celebrating-the-resilience-of-female-friendship-through-anime"/>
+        <updated>2022-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five anime that show how the bonds between women are strengthened, not weakened, by their differences
+
+
+The "power of friendship" trope is a classic of manga and anime. The closeness, the empathy, the altruism: it's all so heartwarming I could explode. But why should boys have all the fun? Hit the jump to see some shining examples of close bonds between women in anime that persist against all odds.]]></summary>
+        <author>
+            <name>Manas B. Sharma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Myanmar school attack could be &#039;war crime&#039;: UN probe]]></title>
         <id>https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece</id>
         <link href="https://www.thehindu.com/news/international/myanmar-school-attack-could-be-war-crime-un-probe/article65942967.ece"/>
@@ -141,6 +501,26 @@ So…]]></summary>
         <summary type="html"><![CDATA[The pipelines have been at the centre of geopolitical tensions in recent months as Russia cut gas supplies to Europe]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In wealthy Dubai, poor get free bread from machines]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/in-wealthy-dubai-poor-get-free-bread-from-machines/articleshow/94487383.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/in-wealthy-dubai-poor-get-free-bread-from-machines/articleshow/94487383.cms"/>
+        <updated>2022-09-27T14:42:36.000Z</updated>
+        <summary type="html"><![CDATA[With the cost of living surging, free hot bread distribution for the poor has been introduced in Dubai, a rich Gulf emirate where millionaires rub shoulders with hard-working migrants.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Officials say 98,000 Russians enter Kazakhstan after call-up]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/officials-say-98000-russians-enter-kazakhstan-after-call-up/articleshow/94487371.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/officials-say-98000-russians-enter-kazakhstan-after-call-up/articleshow/94487371.cms"/>
+        <updated>2022-09-27T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[About 98,000 Russians have crossed into Kazakhstan in the week since President Vladimir Putin announced a partial mobilization of reservists to fight in Ukraine, Kazakh officials said Tuesday, as men seeking to avoid the call-up continued to flee by land and air into neighboring countries.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -380,6 +760,16 @@ The Alpha looks starkly different from either the gigantic original Freewrite or
         <summary type="html"><![CDATA[The DART test is humanity's first strike against potential annihilation by an asteroid in the future. And you can watch the moment it happened.]]></summary>
         <author>
             <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt pushes EV battery safety norms deadline to December]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/policy-and-industry/ev-fires-morth-govt-pushes-new-ev-battery-safety-norms-deadline-to-1-december-2022/articleshow/94483436.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/policy-and-industry/ev-fires-morth-govt-pushes-new-ev-battery-safety-norms-deadline-to-1-december-2022/articleshow/94483436.cms"/>
+        <updated>2022-09-27T13:51:13.000Z</updated>
+        <summary type="html"><![CDATA[The new EV battery safety norms will be brought into effect in two phases. Phase 1 will begin on 1 December 2022 and Phase 2 will come into effect on 31 March 2023. Following the recent incidents of EV fires, the government set up a committee to investigate the matter. As a result, MoRTH introduced additional safety provisions.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1610,6 +2000,16 @@ Walmart Land and Universe of Play are virtual lobbies. Inside are a variety of m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is Matcha Good for You?]]></title>
+        <id>https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html"/>
+        <updated>2022-09-27T09:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The brightly colored powdered green tea has become popular among health-conscious consumers. Does it have any nutritional benefits?]]></summary>
+        <author>
+            <name>Annie Sneed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ron DeSantis Is Making an Asylum Crisis of His Own]]></title>
         <id>https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html</id>
         <link href="https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html"/>
@@ -1657,6 +2057,16 @@ Walmart Land and Universe of Play are virtual lobbies. Inside are a variety of m
         <summary type="html"><![CDATA[The committee investigating what led to the Jan. 6 attack on the Capitol will hold its first hearing since July on Wednesday, entering the final stage of its inquiry.]]></summary>
         <author>
             <name>Luke Broadwater and Katie Benner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Political Winds Blowing in Republicans’ Favor Again?]]></title>
+        <id>https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html"/>
+        <updated>2022-09-27T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[There are some signs of a drift toward issues where the party has an advantage, like the economy and immigration.]]></summary>
+        <author>
+            <name>Nate Cohn</name>
         </author>
     </entry>
     <entry>
@@ -2978,6 +3388,16 @@ Delicious Party Pretty Cure the Movie: Dreamy Children's Lunch!, the 31st featur
         <link href="https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-resort-was-hub-of-prostitution-drugs-say-former-staffers/articleshow/94465509.cms"/>
         <updated>2022-09-27T01:37:33.000Z</updated>
         <summary type="html"><![CDATA[Amid the ongoing probe in the Ankita Bhandari murder case, former staffers of main-accused Pulkit Arya's resort have come forward to tell police that the site was a "den of prostitution and drug abuse." Staffers claimed that Pulkit, son of now-expelled BJP leader Vinod Arya, used to "mentally harass the employees" and "frame" anyone trying to quit with "false cases of theft and assault".]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explained: Why India is an outlier in an uncertain global world]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/in-charts-why-india-is-an-outlier-in-an-uncertain-global-world/articleshow/94465016.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/in-charts-why-india-is-an-outlier-in-an-uncertain-global-world/articleshow/94465016.cms"/>
+        <updated>2022-09-27T01:16:49.000Z</updated>
+        <summary type="html"><![CDATA[In a “reverse-Goldilocks” economy – where the global economy and policymakers are confronted with a stagflationary supply shock that is negative for growth and will tend to push up inflation further- SBI thinks India has emerged as an outlier.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
