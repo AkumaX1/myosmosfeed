@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23374420/lg-oled-transparent-train-ads-subway-display",
+          "author": null,
+          "description": "LG Display’s ‘Transparent OLED for Subway Trains’ are already in use within some Chinese trains and Japanese subways. | Image: LG Display\n    \n\n  \nLG Display is showcasing its “Transparent OLED for Subway Trains” at InnoTrans 2022, the world’s largest trade fair for transport technology, where it will feature as a replacement for windows in a concept train from Deutsche Bahn, Germany’s national railway company. The OLED window can be transparent or opaque depending on what it’s displaying. LG Display is using the show in Berlin to expand transparent panel sales to North American and European transport companies.\nLG Display has been supplying transparent OLED displays to transport companies in China and Japan since 2020, so we can already see it in action within a number of subway trains in…",
+          "link": "https://www.theverge.com/2022/9/27/23374420/lg-oled-transparent-train-ads-subway-display",
+          "publishedOn": "2022-09-27T10:53:11.000Z",
+          "wordCount": 12554,
+          "title": "Please don’t let ads on transparent OLED ‘windows’ ruin train journeys",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4j-O2BTmfZ2K6OUI6emDtfkfb-c=/0x0:1492x1005/1200x628/filters:focal(746x503:747x504)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057899/20220920_081038.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse",
           "author": null,
           "description": "Walmart has launched a pair of “immersive experiences” in online gaming platform Roblox. The retailer is presenting the launch as an ambitious move into the metaverse, but the “experiences” — two online worlds dubbed Walmart Land and Walmart’s Universe of Play — are really just ways to advertise toys to children. Roblox may seem trivial, but it has more than 50 million daily active users, two-thirds of which are under the age of 16. That means it’s probably Walmart experimenting with virtual worlds to try and hook this market. \nWalmart Land and Universe of Play are virtual lobbies. Inside are a variety of minigames and experiences, including a Ferris wheel, “interactive piano walkway,” and DJ booth, most of which serve to funnel players towards certain brands. So, for example, a virtual dr…",
@@ -548,6 +558,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html",
+          "author": "David Leonhardt",
+          "description": "Why are Chinese boats catching so many fish off the Galápagos Islands?",
+          "link": "https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html",
+          "publishedOn": "2022-09-27T10:48:19.000Z",
+          "wordCount": null,
+          "title": "China’s Huge Appetite for Fish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html",
+          "author": "Michael Barbaro, Rob Szypko, Jessica Cheung, Luke Vander Ploeg, Mooj Zadie, MJ Davis Lin, John Ketchum, Marion Lozano, Elisheba Ittoop and Chris Wood",
+          "description": "As the coronavirus swept the United States, the government spent vast sums to help shield the economy. But billions of dollars of that aid disappeared.",
+          "link": "https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html",
+          "publishedOn": "2022-09-27T10:04:46.000Z",
+          "wordCount": null,
+          "title": "Why Was Pandemic Fraud So Easy?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/27/us/politics/fetterman-oz-crime-justice.html",
           "author": "Trip Gabriel",
@@ -2019,6 +2049,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/22/arts/design/david-drake-enslaved-potters-met-museum.html",
+          "author": "Roberta Smith",
+          "description": "Before the Civil War, an enslaved artisan from South Carolina created storage vessels that transcend ceramic traditions.",
+          "link": "https://www.nytimes.com/2022/09/22/arts/design/david-drake-enslaved-potters-met-museum.html",
+          "publishedOn": "2022-09-22T20:10:00.000Z",
+          "wordCount": null,
+          "title": "The Magnificent Poem Jars of David Drake, Center Stage at the Met",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html",
           "author": null,
           "description": "Blondshell, Central Cee, Ethel Cain and more: a conversation about what’s breaking through, plus questions from the audience at our first live taping.",
@@ -3311,6 +3351,36 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2404398",
+          "author": "Kyle Wiggers",
+          "description": "Data cleansing — prepping data for applications like predictive analytics — takes time. In fact, data scientists spend an estimated 60% of their time cleaning and organizing data, according to one recent survey. It’s not just time that’s lost. According to Experian, “dirty data” costs the average business 15% to 25% of their revenue and […]\nDocument onboarding startup Flatfile nabs $50M from investors, including Workday by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
+          "publishedOn": "2022-09-27T11:00:32.000Z",
+          "wordCount": 6648,
+          "title": "Document onboarding startup Flatfile nabs $50M from investors, including Workday",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408283",
+          "author": "Kate Park",
+          "description": "AmazeVR, a Los Angeles-based virtual concert platform, said Tuesday it has raised a $17 million funding round to create immersive music experiences through virtual reality (VR) concerts. Like other industries, the entertainment sector was affected by the coronavirus lockdown. Many music artists had to cancel or push back their live events during the pandemic. Some […]\nAmazeVR wants to scale its virtual concert platform with $17M funding by Kate Park originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/amazevr-wants-to-scale-its-virtual-concert-platform-with-17m-funding/",
+          "publishedOn": "2022-09-27T11:00:08.000Z",
+          "wordCount": 5868,
+          "title": "AmazeVR wants to scale its virtual concert platform with $17M funding",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/AmazeVR-.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408455",
+          "author": "Manish Singh",
+          "description": "India’s financial crime fighting agency searched the premises of Coda Payments India, distributor of Sea’s Free Fire, as part of an investigation. The Enforcement Directorate said in a tweet Tuesday that it searched three premises of Coda Payments India as part of an “ongoing investigation” into the distributor and Free Fire, a title that New […]\nIndia searches premises, freezes bank accounts in ongoing Free Fire investigation by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/india-searches-premises-freezes-bank-accounts-in-ongoing-free-fire-investigation/",
+          "publishedOn": "2022-09-27T10:44:05.000Z",
+          "wordCount": 5424,
+          "title": "India searches premises, freezes bank accounts in ongoing Free Fire investigation",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1237931798.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2406315",
           "author": "Kyle Wiggers",
           "description": "IT systems are becoming increasingly complex, what with the mass move to the cloud during the pandemic. The modern data stack consists of hundreds of tools for app development, data capture and integration, orchestration, analysis and storage. And it’s getting bigger and more convoluted by the day. According to Productiv, a software-as-a-service app management startup, […]\nUnravel Data lands $50M to make sense of complex data stacks by Kyle Wiggers originally published on TechCrunch",
@@ -4068,6 +4138,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "4axnnb",
+          "author": "Helen Nguyen",
+          "description": "Braise black pepper and fish sauce-marinated pork belly in coconut juice until golden and tender, then serve with fluffy rice and bright pickled mustard greens in this essential Vietnamese recipe.",
+          "link": "https://www.vice.com/en_us/article/4axnnb/black-pepper-braised-pork-belly",
+          "publishedOn": "2022-09-27T11:00:00.000Z",
+          "wordCount": 3440,
+          "title": "Black Pepper-Braised Pork Belly",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6317a15cb2a819009e6f15ae/lede/1662493595695-black-pepper-pork-belly-recipe.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6317a15cb2a819009e6f15ae/lede/1662493595695-black-pepper-pork-belly-recipe.jpeg"
+        },
+        {
           "id": "jgpvq7",
           "author": "Annabel Gat",
           "description": "Mercury retrograde i connects with Pluto in Capricorn and the moon enters Scorpio today.",
@@ -4569,6 +4654,26 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/recode/2022/9/27/23373134/philanthropy-giving-decline-billionaires",
+          "author": null,
+          "description": "Amanda Northrop/Vox\n    \n\n\n  \nThe ultrawealthy are donating more than ever. That doesn’t mean the rest of us are giving less.\n Over the past two decades, fewer and fewer Americans have given to charity.\nIn 2000, roughly two-thirds of American households gave to a charitable organization. In 2018, just under half of American households did. In other words, about 20 million Americans had stopped giving.\nWhile the amount of money going to charity in the US keeps growing — last year, giving exceeded $480 billion — the number of Americans giving to charity has shrunk. And there hasn’t been an easy explanation for why so many had stopped.\nUnless, of course, they actually hadn’t stopped.\nIn recent years, researchers have begun questioning how the philanthropy sector tracks charitable giving. Ofte…",
+          "link": "https://www.vox.com/recode/2022/9/27/23373134/philanthropy-giving-decline-billionaires",
+          "publishedOn": "2022-09-27T11:00:00.000Z",
+          "wordCount": 4134,
+          "title": "Billionaires get too much credit for philanthropy",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4yK6SdXG1p7vFQQnrsm_P88cehE=/0x210:3000x1781/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055998/giving03.jpg"
+        },
+        {
+          "id": "https://www.vox.com/recode/2022/9/27/23373588/amazon-warehouse-robots-manipulation-picker-stower",
+          "author": null,
+          "description": "A robot sorts and stacks bins at an Amazon fulfillment center in Eastvale on August 31, 2021. | Watchara Phomicinda/MediaNews Group/The Press-Enterprise via Getty Images\n    \n\n  \nA new Amazon robot handles 1,000 items an hour.\n In 2019, Amazon founder Jeff Bezos predicted that within a decade, robotic systems will be advanced enough to grasp items with the dexterity of a human hand. Three years later, Amazon looks to be making progress toward that goal. \nA recent video published on the company’s science blog features a new “pinch-grasping” robot system that could one day do a lot of the work that humans in Amazon warehouses do today. Or, potentially, help workers do their jobs more easily. \nThe topic of warehouse automation is more relevant than ever in the retail and e-commerce industries…",
+          "link": "https://www.vox.com/recode/2022/9/27/23373588/amazon-warehouse-robots-manipulation-picker-stower",
+          "publishedOn": "2022-09-27T10:30:00.000Z",
+          "wordCount": 3438,
+          "title": "Amazon’s robots are getting closer to replacing human hands",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/MYFVn6Bvq6lpGBSR-PW4_GTpZKk=/0x283:3971x2362/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24056770/1235434266.jpg"
+        },
         {
           "id": "https://www.vox.com/science-and-health/23372996/hurricane-ian-tampa-florida-miami-storm-surge-flood",
           "author": null,
@@ -5908,6 +6013,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "52f27a18-bbb0-48d5-8357-754cefc2821e",
+          "author": "Ryan Leston",
+          "description": "Cyberpunk 2077 quest director Pawel Sasko says it's \"f**king good to be back\" after the game's recent surge in players.",
+          "link": "https://www.ign.com/articles/cyberpunk-2077-quest-director-emotional-about-resurgence",
+          "publishedOn": "2022-09-27T09:27:04.000Z",
+          "wordCount": 8619,
+          "title": "Cyberpunk 2077 Quest Director Gets Emotional About Resurgence: 'It's F**king Good to be Back'",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/12/cp2077-1560124248134-1653396345233-1662993661649.png?width=1280"
+        },
+        {
           "id": "304de5d2-113d-40ec-a9c1-c52baf87a7c4",
           "author": "Adam Mathew",
           "description": "Now is the time to stock up your PlayStation, PC, Switch and Xbox libraries with cheap games. We've also got the skinny on the lowest price preorders!",
@@ -6261,6 +6376,36 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190253",
+          "author": null,
+          "description": "EA Originals and Koei Tecmo Games' Omega Force studio revealed the title of its upcoming hunting game Wild Hearts on Tuesday. The companies will begin...",
+          "link": "https://www.animenewsnetwork.com/daily-briefs/2022-09-27/ea-omega-force-collaboration-game-gets-title-date-for-reveal-trailer/.190253",
+          "publishedOn": "2022-09-27T10:33:00.000Z",
+          "wordCount": 3291,
+          "title": "EA, Omega Force's Collaboration Game Gets Title, Date for Reveal Trailer",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g1E/youtube/hxcnwH8TPEg.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190247",
+          "author": null,
+          "description": "Keita Iizuka launches new manga on October 25",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/record-of-ragnarok-manga-gets-new-spinoff-about-jack-the-ripper/.190247",
+          "publishedOn": "2022-09-27T10:03:00.000Z",
+          "wordCount": 3440,
+          "title": "Record of Ragnarok Manga Gets New Spinoff About Jack the Ripper",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK4/cms/news.5/190247/ragnarok.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190255",
+          "author": null,
+          "description": "Hina Yomiya, Toshiyuki Morikawa star in series about humans fighting against beasts",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/dmm-asahi-production-reveal-original-tv-anime-giant-beasts-of-ars-for-january-2023/.190255",
+          "publishedOn": "2022-09-27T10:01:27.000Z",
+          "wordCount": 3441,
+          "title": "DMM, Asahi Production Reveal Original TV Anime Giant Beasts of Ars for January 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFW/cms/news.5/190255/ars-kv.jpeg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190235",
           "author": null,
@@ -7049,6 +7194,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27/giant-beasts-of-ars-original-tv-anime-announced-for-january-2023",
+          "author": "Liam Dempsey",
+          "description": "Teaser visual and trailer, main cast and staff were revealed\n\n\nWe're about to enter an all-new fantasy world with Giant Beasts of Ars, an original anime series by Asahi Production that was just announced for January 2023. The main staff and cast plus a stunning teaser visual and trailer were released, so hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27/giant-beasts-of-ars-original-tv-anime-announced-for-january-2023",
+          "publishedOn": "2022-09-27T09:43:00.000Z",
+          "wordCount": 6058,
+          "title": "Giant Beasts of Ars Original TV Anime Announced for January 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/395a794e7135402cc0324c62206052af1664271035_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26/one-piece-film-red-passes-ponyo-to-be-6th-highest-grossing-anime-film-in-japan",
           "author": "Daryl Harding",
           "description": "The idol adventure film rises to 11th place on the all-time charts\n\n\nEven eight weeks on, One Piece Film Red continues to reign at the top of the Japanese box office. As previously reported, the Toei Animation-produced film stayed at number one this week with nearly 15.7 billion yen made at the Japanese box office overall. This has let the film pass Ponyo on the all-time charts. More after the jump!",
@@ -7137,6 +7292,16 @@
           "wordCount": 5993,
           "title": "Akiba Maid War Anime Brings the Battle to HIDIVE This Fall",
           "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/ca4536b696f0189b63f2cec9b857cee71664208832_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/26/quiz-how-much-do-you-know-about-overlord",
+          "author": "TheTwero",
+          "description": "We're deep into adventure with Lord Ains' in Overlord IV, and the time has come to test if you're an expert!\r\n\n\nHave you been keeping up with Ains' adventures in Overlord? Test your knowledge with this quiz!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/26/quiz-how-much-do-you-know-about-overlord",
+          "publishedOn": "2022-09-26T16:00:00.000Z",
+          "wordCount": null,
+          "title": "QUIZ: How Much Do You Know About Overlord?",
+          "imageUrl": null
         },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/kawaisugi-crisis-manga-gets-tv-anime-adaptation-in-2023",
@@ -7926,6 +8091,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/business/Industry/defence-manufacturer-saab-to-set-up-new-facility-in-india-make-weapons-system/article65941544.ece",
+          "author": "Reuters",
+          "description": "The Carl-Gustaf M4 is a recoilless rifle which has been ordered by the Indian armed forces.",
+          "link": "https://www.thehindu.com/business/Industry/defence-manufacturer-saab-to-set-up-new-facility-in-india-make-weapons-system/article65941544.ece",
+          "publishedOn": "2022-09-27T10:23:55.000Z",
+          "wordCount": 6082,
+          "title": "Defence manufacturer Saab to set up new facility in India, make weapons system",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/jul6f8/article65941577.ece/alternates/LANDSCAPE_615/vbk-Carl-Gustaf%20M4-saabwebsite2.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/famed-american-ski-mountaineer-missing-in-nepal-mountain/article65941048.ece",
           "author": "AP",
           "description": "Popular U. S. ski mountaineer Hilaree Nelson, 49, was skiing down from the 8,163-metre summit with her partner Jim Morrison when she fell off the mountain",
@@ -8562,6 +8737,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cats-dogs-super-sniffer-dog-squad-to-protect-namibian-cheetahs-from-poachers-at-kuno-national-park/articleshow/94479621.cms",
+          "author": null,
+          "description": "A five-month-old German Shepherd 'Ilu' is under training at Indo-Tibetan Border Police Force's National Training Centre for Dogs to join the 'Supper Sniffer' squad in Madhya Pradesh. Ilu will soon be deployed in Kuno National Park to protect the Namibian cheetahs from poachers. She is among the six dogs that are being trained to protect the wildlife at various national parks of the country.",
+          "link": "https://timesofindia.indiatimes.com/india/cats-dogs-super-sniffer-dog-squad-to-protect-namibian-cheetahs-from-poachers-at-kuno-national-park/articleshow/94479621.cms",
+          "publishedOn": "2022-09-27T10:47:15.000Z",
+          "wordCount": 6776,
+          "title": "Cats & Dogs: 'Super Sniffer' dog squad to protect Namibian cheetahs from poachers at Kuno National Park",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94479704,width-1070,height-580,imgsize-219588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/supreme-court-reserves-verdict-on-pleas-challenging-centres-10-per-cent-ews-quota/articleshow/94479129.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court on Tuesday reserved its verdict on a batch of pleas challenging the validity of the 103rd Constitution amendment providin.",
+          "link": "https://timesofindia.indiatimes.com/india/supreme-court-reserves-verdict-on-pleas-challenging-centres-10-per-cent-ews-quota/articleshow/94479129.cms",
+          "publishedOn": "2022-09-27T10:33:45.000Z",
+          "wordCount": 7509,
+          "title": "Supreme Court reserves verdict on pleas challenging Centre's 10 per cent EWS quota",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94479159,width-1070,height-580,imgsize-41464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-congress-crisis-afraid-false-news-being-reported-sachin-pilot-on-reports-about-him-saying-ashok-gehlot-shouldnt-remain-cm/articleshow/94478022.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Congress leader Sachin Pilot on Tuesday denied media reports stating that he told the party high command that Rajasthan chief minister Ashok G.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-congress-crisis-afraid-false-news-being-reported-sachin-pilot-on-reports-about-him-saying-ashok-gehlot-shouldnt-remain-cm/articleshow/94478022.cms",
+          "publishedOn": "2022-09-27T09:56:40.000Z",
+          "wordCount": 7019,
+          "title": "Rajasthan Congress crisis: Afraid false news being reported, Sachin Pilot on reports about him saying 'Ashok Gehlot shouldn't remain CM'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94478661,width-1070,height-580,imgsize-67588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sc-collegium-recommends-elevation-of-bombay-hc-chief-justice-datta-to-the-apex-court/articleshow/94474954.cms",
           "author": null,
@@ -9770,6 +9975,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94477788,width-1070,height-580,imgsize-88028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/new-estimates-place-pakistans-flood-losses-at-usd-28-billion/articleshow/94477031.cms",
+          "author": null,
+          "description": "Pakistan News: ISLAMABAD: The catastrophic floods that hit Pakistan has caused the country a whopping USD 28 billion in damages and it might take 2 to 10 years for t.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/new-estimates-place-pakistans-flood-losses-at-usd-28-billion/articleshow/94477031.cms",
+          "publishedOn": "2022-09-27T09:22:04.000Z",
+          "wordCount": 11115,
+          "title": "New estimates place Pakistan's flood losses at USD 28 billion",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94477851,width-1070,height-580,imgsize-75786,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-back-bids-of-india-and-japan-for-permanent-member-status-at-unsc-president-wickremesinghe/articleshow/94476617.cms",
           "author": null,
           "description": "South Asia News: COLOMBO: Sri Lankan President Ranil Wickremesinghe on Tuesday said his government will back the bids of India and Japan for permanent member status at.",
@@ -10664,6 +10879,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-moves-up-to-fifth-in-icc-odi-rankings/articleshow/94478763.cms",
+          "author": null,
+          "description": "Riding on her stupendous show against England, India captain Harmanpreet Kaur on Tuesday jumped four spots to reach the fifth spot in the ICC Women's ODI Player Rankings.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-moves-up-to-fifth-in-icc-odi-rankings/articleshow/94478763.cms",
+          "publishedOn": "2022-09-27T10:23:13.000Z",
+          "wordCount": 5809,
+          "title": "Harmanpreet Kaur moves up to fifth in ICC ODI rankings",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94478792,width-1070,height-580,imgsize-41530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-cases-expected-to-ramp-up-after-recent-rains-heres-all-you-should-do/photostory/94477643.cms",
+          "author": null,
+          "description": "A prolonged period of rain in previous weeks may raise the possibility of a rise in dengue incidents all around the country.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-cases-expected-to-ramp-up-after-recent-rains-heres-all-you-should-do/photostory/94477643.cms",
+          "publishedOn": "2022-09-27T09:55:07.000Z",
+          "wordCount": 10700,
+          "title": "Dengue cases expected to ramp up after rains: What you should do",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94478799.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/live-streaming-brings-supreme-court-closer-to-citizens-lets-use-this-service-responsibly/",
           "author": null,
           "description": "The commencement of live streaming of constitution bench proceedings by Supreme Court is a big moment for India’s judiciary. Irrespective of the geographical distance to New Delhi, which is a stumbling block in access to...",
@@ -10692,6 +10927,16 @@
           "wordCount": 11055,
           "title": "Gut problem common among those infected after Covid vaccination",
           "imageUrl": "https://static.toiimg.com/photo/msid-94475883.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-parekh-to-be-honoured-with-dada-saheb-phalke-award-at-national-film-awards-ceremony/articleshow/94474796.cms",
+          "author": null,
+          "description": "A five-member jury of Hema Malini, Poonam Dhillon, TS Nagabharana, Udit Narayan and Asha Bhonsle nominated her.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-parekh-to-be-honoured-with-dada-saheb-phalke-award-at-national-film-awards-ceremony/articleshow/94474796.cms",
+          "publishedOn": "2022-09-27T08:08:43.000Z",
+          "wordCount": 8968,
+          "title": "Asha Parekh to be honoured with Dada Saheb Phalke award",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94474866,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-842590/94474866.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/business/india-business/billionaire-gautam-adani-says-china-will-feel-increasingly-isolated/articleshow/94474657.cms",
