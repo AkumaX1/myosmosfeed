@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T09:20:16.228Z</updated>
+    <updated>2022-09-27T10:13:25.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unravel Data lands $50M to make sense of complex data stacks]]></title>
+        <id>https://techcrunch.com/?p=2406315</id>
+        <link href="https://techcrunch.com/2022/09/27/unravel-data-lands-50m-to-make-sense-of-complex-data-stacks/"/>
+        <updated>2022-09-27T10:00:40.000Z</updated>
+        <summary type="html"><![CDATA[IT systems are becoming increasingly complex, what with the mass move to the cloud during the pandemic. The modern data stack consists of hundreds of tools for app development, data capture and integration, orchestration, analysis and storage. And it’s getting bigger and more convoluted by the day. According to Productiv, a software-as-a-service app management startup, […]
+Unravel Data lands $50M to make sense of complex data stacks by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tatsumeeko strikes partnership with Immutable X to enhance its gameplay]]></title>
+        <id>https://techcrunch.com/?p=2407330</id>
+        <link href="https://techcrunch.com/2022/09/27/tatsumeeko-strikes-partnership-with-immutable-x-to-enhance-its-gameplay/"/>
+        <updated>2022-09-27T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Tatsumeeko, a role-playing game on Ethereum and Solana created by the team behind Discord chatbot Tatsu.GG, announced today it has struck a partnership with Immutable X (IMX). The partnership’s goal is to enhance Tatsumeeko’s gameplay experience by focusing on trackable ownership and transfer of in-game assets. Immutable X is a layer-2 Ethereum scaling solution that […]
+Tatsumeeko strikes partnership with Immutable X to enhance its gameplay by Catherine Shu originally published on TechCrunch]]></summary>
+        <author>
+            <name>Catherine Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keiko Iwashita Launches New Romance Manga in October]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190235</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/keiko-iwashita-launches-new-romance-manga-in-october/.190235"/>
+        <updated>2022-09-27T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Museru Kurai no Ai wo Ageru centers on opposites-attract relationship between musician, aspiring designer]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC collegium recommends elevation of Bombay HC Chief Justice Datta to apex court]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-collegium-recommends-elevation-of-bombay-hc-chief-justice-datta-to-the-apex-court/articleshow/94474954.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-collegium-recommends-elevation-of-bombay-hc-chief-justice-datta-to-the-apex-court/articleshow/94474954.cms"/>
+        <updated>2022-09-27T09:30:34.000Z</updated>
+        <summary type="html"><![CDATA[India News: MUMBAI: The Supreme Court collegium on Tuesday has recommended elevation of Bombay high court Chief Justice Dipankar Datta as Judge of the SC.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US: Teen interest in long-lasting birth control soars after Roe]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/us-teen-interest-in-long-lasting-birth-control-soars-after-roe/articleshow/94477138.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/us-teen-interest-in-long-lasting-birth-control-soars-after-roe/articleshow/94477138.cms"/>
+        <updated>2022-09-27T09:26:22.000Z</updated>
+        <summary type="html"><![CDATA[US News: Sixteen-year-old Adismarys Abreu had been discussing a long-lasting birth control implant with her mother for about a year as a potential solution to .]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Edit: Live streaming brings SC closer. Let's use it responsibly]]></title>
+        <id>https://timesofindia.indiatimes.com/blogs/toi-editorials/live-streaming-brings-supreme-court-closer-to-citizens-lets-use-this-service-responsibly/</id>
+        <link href="https://timesofindia.indiatimes.com/blogs/toi-editorials/live-streaming-brings-supreme-court-closer-to-citizens-lets-use-this-service-responsibly/"/>
+        <updated>2022-09-27T09:22:05.000Z</updated>
+        <summary type="html"><![CDATA[The commencement of live streaming of constitution bench proceedings by Supreme Court is a big moment for India’s judiciary. Irrespective of the geographical distance to New Delhi, which is a stumbling block in access to...]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defence manufacturer Saab to produce Carl-Gustaf M4 weapons system in India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477103.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477103.cms"/>
+        <updated>2022-09-27T09:21:54.000Z</updated>
+        <summary type="html"><![CDATA[India News: Swedish defence products company Saab will manufacture its Carl-Gustaf M4 weapons system in India, a top executive said on Tuesday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saab to produce Carl-Gustaf M4 weapons system in India]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477029.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477029.cms"/>
+        <updated>2022-09-27T09:21:54.000Z</updated>
+        <summary type="html"><![CDATA[India Business News: Swedish defence products company Saab will manufacture its Carl-Gustaf M4 weapons system in India, a top executive said on Tuesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walmart launches ‘metaverse’ experience in Roblox to sell toys to children]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse</id>
+        <link href="https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse"/>
+        <updated>2022-09-27T09:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Walmart has launched a pair of “immersive experiences” in online gaming platform Roblox. The retailer is presenting the launch as an ambitious move into the metaverse, but the “experiences” — two online worlds dubbed Walmart Land and Walmart’s Universe of Play — are really just ways to advertise toys to children. Roblox may seem trivial, but it has more than 50 million daily active users, two-thirds of which are under the age of 16. That means it’s probably Walmart experimenting with virtual worlds to try and hook this market. 
+Walmart Land and Universe of Play are virtual lobbies. Inside are a variety of minigames and experiences, including a Ferris wheel, “interactive piano walkway,” and DJ booth, most of which serve to funnel players towards certain brands. So, for example, a virtual dr…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JD(U) takes out processions across Bihar to caution people against BJP 'conspiracy']]></title>
+        <id>https://timesofindia.indiatimes.com/india/jdu-takes-out-processions-across-bihar-to-caution-people-against-bjp-conspiracy/articleshow/94476700.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/jdu-takes-out-processions-across-bihar-to-caution-people-against-bjp-conspiracy/articleshow/94476700.cms"/>
+        <updated>2022-09-27T09:12:53.000Z</updated>
+        <summary type="html"><![CDATA[India News: PATNA: Bihar chief minister Nitish Kumar's Janata Dal (United) on Tuesday took out processions across the state, urging people to be on guard against .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shashi Tharoor to file nomination for post of Congress president on September 30]]></title>
+        <id>https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-post-of-congress-president-on-september-30/articleshow/94476613.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-post-of-congress-president-on-september-30/articleshow/94476613.cms"/>
+        <updated>2022-09-27T09:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Amid suspense over who could take on Shashi Tharoor in the Congress president polls, party's central election authority chairman Madhusudan Mistry on Tuesday said AICC treasurer Pawan Kumar Bansal has got nomination forms collected, adding that it may be for someone else. Mistry also said Tharoor's representative has informed his office that he will file nomination for the post of president on September 30.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lanka to back bids of India & Japan for permanent member status at UNSC: President Wickremesinghe]]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-back-bids-of-india-and-japan-for-permanent-member-status-at-unsc-president-wickremesinghe/articleshow/94476617.cms</id>
@@ -47,6 +160,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fetterman-vs.-Oz Campaign Turns to a Focus on Criminal Justice]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/politics/fetterman-oz-crime-justice.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/politics/fetterman-oz-crime-justice.html"/>
+        <updated>2022-09-27T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[As Pennsylvania’s lieutenant governor, John Fetterman has pushed for second chances for certain convicts. But crime has become a focal point for Republicans nationwide in the 2022 elections.]]></summary>
+        <author>
+            <name>Trip Gabriel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamie Raskin on The Second Amendment]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html"/>
+        <updated>2022-09-27T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[It is essential to reject the myth that frustrated citizens have a right to raise arms against the government.]]></summary>
+        <author>
+            <name>Jamie Raskin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dating Apps Thrive in China, but Not Just for Romance]]></title>
         <id>https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</id>
         <link href="https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html"/>
@@ -54,6 +187,56 @@
         <summary type="html"><![CDATA[China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.]]></summary>
         <author>
             <name>Chang Che and Zixu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dating Apps Thrive in China, but Not Just for Romance]]></title>
+        <id>https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html"/>
+        <updated>2022-09-27T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.]]></summary>
+        <author>
+            <name>Chang Che and Zixu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jails Boss Pushed for Dying Man’s Release to Limit Rikers Death Count]]></title>
+        <id>https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html"/>
+        <updated>2022-09-27T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the Department’s count.”]]></summary>
+        <author>
+            <name>Jan Ransom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ron DeSantis Is Making an Asylum Crisis of His Own]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html"/>
+        <updated>2022-09-27T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Does America still embrace its international obligation to provide sanctuary to at least some unauthorized immigrants?]]></summary>
+        <author>
+            <name>Dara Lind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sedition Trial of Oath Keepers to Get Underway]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/jan-6-oath-keepers-trial.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/jan-6-oath-keepers-trial.html"/>
+        <updated>2022-09-27T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Jury selection begins on Tuesday in the case of Stewart Rhodes, the leader of the far-right militia group, and four other members charged with seditious conspiracy in the Jan. 6 attack on the Capitol.]]></summary>
+        <author>
+            <name>Alan Feuer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Israel-Lebanon Border Deal Could Increase Natural Gas Supplies]]></title>
+        <id>https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html"/>
+        <updated>2022-09-27T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.]]></summary>
+        <author>
+            <name>Clifford Krauss</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +250,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[House Jan. 6 Panel Faces Key Decisions as It Wraps Up Work]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/politics/jan-6-committee-hearing.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/politics/jan-6-committee-hearing.html"/>
+        <updated>2022-09-27T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[The committee investigating what led to the Jan. 6 attack on the Capitol will hold its first hearing since July on Wednesday, entering the final stage of its inquiry.]]></summary>
+        <author>
+            <name>Luke Broadwater and Katie Benner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The True Story Behind ‘The Greatest Beer Run Ever’]]></title>
         <id>https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html</id>
         <link href="https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html"/>
@@ -74,6 +267,16 @@
         <summary type="html"><![CDATA[“The Greatest Beer Run Ever” tells the story of Chickie Donohue’s unlikely but true adventure bringing suds from New York to his military pals in 1967 Vietnam.]]></summary>
         <author>
             <name>Corey Kilgannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Know Shockingly Little About What Makes Humanity Prosper]]></title>
+        <id>https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html"/>
+        <updated>2022-09-27T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Collison calls for a new ‘science of progress’]]></summary>
+        <author>
+            <name>‘The Ezra Klein Show’</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +307,26 @@
         <summary type="html"><![CDATA[India News: NEW DELHI: Your children's school clothes may look neat and clean, but are they safe to wear? Maybe not.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Ian hits Cuba as Category 3 storm]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-ian-hits-cuba-as-category-3-storm/articleshow/94476392.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-ian-hits-cuba-as-category-3-storm/articleshow/94476392.cms"/>
+        <updated>2022-09-27T08:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Hurricane Ian made landfall in western Cuba early Tuesday, with the Caribbean nation and the US state of Florida ramping up preparations for high winds and potential flooding. About 50,000 people in Cuba's western Pinar del Rio province moved to safer locations, 6,000 of them to state-run shelters and the rest to the homes of relatives and friends.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philippines to deport 40,000 Chinese workers in online gaming crackdown]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/philippines-to-deport-40000-chinese-workers-in-online-gaming-crackdown/articleshow/94476379.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/philippines-to-deport-40000-chinese-workers-in-online-gaming-crackdown/articleshow/94476379.cms"/>
+        <updated>2022-09-27T08:55:06.000Z</updated>
+        <summary type="html"><![CDATA[The Philippines will deport 40,000 Chinese workers in a crackdown on unlicensed online gaming businesses, an official said Tuesday, after reports of kidnapping, prostitution and murder in the gambling industry. So-called Philippine offshore gaming operators, or POGOs, have boomed since 2016 as former president Rodrigo Duterte pursued closer trade and investment ties with China.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -268,6 +491,16 @@ Papaya wants to help electrify last-mile logistics in Europe by Paul Sawers orig
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Check out online tools that enhance e-Learning experience]]></title>
+        <id>https://timesofindia.indiatimes.com/education/online-schooling/online-tools-to-enhance-e-learning/articleshow/94473480.cms</id>
+        <link href="https://timesofindia.indiatimes.com/education/online-schooling/online-tools-to-enhance-e-learning/articleshow/94473480.cms"/>
+        <updated>2022-09-27T07:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Distance Learning needn’t be difficult anymore as more and more educators are using online tools to enhance their wards’ e-learning experience. The Covid-19 pandemic in 2020 forced almost everyone around the globe to adapt and relook at the existing systems of work and performance differently. Irrespective of the sector one was a part of, everyone was affected and age group notwithstanding, each one was expected to adapt to a new changed environment virtually overnight.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Rajasthan political crisis robs Congress of claims about Bharat Jodo Yatra]]></title>
         <id>https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms"/>
@@ -376,6 +609,36 @@ Papaya wants to help electrify last-mile logistics in Europe by Paul Sawers orig
 Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit by Annie Njanja originally published on TechCrunch]]></summary>
         <author>
             <name>Annie Njanja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Suit Over Alliance of American Airlines and JetBlue Goes to Trial]]></title>
+        <id>https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html"/>
+        <updated>2022-09-27T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[The Justice Department antitrust case contends that the carriers’ cooperation in Boston and New York reduces competition.]]></summary>
+        <author>
+            <name>Niraj Chokshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hochul and Zeldin Turn Potential Debates Into a Game of Chicken]]></title>
+        <id>https://www.nytimes.com/2022/09/27/nyregion/hochul-zeldin-debate.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/nyregion/hochul-zeldin-debate.html"/>
+        <updated>2022-09-27T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[There may not be any debates in the New York governor’s race if Gov. Kathy Hochul and her challenger, Lee Zeldin, cannot agree on how many to hold.]]></summary>
+        <author>
+            <name>Luis Ferré-Sadurní</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How About Them Apples? Research Orchards Chart a Fruit’s Future.]]></title>
+        <id>https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html"/>
+        <updated>2022-09-27T06:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Scientists working in research groves, like one in Nova Scotia, are developing your favorite new apple variety.]]></summary>
+        <author>
+            <name>Elizabeth Landau</name>
         </author>
     </entry>
     <entry>
@@ -590,6 +853,16 @@ Productivity platform Loopin helps work teams wrangle meetings by Catherine Shu 
         <summary type="html"><![CDATA[In terms of driving experience, it is a very smooth car to drive and it starts in electric mode. You can drive it powered by battery only up to a certain speed though. Also, one needs to be gentle with the throttle to stay in EV mode but if you're going to use the throttle generously, the engine will have to kick in and support the propulsion.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stephen Colbert Details Tidbits From a Forthcoming Trump Book]]></title>
+        <id>https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-trump-book.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-trump-book.html"/>
+        <updated>2022-09-27T05:40:41.000Z</updated>
+        <summary type="html"><![CDATA[“The real presidency is the rich friends we made along the way,” Colbert said in response to Trump’s remark that he has “so many rich friends, and nobody knows who they are.”]]></summary>
+        <author>
+            <name>Trish Bendix</name>
         </author>
     </entry>
     <entry>

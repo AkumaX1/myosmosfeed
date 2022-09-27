@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse",
+          "author": null,
+          "description": "Walmart has launched a pair of “immersive experiences” in online gaming platform Roblox. The retailer is presenting the launch as an ambitious move into the metaverse, but the “experiences” — two online worlds dubbed Walmart Land and Walmart’s Universe of Play — are really just ways to advertise toys to children. Roblox may seem trivial, but it has more than 50 million daily active users, two-thirds of which are under the age of 16. That means it’s probably Walmart experimenting with virtual worlds to try and hook this market. \nWalmart Land and Universe of Play are virtual lobbies. Inside are a variety of minigames and experiences, including a Ferris wheel, “interactive piano walkway,” and DJ booth, most of which serve to funnel players towards certain brands. So, for example, a virtual dr…",
+          "link": "https://www.theverge.com/2022/9/27/23374369/walmart-land-roblox-experience-metaverse",
+          "publishedOn": "2022-09-27T09:21:20.000Z",
+          "wordCount": 12155,
+          "title": "Walmart launches ‘metaverse’ experience in Roblox to sell toys to children",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/GdazEoDCVSdw5ebjanCuvOeen4A=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057767/walmart_land_roblox_experience_daytime.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23373832/roomba-combo-j7-plus-robot-vacuum-mop-specs-release-date-price",
           "author": null,
           "description": "The Roomba Combo j7 Plus is iRobot’s first combination robot vacuum and mop. | Image: iRobot\n    \n\n  \nRobot vacuums that can also mop have been around for a while, but most make you remove the mop before they can vacuum your carpets — unless you like slightly damp carpets. iRobot’s newest bot looks to solve this problem with a retractable robot mop arm that can lift itself up and under the vacuum to mop when it’s needed and stow itself up top when it’s not.\nThe Roomba Combo j7 Plus costs $1,099 and is available to preorder today. It will ship on October 4th, and is only being sold with the auto-emptying Clean Base at launch. The two-in-one vacuum mop uses a new combination of acoustic sensors to detect the different types of flooring in a home and “decide” when to lift its pad to avoid thr…",
@@ -539,6 +549,96 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/us/politics/fetterman-oz-crime-justice.html",
+          "author": "Trip Gabriel",
+          "description": "As Pennsylvania’s lieutenant governor, John Fetterman has pushed for second chances for certain convicts. But crime has become a focal point for Republicans nationwide in the 2022 elections.",
+          "link": "https://www.nytimes.com/2022/09/27/us/politics/fetterman-oz-crime-justice.html",
+          "publishedOn": "2022-09-27T09:00:28.000Z",
+          "wordCount": null,
+          "title": "Fetterman-vs.-Oz Campaign Turns to a Focus on Criminal Justice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html",
+          "author": "Jamie Raskin",
+          "description": "It is essential to reject the myth that frustrated citizens have a right to raise arms against the government.",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html",
+          "publishedOn": "2022-09-27T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Jamie Raskin on The Second Amendment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html",
+          "author": "Chang Che and Zixu Wang",
+          "description": "China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.",
+          "link": "https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html",
+          "publishedOn": "2022-09-27T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Dating Apps Thrive in China, but Not Just for Romance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html",
+          "author": "Jan Ransom",
+          "description": "Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the Department’s count.”",
+          "link": "https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html",
+          "publishedOn": "2022-09-27T09:00:25.000Z",
+          "wordCount": null,
+          "title": "Jails Boss Pushed for Dying Man’s Release to Limit Rikers Death Count",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html",
+          "author": "Dara Lind",
+          "description": "Does America still embrace its international obligation to provide sanctuary to at least some unauthorized immigrants?",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/ron-desantis-asylum-border.html",
+          "publishedOn": "2022-09-27T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Ron DeSantis Is Making an Asylum Crisis of His Own",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/us/jan-6-oath-keepers-trial.html",
+          "author": "Alan Feuer",
+          "description": "Jury selection begins on Tuesday in the case of Stewart Rhodes, the leader of the far-right militia group, and four other members charged with seditious conspiracy in the Jan. 6 attack on the Capitol.",
+          "link": "https://www.nytimes.com/2022/09/27/us/jan-6-oath-keepers-trial.html",
+          "publishedOn": "2022-09-27T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Sedition Trial of Oath Keepers to Get Underway",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html",
+          "author": "Clifford Krauss",
+          "description": "Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.",
+          "link": "https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html",
+          "publishedOn": "2022-09-27T09:00:21.000Z",
+          "wordCount": null,
+          "title": "An Israel-Lebanon Border Deal Could Increase Natural Gas Supplies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/us/politics/jan-6-committee-hearing.html",
+          "author": "Luke Broadwater and Katie Benner",
+          "description": "The committee investigating what led to the Jan. 6 attack on the Capitol will hold its first hearing since July on Wednesday, entering the final stage of its inquiry.",
+          "link": "https://www.nytimes.com/2022/09/27/us/politics/jan-6-committee-hearing.html",
+          "publishedOn": "2022-09-27T09:00:18.000Z",
+          "wordCount": null,
+          "title": "House Jan. 6 Panel Faces Key Decisions as It Wraps Up Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html",
+          "author": "‘The Ezra Klein Show’",
+          "description": "Patrick Collison calls for a new ‘science of progress’",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html",
+          "publishedOn": "2022-09-27T09:00:07.000Z",
+          "wordCount": null,
+          "title": "We Know Shockingly Little About What Makes Humanity Prosper",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html",
           "author": "Victoria Kim and Melissa Eddy",
           "description": "Neither of the pipelines was active, but both were filled with natural gas. The sharp drop in pressure could only be caused by a leak, authorities said.",
@@ -546,6 +646,36 @@
           "publishedOn": "2022-09-27T07:11:14.000Z",
           "wordCount": null,
           "title": "Germany Investigates Leaks in Nord Stream Gas Pipelines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html",
+          "author": "Niraj Chokshi",
+          "description": "The Justice Department antitrust case contends that the carriers’ cooperation in Boston and New York reduces competition.",
+          "link": "https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html",
+          "publishedOn": "2022-09-27T07:00:08.000Z",
+          "wordCount": null,
+          "title": "U.S. Suit Over Alliance of American Airlines and JetBlue Goes to Trial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/nyregion/hochul-zeldin-debate.html",
+          "author": "Luis Ferré-Sadurní",
+          "description": "There may not be any debates in the New York governor’s race if Gov. Kathy Hochul and her challenger, Lee Zeldin, cannot agree on how many to hold.",
+          "link": "https://www.nytimes.com/2022/09/27/nyregion/hochul-zeldin-debate.html",
+          "publishedOn": "2022-09-27T07:00:06.000Z",
+          "wordCount": null,
+          "title": "Hochul and Zeldin Turn Potential Debates Into a Game of Chicken",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html",
+          "author": "Elizabeth Landau",
+          "description": "Scientists working in research groves, like one in Nova Scotia, are developing your favorite new apple variety.",
+          "link": "https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html",
+          "publishedOn": "2022-09-27T06:59:10.000Z",
+          "wordCount": null,
+          "title": "How About Them Apples? Research Orchards Chart a Fruit’s Future.",
           "imageUrl": null
         },
         {
@@ -2380,6 +2510,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-trump-book.html",
+          "author": "Trish Bendix",
+          "description": "“The real presidency is the rich friends we made along the way,” Colbert said in response to Trump’s remark that he has “so many rich friends, and nobody knows who they are.”",
+          "link": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-trump-book.html",
+          "publishedOn": "2022-09-27T05:40:41.000Z",
+          "wordCount": null,
+          "title": "Stephen Colbert Details Tidbits From a Forthcoming Trump Book",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/arts/television/stephen-colbert-details-tidbits-from-a-forthcoming-trump-book.html",
           "author": "Trish Bendix",
           "description": "“The real presidency is the rich friends we made along the way,” Colbert said in response to Trump’s remark that he has “so many rich friends, and nobody knows who they are.”",
@@ -3170,6 +3310,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2406315",
+          "author": "Kyle Wiggers",
+          "description": "IT systems are becoming increasingly complex, what with the mass move to the cloud during the pandemic. The modern data stack consists of hundreds of tools for app development, data capture and integration, orchestration, analysis and storage. And it’s getting bigger and more convoluted by the day. According to Productiv, a software-as-a-service app management startup, […]\nUnravel Data lands $50M to make sense of complex data stacks by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/unravel-data-lands-50m-to-make-sense-of-complex-data-stacks/",
+          "publishedOn": "2022-09-27T10:00:40.000Z",
+          "wordCount": 6813,
+          "title": "Unravel Data lands $50M to make sense of complex data stacks",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1209495734-1.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407330",
+          "author": "Catherine Shu",
+          "description": "Tatsumeeko, a role-playing game on Ethereum and Solana created by the team behind Discord chatbot Tatsu.GG, announced today it has struck a partnership with Immutable X (IMX). The partnership’s goal is to enhance Tatsumeeko’s gameplay experience by focusing on trackable ownership and transfer of in-game assets. Immutable X is a layer-2 Ethereum scaling solution that […]\nTatsumeeko strikes partnership with Immutable X to enhance its gameplay by Catherine Shu originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/tatsumeeko-strikes-partnership-with-immutable-x-to-enhance-its-gameplay/",
+          "publishedOn": "2022-09-27T10:00:26.000Z",
+          "wordCount": 5688,
+          "title": "Tatsumeeko strikes partnership with Immutable X to enhance its gameplay",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1385176376.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2404012",
           "author": "Paul Sawers",
@@ -6102,6 +6262,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190235",
+          "author": null,
+          "description": "Museru Kurai no Ai wo Ageru centers on opposites-attract relationship between musician, aspiring designer",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/keiko-iwashita-launches-new-romance-manga-in-october/.190235",
+          "publishedOn": "2022-09-27T09:33:00.000Z",
+          "wordCount": 3301,
+          "title": "Keiko Iwashita Launches New Romance Manga in October",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM1/cms/news.5/190235/iwashita.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190234",
           "author": null,
           "description": "Mino recently ended Yakuza Lover manga in June",
@@ -8393,6 +8563,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/sc-collegium-recommends-elevation-of-bombay-hc-chief-justice-datta-to-the-apex-court/articleshow/94474954.cms",
+          "author": null,
+          "description": "India News: MUMBAI: The Supreme Court collegium on Tuesday has recommended elevation of Bombay high court Chief Justice Dipankar Datta as Judge of the SC.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-collegium-recommends-elevation-of-bombay-hc-chief-justice-datta-to-the-apex-court/articleshow/94474954.cms",
+          "publishedOn": "2022-09-27T09:30:34.000Z",
+          "wordCount": 6725,
+          "title": "SC collegium recommends elevation of Bombay HC Chief Justice Datta to apex court",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94475099,width-1070,height-580,imgsize-17206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477103.cms",
+          "author": null,
+          "description": "India News: Swedish defence products company Saab will manufacture its Carl-Gustaf M4 weapons system in India, a top executive said on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477103.cms",
+          "publishedOn": "2022-09-27T09:21:54.000Z",
+          "wordCount": 4947,
+          "title": "Defence manufacturer Saab to produce Carl-Gustaf M4 weapons system in India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94477083,width-1070,height-580,imgsize-1930256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jdu-takes-out-processions-across-bihar-to-caution-people-against-bjp-conspiracy/articleshow/94476700.cms",
+          "author": null,
+          "description": "India News: PATNA: Bihar chief minister Nitish Kumar's Janata Dal (United) on Tuesday took out processions across the state, urging people to be on guard against .",
+          "link": "https://timesofindia.indiatimes.com/india/jdu-takes-out-processions-across-bihar-to-caution-people-against-bjp-conspiracy/articleshow/94476700.cms",
+          "publishedOn": "2022-09-27T09:12:53.000Z",
+          "wordCount": 6039,
+          "title": "JD(U) takes out processions across Bihar to caution people against BJP 'conspiracy'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-post-of-congress-president-on-september-30/articleshow/94476613.cms",
+          "author": null,
+          "description": "Amid suspense over who could take on Shashi Tharoor in the Congress president polls, party's central election authority chairman Madhusudan Mistry on Tuesday said AICC treasurer Pawan Kumar Bansal has got nomination forms collected, adding that it may be for someone else. Mistry also said Tharoor's representative has informed his office that he will file nomination for the post of president on September 30.",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-post-of-congress-president-on-september-30/articleshow/94476613.cms",
+          "publishedOn": "2022-09-27T09:10:19.000Z",
+          "wordCount": 5886,
+          "title": "Shashi Tharoor to file nomination for post of Congress president on September 30",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94476663,width-1070,height-580,imgsize-59890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/time-is-to-move-ahead-at-faster-pace-rajnath-to-indian-defence-manufacturers/articleshow/94476546.cms",
           "author": null,
           "description": "India News: NEW DELHI: India has set a target of Rs 1.",
@@ -9550,6 +9760,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-teen-interest-in-long-lasting-birth-control-soars-after-roe/articleshow/94477138.cms",
+          "author": null,
+          "description": "US News: Sixteen-year-old Adismarys Abreu had been discussing a long-lasting birth control implant with her mother for about a year as a potential solution to .",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-teen-interest-in-long-lasting-birth-control-soars-after-roe/articleshow/94477138.cms",
+          "publishedOn": "2022-09-27T09:26:22.000Z",
+          "wordCount": 13311,
+          "title": "US: Teen interest in long-lasting birth control soars after Roe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94477788,width-1070,height-580,imgsize-88028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-back-bids-of-india-and-japan-for-permanent-member-status-at-unsc-president-wickremesinghe/articleshow/94476617.cms",
           "author": null,
           "description": "South Asia News: COLOMBO: Sri Lankan President Ranil Wickremesinghe on Tuesday said his government will back the bids of India and Japan for permanent member status at.",
@@ -9558,6 +9778,26 @@
           "wordCount": 8886,
           "title": "Lanka to back bids of India & Japan for permanent member status at UNSC: President Wickremesinghe",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94476615,width-1070,height-580,imgsize-38522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-ian-hits-cuba-as-category-3-storm/articleshow/94476392.cms",
+          "author": null,
+          "description": "Hurricane Ian made landfall in western Cuba early Tuesday, with the Caribbean nation and the US state of Florida ramping up preparations for high winds and potential flooding. About 50,000 people in Cuba's western Pinar del Rio province moved to safer locations, 6,000 of them to state-run shelters and the rest to the homes of relatives and friends.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-ian-hits-cuba-as-category-3-storm/articleshow/94476392.cms",
+          "publishedOn": "2022-09-27T08:55:26.000Z",
+          "wordCount": 9521,
+          "title": "Hurricane Ian hits Cuba as Category 3 storm",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94476647,width-1070,height-580,imgsize-147586,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/philippines-to-deport-40000-chinese-workers-in-online-gaming-crackdown/articleshow/94476379.cms",
+          "author": null,
+          "description": "The Philippines will deport 40,000 Chinese workers in a crackdown on unlicensed online gaming businesses, an official said Tuesday, after reports of kidnapping, prostitution and murder in the gambling industry. So-called Philippine offshore gaming operators, or POGOs, have boomed since 2016 as former president Rodrigo Duterte pursued closer trade and investment ties with China.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/philippines-to-deport-40000-chinese-workers-in-online-gaming-crackdown/articleshow/94476379.cms",
+          "publishedOn": "2022-09-27T08:55:06.000Z",
+          "wordCount": 8124,
+          "title": "Philippines to deport 40,000 Chinese workers in online gaming crackdown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/us-asks-pakistan-to-seek-debt-relief-from-china-after-floods/articleshow/94474341.cms",
@@ -10424,6 +10664,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/live-streaming-brings-supreme-court-closer-to-citizens-lets-use-this-service-responsibly/",
+          "author": null,
+          "description": "The commencement of live streaming of constitution bench proceedings by Supreme Court is a big moment for India’s judiciary. Irrespective of the geographical distance to New Delhi, which is a stumbling block in access to...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/live-streaming-brings-supreme-court-closer-to-citizens-lets-use-this-service-responsibly/",
+          "publishedOn": "2022-09-27T09:22:05.000Z",
+          "wordCount": 2804,
+          "title": "Quick Edit: Live streaming brings SC closer. Let's use it responsibly",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2018/04/100x100-Quick-Edit-1.png"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477029.cms",
+          "author": null,
+          "description": "India Business News: Swedish defence products company Saab will manufacture its Carl-Gustaf M4 weapons system in India, a top executive said on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/defence-manufacturer-saab-to-produce-carl-gustaf-m4-weapons-system-in-india/articleshow/94477029.cms",
+          "publishedOn": "2022-09-27T09:21:54.000Z",
+          "wordCount": 4870,
+          "title": "Saab to produce Carl-Gustaf M4 weapons system in India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94477083,width-1070,height-580,imgsize-1930256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-finds-this-gut-problem-is-common-among-those-infected-after-covid-vaccination/photostory/94475425.cms",
           "author": null,
           "description": "For those who had COVID after being vaccinated, the common symptom was related to gut health, a new study has found, putting lots of questions on the course of action of the virus on vaccinated and non-vaccinated individuals and also forcing us to refresh our knowledge around the common symptoms of the infection.",
@@ -10462,6 +10722,16 @@
           "wordCount": 10977,
           "title": "With flowers and gun salute, Japan bids farewell to Abe",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94473784,width-1070,height-580,imgsize-213480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/online-schooling/online-tools-to-enhance-e-learning/articleshow/94473480.cms",
+          "author": null,
+          "description": "Distance Learning needn’t be difficult anymore as more and more educators are using online tools to enhance their wards’ e-learning experience. The Covid-19 pandemic in 2020 forced almost everyone around the globe to adapt and relook at the existing systems of work and performance differently. Irrespective of the sector one was a part of, everyone was affected and age group notwithstanding, each one was expected to adapt to a new changed environment virtually overnight.",
+          "link": "https://timesofindia.indiatimes.com/education/online-schooling/online-tools-to-enhance-e-learning/articleshow/94473480.cms",
+          "publishedOn": "2022-09-27T07:22:46.000Z",
+          "wordCount": 6246,
+          "title": "Check out online tools that enhance e-Learning experience",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94473435,width-1070,height-580,imgsize-29026,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/how-rajasthan-political-crisis-robs-congress-of-claims-about-bharat-jodo-yatra/articleshow/94473024.cms",
