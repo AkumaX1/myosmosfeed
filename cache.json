@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nNew York Attorney General Letitia James is suing crypto company Nexo, alleging that the company misled customers by saying it was registered to sell securities and commodities and that it wasn’t approved to offer services like its “Earn Interest Product” that promised returns on deposited crypto. It’s the latest legal move in a fight between regulators and crypto companies looking to offer interest-earning accounts, often insisting that they shouldn’t be classified as securities.\nSeven other states — California, Kentucky, Maryland, Oklahoma, South Carolina, Washington, and Vermont — are also filing “administrative actions” against the company, according to a press release from the New York AG. The release also quotes James as saying: “Nexo v…",
+          "link": "https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general",
+          "publishedOn": "2022-09-27T00:45:34.000Z",
+          "wordCount": 12635,
+          "title": "Eight states sue crypto lender Nexo over security sales and misleading marketing",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/wPO2usOSxctI84haZv11M8ErP_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect",
+          "author": null,
+          "description": "The surface of Dimorphos moments before the DART spacecraft slammed into it. | NASA\n    \n\n  \nA NASA spacecraft slammed into the surface of a distant asteroid at 7:14PM ET on Monday night, the climax of the agency’s Double Asteroid Redirection Test (DART). \nAn hour before impact, the target asteroid, Dimorphos, wasn’t even visible in the images from the spacecraft. In some of the early images sent back to Earth, even Dimorphos’ larger companion Didymos, looked like a single speck against a sea of black. The DART spacecraft was moving at 14,000 miles per hour, and details quickly came into view. Viewers on Earth saw the rough surface of Didymos zip by as the spacecraft cruised autonomously towards Dimorphos. Boulders filled the screen just before it went bright red, indicating a loss of sign…",
+          "link": "https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect",
+          "publishedOn": "2022-09-26T23:48:45.000Z",
+          "wordCount": 12494,
+          "title": "NASA just crashed a spacecraft into an asteroid to see what would happen",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/oBDRFkGKRJkT3TJ5LASVtNHQAGY=/0x0:764x772/1200x628/filters:focal(382x386:383x387)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057087/Screen_Shot_2022_09_26_at_7.17.42_PM.png"
+        },
+        {
           "id": "https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock",
           "author": null,
           "description": "Nearly two years later, it’s a little easier to get your hands on Sony’s PlayStation 5. | Photo by Vjeran Pavic / The Verge\n    \n\n  \nAs Sony’s PlayStation 5 and PlayStation 5 Digital Edition approach their second birthday, it seems that supplies of both next-gen consoles are finally catching up with demand (even with a new model reportedly on the way). Restock events are still the norm for snagging a console online, but things get a little more forgiving if you’re willing to visit a brick-and-mortar store, especially if you’re okay with paying a little more upfront for a bundle. What’s more, we’re beginning to see online stock stick around for several days if not longer, giving would-be buyers a better chance at securing Sony’s next-gen console without ever having to step foot outside the …",
@@ -509,6 +529,86 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html",
+          "author": "Lawrence K. Altman",
+          "description": "Health doesn’t have to be so political.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html",
+          "publishedOn": "2022-09-27T00:36:28.000Z",
+          "wordCount": null,
+          "title": "Why Candidates Owe Voters Full Medical Transparency",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/business/biogen-900-million-lawsuit-kickbacks.html",
+          "author": "Stacy Cowley",
+          "description": "The company was accused of illegally paying doctors to prescribe its drugs over those of its rivals.",
+          "link": "https://www.nytimes.com/2022/09/26/business/biogen-900-million-lawsuit-kickbacks.html",
+          "publishedOn": "2022-09-27T00:35:45.000Z",
+          "wordCount": null,
+          "title": "Biogen Agrees to Pay $900 Million to Settle Lawsuit Over Kickbacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/italy-election-biden.html",
+          "author": "Michael Crowley",
+          "description": "The Biden administration pledged to work with the country’s new leaders despite worries. Several Republicans hailed the Italian election results.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/italy-election-biden.html",
+          "publishedOn": "2022-09-27T00:22:26.000Z",
+          "wordCount": null,
+          "title": "Italy’s Hard-Right Lurch Raises New Concerns in Washington",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/florida-ian-hurricane.html",
+          "author": "Elisabeth Parker, Alexandra Glorioso and Frances Robles",
+          "description": "The authorities urged residents to begin evacuating some low-lying areas of the Gulf Coast. A troubling combination of dangerous storm surges, flooding and powerful winds is predicted for the coming days.",
+          "link": "https://www.nytimes.com/2022/09/26/us/florida-ian-hurricane.html",
+          "publishedOn": "2022-09-27T00:16:05.000Z",
+          "wordCount": null,
+          "title": "Hurricane Ian’s Uncertain Path Keeps Much of Florida on Alert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/politics/trump-election-qanon.html",
+          "author": "Michelle Goldberg",
+          "description": "He’s reinforcing life-ruining delusions.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/politics/trump-election-qanon.html",
+          "publishedOn": "2022-09-26T23:16:31.000Z",
+          "wordCount": null,
+          "title": "Trump’s Heartless QAnon Embrace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/world/europe/russia-draft-ukraine-shooting.html",
+          "author": "Valerie Hopkins, Shashank Bengali and Alan Yuhas",
+          "description": "The Kremlin’s spokesman tried to shift blame for errors in the call-up to regional agencies on Monday, the same day a gunman attacked a draft office in Siberia.",
+          "link": "https://www.nytimes.com/2022/09/26/world/europe/russia-draft-ukraine-shooting.html",
+          "publishedOn": "2022-09-26T23:13:39.000Z",
+          "wordCount": null,
+          "title": "Russia Admits to Draft Problems as Anger Flares Into Violence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/us/politics/jan-6-call-anton-lunyk.html",
+          "author": "Luke Broadwater and Alan Feuer",
+          "description": "Denver Riggleman, a former staff member of the House committee investigating the assault on the Capitol, said the call came from a White House landline.",
+          "link": "https://www.nytimes.com/2022/09/26/us/politics/jan-6-call-anton-lunyk.html",
+          "publishedOn": "2022-09-26T23:10:52.000Z",
+          "wordCount": null,
+          "title": "Trump White House Called Capitol Rioter on Jan. 6, Book Says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/why-zombie-reaganomics-still-rules-the-gop.html",
+          "author": "Paul Krugman",
+          "description": "MAGA is in charge, but policy caters to the wealthy.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/why-zombie-reaganomics-still-rules-the-gop.html",
+          "publishedOn": "2022-09-26T23:00:06.000Z",
+          "wordCount": null,
+          "title": "Why Zombie Reaganomics Still Rules the G.O.P.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/world/middleeast/women-iran-protests-hijab.html",
           "author": "Vivian Yee and Farnaz Fassihi",
           "description": "Women have been casting off their legally required head scarves, forming the primary image of the protests. But grievances against a repressive regime go far beyond the hijab.",
@@ -516,6 +616,16 @@
           "publishedOn": "2022-09-26T22:30:27.000Z",
           "wordCount": null,
           "title": "Women in Iran Take Center Stage in Antigovernment Protests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/26/opinion/biden-student-loan-forgiveness.html",
+          "author": "Peter Coy",
+          "description": "Its income-driven component could backfire.",
+          "link": "https://www.nytimes.com/2022/09/26/opinion/biden-student-loan-forgiveness.html",
+          "publishedOn": "2022-09-26T22:30:02.000Z",
+          "wordCount": null,
+          "title": "Biden’s Student Loan Plan Has Issues",
           "imageUrl": null
         },
         {
@@ -4257,6 +4367,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849583263",
+          "author": "Claire Jackson",
+          "description": "While the Steam Deck, Valve’s souped-up mini PC, offers a wealth of gaming experiences in a portable format, the lack of a kickstand has been a sore spot. Enter the Deckmate: A simple, plastic bracket that lets you attach not just a very handy kickstand, but also several other specialized mounting solutions to the…\nRead more...",
+          "link": "https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263",
+          "publishedOn": "2022-09-26T23:05:00.000Z",
+          "wordCount": 7840,
+          "title": "This Deluxe Steam Deck Kickstand Makes A Huge Difference",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b93fbe6e2f80b74ad2ff7b11b2660a83.jpg"
+        },
+        {
           "id": "1849583617",
           "author": "Ethan Gach",
           "description": "After nearly a month of anal bead memes and chess drama, world champion Magnus Carlsen has finally opened up about his stunning defeat to 19-year-old grandmaster Hans Niemann and his shocking stunts that followed in the aftermath. Long story short: He thinks Niemann is a cheater, over the board and online, and he…\nRead more...",
@@ -5368,6 +5488,26 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "942726dc-f6ce-46b8-bf7e-8097297b9f65",
+          "author": "Jada Griffin",
+          "description": "IGN and its community discuss the future of the Halo franchise.",
+          "link": "https://www.ign.com/articles/how-are-you-feeling-about-the-future-of-halo",
+          "publishedOn": "2022-09-26T22:48:06.000Z",
+          "wordCount": 9461,
+          "title": "How Are You Feeling About the Future of Halo?",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/18/infinite-1663532735333.jpeg?width=1280"
+        },
+        {
+          "id": "c12b435a-a8a7-4de4-8e92-4510c688a392",
+          "author": "Tom Marks",
+          "description": "An ambitious but overwhelming alien invasion strategy game.",
+          "link": "https://www.ign.com/articles/terra-invicta-review",
+          "publishedOn": "2022-09-26T21:52:16.000Z",
+          "wordCount": 16811,
+          "title": "Terra Invicta Early Access Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/26/terrainvicta-blogroll-1664229130220.jpg?width=1280"
+        },
+        {
           "id": "b6f048b9-1b70-4cf9-9ad2-4d7dc25e31af",
           "author": "George Yang",
           "description": "Netflix announced that it has started its own internal game development studio in Helsinki, Finland, but its name hasn't been revealed yet.",
@@ -5644,6 +5784,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news.xml",
       "siteUrl": "http://www.steampowered.com/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/143577/",
+          "author": "Valve",
+          "description": "",
+          "link": "https://store.steampowered.com/news/143577/",
+          "publishedOn": "2022-09-27T00:25:00.000Z",
+          "wordCount": 1100,
+          "title": "Team Fortress 2 Update Released",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
+        },
         {
           "id": "https://store.steampowered.com/news/143572/",
           "author": "Valve",
@@ -6378,6 +6528,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/emiri-kato-kaori-fukuharas-legendary-va-unit-katofuku-resumes-activities-after-6-years",
+          "author": "Mikikazu Komatsu",
+          "description": "Details will be unveiled in a live-streaming program on October 1 \n\n\nKato*Fuku, the legendary VA unit consisting of Emiri Kato (Aura Bella Fiore in Overlord) and Kaori Fukuhara (Tsukasa Hiiragi in Lucky Star), announced the resumption of their activities after 6 years! The unit was formed in 2012 and had been inactive since September 2016. Hit the jump for more details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/26-1/emiri-kato-kaori-fukuharas-legendary-va-unit-katofuku-resumes-activities-after-6-years",
+          "publishedOn": "2022-09-27T00:48:05.000Z",
+          "wordCount": 6106,
+          "title": "Emiri Kato & Kaori Fukuhara's Legendary VA unit Kato*Fuku Resumes Activities after 6 Years",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/05f58f19b1fad43497ade4c871a31f8f1664239401_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/26-1/guilty-gear-xrd-rev-2-adds-rollback-netcode-on-october-28",
           "author": "Joseph Luster",
@@ -7206,6 +7366,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/national/pm-modi-arrives-in-japan-to-attend-former-premier-abes-state-funeral/article65939709.ece",
+          "author": "PTI",
+          "description": "Tokyo",
+          "link": "https://www.thehindu.com/news/national/pm-modi-arrives-in-japan-to-attend-former-premier-abes-state-funeral/article65939709.ece",
+          "publishedOn": "2022-09-26T23:21:56.000Z",
+          "wordCount": 6456,
+          "title": "PM Modi arrives in Japan to attend former premier Abe&#039;s state funeral",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/whi65/article65939710.ece/alternates/LANDSCAPE_615/Modi%20Japan2.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/russia-detains-japanese-diplomat-for-seeking-sensitive-information/article65939543.ece",
           "author": "AP",
           "description": "Russia's Foreign Ministry says Motoki Tatsunori had been declared persona non grata and ordered to leave the country within 48 hours.",
@@ -7672,6 +7842,96 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/kolkatas-muslim-organised-pujas-send-out-a-message-of-harmony/articleshow/94465051.cms",
+          "author": null,
+          "description": "The Alimuddin Street puja was revived by local Muslims after a 16-year break last year. This time, nuns from Missionaries of Charity will join their Hindu neighbours in the carnival. A six-member all-Muslim committee is in charge here.",
+          "link": "https://timesofindia.indiatimes.com/india/kolkatas-muslim-organised-pujas-send-out-a-message-of-harmony/articleshow/94465051.cms",
+          "publishedOn": "2022-09-27T00:40:44.000Z",
+          "wordCount": 5984,
+          "title": "Kolkata's Muslim-organised Pujas send out a message of harmony",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465068,width-1070,height-580,imgsize-110184,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cuet-pg-results-out-marks-not-normalised/articleshow/94464945.cms",
+          "author": null,
+          "description": "Unlike CUET-UG, NTA has announced subject-wise toppers for the postgraduate entrance exam. Among universities, BHU received the maximum number of 3.5 lakh applications, followed by JNU with 2.3 lakh.",
+          "link": "https://timesofindia.indiatimes.com/india/cuet-pg-results-out-marks-not-normalised/articleshow/94464945.cms",
+          "publishedOn": "2022-09-27T00:21:51.000Z",
+          "wordCount": 5494,
+          "title": "CUET-PG results out, marks not 'normalised'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/delhi-hc-refuses-to-stay-dismissal-of-officer-satish-chandra-verma-who-probed-ishrat-case/articleshow/94464911.cms",
+          "author": null,
+          "description": "The Delhi high court on Monday refused to stay the Centre's order dismissing senior IPS officer Satish Chandra Verma a month before his scheduled retirement. Verma had assisted the CBI in its probe of the 2004 Ishrat Jahan encounter case between April 2010 and October 2011.",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-hc-refuses-to-stay-dismissal-of-officer-satish-chandra-verma-who-probed-ishrat-case/articleshow/94464911.cms",
+          "publishedOn": "2022-09-27T00:14:41.000Z",
+          "wordCount": 6400,
+          "title": "Delhi HC refuses to stay dismissal of officer Satish Chandra Verma who probed Ishrat case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-sets-stiffer-40-air-pollution-reduction-target-for-cities-by-2026/articleshow/94464808.cms",
+          "author": null,
+          "description": "Delhi's PM10 level reduced from 241g/m3 in 2017 to 196 g/m3 in 2021-22. Similarly, the PM10 level in Mumbai reduced from 151g/m3 in 2017 to 106 g/m3 in 2021-22 whereas it reduced from 119 g/m3 in 2017 to 105 g/m3 in Kolkata in 2021-22.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-sets-stiffer-40-air-pollution-reduction-target-for-cities-by-2026/articleshow/94464808.cms",
+          "publishedOn": "2022-09-26T23:57:54.000Z",
+          "wordCount": 6483,
+          "title": "Centre sets stiffer 40% air pollution reduction target for cities by 2026",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464827,width-1070,height-580,imgsize-39600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "author": null,
+          "description": "First-time Congress MLA Divya Maderna, scion of the Maderna political family, on Monday said that the condition put forth for the CLP resolution by Gehlot-loyalist MLAs was tantamount to party indiscipline.",
+          "link": "https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "publishedOn": "2022-09-26T23:36:24.000Z",
+          "wordCount": 5393,
+          "title": "First-time MLA reminds Ashok Gehlot camp of history",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464726,width-1070,height-580,imgsize-27808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/not-fooling-anybody-eam-slams-f-16-package-for-pakistan/articleshow/94464676.cms",
+          "author": null,
+          "description": "Foreign minister S Jaishankar publicly expressed India's displeasure over the $450 million sustainment package for Pakistan's F-16 fleet as he said Washington was \"not fooling any- body\" by claiming the fighter jets were meant for counter-terrorism purposes.",
+          "link": "https://timesofindia.indiatimes.com/india/not-fooling-anybody-eam-slams-f-16-package-for-pakistan/articleshow/94464676.cms",
+          "publishedOn": "2022-09-26T23:25:15.000Z",
+          "wordCount": 5649,
+          "title": "Not fooling anybody: EAM slams F-16 package for Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464679,width-1070,height-580,imgsize-37422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "author": null,
+          "description": "The Rashtriya Indian Military College (RIMC) inducted two girls for the first time in the institution's history of over 100 years, reports Pankul Sharma. The 'July batch of 2022' began on Monday with students of Class 8, including the two girl students. Central command PRO Shantanu Pratap Singh termed it \"a historic moment for the college\". He said one of the girl students is from Haryana and the other is a day scholar. The decision on RIMC came after the Centre opened the doors of the NDA for women.",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "publishedOn": "2022-09-26T23:09:59.000Z",
+          "wordCount": 5892,
+          "title": "In a first, two girls inducted into Rashtriya Indian Military College",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464658,width-1070,height-580,imgsize-109524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pro-sachin-pilot-posters-in-rajasthan-cm-ashok-gehlot-hometown/articleshow/94464538.cms",
+          "author": null,
+          "description": "Amid the power struggle in Rajasthan, a number of hoardings have come up across the city - which is CM Ashok Gehlot's hometown - that read \"Naye Yug ki Taiyari (Getting ready for a new era)\".",
+          "link": "https://timesofindia.indiatimes.com/india/pro-sachin-pilot-posters-in-rajasthan-cm-ashok-gehlot-hometown/articleshow/94464538.cms",
+          "publishedOn": "2022-09-26T22:49:43.000Z",
+          "wordCount": 5332,
+          "title": "Pro-Sachin Pilot posters in Rajasthan CM Ashok Gehlot hometown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464557,width-1070,height-580,imgsize-59678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/six-month-high-court-delay-in-hearing-anil-deshmukh-bail-plea-irks-supreme-court/articleshow/94464502.cms",
+          "author": null,
+          "description": "Observing that it is a legitimate expectation of a person to get expeditious hearing on bail petition, the SC expressed its displeasure over the Bombay HC for keeping bail plea of ex-Maharashtra home minister Anil Deshmukh pending for the last six months and asked the HC to grant him a hearing during the course of the week. The SC said that HC even failed to implement its order.",
+          "link": "https://timesofindia.indiatimes.com/india/six-month-high-court-delay-in-hearing-anil-deshmukh-bail-plea-irks-supreme-court/articleshow/94464502.cms",
+          "publishedOn": "2022-09-26T22:34:22.000Z",
+          "wordCount": 6060,
+          "title": "Six-month High Court delay in hearing Anil Deshmukh bail plea irks Supreme Court",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464521,width-1070,height-580,imgsize-46658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/eye-on-china-us-backs-event-on-arunachal-tribes/articleshow/94464483.cms",
           "author": null,
@@ -8380,6 +8640,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "author": null,
+          "description": "Italy took a sharp turn to the right on Monday after Giorgia Meloni's Eurosceptic populist party swept to victory in general elections, putting the one-time Mussolini admirer on course to become the first woman to lead the country.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "publishedOn": "2022-09-27T00:33:10.000Z",
+          "wordCount": 5765,
+          "title": "Far-right leader Girgia Meloni to be Italy's first woman PM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465010,width-1070,height-580,imgsize-74354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/ukrainians-in-occupied-melitopol-fear-russian-call-up-exiled-mayor/articleshow/94463541.cms",
           "author": null,
           "description": "Europe News: KYIV: Ukrainians in the Russian-occupied city of Melitopol fear they will be called up by Moscow following a referendum on joining Russia, in which so.",
@@ -9064,6 +9334,96 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-camp-boycott-gross-indiscipline-says-congress/articleshow/94465133.cms",
+          "author": null,
+          "description": "Even as Congress termed the boycott by MLAs close to Rajasthan chief minister Ashok Gehlot \"gross indiscipline\", it is learned that the party is scrambling to salvage the situation and has reached out to the state leadership. The party brass is in a dilemma owing to the AICC presidential election, for which Gehlot is the top contender.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-camp-boycott-gross-indiscipline-says-congress/articleshow/94465133.cms",
+          "publishedOn": "2022-09-27T00:51:46.000Z",
+          "wordCount": 6940,
+          "title": "Gehlot camp boycott 'gross indiscipline': Congress",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465158,width-1070,height-580,imgsize-68010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/kolkatas-muslim-organised-pujas-send-out-a-message-of-harmony/articleshow/94465051.cms",
+          "author": null,
+          "description": "The Alimuddin Street puja was revived by local Muslims after a 16-year break last year. This time, nuns from Missionaries of Charity will join their Hindu neighbours in the carnival. A six-member all-Muslim committee is in charge here.",
+          "link": "https://timesofindia.indiatimes.com/india/kolkatas-muslim-organised-pujas-send-out-a-message-of-harmony/articleshow/94465051.cms",
+          "publishedOn": "2022-09-27T00:40:44.000Z",
+          "wordCount": 5984,
+          "title": "Kolkata's Muslim-organised Pujas",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465068,width-1070,height-580,imgsize-110184,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "author": null,
+          "description": "Italy took a sharp turn to the right on Monday after Giorgia Meloni's Eurosceptic populist party swept to victory in general elections, putting the one-time Mussolini admirer on course to become the first woman to lead the country.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/far-right-leader-girgia-meloni-to-be-italys-first-woman-pm/articleshow/94465008.cms",
+          "publishedOn": "2022-09-27T00:33:10.000Z",
+          "wordCount": 5765,
+          "title": "Far-right leader to be Italy's first woman PM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94465010,width-1070,height-580,imgsize-74354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cuet-pg-results-out-marks-not-normalised/articleshow/94464945.cms",
+          "author": null,
+          "description": "Unlike CUET-UG, NTA has announced subject-wise toppers for the postgraduate entrance exam. Among universities, BHU received the maximum number of 3.5 lakh applications, followed by JNU with 2.3 lakh.",
+          "link": "https://timesofindia.indiatimes.com/india/cuet-pg-results-out-marks-not-normalised/articleshow/94464945.cms",
+          "publishedOn": "2022-09-27T00:21:51.000Z",
+          "wordCount": 5494,
+          "title": "BHU gets 3.5L applications, JNU sees 2.3L",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/delhi-hc-refuses-to-stay-dismissal-of-officer-satish-chandra-verma-who-probed-ishrat-case/articleshow/94464911.cms",
+          "author": null,
+          "description": "The Delhi high court on Monday refused to stay the Centre's order dismissing senior IPS officer Satish Chandra Verma a month before his scheduled retirement. Verma had assisted the CBI in its probe of the 2004 Ishrat Jahan encounter case between April 2010 and October 2011.",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-hc-refuses-to-stay-dismissal-of-officer-satish-chandra-verma-who-probed-ishrat-case/articleshow/94464911.cms",
+          "publishedOn": "2022-09-27T00:14:41.000Z",
+          "wordCount": 6400,
+          "title": "HC refuses to stay dismissal of Ishrat case officer",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-sets-stiffer-40-air-pollution-reduction-target-for-cities-by-2026/articleshow/94464808.cms",
+          "author": null,
+          "description": "Delhi's PM10 level reduced from 241g/m3 in 2017 to 196 g/m3 in 2021-22. Similarly, the PM10 level in Mumbai reduced from 151g/m3 in 2017 to 106 g/m3 in 2021-22 whereas it reduced from 119 g/m3 in 2017 to 105 g/m3 in Kolkata in 2021-22.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-sets-stiffer-40-air-pollution-reduction-target-for-cities-by-2026/articleshow/94464808.cms",
+          "publishedOn": "2022-09-26T23:57:54.000Z",
+          "wordCount": 6483,
+          "title": "Centre sets stiffer air pollution reduction target",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464827,width-1070,height-580,imgsize-39600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "author": null,
+          "description": "First-time Congress MLA Divya Maderna, scion of the Maderna political family, on Monday said that the condition put forth for the CLP resolution by Gehlot-loyalist MLAs was tantamount to party indiscipline.",
+          "link": "https://timesofindia.indiatimes.com/india/first-time-mla-reminds-ashok-gehlot-camp-of-history/articleshow/94464715.cms",
+          "publishedOn": "2022-09-26T23:36:24.000Z",
+          "wordCount": 5393,
+          "title": "1st-time MLA reminds Gehlot camp of history",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464726,width-1070,height-580,imgsize-27808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/not-fooling-anybody-eam-slams-f-16-package-for-pakistan/articleshow/94464676.cms",
+          "author": null,
+          "description": "Foreign minister S Jaishankar publicly expressed India's displeasure over the $450 million sustainment package for Pakistan's F-16 fleet as he said Washington was \"not fooling any- body\" by claiming the fighter jets were meant for counter-terrorism purposes.",
+          "link": "https://timesofindia.indiatimes.com/india/not-fooling-anybody-eam-slams-f-16-package-for-pakistan/articleshow/94464676.cms",
+          "publishedOn": "2022-09-26T23:25:15.000Z",
+          "wordCount": 5649,
+          "title": "Not fooling anybody: EAM slams Pakistan package",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464679,width-1070,height-580,imgsize-37422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "author": null,
+          "description": "The Rashtriya Indian Military College (RIMC) inducted two girls for the first time in the institution's history of over 100 years, reports Pankul Sharma. The 'July batch of 2022' began on Monday with students of Class 8, including the two girl students. Central command PRO Shantanu Pratap Singh termed it \"a historic moment for the college\". He said one of the girl students is from Haryana and the other is a day scholar. The decision on RIMC came after the Centre opened the doors of the NDA for women.",
+          "link": "https://timesofindia.indiatimes.com/india/in-a-first-two-girls-inducted-into-rashtriya-indian-military-college/articleshow/94464602.cms",
+          "publishedOn": "2022-09-26T23:09:59.000Z",
+          "wordCount": 5892,
+          "title": "In a first, 2 girls inducted into Rashtriya Indian Military College",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94464658,width-1070,height-580,imgsize-109524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/six-month-high-court-delay-in-hearing-anil-deshmukh-bail-plea-irks-supreme-court/articleshow/94464502.cms",
           "author": null,
           "description": "Observing that it is a legitimate expectation of a person to get expeditious hearing on bail petition, the SC expressed its displeasure over the Bombay HC for keeping bail plea of ex-Maharashtra home minister Anil Deshmukh pending for the last six months and asked the HC to grant him a hearing during the course of the week. The SC said that HC even failed to implement its order.",
@@ -9142,6 +9502,16 @@
           "wordCount": 5295,
           "title": "Live: Pro-Pilot posters in Rajasthan CM hometown",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94463389,width-1070,height-580,imgsize-59678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-former-staffers-tell-probe-team-resort-was-den-of-vice/articleshow/94462829.cms",
+          "author": null,
+          "description": "Staffers claimed that Pulkit, son of now-expelled BJP leader Vinod Arya, used to “mentally harass the employees” and \"frame\" anyone trying to quit with \"false cases of theft and assault\".",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/ankita-murder-case-former-staffers-tell-probe-team-resort-was-den-of-vice/articleshow/94462829.cms",
+          "publishedOn": "2022-09-26T17:41:59.000Z",
+          "wordCount": 7393,
+          "title": "Arya’s resort was a den of vice: Ex-staffers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94462900,width-1070,height-580,imgsize-18028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/europe/putin-grants-russian-citizenship-to-us-whistleblower-edward-snowden/articleshow/94461883.cms",
