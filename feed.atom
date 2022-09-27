@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T18:17:51.289Z</updated>
+    <updated>2022-09-27T19:16:21.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models]]></title>
+        <id>https://techcrunch.com/?p=2408916</id>
+        <link href="https://techcrunch.com/2022/09/27/lastest-ipados-beta-expands-stage-manager-older-ipad-pro-models/"/>
+        <updated>2022-09-27T19:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s latest iPadOS 16 developer beta brings Stage Manager to older iPad Pro models, as an M1 chip is no longer required. Stage Manager, which offers easier multitasking and switching between apps, was previously only compatible with the M1-powered iPad Air and the 11-inch and 12.9-inch iPad Pro models released last year. Now, the feature […]
+Apple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models by Aisha Malik originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pusha T Adds More Smoke to His McDonald’s Beef, Burning the McRib on New ‘Rib Roast’ Diss Track]]></title>
+        <id>https://www.rollingstone.com/?p=1234600875</id>
+        <link href="https://www.rollingstone.com/music/music-news/pusha-t-mcdonalds-diss-track-mcrib-rib-roast-1234600875/"/>
+        <updated>2022-09-27T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[The follow-up to the "Spicy Fish Diss" is part of the rapper's promotional partnership with Arby's]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2 will require brand-new players to unlock most of the roster through play]]></title>
+        <id>https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players</id>
+        <link href="https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players"/>
+        <updated>2022-09-27T19:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Blizzard says Overwatch newcomers will need to play about 100 matches to unlock every classic hero
+ Overwatch 2 players who are brand-new to the franchise — meaning those who never played the original Overwatch — will need to spend considerable time with the sequel to unlock the game’s existing roster of 32 heroes. Blizzard Entertainment said Tuesday that as part of Overwatch 2’s “first-time user experience,” new players will unlock the game’s modes and all original Overwatch heroes “over the course of approximately 100 matches.”
+Blizzard cited “consistent feedback from new players feeling overwhelmed by numerous game modes and heroes” in a blog post explaining how the game maker plans to accommodate an influx of newcomers with Overwatch’s free-to-pla…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt]]></title>
+        <id>https://techcrunch.com/?p=2407697</id>
+        <link href="https://techcrunch.com/2022/09/27/parker-conrad-silicon-valleys-comeback-kid-talks-rebuilding-at-disrupt/"/>
+        <updated>2022-09-27T19:00:34.000Z</updated>
+        <summary type="html"><![CDATA[If you love a great comeback story, you’ll be hard-pressed to find a more dramatic one than Parker Conrad, the former CEO of Zenefits. A legendary Silicon Valley serial entrepreneur, Conrad took Zenefits on a meteoric rise to a $4.5 billion valuation just three years after launching the company in 2013. But there is rarely […]
+Parker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood’s Web3 wallet beta is live]]></title>
+        <id>https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon</id>
+        <link href="https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon"/>
+        <updated>2022-09-27T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Currently, the wallet only supports Polygon — no relation to Vox Media’s gaming-focused publication. | Image: Robinhood
+    
+
+  
+Robinhood has launched the beta for its “Web3 wallet” for 10,000 iOS users who signed up for the waitlist. The company teased this product earlier this year after making an earlier crypto wallet more broadly available. Unlike its existing cryptocurrency wallet, the Web3 wallet isn’t just for storing cryptocurrencies that can be traded on the financial platform — it can also be used to “seamlessly access the decentralized web,” as Robinhood’s press release puts it. The wallet will also let people trade cryptocurrencies without any fees.
+The Web3 wallet also differs from the company’s other crypto wallet in that it’s self-custody, meaning you’re responsible for kee…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Shorts adds narration voiceovers, a popular TikTok feature]]></title>
+        <id>https://techcrunch.com/?p=2408930</id>
+        <link href="https://techcrunch.com/2022/09/27/youtube-shorts-narration-voiceovers-tiktok/"/>
+        <updated>2022-09-27T18:57:12.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Shorts continues to compete with TikTok by adding loads of new features that are popular on the other app. Today, the Google-owned platform is rolling out a narration voiceover feature on iOS, a tool that is already often used on TikTok. Creators use narration to add commentary on top of already-recorded videos. Such content […]
+YouTube Shorts adds narration voiceovers, a popular TikTok feature by Amanda Silberling originally published on TechCrunch]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hindus for Labour says party would strengthen bilateral ties between India, Pakistan]]></title>
+        <id>https://timesofindia.indiatimes.com/india/hindus-for-labour-says-party-would-strengthen-bilateral-ties-between-india-pakistan/articleshow/94490648.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/hindus-for-labour-says-party-would-strengthen-bilateral-ties-between-india-pakistan/articleshow/94490648.cms"/>
+        <updated>2022-09-27T18:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Hindus for Labour is calling for a future Labour government to strengthen bilateral relations between India and Pakistan in order to build strong communities in Britain, particularly in light of the Leicester violence.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaish-e-Mohammad duo killed in Kulgam gunfight]]></title>
+        <id>https://timesofindia.indiatimes.com/india/jaish-duo-killed-in-kulgam-gunfight/articleshow/94490614.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/jaish-duo-killed-in-kulgam-gunfight/articleshow/94490614.cms"/>
+        <updated>2022-09-27T18:45:51.000Z</updated>
+        <summary type="html"><![CDATA[2nd Encounter In District In 24hrs]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stage Manager isn’t just for M1 iPads anymore]]></title>
+        <id>https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1</id>
+        <link href="https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1"/>
+        <updated>2022-09-27T18:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Stage Manager is coming to some older iPad Pros. | Photo by Brennan King / The Verge
+    
+
+  
+In a major turnaround, Apple is bringing Stage Manager, one of iPadOS’s signature new features, to more iPads. Stage Manager, a new multitasking system, was previously set to be available only on iPads with M1 chips. Now, however, the feature will also be coming to third- and fourth-generation iPad Pros (which have the A12X Bionic and A12Z Bionic chips, respectively), according to a statement shared with Engadget.
+Unfortunately, Apple is also delaying one aspect of Stage Manager, and it’s one that will remain exclusive to iPads with M1 chips. Support for using Stage Manager with external displays won’t be available until a software update coming later this year.
+Here’s Apple’s full statement, from…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpretive Dance, Earbud Ads, Colorful Buildings But No Elton John or Britney Spears in ‘Hold Me Closer’ Video]]></title>
+        <id>https://www.rollingstone.com/?p=1234600824</id>
+        <link href="https://www.rollingstone.com/music/music-news/britney-spears-elton-john-hold-me-closer-video-1234600824/"/>
+        <updated>2022-09-27T18:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Video was created by Ukrainian video director Tanu Muino, who worked on Harry Styles' "As It Was" and Normani's "Wild Side"]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metal: Hellsinger adds modding tools for jazz, ska, or any other kind of Hellsinger]]></title>
         <id>https://www.polygon.com/23375116/metal-hellsinger-music-mods</id>
@@ -28,6 +148,27 @@ Unleash Hell to YOUR beat. Custom music modding is now available on PC!
 Per the game’s official website, players who have Metal: Hellsinger or its demo on PC can mod the game to work with any kind of music: K-Pop, EDM, hip-hop, or Kidz Bop. Given the nature of copyright enforcement, actually showing off those mods publicly might be tricky, but that just means folks will have to get even more creative. Imagine playing Metal: Hellsinger to the sultry tones of WTF with Marc Maron, or the outrageous stories on Normal Gossip. You already listen to podcasts while gaming, why not combine the two?]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano founder claims Ethereum community in for a ‘rough time’ following the Merge]]></title>
+        <id>https://techcrunch.com/?p=2408877</id>
+        <link href="https://techcrunch.com/2022/09/27/cardano-founder-claims-ethereum-community-in-for-a-rough-time-following-the-merge/"/>
+        <updated>2022-09-27T18:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Cardano CEO Charles Hoskinson is among the Merge critics, saying he didn’t expect Ethereum’s design of Proof-of-Stake (PoS) to be 'as rough as it is.'
+Cardano founder claims Ethereum community in for a ‘rough time’ following the Merge by Jacquelyn Melinek originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jacquelyn Melinek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saudi Arabia's crown prince named prime minister: decree]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-crown-prince-named-prime-minister-decree/articleshow/94490300.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-crown-prince-named-prime-minister-decree/articleshow/94490300.cms"/>
+        <updated>2022-09-27T18:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Saudi Arabia's powerful crown prince has been named prime minister, a post traditionally held by the king, in a government shuffle announced Tuesday night.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +209,17 @@ Per the game’s official website, players who have Metal: Hellsinger or its dem
         <summary type="html"><![CDATA[The Army will soon induct 'loitering munitions’ amid the continuing military confrontation with China in eastern Ladakh, while the force also cranks up long-range high-volume firepower with 'winterised' howitzers and advanced rockets backed by drones and weapon-locating radars along the northern borders.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix launches game handles for users of its iOS and Android mobile games]]></title>
+        <id>https://techcrunch.com/?p=2408856</id>
+        <link href="https://techcrunch.com/2022/09/27/netflix-launches-game-handles-for-users-of-its-ios-and-android-mobile-games/"/>
+        <updated>2022-09-27T17:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Netflix announced today it’s introducing a new feature to its games service that will allow its members to create game handles when they’re playing its exclusive titles. TechCrunch had previously reported the feature was in development and had been quietly tested on select titles, including The Breach, Bowling Ballers, Mahjong Solitaire and Heads Up. Now, […]
+Netflix launches game handles for users of its iOS and Android mobile games by Sarah Perez originally published on TechCrunch]]></summary>
+        <author>
+            <name>Sarah Perez</name>
         </author>
     </entry>
     <entry>
@@ -4402,6 +4554,16 @@ An hour before impact, the target asteroid, Dimorphos, wasn’t even visible in 
         <summary type="html"><![CDATA[The Kanpur Municipal Corporation (KMC) House on Saturday passed a resolution banning rearing of Pitbull and Rottweiler breeds of dogs in Kanpur.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Film Academy’s Museum Connects With Visitors in First Year]]></title>
+        <id>https://www.nytimes.com/2022/09/26/movies/academy-museum-attendance.html</id>
+        <link href="https://www.nytimes.com/2022/09/26/movies/academy-museum-attendance.html"/>
+        <updated>2022-09-26T23:42:52.000Z</updated>
+        <summary type="html"><![CDATA[The Academy Museum of Motion Pictures attracted about 20 percent more people than it expected since opening in September 2021. Now it needs to keep the momentum going.]]></summary>
+        <author>
+            <name>Brooks Barnes</name>
         </author>
     </entry>
     <entry>

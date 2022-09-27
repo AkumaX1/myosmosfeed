@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon",
+          "author": null,
+          "description": "Currently, the wallet only supports Polygon — no relation to Vox Media’s gaming-focused publication. | Image: Robinhood\n    \n\n  \nRobinhood has launched the beta for its “Web3 wallet” for 10,000 iOS users who signed up for the waitlist. The company teased this product earlier this year after making an earlier crypto wallet more broadly available. Unlike its existing cryptocurrency wallet, the Web3 wallet isn’t just for storing cryptocurrencies that can be traded on the financial platform — it can also be used to “seamlessly access the decentralized web,” as Robinhood’s press release puts it. The wallet will also let people trade cryptocurrencies without any fees.\nThe Web3 wallet also differs from the company’s other crypto wallet in that it’s self-custody, meaning you’re responsible for kee…",
+          "link": "https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon",
+          "publishedOn": "2022-09-27T19:00:03.000Z",
+          "wordCount": 12701,
+          "title": "Robinhood’s Web3 wallet beta is live",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/PSx6EldUJHuBuLaFuXfCUGIhA0M=/0x0:1400x712/1200x628/filters:focal(700x356:701x357)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059088/Robinhood_Wallet_Screenshot.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1",
+          "author": null,
+          "description": "Stage Manager is coming to some older iPad Pros. | Photo by Brennan King / The Verge\n    \n\n  \nIn a major turnaround, Apple is bringing Stage Manager, one of iPadOS’s signature new features, to more iPads. Stage Manager, a new multitasking system, was previously set to be available only on iPads with M1 chips. Now, however, the feature will also be coming to third- and fourth-generation iPad Pros (which have the A12X Bionic and A12Z Bionic chips, respectively), according to a statement shared with Engadget.\nUnfortunately, Apple is also delaying one aspect of Stage Manager, and it’s one that will remain exclusive to iPads with M1 chips. Support for using Stage Manager with external displays won’t be available until a software update coming later this year.\nHere’s Apple’s full statement, from…",
+          "link": "https://www.theverge.com/2022/9/27/23375174/apple-ipad-pro-stage-manager-m1-ipados-16-1",
+          "publishedOn": "2022-09-27T18:35:43.000Z",
+          "wordCount": 12482,
+          "title": "Stage Manager isn’t just for M1 iPads anymore",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/975UoL3Ee_zSB2mQUNb4rr1wNXA=/0x0:2040x1360/1200x628/filters:focal(1134x655:1135x656)/cdn.vox-cdn.com/uploads/chorus_asset/file/19827389/bking_200322_3945_0022.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23375102/intel-samsung-display-slidable-pc-concept",
           "author": null,
           "description": "Image: Intel\n    \n\n  \nSamsung Display and Intel are working on “slidable” PCs. During Intel’s Innovation keynote today, Samsung Display CEO JS Choi appeared onstage to show off a prototype PC that slides from a 13-inch tablet into a 17-inch display.\n“We’re announcing the world’s first 17-inch slidable display for PCs,” said Choi. “This device will satisfy various needs for a larger screen and portability as well.” Samsung Display has chosen to implement a sliding (rather than foldable) technology for its flexible PC displays, and Choi appeared to indicate that “foldable is gone” on PCs for now.\nImage: Intel\n      Samsung Display’s concept PC slides into place.\n  \nIntel has been experimenting with new PC form factors for years and was initially preparing for a dual-screen and foldable future before Microsoft dropped its plans for Windows 10X on foldables. These types of new form factors desperately need the software and apps to make them shine, and it’s not clear yet how Intel will make slidable PCs a reality.\nThe prototype device that Samsung Display and Intel have shown off today essentially turns a 13-inch tablet into a 17-inch monitor with a flexible display and a sliding mechanism. Intel was quick to demonstrate its new Unison software on this display, which aims to connect Intel-powered computers to smartphones — including iPhones.\nThe slidable PC itself is just a concept for now, and there’s no word from Intel or Samsung Display on when it will become a reality.",
@@ -3010,6 +3030,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/26/movies/academy-museum-attendance.html",
+          "author": "Brooks Barnes",
+          "description": "The Academy Museum of Motion Pictures attracted about 20 percent more people than it expected since opening in September 2021. Now it needs to keep the momentum going.",
+          "link": "https://www.nytimes.com/2022/09/26/movies/academy-museum-attendance.html",
+          "publishedOn": "2022-09-26T23:42:52.000Z",
+          "wordCount": null,
+          "title": "Film Academy’s Museum Connects With Visitors in First Year",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/26/arts/alec-baldwin-rust-shooting-charges.html",
           "author": "Julia Jacobs",
           "description": "In a funding request, the Santa Fe County district attorney said that up to four people potentially face criminal charges in the shooting death of a cinematographer on a film set last year.",
@@ -3266,6 +3296,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600875",
+          "author": "Jon Blistein",
+          "description": "The follow-up to the \"Spicy Fish Diss\" is part of the rapper's promotional partnership with Arby's",
+          "link": "https://www.rollingstone.com/music/music-news/pusha-t-mcdonalds-diss-track-mcrib-rib-roast-1234600875/",
+          "publishedOn": "2022-09-27T19:00:58.000Z",
+          "wordCount": 7158,
+          "title": "Pusha T Adds More Smoke to His McDonald’s Beef, Burning the McRib on New ‘Rib Roast’ Diss Track",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/AP22232500023044.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600824",
+          "author": "Tomás Mier",
+          "description": "Video was created by Ukrainian video director Tanu Muino, who worked on Harry Styles' \"As It Was\" and Normani's \"Wild Side\"",
+          "link": "https://www.rollingstone.com/music/music-news/britney-spears-elton-john-hold-me-closer-video-1234600824/",
+          "publishedOn": "2022-09-27T18:23:44.000Z",
+          "wordCount": 7258,
+          "title": "Interpretive Dance, Earbud Ads, Colorful Buildings But No Elton John or Britney Spears in ‘Hold Me Closer’ Video",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/hold-me-closer.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234600231",
           "author": "Ethan Millman",
@@ -3960,6 +4010,56 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408916",
+          "author": "Aisha Malik",
+          "description": "Apple’s latest iPadOS 16 developer beta brings Stage Manager to older iPad Pro models, as an M1 chip is no longer required. Stage Manager, which offers easier multitasking and switching between apps, was previously only compatible with the M1-powered iPad Air and the 11-inch and 12.9-inch iPad Pro models released last year. Now, the feature […]\nApple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/lastest-ipados-beta-expands-stage-manager-older-ipad-pro-models/",
+          "publishedOn": "2022-09-27T19:04:57.000Z",
+          "wordCount": 7077,
+          "title": "Apple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/apple-wwdc-2022-2022-06-06-at-2.45.01-PM.jpg?resize=1200,670"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407697",
+          "author": "Lauren Simonds",
+          "description": "If you love a great comeback story, you’ll be hard-pressed to find a more dramatic one than Parker Conrad, the former CEO of Zenefits. A legendary Silicon Valley serial entrepreneur, Conrad took Zenefits on a meteoric rise to a $4.5 billion valuation just three years after launching the company in 2013. But there is rarely […]\nParker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/parker-conrad-silicon-valleys-comeback-kid-talks-rebuilding-at-disrupt/",
+          "publishedOn": "2022-09-27T19:00:34.000Z",
+          "wordCount": 7154,
+          "title": "Parker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/parker_conrad.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408930",
+          "author": "Amanda Silberling",
+          "description": "YouTube Shorts continues to compete with TikTok by adding loads of new features that are popular on the other app. Today, the Google-owned platform is rolling out a narration voiceover feature on iOS, a tool that is already often used on TikTok. Creators use narration to add commentary on top of already-recorded videos. Such content […]\nYouTube Shorts adds narration voiceovers, a popular TikTok feature by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/youtube-shorts-narration-voiceovers-tiktok/",
+          "publishedOn": "2022-09-27T18:57:12.000Z",
+          "wordCount": 6743,
+          "title": "YouTube Shorts adds narration voiceovers, a popular TikTok feature",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408877",
+          "author": "Jacquelyn Melinek",
+          "description": "Cardano CEO Charles Hoskinson is among the Merge critics, saying he didn’t expect Ethereum’s design of Proof-of-Stake (PoS) to be 'as rough as it is.'\nCardano founder claims Ethereum community in for a ‘rough time’ following the Merge by Jacquelyn Melinek originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/cardano-founder-claims-ethereum-community-in-for-a-rough-time-following-the-merge/",
+          "publishedOn": "2022-09-27T18:13:11.000Z",
+          "wordCount": 6636,
+          "title": "Cardano founder claims Ethereum community in for a ‘rough time’ following the Merge",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059097278.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408856",
+          "author": "Sarah Perez",
+          "description": "Netflix announced today it’s introducing a new feature to its games service that will allow its members to create game handles when they’re playing its exclusive titles. TechCrunch had previously reported the feature was in development and had been quietly tested on select titles, including The Breach, Bowling Ballers, Mahjong Solitaire and Heads Up. Now, […]\nNetflix launches game handles for users of its iOS and Android mobile games by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/netflix-launches-game-handles-for-users-of-its-ios-and-android-mobile-games/",
+          "publishedOn": "2022-09-27T17:57:52.000Z",
+          "wordCount": 7193,
+          "title": "Netflix launches game handles for users of its iOS and Android mobile games",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/N-Games-Promo-Ident1.png?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2408790",
           "author": "Kyle Wiggers",
@@ -6818,6 +6918,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nBlizzard says Overwatch newcomers will need to play about 100 matches to unlock every classic hero\n Overwatch 2 players who are brand-new to the franchise — meaning those who never played the original Overwatch — will need to spend considerable time with the sequel to unlock the game’s existing roster of 32 heroes. Blizzard Entertainment said Tuesday that as part of Overwatch 2’s “first-time user experience,” new players will unlock the game’s modes and all original Overwatch heroes “over the course of approximately 100 matches.”\nBlizzard cited “consistent feedback from new players feeling overwhelmed by numerous game modes and heroes” in a blog post explaining how the game maker plans to accommodate an influx of newcomers with Overwatch’s free-to-pla…",
+          "link": "https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players",
+          "publishedOn": "2022-09-27T19:00:38.000Z",
+          "wordCount": 2253,
+          "title": "Overwatch 2 will require brand-new players to unlock most of the roster through play",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/qgmiIVfijdLR66ePGnls6zsl5zE=/0x0:2560x1340/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059316/OW2_Blizzcon_2019_Rio_IGC_Group_01.jpg"
+        },
         {
           "id": "https://www.polygon.com/23375116/metal-hellsinger-music-mods",
           "author": null,
@@ -10378,6 +10488,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/hindus-for-labour-says-party-would-strengthen-bilateral-ties-between-india-pakistan/articleshow/94490648.cms",
+          "author": null,
+          "description": "Hindus for Labour is calling for a future Labour government to strengthen bilateral relations between India and Pakistan in order to build strong communities in Britain, particularly in light of the Leicester violence.",
+          "link": "https://timesofindia.indiatimes.com/india/hindus-for-labour-says-party-would-strengthen-bilateral-ties-between-india-pakistan/articleshow/94490648.cms",
+          "publishedOn": "2022-09-27T18:51:34.000Z",
+          "wordCount": 5838,
+          "title": "Hindus for Labour says party would strengthen bilateral ties between India, Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaish-duo-killed-in-kulgam-gunfight/articleshow/94490614.cms",
+          "author": null,
+          "description": "2nd Encounter In District In 24hrs",
+          "link": "https://timesofindia.indiatimes.com/india/jaish-duo-killed-in-kulgam-gunfight/articleshow/94490614.cms",
+          "publishedOn": "2022-09-27T18:45:51.000Z",
+          "wordCount": 5240,
+          "title": "Jaish-e-Mohammad duo killed in Kulgam gunfight",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/army-set-to-induct-kamikaze-drones-deploys-more-winterised-howitzers-on-china-front/articleshow/94490192.cms",
           "author": null,
           "description": "The Army will soon induct 'loitering munitions’ amid the continuing military confrontation with China in eastern Ladakh, while the force also cranks up long-range high-volume firepower with 'winterised' howitzers and advanced rockets backed by drones and weapon-locating radars along the northern borders.",
@@ -11834,6 +11964,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-crown-prince-named-prime-minister-decree/articleshow/94490300.cms",
+          "author": null,
+          "description": "Saudi Arabia's powerful crown prince has been named prime minister, a post traditionally held by the king, in a government shuffle announced Tuesday night.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-crown-prince-named-prime-minister-decree/articleshow/94490300.cms",
+          "publishedOn": "2022-09-27T18:11:24.000Z",
+          "wordCount": 5164,
+          "title": "Saudi Arabia's crown prince named prime minister: decree",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94490312,width-1070,height-580,imgsize-17554,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/us-president-biden-assures-florida-mayors-of-federal-help-as-hurricane-ian-nears/articleshow/94489664.cms",
           "author": null,
