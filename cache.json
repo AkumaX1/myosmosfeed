@@ -12,6 +12,96 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nAmazon just held its fall hardware launch event, where it revealed a ton of new tech, including a new Kindle Scribe, an updated Fire TV cube, and a second-generation Echo Auto device. Here’s a roundup of some of the most exciting announcements that came out of Amazon’s event.\nThe new Kindle Scribe comes with a stylus\nImage: Amazon\n      Amazon’s new Kindle Scribe has an E-Ink display.\n  \nKindles aren’t just for reading anymore — the newest Kindle is an E-Ink tablet that you can use for reading and writing. It comes with a 10.2-inch screen with 300ppi, along with a Basic Pen or Premium Pen option for the stylus.\nThe Premium Pen costs $30 more and comes with a customizable shortcut button and a sensor for an eraser. With the standard stylus, t…",
+          "link": "https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa",
+          "publishedOn": "2022-09-28T17:29:48.000Z",
+          "wordCount": 9328,
+          "title": "The 11 biggest announcements at Amazon’s hardware launch event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gGXG4F_gdAUOH7ys60vQz873lYs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935559/acastro_STK103__02.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376657/fda-covid-test-emergency-authorization-rules",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nSince the start of the pandemic, the Food and Drug Administration has signed off on 430 COVID-19 tests through its emergency use authorization powers — rules that let the agency push tests and drugs out the door more quickly during an emergency. Now, over two years later, the agency is backing off that system and will treat most COVID-19 tests just like other medical tests. In a statement Tuesday, the FDA said that most new COVID-19 tests will have to go through the normal, non-emergency test review process. \n“For most new tests, shifting to traditional premarket review would best meet the public health needs at the current stage of the COVID-19 public health emergency,” said Jeff Shuren, director of the FDA’s Center for Devices and Radiological Health, in the statement.\nThe emergency use authorization system lets the FDA review and authorize tests quickly, which was key during the early stages of the COVID-19 pandemic when there weren’t nearly enough tests available to meet skyrocketing demand. It’s how we got the original tests that used deep nasal swabs to find the coronavirus, and it’s how all of the rapid at-home tests made it to drug store shelves. But now, there are plenty of COVID-19 tests available, the FDA said in its statement. There isn’t as much of a crush, so the agency can take more time reviewing new tests and give them full, formal approval. \nThe United States is still under a federal public health emergency, so the FDA can still use the emergency use authorization process if it feels it needs to. In the statement, the agency said it will still use that process in a few cases — like for tests that use new technologies, or for tests that diagnose a new variant.\nBut for other COVID-19 tests, the process will go back to normal. It’s another signal that federal agencies are shifting to make COVID-19 part of the normal public health backdrop, rather than an acute emergency.",
+          "link": "https://www.theverge.com/2022/9/28/23376657/fda-covid-test-emergency-authorization-rules",
+          "publishedOn": "2022-09-28T17:27:54.000Z",
+          "wordCount": 7251,
+          "title": "COVID-19 tests will no longer get emergency treatment at the FDA",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6GtOe4JuTeflX5YAW1QiqfIbrVk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19933221/acastro_200428_1777_coronavirus_0002.0.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23373968/google-maps-immersive-aerial-view-neighborhood-vibe-live-view-search-on",
+          "author": null,
+          "description": "Illustration: The Verge\n    \n\n  \nIf you open up Google Maps right now, I’m guessing you’ll probably search for where you want to go using a traditional 2D map. But Google has some ideas to help you discover the world around you in a far more immersive way, and it showed off some of what it’s working on at its Search On event on Wednesday.\nOne of those new features is what Google calls Immersive View, which it first demonstrated at this year’s Google I/O. On its face, it’s essentially a 3D aerial view of a certain area or location — think Apple Maps’ Flyover feature — but Immersive View also lets you go a level deeper by checking out weather, traffic, and even drill down to explore individual buildings. During Wednesday’s show, Google Maps VP and GM Chris Phillips gave a brief aerial tour o…",
+          "link": "https://www.theverge.com/2022/9/28/23373968/google-maps-immersive-aerial-view-neighborhood-vibe-live-view-search-on",
+          "publishedOn": "2022-09-28T17:26:07.000Z",
+          "wordCount": 7601,
+          "title": "Google wants to make Maps much more immersive",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376886/ai-scanning-save-endangered-whales-shipping",
+          "author": null,
+          "description": "Buoys equipped with onboard computers could use AI to help save humpback whales in the US from ship collisions. | Photo by Tim Graham / Getty Images\n    \n\n  \nAI software monitoring sounds from within bright yellow buoys could reduce whale deaths by identifying whale species and pod locations. Scientists then verify the data and relay that information to any ships passing nearby, helping them to avoid the animals. The Whale Safe project was launched by Benioff Ocean Science Laboratory and partners, with the first Whale Safe systems already deployed in the Santa Barbara Channel near the ports of Los Angeles and Long Beach.\nEach buoy carries an onboard computer that records whale sounds using an underwater microphone. An AI algorithm then detects the clicks and squeals of specific whale speci…",
+          "link": "https://www.theverge.com/2022/9/28/23376886/ai-scanning-save-endangered-whales-shipping",
+          "publishedOn": "2022-09-28T17:21:13.000Z",
+          "wordCount": 8270,
+          "title": "Whale Safe project trials mic’d buoys with AI scanning to help prevent ship strikes",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6BCk5WEDXPAA0Hi8J5IPAQtIM08=/0x0:5196x3464/1200x628/filters:focal(2598x1732:2599x1733)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061692/1175256578.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23373804/google-multisearch-more-languages-visual-search",
+          "author": null,
+          "description": "The Verge\n    \n\n  \nGoogle’s impressive multisearch tool, which lets you search using both an image and some text, will be expanding to more than 70 global languages in the next few months, the company announced at its Search On event on Wednesday. \nMultisearch uses Google Lens to make it easier to search for things that might be tricky to dig into with just text. Let’s say you see a jacket you like but want to find it in a different color. With multisearch, you can open up Google Lens in Google’s Android or iOS apps, snap a pic of the jacket, type out the color you want to find the jacket in, and search. By making multisearch available in many more languages, a lot more people will be able to use it; the tool initially rolled out in April in a US-only beta, and it’s currently available glo…",
+          "link": "https://www.theverge.com/2022/9/28/23373804/google-multisearch-more-languages-visual-search",
+          "publishedOn": "2022-09-28T17:17:57.000Z",
+          "wordCount": 8060,
+          "title": "Google’s impressive multisearch tool will be available in a lot more languages",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix",
+          "author": null,
+          "description": "Kristen Radtke / The Verge; Getty Images\n    \n\n  \nWelcome to the Wednesday edition of Hot Pod. You can blame Rosh Hashanah for my tardiness. We have a lot to get into today, but first, some shameless self-promotion! I made an episode of The Vergecast about how the rise of streaming has changed music creation and what it means to be a star. Making podcasts is fun, who knew?\nToday, CNN is laying off some of its audio staff, Spotify is trying to stem the flow of white supremacist music, and iHeart is buying illegitimate downloads through mobile games. \nCNN lays off audio staffers\nCNN is cutting some of its podcast staff as it refocuses its audio business, according to a laid-off employee. Alexander McCall, who worked as a product manager at CNN Audio, tweeted yesterday that he and other podca…",
+          "link": "https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix",
+          "publishedOn": "2022-09-28T17:15:00.000Z",
+          "wordCount": 9408,
+          "title": "CNN lays off audio staffers as it shifts podcast strategy",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376764/amazon-alexa-smart-home-upgrades-routines-hunches-scheduling",
+          "author": null,
+          "description": "Amazon’s smart displays like the Echo Show 10 (pictured) will soon be able to display multiple security camera feeds. | Photo by Jennifer Pattison Tuohy / The Verge\n    \n\n  \nAmidst a slew of new hardware announcements today, Amazon is also announcing a host of new capabilities for Alexa, including a handful of new smart home features. The company hasn’t announced exact release dates for the updates, but its press release says it hopes to roll them out “over the coming months.”\nIt might sound like a small change, but one of the more significant upgrades is the ability to quickly and easily schedule smart home device actions for moments in the future. Although it’s previously been possible to schedule actions via the Alexa app, now the process is a lot simpler, thanks to voice commands like …",
+          "link": "https://www.theverge.com/2022/9/28/23376764/amazon-alexa-smart-home-upgrades-routines-hunches-scheduling",
+          "publishedOn": "2022-09-28T17:15:00.000Z",
+          "wordCount": 8688,
+          "title": "Alexa is getting some much-needed smart home upgrades",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/1N4Qi0vtvFHBEuX1x-pBLMXaZh0=/0x0:2040x1360/1200x628/filters:focal(906x724:907x725)/cdn.vox-cdn.com/uploads/chorus_asset/file/23262931/jtuohy_220217_5036_0013.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376328/ai-art-image-generator-dall-e-access-waitlist-scrapped",
+          "author": null,
+          "description": "An example of DALL-E’s “outpainting” ability — extending an image beyond its current borders. | Image: OpenAI\n    \n\n  \nOpenAI has scrapped the wait list for access to its text-to-image system DALL-E 2, meaning anyone can sign up to use the AI art generator immediately.\nThe company unveiled the original DALL-E in January 2021, with the tool impressing both AI experts and the public with its ability to turn any text description (or prompt) into a unique image. Since then, a number of other text-to-image systems have been created that rival the speed and quality of DALL-E. Other systems, like Midjourney and Stable Diffusion, are much easier for anyone to access, drawing attention away from OpenAI’s own offering.\nOpen access AI art image generators have drawn attention away from DALL-E \nOpenAI…",
+          "link": "https://www.theverge.com/2022/9/28/23376328/ai-art-image-generator-dall-e-access-waitlist-scrapped",
+          "publishedOn": "2022-09-28T17:00:00.000Z",
+          "wordCount": 8366,
+          "title": "OpenAI’s image generator DALL-E is available for anyone to use immediately",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/aXkiXHMyv8HQkQCfjxi8fRqqsLY=/0x0:1733x866/1200x628/filters:focal(867x433:868x434)/cdn.vox-cdn.com/uploads/chorus_asset/file/23996930/girl_with_a_pearl_earring.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23375992/amazon-fire-tv-omni-qled-specs-features-price",
+          "author": null,
+          "description": "The Fire TV Omni QLED TVs include full-array local dimming for better contrast and black levels. | Image: Amazon\n    \n\n  \nAmazon’s first self-branded TV sets were aimed squarely at budget shoppers and prioritized value and good software over sheer picture quality. The Fire TV Omni lineup runs the same software as the company’s popular streaming device — offering access to endless entertainment apps — and the built-in microphones allow for hands-free Alexa voice commands. Today, Amazon is announcing the latest edition to its TV series, the Fire TV Omni QLED, and this time, it’s stepping up the display specs with the inclusion of full-array local dimming. \n\n\nStarting at $799.99 and coming in 65- and 75-inch ($1,099.99) sizes, the Fire TV Omni QLED includes “up to” 96 individual dimming zones…",
+          "link": "https://www.theverge.com/2022/9/28/23375992/amazon-fire-tv-omni-qled-specs-features-price",
+          "publishedOn": "2022-09-28T17:00:00.000Z",
+          "wordCount": 8219,
+          "title": "Amazon’s latest 4K TVs improve picture quality and borrow ideas from The Frame",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/pKIK8uaKnSgYrz_0XNsjHlwZNUQ=/0x0:1450x952/1200x628/filters:focal(725x476:726x477)/cdn.vox-cdn.com/uploads/chorus_asset/file/24060399/OmniOLED.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n\n  \nThe company’s annual September events are usually a marathon of new product launches. We’ll be covering the announcements live.\n Amazon has used its past September events to announce a flying camera drone, a home robot, and an Alexa-enabled microwave. Needless to say, it’s hard to predict what the company has in store at its annual event, but we can be certain there’ll be a lot of products on tap. Chances are high we’ll see updated devices in the Echo lineup, plenty of new things that work with Alexa, and likely some announcements involving other big Amazon brands too, from Fire TV to Ring and Eero.\nThe event is being held virtually via livestream, but it’s available to watch on an invite-only basis. If you want to keep up on the event as it happens, we’ve got you covered: The Verge staff will be tuned in and reporting from the event live, so you can stick around to be filled in as details are announced.\nAmazon’s livestream starts today at 12PM ET / 9AM PT, and our live blog will kick off shortly before then. We can’t say for sure that we’ll get another gadget as glorious as the Alexa-powered Big Mouth Billy Bass, but you never really know what Amazon has in the works.\nAmazon Fall Product Event Live Blog\n(function(n){function c(t,i){n[e](h,function(n){var r,u;if(n&&(r=n[n.message?\"message\":\"data\"]+\"\",r&&r.substr&&r.substr(0,3)===\"nc:\")&&(u=r.split(\":\"),u[1]===i))switch(u[2]){case\"h\":t.style.height=u[3]+\"px\";return;case\"scrolltotop\":t.scrollIntoView();return}},!1)}for(var t,u,f,i,s,e=n.addEventListener?\"addEventListener\":\"attachEvent\",h=e===\"attachEvent\"?\"onmessage\":\"message\",o=n.document.querySelectorAll(\".live-center-embed\"),r=0;r\n',c(t.firstChild,i)))})(window);",
@@ -1129,6 +1219,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html",
+          "author": "Elian Peltier",
+          "description": "In addition to those killed, dozens of women were raped when security forces stormed a pro-democracy rally in 2009, a U.N. investigation found. Eleven men, including the country’s former president, are on trial.",
+          "link": "https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html",
+          "publishedOn": "2022-09-28T17:07:59.000Z",
+          "wordCount": 4516,
+          "title": "Guinea 2009 Massacre Trial Begins",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/28/world/28Guinea01/28Guinea01-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html",
+          "author": "Cora Engelbrecht",
+          "description": "The Revolutionary Guards Corps has been attacking Kurdish opposition groups in northern Iraq, blaming them for fomenting the unrest in Iran that was set off by the death of Mahsa Amini.",
+          "link": "https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html",
+          "publishedOn": "2022-09-28T16:18:37.000Z",
+          "wordCount": 4189,
+          "title": "Tensions in Iran Spill Across the Border Into Iraq",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/28/world/28iran-border/merlin_213959280_d9e274ad-2f78-455d-9f35-f13f81ed1d50-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/russia-draft-putin",
           "author": "Matthew Mpoke Bigg",
           "description": "",
@@ -1707,6 +1817,16 @@
           "wordCount": null,
           "title": "At 86, Jacques Pépin Isn’t Slowing Down",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/style/street-style-milan-fashion-week.html",
+          "author": "Simbarashe Cha and Sophie Butcher",
+          "description": "TikTok, K-pop and fashion student stars light up the city.",
+          "link": "https://www.nytimes.com/2022/09/27/style/street-style-milan-fashion-week.html",
+          "publishedOn": "2022-09-27T12:44:35.000Z",
+          "wordCount": 2279,
+          "title": "Street Style From Milan Fashion Week",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/26/fashion/26MILAN-STREETSTYLE/26MILAN-STREETSTYLE-facebookJumbo.jpg"
         },
         {
           "id": "https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html",
@@ -3683,6 +3803,16 @@
           "imageUrl": "https://static01.nyt.com/images/2022/10/02/books/02-BKS-NewlyPublished-Cover/02-BKS-NewlyPublished-Cover-facebookJumbo.jpg"
         },
         {
+          "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joanna-quinn.html",
+          "author": "Alexandra Jacobs",
+          "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
+          "link": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joanna-quinn.html",
+          "publishedOn": "2022-09-28T09:00:23.000Z",
+          "wordCount": 4518,
+          "title": "Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/04/books/04QUINN-COVER/04QUINN-COVER-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
           "author": "Alexandra Jacobs",
           "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
@@ -3920,6 +4050,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joanna-quinn.html",
+          "author": "Alexandra Jacobs",
+          "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
+          "link": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joanna-quinn.html",
+          "publishedOn": "2022-09-28T09:00:23.000Z",
+          "wordCount": 4518,
+          "title": "Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/04/books/04QUINN-COVER/04QUINN-COVER-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
           "author": "Alexandra Jacobs",
           "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
@@ -3988,6 +4128,16 @@
           "wordCount": null,
           "title": "Readers Share Memories of ‘Goodnight Moon’",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/theater/sesame-street-the-musical-review.html",
+          "author": "Naveen Kumar",
+          "description": "Jonathan Rockefeller’s Off Broadway production blends the charm and wit of the show’s early days with more modern characters.",
+          "link": "https://www.nytimes.com/2022/09/27/theater/sesame-street-the-musical-review.html",
+          "publishedOn": "2022-09-27T17:54:46.000Z",
+          "wordCount": 3485,
+          "title": "‘Sesame Street: The Musical’ Review: Everything’s A-OK",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/27/arts/27sesame-street1/27sesame-street1-facebookJumbo.jpg"
         },
         {
           "id": "https://www.nytimes.com/2022/09/27/movies/goat-dope-streaming-movies.html",
@@ -4306,6 +4456,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601706",
+          "author": "Daniel Kreps",
+          "description": "Box set collects unreleased home demos, live recordings, radio sessions, and alternate mixes from fertile period that produced Bowie's 1972 classic",
+          "link": "https://www.rollingstone.com/music/music-news/david-bowie-hunky-dory-reissue-divine-symmetry-1234601706/",
+          "publishedOn": "2022-09-28T16:55:01.000Z",
+          "wordCount": 9623,
+          "title": "David Bowie’s ‘Hunky Dory’ Gets Deluxe Reissue Treatment Including Unreleased Tracks",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-593246164.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601658",
+          "author": "Tomás Mier",
+          "description": "The investment company also owns Swedish House Mafia's recording and publishing rights",
+          "link": "https://www.rollingstone.com/music/music-news/avicii-estate-sells-dj-catalog-1234601658/",
+          "publishedOn": "2022-09-28T16:18:47.000Z",
+          "wordCount": 9214,
+          "title": "Avicii Estate Sells Majority of Late DJ’s Catalog to Pophouse",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/avicii-family-sells-catalog.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601579",
           "author": "Jodi Guglielmi",
@@ -5240,6 +5410,206 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408615",
+          "author": "Sarah Perez",
+          "description": "In addition to a new lineup of Alexa-enabled devices, Amazon at its fall event today also introduced a series of Alexa updates aimed at users of its Echo Show devices with a screen. The features include those focused on entertainment — like bringing Fire TV to Echo Show 15 — as well as others for […]\nAmazon’s Echo Show 15 gains support for Fire TV along with other Alexa updates by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazons-echo-show-15-gains-support-for-fire-tv-along-with-other-alexa-updates/",
+          "publishedOn": "2022-09-28T17:02:52.000Z",
+          "wordCount": 6261,
+          "title": "Amazon’s Echo Show 15 gains support for Fire TV along with other Alexa updates",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-12.49.40-PM.jpg?resize=1200,677"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408690",
+          "author": "Sarah Perez",
+          "description": "Amazon today announced a number of new smart features designed to allow Alexa device owners to better control their smart home — some of which don’t even require the Alexa device owner to interact with the virtual assistant by voice. These features expand on tools Amazon has rolled out to make Alexa more proactive and […]\nAmazon Alexa gains new smart home features like a multi-camera view, new commands, and more by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-alexa-gains-new-smart-home-features-like-a-multi-camera-view-new-commands-and-more/",
+          "publishedOn": "2022-09-28T17:02:26.000Z",
+          "wordCount": 5710,
+          "title": "Amazon Alexa gains new smart home features like a multi-camera view, new commands, and more",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/05/Echo-Show-8_Glacier-White_Side-Table.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410438",
+          "author": "Rebecca Szkutak",
+          "description": "After months of declining venture deal activity, investors are starting to get active again, especially at the early stages.\nVenture deal pace is starting to ramp back up as Q4 looms by Rebecca Szkutak originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/venture-deal-pace-is-starting-to-ramp-back-up-as-q4-looms/",
+          "publishedOn": "2022-09-28T17:00:10.000Z",
+          "wordCount": 4770,
+          "title": "Venture deal pace is starting to ramp back up as Q4 looms",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1302801668.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409055",
+          "author": "Sarah Perez",
+          "description": "Amazon today introduced two new Fire TV devices designed to cater to customers seeking a more premium experience. At its fall hardware event this afternoon, the company showed off the latest version of its high-end media player, the Fire TV Cube, as well as new higher-end TVs with the Fire TV Omni QLED series models. […]\nAmazon updates its Fire TV lineup with a new Fire TV Cube, QLED TVs and Alexa Voice Remote Pro by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-updates-fire-tv-lineup-with-a-new-fire-tv-cube-fire-tv-omni-qled-tvs-and-alexa-voice-remote-pro/",
+          "publishedOn": "2022-09-28T17:00:01.000Z",
+          "wordCount": 7199,
+          "title": "Amazon updates its Fire TV lineup with a new Fire TV Cube, QLED TVs and Alexa Voice Remote Pro",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Fire-TV-Cube-2.jpg?resize=1200,901"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410546",
+          "author": "Haje Jan Kamps",
+          "description": "Weighing in at $100, Amazon’s new the new Blink Floodlight camera brings more brightness and smarts to its camera line. The company also launched a brand new $30 Blink Mini Pan Tilt mount, giving security-conscious customers the ability to look around a bit more than before. The two new additions to the Blink family were […]\nAmazon sheds some light on your would-be intruders with Blink Floodlight by Haje Jan Kamps originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/blink-floodlight/",
+          "publishedOn": "2022-09-28T16:53:27.000Z",
+          "wordCount": 6019,
+          "title": "Amazon sheds some light on your would-be intruders with Blink Floodlight",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Blink-floodlight.jpeg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410495",
+          "author": "Aisha Malik",
+          "description": "Amazon is launching two new designs for its Echo Dot Kids devices, the company announced at its virtual event today. The Echo Dot Kids devices now come in new Owl and Dragon designs. The two new designs join Amazon’s current Echo Dot Kids devices: the Tiger and the Panda. The new designs will be available […]\nAmazon is adding two new designs for Echo Dot Kids devices by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-adding-two-new-designs-echo-dot-kids-devices/",
+          "publishedOn": "2022-09-28T16:51:33.000Z",
+          "wordCount": 5077,
+          "title": "Amazon is adding two new designs for Echo Dot Kids devices",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/amazon-echo-dots-kids.jpg?resize=1200,671"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410104",
+          "author": "Brian Heater",
+          "description": "There’s been a standing question surrounding how seriously we should ultimately take Astro. The product was launched exactly one year ago, in limited quantities as a Day One offering for $1,500 a pop. My interaction with the robot was (at the time) limited to a few pre-launch demos. I came away from the experience thinking […]\nAmazon’s Astro robot gets pet detection, home security updates and an SDK by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-astro-robot-pet-detection/",
+          "publishedOn": "2022-09-28T16:45:21.000Z",
+          "wordCount": 6163,
+          "title": "Amazon’s Astro robot gets pet detection, home security updates and an SDK",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screenshot-2022-09-28-at-10.30.11-AM.jpg?resize=1200,691"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410451",
+          "author": "Kyle Wiggers",
+          "description": "During Amazon’s hardware event this morning, the company announced new Alexa-powered Echo devices including new Echo Dot and Echo Dot with Clock models. One of the more notable upgrades is Eero Built-in for Echo Dot, which allows Echo Dot devices to serve as Wi-Fi extenders for existing Eero networks. The Echo Studio — which now […]\nAmazon debuts new Echo devices, including Echo Studio with spatial audio by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-debuts-new-echo-devices-including-echo-studio-with-spatial-audio/",
+          "publishedOn": "2022-09-28T16:44:59.000Z",
+          "wordCount": 5674,
+          "title": "Amazon debuts new Echo devices, including Echo Studio with spatial audio",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-12.22.33-PM.jpg?resize=1200,677"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2405435",
+          "author": "Sarah Perez",
+          "description": "Alongside news of new Alexa devices, Amazon today unveiled a refresh of its Ring lineup including new cameras, alarms and more. The flagship addition for consumers is a new “pro-tier” security camera joining Ring’s radar-powered lineup, the Spotlight Cam Pro. However, the more interesting (or creepy?) news is Amazon’s plan to integrate its Ring Virtual […]\nAmazon’s Ring announces plan to use a robot for security patrols alongside new home security devices by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazons-ring-announces-plan-to-use-a-robot-for-security-patrols-alongside-new-home-security-devices/",
+          "publishedOn": "2022-09-28T16:43:38.000Z",
+          "wordCount": 6255,
+          "title": "Amazon’s Ring announces plan to use a robot for security patrols alongside new home security devices",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Astro-VSG-2.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410360",
+          "author": "Lauren Forristal",
+          "description": "In May, Lionsgate announced that it planned to spin off Starz. According to an SEC filing today, the company is switching focus on spinning out its studio business from Starz instead of the other way around. The SEC filing states, “[Lionsgate] remains on a path to separating our Starz and studio businesses. As negotiations progress, we […]\nLionsgate to spin off studio biz, announces new ‘Lionsgate+’ brand for international streaming by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/lionsgate-to-spin-off-studio-biz-announces-new-lionsgate-brand-for-international-streaming/",
+          "publishedOn": "2022-09-28T16:37:11.000Z",
+          "wordCount": 5198,
+          "title": "Lionsgate to spin off studio biz, announces new ‘Lionsgate+’ brand for international streaming",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/maxresdefault.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408743",
+          "author": "Sarah Perez",
+          "description": "Amazon today announced a new feature for U.S. drivers who may need assistance while on the road — like if they get a flat tire or run out of gas, for instance. At its annual hardware event, the company introduced a service called Amazon Roadside Assistance, accessible from the Alexa app, or via Echo Auto […]\nAmazon Alexa and Echo Auto can now call for roadside assistance by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-alexa-and-echo-auto-can-now-call-for-roadside-assistance/",
+          "publishedOn": "2022-09-28T16:33:40.000Z",
+          "wordCount": 5478,
+          "title": "Amazon Alexa and Echo Auto can now call for roadside assistance",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Echo_Auto_1920x1080_301.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409318",
+          "author": "Brian Heater",
+          "description": "Exactly a year ago today, Amazon announced its entry into the fitness tracking space, with the launch of the Halo View. The wearable was certainly priced right at $80, with a design that appeared to take cues from some Fitbit offerings. Ultimately, however, the product received the wrong kind of press, over the matter of […]\nAmazon’s latest Halo device is a bedside sleep tracker by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-halo-rise-sleep-tracker/",
+          "publishedOn": "2022-09-28T16:20:18.000Z",
+          "wordCount": 5847,
+          "title": "Amazon’s latest Halo device is a bedside sleep tracker",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Halo-Rise_1920x1080_303.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410300",
+          "author": "Mike Butcher",
+          "description": "While Iranians struggle to access the Internet as civil protests continue to grow against the regime, TechCrunch has spoken to a tech entrepreneur inside the country to get a picture of how a small group of activists is working to get internet access working again inside the country after it was debilitated by the government, […]\nIranian tech activists detail how tech industry could unlock Internet access to aid anti-regime protests by Mike Butcher originally published on TechCrunch",
+          "link": "https://techcrunch.com/?p=2410300",
+          "publishedOn": "2022-09-28T16:13:27.000Z",
+          "wordCount": null,
+          "title": "Iranian tech activists detail how tech industry could unlock Internet access to aid anti-regime protests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409232",
+          "author": "Brian Heater",
+          "description": "Hard to believe that, in 2022, the Kindle can still headline an Amazon event — and yet, he were are. We’re expecting plenty of news out of today’s virtual Amazon event (and slightly melancholy that we weren’t able to cover it from Seattle), but the company’s 15-year-old e-reader line is the big news this time […]\nKindle Scribe brings writing to Amazon’s popular e-reader by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-kindle-scribe/",
+          "publishedOn": "2022-09-28T16:10:53.000Z",
+          "wordCount": 6457,
+          "title": "Kindle Scribe brings writing to Amazon’s popular e-reader",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Kindle-Scribe_Journaling.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410086",
+          "author": "Amanda Silberling",
+          "description": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon, is a stroke of genius or madness. Now, there’s an AI generator for that. Justin Pinkney, a […]\nMake your very own AI-generated Pokémon-like creature by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
+          "publishedOn": "2022-09-28T16:07:11.000Z",
+          "wordCount": 5675,
+          "title": "Make your very own AI-generated Pokémon-like creature",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/text-to-pokemon-ai.jpg?resize=1200,628"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410326",
+          "author": "Natasha Mascarenhas",
+          "description": "Despite the boom of education technology investment and innovation over the past few years, founder Julia Stiglitz, who broke into the edtech world as an early Coursera employee, thinks there’s a lot of room to grow. Her new startup, CoRise, sells expert-led programming to people who want to up-skill their careers. It’s a fresh play […]\nCoRise’s approach to up-skilling involves fewer courses and more access by Natasha Mascarenhas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/corises-approach-to-up-skilling-involves-fewer-courses-and-more-access/",
+          "publishedOn": "2022-09-28T16:06:56.000Z",
+          "wordCount": 6651,
+          "title": "CoRise’s approach to up-skilling involves fewer courses and more access",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1243567244.jpg?resize=1200,842"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409917",
+          "author": "Alex Wilhelm",
+          "description": "This year, we're told, profit is in and growth is out. And yet there's some indication that growth expectations may be higher than ever. Let's attempt to square the circle.\nWhat are the new must-hit startup metrics? by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/what-are-the-new-must-hit-startup-metrics/",
+          "publishedOn": "2022-09-28T16:00:17.000Z",
+          "wordCount": 4826,
+          "title": "What are the new must-hit startup metrics?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_RD.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410265",
+          "author": "Sarah Perez",
+          "description": "Google is revamping its Play Store in an effort to help users better discover and install apps to other devices via their phone. The company announced a series of changes to the Google Play Store that will enable cross-device discovery and new tools to help developers better showcase their non-phone apps, it says. Among the […]\nGoogle updates the Play Store to make it easier to find non-phone apps by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-updates-the-play-store-to-make-it-easier-to-find-non-phone-apps/",
+          "publishedOn": "2022-09-28T15:43:22.000Z",
+          "wordCount": 5508,
+          "title": "Google updates the Play Store to make it easier to find non-phone apps",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1235737290.jpeg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409241",
+          "author": "Kyle Wiggers",
+          "description": "Several months after launching DALL-E 2 as a part of a limited beta, OpenAI today removed the waitlist for the AI-powered image-generating system, which will remain in beta but let anyone sign up and begin using it. Pricing will carry over from the waitlist period, with first-time users getting a finite amount of credits that […]\nOpenAI removes the waitlist for DALL-E 2, allowing anyone to sign up by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/openai-removes-the-waitlist-for-dall-e-2-allowing-anyone-to-sign-up/",
+          "publishedOn": "2022-09-28T15:39:44.000Z",
+          "wordCount": 6520,
+          "title": "OpenAI removes the waitlist for DALL-E 2, allowing anyone to sign up",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2405756",
+          "author": "Lauren Simonds",
+          "description": "What do more than 2,000 data scientists, engineers and machine learning professionals have in common? They’re all getting ready to hear from a fantastic lineup of speakers at the iMerit ML DataOps Summit on November 8. Over the course of the summit, you’ll hear from 18 of the the most influential and forward-thinking leaders in […]\nHear game-changing AI and ML leaders at the iMerit ML DataOps Summit by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/hear-game-changing-ai-and-ml-leaders-at-the-imerit-ml-dataops-summit/",
+          "publishedOn": "2022-09-28T15:15:29.000Z",
+          "wordCount": 5450,
+          "title": "Hear game-changing AI and ML leaders at the iMerit ML DataOps Summit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/iMerit-Feature-image500x300-2.png"
+        },
         {
           "id": "https://techcrunch.com/?p=2408345",
           "author": "Catherine Shu",
@@ -6838,6 +7208,81 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "bvmy74",
+          "author": "Luis Chaparro",
+          "description": "Abigail Hay Urrutia was arrested in Oaxaca but found dead in her jail cell five hours later. New video footage casts further doubt on the official claim that she committed suicide in her jail cell.",
+          "link": "https://www.vice.com/en_us/article/bvmy74/abigail-video-suicide-police",
+          "publishedOn": "2022-09-28T17:22:58.000Z",
+          "wordCount": 5429,
+          "title": "Video Shows Cops Roughed Up Abigail Before She Died by “Suicide” in Jail Cell",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63347d9aeb72de009818750a/lede/1664384412310-screen-shot-2022-09-28-at-115207.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63347d9aeb72de009818750a/lede/1664384412310-screen-shot-2022-09-28-at-115207.png"
+        },
+        {
+          "id": "z34qz8",
+          "author": "Jason Koebler",
+          "description": "Dlugy, who is one of Hans Niemann's coaches and was recently namedropped by Magnus Carlsen, cheated in his own tournaments in 2017 and 2020, according to emails he exchanged with Chess.com.",
+          "link": "https://www.vice.com/en_us/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show",
+          "publishedOn": "2022-09-28T17:22:22.000Z",
+          "wordCount": 10304,
+          "title": "Chess Grandmaster Maxim Dlugy Admitted to Cheating on Chess.com, Emails Show",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63347a85ebc3340094516236/lede/1664383645832-gettyimages-607873477.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63347a85ebc3340094516236/lede/1664383645832-gettyimages-607873477.jpeg"
+        },
+        {
+          "id": "n7z43x",
+          "author": "Tess Owen",
+          "description": "The 23-year-old Mississippi man faces federal hate charges that could jail him for 10 years.",
+          "link": "https://www.vice.com/en_us/article/n7z43x/cross-burning-mississippi-axel-cox",
+          "publishedOn": "2022-09-28T17:21:59.000Z",
+          "wordCount": 4548,
+          "title": "Man Burned a Cross in His Yard to Threaten Black Neighbors, Feds Allege",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6334811fd18e93009f8fcd8b/lede/1664385633097-cross-burning.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6334811fd18e93009f8fcd8b/lede/1664385633097-cross-burning.png"
+        },
+        {
+          "id": "epz5bz",
+          "author": "Angie Jaime",
+          "description": "After my dad's death, the show's second season reminded me that lost relatives also find ways to help us heal.",
+          "link": "https://www.vice.com/en_us/article/epz5bz/reservation-dogs-helped-me-grieve-my-indigenous-father",
+          "publishedOn": "2022-09-28T17:13:46.000Z",
+          "wordCount": 6430,
+          "title": "‘Reservation Dogs’ Showed Me an Indigenous Way to Grieve",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6334630ab94bd8009d42c412/lede/1664377610747-rds2090035r.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6334630ab94bd8009d42c412/lede/1664377610747-rds2090035r.jpeg"
+        },
+        {
+          "id": "93anqv",
+          "author": "Paul Blest",
+          "description": "“It’s just total disrespect,” a fellow county commissioner said of the photos.",
+          "link": "https://www.vice.com/en_us/article/93anqv/desantis-florida-moore-kkk-costume",
+          "publishedOn": "2022-09-28T17:08:13.000Z",
+          "wordCount": 4033,
+          "title": "DeSantis Appointee in Majority-Black County Resigns Over KKK Costume Pics",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63347b47ebc3340094516273/lede/1664384265821-gettyimages-1242599149.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63347b47ebc3340094516273/lede/1664384265821-gettyimages-1242599149.jpeg"
+        },
+        {
           "id": "aken7k",
           "author": "Emily Green",
           "description": "Art lovers were aghast. Mexican authorities suggested the entrepreneur who did it may have broken the law. Experts warned it may all be a hoax.",
@@ -7910,6 +8355,26 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/world/2022/9/28/23376356/nord-stream-pipeline-russia-explosions-sabotage",
+          "author": null,
+          "description": "Danish Defense shows the gas leaking at Nord Stream 2 seen from the Danish F-16 interceptor on Bornholm, Denmark, on September 27. | Danish Defence/Anadolu Agency via Getty Images\n    \n\n  \nThe undersea explosions in two gas pipelines from Russia exposed Europe’s vulnerabilities — just as the continent faces a looming energy crisis.\n European and NATO officials are blaming sabotage for three leaks in the Nord Stream 1 and 2 undersea pipelines running from Russia to Germany under the Baltic Sea. EU officials did not dd anyone directly, but the allegation underscored the uncertainty around Europe’s energy standoff with Russia, and how volatile the continent’s energy security is as winter approaches. \nOfficials detected significant drops in pressure in the Nord Stream 2 pipeline on Monday, and…",
+          "link": "https://www.vox.com/world/2022/9/28/23376356/nord-stream-pipeline-russia-explosions-sabotage",
+          "publishedOn": "2022-09-28T17:20:00.000Z",
+          "wordCount": 3822,
+          "title": "The Nord Stream pipeline sabotage is a warning to Europe",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/nCzhGxYdkMEluMqJNogvEZYfixg=/0x32:1146x632/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24060975/1243544531.jpg"
+        },
+        {
+          "id": "https://www.vox.com/2022/9/28/23376847/frank-lloyd-wright-corporate-office-sc-johnson",
+          "author": null,
+          "description": "The SC Johnson administration building was Frank Lloyd Wright’s corporate masterpiece. What does it feel like? \n SC Johnson’s administration building and research tower in Racine, Wisconsin, have become legendary as corporate headquarters buildings. \nAs the above video shows, the administration building’s “Great Workroom” is a stunning example of architect Frank Lloyd Wright’s unique approach to office design. They were built ahead of their time, the precursor to corporate campuses like Apple Park and the Googleplex. \nBut what did it really feel like? Vox’s Phil Edwards visited the headquarters to find out — and actually try to work there. First, he visited Wright’s nearby Hardy House, an earlier design that features many of the same Wright signatures found in the SC Johnson building, from custom-designed furniture to ideas about compression and expansion.\nWatch our video to follow Phil and see what it really feels like to work in such a space.\n\n\n\nYou can find this video and others like it on Vox’s YouTube channel.",
+          "link": "https://www.vox.com/2022/9/28/23376847/frank-lloyd-wright-corporate-office-sc-johnson",
+          "publishedOn": "2022-09-28T16:30:00.000Z",
+          "wordCount": 1924,
+          "title": "What it’s like to work in the world’s greatest office",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ROEaeh7V2-Sq5zp67NkO1sFaM0o=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061635/thumbchorusclean.jpeg"
+        },
+        {
           "id": "https://www.vox.com/videos/2022/9/28/23376818/queen-elizabeth-ii-commonwealth-british-monarchy",
           "author": null,
           "description": "The Commonwealth, explained.\n After centuries of colonizing much of the world, the British Empire began its fast descent in the 1960s amid a global wave of independence movements. But when Queen Elizabeth II died in 2022, she was not only still queen of 14 countries besides the United Kingdom; she was also still the leader of an organization that, on a map, looks a lot like the British Empire.\nThe British Empire created the first iteration of the Commonwealth to appease white settler colonies looking for more autonomy. It granted them more independence to govern themselves but kept them under the crown. As British leaders realized their power might be at risk throughout their colonies worldwide, the monarchy made a play to keep ties and preserve their global influence by allowing newly independent republics to join the Commonwealth, too. The only catch: They had to accept the queen as the leader of the organization. With her death, this vestige of the British Empire is now under the leadership of King Charles III. So what exactly is the Commonwealth? Why is it still here? And will it survive?\nYou can find this video and more on Vox’s YouTube Channel.",
@@ -8276,6 +8741,36 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849591625",
+          "author": "Zack Zwiezen",
+          "description": "An image found on the backend of the Xbox online store seems to reveal that Ubisoft is gearing up to launch a “Game Of The Year Upgrade Pass” for Far Cry 6. That’s…fine, I guess, but it raises the question: Which site out there thought it was the best game of 2021 and awarded it such an accolade? \nRead more...",
+          "link": "https://kotaku.com/far-cry-6-goty-game-of-the-year-leak-ubisoft-open-world-1849591625",
+          "publishedOn": "2022-09-28T17:25:00.000Z",
+          "wordCount": 6581,
+          "title": "Far Cry 6 May Be Getting A GOTY Edition Despite Getting Almost No Awards",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/50e5b490e156fa28f9dc4cddd5ca69fd.jpg"
+        },
+        {
+          "id": "1849590949",
+          "author": "Ashley Bardhan",
+          "description": "At its highest levels, chess is a male-dominated activity. There are currently only 39 women who hold the International Chess Federation (FIDE)’s highest title of Grandmaster, compared to over a thousand male Grandmasters. Even “Woman Grandmaster,” a sort of consolation prize title from FIDE that requires a 2,300…\nRead more...",
+          "link": "https://kotaku.com/chess-grandmaster-scandal-womens-grand-prix-ilya-smirin-1849590949",
+          "publishedOn": "2022-09-28T17:20:00.000Z",
+          "wordCount": 6641,
+          "title": "Chess Grandmaster Loses Job After Making Sexist Comments At Women’s Tournament",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7511ae606388bf946b8ab10223353ec6.jpg"
+        },
+        {
+          "id": "1849590913",
+          "author": "John Walker",
+          "description": "Pokémon TCG fansite PokéBeach has secured quite the find. It’s an internal video from The Pokémon Company that shows, in never-before-seen detail, exactly how a Western Pokémon card is created, from their initial design to proofing and printing. And if you love those factory shots of items getting mass produced,…\nRead more...",
+          "link": "https://kotaku.com/pokemon-tcg-cards-nintendo-design-factory-booster-box-1849590913",
+          "publishedOn": "2022-09-28T16:20:00.000Z",
+          "wordCount": 6633,
+          "title": "This Is The First Time Anyone's Fully Seen How Pokémon Cards Are Made (And Damn Is It Satisfying)",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/360d28b98bab238b06306381771c1403.jpg"
+        },
         {
           "id": "1849588507",
           "author": "Ethan Gach",
@@ -9084,6 +9579,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12",
+          "author": null,
+          "description": "Image: Wizards of the Coast\n    \n\n  \nA new official after-school kit rolls out the initiative\n Gone are the days of crowding around a wobbly card table in the basement or a trying to find some space in a cluttered dining room. Kids’ first Dungeons & Dragons adventures can now take place in their school library or the classroom itself thanks to a robust new educational initiative from Wizards of the Coast.\nD&D’s new educator resources include a brand-new kit for teachers and parents who run after-school clubs, along with webinars from experts discussing how the role-playing game improves both emotional and basic literacy skills. An official curriculum aimed at grades four to eight is also being released this month. All are free. \n“Anyone who has played Dungeons & Dragons can see the social-…",
+          "link": "https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12",
+          "publishedOn": "2022-09-28T17:15:00.000Z",
+          "wordCount": 2993,
+          "title": "D&D’s newest push is into classrooms around the world",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/r-1KbA4g-4fRNsjHM_PbMkROr2E=/0x16:898x486/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/4020588/Screenshot_2015-09-01_16.44.46.0.png"
+        },
+        {
           "id": "https://www.polygon.com/23372733/skull-bones-delayed-again-ubisoft-singapore-release-date",
           "author": null,
           "description": "Image: Ubisoft Singapore/Ubisoft\n    \n\n  \nUbisoft Singapore just cannot get the pirate sim out of drydock\n Skull & Bones, Ubisoft Singapore’s ambitious but beleaguered open-world pirate adventure, is delayed again. The publisher says it will now launch March 9, 2023.\nUbisoft announced the delay on Wednesday; Skull & Bones had been slotted for a Nov. 8 launch on Amazon Luna, Google Stadia, PlayStation 5, Windows PC, and Xbox Series X. \n“While the game development is finished at this stage, the extra time will be used to further polish and balance the experience using players’ feedback from our Technical tests and Insider Program which happened over the past two weeks,” Ubisoft said in a statement. “This is the right decision both for our players and for the long-term success of the game as March 9, 2023 provides for a suitable release window for this very unique new brand.”\nSkull & Bones was announced at E3 2017, but development on it may be traced back to 2013’s pirate-themed Assassin’s Creed 4: Black Flag. Originally given a late 2018 launch window, it has been delayed four times over the past four years.\n\n\nUbisoft Singapore, despite a lengthy project that Kotaku reported in 2021 had cost more than $120 million, appeared to turn a corner this summer when it hosted a one-hour gameplay reveal livestream and confirmed Nov. 8 as Skull & Bones’ launch date.\nSet in the Indian Ocean in the 17th century, on a map stretching from the east coast of Africa to Malaysia, Skull and Bones puts players in the role of a pirate captain seeking to make a name for themselves. Starting with a tiny ship and a spear, they’ll quickly work their way up to commanding larger vessels and crews, managing the ongoing threat of mutiny and finding enough food and plunder to placate everyone.",
@@ -9430,6 +9935,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy",
+          "author": null,
+          "description": "Photo: Marco Zanconi/Chronicle Books\n    \n\n\n  \nPut Pigsy’s Noodle Tank in a Lego Movie sequel immediately \n In the right hands, Lego sets are a form of storytelling. Whether following the prescribed on-the-box exploits of pirates, explorers, and starship captains or scrapping the instruction booklets to mix and match into genre-bending adventures, kids and adults alike have spent the last half-century constructing stories alongside their blocky structures. The artists involved with LEGO in Focus, a new photography book from Chronicle Books, take that form of play one step further.\nFor LEGO in Focus, 30 photographers from around the world grabbed their Lego minifigs to stage surreal setups that range from mundane scenes of everyday life to the microscopically fantastic. Polygon’s exclusive …",
+          "link": "https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy",
+          "publishedOn": "2022-09-28T16:35:00.000Z",
+          "wordCount": 1789,
+          "title": "These stunning Lego minifig photos are a fantasy genre all their own",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/R5z-7hCm-jtBLG5HjL4SmkEmpAw=/619x650:2295x1527/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059147/MarcoZanconi_TheChase_01.jpg"
+        },
         {
           "id": "https://www.polygon.com/23376651/blade-marvel-movie-director-leaves-mcu-phase-5",
           "author": null,
@@ -9848,6 +10363,66 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "5b99910b-0013-4b0a-a4f3-4954a135fbfc",
+          "author": "Ryan Leston",
+          "description": "Dead Space developers at EA Motive showed diehard fans the game every six weeks during early development to bounce ideas around and discuss \"polarizing\" topics.",
+          "link": "https://www.ign.com/articles/dead-space-remake-team-showed-diehard-fans-the-game-every-six-weeks-in-early-development",
+          "publishedOn": "2022-09-28T16:33:32.000Z",
+          "wordCount": 7918,
+          "title": "Dead Space Remake Team Showed Diehard Fans the Game Every Six Weeks in Early Development",
+          "imageUrl": "https://assets-prd.ignimgs.com/2021/09/12/cotc2oo-1627059665746-1631481735119.jpg?width=1280"
+        },
+        {
+          "id": "651575f1-9059-43de-9939-78c2b8cab88c",
+          "author": "Rebekah Valentine",
+          "description": "Skull & Bones, Ubisoft's pirate battler that's been in development limbo at least since 2017, has been delayed yet again. This is the fifth time.",
+          "link": "https://www.ign.com/articles/skull-and-bones-delayed-for-the-fifth-time",
+          "publishedOn": "2022-09-28T16:20:28.000Z",
+          "wordCount": 8057,
+          "title": "Skull and Bones Delayed for the Fifth Time",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/10/skull1-1662837470268.jpg?width=1280"
+        },
+        {
+          "id": "52ad04e8-16d4-415e-b34f-cc486122b264",
+          "author": "Ryan McCaffrey",
+          "description": "",
+          "link": "https://www.ign.com/articles/mina-the-hollower-the-first-preview",
+          "publishedOn": "2022-09-28T16:00:29.000Z",
+          "wordCount": 8373,
+          "title": "Mina the Hollower: The First Preview",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/minathehollower-preview-blogroll-1664324432443.jpg?width=1280"
+        },
+        {
+          "id": "3791b7c1-ff96-4971-85c9-b880d7d3855c",
+          "author": "Ryan McCaffrey",
+          "description": "",
+          "link": "https://www.ign.com/articles/dragon-ball-the-breakers-the-final-preview",
+          "publishedOn": "2022-09-28T15:00:31.000Z",
+          "wordCount": 8648,
+          "title": "Dragon Ball: The Breakers - The Final Preview",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/dragonballthebreakers-preview-blogroll-1664324182848.jpg?width=1280"
+        },
+        {
+          "id": "2c8554aa-6d4d-4c04-bc7d-99e5475c4547",
+          "author": "Taylor Lyles",
+          "description": "Intel will enter the GPU race in October with the release of its top-end GPU, the Arc A770.",
+          "link": "https://www.ign.com/articles/intel-arc-a770-graphics-card-release-date-price",
+          "publishedOn": "2022-09-28T14:29:20.000Z",
+          "wordCount": 7594,
+          "title": "Intel’s Arc A770 Gets $329 Price Tag and October Release Date",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/a770-carousel-04-rwd-png-rendition-intel-web-1648-927-1664373191431.jpg?width=1280"
+        },
+        {
+          "id": "b11dd402-595b-42a9-b16c-71cc1c161e95",
+          "author": "Kat Bailey",
+          "description": "Xbox is planning an Age of Empires Anniversary Stream for October that will include \"announcements and surprises.\" A new Anniversary Edition will also be released that day.",
+          "link": "https://www.ign.com/articles/age-of-empires-anniversary-stream-announcement",
+          "publishedOn": "2022-09-28T14:00:30.000Z",
+          "wordCount": 10323,
+          "title": "Age of Empires Anniversary Stream Will Include Announcements and 'Some Surprises'",
+          "imageUrl": "https://assets-prd.ignimgs.com/2021/10/22/ageofempires4-blogroll-1634937131979.jpg?width=1280"
+        },
+        {
           "id": "a3799576-a493-45c7-afc6-e03349094b26",
           "author": "Ryan Leston",
           "description": "Dead Island 2's developers say that the game's breakable weapons will balance its over-the-top action.",
@@ -9936,6 +10511,16 @@
           "wordCount": 9378,
           "title": "Here’s Trombone Champ Being Played With a Custom Trombone Controller",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/21/trombonechampannouncementtrailer-ign-blogroll-1663784672537.jpg?width=1280"
+        },
+        {
+          "id": "1d2259fa-2d20-4239-9e4a-33b069c260c9",
+          "author": "Jordan Sirani",
+          "description": "To keep track of 2022's best games we’ve compiled a running list of every new, standalone release that received a review score of 8 or higher from IGN.",
+          "link": "https://www.ign.com/articles/best-reviewed-games-2022",
+          "publishedOn": "2022-09-27T18:10:06.000Z",
+          "wordCount": 38036,
+          "title": "The Best Reviewed Games of 2022",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/04/25/bestgamesof2022-blogroll-1650904444022.jpg?width=1280"
         },
         {
           "id": "320fc802-e84e-48f1-a504-4cc9c5ed7abc",
@@ -11248,6 +11833,46 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/28/feature-what-are-some-of-the-best-parody-product-placements-in-anime",
+          "author": "Jared Clemons",
+          "description": "Time to head to MgRonald and post about it on mobtter\n\n\nAnime and taking well known brands and making them into something else go hand-in-hand. Today we're gonna celebrate some of the best, goofiest, and wildest anime brand parodies that are out there! Hit the jump to see if your favorite made the list!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/28/feature-what-are-some-of-the-best-parody-product-placements-in-anime",
+          "publishedOn": "2022-09-28T17:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: What Are Some of the Best Parody Product Placements in Anime?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/kaguya-sama-love-is-war-animes-next-arc-heads-to-theaters-in-winter-2022",
+          "author": "Daryl Harding",
+          "description": "A teaser visual featuring Kaguya sleeping was released\n\n\nWhile the third season of Kaguya-sama: Love Is War TV anime only finished a few months ago, we don't have to wait long for the next arc as the official Twitter account for the anime revealed tonight that the theatrical release of the next arc will be in Japan in Winter 2022. A teaser visual for the next work was unveiled alongside the premiere date and can be seen after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/kaguya-sama-love-is-war-animes-next-arc-heads-to-theaters-in-winter-2022",
+          "publishedOn": "2022-09-28T16:24:58.000Z",
+          "wordCount": 6053,
+          "title": "Kaguya-sama: Love Is War Anime's Next Arc Heads to Theaters in Winter 2022",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/794947d93644f3de149e65146d911c5d1664382247_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/28/interview-my-favorite-naruto-arc-with-jan-ochoa",
+          "author": "Adam Wescott",
+          "description": "We speak with Giant Bombcast host Jan Ochoa about his favorite arc!\n\n\nIn the first installment of the My Favorite Naruto Arc interview series to celebrate the anime's 20th anniversary, we speak with Giant Bomb Senior Producer and Bombcast host Jan Ochoa about the Chunin Exams arc! Hit the jump to read the interview!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/28/interview-my-favorite-naruto-arc-with-jan-ochoa",
+          "publishedOn": "2022-09-28T16:00:00.000Z",
+          "wordCount": null,
+          "title": "INTERVIEW: My Favorite Naruto Arc with Jan Ochoa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/lawson-celebrates-urusei-yatsuras-return-with-collab-and-confections",
+          "author": "Kara Dennison",
+          "description": "Special edition Takenoko no Sato biscuits feature Lum with candy-inspired horns\n\n\nEveryone is excited about the return of Rumiko Takahashi's Urusei Yatsura... including Lawson! The convenience store chain is teaming up with the 2022 anime to issue special-edition goods, including a line of Takenoko no Sato biscuits with unique Lum-centric packaging. Have a look at all the goods after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/lawson-celebrates-urusei-yatsuras-return-with-collab-and-confections",
+          "publishedOn": "2022-09-28T15:49:50.000Z",
+          "wordCount": 5955,
+          "title": "Lawson Celebrates Urusei Yatsura's Return with Collab and Confections",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/4cee15be783cb9f48d1cef55f4cf402d1664377836_main.png"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/heres-the-exact-time-spy-x-family-cour-2-begins",
           "author": "Joseph Luster",
@@ -13262,6 +13887,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-under-pmgkay-till-december-set-to-push-subsidy-burden/articleshow/94517361.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Calling it “festive cheer”, the government on Wednesday announced the extension of the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) for.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-under-pmgkay-till-december-set-to-push-subsidy-burden/articleshow/94517361.cms",
+          "publishedOn": "2022-09-28T17:19:35.000Z",
+          "wordCount": 6218,
+          "title": "Govt extends free ration under PMGKAY till December, set to push subsidy burden",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517365,width-1070,height-580,imgsize-105518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-cm-gehlot-leaves-for-delhi-to-meet-congress-leadership/articleshow/94517287.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Rajasthan chief minister Ashok Gehlot left for New Delhi on Wednesday night to meet the Congress leadership amid suspense over his filing of n.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-cm-gehlot-leaves-for-delhi-to-meet-congress-leadership/articleshow/94517287.cms",
+          "publishedOn": "2022-09-28T17:13:32.000Z",
+          "wordCount": 7164,
+          "title": "Rajasthan CM Gehlot leaves for Delhi, to meet Congress leadership",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517279,width-1070,height-580,imgsize-49730,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hc-says-gyanvapi-is-an-issue-of-national-importance-seeks-dg-asi-reply-on-aim-plea/articleshow/94517206.cms",
+          "author": null,
+          "description": "India News: PRAYAGRAJ: Reiterating that the Gyanvapi case is an issue of national importance, the Allahabad high court on Wednesday directed the director general .",
+          "link": "https://timesofindia.indiatimes.com/india/hc-says-gyanvapi-is-an-issue-of-national-importance-seeks-dg-asi-reply-on-aim-plea/articleshow/94517206.cms",
+          "publishedOn": "2022-09-28T17:09:37.000Z",
+          "wordCount": 6556,
+          "title": "HC says Gyanvapi is an issue of national importance, seeks DG ASI reply on AIM plea",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517204,width-1070,height-580,imgsize-119756,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/us-india-coordinate-to-retrieve-lost-ground-to-china-in-the-pacific/articleshow/94516684.cms",
+          "author": null,
+          "description": "The meeting took place on the sidelines of the first-ever US-Pacific Island Country Summit hosted by the Biden administration in what is seen as a belated recognition that China has stolen a march in strengthening ties in the region.",
+          "link": "https://timesofindia.indiatimes.com/india/us-india-coordinate-to-retrieve-lost-ground-to-china-in-the-pacific/articleshow/94516684.cms",
+          "publishedOn": "2022-09-28T16:27:48.000Z",
+          "wordCount": 7211,
+          "title": "US, India coordinate to retrieve lost ground to China in the Pacific",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94516536,width-1070,height-580,imgsize-50804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/centre-appoints-r-venkataramani-as-the-new-attorney-general/articleshow/94516098.cms",
           "author": null,
@@ -16594,6 +17259,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-highlights-arshdeep-chahar-set-it-up-as-india-win-low-scoring-opener-by-8-wickets/articleshow/94517055.cms",
+          "author": null,
+          "description": "Arshdeep Singh and Deepak Chahar hit the South Africans hard with some magical swing bowling before Suryakumar Yadav's little gem on a difficult track ensured an easy eight-wicket victory for India in the first T20 International on Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-highlights-arshdeep-chahar-set-it-up-as-india-win-low-scoring-opener-by-8-wickets/articleshow/94517055.cms",
+          "publishedOn": "2022-09-28T17:09:51.000Z",
+          "wordCount": 7213,
+          "title": "1st T20I: India win low-scoring opener by 8 wickets",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517177,width-1070,height-580,imgsize-97976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-india-coordinate-to-retrieve-lost-ground-to-china-in-the-pacific/articleshow/94516393.cms",
+          "author": null,
+          "description": "The meeting took place on the sidelines of the first-ever US-Pacific Island Country Summit hosted by the Biden administration in what is seen as a belated recognition that China has stolen a march in strengthening ties in the region.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-india-coordinate-to-retrieve-lost-ground-to-china-in-the-pacific/articleshow/94516393.cms",
+          "publishedOn": "2022-09-28T16:27:48.000Z",
+          "wordCount": 9196,
+          "title": "US, India coordinate to retrieve lost ground to China in the Pacific",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94516536,width-1070,height-580,imgsize-50804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/bhowneesh-mendiratta-earns-indias-first-2024-paris-olympics-quota-place-in-shooting/articleshow/94516199.cms",
           "author": null,
           "description": "Bhowneesh Mendiratta earned India's first 2024 Paris Olympics quota place in shooting, after he finished a commendable fourth in the men's trap competition at the ongoing ISSF Shotgun World Championship in Osijek, Croatia.",
@@ -16822,6 +17507,16 @@
           "wordCount": 10055,
           "title": "Mollywood actor Vijayan Karanthoor suffers from liver disease",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94498247,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-970180/94498247.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/vikram-vedha/movie-review/94498413.cms",
+          "author": null,
+          "description": "Pushkar-Gayathri, the writer-directors of the film, have pretty much stuck to the blue-print they created for the original, including the way they weave in the elements of folklore in it.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/vikram-vedha/movie-review/94498413.cms",
+          "publishedOn": "2022-09-28T06:03:40.000Z",
+          "wordCount": 4964,
+          "title": "Movie review: Vikram Vedha",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94498413/94498413.jpg?17602"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/mamata-banerjee-may-be-arrested-soon-claims-west-bengal-bjp-chief-sukanta-majumdar/articleshow/94498182.cms",
