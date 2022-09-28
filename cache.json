@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23377208/google-results-about-you-notifications-personal-info",
+          "author": null,
+          "description": "The Verge\n    \n\n  \nStarting “early next year,” Google will be able to notify you if your personal info, such as your phone number, email, or home address, shows up in search results as part of its “results about you” tool. The announcement comes as Google has officially started rolling out the tool, which lets people easily create takedown requests for results with their personal info. The tool started showing up for some people last week.\nIn a tweet, the company says the notification system will be opt-in. Ideally, it’s not something that most people will have to turn on; however, it will be nice to have the option, especially for those in high-profile positions or who find themselves targeted by harassment campaigns. \n\n\nEarly next year, you'll also be able to opt into alerts if new results appear with personally identifying information, so you can quickly request their removal from Google Search… pic.twitter.com/AFQy8bpAkX\n— Google SearchLiaison (@searchliaison) September 28, 2022\n\n\n\nIt is worth noting, though, that Google is only taking down search results, not the content on the web itself. The information will still be on whatever site is hosting it but will just be harder for people to find.\nGoogle has been letting people request that this sort of search result get taken down for a while now (and has had that ability for results that were intentional harassment or threats even longer), but it’s working to make the process significantly easier to access. The results about you tool lets you flag results with your personal info with a few button taps instead of having to find Google’s specific help article with the link to the form. \nIt also gives you a place to track those requests. When notifications for it start rolling out next year, it’ll be even more powerful since you won't have to manually seek out the potentially harmful results to report them.",
+          "link": "https://www.theverge.com/2022/9/28/23377208/google-results-about-you-notifications-personal-info",
+          "publishedOn": "2022-09-28T19:46:35.000Z",
+          "wordCount": 7727,
+          "title": "In 2023, Google can notify you if personal info pops up in search",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/zoPORZsYcJT2WjI5lx7z45IV7As=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23377170/verizon-plus-play-nfl-subscriptions-management",
+          "author": null,
+          "description": "Verizon will let you manage your NFL Plus subscription on its Plus Play platform. | Illustration by Alex Castro / The Verge\n    \n\n  \nVerizon and the NFL go way back, and on Wednesday, the two groups announced their next new partnership: NFL Plus, the NFL’s new mobile streaming service, will be one of the streaming services offered on Plus Play, Verizon’s upcoming subscription management platform. \nVerizon first announced Plus Play in March, and to me, it sounds a lot like Apple’s Channels product. With Channels, you can subscribe to streaming services using your information and payment details linked to your Apple ID and manage those services from your Apple ID account instead of trying to remember a bunch of disparate logins. Plus Play seems to be Verizon’s take on a similar idea, but instead, you manage things via your Verizon account. Verizon has already said that partners like Netflix, Peloton, Disney Plus, and HBO Max are on board, and now we can count the NFL among them.\nThat said, Plus Play still isn’t widely available yet, so if you really wanted to manage your NFL Plus through the platform, you probably can’t. Plus Play is currently in “trials,” according to Wednesday’s press release, and is set to launch in early access “later this year.” \nFor years, Verizon was the only place you could stream NFL games on a mobile phone, but that exclusivity ran out in 2017. Now, with NFL Plus, there’s once again a centralized spot to watch NFL games on your mobile phone, and you’ll soon be able to manage that service through Verizon. Teammates for life, I guess.",
+          "link": "https://www.theverge.com/2022/9/28/23377170/verizon-plus-play-nfl-subscriptions-management",
+          "publishedOn": "2022-09-28T19:37:40.000Z",
+          "wordCount": 7934,
+          "title": "Verizon Plus Play plus NFL Plus",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Rdtds6OccBwbqI-WBqKWMCSmPIg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23988705/acastro_STK066_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23377227/microsoft-discontinuing-swiftkey-ios-keyboard-app",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nMicrosoft confirmed that it’s removing SwiftKey from the Apple App Store and ending support for the iOS version of the keyboard app on October 5th. It will still be available if you’ve already downloaded SwiftKey on your iPhone, so long as you don’t uninstall it yourself.\n“Microsoft will continue support for SwiftKey Android as well as the underlying technology that powers the Windows touch keyboard,” Chris Wolfe, the director of product management at SwiftKey, said in a statement to The Verge. “For those customers who have SwiftKey installed on iOS, it will continue to work until it is manually uninstalled or a user gets a new device.”\nThe move to discontinue SwiftKey on iOS comes after months of user complaints that seemingly went unresolved. On top of that, users noticed that Microsoft hasn’t updated the SwiftKey app on iOS in over a year, prompting suspicion over whether the app had been quietly discontinued. \nIt remains unclear why Microsoft has decided to end support on iPhones. SwiftKey has been available on iOS since 2014, two years before Microsoft acquired the app. SwiftKey will still remain available and fully supported on Android, and Microsoft continues to roll out regular updates. Last year, SwiftKey brought clipboard syncing across Windows and Android devices that use the app but said it’s “not possible to sync your clips to iOS” at the time — and now we know why.",
+          "link": "https://www.theverge.com/2022/9/28/23377227/microsoft-discontinuing-swiftkey-ios-keyboard-app",
+          "publishedOn": "2022-09-28T19:22:34.000Z",
+          "wordCount": 7620,
+          "title": "Microsoft’s discontinuing SwiftKey on iOS next week",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ysjfl9L6M7F0s_Rpg8NxIclPhq0=/0x0:2040x1360/1200x628/filters:focal(929x643:930x644)/cdn.vox-cdn.com/uploads/chorus_asset/file/19206373/akrales_190913_3666_0303.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23376866/amazon-2022-preorder-kindle-scribe-halo-rise-echo-dot-eero-fire-tv-cube-omni-auto-ring-sale",
           "author": null,
           "description": "Amazon says that its Kindle Scribe includes a pen that never needs to be charged. | Image: Amazon\n    \n\n  \nIn the span of one hour, Amazon absolutely flooded the zone with a litany of product announcements. Thankfully, we were ready; we flooded our respective zone with stories covering the new Kindle Scribe, the smarter, more capable Fire TV Cube, and a lot more.\nIf you’re wondering when you can get your hands on Amazon’s latest tech, most of it will launch later this year (and as soon as October, in some cases). Better yet, many of these devices are available to preorder now. So, here are all of the preorder links, release dates, and pricing details available for Amazon’s latest slate of products.\nImage: Amazon\n  \nKindle Scribe\nThe Kindle Scribe (pictured above) is Amazon’s new, high-end …",
@@ -1328,6 +1358,36 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/politics/trump-special-master-mar-a-lago.html",
+          "author": "Charlie Savage",
+          "description": "The former president failed to derail the criminal investigation into his hoarding of sensitive documents and is stuck paying for a costly process that threatens to undermine his public claims.",
+          "link": "https://www.nytimes.com/2022/09/28/us/politics/trump-special-master-mar-a-lago.html",
+          "publishedOn": "2022-09-28T19:55:53.000Z",
+          "wordCount": null,
+          "title": "Trump’s Demand for Special Master Is Looking Like a Mistake",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/housing-prices-pandemic.html",
+          "author": "Robert J. Shiller",
+          "description": "Inflation-corrected prices may end up substantially lower as factors driving high home prices weaken with time.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/housing-prices-pandemic.html",
+          "publishedOn": "2022-09-28T19:19:04.000Z",
+          "wordCount": null,
+          "title": "FOMO Helped Drive Up Housing Prices in the Pandemic. What Can We Expect Next?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/retirement-spending.html",
+          "author": "Peter Coy",
+          "description": "As people age, they get less satisfaction from travel, cars, clothes and appliances.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/retirement-spending.html",
+          "publishedOn": "2022-09-28T19:00:07.000Z",
+          "wordCount": null,
+          "title": "In Retirement, You May Not Need to Spend So Much",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/nyregion/nyc-test-scores-pandemic.html",
           "author": "Troy Closson",
@@ -4230,6 +4290,26 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html",
+          "author": null,
+          "description": "A man comes out to his wife — and breaks apart their family. Fifteen years later, we check back in.",
+          "link": "https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html",
+          "publishedOn": "2022-09-28T20:00:09.000Z",
+          "wordCount": null,
+          "title": "Modern Love Gay Dad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html",
+          "author": "Rachel Sherman",
+          "description": "I am a senior news assistant on The Times's Culture desk. Here are five things I have been reading, listening to and watching.",
+          "link": "https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html",
+          "publishedOn": "2022-09-28T19:14:35.000Z",
+          "wordCount": 7520,
+          "title": "What’s in Our Queue? ‘My Brilliant Friend’ and More",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/02/multimedia/editors-recommendations-brilliant-friend-1-b236/editors-recommendations-brilliant-friend-1-b236-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/arts/valerie-maynard-dead.html",
           "author": "Alex Williams",
           "description": "A sculptor and printmaker aligned with the Black Arts Movement, she tackled racism and oppression while reflecting on African American culture.",
@@ -4686,6 +4766,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601786",
+          "author": "Tomás Mier",
+          "description": "\"It’s meant to bring joy while inspiring the continuous evolution of one’s self,\" singer says of new track",
+          "link": "https://www.rollingstone.com/music/music-news/ciara-summer-walker-better-thangs-song-1234601786/",
+          "publishedOn": "2022-09-28T19:43:20.000Z",
+          "wordCount": 9146,
+          "title": "Ciara Taps Summer Walker for ‘Better Thangs,’ a ‘Feel-Good R&B Anthem’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/ciara-summer-walker-song.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601763",
           "author": "Andre Gee",
@@ -5670,6 +5760,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2410804",
+          "author": "Kirsten Korosec",
+          "description": "Amazon Alexa will be the foundation of BMW’s next-generation voice assistant, the companies announced Wednesday at Amazon’s annual Devices and Services launch event. The German automaker and Amazon are have had a relationship for years now. BMW started offering the Alexa assistant in select cars starting in 2018 and the partnership has grown from there. […]\nBMW will use Amazon Alexa to build its next voice assistant by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/bmw-will-use-amazon-alexa-to-build-its-next-voice-assistant/",
+          "publishedOn": "2022-09-28T19:22:51.000Z",
+          "wordCount": 6962,
+          "title": "BMW will use Amazon Alexa to build its next voice assistant",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/bmw-hydrogen-x5-badge-detail.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2410820",
           "author": "Rebecca Bellan",
@@ -9262,6 +9362,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849592983",
+          "author": "Claire Jackson",
+          "description": "Haven’t you always wanted to play a card game featuring Kirby’s Chef Kawasaki wearing a series of microscopic bikinis? Me neither, but for a brief shining window this month, you theoretically could thanks to a Japanese fan creating an M-rated card game that delivered exactly that. But that’s all in the past as Kirby…\nRead more...",
+          "link": "https://kotaku.com/kirby-chef-kawasaki-mini-bikini-hal-laboratory-nintendo-1849592983",
+          "publishedOn": "2022-09-28T20:05:00.000Z",
+          "wordCount": 5513,
+          "title": "Lewd Card Game Gets Shut Down By Kirby Studio",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ff930a1556384c2c6d65b896e1eec721.jpg"
+        },
+        {
+          "id": "1849592841",
+          "author": "Ashley Bardhan and Levi Winslow",
+          "description": "Call of Duty: Modern Warfare 2 completed its beta testing on September 26, and, despite a few hiccups, Kick-Ass actress Chloë Grace Moretz (and, presumably, other people) want to know what to play while waiting for the full game’s release on October 28.\nRead more...",
+          "link": "https://kotaku.com/cod-modern-warfare-2-infinity-ward-apex-legends-1849592841",
+          "publishedOn": "2022-09-28T19:45:00.000Z",
+          "wordCount": 6707,
+          "title": "14 Shooters To Play While Waiting On Call Of Duty: Modern Warfare 2",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/419135f586c0d0c9b8f01c7a623b7c32.jpg"
+        },
+        {
           "id": "1849591625",
           "author": "Zack Zwiezen",
           "description": "An image found on the backend of the Xbox online store seems to reveal that Ubisoft is gearing up to launch a “Game Of The Year Upgrade Pass” for Far Cry 6. That’s…fine, I guess, but it raises the question: Which site out there thought it was the best game of 2021 and awarded it such an accolade? \nRead more...",
@@ -10923,6 +11043,36 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "3f614f5a-6bc6-49a8-8069-96e38be84ba7",
+          "author": "Tom Marks",
+          "description": "The Mistborn author has a decade-long story planned for Moonbreaker.",
+          "link": "https://www.ign.com/articles/brandon-sanderson-says-moonbreaker-collab-isnt-like-george-r-r-martin-and-elden-ring",
+          "publishedOn": "2022-09-28T17:25:48.000Z",
+          "wordCount": 9566,
+          "title": "Brandon Sanderson Says Moonbreaker Collab Isn't Like George R. R. Martin and Elden Ring",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/moonbreaker-thumb-1-1664384407118.jpg?width=1280"
+        },
+        {
+          "id": "43781cc0-c2e3-42ef-b93f-c95e2c166f84",
+          "author": "Jesse Schedeen",
+          "description": "Dark Horse Books has revealed The World of Assassin’s Creed Valhalla: Journey to the North, a new lore book written from the point of view of Eivor's mentor Hytham.",
+          "link": "https://www.ign.com/articles/the-world-of-assassins-creed-valhalla-journey-to-the-north-dark-horse-art-book",
+          "publishedOn": "2022-09-28T17:00:49.000Z",
+          "wordCount": 9273,
+          "title": "The World of Assassin’s Creed Valhalla: Journey to the North Reveals the Game's Hidden Lore",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/acminigamesoo-1604538235730-1664340399466.jpg?width=1280"
+        },
+        {
+          "id": "7eed2b5c-92c1-4555-823c-c8d983a27d5f",
+          "author": "Logan Plant",
+          "description": "Cyberpunk 2077 has hit a huge sales milestone, as CD Projekt revealed the game has surpassed 20 million copies sold.",
+          "link": "https://www.ign.com/articles/cyberpunk-2077-passes-20-million-copies-sold",
+          "publishedOn": "2022-09-28T16:56:01.000Z",
+          "wordCount": 8834,
+          "title": "Cyberpunk 2077 Passes 20 Million Copies Sold",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/12/cp2077-1560124248134-1653396345233-1662993661649.png?width=1280"
+        },
+        {
           "id": "5b99910b-0013-4b0a-a4f3-4954a135fbfc",
           "author": "Ryan Leston",
           "description": "Dead Space developers at EA Motive showed diehard fans the game every six weeks during early development to bounce ideas around and discuss \"polarizing\" topics.",
@@ -10991,6 +11141,16 @@
           "wordCount": 8767,
           "title": "Dead Island 2 Has Breakable Weapons to Balance Its ‘Over-the-Top Mentality’",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/08/23/ds-venice-streets-thug-1661291943715.jpg?width=1280"
+        },
+        {
+          "id": "83edb9fe-523d-4ed9-9b7b-ef5397902c97",
+          "author": "Seth G. Macy",
+          "description": "Keep your gaming laptop cool while adding a bit of flair to the whole setup with one of these laptop cooling pads.",
+          "link": "https://www.ign.com/articles/best-laptop-cooling-pad",
+          "publishedOn": "2022-09-28T12:11:49.000Z",
+          "wordCount": 14433,
+          "title": "Best Laptop Cooling Pad 2022",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/07/08/laptop-cooling-pads-2-1657267407906.jpg?width=1280"
         },
         {
           "id": "3c6e61db-592e-4ffc-8ca2-f59a910a7de4",
@@ -13580,6 +13740,36 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/chinese-nationals-attacked-in-pakistan-1-killed-2-injured/article65948055.ece",
+          "author": "PTI",
+          "description": "The incident is the latest in the recent spate of attacks on Chinese nationals in the country.",
+          "link": "https://www.thehindu.com/news/international/chinese-nationals-attacked-in-pakistan-1-killed-2-injured/article65948055.ece",
+          "publishedOn": "2022-09-28T19:50:51.000Z",
+          "wordCount": 6445,
+          "title": "Chinese nationals attacked in Pakistan; 1 killed, 2 injured",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/hurricane-ian-makes-landfall-in-southwest-florida/article65948121.ece",
+          "author": "AP",
+          "description": "About 2.5 million people had been ordered to evacuate.",
+          "link": "https://www.thehindu.com/news/international/hurricane-ian-makes-landfall-in-southwest-florida/article65948121.ece",
+          "publishedOn": "2022-09-28T19:43:36.000Z",
+          "wordCount": 5943,
+          "title": "Hurricane Ian makes landfall in southwest Florida",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/itivck/article65948126.ece/alternates/LANDSCAPE_615/1428450866.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/limited-democracy-unlimited-theocracy/article65947879.ece",
+          "author": "Stanly Johny",
+          "description": "When Khomeini established his clerical rule after Iran’s 1979 revolution, many expected the new regime to collapse. On the contrary, Khomeini purged internal dissent and consolidated the clergy’s grip over the country. However, four decades later, the system the Ayatollah built has started showing signs of age",
+          "link": "https://www.thehindu.com/news/international/limited-democracy-unlimited-theocracy/article65947879.ece",
+          "publishedOn": "2022-09-28T17:28:49.000Z",
+          "wordCount": 7374,
+          "title": "Limited democracy, unlimited theocracy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1p4m7y/article65947882.ece/alternates/LANDSCAPE_615/GettyImages-53094072.jpg"
+        },
         {
           "id": "https://www.thehindu.com/news/international/sri-lanka-imposes-social-media-ban-after-child-hunger-posts/article65947522.ece",
           "author": "AFP",
@@ -17948,6 +18138,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarina-wahab-sooraj-pancholi-is-innocent-and-rabia-khan-knows-it-exclusive/articleshow/94518390.cms",
+          "author": null,
+          "description": "Yesterday a Court order was published which criticized late actress Jiah Khan's mother Rabia Khan for misusing the judicial machinery. The order stated that Rabia was trying to protract the trial by repeatedly filing applications in various courts despite the fact that the CBI had submitted a report confirming that Jiah's death was by suicide and not homicide, as alleged by Rabia. In light of this order, ETimes reached out to the main accused, Sooraj Pancholi's mother Zarina Wahab. Here is the conversation that took place...",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarina-wahab-sooraj-pancholi-is-innocent-and-rabia-khan-knows-it-exclusive/articleshow/94518390.cms",
+          "publishedOn": "2022-09-28T18:56:04.000Z",
+          "wordCount": 9222,
+          "title": "Zarina Wahab: Sooraj Pancholi is innocent and Rabia Khan knows it - Exclusive",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518384,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-38718/94518384.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bihar-court-issues-arrest-warrant-against-ekta-kapoor-her-mother-shobha/articleshow/94518138.cms",
           "author": null,
