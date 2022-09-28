@@ -2,10 +2,309 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T08:15:56.294Z</updated>
+    <updated>2022-09-28T09:18:03.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Dave Chappelle Inexplicably Cover Radiohead’s ‘Creep’ at Taylor Hawkins Tribute]]></title>
+        <id>https://www.rollingstone.com/?p=1234601445</id>
+        <link href="https://www.rollingstone.com/music/music-news/dave-chappelle-radiohead-creep-foo-fighters-1234601445/"/>
+        <updated>2022-09-28T09:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Comedian's performance with the Foo Fighters was part of tribute concert for their late drummer at Los Angeles' Kia Forum]]></summary>
+        <author>
+            <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At 91, Ramblin’ Jack Elliott Still Wants to Tell You a Story]]></title>
+        <id>https://www.nytimes.com/2022/09/28/arts/music/ramblin-jack-elliott.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/arts/music/ramblin-jack-elliott.html"/>
+        <updated>2022-09-28T09:00:41.000Z</updated>
+        <summary type="html"><![CDATA[The singer and expert flatpicker is one of the last of the ’50s era folk music revivalists still on the road today.]]></summary>
+        <author>
+            <name>Erin Osmon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crypto World Is on Edge After a String of Hacks]]></title>
+        <id>https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html"/>
+        <updated>2022-09-28T09:00:36.000Z</updated>
+        <summary type="html"><![CDATA[More than $2 billion in digital currency has been stolen in hacks this year, shaking faith in the experimental field of decentralized finance known as DeFi.]]></summary>
+        <author>
+            <name>David Yaffe-Bellany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html"/>
+        <updated>2022-09-28T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.]]></summary>
+        <author>
+            <name>Alexandra Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html"/>
+        <updated>2022-09-28T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.]]></summary>
+        <author>
+            <name>Alexandra Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Long Road to Driverless Trucks]]></title>
+        <id>https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html"/>
+        <updated>2022-09-28T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?]]></summary>
+        <author>
+            <name>Cade Metz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Congress has shot itself in the foot, again]]></title>
+        <id>https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms"/>
+        <updated>2022-09-28T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Trust the Congress to find new ways to dig itself into a hole.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Congress has shot itself in the foot, again]]></title>
+        <id>https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms"/>
+        <updated>2022-09-28T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Trust the Congress to find new ways to dig itself into a hole.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instacart plans to expand its EBT SNAP program and enable TANF payments]]></title>
+        <id>https://techcrunch.com/?p=2408029</id>
+        <link href="https://techcrunch.com/2022/09/28/instacart-expand-ebt-snap-program-introduce-tanf-payments/"/>
+        <updated>2022-09-28T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Instacart announced today that it will expand its EBT SNAP payments program to all Instacart retail grocery partners by 2030. The company launched EBT SNAP payments in November 2020 and has since expanded the program to include over 60 retailers. The payments program is available in 49 states and will expand to Alaska next year. […]
+Instacart plans to expand its EBT SNAP program and enable TANF payments by Aisha Malik originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read Your Way Through Rome]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/rome-italy-books.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/rome-italy-books.html"/>
+        <updated>2022-09-28T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Igiaba Scego, an author born in Rome to Somali parents, recommends books that draw readers through the rich layers that make up her hometown.]]></summary>
+        <author>
+            <name>Igiaba Scego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read Your Way Through Rome]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/rome-italy-books.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/rome-italy-books.html"/>
+        <updated>2022-09-28T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Igiaba Scego, an author born in Rome to Somali parents, recommends books that draw readers through the rich layers that make up her hometown.]]></summary>
+        <author>
+            <name>Igiaba Scego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘The Family Izquierdo,’ by Rubén Degollado]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html"/>
+        <updated>2022-09-28T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[In his new novel, “The Family Izquierdo,” Rubén Degollado follows the ups and downs of one Tejano family haunted by an enduring curse.]]></summary>
+        <author>
+            <name>Kawai Strong Washburn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘The Family Izquierdo,’ by Rubén Degollado]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html"/>
+        <updated>2022-09-28T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[In his new novel, “The Family Izquierdo,” Rubén Degollado follows the ups and downs of one Tejano family haunted by an enduring curse.]]></summary>
+        <author>
+            <name>Kawai Strong Washburn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Miley Cyrus Join Foo Fighters, Def Leppard for ‘Photograph’ at Taylor Hawkins Tribute]]></title>
+        <id>https://www.rollingstone.com/?p=1234601441</id>
+        <link href="https://www.rollingstone.com/music/music-news/miley-cyrus-foo-fighters-def-leppard-photograph-1234601441/"/>
+        <updated>2022-09-28T08:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Performance was part of tribute concert for late Foo Fighters drummer at Los Angeles' Kia Forum]]></summary>
+        <author>
+            <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banded Together: Muse’s Story Runs Deep in Their Brotherhood]]></title>
+        <id>https://www.rollingstone.com/?p=1234585488</id>
+        <link href="https://www.rollingstone.com/music/music-news/banded-together-muses-story-runs-deep-their-brotherhood-1234585488/"/>
+        <updated>2022-09-28T08:55:25.000Z</updated>
+        <summary type="html"><![CDATA[In our fourth Welcome Sessions feature with Jim Beam, Muse lifts the lid on their brotherhood as we look at the power of people coming together to achieve a common goal.]]></summary>
+        <author>
+            <name>Anna Viserto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS should have been banned before PFI: Lalu]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rss-should-have-been-banned-before-pfi-lalu/articleshow/94504962.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rss-should-have-been-banned-before-pfi-lalu/articleshow/94504962.cms"/>
+        <updated>2022-09-28T08:51:31.000Z</updated>
+        <summary type="html"><![CDATA[India News: PATNA: RJD president Lalu Prasad on Wednesday called the Rashtriya Swayamsevak Sangh a "Hindu extremist organisation" that deserved to be banned.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens]]></title>
+        <id>https://techcrunch.com/?p=2409663</id>
+        <link href="https://techcrunch.com/2022/09/28/south-korean-prosecutors-confirm-they-seek-to-freeze-bitcoin-assets-linked-to-do-kwon-who-denies-moving-tokens/"/>
+        <updated>2022-09-28T08:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Luna Foundation Guard (LFG), a Bitcoin reserve co-founded by Do Kwon as a confidence backstop to protect the Terra ecosystem, refuted claims that it had transferred digital tokens to other crypto exchanges after South Korea issued an arrest warrant for Kwon on Sept 14. South Korean prosecutors say they have requested two crypto exchanges – […]
+South Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens by Kate Park originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kate Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump]]></title>
+        <id>https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023</id>
+        <link href="https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023"/>
+        <updated>2022-09-28T08:47:07.000Z</updated>
+        <summary type="html"><![CDATA[An unofficial render of what the Galaxy S23 could look like. | Image: OnLeaks / Digit
+    
+
+  
+Unofficial renders of Samsung’s next flagship smartphones suggest it could be about to ditch the camera bumps seen on this year’s Galaxy S22 and S22 Plus. Instead, renders published by OnLeaks via Digit and SmartPrix claim that the Galaxy S23 and S23 Plus will simply have three protruding camera lenses, with no raised section between them. It’s a design that looks similar to this year’s Galaxy S22 Ultra, albeit with one fewer camera sensor. 
+Elsewhere, the rumored specs of both the Galaxy S23 and S23 Plus are broadly similar to this year’s phones. The S23 is expected to have a 6.1-inch display, while the S23 Plus could have a larger 6.6-inch screen. Both are expected to once again have three came…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Landmine threats': Canada says don't travel to areas in India bordering Pakistan]]></title>
+        <id>https://timesofindia.indiatimes.com/india/landmine-threats-canada-says-dont-travel-to-areas-in-india-bordering-pakistan/articleshow/94503301.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/landmine-threats-canada-says-dont-travel-to-areas-in-india-bordering-pakistan/articleshow/94503301.cms"/>
+        <updated>2022-09-28T08:41:21.000Z</updated>
+        <summary type="html"><![CDATA[India News: OTTAWA (CANADA): In what appears to be a bizarre travel advisory, Canada has advised its citizens to avoid all travel to areas in states of Gujarat, P.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector]]></title>
+        <id>https://techcrunch.com/?p=2405043</id>
+        <link href="https://techcrunch.com/2022/09/28/vrais-brings-vr-simulation-training-to-offshore-wind-and-other-hazardous-industries/"/>
+        <updated>2022-09-28T08:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Reality (VR) has struggled to transition too far beyond gaming circles and specific industry use-cases such as medical training, but with the burgeoning metaverse movement championed by tech heavyweights such as Meta, there has been a renewed hope (and hype) around the promise that virtual worlds bring. Just yesterday, Los Angeles-based AmazeVR announced a […]
+VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector by Paul Sawers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Paul Sawers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network]]></title>
+        <id>https://techcrunch.com/?p=2409661</id>
+        <link href="https://techcrunch.com/2022/09/28/italys-satispay-raises-e320m-at-a-e1b-valuation-with-backing-from-block-tencent-and-more-for-its-indy-payment-network/"/>
+        <updated>2022-09-28T08:39:57.000Z</updated>
+        <summary type="html"><![CDATA[More signs that the economy is slowing down in Europe, and that costs are going up, are driving merchants and consumers to look for less expensive ways to carry out their everyday business. Today, a startup out of Italy called Satispay — which operates an independent payment network that bypasses big banks and credit companies […]
+Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network by Ingrid Lunden originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ingrid Lunden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mallikarjun Kharge not averse to contesting for Congress president post if Sonia Gandhi asks: Sources]]></title>
+        <id>https://timesofindia.indiatimes.com/india/mallikarjun-kharge-not-averse-to-contesting-for-congress-president-post-if-sonia-gandhi-asks-sources/articleshow/94504490.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/mallikarjun-kharge-not-averse-to-contesting-for-congress-president-post-if-sonia-gandhi-asks-sources/articleshow/94504490.cms"/>
+        <updated>2022-09-28T08:38:40.000Z</updated>
+        <summary type="html"><![CDATA[India News: BENGALURU: Senior Congress leader M Mallikarjun Kharge is not averse to running for AICC president polls if party chief Sonia Gandhi asks him to conte.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dipika Kakar’s wedding planning is a helpful manual for all brides-to-be]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/from-maintaining-a-register-to-doing-haldi-trial-dipika-kakars-wedding-planning-for-sister-in-law-saba-is-a-helpful-manual-for-all-brides-to-be/photostory/94504361.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/from-maintaining-a-register-to-doing-haldi-trial-dipika-kakars-wedding-planning-for-sister-in-law-saba-is-a-helpful-manual-for-all-brides-to-be/photostory/94504361.cms"/>
+        <updated>2022-09-28T08:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Dipika Kakar is a busy bee as she is super excited to plan for sister-in-law Saba’s November wedding. While the brother of the dulhan is busy with his show Ajooni, his doting wife Dipika has been on the top of her game with the wedding planning. The way she is planning everything can easily be considered as a wedding go-to manual for all brides-to-be. And here are a few helpful tips and tricks that you may keep in mind if you don’t want to make all the last minute rushes and have a ‘bridezilla’ moment:]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona Letter: A test to predict risk of severe Covid outcomes]]></title>
+        <id>https://timesofindia.indiatimes.com/india/coronabytes/msid-94496152.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/coronabytes/msid-94496152.cms"/>
+        <updated>2022-09-28T08:29:46.000Z</updated>
+        <summary type="html"><![CDATA[The latest news and updates on the coronavirus outbreak from Times of India. An informed guide to the covid 19 outbreak, with the latest developments]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ishaq Dar becomes Pakistan&#039;s new Finance Minister]]></title>
+        <id>https://www.thehindu.com/news/international/ishaq-dar-becomes-pakistans-new-finance-minister/article65945456.ece</id>
+        <link href="https://www.thehindu.com/news/international/ishaq-dar-becomes-pakistans-new-finance-minister/article65945456.ece"/>
+        <updated>2022-09-28T08:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Pakistan appointed Ishaq Dar as its new Finance Minister as the nation struggles to recover from an economic crisis worsened by deadly floods]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. wants U.N. Security Council to be made more inclusive &amp; increase permanent members: Blinken]]></title>
+        <id>https://www.thehindu.com/news/international/us-wants-un-security-council-to-be-made-more-inclusive-and-increase-permanent-members-anthony-blinken/article65945446.ece</id>
+        <link href="https://www.thehindu.com/news/international/us-wants-un-security-council-to-be-made-more-inclusive-and-increase-permanent-members-anthony-blinken/article65945446.ece"/>
+        <updated>2022-09-28T08:22:54.000Z</updated>
+        <summary type="html"><![CDATA[The five permanent members are Russia, the U.K., China, France and the United States and these countries can veto any substantive resolution]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Occupied Ukrainian regions to ask Putin to annex them]]></title>
+        <id>https://www.thehindu.com/news/international/occupied-ukrainian-regions-to-ask-putin-to-annex-them/article65945445.ece</id>
+        <link href="https://www.thehindu.com/news/international/occupied-ukrainian-regions-to-ask-putin-to-annex-them/article65945445.ece"/>
+        <updated>2022-09-28T08:14:28.000Z</updated>
+        <summary type="html"><![CDATA[President Zelensky said Russia’s attempts to annex Ukrainian territory will mean “there is nothing to talk about with this president of Russia”]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Edit: PFI's target sections need more effective outreach from the state]]></title>
+        <id>https://timesofindia.indiatimes.com/blogs/toi-editorials/pfi-has-been-banned-but-the-sections-that-it-appealed-to-needs-more-effective-outreach-from-the-state/</id>
+        <link href="https://timesofindia.indiatimes.com/blogs/toi-editorials/pfi-has-been-banned-but-the-sections-that-it-appealed-to-needs-more-effective-outreach-from-the-state/"/>
+        <updated>2022-09-28T08:11:12.000Z</updated>
+        <summary type="html"><![CDATA[In a late night notification, Union ministry of home affairs has banned the Popular Front of India and a number of affiliates under the Unlawful Activities Prevention Act. MHA has laid out damning charges including...]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Far From Routine, Asia Trip Presents Thorny Tests for Kamala Harris]]></title>
+        <id>https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html"/>
+        <updated>2022-09-28T08:08:51.000Z</updated>
+        <summary type="html"><![CDATA[A visit for Shinzo Abe’s controversial state funeral also includes outreach to Asian allies over military advances by North Korea and China.]]></summary>
+        <author>
+            <name>Zolan Kanno-Youngs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Must not let current developments jeopardise 2030 Agenda on SDGs: Jaishankar]]></title>
         <id>https://www.thehindu.com/news/national/must-not-let-current-developments-jeopardise-2030-agenda-on-sdgs-jaishankar/article65945428.ece</id>

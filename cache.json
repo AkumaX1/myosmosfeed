@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023",
+          "author": null,
+          "description": "An unofficial render of what the Galaxy S23 could look like. | Image: OnLeaks / Digit\n    \n\n  \nUnofficial renders of Samsung’s next flagship smartphones suggest it could be about to ditch the camera bumps seen on this year’s Galaxy S22 and S22 Plus. Instead, renders published by OnLeaks via Digit and SmartPrix claim that the Galaxy S23 and S23 Plus will simply have three protruding camera lenses, with no raised section between them. It’s a design that looks similar to this year’s Galaxy S22 Ultra, albeit with one fewer camera sensor. \nElsewhere, the rumored specs of both the Galaxy S23 and S23 Plus are broadly similar to this year’s phones. The S23 is expected to have a 6.1-inch display, while the S23 Plus could have a larger 6.6-inch screen. Both are expected to once again have three came…",
+          "link": "https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023",
+          "publishedOn": "2022-09-28T08:47:07.000Z",
+          "wordCount": 7539,
+          "title": "Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/s9bNGl3xsQggQkmpN1z7nBh7txQ=/0x0:4320x2880/1200x628/filters:focal(2160x1440:2161x1441)/cdn.vox-cdn.com/uploads/chorus_asset/file/24060914/SAMSUNG_GALAXY_S23_5K2.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12",
           "author": null,
           "description": "The Polestar 3 will be the automaker’s first electric SUV.  | Polestar\n    \n\n  \nThe Polestar 3, the aptly named third vehicle from the Swedish EV company, will be officially unveiled October 12th at an event in Copenhagen, the company announced. Ahead of the launch, Polestar is teasing a few new details about the all-electric SUV. \nThe Polestar 3 marks Polestar’s attempt to break into the highly competitive and highly lucrative SUV market in the US. When it comes out, it will slot into the premium category, putting it in competition with EVs like the Tesla Model X, Audi E-tron, Mercedes-Benz EQE, Rivian R1S, and Fisker Ocean. Notably, the Polestar will be assembled at Volvo’s factory in Charleston, South Carolina, giving it the distinction of being the company’s first EV made on US soil.\nT…",
@@ -918,6 +928,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html",
+          "author": "Zolan Kanno-Youngs",
+          "description": "A visit for Shinzo Abe’s controversial state funeral also includes outreach to Asian allies over military advances by North Korea and China.",
+          "link": "https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html",
+          "publishedOn": "2022-09-28T08:08:51.000Z",
+          "wordCount": null,
+          "title": "Far From Routine, Asia Trip Presents Thorny Tests for Kamala Harris",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html",
           "author": "Michelle Cottle",
@@ -2896,6 +2916,26 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html",
+          "author": "David Yaffe-Bellany",
+          "description": "More than $2 billion in digital currency has been stolen in hacks this year, shaking faith in the experimental field of decentralized finance known as DeFi.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html",
+          "publishedOn": "2022-09-28T09:00:36.000Z",
+          "wordCount": null,
+          "title": "The Crypto World Is on Edge After a String of Hacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+          "author": "Cade Metz",
+          "description": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
+          "link": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+          "publishedOn": "2022-09-28T09:00:16.000Z",
+          "wordCount": null,
+          "title": "The Long Road to Driverless Trucks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html",
           "author": "Adam Satariano",
           "description": "In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.",
@@ -3123,6 +3163,36 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
+          "author": "Alexandra Jacobs",
+          "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
+          "link": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
+          "publishedOn": "2022-09-28T09:00:23.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/books/rome-italy-books.html",
+          "author": "Igiaba Scego",
+          "description": "Igiaba Scego, an author born in Rome to Somali parents, recommends books that draw readers through the rich layers that make up her hometown.",
+          "link": "https://www.nytimes.com/2022/09/28/books/rome-italy-books.html",
+          "publishedOn": "2022-09-28T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Read Your Way Through Rome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html",
+          "author": "Kawai Strong Washburn",
+          "description": "In his new novel, “The Family Izquierdo,” Rubén Degollado follows the ups and downs of one Tejano family haunted by an enduring curse.",
+          "link": "https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html",
+          "publishedOn": "2022-09-28T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Family Izquierdo,’ by Rubén Degollado",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/books/goodnight-moon-memories.html",
           "author": "Elisabeth Egan",
           "description": "An essay celebrating the story’s 75th anniversary prompted an outpouring from our readers.",
@@ -3319,6 +3389,46 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/28/arts/music/ramblin-jack-elliott.html",
+          "author": "Erin Osmon",
+          "description": "The singer and expert flatpicker is one of the last of the ’50s era folk music revivalists still on the road today.",
+          "link": "https://www.nytimes.com/2022/09/28/arts/music/ramblin-jack-elliott.html",
+          "publishedOn": "2022-09-28T09:00:41.000Z",
+          "wordCount": null,
+          "title": "At 91, Ramblin’ Jack Elliott Still Wants to Tell You a Story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
+          "author": "Alexandra Jacobs",
+          "description": "Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.",
+          "link": "https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html",
+          "publishedOn": "2022-09-28T09:00:23.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/books/rome-italy-books.html",
+          "author": "Igiaba Scego",
+          "description": "Igiaba Scego, an author born in Rome to Somali parents, recommends books that draw readers through the rich layers that make up her hometown.",
+          "link": "https://www.nytimes.com/2022/09/28/books/rome-italy-books.html",
+          "publishedOn": "2022-09-28T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Read Your Way Through Rome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html",
+          "author": "Kawai Strong Washburn",
+          "description": "In his new novel, “The Family Izquierdo,” Rubén Degollado follows the ups and downs of one Tejano family haunted by an enduring curse.",
+          "link": "https://www.nytimes.com/2022/09/28/books/review/the-family-izquierdo-ruben-degollado.html",
+          "publishedOn": "2022-09-28T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Family Izquierdo,’ by Rubén Degollado",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html",
           "author": "Trish Bendix",
@@ -3656,6 +3766,36 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601445",
+          "author": "Emily Zemler",
+          "description": "Comedian's performance with the Foo Fighters was part of tribute concert for their late drummer at Los Angeles' Kia Forum",
+          "link": "https://www.rollingstone.com/music/music-news/dave-chappelle-radiohead-creep-foo-fighters-1234601445/",
+          "publishedOn": "2022-09-28T09:12:27.000Z",
+          "wordCount": 9221,
+          "title": "Watch Dave Chappelle Inexplicably Cover Radiohead’s ‘Creep’ at Taylor Hawkins Tribute",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1324730075.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601441",
+          "author": "Emily Zemler",
+          "description": "Performance was part of tribute concert for late Foo Fighters drummer at Los Angeles' Kia Forum",
+          "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-foo-fighters-def-leppard-photograph-1234601441/",
+          "publishedOn": "2022-09-28T08:57:08.000Z",
+          "wordCount": 9216,
+          "title": "Watch Miley Cyrus Join Foo Fighters, Def Leppard for ‘Photograph’ at Taylor Hawkins Tribute",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1239536662.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234585488",
+          "author": "Anna Viserto",
+          "description": "In our fourth Welcome Sessions feature with Jim Beam, Muse lifts the lid on their brotherhood as we look at the power of people coming together to achieve a common goal.",
+          "link": "https://www.rollingstone.com/music/music-news/banded-together-muses-story-runs-deep-their-brotherhood-1234585488/",
+          "publishedOn": "2022-09-28T08:55:25.000Z",
+          "wordCount": 9794,
+          "title": "Banded Together: Muse’s Story Runs Deep in Their Brotherhood",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/SamGrant_220608_JBWS_Muse_ViennaBerlin_Day3_3843.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601432",
           "author": "Emily Zemler",
@@ -4450,6 +4590,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408029",
+          "author": "Aisha Malik",
+          "description": "Instacart announced today that it will expand its EBT SNAP payments program to all Instacart retail grocery partners by 2030. The company launched EBT SNAP payments in November 2020 and has since expanded the program to include over 60 retailers. The payments program is available in 49 states and will expand to Alaska next year. […]\nInstacart plans to expand its EBT SNAP program and enable TANF payments by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/instacart-expand-ebt-snap-program-introduce-tanf-payments/",
+          "publishedOn": "2022-09-28T09:00:12.000Z",
+          "wordCount": 6842,
+          "title": "Instacart plans to expand its EBT SNAP program and enable TANF payments",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409663",
+          "author": "Kate Park",
+          "description": "Luna Foundation Guard (LFG), a Bitcoin reserve co-founded by Do Kwon as a confidence backstop to protect the Terra ecosystem, refuted claims that it had transferred digital tokens to other crypto exchanges after South Korea issued an arrest warrant for Kwon on Sept 14. South Korean prosecutors say they have requested two crypto exchanges – […]\nSouth Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens by Kate Park originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/south-korean-prosecutors-confirm-they-seek-to-freeze-bitcoin-assets-linked-to-do-kwon-who-denies-moving-tokens/",
+          "publishedOn": "2022-09-28T08:49:01.000Z",
+          "wordCount": 6817,
+          "title": "South Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1240079598.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2405043",
+          "author": "Paul Sawers",
+          "description": "Virtual Reality (VR) has struggled to transition too far beyond gaming circles and specific industry use-cases such as medical training, but with the burgeoning metaverse movement championed by tech heavyweights such as Meta, there has been a renewed hope (and hype) around the promise that virtual worlds bring. Just yesterday, Los Angeles-based AmazeVR announced a […]\nVRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/vrais-brings-vr-simulation-training-to-offshore-wind-and-other-hazardous-industries/",
+          "publishedOn": "2022-09-28T08:40:42.000Z",
+          "wordCount": 8245,
+          "title": "VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-163815170.jpg?resize=1200,849"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409661",
+          "author": "Ingrid Lunden",
+          "description": "More signs that the economy is slowing down in Europe, and that costs are going up, are driving merchants and consumers to look for less expensive ways to carry out their everyday business. Today, a startup out of Italy called Satispay — which operates an independent payment network that bypasses big banks and credit companies […]\nItaly’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/italys-satispay-raises-e320m-at-a-e1b-valuation-with-backing-from-block-tencent-and-more-for-its-indy-payment-network/",
+          "publishedOn": "2022-09-28T08:39:57.000Z",
+          "wordCount": 8079,
+          "title": "Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Coffee-Cup-With-Ball.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2409568",
           "author": "Annie Njanja",
@@ -10701,6 +10881,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/ishaq-dar-becomes-pakistans-new-finance-minister/article65945456.ece",
+          "author": "PTI",
+          "description": "Pakistan appointed Ishaq Dar as its new Finance Minister as the nation struggles to recover from an economic crisis worsened by deadly floods",
+          "link": "https://www.thehindu.com/news/international/ishaq-dar-becomes-pakistans-new-finance-minister/article65945456.ece",
+          "publishedOn": "2022-09-28T08:25:52.000Z",
+          "wordCount": 6206,
+          "title": "Ishaq Dar becomes Pakistan&#039;s new Finance Minister",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3dei2m/article65945458.ece/alternates/LANDSCAPE_615/Pakistan_Politics_ishaq_dar_ap.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/us-wants-un-security-council-to-be-made-more-inclusive-and-increase-permanent-members-anthony-blinken/article65945446.ece",
+          "author": "PTI",
+          "description": "The five permanent members are Russia, the U.K., China, France and the United States and these countries can veto any substantive resolution",
+          "link": "https://www.thehindu.com/news/international/us-wants-un-security-council-to-be-made-more-inclusive-and-increase-permanent-members-anthony-blinken/article65945446.ece",
+          "publishedOn": "2022-09-28T08:22:54.000Z",
+          "wordCount": 6531,
+          "title": "U.S. wants U.N. Security Council to be made more inclusive &amp; increase permanent members: Blinken",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/e8gqyf/article65945460.ece/alternates/LANDSCAPE_615/PTI09_28_2022_000003B.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/occupied-ukrainian-regions-to-ask-putin-to-annex-them/article65945445.ece",
+          "author": "PTI",
+          "description": "President Zelensky said Russia’s attempts to annex Ukrainian territory will mean “there is nothing to talk about with this president of Russia”",
+          "link": "https://www.thehindu.com/news/international/occupied-ukrainian-regions-to-ask-putin-to-annex-them/article65945445.ece",
+          "publishedOn": "2022-09-28T08:14:28.000Z",
+          "wordCount": 6391,
+          "title": "Occupied Ukrainian regions to ask Putin to annex them",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lqlybj/article65945464.ece/alternates/LANDSCAPE_615/2022-09-28T050010Z_1376624604_RC2MPW90RW3R_RTRMADP_3_UKRAINE-CRISIS-PUTIN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/must-not-let-current-developments-jeopardise-2030-agenda-on-sdgs-jaishankar/article65945428.ece",
           "author": "PTI",
           "description": "Secretary of State Antony Blinken said both India and the United States are working in the field of climate change",
@@ -11547,6 +11757,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Trust the Congress to find new ways to dig itself into a hole.",
+          "link": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
+          "publishedOn": "2022-09-28T09:00:14.000Z",
+          "wordCount": 6923,
+          "title": "How Congress has shot itself in the foot, again",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94504948,width-1070,height-580,imgsize-33858,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-should-have-been-banned-before-pfi-lalu/articleshow/94504962.cms",
+          "author": null,
+          "description": "India News: PATNA: RJD president Lalu Prasad on Wednesday called the Rashtriya Swayamsevak Sangh a \"Hindu extremist organisation\" that deserved to be banned.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-should-have-been-banned-before-pfi-lalu/articleshow/94504962.cms",
+          "publishedOn": "2022-09-28T08:51:31.000Z",
+          "wordCount": 5338,
+          "title": "RSS should have been banned before PFI: Lalu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94504956,width-1070,height-580,imgsize-51142,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/landmine-threats-canada-says-dont-travel-to-areas-in-india-bordering-pakistan/articleshow/94503301.cms",
+          "author": null,
+          "description": "India News: OTTAWA (CANADA): In what appears to be a bizarre travel advisory, Canada has advised its citizens to avoid all travel to areas in states of Gujarat, P.",
+          "link": "https://timesofindia.indiatimes.com/india/landmine-threats-canada-says-dont-travel-to-areas-in-india-bordering-pakistan/articleshow/94503301.cms",
+          "publishedOn": "2022-09-28T08:41:21.000Z",
+          "wordCount": 6371,
+          "title": "'Landmine threats': Canada says don't travel to areas in India bordering Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-not-averse-to-contesting-for-congress-president-post-if-sonia-gandhi-asks-sources/articleshow/94504490.cms",
+          "author": null,
+          "description": "India News: BENGALURU: Senior Congress leader M Mallikarjun Kharge is not averse to running for AICC president polls if party chief Sonia Gandhi asks him to conte.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-not-averse-to-contesting-for-congress-president-post-if-sonia-gandhi-asks-sources/articleshow/94504490.cms",
+          "publishedOn": "2022-09-28T08:38:40.000Z",
+          "wordCount": 5920,
+          "title": "Mallikarjun Kharge not averse to contesting for Congress president post if Sonia Gandhi asks: Sources",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94504483,width-1070,height-580,imgsize-1235304,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/now-banned-pfi-was-under-radar-of-government-agencies-for-long/articleshow/94500372.cms",
           "author": null,
@@ -14518,6 +14768,46 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Trust the Congress to find new ways to dig itself into a hole.",
+          "link": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
+          "publishedOn": "2022-09-28T09:00:14.000Z",
+          "wordCount": 6923,
+          "title": "How Congress has shot itself in the foot, again",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94504948,width-1070,height-580,imgsize-33858,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-maintaining-a-register-to-doing-haldi-trial-dipika-kakars-wedding-planning-for-sister-in-law-saba-is-a-helpful-manual-for-all-brides-to-be/photostory/94504361.cms",
+          "author": null,
+          "description": "Dipika Kakar is a busy bee as she is super excited to plan for sister-in-law Saba’s November wedding. While the brother of the dulhan is busy with his show Ajooni, his doting wife Dipika has been on the top of her game with the wedding planning. The way she is planning everything can easily be considered as a wedding go-to manual for all brides-to-be. And here are a few helpful tips and tricks that you may keep in mind if you don’t want to make all the last minute rushes and have a ‘bridezilla’ moment:",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-maintaining-a-register-to-doing-haldi-trial-dipika-kakars-wedding-planning-for-sister-in-law-saba-is-a-helpful-manual-for-all-brides-to-be/photostory/94504361.cms",
+          "publishedOn": "2022-09-28T08:38:18.000Z",
+          "wordCount": 10774,
+          "title": "Dipika Kakar’s wedding planning is a helpful manual for all brides-to-be",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94504325.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/coronabytes/msid-94496152.cms",
+          "author": null,
+          "description": "The latest news and updates on the coronavirus outbreak from Times of India. An informed guide to the covid 19 outbreak, with the latest developments",
+          "link": "https://timesofindia.indiatimes.com/india/coronabytes/msid-94496152.cms",
+          "publishedOn": "2022-09-28T08:29:46.000Z",
+          "wordCount": 3482,
+          "title": "Corona Letter: A test to predict risk of severe Covid outcomes",
+          "imageUrl": "https://static.toiimg.com/photo/74725117.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/pfi-has-been-banned-but-the-sections-that-it-appealed-to-needs-more-effective-outreach-from-the-state/",
+          "author": null,
+          "description": "In a late night notification, Union ministry of home affairs has banned the Popular Front of India and a number of affiliates under the Unlawful Activities Prevention Act. MHA has laid out damning charges including...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/pfi-has-been-banned-but-the-sections-that-it-appealed-to-needs-more-effective-outreach-from-the-state/",
+          "publishedOn": "2022-09-28T08:11:12.000Z",
+          "wordCount": 2837,
+          "title": "Quick Edit: PFI's target sections need more effective outreach from the state",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Thiruvananthapuram_-Activists-of-Popular-Front-of-India-PFI-block-Kazhakootam....jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-umesh-yadav-and-shahbaz-ahmed-added-to-t20i-squad/articleshow/94501988.cms",
           "author": null,
