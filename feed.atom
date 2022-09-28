@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T14:27:53.440Z</updated>
+    <updated>2022-09-28T15:14:42.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists Discover Unexplained 'Megahalo' Structures in Space That Could Reveal Secrets of Cosmic Web Connecting Universe]]></title>
+        <id>wxnpg5</id>
+        <link href="https://www.vice.com/en_us/article/wxnpg5/scientists-discover-megahalo-structures-cosmic-web"/>
+        <updated>2022-09-28T15:05:09.000Z</updated>
+        <summary type="html"><![CDATA[A team has “discovered a new type of cosmic phenomenon” that can illuminate some of the universe's biggest mysteries.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix’s The DioField Chronicle is 2022’s sleeper RPG hit]]></title>
+        <id>https://www.polygon.com/23375471/the-diofield-chronicle-tactical-rpg-square-enix-nintendo-switch-ps4-xbox-ps5-steam-pc</id>
+        <link href="https://www.polygon.com/23375471/the-diofield-chronicle-tactical-rpg-square-enix-nintendo-switch-ps4-xbox-ps5-steam-pc"/>
+        <updated>2022-09-28T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Lancarse/Square Enix
+    
+
+
+  
+Square Enix’s experimental year continues
+ Some friends and I have a saying about video games: “Less talk-y, more do-y.” It’s an extremely broad (and sometimes refutable) criticism aimed at the fact that, more often than not, video games are better when they let their gameplay speak for them. The DioField Chronicle is the latest champion of this sentiment.
+Released last week, The DioField Chronicle is yet another in Square Enix’s wealth of 2022 releases. Billed as a tactical RPG, it eschews the turn-based grid combat of a Fire Emblem, XCOM, or Final Fantasy Tactics, opting instead for real-time battles on freeform maps. As Oli Welsh pointed out in August, it plays sort of like a MOBA. My own playthrough unfolded like an A-Team training montage as I swa…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web apps on Windows are getting closer to their native counterparts]]></title>
+        <id>https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay</id>
+        <link href="https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay"/>
+        <updated>2022-09-28T15:01:04.000Z</updated>
+        <summary type="html"><![CDATA[More welcome changes to the Windows experience on the horizon. | Image: Microsoft
+    
+
+  
+Progressive web apps on Windows look more like native Windows apps than ever before. Thanks to a new feature that Microsoft just announced, the Window Controls Overlay, developers can now customize the title bar of their PWAs. 
+Previously, web apps did not have access to this feature, which could lead to empty space, clashing colors, and other oddities that made some PWAs look decidedly un-app-like. The new feature should help developers fix these problems. Web apps now have access to the “full surface area” of their app window, excluding only the buttons in the top-right corner — minimize, etc. remain untouchable.
+“Recently, with many new web capabilities in the Chromium browser engine and UX change…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeadsUp helps PLG sales teams understand how and when to sell]]></title>
+        <id>https://techcrunch.com/?p=2408345</id>
+        <link href="https://techcrunch.com/2022/09/28/headsup-helps-plg-sales-teams-understand-how-and-when-to-sell/"/>
+        <updated>2022-09-28T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[For many non-technical sales teams at product-led growth companies, it’s difficult to sift through reams of data to find out the best way to engage with potential paying customers. That’s a problem that HeadsUp, a conversion engine for product-led sales, wants to solve. The San Francisco-based startup announced today it has raised $8.5 million in […]
+HeadsUp helps PLG sales teams understand how and when to sell by Catherine Shu originally published on TechCrunch]]></summary>
+        <author>
+            <name>Catherine Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Sophie: Is it OK to use a visitor visa while holding an H-1B?]]></title>
+        <id>https://techcrunch.com/?p=2408749</id>
+        <link href="https://techcrunch.com/2022/09/28/dear-sophie-is-it-ok-to-use-a-visitor-visa-while-holding-an-h-1b/"/>
+        <updated>2022-09-28T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[I’m in Toronto, Canada, and I was approved for an H-1B. Can I visit the U.S. on a previous B-1/B-2 visa this November? 
+Dear Sophie: Is it OK to use a visitor visa while holding an H-1B? by Ram Iyer originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Diesel Tesla Got a YouTuber in Trouble With the EPA]]></title>
+        <id>4axqng</id>
+        <link href="https://www.vice.com/en_us/article/4axqng/this-diesel-tesla-got-a-youtuber-in-trouble-with-the-epa"/>
+        <updated>2022-09-28T14:59:32.000Z</updated>
+        <summary type="html"><![CDATA[The regulators appear to have taken offense at modifying an electric vehicle to run on gas.]]></summary>
+        <author>
+            <name>Matthew Gault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA and Dynasty Warriors devs reveal their take on Monster Hunter]]></title>
+        <id>https://www.polygon.com/23376642/wild-hearts-release-date-trailer-announcement-ea-koei-tecmo-omega-force</id>
+        <link href="https://www.polygon.com/23376642/wild-hearts-release-date-trailer-announcement-ea-koei-tecmo-omega-force"/>
+        <updated>2022-09-28T14:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Image: Omega Force/Koei Tecmo/Electronic Arts
+    
+
+  
+Omega Force’s Wild Hearts launches in February 2023
+ Publishers Electronic Arts and Koei Tecmo and Dynasty Warriors series developer Omega Force revealed a new take on the monster-hunting genre on Wednesday: Wild Hearts, an action-focused hunting game set in fantasy feudal Japan, where players will battle giant “nature-infused beasts” called Kemono.
+Differentiating Wild Hearts from Capcom’s Monster Hunter series is a mechanic called Karakuri, which are described as “sophisticated mechanisms crafted from a lost, ancient technology.” As seen in the debut trailer for Wild Hearts, those Karakuri include things like fantastical giant mallets, ballistae, and bombs that can handicap, stun, or damage giant creatures. Of course, players will al…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brandi Carlile Talks Bible Parables, Sings ‘You and Me on the Rock’ on ‘Austin City Limits’ Season Premiere]]></title>
+        <id>https://www.rollingstone.com/?p=1234601194</id>
+        <link href="https://www.rollingstone.com/music/music-country/brandi-carlile-austin-city-limits-season-premiere-1234601194/"/>
+        <updated>2022-09-28T14:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Carlile is joined by Shooter Jennings for the live-music mainstay's 48th season]]></summary>
+        <author>
+            <name>Jon Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel’s upcoming Blade movie has lost its director]]></title>
+        <id>https://www.theverge.com/2022/9/28/23376559/bassam-tariq-blade-marvel-studios-mahershala-ali</id>
+        <link href="https://www.theverge.com/2022/9/28/23376559/bassam-tariq-blade-marvel-studios-mahershala-ali"/>
+        <updated>2022-09-28T14:43:14.000Z</updated>
+        <summary type="html"><![CDATA[The Blade production logo. | Image: Marvel Studios
+    
+
+  
+Though Marvel’s upcoming Blade reboot starring Mahershala Ali was meant to start production this year ahead of its debut next fall, the movie’s just hit something of a significant hiccup with the unexpected departure of director Bassam Tariq.
+In a statement to The Hollywood Reporter last night, Marvel attributed Tariq’s Blade exit to “continued shifts in our production schedule” and thanked him for his contributions to the project thus far. In his own statements, Tariq echoed the studio’s sentiments about their working relationship having been a good one and expressed his eagerness “to see where the next director takes the film.”
+Details about the new Blade have been surprisingly sparse since the project was first announced to much fanfare back at San Diego Comic-Con in 2019, and it wasn’t until last year’s Eternals that the studio began teasing out how the daywalking vampire might pop up in the MCU. While it’s always notable when a director dips out of a movie like this, it also isn’t all that uncommon or surprising given how far out from their actual production start dates these things are always announced. In the same way that the new Fantastic Four movie found Matt Shakman to direct after Jon Watts’ exit, it won’t be long before someone steps up to the plate and gets ahold of Blade, which is still slated to hit theaters on November 3rd, 2023.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU seeks trade sanctions on Russia over 'sham' Ukraine votes]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/eu-seeks-trade-sanctions-on-russia-over-sham-ukraine-votes/articleshow/94514432.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/eu-seeks-trade-sanctions-on-russia-over-sham-ukraine-votes/articleshow/94514432.cms"/>
+        <updated>2022-09-28T14:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: BRUSSELS: European Union countries should impose “biting sanctions” on Russian trade and hit officials responsible for “sham referendums” held in part.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel’s Blade movie reboot abruptly loses its director]]></title>
+        <id>https://www.polygon.com/23376651/blade-marvel-movie-director-leaves-mcu-phase-5</id>
+        <link href="https://www.polygon.com/23376651/blade-marvel-movie-director-leaves-mcu-phase-5"/>
+        <updated>2022-09-28T14:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Wesley Snipes as Eric Brooks, the vampire-hunter Blade, in his namesake 1998 film. | Photo: Warner Home Video
+    
+
+  
+Production was set to begin on the MCU installment in November
+ Marvel Studios’ forthcoming Blade reboot has lost its director, Bassam Tariq, less than two months before production was expected to begin, Variety reported Tuesday. The departure could complicate the Marvel Cinematic Universe’s packed schedule, which has Blade premiering Nov. 3, 2023.
+Tariq confirmed to Variety he was out as director; but the trade also reported that Tariq is still attached to the project as executive producer. “Eager to see where the next director takes the film,” Tariq told Variety.
+Blade, a reboot of Wesley Snipes’ vampire-hunting cult hit from 1998, was revealed at San Diego Comic-Con 2019. It is slated to be part of the MCU’s “Phase 5,” announced at SDCC this past July. 
+
+
+Although this film is part of the overall MCU, Blade is a key figure among the super-monsters subgenre that Marvel Comics spun up in several 1970s publications, including crossovers with The Amazing Spider-Man. The most recent screen adaptation from this line of heroes and villains was March’s poorly received (and non-MCU Sony Pictures adaptation) Morbius.
+That said, Marvel Studios keeps its releases on a tight schedule and often teases or links them up narratively, in post-credits sequences or the films themselves. If Tariq leaving Blade as director delays the movie overall, it could affect other Phase 5 movies, like May 2023’s Guardians of the Galaxy Vol. 3 or The Marvels, planned for July 28, 2023.
+Blade made his first MCU appearance with actor Mahershala Ali’s voice-over in a post-credits sequence for 2021’s Eternals, in which Blade speaks to The Black Knight, Dane Whitman (played by Kit Harington).]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredible Halo Infinite Map Captures Iconic Toy Story Room In Its Full Glory]]></title>
+        <id>1849588432</id>
+        <link href="https://kotaku.com/toy-story-andys-room-halo-infinite-forge-red-nomster-1849588432"/>
+        <updated>2022-09-28T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Read more...]]></summary>
+        <author>
+            <name>Eric Schulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deadpool 3 won’t mess with Wolverine’s death in Logan, swear Ryan Reynolds and Hugh Jackman]]></title>
+        <id>https://www.polygon.com/23376562/deadpool-3-wolverine-death-logan</id>
+        <link href="https://www.polygon.com/23376562/deadpool-3-wolverine-death-logan"/>
+        <updated>2022-09-28T14:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Image: Marvel Studios
+    
+
+  
+We can’t tell what’s a joke anymore
+ In true Deadpool fashion, Ryan Reynolds bypassed Marvel’s giant San Diego Comic-Con and D23 events and instead updated fans on the status of Deadpool 3 via a quippy video on Twitter. On Tuesday, Reynolds announced that not only was the Deadpool sequel officially in the works at Marvel Studios (after being in limbo in the wake of Disney’s acquisition of 20th Century Fox), but the Merc with a Mouth would bring one of his X-Men friends along for the ride: Wolverine. Despite retirement, Hugh Jackman would pick up his claws one more time for Deadpool 3.
+The news immediately raised questions about what the heck Deadpool 3 would be about, and when it would take place. Jackman’s run as Wolverine ended definitively — as far as comi…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana developer platform Coral raises $20M led by FTX, Jump Crypto to build web3’s iPhone]]></title>
+        <id>https://techcrunch.com/?p=2410035</id>
+        <link href="https://techcrunch.com/2022/09/28/solana-coral-ftx-jump-crypto-iphone-web3-apps-xnfts/"/>
+        <updated>2022-09-28T14:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Developers are a huge catalyst for growth in the competitive world of layer-one blockchains. Where the devs go, they build out applications and robust ecosystems, and user activity and interest tends to follow. Coral has been instrumental in building out dev tools for the Solana blockchain ecosystem. The startup created Anchor, which it says is […]
+Solana developer platform Coral raises $20M led by FTX, Jump Crypto to build web3’s iPhone by Anita Ramaswamy originally published on TechCrunch]]></summary>
+        <author>
+            <name>Anita Ramaswamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly Published, From Stanley Crouch to the Indigenous Americas]]></title>
+        <id>https://www.nytimes.com/2022/09/28/books/review/new-this-week.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/books/review/new-this-week.html"/>
+        <updated>2022-09-28T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[A selection of books published this week; plus, a peek at what our colleagues around the newsroom are reading.]]></summary>
+        <author>
+            <name>NYT &gt; Books</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EQT acquires Billtrust, a company automating the invoice-to-cash process, for $1.7B]]></title>
+        <id>https://techcrunch.com/?p=2409988</id>
+        <link href="https://techcrunch.com/2022/09/28/eqt-acquires-billtrust-a-company-automating-the-invoice-to-cash-process-for-1-7b/"/>
+        <updated>2022-09-28T14:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Billtrust, a company developing a platform to automate the invoice-to-cash process, today announced that it agreed to be acquired by EQT, the Sweden-based private equity firm, for $1.7 billion in an all-cash deal. Approved by Billtrust’s board of directors, the transaction is expected to close in Q1 2023 subject to the green light from Billtrust’s […]
+EQT acquires Billtrust, a company automating the invoice-to-cash process, for $1.7B by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOP Official Supported Murder Charges for Women Who Get Abortions]]></title>
+        <id>v7vy7a</id>
+        <link href="https://www.vice.com/en_us/article/v7vy7a/doug-mastriano-abortions-murder-charges"/>
+        <updated>2022-09-28T14:28:53.000Z</updated>
+        <summary type="html"><![CDATA[“Is that a human being? Is that a little boy or girl? If it is, it deserves equal protection under the law.”]]></summary>
+        <author>
+            <name>Carter Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katie Couric Reveals Breast Cancer Diagnosis]]></title>
+        <id>https://www.rollingstone.com/?p=1234601558</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/katie-couric-breast-cancer-diagnosis-1234601558/"/>
+        <updated>2022-09-28T14:27:53.000Z</updated>
+        <summary type="html"><![CDATA[The legendary journalist received her diagnosis after putting off her annual mammogram appointment]]></summary>
+        <author>
+            <name>Jodi Guglielmi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[See Alanis Morissette Sing ‘You Oughta Know’ With Foo Fighters at Tribute for Her Former Drummer Taylor Hawkins]]></title>
         <id>https://www.rollingstone.com/?p=1234601556</id>
@@ -327,6 +554,16 @@ Believe it or not, Dylan Field tells me over Zoom this week, when he started Fig
 The idea was much easier to imagine than it was to build. Figma was building in stealth mode for three years before its first public preview, but the hard technical work paid off. Figma was a hit with designers almost immediately, as the real-time collaboration it enabled made design processes — particularly software design processes — much more efficient than they had …]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Island 2 Has Breakable Weapons to Balance Its ‘Over-the-Top Mentality’]]></title>
+        <id>a3799576-a493-45c7-afc6-e03349094b26</id>
+        <link href="https://www.ign.com/articles/dead-island-2-has-breakable-weapons-to-balance-its-over-the-top-mentality"/>
+        <updated>2022-09-28T13:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Dead Island 2's developers say that the game's breakable weapons will balance its over-the-top action.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
         </author>
     </entry>
     <entry>
