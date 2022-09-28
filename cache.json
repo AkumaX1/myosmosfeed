@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23376374/logitech-mx-mechanical-mini-for-mac-mx-master-3s-lift-k380-bluetooth-price-release-date",
+          "author": null,
+          "description": "Logitech’s new MX Mechanical Mini for Mac, and MX Master 3S for Mac. | Image: Logitech\n    \n\n  \nLogitech’s MX Mechanical Mini for Mac is the company’s first mechanical keyboard that’s “optimized for Mac.” As its name suggests, the keyboard is a tweaked version of the MX Mechanical Mini that Logitech released earlier this year, with a couple of Mac-specific features. It’s part of a quartet of new Mac accessories the company is announcing today which also include the MX Master 3S for Mac mouse, the Lift for Mac ergonomic mouse, and the K380 Bluetooth Keyboard for Mac.\nSpecifically, the Apple features of the MX Mechanical Mini for Mac include the removal of the Windows and Alt legends on the original MX Mechanical Mini, leaving only the macOS Option and Command keys. Alongside its dark gray v…",
+          "link": "https://www.theverge.com/2022/9/28/23376374/logitech-mx-mechanical-mini-for-mac-mx-master-3s-lift-k380-bluetooth-price-release-date",
+          "publishedOn": "2022-09-28T10:03:07.000Z",
+          "wordCount": 7507,
+          "title": "Logitech announces its first mechanical keyboard specifically for the Mac",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bk8inJI9OO2owab0YEtYxZWWWIs=/0x0:587x391/1200x628/filters:focal(294x196:295x197)/cdn.vox-cdn.com/uploads/chorus_asset/file/24060966/mx_mechanical_mini_for_mac_keyboard_smart_illumination.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023",
           "author": null,
           "description": "An unofficial render of what the Galaxy S23 could look like. | Image: OnLeaks / Digit\n    \n\n  \nUnofficial renders of Samsung’s next flagship smartphones suggest it could be about to ditch the camera bumps seen on this year’s Galaxy S22 and S22 Plus. Instead, renders published by OnLeaks via Digit and SmartPrix claim that the Galaxy S23 and S23 Plus will simply have three protruding camera lenses, with no raised section between them. It’s a design that looks similar to this year’s Galaxy S22 Ultra, albeit with one fewer camera sensor. \nElsewhere, the rumored specs of both the Galaxy S23 and S23 Plus are broadly similar to this year’s phones. The S23 is expected to have a 6.1-inch display, while the S23 Plus could have a larger 6.6-inch screen. Both are expected to once again have three came…",
@@ -929,6 +939,136 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html",
+          "author": "Andrés R. Martínez",
+          "description": "Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.",
+          "link": "https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html",
+          "publishedOn": "2022-09-28T10:00:34.000Z",
+          "wordCount": null,
+          "title": "Cuba Starts Restoring Power After Hurricane Ian Causes Blackout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/nyregion/democrats-abortion-long-island-congress.html",
+          "author": "Luis Ferré-Sadurní",
+          "description": "Several competitive House races on Long Island have become fertile ground for candidates to test out common Republican and Democratic campaign themes.",
+          "link": "https://www.nytimes.com/2022/09/28/nyregion/democrats-abortion-long-island-congress.html",
+          "publishedOn": "2022-09-28T09:30:07.000Z",
+          "wordCount": null,
+          "title": "Will Abortion Turn Tide for Democrats in House Fight for NY Suburbs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/business/hong-kong-covid-international-city.html",
+          "author": "Alexandra Stevenson",
+          "description": "Officials are saying the city will bounce back. But even before 2020, Chinese control was changing Hong Kong’s character and driving people away.",
+          "link": "https://www.nytimes.com/2022/09/28/business/hong-kong-covid-international-city.html",
+          "publishedOn": "2022-09-28T09:00:41.000Z",
+          "wordCount": null,
+          "title": "Can Hong Kong Recover as a Global Metropolis After Pandemic Barriers?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html",
+          "author": "Joshua Needelman",
+          "description": "Keeping an eye on and ear out for breakout hits.",
+          "link": "https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html",
+          "publishedOn": "2022-09-28T09:00:39.000Z",
+          "wordCount": null,
+          "title": "Our Correspondents on the Biggest Music, Shows and Books in Their Parts of the World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html",
+          "author": "David Yaffe-Bellany",
+          "description": "More than $2 billion in digital currency has been stolen in hacks this year, shaking faith in the experimental field of decentralized finance known as DeFi.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html",
+          "publishedOn": "2022-09-28T09:00:36.000Z",
+          "wordCount": null,
+          "title": "The Crypto World Is on Edge After a String of Hacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/politics/blake-masters-arizona-senate.html",
+          "author": "Jazmine Ulloa",
+          "description": "Polls and interviews suggest that independents, who make up about a third of the state’s electorate, are lukewarm on the Republican’s Senate bid. More than one called him a “flip-flopper.”",
+          "link": "https://www.nytimes.com/2022/09/28/us/politics/blake-masters-arizona-senate.html",
+          "publishedOn": "2022-09-28T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Blake Masters Strains to Win Over Arizona’s Independent Voters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html",
+          "author": "Jazmine Hughes",
+          "description": "No matter​ ​how often​ ​she gets​ ​into trouble,​ ​she refuses to hold anything back.",
+          "link": "https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html",
+          "publishedOn": "2022-09-28T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Whoopi Goldberg Will Not Shut Up Thank You Very Much",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html",
+          "author": "Amy Qin",
+          "description": "Richard Liu, also known as Liu Qiangdong, will be one of the few high-profile Chinese figures to face a courtroom jury over sexual assault allegations.",
+          "link": "https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html",
+          "publishedOn": "2022-09-28T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Chinese Billionaire Richard Liu Faces Sexual Assault Trial in the US",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/iran-protest-women.html",
+          "author": "Firoozeh Dumas",
+          "description": "In Iran, the forced hijab has become a visible symbol of a basic human right that has been taken away.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/iran-protest-women.html",
+          "publishedOn": "2022-09-28T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Iran Has Lost Sight of Its Greatest Asset: Women",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/polling-midterms.html",
+          "author": "Frank Bruni, Patrick Ruffini and Amy Walter",
+          "description": "How much can or should we trust the polls?",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/polling-midterms.html",
+          "publishedOn": "2022-09-28T09:00:25.000Z",
+          "wordCount": null,
+          "title": "Why We Can’t Quit Our Toxic, Insatiable Appetite for Polls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/nyregion/erick-adame-ny-weatherman-fired-scandal.html",
+          "author": "Liam Stack",
+          "description": "Spectrum News NY1 fired Erick Adame after someone took nude pictures of him performing on an adult webcam site and sent them to his employer and his mother.",
+          "link": "https://www.nytimes.com/2022/09/28/nyregion/erick-adame-ny-weatherman-fired-scandal.html",
+          "publishedOn": "2022-09-28T09:00:20.000Z",
+          "wordCount": null,
+          "title": "Meteorologist Erick Adame’s Firing Over Online Sex Prompts Backlash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/trump-right-wing-america.html",
+          "author": "Thomas B. Edsall",
+          "description": "All is not well with democracy in America.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/trump-right-wing-america.html",
+          "publishedOn": "2022-09-28T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Seven Years of Trump Has the Right Wing Taking the Long View",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html",
+          "author": "‘The Argument’",
+          "description": "Michelle Goldberg and Nona Willis Aronowitz on what sexual liberation really means for feminism.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html",
+          "publishedOn": "2022-09-28T09:00:10.000Z",
+          "wordCount": null,
+          "title": "After Dobbs: What Is Feminist Sex?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html",
           "author": "Zolan Kanno-Youngs",
           "description": "A visit for Shinzo Abe’s controversial state funeral also includes outreach to Asian allies over military advances by North Korea and China.",
@@ -939,6 +1079,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html",
+          "author": "Adam Satariano",
+          "description": "In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html",
+          "publishedOn": "2022-09-28T07:00:13.000Z",
+          "wordCount": null,
+          "title": "On Portugal’s ‘Bitcoin Beach,’ Crypto Optimism Still Reigns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/politics/election-activists-voter-challenges.html",
+          "author": "Nick Corasaniti and Alexandra Berzon",
+          "description": "Groups fueled by right-wing election conspiracy theories are trying to toss tens of thousands of voters from the rolls. “They are just going to beat the system into the ground,” said one election official.",
+          "link": "https://www.nytimes.com/2022/09/28/us/politics/election-activists-voter-challenges.html",
+          "publishedOn": "2022-09-28T07:00:10.000Z",
+          "wordCount": null,
+          "title": "Activists Flood Election Offices With Challenges",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html",
           "author": "Michelle Cottle",
           "description": "How has someone with such contempt for democracy, not to mention a shaky grip on reality, run amok for so long at top levels of politics and government?",
@@ -946,6 +1106,16 @@
           "publishedOn": "2022-09-28T05:00:03.000Z",
           "wordCount": null,
           "title": "The Eagerness of Ginni Thomas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/nyregion/14-guards-at-new-jersey-womens-prison-are-indicted-over-beatings-in-2021-raid.html",
+          "author": "Tracey Tully",
+          "description": "The guards entered the women’s cells to forcibly remove them. One woman was punched almost 30 times.",
+          "link": "https://www.nytimes.com/2022/09/28/nyregion/14-guards-at-new-jersey-womens-prison-are-indicted-over-beatings-in-2021-raid.html",
+          "publishedOn": "2022-09-28T04:11:09.000Z",
+          "wordCount": null,
+          "title": "14 Guards at New Jersey Women’s Prison Are Indicted Over Beatings in 2021 Raid",
           "imageUrl": null
         },
         {
@@ -966,6 +1136,16 @@
           "publishedOn": "2022-09-28T02:39:23.000Z",
           "wordCount": null,
           "title": "Alzheimer’s Drug Slows Cognitive Decline in Key Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/us/hurricane-ian-florida-tampa-gulf-coast.html",
+          "author": "Patricia Mazzei, Charles Ballaro and Elisabeth Parker",
+          "description": "The storm could bring a level of destruction that many in the densely populated Tampa Bay and Southwest Florida regions have never experienced.",
+          "link": "https://www.nytimes.com/2022/09/27/us/hurricane-ian-florida-tampa-gulf-coast.html",
+          "publishedOn": "2022-09-28T01:14:50.000Z",
+          "wordCount": null,
+          "title": "Florida’s Tampa Bay and Southwest Brace for Hurricane Ian",
           "imageUrl": null
         },
         {
@@ -6775,6 +6955,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/recode/2022/9/28/23375164/advertising-slow-growth-economy-digital-facebook-apple-snap",
+          "author": null,
+          "description": "Jeff Greenberg/Universal Images\n    \n\n  \nFour theories on why ad sales are plummeting even as the economy is doing fine.\n Not every truism is true, but there’s one for the ad industry that is pretty truthy: When the economy goes south, the ad market is the first thing to go.\nThe idea behind this one is pretty straightforward. If a company needs to cut costs, it’s much easier to get rid of ad budgets than anything else, like workers. So people in media have been trained to expect ad dollars to disappear in the wake of economic shocks. See, for instance, the Great Recession of 2008, when ad spending dropped by double digits in the following year. Or the spring of 2020, when ad dollars completely stopped for a few weeks while the world struggled to come to grips with the pandemic.\nBut now we’…",
+          "link": "https://www.vox.com/recode/2022/9/28/23375164/advertising-slow-growth-economy-digital-facebook-apple-snap",
+          "publishedOn": "2022-09-28T10:00:00.000Z",
+          "wordCount": 3271,
+          "title": "The mysterious ad slump of 2022",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/3bMTWHUcwv5lJS6uZRIPVTRziKE=/0x0:3800x1990/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059458/1268663715a.jpg"
+        },
+        {
           "id": "https://www.vox.com/policy-and-politics/2022/9/27/23375059/joe-manchin-permitting-reform-progressives-republicans",
           "author": null,
           "description": "Sen. Joe Manchin speaks on energy permitting reform at the US Capitol on September 20. | Kevin Dietsch/Getty Images\n    \n\n  \nProgressives and Republicans came together to shoot down a bill on permitting reforms. \n In a surprising team-up, progressives and Republicans banded together to oppose a bill backed by Sen. Joe Manchin (D-WV) that would have loosened oil and gas permitting regulations, forcing lawmakers to drop the measure from a must-pass government funding package.\nFollowing growing pressure from both groups, Manchin called for Senate Majority Leader Chuck Schumer to cut the permitting reforms from a short-term funding bill just before it was scheduled to go up for a vote on Tuesday. \nManchin said in a statement he didn’t want to put government funding at risk and added that “a fa…",
@@ -9844,6 +10034,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/life-is-tough-in-the-newest-mob-psycho-100-iii-tv-anime-trailer",
+          "author": "Daryl Harding",
+          "description": "The third season of Mob Psycho 100 begins on Crunchyroll this October\r\n\n\nAhead of the October 5 premiere of the much-anticipated third season of the Mob Psycho 100 TV anime, the series released its main trailer today showing off the torment Mob goes through in his daily life and what he will have to face in Mob Psycho 100 III. Check out the trailer after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/life-is-tough-in-the-newest-mob-psycho-100-iii-tv-anime-trailer",
+          "publishedOn": "2022-09-28T09:08:25.000Z",
+          "wordCount": 6073,
+          "title": "Life is Tough in the Newest Mob Psycho 100 III TV Anime Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/cb2faa1cbd36208cd19689062e8be0041664356094_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27/mangaka-soichiro-yamamoto-expresses-thanks-for-three-consecutive-anime-with-crossover-illustration",
           "author": "Liam Dempsey",
           "description": "Features protagonists Takagi, Tsubaki and Urushi\n\n\nThe creator behind Teasing Master Takagi-san, In the Heart of Kunoichi Tsubaki and When Will His Ayumu Make His Move? celebrated the incredible feat of having anime adaptations of three separate manga air in consecutive seasons this year, releasing a special illustration starring the protagonist of each work. Hit the jump for the full picture!",
@@ -11757,6 +11957,86 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/avoid-border-area-with-pakistan-in-gujarat-punjab-and-rajasthan-says-new-canadian-travel-advisory-for-india/articleshow/94506517.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Canada has asked its citizens to “avoid all travel to areas within 10 km of the border with Pakistan” in Gujarat, Punjab and Rajasthan “due.",
+          "link": "https://timesofindia.indiatimes.com/india/avoid-border-area-with-pakistan-in-gujarat-punjab-and-rajasthan-says-new-canadian-travel-advisory-for-india/articleshow/94506517.cms",
+          "publishedOn": "2022-09-28T09:46:43.000Z",
+          "wordCount": 6649,
+          "title": "Avoid border area with Pakistan in Gujarat, Punjab and Rajasthan, says new Canadian travel advisory for India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94506236,width-1070,height-580,imgsize-19434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
+          "author": null,
+          "description": "The government on Wednesday extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme to provide free ration to the poor for the next three months. \"Free ration to 80 crore for three more months till December 2022 to cost Rs 44,700 crore,\" Union minister Anurag Thakur said.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
+          "publishedOn": "2022-09-28T09:43:52.000Z",
+          "wordCount": 5306,
+          "title": "Govt extends free ration scheme for next three months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94506421,width-1070,height-580,imgsize-105518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/log-saath-aate-gaye-aur-karvaan-banta-gaya-shashi-tharoor-ahead-of-filing-nomination-for-congress-top-post/articleshow/94505964.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Senior Congress leader Shashi Tharoor, who is set to file his nomination for the post of party president on September 30, posted an Urdu co.",
+          "link": "https://timesofindia.indiatimes.com/india/log-saath-aate-gaye-aur-karvaan-banta-gaya-shashi-tharoor-ahead-of-filing-nomination-for-congress-top-post/articleshow/94505964.cms",
+          "publishedOn": "2022-09-28T09:30:30.000Z",
+          "wordCount": 6498,
+          "title": "'Log saath aate gaye aur karvaan banta gaya': Shashi Tharoor ahead of filing nomination for Congress top post",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505973,width-1070,height-580,imgsize-59890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ban-on-pfi-strong-message-to-all-anti-national-groups-says-karnataka-cm-basavaraj-bommai/articleshow/94505817.cms",
+          "author": null,
+          "description": "India News: BENGALURU: Karnataka Chief Minister Basavaraj Bommai said that by banning the Popular Front of India (PFI), the Government of India has sent out a str.",
+          "link": "https://timesofindia.indiatimes.com/india/ban-on-pfi-strong-message-to-all-anti-national-groups-says-karnataka-cm-basavaraj-bommai/articleshow/94505817.cms",
+          "publishedOn": "2022-09-28T09:25:22.000Z",
+          "wordCount": 7647,
+          "title": "Ban on PFI: Strong message to all anti-national groups, says Karnataka CM Basavaraj Bommai",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505810,width-1070,height-580,imgsize-121574,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jk-3-jem-terrorists-killed-in-twin-operations-in-kulgam/articleshow/94505689.cms",
+          "author": null,
+          "description": "India News: KULGAM (JAMMU AND KASHMIR): Security forces in Jammu and Kashmir killed three Jaish-e-Mohammed (JeM) terrorists, including a Pakistani one in twin ope.",
+          "link": "https://timesofindia.indiatimes.com/india/jk-3-jem-terrorists-killed-in-twin-operations-in-kulgam/articleshow/94505689.cms",
+          "publishedOn": "2022-09-28T09:21:01.000Z",
+          "wordCount": 6182,
+          "title": "J&K: 3 JeM terrorists killed in twin operations in Kulgam",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-ban-sdpi-condemns-move-says-decision-part-of-undeclared-emergency-clamped-by-centre/articleshow/94505588.cms",
+          "author": null,
+          "description": "India News: THIRUVANANTHAPURAM: With the Centre banning the Popular Front of India for its alleged terror activities, its political offshoot Social Democratic Par.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-ban-sdpi-condemns-move-says-decision-part-of-undeclared-emergency-clamped-by-centre/articleshow/94505588.cms",
+          "publishedOn": "2022-09-28T09:14:43.000Z",
+          "wordCount": 7849,
+          "title": "PFI ban: SDPI condemns move, says decision part of 'undeclared emergency' clamped by Centre",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505575,width-1070,height-580,imgsize-1252154,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/despite-unfavourable-poll-results-it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94505224.cms",
+          "author": null,
+          "description": "Samajwadi Party chief Akhilesh Yadav on Wednesday said though election results in the recent past have not been favourable, it has been proved that only his party can defeat the BJP in Uttar Pradesh. He said that the Samajwadi Party worked for a big victory but \"the people in power used every trick and misused official machinery and we failed to succeed\".",
+          "link": "https://timesofindia.indiatimes.com/india/despite-unfavourable-poll-results-it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94505224.cms",
+          "publishedOn": "2022-09-28T09:07:50.000Z",
+          "wordCount": 6240,
+          "title": "Despite unfavourable poll results, it has been proved only SP can defeat BJP in UP: Akhilesh Yadav",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505205,width-1070,height-580,imgsize-26496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-new-india-those-posing-threat-to-countrys-unity-not-acceptable-up-cm-on-pfi-ban/articleshow/94505331.cms",
+          "author": null,
+          "description": "India News: LUCKNOW: Uttar Pradesh chief minister Yogi Adityanath on Wednesday welcomed the ban on the Popular Front of India (PFI), saying in \"new India\", those .",
+          "link": "https://timesofindia.indiatimes.com/india/in-new-india-those-posing-threat-to-countrys-unity-not-acceptable-up-cm-on-pfi-ban/articleshow/94505331.cms",
+          "publishedOn": "2022-09-28T09:05:33.000Z",
+          "wordCount": 5634,
+          "title": "In 'new India', those posing threat to country's unity not acceptable: UP CM on PFI ban",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505357,width-1070,height-580,imgsize-13010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
           "author": null,
@@ -13685,6 +13965,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-ballistic-missile-off-east-coast-south-korea/articleshow/94506736.cms",
+          "author": null,
+          "description": "Rest of World News: SEOUL: North Korea fired a ballistic missile off its east coast on Wednesday, South Korea's military said, as South Korea and the United States staged.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-ballistic-missile-off-east-coast-south-korea/articleshow/94506736.cms",
+          "publishedOn": "2022-09-28T09:57:14.000Z",
+          "wordCount": 6294,
+          "title": "North Korea fires ballistic missile off east coast: South Korea",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94506721,width-1070,height-580,imgsize-57870,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russia-prepares-to-annex-occupied-ukraine-despite-outcry/articleshow/94506271.cms",
+          "author": null,
+          "description": "Europe News: KYIV: Russia is poised to formally annex areas of Ukraine where it has military control after referendums there reportedly endorsed Moscow's rule.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-prepares-to-annex-occupied-ukraine-despite-outcry/articleshow/94506271.cms",
+          "publishedOn": "2022-09-28T09:40:38.000Z",
+          "wordCount": 11013,
+          "title": "Russia prepares to annex occupied Ukraine despite outcry",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94506327,width-1070,height-580,imgsize-186738,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/politics-a-family-affair-for-italys-far-right-leader-giorgia-meloni/articleshow/94505791.cms",
+          "author": null,
+          "description": "Europe News: ROME: A like-minded sister, a brother-in-law tipped for government and a campaigning mother -- politics is a family affair for Italian far-right leade.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/politics-a-family-affair-for-italys-far-right-leader-giorgia-meloni/articleshow/94505791.cms",
+          "publishedOn": "2022-09-28T09:26:14.000Z",
+          "wordCount": 10429,
+          "title": "Politics a family affair for Italy's far-right leader Giorgia Meloni",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505802,width-1070,height-580,imgsize-50766,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/eu-believes-sabotage-likely-in-leaking-russian-gas-pipelines/articleshow/94505586.cms",
+          "author": null,
+          "description": "Europe News: BERLIN/COPENHAGEN: Any deliberate disruption to the EU's energy infrastructure would meet a \"robust and united response\", its top diplomat was quoted .",
+          "link": "https://timesofindia.indiatimes.com/world/europe/eu-believes-sabotage-likely-in-leaking-russian-gas-pipelines/articleshow/94505586.cms",
+          "publishedOn": "2022-09-28T09:14:33.000Z",
+          "wordCount": 10138,
+          "title": "EU believes sabotage likely in leaking Russian gas pipelines",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505582,width-1070,height-580,imgsize-139598,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-vp-kamala-harris-condemns-disturbing-chinese-actions/articleshow/94504289.cms",
+          "author": null,
+          "description": "US V-P Kamala Harris condemned on Wednesday \"disturbing\" actions by China in the Pacific. \"China has flexed its military and economic might to coerce and intimidate its neighbours. And we have witnessed disturbing behaviour in the East China Sea and in the South China Sea, and most recently, provocations across the Taiwan Strait,\" Kamala Harris said.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-vp-kamala-harris-condemns-disturbing-chinese-actions/articleshow/94504289.cms",
+          "publishedOn": "2022-09-28T09:05:31.000Z",
+          "wordCount": 9790,
+          "title": "US VP Kamala Harris condemns 'disturbing' Chinese actions",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94504307,width-1070,height-580,imgsize-656277,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-swaps-6-finance-ministers-in-4-years-to-stem-crisis/articleshow/94501170.cms",
           "author": null,
           "description": "Ishaq Dar, an accountant by profession, will be helming the office for the fourth time and replaces Miftah Ismail. He will be tasked with reversing the course of the nation’s current economic predicament amid challenges such as low growth, high inflation and foreign-exchange reserves standing below the standard benchmark of three months of imports.",
@@ -14712,6 +15042,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94281507,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-191280/94281507.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/spotlight/create-iconic-looks-for-each-of-the-festive-days-at-home-with-the-craziest-deals-on-trimmers-on-flipkart/articleshow/94400721.cms",
+          "author": null,
+          "description": "Beard care is to men what skincare is to women. With the festive season right around the corner, undoubtedly, you would want to look your best. Be it a Diwali party at the office or Bhai Dooj celebrations at home, every moment demands a special you. Naturally, you would want a look that suits every occasion to the tee. So, you need a styling partner that makes creating a new look an effortless feat.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/create-iconic-looks-for-each-of-the-festive-days-at-home-with-the-craziest-deals-on-trimmers-on-flipkart/articleshow/94400721.cms",
+          "publishedOn": "2022-09-23T14:45:06.000Z",
+          "wordCount": 4761,
+          "title": "Create iconic looks for each of the festive days at home with the craziest deals on Trimmers on Flipkart",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94400961,width-1070,height-580,imgsize-121132,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-comedian-raju-srivastava-passing-away-to-dheeraj-dhoopar-quitting-jhalak-dikhlaa-jaa-10-top-tv-news-of-the-week/articleshow/94401443.cms",
           "author": null,
           "description": "",
@@ -14760,6 +15100,16 @@
           "wordCount": 3898,
           "title": "Terravita: Fulfilling India’s nutritional needs and creating job opportunities for local communities",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94371570,width-1070,height-580,imgsize-154692,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms",
+          "publishedOn": "2022-09-18T07:30:00.000Z",
+          "wordCount": null,
+          "title": "From owning luxurious cars to building her dream house at the age of 21: A look at Jannat Zubair’s luxurious possessions",
+          "imageUrl": null
         }
       ]
     },
@@ -14768,6 +15118,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
+          "author": null,
+          "description": "The government on Wednesday extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme to provide free ration to the poor for the next three months. \"Free ration to 80 crore for three more months till December 2022 to cost Rs 44,700 crore,\" Union minister Anurag Thakur said.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
+          "publishedOn": "2022-09-28T09:43:52.000Z",
+          "wordCount": 5306,
+          "title": "Govt extends free ration scheme for next three months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94506421,width-1070,height-580,imgsize-105518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/festival-bonanza-dearness-allowance-for-central-government-employees-hiked-by-4/articleshow/94505572.cms",
+          "author": null,
+          "description": "The Union Cabinet on Wednesday approved 4% hike in dearness allowance (DA) for central government employees and dearness relief (DR) to pensioners. With this, DA for such employees now stands at 38% of the basic pay/pension as against 34% earlier.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/festival-bonanza-dearness-allowance-for-central-government-employees-hiked-by-4/articleshow/94505572.cms",
+          "publishedOn": "2022-09-28T09:36:30.000Z",
+          "wordCount": 5455,
+          "title": "Festival bonanza: DA for central govt employees, pensioners hiked by 4%",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505750,width-1070,height-580,imgsize-34568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-balki-on-chup-sequel-i-never-like-to-take-a-narrative-forward-ever-exclusive/articleshow/94505692.cms",
+          "author": null,
+          "description": "R Balki’s latest contribution to cinema, ‘Chup’, has found a lot of love from the audience, industry and fans at large. He presented Dulquer Salmaan in a completely new light, while Sunny Deol delivered a powerful performance. Enjoying the success of the film, R Balki opened up about the reviews he has received for ‘Chup’, plans of sequel and his next with Abhishek Bachchan.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-balki-on-chup-sequel-i-never-like-to-take-a-narrative-forward-ever-exclusive/articleshow/94505692.cms",
+          "publishedOn": "2022-09-28T09:22:49.000Z",
+          "wordCount": 9365,
+          "title": "R Balki on ‘Chup’ sequel: I never like to take a narrative forward, ever",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94505704,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-25144/94505704.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/how-congress-has-shot-itself-in-the-foot-again/articleshow/94504784.cms",
           "author": null,
@@ -14807,6 +15187,16 @@
           "wordCount": 2837,
           "title": "Quick Edit: PFI's target sections need more effective outreach from the state",
           "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Thiruvananthapuram_-Activists-of-Popular-Front-of-India-PFI-block-Kazhakootam....jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/travel/destinations/haunted-or-mysterious-these-incredible-forests-will-leave-you-wanting-for-more/photostory/94483164.cms",
+          "author": null,
+          "description": "Have a look at some of the most mysterious and haunted forests across the globe. These will leave you intrigued and definitely wanting for more!",
+          "link": "https://timesofindia.indiatimes.com/travel/destinations/haunted-or-mysterious-these-incredible-forests-will-leave-you-wanting-for-more/photostory/94483164.cms",
+          "publishedOn": "2022-09-28T08:08:57.000Z",
+          "wordCount": 5589,
+          "title": "World's incredible forests: Haunted or mysterious?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94484043,width-1070,height-580,resizemode-75/94484043,pt-32,y_pad-40/94484043.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-umesh-yadav-and-shahbaz-ahmed-added-to-t20i-squad/articleshow/94501988.cms",
@@ -16797,6 +17187,16 @@
           "wordCount": 6601,
           "title": "Online schooling vs traditional learning: Which works better?",
           "imageUrl": "https://static.toiimg.com/thumb/msid-93902337,width-1070,height-580,imgsize-35516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-educating-children-with-special-needs/articleshow/93901754.cms",
+          "author": null,
+          "description": "In India, about 3000 special schools are available for the disabled children, out of which nearly 900 institutions are for the hearing impaired, 400 for the visually impaired, 1000 for the mentally challenged and the remaining 700 are for the children with physical disabilities. But in the aftermath of COVID-19 pandemic, special needs education has taken the most brutal hit.",
+          "link": "https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-educating-children-with-special-needs/articleshow/93901754.cms",
+          "publishedOn": "2022-08-31T09:32:07.000Z",
+          "wordCount": 6388,
+          "title": "Online schooling for children with special needs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-93900580,width-1070,height-580,imgsize-65760,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         }
       ]
     }

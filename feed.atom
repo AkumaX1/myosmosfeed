@@ -2,10 +2,192 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T09:18:03.916Z</updated>
+    <updated>2022-09-28T10:12:06.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logitech announces its first mechanical keyboard specifically for the Mac]]></title>
+        <id>https://www.theverge.com/2022/9/28/23376374/logitech-mx-mechanical-mini-for-mac-mx-master-3s-lift-k380-bluetooth-price-release-date</id>
+        <link href="https://www.theverge.com/2022/9/28/23376374/logitech-mx-mechanical-mini-for-mac-mx-master-3s-lift-k380-bluetooth-price-release-date"/>
+        <updated>2022-09-28T10:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Logitech’s new MX Mechanical Mini for Mac, and MX Master 3S for Mac. | Image: Logitech
+    
+
+  
+Logitech’s MX Mechanical Mini for Mac is the company’s first mechanical keyboard that’s “optimized for Mac.” As its name suggests, the keyboard is a tweaked version of the MX Mechanical Mini that Logitech released earlier this year, with a couple of Mac-specific features. It’s part of a quartet of new Mac accessories the company is announcing today which also include the MX Master 3S for Mac mouse, the Lift for Mac ergonomic mouse, and the K380 Bluetooth Keyboard for Mac.
+Specifically, the Apple features of the MX Mechanical Mini for Mac include the removal of the Windows and Alt legends on the original MX Mechanical Mini, leaving only the macOS Option and Command keys. Alongside its dark gray v…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuba Starts Restoring Power After Hurricane Ian Causes Blackout]]></title>
+        <id>https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html"/>
+        <updated>2022-09-28T10:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.]]></summary>
+        <author>
+            <name>Andrés R. Martínez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The mysterious ad slump of 2022]]></title>
+        <id>https://www.vox.com/recode/2022/9/28/23375164/advertising-slow-growth-economy-digital-facebook-apple-snap</id>
+        <link href="https://www.vox.com/recode/2022/9/28/23375164/advertising-slow-growth-economy-digital-facebook-apple-snap"/>
+        <updated>2022-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeff Greenberg/Universal Images
+    
+
+  
+Four theories on why ad sales are plummeting even as the economy is doing fine.
+ Not every truism is true, but there’s one for the ad industry that is pretty truthy: When the economy goes south, the ad market is the first thing to go.
+The idea behind this one is pretty straightforward. If a company needs to cut costs, it’s much easier to get rid of ad budgets than anything else, like workers. So people in media have been trained to expect ad dollars to disappear in the wake of economic shocks. See, for instance, the Great Recession of 2008, when ad spending dropped by double digits in the following year. Or the spring of 2020, when ad dollars completely stopped for a few weeks while the world struggled to come to grips with the pandemic.
+But now we’…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea fires ballistic missile off east coast: South Korea]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-ballistic-missile-off-east-coast-south-korea/articleshow/94506736.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-ballistic-missile-off-east-coast-south-korea/articleshow/94506736.cms"/>
+        <updated>2022-09-28T09:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: SEOUL: North Korea fired a ballistic missile off its east coast on Wednesday, South Korea's military said, as South Korea and the United States staged.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid border area with Pakistan in Gujarat, Punjab and Rajasthan, says new Canadian travel advisory for India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/avoid-border-area-with-pakistan-in-gujarat-punjab-and-rajasthan-says-new-canadian-travel-advisory-for-india/articleshow/94506517.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/avoid-border-area-with-pakistan-in-gujarat-punjab-and-rajasthan-says-new-canadian-travel-advisory-for-india/articleshow/94506517.cms"/>
+        <updated>2022-09-28T09:46:43.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Canada has asked its citizens to “avoid all travel to areas within 10 km of the border with Pakistan” in Gujarat, Punjab and Rajasthan “due.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt extends free ration scheme for next three months]]></title>
+        <id>https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms"/>
+        <updated>2022-09-28T09:43:52.000Z</updated>
+        <summary type="html"><![CDATA[The government on Wednesday extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme to provide free ration to the poor for the next three months. "Free ration to 80 crore for three more months till December 2022 to cost Rs 44,700 crore," Union minister Anurag Thakur said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt extends free ration scheme for next three months]]></title>
+        <id>https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms"/>
+        <updated>2022-09-28T09:43:52.000Z</updated>
+        <summary type="html"><![CDATA[The government on Wednesday extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme to provide free ration to the poor for the next three months. "Free ration to 80 crore for three more months till December 2022 to cost Rs 44,700 crore," Union minister Anurag Thakur said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia prepares to annex occupied Ukraine despite outcry]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/russia-prepares-to-annex-occupied-ukraine-despite-outcry/articleshow/94506271.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/russia-prepares-to-annex-occupied-ukraine-despite-outcry/articleshow/94506271.cms"/>
+        <updated>2022-09-28T09:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: KYIV: Russia is poised to formally annex areas of Ukraine where it has military control after referendums there reportedly endorsed Moscow's rule.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Festival bonanza: DA for central govt employees, pensioners hiked by 4%]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/festival-bonanza-dearness-allowance-for-central-government-employees-hiked-by-4/articleshow/94505572.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/festival-bonanza-dearness-allowance-for-central-government-employees-hiked-by-4/articleshow/94505572.cms"/>
+        <updated>2022-09-28T09:36:30.000Z</updated>
+        <summary type="html"><![CDATA[The Union Cabinet on Wednesday approved 4% hike in dearness allowance (DA) for central government employees and dearness relief (DR) to pensioners. With this, DA for such employees now stands at 38% of the basic pay/pension as against 34% earlier.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Log saath aate gaye aur karvaan banta gaya': Shashi Tharoor ahead of filing nomination for Congress top post]]></title>
+        <id>https://timesofindia.indiatimes.com/india/log-saath-aate-gaye-aur-karvaan-banta-gaya-shashi-tharoor-ahead-of-filing-nomination-for-congress-top-post/articleshow/94505964.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/log-saath-aate-gaye-aur-karvaan-banta-gaya-shashi-tharoor-ahead-of-filing-nomination-for-congress-top-post/articleshow/94505964.cms"/>
+        <updated>2022-09-28T09:30:30.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Senior Congress leader Shashi Tharoor, who is set to file his nomination for the post of party president on September 30, posted an Urdu co.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Abortion Turn Tide for Democrats in House Fight for NY Suburbs?]]></title>
+        <id>https://www.nytimes.com/2022/09/28/nyregion/democrats-abortion-long-island-congress.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/nyregion/democrats-abortion-long-island-congress.html"/>
+        <updated>2022-09-28T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Several competitive House races on Long Island have become fertile ground for candidates to test out common Republican and Democratic campaign themes.]]></summary>
+        <author>
+            <name>Luis Ferré-Sadurní</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Politics a family affair for Italy's far-right leader Giorgia Meloni]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/politics-a-family-affair-for-italys-far-right-leader-giorgia-meloni/articleshow/94505791.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/politics-a-family-affair-for-italys-far-right-leader-giorgia-meloni/articleshow/94505791.cms"/>
+        <updated>2022-09-28T09:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: ROME: A like-minded sister, a brother-in-law tipped for government and a campaigning mother -- politics is a family affair for Italian far-right leade.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ban on PFI: Strong message to all anti-national groups, says Karnataka CM Basavaraj Bommai]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ban-on-pfi-strong-message-to-all-anti-national-groups-says-karnataka-cm-basavaraj-bommai/articleshow/94505817.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ban-on-pfi-strong-message-to-all-anti-national-groups-says-karnataka-cm-basavaraj-bommai/articleshow/94505817.cms"/>
+        <updated>2022-09-28T09:25:22.000Z</updated>
+        <summary type="html"><![CDATA[India News: BENGALURU: Karnataka Chief Minister Basavaraj Bommai said that by banning the Popular Front of India (PFI), the Government of India has sent out a str.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Balki on ‘Chup’ sequel: I never like to take a narrative forward, ever]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-balki-on-chup-sequel-i-never-like-to-take-a-narrative-forward-ever-exclusive/articleshow/94505692.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-balki-on-chup-sequel-i-never-like-to-take-a-narrative-forward-ever-exclusive/articleshow/94505692.cms"/>
+        <updated>2022-09-28T09:22:49.000Z</updated>
+        <summary type="html"><![CDATA[R Balki’s latest contribution to cinema, ‘Chup’, has found a lot of love from the audience, industry and fans at large. He presented Dulquer Salmaan in a completely new light, while Sunny Deol delivered a powerful performance. Enjoying the success of the film, R Balki opened up about the reviews he has received for ‘Chup’, plans of sequel and his next with Abhishek Bachchan.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J&K: 3 JeM terrorists killed in twin operations in Kulgam]]></title>
+        <id>https://timesofindia.indiatimes.com/india/jk-3-jem-terrorists-killed-in-twin-operations-in-kulgam/articleshow/94505689.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/jk-3-jem-terrorists-killed-in-twin-operations-in-kulgam/articleshow/94505689.cms"/>
+        <updated>2022-09-28T09:21:01.000Z</updated>
+        <summary type="html"><![CDATA[India News: KULGAM (JAMMU AND KASHMIR): Security forces in Jammu and Kashmir killed three Jaish-e-Mohammed (JeM) terrorists, including a Pakistani one in twin ope.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI ban: SDPI condemns move, says decision part of 'undeclared emergency' clamped by Centre]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfi-ban-sdpi-condemns-move-says-decision-part-of-undeclared-emergency-clamped-by-centre/articleshow/94505588.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfi-ban-sdpi-condemns-move-says-decision-part-of-undeclared-emergency-clamped-by-centre/articleshow/94505588.cms"/>
+        <updated>2022-09-28T09:14:43.000Z</updated>
+        <summary type="html"><![CDATA[India News: THIRUVANANTHAPURAM: With the Centre banning the Popular Front of India for its alleged terror activities, its political offshoot Social Democratic Par.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU believes sabotage likely in leaking Russian gas pipelines]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/eu-believes-sabotage-likely-in-leaking-russian-gas-pipelines/articleshow/94505586.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/eu-believes-sabotage-likely-in-leaking-russian-gas-pipelines/articleshow/94505586.cms"/>
+        <updated>2022-09-28T09:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: BERLIN/COPENHAGEN: Any deliberate disruption to the EU's energy infrastructure would meet a "robust and united response", its top diplomat was quoted .]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Dave Chappelle Inexplicably Cover Radiohead’s ‘Creep’ at Taylor Hawkins Tribute]]></title>
         <id>https://www.rollingstone.com/?p=1234601445</id>
@@ -14,6 +196,59 @@
         <summary type="html"><![CDATA[Comedian's performance with the Foo Fighters was part of tribute concert for their late drummer at Los Angeles' Kia Forum]]></summary>
         <author>
             <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life is Tough in the Newest Mob Psycho 100 III TV Anime Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/28-1/life-is-tough-in-the-newest-mob-psycho-100-iii-tv-anime-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/28-1/life-is-tough-in-the-newest-mob-psycho-100-iii-tv-anime-trailer"/>
+        <updated>2022-09-28T09:08:25.000Z</updated>
+        <summary type="html"><![CDATA[The third season of Mob Psycho 100 begins on Crunchyroll this October
+
+
+Ahead of the October 5 premiere of the much-anticipated third season of the Mob Psycho 100 TV anime, the series released its main trailer today showing off the torment Mob goes through in his daily life and what he will have to face in Mob Psycho 100 III. Check out the trailer after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite unfavourable poll results, it has been proved only SP can defeat BJP in UP: Akhilesh Yadav]]></title>
+        <id>https://timesofindia.indiatimes.com/india/despite-unfavourable-poll-results-it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94505224.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/despite-unfavourable-poll-results-it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94505224.cms"/>
+        <updated>2022-09-28T09:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Samajwadi Party chief Akhilesh Yadav on Wednesday said though election results in the recent past have not been favourable, it has been proved that only his party can defeat the BJP in Uttar Pradesh. He said that the Samajwadi Party worked for a big victory but "the people in power used every trick and misused official machinery and we failed to succeed".]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In 'new India', those posing threat to country's unity not acceptable: UP CM on PFI ban]]></title>
+        <id>https://timesofindia.indiatimes.com/india/in-new-india-those-posing-threat-to-countrys-unity-not-acceptable-up-cm-on-pfi-ban/articleshow/94505331.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/in-new-india-those-posing-threat-to-countrys-unity-not-acceptable-up-cm-on-pfi-ban/articleshow/94505331.cms"/>
+        <updated>2022-09-28T09:05:33.000Z</updated>
+        <summary type="html"><![CDATA[India News: LUCKNOW: Uttar Pradesh chief minister Yogi Adityanath on Wednesday welcomed the ban on the Popular Front of India (PFI), saying in "new India", those .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US VP Kamala Harris condemns 'disturbing' Chinese actions]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/us-vp-kamala-harris-condemns-disturbing-chinese-actions/articleshow/94504289.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/us-vp-kamala-harris-condemns-disturbing-chinese-actions/articleshow/94504289.cms"/>
+        <updated>2022-09-28T09:05:31.000Z</updated>
+        <summary type="html"><![CDATA[US V-P Kamala Harris condemned on Wednesday "disturbing" actions by China in the Pacific. "China has flexed its military and economic might to coerce and intimidate its neighbours. And we have witnessed disturbing behaviour in the East China Sea and in the South China Sea, and most recently, provocations across the Taiwan Strait," Kamala Harris said.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Hong Kong Recover as a Global Metropolis After Pandemic Barriers?]]></title>
+        <id>https://www.nytimes.com/2022/09/28/business/hong-kong-covid-international-city.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/business/hong-kong-covid-international-city.html"/>
+        <updated>2022-09-28T09:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Officials are saying the city will bounce back. But even before 2020, Chinese control was changing Hong Kong’s character and driving people away.]]></summary>
+        <author>
+            <name>Alexandra Stevenson</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +262,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Our Correspondents on the Biggest Music, Shows and Books in Their Parts of the World]]></title>
+        <id>https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html"/>
+        <updated>2022-09-28T09:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Keeping an eye on and ear out for breakout hits.]]></summary>
+        <author>
+            <name>Joshua Needelman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Crypto World Is on Edge After a String of Hacks]]></title>
         <id>https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html</id>
         <link href="https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html"/>
@@ -37,6 +282,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Crypto World Is on Edge After a String of Hacks]]></title>
+        <id>https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html"/>
+        <updated>2022-09-28T09:00:36.000Z</updated>
+        <summary type="html"><![CDATA[More than $2 billion in digital currency has been stolen in hacks this year, shaking faith in the experimental field of decentralized finance known as DeFi.]]></summary>
+        <author>
+            <name>David Yaffe-Bellany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blake Masters Strains to Win Over Arizona’s Independent Voters]]></title>
+        <id>https://www.nytimes.com/2022/09/28/us/politics/blake-masters-arizona-senate.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/us/politics/blake-masters-arizona-senate.html"/>
+        <updated>2022-09-28T09:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Polls and interviews suggest that independents, who make up about a third of the state’s electorate, are lukewarm on the Republican’s Senate bid. More than one called him a “flip-flopper.”]]></summary>
+        <author>
+            <name>Jazmine Ulloa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoopi Goldberg Will Not Shut Up Thank You Very Much]]></title>
+        <id>https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html"/>
+        <updated>2022-09-28T09:00:30.000Z</updated>
+        <summary type="html"><![CDATA[No matter​ ​how often​ ​she gets​ ​into trouble,​ ​she refuses to hold anything back.]]></summary>
+        <author>
+            <name>Jazmine Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Billionaire Richard Liu Faces Sexual Assault Trial in the US]]></title>
+        <id>https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html"/>
+        <updated>2022-09-28T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Richard Liu, also known as Liu Qiangdong, will be one of the few high-profile Chinese figures to face a courtroom jury over sexual assault allegations.]]></summary>
+        <author>
+            <name>Amy Qin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Has Lost Sight of Its Greatest Asset: Women]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/iran-protest-women.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/iran-protest-women.html"/>
+        <updated>2022-09-28T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[In Iran, the forced hijab has become a visible symbol of a basic human right that has been taken away.]]></summary>
+        <author>
+            <name>Firoozeh Dumas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Can’t Quit Our Toxic, Insatiable Appetite for Polls]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/polling-midterms.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/polling-midterms.html"/>
+        <updated>2022-09-28T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[How much can or should we trust the polls?]]></summary>
+        <author>
+            <name>Frank Bruni, Patrick Ruffini and Amy Walter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Book Review: ‘The Whalebone Theatre,’ by Joanna Quinn]]></title>
         <id>https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html</id>
         <link href="https://www.nytimes.com/2022/09/28/books/the-whalebone-theatre-joann-quinn.html"/>
@@ -54,6 +359,16 @@
         <summary type="html"><![CDATA[Joanna Quinn’s “The Whalebone Theatre” breathlessly follows a trio of British youngsters from frolics on the beach to service and spycraft.]]></summary>
         <author>
             <name>Alexandra Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meteorologist Erick Adame’s Firing Over Online Sex Prompts Backlash]]></title>
+        <id>https://www.nytimes.com/2022/09/28/nyregion/erick-adame-ny-weatherman-fired-scandal.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/nyregion/erick-adame-ny-weatherman-fired-scandal.html"/>
+        <updated>2022-09-28T09:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Spectrum News NY1 fired Erick Adame after someone took nude pictures of him performing on an adult webcam site and sent them to his employer and his mother.]]></summary>
+        <author>
+            <name>Liam Stack</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +379,16 @@
         <summary type="html"><![CDATA[Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?]]></summary>
         <author>
             <name>Cade Metz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Years of Trump Has the Right Wing Taking the Long View]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/trump-right-wing-america.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/trump-right-wing-america.html"/>
+        <updated>2022-09-28T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[All is not well with democracy in America.]]></summary>
+        <author>
+            <name>Thomas B. Edsall</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +420,16 @@
 Instacart plans to expand its EBT SNAP program and enable TANF payments by Aisha Malik originally published on TechCrunch]]></summary>
         <author>
             <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Dobbs: What Is Feminist Sex?]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html"/>
+        <updated>2022-09-28T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Michelle Goldberg and Nona Willis Aronowitz on what sexual liberation really means for feminism.]]></summary>
+        <author>
+            <name>‘The Argument’</name>
         </author>
     </entry>
     <entry>
@@ -296,6 +631,16 @@ Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[World's incredible forests: Haunted or mysterious?]]></title>
+        <id>https://timesofindia.indiatimes.com/travel/destinations/haunted-or-mysterious-these-incredible-forests-will-leave-you-wanting-for-more/photostory/94483164.cms</id>
+        <link href="https://timesofindia.indiatimes.com/travel/destinations/haunted-or-mysterious-these-incredible-forests-will-leave-you-wanting-for-more/photostory/94483164.cms"/>
+        <updated>2022-09-28T08:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Have a look at some of the most mysterious and haunted forests across the globe. These will leave you intrigued and definitely wanting for more!]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Far From Routine, Asia Trip Presents Thorny Tests for Kamala Harris]]></title>
         <id>https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html</id>
         <link href="https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html"/>
@@ -404,6 +749,26 @@ YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to
         <summary type="html"><![CDATA[In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.]]></summary>
         <author>
             <name>Adam Satariano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Portugal’s ‘Bitcoin Beach,’ Crypto Optimism Still Reigns]]></title>
+        <id>https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html"/>
+        <updated>2022-09-28T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activists Flood Election Offices With Challenges]]></title>
+        <id>https://www.nytimes.com/2022/09/28/us/politics/election-activists-voter-challenges.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/us/politics/election-activists-voter-challenges.html"/>
+        <updated>2022-09-28T07:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Groups fueled by right-wing election conspiracy theories are trying to toss tens of thousands of voters from the rolls. “They are just going to beat the system into the ground,” said one election official.]]></summary>
+        <author>
+            <name>Nick Corasaniti and Alexandra Berzon</name>
         </author>
     </entry>
     <entry>
@@ -763,6 +1128,16 @@ Ten years of heart-pounding races and male bonding later, the Free! - Iwatobi Sw
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[14 Guards at New Jersey Women’s Prison Are Indicted Over Beatings in 2021 Raid]]></title>
+        <id>https://www.nytimes.com/2022/09/28/nyregion/14-guards-at-new-jersey-womens-prison-are-indicted-over-beatings-in-2021-raid.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/nyregion/14-guards-at-new-jersey-womens-prison-are-indicted-over-beatings-in-2021-raid.html"/>
+        <updated>2022-09-28T04:11:09.000Z</updated>
+        <summary type="html"><![CDATA[The guards entered the women’s cells to forcibly remove them. One woman was punched almost 30 times.]]></summary>
+        <author>
+            <name>Tracey Tully</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Explained: Why the Centre banned Popular Front of India]]></title>
         <id>https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms"/>
@@ -1029,6 +1404,16 @@ The publication confirmed the hack. “Fast Company’s Apple News account was h
         <summary type="html"><![CDATA[India News: The government is in the process of setting up a digital university to promote education and skill development, said Union education, skill developmen]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida’s Tampa Bay and Southwest Brace for Hurricane Ian]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/hurricane-ian-florida-tampa-gulf-coast.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/hurricane-ian-florida-tampa-gulf-coast.html"/>
+        <updated>2022-09-28T01:14:50.000Z</updated>
+        <summary type="html"><![CDATA[The storm could bring a level of destruction that many in the densely populated Tampa Bay and Southwest Florida regions have never experienced.]]></summary>
+        <author>
+            <name>Patricia Mazzei, Charles Ballaro and Elisabeth Parker</name>
         </author>
     </entry>
     <entry>
@@ -16973,6 +17358,16 @@ After a week to collect votes and almost 8,000 responses, it's time to finally f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create iconic looks for each of the festive days at home with the craziest deals on Trimmers on Flipkart]]></title>
+        <id>https://timesofindia.indiatimes.com/spotlight/create-iconic-looks-for-each-of-the-festive-days-at-home-with-the-craziest-deals-on-trimmers-on-flipkart/articleshow/94400721.cms</id>
+        <link href="https://timesofindia.indiatimes.com/spotlight/create-iconic-looks-for-each-of-the-festive-days-at-home-with-the-craziest-deals-on-trimmers-on-flipkart/articleshow/94400721.cms"/>
+        <updated>2022-09-23T14:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Beard care is to men what skincare is to women. With the festive season right around the corner, undoubtedly, you would want to look your best. Be it a Diwali party at the office or Bhai Dooj celebrations at home, every moment demands a special you. Naturally, you would want a look that suits every occasion to the tee. So, you need a styling partner that makes creating a new look an effortless feat.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Doctor Burns Out: The Week in Narrated Articles]]></title>
         <id>https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html</id>
         <link href="https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html"/>
@@ -18169,6 +18564,15 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From owning luxurious cars to building her dream house at the age of 21: A look at Jannat Zubair’s luxurious possessions]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms"/>
+        <updated>2022-09-18T07:30:00.000Z</updated>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Essential Judy Blume]]></title>
         <id>https://www.nytimes.com/article/best-judy-blume-books.html</id>
         <link href="https://www.nytimes.com/article/best-judy-blume-books.html"/>
@@ -18184,6 +18588,16 @@ Read more...]]></summary>
         <link href="https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-vs-traditional-learning-which-works-better/articleshow/93902045.cms"/>
         <updated>2022-08-31T09:45:06.000Z</updated>
         <summary type="html"><![CDATA[The growth in adoption of online schooling in the aftermath of COVID-19 pandemic amongst Indian parents has led to a new hot debate within the education industry. While both, traditional vs online classrooms come with their fair share of advantages and disadvantages, which schooling model should you choose for your kid in 2022?]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online schooling for children with special needs]]></title>
+        <id>https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-educating-children-with-special-needs/articleshow/93901754.cms</id>
+        <link href="https://timesofindia.indiatimes.com/education/online-schooling/online-schooling-educating-children-with-special-needs/articleshow/93901754.cms"/>
+        <updated>2022-08-31T09:32:07.000Z</updated>
+        <summary type="html"><![CDATA[In India, about 3000 special schools are available for the disabled children, out of which nearly 900 institutions are for the hearing impaired, 400 for the visually impaired, 1000 for the mentally challenged and the remaining 700 are for the children with physical disabilities. But in the aftermath of COVID-19 pandemic, special needs education has taken the most brutal hit.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
