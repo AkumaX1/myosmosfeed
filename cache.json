@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nVK, the Russian technology conglomerate behind a social network with hundreds of millions of downloads called VKontakte, says that its apps have been removed from Apple’s App Store.\nThe translated statement says “some VK applications are blocked by Apple” but that it will “continue to develop and support iOS applications.” The Russian Ministry of Digital Affairs told state-controlled media outlet RT that it was investigating “the reasons for deleting VK applications and developer accounts, underlining the social significance and scale of use of the services provided by the Russian company.” The apps are still available on Google’s Play Store.\nSince Russia invaded Ukraine, its government has blocked several American social media sites, includ…",
+          "link": "https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media",
+          "publishedOn": "2022-09-28T00:03:31.000Z",
+          "wordCount": 7505,
+          "title": "Apple removes Russia’s largest social network from the App Store",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WWL_uBe-SCMORMIH3yxpADrxf2A=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11477049/acastro_180604_1777_apple_wwdc_0002.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging",
           "author": null,
           "description": "Tumblr’s post interface. | Photograph: Amelia Krales\n    \n\n  \nTumblr is adding a new filtering feature called “community labels.” Contrary to speculation from some users, Tumblr’s parent company, Automattic, says its broader rules haven’t changed so far — but the feature might lay the groundwork for a more liberal moderation policy.\nCommunity labels, announced yesterday, make the site’s moderation tools more granular. Tumblr is asking users to tag posts that depict or reference three categories of content: drug and alcohol addiction, violence “similar to what you might see in an age-restricted movie,” and “sexual themes” including “erotic writing or imagery.” Adding any of them will add a “mature” label to the post. You can also add a “mature” label for anything you think is sensitive but …",
@@ -889,6 +899,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/27/world/europe/russia-ukraine-war-referendums.html",
+          "author": "Marc Santora, Andrew E. Kramer and Eric Nagourney",
+          "description": "The Kremlin dispatched federal security forces to frontier border crossings packed with Russian men trying to escape the draft by entering countries like Georgia, Kazakhstan and Mongolia.",
+          "link": "https://www.nytimes.com/2022/09/27/world/europe/russia-ukraine-war-referendums.html",
+          "publishedOn": "2022-09-28T00:29:07.000Z",
+          "wordCount": null,
+          "title": "As Russians Flee, Some Find Draft Notices Waiting at the Border",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/science/nasa-dart-asteroid-photos.html",
+          "author": "Kenneth Chang",
+          "description": "Astronomers on Earth — and a shoebox-size Italian spacecraft called LICIACube — captured the DART mission’s successful strike on Dimorphos.",
+          "link": "https://www.nytimes.com/2022/09/27/science/nasa-dart-asteroid-photos.html",
+          "publishedOn": "2022-09-27T23:52:35.000Z",
+          "wordCount": null,
+          "title": "Photos Show NASA’s DART Spacecraft Crashing Into Asteroid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nord-stream.html",
+          "author": "Melissa Eddy",
+          "description": "The leaks in the Nord Stream under the Baltic Sea heightened fears of shortages because of the clash with Russia, and showed how vital infrastructure could be at risk.",
+          "link": "https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nord-stream.html",
+          "publishedOn": "2022-09-27T23:22:06.000Z",
+          "wordCount": null,
+          "title": "Nord Stream Pipeline Breaks Look Deliberate, Europeans Say",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html",
           "author": "Alan Rappeport",
           "description": "The fate of America’s social safety net programs has re-emerged as a campaign issue ahead of November’s midterm elections.",
@@ -916,6 +956,16 @@
           "publishedOn": "2022-09-27T23:00:04.000Z",
           "wordCount": null,
           "title": "Why Putin’s War Is a Crime Against the Planet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html",
+          "author": "Mark Landler",
+          "description": "Three weeks into her term, Prime Minister Liz Truss’s financial plans have thrown the markets and Britain’s currency into chaos and put her future in peril.",
+          "link": "https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html",
+          "publishedOn": "2022-09-27T22:58:37.000Z",
+          "wordCount": null,
+          "title": "Truss Takes a Bold Economic Gamble. Will It Sink Her Government?",
           "imageUrl": null
         },
         {
@@ -986,6 +1036,16 @@
           "publishedOn": "2022-09-27T19:26:58.000Z",
           "wordCount": null,
           "title": "Lawsuit Seeks to Block Biden’s Student Debt Cancellation Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/chatbot-therapy-mental-health.html",
+          "author": "Barclay Bram",
+          "description": "Can an algorithm help with existential angst?",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/chatbot-therapy-mental-health.html",
+          "publishedOn": "2022-09-27T18:05:52.000Z",
+          "wordCount": null,
+          "title": "My Year With Woebot, an A.I. Chatbot Therapist",
           "imageUrl": null
         },
         {
@@ -1196,6 +1256,16 @@
           "publishedOn": "2022-09-27T09:00:17.000Z",
           "wordCount": null,
           "title": "Are Political Winds Blowing in Republicans’ Favor Again?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/opinion/therapy-technology-mental-health.html",
+          "author": "Adrian Aguilera",
+          "description": "Technology is revolutionizing mental health care. Will it really make it more accessible?",
+          "link": "https://www.nytimes.com/2022/09/27/opinion/therapy-technology-mental-health.html",
+          "publishedOn": "2022-09-27T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Will Digital Technology for Therapy Increase Inequality in America?",
           "imageUrl": null
         },
         {
@@ -8148,6 +8218,16 @@
           "imageUrl": "https://assets1.ignimgs.com/2020/06/01/outriders-broadcast1-screenshot4-1591045474263.png?width=1280"
         },
         {
+          "id": "92d5624d-a4eb-4ada-800e-776b4905dea2",
+          "author": "Kevin Lee",
+          "description": "The 4K gaming is here and to make the most of it you're going to want the best 4K TV for gaming.",
+          "link": "https://www.ign.com/articles/best-4k-tv-for-gaming",
+          "publishedOn": "2022-09-27T10:10:29.000Z",
+          "wordCount": 18847,
+          "title": "Best 4K TV for Gaming 2022",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/06/21/4k-tvs-for-gaming-1655840912290.jpg?width=1280"
+        },
+        {
           "id": "52f27a18-bbb0-48d5-8357-754cefc2821e",
           "author": "Ryan Leston",
           "description": "Cyberpunk 2077 quest director Pawel Sasko says it's \"f**king good to be back\" after the game's recent surge in players.",
@@ -9398,6 +9478,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/shadowverse-flame-3rd-cour-pv-introduces-new-op-theme-by-boy-idol-group-news",
+          "author": "Mikikazu Komatsu",
+          "description": "New ending theme \"STAR\" is sung by girl idol group Cho Tokimeki Sendenbu\n\n\nThe official YouTube channel for the anime franchise inspired by Cygames's card-battling game Shadowverse has posted a 110-second PV for the forthcoming third cour of its TV anime series Shadowverse Flame. Watch the clip introducing the new opening theme \"Tick-Tock\" performed by Johnny & Associates' three-member idol group NEWS!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/shadowverse-flame-3rd-cour-pv-introduces-new-op-theme-by-boy-idol-group-news",
+          "publishedOn": "2022-09-28T00:30:00.000Z",
+          "wordCount": 6036,
+          "title": "Shadowverse Flame 3rd Cour PV Introduces New Opening Theme by Boy Idol Group NEWS",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/a11dbcd6d5a1a140f7e1090bc92a7e691664324562_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/director-john-carpenter-hosts-4-night-godzilla-marathon-in-november",
           "author": "Paul Chapman",
@@ -11122,6 +11212,86 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/setback-for-uddhav-thackeray-as-sc-allows-poll-panel-to-decide-the-real-sena/articleshow/94492273.cms",
+          "author": null,
+          "description": "In a setback to Uddhav Thackeray-led Shiv Sena faction, the Supreme Court on Tuesday rejected its plea and allowed the Election Commission to go ahead with its proceedings on intra-party dispute between the Sena factions to decide which one is the original party entitled to get the party's 'bow and arrow' symbol.",
+          "link": "https://timesofindia.indiatimes.com/india/setback-for-uddhav-thackeray-as-sc-allows-poll-panel-to-decide-the-real-sena/articleshow/94492273.cms",
+          "publishedOn": "2022-09-28T00:47:10.000Z",
+          "wordCount": 6816,
+          "title": "Setback for Uddhav Thackeray as SC allows poll panel to decide the 'real' Sena",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492273,width-1070,height-580,imgsize-1468105,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
+          "author": null,
+          "description": "New adoption regulations issued by the women and child development ministry lay out the process for district magistrates to issue adoption orders which earlier fell in the domain of the courts till the amended Juvenile Justice Model (Amendment) Rule 2022 came into force on September 1.",
+          "link": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
+          "publishedOn": "2022-09-28T00:14:31.000Z",
+          "wordCount": 6345,
+          "title": "Time-bound processes for adoption get rolling",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492107,width-1070,height-580,imgsize-853577,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-to-move-hc-against-life-term-to-rapist-killer-in-2019-pocso-case/articleshow/94492040.cms",
+          "author": null,
+          "description": "​​The UP government will go to the Allahabad HC against a special Pocso court's order sentencing a man to life imprisonment for the rape and murder of a minor in 2019 and seek capital punishment for him.",
+          "link": "https://timesofindia.indiatimes.com/india/up-to-move-hc-against-life-term-to-rapist-killer-in-2019-pocso-case/articleshow/94492040.cms",
+          "publishedOn": "2022-09-28T00:05:32.000Z",
+          "wordCount": 5399,
+          "title": "UP to move HC against life term to rapist-killer in 2019 Pocso case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "author": null,
+          "description": "Making the first arrest in the alleged excise policy scam, the CBI on Tuesday arrested Vijay Nair, former CEO of an event management company, Only Much Louder, and named as accused number 5 in the FIR registered by the agency.",
+          "link": "https://timesofindia.indiatimes.com/india/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "publishedOn": "2022-09-27T23:47:26.000Z",
+          "wordCount": 6448,
+          "title": "First arrest in excise probe: Ex-CEO of event management firm Vijay Nair held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491947,width-1070,height-580,imgsize-77780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-wraps-up-ews-hearing-in-6-5-days-reserves-verdict/articleshow/94491832.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday reserved its verdict on the validity of 103rd constitutional amendment for granting 10% reservation to economically weaker sections (EWS) and wrapped up the case after hearing in just seven days.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-wraps-up-ews-hearing-in-6-5-days-reserves-verdict/articleshow/94491832.cms",
+          "publishedOn": "2022-09-27T23:22:31.000Z",
+          "wordCount": 5996,
+          "title": "SC wraps up EWS hearing in 6.5 days, reserves verdict",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/over-250-held-in-city-6-states-as-cops-conduct-fresh-raids-on-pfi/articleshow/94491789.cms",
+          "author": null,
+          "description": "More than 250 Popular Front of India (PFI) functionaries and people tied to it were rounded up Tuesday in sweeping police raids in Delhi and six states against the outfit, currently being probed by the NIA and ED for its alleged terrorist activities and terrorism-linked funding.",
+          "link": "https://timesofindia.indiatimes.com/india/over-250-held-in-city-6-states-as-cops-conduct-fresh-raids-on-pfi/articleshow/94491789.cms",
+          "publishedOn": "2022-09-27T23:11:21.000Z",
+          "wordCount": 7328,
+          "title": "Over 250 held in city, 6 states as cops conduct fresh raids on PFI",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491801,width-1070,height-580,imgsize-111830,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "author": null,
+          "description": "Observing that statements and tweets were made in a \"reckless manner\" without verification, the Delhi high court on Tuesday restrained Aam Aadmi Party (AAP) and several of its leaders from making \"defamatory\" statements against lieutenant governor Vinai Kumar Saxena.",
+          "link": "https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "publishedOn": "2022-09-27T23:03:17.000Z",
+          "wordCount": 6779,
+          "title": "Statements by AAP against LG 'reckless, defamatory', says HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491759,width-1070,height-580,imgsize-40918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "author": null,
+          "description": "Sohagpur, a small village tucked away in Katra block of Bihar's Muzaffarpur's district, was in a celebratory mood on Tuesday. The cheering and dancing was to celebrate the achievement of Rakesh Kumar, 25, who has become the first in the village to land a government job since Independence, reports Manoj Chaurasia.",
+          "link": "https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "publishedOn": "2022-09-27T22:57:51.000Z",
+          "wordCount": 5556,
+          "title": "First government job in 75 years, Bihar village erupts in joy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491741,width-1070,height-580,imgsize-49138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
           "author": null,
@@ -13733,6 +13903,96 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
+          "author": null,
+          "description": "New adoption regulations issued by the women and child development ministry lay out the process for district magistrates to issue adoption orders which earlier fell in the domain of the courts till the amended Juvenile Justice Model (Amendment) Rule 2022 came into force on September 1.",
+          "link": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
+          "publishedOn": "2022-09-28T00:14:31.000Z",
+          "wordCount": 6345,
+          "title": "Time-bound processes for adoption get rolling",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492107,width-1070,height-580,imgsize-853577,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-to-move-hc-against-life-term-to-rapist-killer-in-2019-pocso-case/articleshow/94492040.cms",
+          "author": null,
+          "description": "​​The UP government will go to the Allahabad HC against a special Pocso court's order sentencing a man to life imprisonment for the rape and murder of a minor in 2019 and seek capital punishment for him.",
+          "link": "https://timesofindia.indiatimes.com/india/up-to-move-hc-against-life-term-to-rapist-killer-in-2019-pocso-case/articleshow/94492040.cms",
+          "publishedOn": "2022-09-28T00:05:32.000Z",
+          "wordCount": 5399,
+          "title": "UP to move HC against life term to rapist-killer",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "author": null,
+          "description": "Making the first arrest in the alleged excise policy scam, the CBI on Tuesday arrested Vijay Nair, former CEO of an event management company, Only Much Louder, and named as accused number 5 in the FIR registered by the agency.",
+          "link": "https://timesofindia.indiatimes.com/india/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "publishedOn": "2022-09-27T23:47:26.000Z",
+          "wordCount": 6448,
+          "title": "First arrest in excise probe: Vijay Nair held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491947,width-1070,height-580,imgsize-77780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-wraps-up-ews-hearing-in-6-5-days-reserves-verdict/articleshow/94491832.cms",
+          "author": null,
+          "description": "The Supreme Court on Tuesday reserved its verdict on the validity of 103rd constitutional amendment for granting 10% reservation to economically weaker sections (EWS) and wrapped up the case after hearing in just seven days.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-wraps-up-ews-hearing-in-6-5-days-reserves-verdict/articleshow/94491832.cms",
+          "publishedOn": "2022-09-27T23:22:31.000Z",
+          "wordCount": 5996,
+          "title": "SC wraps up EWS hearing in one week",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/over-250-held-in-city-6-states-as-cops-conduct-fresh-raids-on-pfi/articleshow/94491789.cms",
+          "author": null,
+          "description": "More than 250 Popular Front of India (PFI) functionaries and people tied to it were rounded up Tuesday in sweeping police raids in Delhi and six states against the outfit, currently being probed by the NIA and ED for its alleged terrorist activities and terrorism-linked funding.",
+          "link": "https://timesofindia.indiatimes.com/india/over-250-held-in-city-6-states-as-cops-conduct-fresh-raids-on-pfi/articleshow/94491789.cms",
+          "publishedOn": "2022-09-27T23:11:21.000Z",
+          "wordCount": 7328,
+          "title": "PFI man quizzed over Maha chemist's killing",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491801,width-1070,height-580,imgsize-111830,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "author": null,
+          "description": "Observing that statements and tweets were made in a \"reckless manner\" without verification, the Delhi high court on Tuesday restrained Aam Aadmi Party (AAP) and several of its leaders from making \"defamatory\" statements against lieutenant governor Vinai Kumar Saxena.",
+          "link": "https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "publishedOn": "2022-09-27T23:03:17.000Z",
+          "wordCount": 6779,
+          "title": "Statements by AAP on LG 'reckless, defamatory': HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491759,width-1070,height-580,imgsize-40918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/jaypee-flagship-company-3rd-in-group-to-face-insolvency/articleshow/94491750.cms",
+          "author": null,
+          "description": "State Bank of India has moved the National Company Law Tribunal (NCLT) to initiate insolvency action against Jaiprakash Associates Ltd, the flagship company of Jaypee group, putting the fate of thousands of homebuyers in Jaypee Greens, Jaypee Wishtown and Jaypee Greens Sports City, including the F1 track, in uncertainty. The number of units that will be impacted was not readily available.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/jaypee-flagship-company-3rd-in-group-to-face-insolvency/articleshow/94491750.cms",
+          "publishedOn": "2022-09-27T23:01:13.000Z",
+          "wordCount": 6163,
+          "title": "Jaypee flagship 3rd in group to face insolvency",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491778,width-1070,height-580,imgsize-1095002,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "author": null,
+          "description": "Sohagpur, a small village tucked away in Katra block of Bihar's Muzaffarpur's district, was in a celebratory mood on Tuesday. The cheering and dancing was to celebrate the achievement of Rakesh Kumar, 25, who has become the first in the village to land a government job since Independence, reports Manoj Chaurasia.",
+          "link": "https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "publishedOn": "2022-09-27T22:57:51.000Z",
+          "wordCount": 5556,
+          "title": "First govt job in 75 years, Bihar village erupts in joy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491741,width-1070,height-580,imgsize-49138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "author": null,
+          "description": "Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.",
+          "link": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "publishedOn": "2022-09-27T22:46:52.000Z",
+          "wordCount": 5643,
+          "title": "Riots case: UP mantri, BJP MLA get bail in 2 hours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491715,width-1070,height-580,imgsize-44272,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
           "author": null,
