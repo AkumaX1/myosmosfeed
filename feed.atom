@@ -2,10 +2,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T01:01:38.753Z</updated>
+    <updated>2022-09-28T04:09:28.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stockly raises another $12 million to sell out-of-stock items via other retailers]]></title>
+        <id>https://techcrunch.com/?p=2408632</id>
+        <link href="https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/"/>
+        <updated>2022-09-28T04:00:29.000Z</updated>
+        <summary type="html"><![CDATA[French startup Stockly is raising a $12 million Series A round (€12 million) from Eurazeo, Daphni and several business angels. The company pools together the inventory of several e-commerce websites. When a retailer is out-of-stock on a popular item, they can still accept the order and process the order through a different retailer’s inventory. This […]
+Stockly raises another $12 million to sell out-of-stock items via other retailers by Romain Dillet originally published on TechCrunch]]></summary>
+        <author>
+            <name>Romain Dillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yankees Clinch AL East Title but Aaron Judge Does Not Homer]]></title>
+        <id>https://www.nytimes.com/2022/09/27/sports/baseball/yankees-clinch-al-east.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/sports/baseball/yankees-clinch-al-east.html"/>
+        <updated>2022-09-28T03:56:46.000Z</updated>
+        <summary type="html"><![CDATA[A win over Toronto gave the Yankees the American League East title, but Aaron Judge remained stuck at 60 home runs.]]></summary>
+        <author>
+            <name>David Waldstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Ian strikes Cuba, Florida braces for winds, floods]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms"/>
+        <updated>2022-09-28T03:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Hurricane Ian tore into western Cuba as a major hurricane Tuesday, knocking out power to the entire country and leaving 11 million people without electricity, before churning on a collision course with Florida over warm Gulf waters amid expectations it would strengthen into a catastrophic Category 4 storm.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Times Top10: You can now be a PhD only if…]]></title>
+        <id>https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms"/>
+        <updated>2022-09-28T03:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reincarnation of the Strongest Exorcist in Another World Anime Releases Key Visual for January 2023 Premiere]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-releases-key-visual-for-january-2023-premiere</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-releases-key-visual-for-january-2023-premiere"/>
+        <updated>2022-09-28T03:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Akari Kito and Yui Ogura newly join the cast
+
+
+The official website and Twitter account for the upcoming The Reincarnation of the Strongest Exorcist in Another World (Saikyo Onmyoji no Isekai Tenseiki in Japanese) TV anime posted a key visual featuring its five main characters today. Check out more new information after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Digest | PFI and 8 affiliates banned for 5 years under UAPA; Congress issues notices to three Gehlot loyalists, and more]]></title>
+        <id>https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-28-2022/article65943449.ece</id>
+        <link href="https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-28-2022/article65943449.ece"/>
+        <updated>2022-09-28T03:03:52.000Z</updated>
+        <summary type="html"><![CDATA[A select list of stories to read before you start your day]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India's preparations for T20 World Cup hit the final stretch]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-team-indias-preparations-for-t20-world-cup-hit-the-final-stretch/articleshow/94493524.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-team-indias-preparations-for-t20-world-cup-hit-the-final-stretch/articleshow/94493524.cms"/>
+        <updated>2022-09-28T02:43:13.000Z</updated>
+        <summary type="html"><![CDATA[South Africans have replaced Australians as India rivals for their last three T20 matches before that big tournament Down Under and the two teams will square off in the first of those games at the Greenfield stadium, Thiruvananthapuram on Wednesday night.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alzheimer’s Drug Slows Cognitive Decline in Key Study]]></title>
+        <id>https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html"/>
+        <updated>2022-09-28T02:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Biogen and Eisai reported the finding from a large late-stage clinical trial of lecanemab, a drug they are developing.]]></summary>
+        <author>
+            <name>Rebecca Robbins and Pam Belluck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIBA welcomes ban on PFI; calls it ‘surgical strike’]]></title>
+        <id>https://timesofindia.indiatimes.com/india/aiba-welcomes-ban-on-pfi-calls-it-surgical-strike/articleshow/94493108.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/aiba-welcomes-ban-on-pfi-calls-it-surgical-strike/articleshow/94493108.cms"/>
+        <updated>2022-09-28T02:21:06.000Z</updated>
+        <summary type="html"><![CDATA[India News: CHENNAI: The All India Bar Association (AIBA), which on September 23 called upon the government of India to ban the Popular Front of India (PFI), has .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saudi King names Crown Prince Mohammed bin Salman as Prime Minister]]></title>
+        <id>https://www.thehindu.com/news/international/saudi-king-names-crown-prince-mohammed-bin-salman-as-prime-minister/article65944751.ece</id>
+        <link href="https://www.thehindu.com/news/international/saudi-king-names-crown-prince-mohammed-bin-salman-as-prime-minister/article65944751.ece"/>
+        <updated>2022-09-28T02:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Prince Mohammed bin Salman’s new role is in line with the king’s previous delegation of duties to him, including representing the kingdom in foreign visits and chairing summits hosted by the kingdom, a Saudi official said]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre declares PFI 'unlawful association' for 5 years]]></title>
+        <id>https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms"/>
+        <updated>2022-09-28T01:56:42.000Z</updated>
+        <summary type="html"><![CDATA["PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy," said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Unlawful association': Centre bans PFI, its affiliates for 5 years over terror links]]></title>
+        <id>https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms"/>
+        <updated>2022-09-28T01:56:42.000Z</updated>
+        <summary type="html"><![CDATA["PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy," said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Company’s Apple News access hijacked to send an obscene push notification]]></title>
+        <id>https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack</id>
+        <link href="https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack"/>
+        <updated>2022-09-28T01:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Nick Barclay / The Verge
+    
+
+  
+It’s been a little while since we had a high-profile media feed hijacking, but tonight someone sent an Apple News notification from Fast Company containing a racial slur and invitation for a particular sexual act. 
+Apple has addressed the incident on its Apple News Twitter account, saying that it’s disabled Fast Company’s channel.
+
+
+We are investigating the situation and have suspended the feed & shutdown https://t.co/U9iS8QOhkW until we are certain the situation has been resolved.
+— Fast Company (@FastCompany) September 28, 2022
+
+
+
+The publication confirmed the hack. “Fast Company’s Apple News account was hacked on Tuesday evening. Two obscene and racist push notifications were sent about a minute apart. The messages are vile and are not in line with the …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grounded Review]]></title>
+        <id>ee67f748-124a-4b1e-aac7-ae60b5c0862a</id>
+        <link href="https://www.ign.com/articles/grounded-review"/>
+        <updated>2022-09-28T01:48:17.000Z</updated>
+        <author>
+            <name>Dan Stapleton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress made money in guise of improving medical education, says Amit Shah]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms"/>
+        <updated>2022-09-28T01:21:35.000Z</updated>
+        <summary type="html"><![CDATA[India News: The government is in the process of setting up a digital university to promote education and skill development, said Union education, skill developmen]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swedish defence major Saab to make weapon system in India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/swedish-defence-major-saab-to-make-weapon-system-in-india/articleshow/94492503.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/swedish-defence-major-saab-to-make-weapon-system-in-india/articleshow/94492503.cms"/>
+        <updated>2022-09-28T01:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Swedish defence major Saab on Tuesday announced that it will set up a manufacturing facility in India for production of its Carl-Gustaf M4 weapon systems. It will be the firm's first manufacturing facility for Carl-Gustaf M4 outside Sweden.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aussie Deals: The Sweetest Picks of School Holiday Sales and Digital Store Promotions!]]></title>
+        <id>75884d46-2e83-4520-9c4f-a024fd4a11d9</id>
+        <link href="https://www.ign.com/articles/aussie-deals-the-sweetest-picks-of-school-holiday-sales-and-digital-store-promotions"/>
+        <updated>2022-09-28T01:11:27.000Z</updated>
+        <summary type="html"><![CDATA[It's school holidays and most likely raining. Is there a better time to load up on cheap games? We think not.]]></summary>
+        <author>
+            <name>Adam Mathew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Live! Superstar!! Kanon VA Sayuri Date's 1st Photo Book Gets Reprints before Release]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27-1/love-live-superstar-kanon-va-sayuri-dates-1st-photo-book-gets-reprints-before-release</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27-1/love-live-superstar-kanon-va-sayuri-dates-1st-photo-book-gets-reprints-before-release"/>
+        <updated>2022-09-28T01:11:02.000Z</updated>
+        <summary type="html"><![CDATA["This is a photo book I made with you all."
+
+
+The official Twitter for voice actress Sayuri Date, best known as Kanon Shibuya in Love Live! Superstar!!, has confirmed that her first photo collection book "Ashiato" (Footsteps) had already been decided to be reprinted prior to its September 28 release. Hit the jump for more details including a behind-the-scenes clip and sample photos!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the agenda for TechCrunch Sessions: Crypto 2022]]></title>
+        <id>https://techcrunch.com/?p=2398389</id>
+        <link href="https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/"/>
+        <updated>2022-09-28T01:10:40.000Z</updated>
+        <summary type="html"><![CDATA[The crypto industry seemed to age several decades over the past bull run, maturing in some places while barreling ahead in ambitious new pursuits, including DeFi, NFTs and web3. And while scams continued to proliferate and hacker heists became a weekly occurrence, the space onboarded an onslaught of retail investors and fostered feverish excitement among […]
+Announcing the agenda for TechCrunch Sessions: Crypto 2022 by Lucas Matney originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lucas Matney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dadasaheb Phalke award for Asha Parekh]]></title>
+        <id>https://timesofindia.indiatimes.com/india/dadasaheb-phalke-award-for-asha-parekh/articleshow/94492459.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/dadasaheb-phalke-award-for-asha-parekh/articleshow/94492459.cms"/>
+        <updated>2022-09-28T01:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Veteran actor Asha Parekh will be conferred the Dada Saheb Phalke award for 2020, the highest recognition in the field of Indian cinema, Union information and broadcasting minister Anurag Thakur said on Tuesday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign tourist footfall hit 30-year low in 2021]]></title>
+        <id>https://timesofindia.indiatimes.com/india/foreign-tourist-footfall-hit-30-year-low-in-2021/articleshow/94492435.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/foreign-tourist-footfall-hit-30-year-low-in-2021/articleshow/94492435.cms"/>
+        <updated>2022-09-28T01:05:28.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Foreign tourist arrivals (FTA) crashed another 45% to 1.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair transplants only in hospitals: NMC issues norms]]></title>
+        <id>https://timesofindia.indiatimes.com/india/hair-transplants-only-in-hospitals-nmc-issues-norms/articleshow/94492424.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/hair-transplants-only-in-hospitals-nmc-issues-norms/articleshow/94492424.cms"/>
+        <updated>2022-09-28T01:03:40.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: For the first time, the National Medical Commission (NMC) has issued a guideline on who can perform a hair transplant and what kind of medi.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance coverage of SCs in schemes: FM to PSU banks]]></title>
+        <id>https://timesofindia.indiatimes.com/india/enhance-coverage-of-scs-in-schemes-fm-to-psu-banks/articleshow/94492412.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/enhance-coverage-of-scs-in-schemes-fm-to-psu-banks/articleshow/94492412.cms"/>
+        <updated>2022-09-28T01:01:50.000Z</updated>
+        <summary type="html"><![CDATA[As part of a focus on scheduled caste community, finance minister Nirmala Sitharaman on Tuesday asked state-run banks to fill up vacancies, maintain records of outsourced jobs, such as those of safai karmcharis or sanitation workers and enhance the coverage of SCs under all schemes.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC issues notice to NIA, Maha on house arrest plea of Navlakha]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-issues-notice-to-nia-maha-on-house-arrest-plea-of-navlakha/articleshow/94492402.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-issues-notice-to-nia-maha-on-house-arrest-plea-of-navlakha/articleshow/94492402.cms"/>
+        <updated>2022-09-28T01:00:34.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Supreme Court on Tuesday agreed to hear social activist Gautam Navlakha's plea to be placed under house arrest instead of judicial cust.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Maintains Current Cap on Refugee Entries]]></title>
+        <id>https://www.nytimes.com/2022/09/27/us/politics/biden-refugee-cap.html</id>
+        <link href="https://www.nytimes.com/2022/09/27/us/politics/biden-refugee-cap.html"/>
+        <updated>2022-09-28T00:56:25.000Z</updated>
+        <summary type="html"><![CDATA[The decision to leave the cap at 125,000 was a contrast with the Trump administration, which severely restricted entry, but advocacy groups said migrants were still processed too slowly.]]></summary>
+        <author>
+            <name>Michael D. Shear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modi, Kishida call for fair and transparent development aid]]></title>
+        <id>https://timesofindia.indiatimes.com/india/modi-kishida-call-for-fair-and-transparent-development-aid/articleshow/94492322.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/modi-kishida-call-for-fair-and-transparent-development-aid/articleshow/94492322.cms"/>
+        <updated>2022-09-28T00:53:06.000Z</updated>
+        <summary type="html"><![CDATA[PM Narendra Modi and his Japanese counterpart Fumio Kishida, in a bilateral meeting in Tokyo on Tuesday, discussed regional and global issues, including the Ukraine conflict, called for peaceful resolution of disputes, and underlined the significance of fair and transparent development finance.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setback for Uddhav Thackeray as SC allows poll panel to decide the 'real' Sena]]></title>
         <id>https://timesofindia.indiatimes.com/india/setback-for-uddhav-thackeray-as-sc-allows-poll-panel-to-decide-the-real-sena/articleshow/94492273.cms</id>
@@ -96,6 +376,16 @@ Since Russia invaded Ukraine, its government has blocked several American social
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Artemis: PUBG Creator’s Next Game Will Have NFTs and the Metaverse]]></title>
+        <id>957f0c3d-a053-46c3-bf89-eae8b225b811</id>
+        <link href="https://www.ign.com/articles/artemis-pubg-creators-next-game-will-have-nfts-and-the-metaverse"/>
+        <updated>2022-09-28T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Brendan Greene, creator of PUBG, is working on a new metaverse game which features NFTs and blockchain.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Photos Show NASA’s DART Spacecraft Crashing Into Asteroid]]></title>
         <id>https://www.nytimes.com/2022/09/27/science/nasa-dart-asteroid-photos.html</id>
         <link href="https://www.nytimes.com/2022/09/27/science/nasa-dart-asteroid-photos.html"/>
@@ -113,6 +403,16 @@ Since Russia invaded Ukraine, its government has blocked several American social
         <summary type="html"><![CDATA[Making the first arrest in the alleged excise policy scam, the CBI on Tuesday arrested Vijay Nair, former CEO of an event management company, Only Much Louder, and named as accused number 5 in the FIR registered by the agency.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First arrest in excise probe: Vijay Nair held]]></title>
+        <id>https://timesofindia.indiatimes.com/city/delhi/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/delhi/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms"/>
+        <updated>2022-09-27T23:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Making the first arrest in the alleged excise policy scam, the CBI on Tuesday arrested Vijay Nair, former CEO of an event management company, Only Much Louder, and named as accused number 5 in the FIR registered by the agency.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +487,16 @@ Since Russia invaded Ukraine, its government has blocked several American social
     </entry>
     <entry>
         <title type="html"><![CDATA[Statements by AAP on LG 'reckless, defamatory': HC]]></title>
+        <id>https://timesofindia.indiatimes.com/city/delhi/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/delhi/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms"/>
+        <updated>2022-09-27T23:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Observing that statements and tweets were made in a "reckless manner" without verification, the Delhi high court on Tuesday restrained Aam Aadmi Party (AAP) and several of its leaders from making "defamatory" statements against lieutenant governor Vinai Kumar Saxena.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statements by AAP on LG 'reckless, defamatory': HC]]></title>
         <id>https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms"/>
         <updated>2022-09-27T23:03:17.000Z</updated>
@@ -257,6 +567,16 @@ Since Russia invaded Ukraine, its government has blocked several American social
     </entry>
     <entry>
         <title type="html"><![CDATA[First govt job in 75 years, Bihar village erupts in joy]]></title>
+        <id>https://timesofindia.indiatimes.com/city/patna/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/patna/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms"/>
+        <updated>2022-09-27T22:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Sohagpur, a small village tucked away in Katra block of Bihar's Muzaffarpur's district, was in a celebratory mood on Tuesday. The cheering and dancing was to celebrate the achievement of Rakesh Kumar, 25, who has become the first in the village to land a government job since Independence, reports Manoj Chaurasia.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First govt job in 75 years, Bihar village erupts in joy]]></title>
         <id>https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms"/>
         <updated>2022-09-27T22:57:51.000Z</updated>
@@ -273,6 +593,16 @@ Since Russia invaded Ukraine, its government has blocked several American social
         <summary type="html"><![CDATA[Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riots case: UP mantri, BJP MLA get bail in 2 hours]]></title>
+        <id>https://timesofindia.indiatimes.com/city/meerut/up-minister-kapil-dev-aggarwal-bjp-mla-vikram-saini-sent-to-judicial-custody-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/meerut/up-minister-kapil-dev-aggarwal-bjp-mla-vikram-saini-sent-to-judicial-custody-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms"/>
+        <updated>2022-09-27T22:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -365,6 +695,16 @@ Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft
         <summary type="html"><![CDATA[The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on "high priority". "Security audit of vital installations are being carried out on a regular basis," he said.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS HQ cover beefed up; not linked to PFI raids: Cops]]></title>
+        <id>https://timesofindia.indiatimes.com/city/nagpur/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/nagpur/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms"/>
+        <updated>2022-09-27T22:02:36.000Z</updated>
+        <summary type="html"><![CDATA[The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on "high priority". "Security audit of vital installations are being carried out on a regular basis," he said.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -536,6 +876,16 @@ Fans on the Try Guys subreddit began to notice that Ned Fulmer, one of four memb
     </entry>
     <entry>
         <title type="html"><![CDATA[For ₹500/night, Uttarakhand offers real 'jail experience']]></title>
+        <id>https://timesofindia.indiatimes.com/city/dehradun/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/dehradun/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms"/>
+        <updated>2022-09-27T21:31:08.000Z</updated>
+        <summary type="html"><![CDATA[The jail administration in Uttarakhand's Haldwani has come up with a unique idea to help people ward off "bad karma" - for a nominal fee of Rs 500 per night in prison.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For ₹500/night, Uttarakhand offers real 'jail experience']]></title>
         <id>https://timesofindia.indiatimes.com/india/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms"/>
         <updated>2022-09-27T21:31:08.000Z</updated>
@@ -631,6 +981,16 @@ In the clip, Reynolds explains that they’ve been working on the film for a lon
         <summary type="html"><![CDATA[The widespread post-harvest practice of burning of paddy-crop stubbles in Punjab and Haryana is a major contributor to air pollution in north India in October and November.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stubble-burning season begins in north]]></title>
+        <id>https://timesofindia.indiatimes.com/city/delhi/stubble-burning-season-begins-in-north-count-likely-to-pick-up-in-october/articleshow/94491264.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/delhi/stubble-burning-season-begins-in-north-count-likely-to-pick-up-in-october/articleshow/94491264.cms"/>
+        <updated>2022-09-27T21:05:02.000Z</updated>
+        <summary type="html"><![CDATA[The season of farm fires in Punjab and Haryana has begun, satellites recording around 200 fire counts in this season so far. Though the count so far is too low to impact air quality in the region so far, experts say the number is expected to rise in October as the monsoon is set to withdraw from northwest India.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1214,6 +1574,16 @@ Cardano founder claims Ethereum community in for a ‘rough time’ following th
         <summary type="html"><![CDATA[An invisibility cloak shouldn't just hide a person from the human eye, it should also shield the wearer from detection using thermal imaging.]]></summary>
         <author>
             <name>Hannah Docter-Loeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16 launch: Revelations made by Salman Khan]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-launch-from-his-much-talked-about-rs-1000-crore-remuneration-to-his-mom-not-watching-bigg-boss-15-revelations-made-by-salman-khan/articleshow/94490153.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-launch-from-his-much-talked-about-rs-1000-crore-remuneration-to-his-mom-not-watching-bigg-boss-15-revelations-made-by-salman-khan/articleshow/94490153.cms"/>
+        <updated>2022-09-27T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Today at the launch of Bigg Boss 16, Salman Khan spoke to the media about hosting 12 seasons of the show back to back, his mother not following Bigg Boss 15, competition from other reality shows and his much talked about remuneration.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -2142,6 +2512,16 @@ You can get phenomenal noise cancellation and sound quality in the premium tier 
 Meta reports takedowns of influence ops targeting US midterms, Ukraine war by Natasha Lomas originally published on TechCrunch]]></summary>
         <author>
             <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[England 'offers' to host India-Pakistan Test series, BCCI 'not interested']]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/news/england-offers-to-be-neutral-venue-for-india-pakistan-test-series-bcci-not-interested/articleshow/94488237.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/news/england-offers-to-be-neutral-venue-for-india-pakistan-test-series-bcci-not-interested/articleshow/94488237.cms"/>
+        <updated>2022-09-27T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[England and Wales Cricket Board has informally offered to be the hosts if India and Pakistan plan to play a bilateral Test series but BCCI sources said chances of that happening in near future is "next to nil".]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

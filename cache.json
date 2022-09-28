@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack",
+          "author": null,
+          "description": "Nick Barclay / The Verge\n    \n\n  \nIt’s been a little while since we had a high-profile media feed hijacking, but tonight someone sent an Apple News notification from Fast Company containing a racial slur and invitation for a particular sexual act. \nApple has addressed the incident on its Apple News Twitter account, saying that it’s disabled Fast Company’s channel.\n\n\nWe are investigating the situation and have suspended the feed & shutdown https://t.co/U9iS8QOhkW until we are certain the situation has been resolved.\n— Fast Company (@FastCompany) September 28, 2022\n\n\n\nThe publication confirmed the hack. “Fast Company’s Apple News account was hacked on Tuesday evening. Two obscene and racist push notifications were sent about a minute apart. The messages are vile and are not in line with the …",
+          "link": "https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack",
+          "publishedOn": "2022-09-28T01:48:44.000Z",
+          "wordCount": 7536,
+          "title": "Fast Company’s Apple News access hijacked to send an obscene push notification",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ioXP09GeTx3QY0vxAYAfEsMgKUk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nVK, the Russian technology conglomerate behind a social network with hundreds of millions of downloads called VKontakte, says that its apps have been removed from Apple’s App Store.\nThe translated statement says “some VK applications are blocked by Apple” but that it will “continue to develop and support iOS applications.” The Russian Ministry of Digital Affairs told state-controlled media outlet RT that it was investigating “the reasons for deleting VK applications and developer accounts, underlining the social significance and scale of use of the services provided by the Russian company.” The apps are still available on Google’s Play Store.\nSince Russia invaded Ukraine, its government has blocked several American social media sites, includ…",
@@ -898,6 +908,36 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/27/sports/baseball/yankees-clinch-al-east.html",
+          "author": "David Waldstein",
+          "description": "A win over Toronto gave the Yankees the American League East title, but Aaron Judge remained stuck at 60 home runs.",
+          "link": "https://www.nytimes.com/2022/09/27/sports/baseball/yankees-clinch-al-east.html",
+          "publishedOn": "2022-09-28T03:56:46.000Z",
+          "wordCount": null,
+          "title": "Yankees Clinch AL East Title but Aaron Judge Does Not Homer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+          "author": "Rebecca Robbins and Pam Belluck",
+          "description": "Biogen and Eisai reported the finding from a large late-stage clinical trial of lecanemab, a drug they are developing.",
+          "link": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+          "publishedOn": "2022-09-28T02:39:23.000Z",
+          "wordCount": null,
+          "title": "Alzheimer’s Drug Slows Cognitive Decline in Key Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/us/politics/biden-refugee-cap.html",
+          "author": "Michael D. Shear",
+          "description": "The decision to leave the cap at 125,000 was a contrast with the Trump administration, which severely restricted entry, but advocacy groups said migrants were still processed too slowly.",
+          "link": "https://www.nytimes.com/2022/09/27/us/politics/biden-refugee-cap.html",
+          "publishedOn": "2022-09-28T00:56:25.000Z",
+          "wordCount": null,
+          "title": "Biden Maintains Current Cap on Refugee Entries",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/27/world/europe/russia-ukraine-war-referendums.html",
           "author": "Marc Santora, Andrew E. Kramer and Eric Nagourney",
@@ -4340,6 +4380,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2408632",
+          "author": "Romain Dillet",
+          "description": "French startup Stockly is raising a $12 million Series A round (€12 million) from Eurazeo, Daphni and several business angels. The company pools together the inventory of several e-commerce websites. When a retailer is out-of-stock on a popular item, they can still accept the order and process the order through a different retailer’s inventory. This […]\nStockly raises another $12 million to sell out-of-stock items via other retailers by Romain Dillet originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/",
+          "publishedOn": "2022-09-28T04:00:29.000Z",
+          "wordCount": 7346,
+          "title": "Stockly raises another $12 million to sell out-of-stock items via other retailers",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1363267286.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2398389",
+          "author": "Lucas Matney",
+          "description": "The crypto industry seemed to age several decades over the past bull run, maturing in some places while barreling ahead in ambitious new pursuits, including DeFi, NFTs and web3. And while scams continued to proliferate and hacker heists became a weekly occurrence, the space onboarded an onslaught of retail investors and fostered feverish excitement among […]\nAnnouncing the agenda for TechCrunch Sessions: Crypto 2022 by Lucas Matney originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/",
+          "publishedOn": "2022-09-28T01:10:40.000Z",
+          "wordCount": 9102,
+          "title": "Announcing the agenda for TechCrunch Sessions: Crypto 2022",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Crypto_Wordpress_Header_Image_1200x628-2.png"
+        },
         {
           "id": "https://techcrunch.com/?p=2409167",
           "author": "Christine Hall",
@@ -8148,6 +8208,36 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "ee67f748-124a-4b1e-aac7-ae60b5c0862a",
+          "author": "Dan Stapleton",
+          "description": "",
+          "link": "https://www.ign.com/articles/grounded-review",
+          "publishedOn": "2022-09-28T01:48:17.000Z",
+          "wordCount": 17736,
+          "title": "Grounded Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/27/grounded-review-blogroll-1664314644718.jpg?width=1280"
+        },
+        {
+          "id": "75884d46-2e83-4520-9c4f-a024fd4a11d9",
+          "author": "Adam Mathew",
+          "description": "It's school holidays and most likely raining. Is there a better time to load up on cheap games? We think not.",
+          "link": "https://www.ign.com/articles/aussie-deals-the-sweetest-picks-of-school-holiday-sales-and-digital-store-promotions",
+          "publishedOn": "2022-09-28T01:11:27.000Z",
+          "wordCount": 7943,
+          "title": "Aussie Deals: The Sweetest Picks of School Holiday Sales and Digital Store Promotions!",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/this-one-now-1664327280569.jpg?width=1280"
+        },
+        {
+          "id": "957f0c3d-a053-46c3-bf89-eae8b225b811",
+          "author": "Ryan Leston",
+          "description": "Brendan Greene, creator of PUBG, is working on a new metaverse game which features NFTs and blockchain.",
+          "link": "https://www.ign.com/articles/artemis-pubg-creators-next-game-will-have-nfts-and-the-metaverse",
+          "publishedOn": "2022-09-28T00:00:04.000Z",
+          "wordCount": 7695,
+          "title": "Artemis: PUBG Creator’s Next Game Will Have NFTs and the Metaverse",
+          "imageUrl": "https://assets-prd.ignimgs.com/2021/07/20/pubg-animated-adaptation-1626793726132.jpeg?width=1280"
+        },
+        {
           "id": "5a27df8e-44c4-493b-89c8-8797c2a4b792",
           "author": "Logan Plant",
           "description": "Popular controller builder Rudeism shows off the custom trombone controller he made for Trombone Champ.",
@@ -9479,6 +9569,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-releases-key-visual-for-january-2023-premiere",
+          "author": "Mikikazu Komatsu",
+          "description": "Akari Kito and Yui Ogura newly join the cast\n\n\nThe official website and Twitter account for the upcoming The Reincarnation of the Strongest Exorcist in Another World (Saikyo Onmyoji no Isekai Tenseiki in Japanese) TV anime posted a key visual featuring its five main characters today. Check out more new information after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-releases-key-visual-for-january-2023-premiere",
+          "publishedOn": "2022-09-28T03:04:01.000Z",
+          "wordCount": 6525,
+          "title": "The Reincarnation of the Strongest Exorcist in Another World Anime Releases Key Visual for January 2023 Premiere",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/a8860752778307ddbe10c9ff721a6c4e1664334088_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/love-live-superstar-kanon-va-sayuri-dates-1st-photo-book-gets-reprints-before-release",
+          "author": "Mikikazu Komatsu",
+          "description": "\"This is a photo book I made with you all.\"\n\n\nThe official Twitter for voice actress Sayuri Date, best known as Kanon Shibuya in Love Live! Superstar!!, has confirmed that her first photo collection book \"Ashiato\" (Footsteps) had already been decided to be reprinted prior to its September 28 release. Hit the jump for more details including a behind-the-scenes clip and sample photos!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/love-live-superstar-kanon-va-sayuri-dates-1st-photo-book-gets-reprints-before-release",
+          "publishedOn": "2022-09-28T01:11:02.000Z",
+          "wordCount": 5922,
+          "title": "Love Live! Superstar!! Kanon VA Sayuri Date's 1st Photo Book Gets Reprints before Release",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/3837762968283857350dde56ac932d9b1664327267_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/shadowverse-flame-3rd-cour-pv-introduces-new-op-theme-by-boy-idol-group-news",
           "author": "Mikikazu Komatsu",
           "description": "New ending theme \"STAR\" is sung by girl idol group Cho Tokimeki Sendenbu\n\n\nThe official YouTube channel for the anime franchise inspired by Cygames's card-battling game Shadowverse has posted a 110-second PV for the forthcoming third cour of its TV anime series Shadowverse Flame. Watch the clip introducing the new opening theme \"Tick-Tock\" performed by Johnny & Associates' three-member idol group NEWS!",
@@ -10456,6 +10566,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-28-2022/article65943449.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-28-2022/article65943449.ece",
+          "publishedOn": "2022-09-28T03:03:52.000Z",
+          "wordCount": 7212,
+          "title": "Morning Digest | PFI and 8 affiliates banned for 5 years under UAPA; Congress issues notices to three Gehlot loyalists, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bpe0dh/article65943670.ece/alternates/LANDSCAPE_615/07_Congress__31_07_JPR.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/saudi-king-names-crown-prince-mohammed-bin-salman-as-prime-minister/article65944751.ece",
+          "author": "Reuters",
+          "description": "Prince Mohammed bin Salman’s new role is in line with the king’s previous delegation of duties to him, including representing the kingdom in foreign visits and chairing summits hosted by the kingdom, a Saudi official said",
+          "link": "https://www.thehindu.com/news/international/saudi-king-names-crown-prince-mohammed-bin-salman-as-prime-minister/article65944751.ece",
+          "publishedOn": "2022-09-28T02:08:47.000Z",
+          "wordCount": 6299,
+          "title": "Saudi King names Crown Prince Mohammed bin Salman as Prime Minister",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/jidukx/article65944752.ece/alternates/LANDSCAPE_615/2022-09-27T183330Z_84178340_RC2RJV9S1G6M_RTRMADP_3_SAUDI-POLITICS.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/national/we-could-not-agree-more-blinken-on-pm-modis-message-to-putin-on-ukraine-war/article65943968.ece",
           "author": "Sriram Lakshman",
           "description": "The U.S. Secretary of State was referring to Mr. Modi telling Mr. Putin in Samarkand, on Sept. 16, that this was not the era for war.",
@@ -11212,6 +11342,106 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/aiba-welcomes-ban-on-pfi-calls-it-surgical-strike/articleshow/94493108.cms",
+          "author": null,
+          "description": "India News: CHENNAI: The All India Bar Association (AIBA), which on September 23 called upon the government of India to ban the Popular Front of India (PFI), has .",
+          "link": "https://timesofindia.indiatimes.com/india/aiba-welcomes-ban-on-pfi-calls-it-surgical-strike/articleshow/94493108.cms",
+          "publishedOn": "2022-09-28T02:21:06.000Z",
+          "wordCount": 5357,
+          "title": "AIBA welcomes ban on PFI; calls it ‘surgical strike’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94493118,width-1070,height-580,imgsize-55040,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "author": null,
+          "description": "\"PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy,\" said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "publishedOn": "2022-09-28T01:56:42.000Z",
+          "wordCount": 5699,
+          "title": "Centre declares PFI 'unlawful association' for 5 years",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492869,width-1070,height-580,imgsize-81976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms",
+          "author": null,
+          "description": "India News: The government is in the process of setting up a digital university to promote education and skill development, said Union education, skill developmen",
+          "link": "https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms",
+          "publishedOn": "2022-09-28T01:21:35.000Z",
+          "wordCount": 5822,
+          "title": "Congress made money in guise of improving medical education, says Amit Shah",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/swedish-defence-major-saab-to-make-weapon-system-in-india/articleshow/94492503.cms",
+          "author": null,
+          "description": "Swedish defence major Saab on Tuesday announced that it will set up a manufacturing facility in India for production of its Carl-Gustaf M4 weapon systems. It will be the firm's first manufacturing facility for Carl-Gustaf M4 outside Sweden.",
+          "link": "https://timesofindia.indiatimes.com/india/swedish-defence-major-saab-to-make-weapon-system-in-india/articleshow/94492503.cms",
+          "publishedOn": "2022-09-28T01:11:45.000Z",
+          "wordCount": 5290,
+          "title": "Swedish defence major Saab to make weapon system in India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/dadasaheb-phalke-award-for-asha-parekh/articleshow/94492459.cms",
+          "author": null,
+          "description": "Veteran actor Asha Parekh will be conferred the Dada Saheb Phalke award for 2020, the highest recognition in the field of Indian cinema, Union information and broadcasting minister Anurag Thakur said on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/dadasaheb-phalke-award-for-asha-parekh/articleshow/94492459.cms",
+          "publishedOn": "2022-09-28T01:07:15.000Z",
+          "wordCount": 5578,
+          "title": "Dadasaheb Phalke award for Asha Parekh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/foreign-tourist-footfall-hit-30-year-low-in-2021/articleshow/94492435.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Foreign tourist arrivals (FTA) crashed another 45% to 1.",
+          "link": "https://timesofindia.indiatimes.com/india/foreign-tourist-footfall-hit-30-year-low-in-2021/articleshow/94492435.cms",
+          "publishedOn": "2022-09-28T01:05:28.000Z",
+          "wordCount": 5617,
+          "title": "Foreign tourist footfall hit 30-year low in 2021",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hair-transplants-only-in-hospitals-nmc-issues-norms/articleshow/94492424.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: For the first time, the National Medical Commission (NMC) has issued a guideline on who can perform a hair transplant and what kind of medi.",
+          "link": "https://timesofindia.indiatimes.com/india/hair-transplants-only-in-hospitals-nmc-issues-norms/articleshow/94492424.cms",
+          "publishedOn": "2022-09-28T01:03:40.000Z",
+          "wordCount": 6061,
+          "title": "Hair transplants only in hospitals: NMC issues norms",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/enhance-coverage-of-scs-in-schemes-fm-to-psu-banks/articleshow/94492412.cms",
+          "author": null,
+          "description": "As part of a focus on scheduled caste community, finance minister Nirmala Sitharaman on Tuesday asked state-run banks to fill up vacancies, maintain records of outsourced jobs, such as those of safai karmcharis or sanitation workers and enhance the coverage of SCs under all schemes.",
+          "link": "https://timesofindia.indiatimes.com/india/enhance-coverage-of-scs-in-schemes-fm-to-psu-banks/articleshow/94492412.cms",
+          "publishedOn": "2022-09-28T01:01:50.000Z",
+          "wordCount": 6008,
+          "title": "Enhance coverage of SCs in schemes: FM to PSU banks",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-issues-notice-to-nia-maha-on-house-arrest-plea-of-navlakha/articleshow/94492402.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court on Tuesday agreed to hear social activist Gautam Navlakha's plea to be placed under house arrest instead of judicial cust.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-issues-notice-to-nia-maha-on-house-arrest-plea-of-navlakha/articleshow/94492402.cms",
+          "publishedOn": "2022-09-28T01:00:34.000Z",
+          "wordCount": 5276,
+          "title": "SC issues notice to NIA, Maha on house arrest plea of Navlakha",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/modi-kishida-call-for-fair-and-transparent-development-aid/articleshow/94492322.cms",
+          "author": null,
+          "description": "PM Narendra Modi and his Japanese counterpart Fumio Kishida, in a bilateral meeting in Tokyo on Tuesday, discussed regional and global issues, including the Ukraine conflict, called for peaceful resolution of disputes, and underlined the significance of fair and transparent development finance.",
+          "link": "https://timesofindia.indiatimes.com/india/modi-kishida-call-for-fair-and-transparent-development-aid/articleshow/94492322.cms",
+          "publishedOn": "2022-09-28T00:53:06.000Z",
+          "wordCount": 6272,
+          "title": "Modi, Kishida call for fair and transparent development aid",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/setback-for-uddhav-thackeray-as-sc-allows-poll-panel-to-decide-the-real-sena/articleshow/94492273.cms",
           "author": null,
@@ -12850,6 +13080,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms",
+          "author": null,
+          "description": "Hurricane Ian tore into western Cuba as a major hurricane Tuesday, knocking out power to the entire country and leaving 11 million people without electricity, before churning on a collision course with Florida over warm Gulf waters amid expectations it would strengthen into a catastrophic Category 4 storm.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms",
+          "publishedOn": "2022-09-28T03:12:13.000Z",
+          "wordCount": 20803,
+          "title": "Hurricane Ian strikes Cuba, Florida braces for winds, floods",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94494526,width-1070,height-580,imgsize-177182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-crown-prince-named-prime-minister-decree/articleshow/94490300.cms",
           "author": null,
           "description": "Saudi Arabia's powerful crown prince has been named prime minister, a post traditionally held by the king, in a government shuffle announced Tuesday night.",
@@ -13904,6 +14144,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms",
+          "publishedOn": "2022-09-28T03:11:58.000Z",
+          "wordCount": 4729,
+          "title": "Times Top10: You can now be a PhD only if…",
+          "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-team-indias-preparations-for-t20-world-cup-hit-the-final-stretch/articleshow/94493524.cms",
+          "author": null,
+          "description": "South Africans have replaced Australians as India rivals for their last three T20 matches before that big tournament Down Under and the two teams will square off in the first of those games at the Greenfield stadium, Thiruvananthapuram on Wednesday night.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-team-indias-preparations-for-t20-world-cup-hit-the-final-stretch/articleshow/94493524.cms",
+          "publishedOn": "2022-09-28T02:43:13.000Z",
+          "wordCount": 7096,
+          "title": "India's preparations for T20 World Cup hit the final stretch",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94493485,width-1070,height-580,imgsize-65680,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "author": null,
+          "description": "\"PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy,\" said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "publishedOn": "2022-09-28T01:56:42.000Z",
+          "wordCount": 5699,
+          "title": "'Unlawful association': Centre bans PFI, its affiliates for 5 years over terror links",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492869,width-1070,height-580,imgsize-81976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
           "author": null,
           "description": "New adoption regulations issued by the women and child development ministry lay out the process for district magistrates to issue adoption orders which earlier fell in the domain of the courts till the amended Juvenile Justice Model (Amendment) Rule 2022 came into force on September 1.",
@@ -13922,6 +14192,16 @@
           "wordCount": 5399,
           "title": "UP to move HC against life term to rapist-killer",
           "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "author": null,
+          "description": "Making the first arrest in the alleged excise policy scam, the CBI on Tuesday arrested Vijay Nair, former CEO of an event management company, Only Much Louder, and named as accused number 5 in the FIR registered by the agency.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
+          "publishedOn": "2022-09-27T23:47:26.000Z",
+          "wordCount": 6448,
+          "title": "First arrest in excise probe: Vijay Nair held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491947,width-1070,height-580,imgsize-77780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/first-arrest-in-excise-probe-ex-ceo-of-event-management-firm-vijay-nair-held/articleshow/94491937.cms",
@@ -13954,6 +14234,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491801,width-1070,height-580,imgsize-111830,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "author": null,
+          "description": "Observing that statements and tweets were made in a \"reckless manner\" without verification, the Delhi high court on Tuesday restrained Aam Aadmi Party (AAP) and several of its leaders from making \"defamatory\" statements against lieutenant governor Vinai Kumar Saxena.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
+          "publishedOn": "2022-09-27T23:03:17.000Z",
+          "wordCount": 6680,
+          "title": "Statements by AAP on LG 'reckless, defamatory': HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491759,width-1070,height-580,imgsize-40918,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/statements-by-aap-against-lg-reckless-defamatory-says-hc/articleshow/94491753.cms",
           "author": null,
           "description": "Observing that statements and tweets were made in a \"reckless manner\" without verification, the Delhi high court on Tuesday restrained Aam Aadmi Party (AAP) and several of its leaders from making \"defamatory\" statements against lieutenant governor Vinai Kumar Saxena.",
@@ -13974,6 +14264,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491778,width-1070,height-580,imgsize-1095002,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/patna/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "author": null,
+          "description": "Sohagpur, a small village tucked away in Katra block of Bihar's Muzaffarpur's district, was in a celebratory mood on Tuesday. The cheering and dancing was to celebrate the achievement of Rakesh Kumar, 25, who has become the first in the village to land a government job since Independence, reports Manoj Chaurasia.",
+          "link": "https://timesofindia.indiatimes.com/city/patna/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
+          "publishedOn": "2022-09-27T22:57:51.000Z",
+          "wordCount": 5496,
+          "title": "First govt job in 75 years, Bihar village erupts in joy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491741,width-1070,height-580,imgsize-49138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/first-government-job-in-75-years-bihar-village-erupts-in-joy/articleshow/94491731.cms",
           "author": null,
           "description": "Sohagpur, a small village tucked away in Katra block of Bihar's Muzaffarpur's district, was in a celebratory mood on Tuesday. The cheering and dancing was to celebrate the achievement of Rakesh Kumar, 25, who has become the first in the village to land a government job since Independence, reports Manoj Chaurasia.",
@@ -13984,6 +14284,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491741,width-1070,height-580,imgsize-49138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/meerut/up-minister-kapil-dev-aggarwal-bjp-mla-vikram-saini-sent-to-judicial-custody-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "author": null,
+          "description": "Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.",
+          "link": "https://timesofindia.indiatimes.com/city/meerut/up-minister-kapil-dev-aggarwal-bjp-mla-vikram-saini-sent-to-judicial-custody-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
+          "publishedOn": "2022-09-27T22:46:52.000Z",
+          "wordCount": 5643,
+          "title": "Riots case: UP mantri, BJP MLA get bail in 2 hours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491715,width-1070,height-580,imgsize-44272,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/up-mantri-bjp-mla-sent-to-jail-in-riots-case-get-bail-in-2-hours/articleshow/94491706.cms",
           "author": null,
           "description": "Uttar Pradesh junior minister for vocational education and skill development (independent charge) Kapil Dev Aggarwal, BJP MLA from Khatauli constituency Vikram Saini, firebrand Hindutva proponent Sadhvi Prachi, along with several others surrendered before a local court on Tuesday in connection with the 2013 Muzaffarnagar riots case.",
@@ -13992,6 +14302,16 @@
           "wordCount": 5643,
           "title": "Riots case: UP mantri, BJP MLA get bail in 2 hours",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491715,width-1070,height-580,imgsize-44272,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/nagpur/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "author": null,
+          "description": "The CP said this measure has no link with the nationwide crackdown on PFI and its workers. Kumar added that the RSS HQ being a 'Class A' vital installation, it is on \"high priority\". \"Security audit of vital installations are being carried out on a regular basis,\" he said.",
+          "link": "https://timesofindia.indiatimes.com/city/nagpur/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
+          "publishedOn": "2022-09-27T22:02:36.000Z",
+          "wordCount": 5420,
+          "title": "RSS HQ cover beefed up; not linked to PFI raids: Cops",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491685,width-1070,height-580,imgsize-55250,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/rss-headquarters-cover-beefed-up-not-linked-to-pfi-raids-say-cops/articleshow/94491604.cms",
@@ -14014,6 +14334,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491578,width-1070,height-580,imgsize-49202,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms",
+          "author": null,
+          "description": "The jail administration in Uttarakhand's Haldwani has come up with a unique idea to help people ward off \"bad karma\" - for a nominal fee of Rs 500 per night in prison.",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms",
+          "publishedOn": "2022-09-27T21:31:08.000Z",
+          "wordCount": 6084,
+          "title": "For ₹500/night, Uttarakhand offers real 'jail experience'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491457,width-1070,height-580,imgsize-112048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/for-500/night-uttarakhand-offers-real-jail-experience/articleshow/94491330.cms",
           "author": null,
           "description": "The jail administration in Uttarakhand's Haldwani has come up with a unique idea to help people ward off \"bad karma\" - for a nominal fee of Rs 500 per night in prison.",
@@ -14022,6 +14352,16 @@
           "wordCount": 6084,
           "title": "For ₹500/night, Uttarakhand offers real 'jail experience'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491457,width-1070,height-580,imgsize-112048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/stubble-burning-season-begins-in-north-count-likely-to-pick-up-in-october/articleshow/94491264.cms",
+          "author": null,
+          "description": "The season of farm fires in Punjab and Haryana has begun, satellites recording around 200 fire counts in this season so far. Though the count so far is too low to impact air quality in the region so far, experts say the number is expected to rise in October as the monsoon is set to withdraw from northwest India.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/stubble-burning-season-begins-in-north-count-likely-to-pick-up-in-october/articleshow/94491264.cms",
+          "publishedOn": "2022-09-27T21:05:02.000Z",
+          "wordCount": 6669,
+          "title": "Stubble-burning season begins in north",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491302,width-1070,height-580,imgsize-102586,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/stubble-burning-season-begins-in-north-count-likely-to-pick-up-in-october/articleshow/94491264.cms",
@@ -14044,6 +14384,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94491242,width-1070,height-580,imgsize-94174,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-launch-from-his-much-talked-about-rs-1000-crore-remuneration-to-his-mom-not-watching-bigg-boss-15-revelations-made-by-salman-khan/articleshow/94490153.cms",
+          "author": null,
+          "description": "Today at the launch of Bigg Boss 16, Salman Khan spoke to the media about hosting 12 seasons of the show back to back, his mother not following Bigg Boss 15, competition from other reality shows and his much talked about remuneration.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-launch-from-his-much-talked-about-rs-1000-crore-remuneration-to-his-mom-not-watching-bigg-boss-15-revelations-made-by-salman-khan/articleshow/94490153.cms",
+          "publishedOn": "2022-09-27T18:06:34.000Z",
+          "wordCount": 9575,
+          "title": "Bigg Boss 16 launch: Revelations made by Salman Khan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94490219,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94490219.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/army-set-to-induct-kamikaze-drones-deploys-more-winterised-howitzers-on-china-front/articleshow/94490192.cms",
           "author": null,
           "description": "The Army will soon induct 'loitering munitions’ amid the continuing military confrontation with China in eastern Ladakh, while the force also cranks up long-range high-volume firepower with 'winterised' howitzers and advanced rockets backed by drones and weapon-locating radars along the northern borders.",
@@ -14062,6 +14412,16 @@
           "wordCount": 9220,
           "title": "Despite differences over Pakistan, Russia arms, US and India pledge elevated ties",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94489815,width-1070,height-580,imgsize-879808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/england-offers-to-be-neutral-venue-for-india-pakistan-test-series-bcci-not-interested/articleshow/94488237.cms",
+          "author": null,
+          "description": "England and Wales Cricket Board has informally offered to be the hosts if India and Pakistan plan to play a bilateral Test series but BCCI sources said chances of that happening in near future is \"next to nil\".",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/england-offers-to-be-neutral-venue-for-india-pakistan-test-series-bcci-not-interested/articleshow/94488237.cms",
+          "publishedOn": "2022-09-27T15:32:18.000Z",
+          "wordCount": 5871,
+          "title": "England 'offers' to host India-Pakistan Test series, BCCI 'not interested'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94488242,width-1070,height-580,imgsize-9394,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-salman-khan-to-host-friday-and-saturday-ka-vaar-instead-of-the-usual-weekend-ka-vaar/articleshow/94488107.cms",
