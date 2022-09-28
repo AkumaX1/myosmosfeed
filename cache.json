@@ -12,6 +12,76 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n\n  \nThe company’s annual September events are usually a marathon of new product launches. We’ll be covering the announcements live.\n Amazon has used its past September events to announce a flying camera drone, a home robot, and an Alexa-enabled microwave. Needless to say, it’s hard to predict what the company has in store at its annual event, but we can be certain there’ll be a lot of products on tap. Chances are high we’ll see updated devices in the Echo lineup, plenty of new things that work with Alexa, and likely some announcements involving other big Amazon brands too, from Fire TV to Ring and Eero.\nThe event is being held virtually via livestream, but it’s available to watch on an invite-only basis. If you want to keep up on the event as it happens, we’ve got you covered: The Verge staff will be tuned in and reporting from the event live, so you can stick around to be filled in as details are announced.\nAmazon’s livestream starts today at 12PM ET / 9AM PT, and our live blog will kick off shortly before then. We can’t say for sure that we’ll get another gadget as glorious as the Alexa-powered Big Mouth Billy Bass, but you never really know what Amazon has in the works.\nAmazon Fall Product Event Live Blog\n(function(n){function c(t,i){n[e](h,function(n){var r,u;if(n&&(r=n[n.message?\"message\":\"data\"]+\"\",r&&r.substr&&r.substr(0,3)===\"nc:\")&&(u=r.split(\":\"),u[1]===i))switch(u[2]){case\"h\":t.style.height=u[3]+\"px\";return;case\"scrolltotop\":t.scrollIntoView();return}},!1)}for(var t,u,f,i,s,e=n.addEventListener?\"addEventListener\":\"attachEvent\",h=e===\"attachEvent\"?\"onmessage\":\"message\",o=n.document.querySelectorAll(\".live-center-embed\"),r=0;r\n',c(t.firstChild,i)))})(window);",
+          "link": "https://www.theverge.com/2022/9/28/23375266/amazon-product-launch-fall-event-live-blog-announcements",
+          "publishedOn": "2022-09-28T16:15:01.000Z",
+          "wordCount": 7037,
+          "title": "Amazon’s big Echo (and maybe Kindle?) event live blog",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376573/square-launches-support-apples-tap-to-pay-technology-iphone",
+          "author": null,
+          "description": "Image: Square\n    \n\n  \nSquare now lets merchants use Apple’s Tap to Pay feature to process transactions. In a press release, the company announced that sellers with a compatible iPhone can use Square’s Point of Sale (POS) app to accept contactless payments.\nApple first rolled out Tap to Pay on the iPhone XS and newer in February. The feature transforms the iPhone into a contactless payment terminal, letting users tap their iPhone or an NFC-supported credit/debit card against the seller’s device to complete a transaction. It also supports Google and Samsung Pay for users on Android. Stripe was the first payment company to launch support for the feature, with Square rolling out a limited beta program in June. Square says sellers with an iPhone 11 or newer that runs iOS 15.5 or later can access the feature.\nNow that Tap to Pay support is widely available with Square, sellers who want to process transactions won’t necessarily have to use the company’s card reader dongle, which attaches to a mobile device via the headphone jack or Lightning connector. That said, this likely doesn’t mean the dongle’s going away for good, as some sellers and buyers might not have a compatible phone to access the feature in the first place.",
+          "link": "https://www.theverge.com/2022/9/28/23376573/square-launches-support-apples-tap-to-pay-technology-iphone",
+          "publishedOn": "2022-09-28T16:12:39.000Z",
+          "wordCount": 6667,
+          "title": "Square launches support for Apple’s Tap to Pay technology",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EZRFY7E56iLTE8AdRZl4DnCKivI=/0x0:3500x2582/1200x628/filters:focal(1750x1291:1751x1292)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061272/square_iphone_tap_to_pay.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23375663/amazon-kindle-scribe-e-ink-tablet-stylus-event-price",
+          "author": null,
+          "description": "The Kindle Scribe is as much a notebook as a book reader. | Image: Amazon\n    \n\n  \nThe newest Kindle is the first truly new Kindle in years. It’s called the Kindle Scribe, and it’s both a reading device and a writing one. With a 10.2-inch E Ink screen, a stylus that attaches to the side of the device, and a bunch of new software, the $339.99 Scribe is trying to be as much a tablet as an ebook reader. It’s available for preorder today, and Amazon promises it’ll be out before the holidays. It’s also the kind of device people have been waiting for Amazon to make for years.\n\n\nKevin Keith, a vice president of product and marketing at Amazon, says the display is the reason the Scribe took so long. “This is the first 300ppi, front-lit display that has an adjustable warm light,” he says over Amazo…",
+          "link": "https://www.theverge.com/2022/9/28/23375663/amazon-kindle-scribe-e-ink-tablet-stylus-event-price",
+          "publishedOn": "2022-09-28T16:09:16.000Z",
+          "wordCount": 9173,
+          "title": "Amazon’s Kindle Scribe is an E Ink tablet for reading and writing",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/y-iBSMlKd3U7meON9bIfMvIcPvI=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059904/Kindle_Scribe_Sticky_note_in_book.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376623/brain-eye-tracking-injury-athletes-vr-neurosync",
+          "author": null,
+          "description": "NeuroSync\n    \n\n  \nChelsea Lane was the head performance therapist with the Golden State Warriors when she first started checking her athletes with a product from NeuroSync, a neurotechnology company making a tool that tracks eye movements to understand brain health. Lane initially used it as part of the team’s concussion protocols. But when she moved to the Atlanta Hawks in 2018, she started using the information in another way: to try and understand how well her athletes were sleeping. \n“I had some freedom to explore the idea that — whilst not its intended purpose — I might just have tech in my hands that could help me better understand and manage fatigue in my over-worked and under slept population by tracking their eye function,” Lane, now the head of high performance at Basketball New…",
+          "link": "https://www.theverge.com/2022/9/28/23376623/brain-eye-tracking-injury-athletes-vr-neurosync",
+          "publishedOn": "2022-09-28T16:00:00.000Z",
+          "wordCount": 8963,
+          "title": "A neurotech company wants to use eye tracking to prevent injuries",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/YU2J8QzCcXB3LOqedQpL88IaBlg=/0x0:960x540/1200x628/filters:focal(480x270:481x271)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061335/PRO_SYNC_Promo_Image_transp_004.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions",
+          "author": null,
+          "description": "A rendering of the Tesla Bot.  | Image: Tesla\n    \n\n  \nThis Friday, Elon Musk is expected to unveil a prototype of his Optimus robot — better known as the Tesla Bot. When Musk announced last August that Tesla was developing a general-purpose robot capable of handling “unsafe, repetitive or boring” tasks, the reaction from experts was skeptical. A year on and not much has changed, with roboticists telling The Verge that we’re a long way off building a robot that can outright replace human labor.\nThat doesn’t mean, though, that they’re not excited to see what Tesla has come up with. \n“We still have fundamental robotics technology gaps that need to be solved before we will see ‘human level’ anything,” Will Jackson, CEO of robotics company Engineered Arts, tells The Verge. Jackson sees a lack …",
+          "link": "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions",
+          "publishedOn": "2022-09-28T15:57:24.000Z",
+          "wordCount": 9433,
+          "title": "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Ucea_rqCrk3Muzv5zEZnfvM-LNs=/0x0:1200x675/1200x628/filters:focal(600x338:601x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061423/gDXGTTprNtIwME2brvsIbvXCQuTYgiMbSRTzQVHh.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376485/hurricane-ian-nasa-kennedy-space-center-space-x-crew-5-launch-delay",
+          "author": null,
+          "description": "Taking shelter from potential impact brought by Hurricane Ian, NASA’s Artemis I is rolled back to the Vehicle Assembly Building on Tuesday, September 27th, 2022, at the Kennedy Space Center in Florida. | Joe Burbank/Orlando Sentinel/Tribune News Service via Getty Images\n    \n\n  \nHurricane Ian’s fury has postponed NASA’s plan to send a fresh four-person crew to the International Space Station (ISS) on a SpaceX rocket. The agency announced yesterday that its Crew-5 mission has been pushed back by at least a day and will now launch no earlier than October 4th. \n“Mission teams will continue to monitor the impacts of Ian on the Space Coast and NASA’s Kennedy Space Center in Florida and could adjust the launch date again, as necessary,” NASA said in a blog post. “The safety of the crew, ground t…",
+          "link": "https://www.theverge.com/2022/9/28/23376485/hurricane-ian-nasa-kennedy-space-center-space-x-crew-5-launch-delay",
+          "publishedOn": "2022-09-28T15:46:07.000Z",
+          "wordCount": 8043,
+          "title": "SpaceX’s Crew-5 launch is delayed as NASA braces for Hurricane Ian",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vFvQtkA7MQ1k7Anema2n_sOGC6M=/0x0:3000x1629/1200x628/filters:focal(1500x815:1501x816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061509/1243547277.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376671/kindle-tablet-new-fire-tv-leak-amazon-event",
+          "author": null,
+          "description": "A leaked image of the Kindle “Scribe,” which you may be able to use to take notes | Image: SnoopyTech\n    \n\n  \nAmazon’s hardware launch event is less than an hour away, and we’re already seeing images of some upcoming products make their way around the web ahead of time. Leakers posted images of the purported devices on Twitter, which include an alleged Amazon Fire TV, a new Kindle that comes with a stylus, and a potential look at the Echo Auto 2.\nOne leaker, SnoopyTech, claims Amazon will release a new Kindle called the “Scribe” that allows users to take notes directly on the screen using a supported stylus, making the device handy for more than just reading. The images shared by SnoopyTech indicate users can access a note-taking interface that lets them erase text, as well as undo or red…",
+          "link": "https://www.theverge.com/2022/9/28/23376671/kindle-tablet-new-fire-tv-leak-amazon-event",
+          "publishedOn": "2022-09-28T15:42:38.000Z",
+          "wordCount": 7821,
+          "title": "Kindle tablet and new Fire TV leak ahead of Amazon event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/H7rAnjZg510k027OnaqWX0mC2QM=/0x0:2000x2000/1200x628/filters:focal(894x779:895x780)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061476/amazon_scribe_kindle_leak.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay",
           "author": null,
           "description": "More welcome changes to the Windows experience on the horizon. | Image: Microsoft\n    \n\n  \nProgressive web apps on Windows look more like native Windows apps than ever before. Thanks to a new feature that Microsoft just announced, the Window Controls Overlay, developers can now customize the title bar of their PWAs. \nPreviously, web apps did not have access to this feature, which could lead to empty space, clashing colors, and other oddities that made some PWAs look decidedly un-app-like. The new feature should help developers fix these problems. Web apps now have access to the “full surface area” of their app window, excluding only the buttons in the top-right corner — minimize, etc. remain untouchable.\n“Recently, with many new web capabilities in the Chromium browser engine and UX change…",
@@ -1059,6 +1129,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/russia-draft-putin",
+          "author": "Matthew Mpoke Bigg",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/russia-draft-putin",
+          "publishedOn": "2022-09-28T15:49:20.000Z",
+          "wordCount": null,
+          "title": "At least 150,000 Leave Russia After Putin Announced Partial Military Mobilization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/business/mackenzie-scott-dan-jewett.html",
+          "author": "Nicholas Kulish and Rebecca R. Ruiz",
+          "description": "The billionaire’s second husband, a teacher, does not appear on her public profile anymore.",
+          "link": "https://www.nytimes.com/2022/09/28/business/mackenzie-scott-dan-jewett.html",
+          "publishedOn": "2022-09-28T15:35:36.000Z",
+          "wordCount": null,
+          "title": "MacKenzie Scott May No Longer Have a Partner in Philanthropy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/youth-sports.html",
+          "author": "Jessica Grose",
+          "description": "An interview with Linda Flanagan, the author of “Take Back the Game.”",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/youth-sports.html",
+          "publishedOn": "2022-09-28T15:00:04.000Z",
+          "wordCount": null,
+          "title": "How Money Is Ruining Youth Sports",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html",
           "author": "Ruth Maclean",
           "description": "Hakainde Hichilema is hailed as a miracle worker for turning around the fortunes of the southern African country. But with his opposition neutralized and a corruption drive focused on his predecessors, some are uneasy.",
@@ -1066,6 +1166,16 @@
           "publishedOn": "2022-09-28T13:35:37.000Z",
           "wordCount": null,
           "title": "Zambia and Its New President Are Still on Their Honeymoon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html",
+          "author": "Cade Metz",
+          "description": "A reporter and a photographer went for a ride in an experimental autonomous vehicle operated by the General Motors subsidiary Cruise. There were bumps in the road.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html",
+          "publishedOn": "2022-09-28T13:00:09.000Z",
+          "wordCount": null,
+          "title": "Stuck on the Streets of San Francisco in a Driverless Car",
           "imageUrl": null
         },
         {
@@ -1586,6 +1696,16 @@
           "publishedOn": "2022-09-27T14:29:14.000Z",
           "wordCount": null,
           "title": "Who pays for climate havoc?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/realestate/jacques-pepin-chef-cookbook-connecticut.html",
+          "author": "Joanne Kaufman",
+          "description": "The celebrated chef lives in Madison, Conn., on a property with two kitchens, an herb-and-vegetable garden and a dog named Gaston. And yes, he has a new cookbook out.",
+          "link": "https://www.nytimes.com/2022/09/27/realestate/jacques-pepin-chef-cookbook-connecticut.html",
+          "publishedOn": "2022-09-27T13:54:11.000Z",
+          "wordCount": null,
+          "title": "At 86, Jacques Pépin Isn’t Slowing Down",
           "imageUrl": null
         },
         {
@@ -4187,6 +4307,56 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234601579",
+          "author": "Jodi Guglielmi",
+          "description": "\"Fantastic\" appears on a new box set collecting some of the late Clash frontman's final recordings",
+          "link": "https://www.rollingstone.com/music/music-news/eddie-vedder-cameo-joe-strummer-video-fantasy-1234601579/",
+          "publishedOn": "2022-09-28T16:01:44.000Z",
+          "wordCount": 9232,
+          "title": "See Eddie Vedder Make Cameo in Emotional Joe Strummer Video for Lost Song",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/joe-strummer-birthday-song.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601617",
+          "author": "Tomás Mier",
+          "description": "\"No one has ever heard what it sounds like… now you do,\" she said",
+          "link": "https://www.rollingstone.com/music/music-news/lizzo-plays-james-madison-crystal-flute-1234601617/",
+          "publishedOn": "2022-09-28T15:45:21.000Z",
+          "wordCount": 9595,
+          "title": "Lizzo Becomes the ‘First and Only’ Person to Play the 200-Year-Old Crystal Flute of James Madison",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/lizzo-flute.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601486",
+          "author": "Angie Martoccio",
+          "description": "Singer-songwriter applies her magic on Tapestry tracks \"Home Again\" and \"It's Too Late\"",
+          "link": "https://www.rollingstone.com/music/music-news/lucy-dacus-carole-king-too-late-tapestry-cover-1234601486/",
+          "publishedOn": "2022-09-28T15:36:03.000Z",
+          "wordCount": 9170,
+          "title": "Lucy Dacus, Master of Covers, Takes on Two Carole King Gems",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/lucy-and-carol.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601621",
+          "author": "Daniel Kreps",
+          "description": "Police identify Freddie Lee Trone, considered \"armed and dangerous,\" as suspect in rapper's killing; Trone's 17-year-old son, the alleged getaway driver, arrested",
+          "link": "https://www.rollingstone.com/music/music-news/pnb-rock-murder-suspect-1234601621/",
+          "publishedOn": "2022-09-28T15:34:38.000Z",
+          "wordCount": 9418,
+          "title": "LAPD Names Person of Interest in Shooting Death of PnB Rock",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1167521144.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601612",
+          "author": "Joseph Hudak",
+          "description": "The King Parrothead is under doctor's orders to \"recuperate and heal\"",
+          "link": "https://www.rollingstone.com/music/music-news/jimmy-buffett-cancels-tour-hospital-1234601612/",
+          "publishedOn": "2022-09-28T15:31:55.000Z",
+          "wordCount": 9174,
+          "title": "Jimmy Buffett Postpones 2022 Tour Dates After Hospitalization for ‘Health Issues’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1396297656-2-1.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234601194",
           "author": "Jon Freeman",
           "description": "Carlile is joined by Shooter Jennings for the live-music mainstay's 48th season",
@@ -4733,6 +4903,16 @@
       "feedUrl": "https://www.rollingstone.com/tv-movies/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234596842",
+          "author": "David Browne",
+          "description": "'Nothing Compares' examines how the Irish musician paved the way for so many women's rights issues — and was completely run over in the process.",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/nothing-compares-sinead-oconnor-documentary-review-1234596842/",
+          "publishedOn": "2022-09-28T15:15:00.000Z",
+          "wordCount": 10472,
+          "title": "A New Doc Says Sinéad O’Connor Matters More Than You Think. It’s Right",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/NothingCompares_0001_Rc.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601558",
           "author": "Jodi Guglielmi",
@@ -6658,6 +6838,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "aken7k",
+          "author": "Emily Green",
+          "description": "Art lovers were aghast. Mexican authorities suggested the entrepreneur who did it may have broken the law. Experts warned it may all be a hoax.",
+          "link": "https://www.vice.com/en_us/article/aken7k/rida-kahlo-nft-mexico",
+          "publishedOn": "2022-09-28T15:51:23.000Z",
+          "wordCount": 9619,
+          "title": "A Frida Kahlo Drawing Was Destroyed to Make NFTs",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633465b4112f84009b7e62e0/lede/1664378313927-screen-shot-2022-09-28-at-101249.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633465b4112f84009b7e62e0/lede/1664378313927-screen-shot-2022-09-28-at-101249.png"
+        },
+        {
+          "id": "88qv5x",
+          "author": "Ben Makuch",
+          "description": "Republicans voted for a motion to halt additional spending on countering extremism within the DoD. Sen. Thom Tillis said politics is what's hurting the military's image.",
+          "link": "https://www.vice.com/en_us/article/88qv5x/senator-thom-tillis-military-extremism-recruitment",
+          "publishedOn": "2022-09-28T15:36:04.000Z",
+          "wordCount": 6118,
+          "title": "Talk About Extremism Is Hurting Military Recruitment, GOP Senator Says",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633464ce46002a009c9e021e/lede/1664378804828-senator-thom-tillis-military-extremism-recruitment.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633464ce46002a009c9e021e/lede/1664378804828-senator-thom-tillis-military-extremism-recruitment.jpeg"
+        },
+        {
           "id": "wxnpg5",
           "author": "Becky Ferreira",
           "description": "A team has “discovered a new type of cosmic phenomenon” that can illuminate some of the universe's biggest mysteries.",
@@ -7700,6 +7910,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/videos/2022/9/28/23376818/queen-elizabeth-ii-commonwealth-british-monarchy",
+          "author": null,
+          "description": "The Commonwealth, explained.\n After centuries of colonizing much of the world, the British Empire began its fast descent in the 1960s amid a global wave of independence movements. But when Queen Elizabeth II died in 2022, she was not only still queen of 14 countries besides the United Kingdom; she was also still the leader of an organization that, on a map, looks a lot like the British Empire.\nThe British Empire created the first iteration of the Commonwealth to appease white settler colonies looking for more autonomy. It granted them more independence to govern themselves but kept them under the crown. As British leaders realized their power might be at risk throughout their colonies worldwide, the monarchy made a play to keep ties and preserve their global influence by allowing newly independent republics to join the Commonwealth, too. The only catch: They had to accept the queen as the leader of the organization. With her death, this vestige of the British Empire is now under the leadership of King Charles III. So what exactly is the Commonwealth? Why is it still here? And will it survive?\nYou can find this video and more on Vox’s YouTube Channel.",
+          "link": "https://www.vox.com/videos/2022/9/28/23376818/queen-elizabeth-ii-commonwealth-british-monarchy",
+          "publishedOn": "2022-09-28T16:05:00.000Z",
+          "wordCount": 1944,
+          "title": "Why Queen Elizabeth II was queen of 15 countries",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/9Sr_r7CBJNCI0a7Je-mjpUeO_yE=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061595/thumb_clean.jpg"
+        },
+        {
           "id": "https://www.vox.com/culture/23375811/netflix-jeffrey-dahmer-monster-victims-controversy-backlash",
           "author": null,
           "description": "DaShawn Barnes as Rita Isbell, a relative of one of Jeffrey Dahmer’s murder victims, in the new Netflix series Dahmer — Monster: The Jeffrey Dahmer Story. | Netflix\n    \n\n  \nTrue crime has made huge strides in centering the victim. But we keep getting series like the Netflix docudrama.\n True crime has always been complicated, morally speaking. At a minimum, it takes the real stories of victims, their families, and their killers and repackages them as entertainment for the public’s consumption. \nShould we expect a person impacted by a crime to be okay with having their story trotted out for the general public? Does it matter if they aren’t? What about when the story leans heavily into the old ways of true crime storytelling — tabloidy, sensationalistic, glorifying the serial killer at the e…",
@@ -8056,6 +8276,26 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849588507",
+          "author": "Ethan Gach",
+          "description": "Ubisoft faces another massive delay. Earlier this year it was Avatar: Frontiers of Pandora. Now it’s Skull and Bones, the Assassin’s Creed publisher’s only major fall blockbuster. Previously set to come out in November, two sources familiar with the game’s development now tell Kotaku it’s been delayed again. Ubisoft…\nRead more...",
+          "link": "https://kotaku.com/skull-bones-assassin-s-creed-delayed-release-date-1849588507",
+          "publishedOn": "2022-09-28T15:58:00.000Z",
+          "wordCount": 6297,
+          "title": "Ubisoft’s Big 2022 Pirate Blockbuster Delayed Yet Again",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/97e81c5816a37f8b3ad34fe1189179f7.jpg"
+        },
+        {
+          "id": "1849590872",
+          "author": "Ethan Gach",
+          "description": "There have been a fair number of complaints about Destiny 2’s Season of Plunder, but for the most part I’ve been having a blast. So it’s a major bummer that one of the main reasons to play right now appears bugged for the second week in a row. An upgrade that’s key to overcoming Destiny’s terrible crafting system…\nRead more...",
+          "link": "https://kotaku.com/destiny-2-witch-queen-season-18-plunder-red-border-1849590872",
+          "publishedOn": "2022-09-28T15:12:00.000Z",
+          "wordCount": 6907,
+          "title": "One Of The Biggest Reasons To Play Destiny 2 Right Now Is Bugged",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5190b192bf62aaf4e178f658dba4a34e.jpg"
+        },
         {
           "id": "1849588432",
           "author": "Eric Schulkin",
@@ -8843,6 +9083,26 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23372733/skull-bones-delayed-again-ubisoft-singapore-release-date",
+          "author": null,
+          "description": "Image: Ubisoft Singapore/Ubisoft\n    \n\n  \nUbisoft Singapore just cannot get the pirate sim out of drydock\n Skull & Bones, Ubisoft Singapore’s ambitious but beleaguered open-world pirate adventure, is delayed again. The publisher says it will now launch March 9, 2023.\nUbisoft announced the delay on Wednesday; Skull & Bones had been slotted for a Nov. 8 launch on Amazon Luna, Google Stadia, PlayStation 5, Windows PC, and Xbox Series X. \n“While the game development is finished at this stage, the extra time will be used to further polish and balance the experience using players’ feedback from our Technical tests and Insider Program which happened over the past two weeks,” Ubisoft said in a statement. “This is the right decision both for our players and for the long-term success of the game as March 9, 2023 provides for a suitable release window for this very unique new brand.”\nSkull & Bones was announced at E3 2017, but development on it may be traced back to 2013’s pirate-themed Assassin’s Creed 4: Black Flag. Originally given a late 2018 launch window, it has been delayed four times over the past four years.\n\n\nUbisoft Singapore, despite a lengthy project that Kotaku reported in 2021 had cost more than $120 million, appeared to turn a corner this summer when it hosted a one-hour gameplay reveal livestream and confirmed Nov. 8 as Skull & Bones’ launch date.\nSet in the Indian Ocean in the 17th century, on a map stretching from the east coast of Africa to Malaysia, Skull and Bones puts players in the role of a pirate captain seeking to make a name for themselves. Starting with a tiny ship and a spear, they’ll quickly work their way up to commanding larger vessels and crews, managing the ongoing threat of mutiny and finding enough food and plunder to placate everyone.",
+          "link": "https://www.polygon.com/23372733/skull-bones-delayed-again-ubisoft-singapore-release-date",
+          "publishedOn": "2022-09-28T16:09:32.000Z",
+          "wordCount": 2187,
+          "title": "Ubisoft delays Skull & Bones (again) to 2023",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/O33QTy4-hVsTfviSs7e7zs4h0U0=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11534755/skull_and_bones_moon_3840.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23372870/playstation-plus-october-2022-games-essentials-ps4-ps5",
+          "author": null,
+          "description": "Image: Sony Interactive Entertainment\n    \n\n  \nSuperheroes, Hot Wheels, and Superhot\n Injustice 2, Hot Wheels Unleashed, and Superhot will be offered to PlayStation Plus Essential subscribers beginning Oct. 4, Sony announced on Wednesday. \nHot Wheels Unleashed (for PlayStation 4 and PlayStation 5) is the newest game of the three, launching a year ago. Milestone’s racer isn’t necessarily a kart game — it employs strong racing physics as well as arcade-racing mechanisms like turbo boosts. It was a Polygon Recommends selection when it launched in September 2021.\nInjustice 2, for PS4, from Mortal Kombat maker NetherRealm Studios, launched in 2017 and is the sequel to the 2013 DC Universe fighting game Injustice: Gods Among Us. There was also a companion comic book series explaining the somewhat convoluted story that had Superman, Batman, and Wonder Woman all duking it out among one another.\nSuperhot, from the eponymous Superhot Team, began life in early 2016 as a puzzle/action game for Windows PC, quickly moving to Xbox One and Oculus virtual reality adaptations. In it, players control a stylized action hero who has to think his way through a bullet-time fight with numerous adversaries. In Superhot, time only moves when the player does, giving them plenty of opportunity to think about their next move in a John Wick-style badass sequence. The PlayStation 4 version of Superhot launched in 2017.\nPlayStation Plus subscribers can still pick up September’s Essential-level games — Need for Speed: Heat, Granblue Fantasy: Versus, and Toem — through Oct. 3.",
+          "link": "https://www.polygon.com/23372870/playstation-plus-october-2022-games-essentials-ps4-ps5",
+          "publishedOn": "2022-09-28T15:43:51.000Z",
+          "wordCount": 2136,
+          "title": "PlayStation Plus offers Injustice 2, Hot Wheels Unleashed for October",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6xOEJQoDNuIyVtlgOH2TaoGnYeg=/974x0:3709x1432/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23425722/image_2022_04_29_113430686.png"
+        },
         {
           "id": "https://www.polygon.com/23375471/the-diofield-chronicle-tactical-rpg-square-enix-nintendo-switch-ps4-xbox-ps5-steam-pc",
           "author": null,
@@ -10989,6 +11249,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/heres-the-exact-time-spy-x-family-cour-2-begins",
+          "author": "Joseph Luster",
+          "description": "Spend more quality time with the Forger family starting on October 1 at 8:30am PT\n\n\nHopefully you've got your own personal plan in place for the continuation of Operation Strix, because the SPY x FAMILY anime officially returns this Saturday! Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/heres-the-exact-time-spy-x-family-cour-2-begins",
+          "publishedOn": "2022-09-28T15:30:00.000Z",
+          "wordCount": 6169,
+          "title": "Here's the Exact Time SPY x FAMILY Cour 2 Begins!",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/d53c27efc4ec777db484f09f3ab4fcc91664275704_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/my-master-has-no-tail-anime-casts-junya-enoki-as-mamedas-father",
           "author": "Liam Dempsey",
           "description": "Supernatural comedy series premieres on September 30\n\n\nSupernatural comedy anime My Master Has No Tail is working its tail off right up to its premiere in two days' time, today adding Junya Enoki to the cast as protagonist Mameda's tanuki father. Hit the jump for all the details!",
@@ -12086,6 +12356,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/sri-lanka-imposes-social-media-ban-after-child-hunger-posts/article65947522.ece",
+          "author": "AFP",
+          "description": "The government said a long-established ban on speaking to reporters now extends to social media posts.",
+          "link": "https://www.thehindu.com/news/international/sri-lanka-imposes-social-media-ban-after-child-hunger-posts/article65947522.ece",
+          "publishedOn": "2022-09-28T16:05:54.000Z",
+          "wordCount": 6179,
+          "title": "Sri Lanka imposes social media ban after child hunger posts",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/1w6s9e/article53521481.ece/alternates/LANDSCAPE_615/TRIBAL"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/satellite-images-show-eritrea-military-buildup-near-tigray/article65946243.ece",
           "author": "AP",
           "description": "New satellite imagery shows a military buildup inside Eritrea near the border with Ethiopia’s northern Tigray region",
@@ -12982,6 +13262,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-appoints-r-venkataramani-as-the-new-attorney-general/articleshow/94516098.cms",
+          "author": null,
+          "description": "The Central government on Wednesday appointed senior advocate R Venkataramani as the new Attorney General of India for a period of three years. Venkataramani is one of the top lawyers in the country and has dealt in matters as varied as constitutional law, environmental law, taxation, tribal rights, and child and women’s rights.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-appoints-r-venkataramani-as-the-new-attorney-general/articleshow/94516098.cms",
+          "publishedOn": "2022-09-28T16:01:25.000Z",
+          "wordCount": 5703,
+          "title": "Centre appoints R Venkataramani as the new attorney general",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94516110,width-1070,height-580,imgsize-7086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-sharpens-stand-on-ukraine-war-but-business-as-usual-with-russia/articleshow/94512259.cms",
           "author": null,
@@ -16303,6 +16593,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/bhowneesh-mendiratta-earns-indias-first-2024-paris-olympics-quota-place-in-shooting/articleshow/94516199.cms",
+          "author": null,
+          "description": "Bhowneesh Mendiratta earned India's first 2024 Paris Olympics quota place in shooting, after he finished a commendable fourth in the men's trap competition at the ongoing ISSF Shotgun World Championship in Osijek, Croatia.",
+          "link": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/bhowneesh-mendiratta-earns-indias-first-2024-paris-olympics-quota-place-in-shooting/articleshow/94516199.cms",
+          "publishedOn": "2022-09-28T16:07:08.000Z",
+          "wordCount": 6784,
+          "title": "Shooter Bhowneesh earns India's first Paris Olympics quota",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94516192,width-1070,height-580,imgsize-56234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-appoints-r-venkataramani-as-the-new-attorney-general/articleshow/94516098.cms",
+          "author": null,
+          "description": "The Central government on Wednesday appointed senior advocate R Venkataramani as the new Attorney General of India for a period of three years. Venkataramani is one of the top lawyers in the country and has dealt in matters as varied as constitutional law, environmental law, taxation, tribal rights, and child and women’s rights.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-appoints-r-venkataramani-as-the-new-attorney-general/articleshow/94516098.cms",
+          "publishedOn": "2022-09-28T16:01:25.000Z",
+          "wordCount": 5703,
+          "title": "Centre appoints R Venkataramani as the new AGI",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94516110,width-1070,height-580,imgsize-7086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-5th-t20i/liveblog/94513717.cms",
           "author": null,
