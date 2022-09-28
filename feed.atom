@@ -2,10 +2,176 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T04:09:28.447Z</updated>
+    <updated>2022-09-28T06:01:47.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trevor Noah’s Take on Russia’s Sham Referendums in Ukraine]]></title>
+        <id>https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html"/>
+        <updated>2022-09-28T05:57:02.000Z</updated>
+        <summary type="html"><![CDATA[“I mean, it is one thing to conquer a town and blow up their buildings but to make them do paperwork? There is evil and then there’s evil,” Noah said.]]></summary>
+        <author>
+            <name>Trish Bendix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Defence Ministry says newly mobilised reservists begin training in Kaliningrad]]></title>
+        <id>https://www.thehindu.com/news/international/russian-defence-ministry-says-newly-mobilised-reservists-begin-training-in-kaliningrad/article65945044.ece</id>
+        <link href="https://www.thehindu.com/news/international/russian-defence-ministry-says-newly-mobilised-reservists-begin-training-in-kaliningrad/article65945044.ece"/>
+        <updated>2022-09-28T05:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Courses have been also held to increase firing skills and Russian prepare military personnel for "confident actions on the battlefield"]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actor Vijayan Karanthoor suffering from liver disease]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actor-vijayan-karanthoor-suffering-from-liver-disease-posts-a-note-seeking-donor/articleshow/94496966.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actor-vijayan-karanthoor-suffering-from-liver-disease-posts-a-note-seeking-donor/articleshow/94496966.cms"/>
+        <updated>2022-09-28T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Mollywood actor Vijayan Karanthoor who has played significant character roles in several Malayalam movies such as ‘Nazrani’, ‘Parunthu’, and ‘Salt n Pepper’, shared on social media on the last day that he is suffering from liver disease and is urgently in need of a suitable donor as only a transplant could save his life.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eagerness of Ginni Thomas]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html"/>
+        <updated>2022-09-28T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[How has someone with such contempt for democracy, not to mention a shaky grip on reality, run amok for so long at top levels of politics and government?]]></summary>
+        <author>
+            <name>Michelle Cottle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite visa delays, Germany attracts larger number of Indian students]]></title>
+        <id>https://timesofindia.indiatimes.com/india/despite-visa-delays-germany-attracts-larger-number-of-indian-students/articleshow/94496640.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/despite-visa-delays-germany-attracts-larger-number-of-indian-students/articleshow/94496640.cms"/>
+        <updated>2022-09-28T04:58:20.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: From 17570 in 2017; the number of Indian students who went to study in Germany increased to 34134 in 2021, according to the German Academic.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress issues notices to 3 Gehlot loyalists; 25 MLAs meet CM at his residence amid Rajasthan crisis: Key points]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-issues-notices-to-3-gehlot-loyalists-25-mlas-meet-cm-at-his-residence-amid-rajasthan-crisis-key-points/articleshow/94495178.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-issues-notices-to-3-gehlot-loyalists-25-mlas-meet-cm-at-his-residence-amid-rajasthan-crisis-key-points/articleshow/94495178.cms"/>
+        <updated>2022-09-28T04:44:42.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Congress on Tuesday issued show-cause notices to three Gehlot loyalists, who took part in a parallel meeting and ditched an official le.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foo Fighters Open Taylor Hawkins L.A. Tribute Show With Joan Jett]]></title>
+        <id>https://www.rollingstone.com/?p=1234601418</id>
+        <link href="https://www.rollingstone.com/music/music-news/foo-fighters-taylor-hawkins-los-angeles-tribute-show-joan-jett-watch-1234601418/"/>
+        <updated>2022-09-28T04:36:43.000Z</updated>
+        <summary type="html"><![CDATA[“That dude could make you fucking smile and dance and laugh and sing,” Dave Grohl says of late drummer]]></summary>
+        <author>
+            <name>Althea Legaspi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sana Amin Sheikh’s marriage of six years ends]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms"/>
+        <updated>2022-09-28T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Six years after her marriage to television director Aijaz Sheikh, Sana Amin Sheikh has parted ways with her husband. Their divorce came through on September 13.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tata Tiago EV launch: Live updates]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/tata-tiago-ev-2022-launch-in-india-live-updates-tiago-ev-price-features/liveblog/94495866.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/tata-tiago-ev-2022-launch-in-india-live-updates-tiago-ev-price-features/liveblog/94495866.cms"/>
+        <updated>2022-09-28T04:27:00.000Z</updated>
+        <summary type="html"><![CDATA[New Tata Tiago EV 2022 launch in India Live Updates: The Tata Tiago EV is expected to come with electric-themed styling tropes to differentiate it from the standard Tiago. It might get an Electric-specific Teal Blue shade with a tri-arrow design and the ‘humanity’ line grille similar to the Tigor EV. The EV will be launched in just a few hours, keep watching this space for all the live updates.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rent-A-Girlfriend Ruka VA Nao Toyama Releases New Music Video "OVER!!"]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27-1/rent-a-girlfriend-ruka-va-nao-toyama-releases-new-music-video-over</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27-1/rent-a-girlfriend-ruka-va-nao-toyama-releases-new-music-video-over"/>
+        <updated>2022-09-28T04:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Her 3rd full album "Welcome to MY WONDERLAND" hits Japanese stores today
+
+
+The official YouTube channel for voice actress Nao Toyama (Ruka Sarashina in Rent-A-Girlfriend) has started streaming a full music video for "OVER!!," the lead track from her third full-length album "Welcome to MY WONDERLAND." The song was written/composed by herself. Watch her exhilarating performance after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taylor Swift Drops ‘Midnight Rain’ Tracklist Reveal]]></title>
+        <id>https://www.rollingstone.com/?p=1234601414</id>
+        <link href="https://www.rollingstone.com/music/music-news/taylor-swift-midnight-rain-tracklist-reveal-1234601414/"/>
+        <updated>2022-09-28T04:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Singer shares the song title to Track Six from Midnights, her highly anticipated 10th studio album]]></summary>
+        <author>
+            <name>Althea Legaspi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress' Bharat Jodo Yatra to enter Rahul Gandhi's Wayanad constituency]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-to-enter-rahul-gandhis-wayanad-constituency/articleshow/94495571.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-to-enter-rahul-gandhis-wayanad-constituency/articleshow/94495571.cms"/>
+        <updated>2022-09-28T04:12:03.000Z</updated>
+        <summary type="html"><![CDATA[The Congress' Bharat Jodo Yatra began its 18th day of march in Kerala on Wednesday with hundreds of party workers and followers accompanying Rahul Gandhi set to enter his Wayanad Lok Sabha constituency during the day. The Congress' 3,570 km and 150-day long foot march started from Kanyakumari in Tamil Nadu on September 7 and will conclude in Jammu and Kashmir.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free! - Iwatobi Swim Club Splashes Down in Saitama Next August for 10th Anniversary Event]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27/free-iwatobi-swim-club-splashes-down-in-saitama-next-august-for-10th-anniversary-event</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27/free-iwatobi-swim-club-splashes-down-in-saitama-next-august-for-10th-anniversary-event"/>
+        <updated>2022-09-28T04:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Original anime by Kyoto Animation premiered on June 26, 2013
+
+
+Ten years of heart-pounding races and male bonding later, the Free! - Iwatobi Swim Club franchise is heading to Saitama next year to celebrate the anime's 10th anniversary. All the main voice actors will be in attendance, so hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In pics: Navratri celebrations across India]]></title>
+        <id>https://photogallery.indiatimes.com/news/india/from-puja-procession-garba-to-dandiya-these-images-capture-the-navratri-celebrations-across-india/articleshow/94495083.cms</id>
+        <link href="https://photogallery.indiatimes.com/news/india/from-puja-procession-garba-to-dandiya-these-images-capture-the-navratri-celebrations-across-india/articleshow/94495083.cms"/>
+        <updated>2022-09-28T04:11:53.000Z</updated>
+        <summary type="html"><![CDATA[In pics: Navratri celebrations across India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explained: Why the Centre banned Popular Front of India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms"/>
+        <updated>2022-09-28T04:10:55.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The MHA via a notification on Tuesday banned the Popular Front of India (PFI) and its associates for five years for links to terrorist grou.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total electricity blackout in Cuba after hurricane Ian hammers power grid]]></title>
+        <id>https://www.thehindu.com/news/international/total-electricity-blackout-in-cuba-after-hurricane-ian-hammers-power-grid/article65944873.ece</id>
+        <link href="https://www.thehindu.com/news/international/total-electricity-blackout-in-cuba-after-hurricane-ian-hammers-power-grid/article65944873.ece"/>
+        <updated>2022-09-28T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Cuba’s Electric Union said in a statement that work was under way to gradually restore service to the country’s 11 million people during the night after Hurricane Ian slammed the country’s power grid]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stockly raises another $12 million to sell out-of-stock items via other retailers]]></title>
         <id>https://techcrunch.com/?p=2408632</id>
@@ -28,6 +194,19 @@ Stockly raises another $12 million to sell out-of-stock items via other retailer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peter Grill and the Philosopher's Time Season 2 Previews Theme Songs in Double Trailer Release]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/27/peter-grill-and-the-philosophers-time-season-2-previews-theme-songs-in-double-trailer-release</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/27/peter-grill-and-the-philosophers-time-season-2-previews-theme-songs-in-double-trailer-release"/>
+        <updated>2022-09-28T03:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Ecchi fantasy sequel debuts on October 9
+
+
+Ecchi fantasy anime Peter Grill and the Philosopher's Time is already promising double the fun in its upcoming second season, today releasing two versions of a new trailer that each preview a theme song. Hit the jump to watch!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hurricane Ian strikes Cuba, Florida braces for winds, floods]]></title>
         <id>https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/us/hurricane-ian-strikes-cuba-florida-braces-for-winds-floods/articleshow/94494450.cms"/>
@@ -43,6 +222,16 @@ Stockly raises another $12 million to sell out-of-stock items via other retailer
         <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms"/>
         <updated>2022-09-28T03:11:58.000Z</updated>
         <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mahesh Babu's mother Ghattamaneni Indira Devi passes away]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-mother-shri-ghattamaneni-indira-devi-passes-away-last-rites-are-to-be-performed-at-the-mahaprastham-today/articleshow/94494334.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-mother-shri-ghattamaneni-indira-devi-passes-away-last-rites-are-to-be-performed-at-the-mahaprastham-today/articleshow/94494334.cms"/>
+        <updated>2022-09-28T03:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Mahesh Babu’s mother Shri Ghattamaneni Indira Devi, the wife of Veteran Telugu actor, Superstar Krishna, and mother of Superstar Mahesh Babu passed away today around 4 AM at her residence in Hyderabad. She was survived by 3 daughters and 2 sons. She lost her elder son Ramesh Babu at the beginning of this year.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -68,6 +257,26 @@ The official website and Twitter account for the upcoming The Reincarnation of t
         <summary type="html"><![CDATA[A select list of stories to read before you start your day]]></summary>
         <author>
             <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NRI doctor’s wife, daughters killed in US car crash]]></title>
+        <id>https://timesofindia.indiatimes.com/city/vijayawada/prominent-nri-docs-wife-two-daughters-killed-in-us-car-crash/articleshow/94494019.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/vijayawada/prominent-nri-docs-wife-two-daughters-killed-in-us-car-crash/articleshow/94494019.cms"/>
+        <updated>2022-09-28T02:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Three women of Telugu origin died in a road accident in the US on Monday night. Police officials identified the dead as Vanisri Yelamanchili, wife of Dr Kodali Nagendra Srinivas, board director of the prominent Telugu Association of North America (TANA), and his two daughters.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher crunch: Girls lock school gates in Hry CM's village]]></title>
+        <id>https://timesofindia.indiatimes.com/city/gurgaon/teacher-crunch-girls-lock-school-gates-in-khattar-village/articleshow/94493954.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/gurgaon/teacher-crunch-girls-lock-school-gates-in-khattar-village/articleshow/94493954.cms"/>
+        <updated>2022-09-28T02:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Scores of girl students of Nindana government school here on Tuesday locked the main gate of the institute to protest against scarcity of teachers. Nindana is the birthplace of Haryana chief minister Manohar Lal Khattar.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +372,16 @@ The publication confirmed the hack. “Fast Company’s Apple News account was h
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[500 business outlets near Taj Mahal face uncertainty after SC order]]></title>
+        <id>https://timesofindia.indiatimes.com/city/agra/agra-500-business-outlets-near-taj-mahal-face-uncertainty-after-sc-order/articleshow/94492789.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/agra/agra-500-business-outlets-near-taj-mahal-face-uncertainty-after-sc-order/articleshow/94492789.cms"/>
+        <updated>2022-09-28T01:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Uncertainty looms over 500 commercial outlets, including shops, handicraft showrooms, emporiums, hotels and restaurants, operating within a 500m radius of the iconic Taj Mahal following the Supreme Court order on Monday directing the authorities concerned to immediately stop all commercial activities.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Congress made money in guise of improving medical education, says Amit Shah]]></title>
         <id>https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/congress-made-money-in-guise-of-improving-medical-education-saysamit-shah/articleshow/94492593.cms"/>
@@ -170,6 +389,16 @@ The publication confirmed the hack. “Fast Company’s Apple News account was h
         <summary type="html"><![CDATA[India News: The government is in the process of setting up a digital university to promote education and skill development, said Union education, skill developmen]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankita murder: How this couple escaped infamous Rishikesh resort]]></title>
+        <id>https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms"/>
+        <updated>2022-09-28T01:12:55.000Z</updated>
+        <summary type="html"><![CDATA[A 27-year-old woman and her 29-year-old husband made a "daring escape" two months ago after witnessing "sinister activities" at the infamous Uttarakhand resort where receptionist Ankita Bhandari, 19, was being allegedly pressured into prostitution and later killed.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -17317,15 +17546,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The growth in adoption of online schooling in the aftermath of COVID-19 pandemic amongst Indian parents has led to a new hot debate within the education industry. While both, traditional vs online classrooms come with their fair share of advantages and disadvantages, which schooling model should you choose for your kid in 2022?]]></summary>
         <author>
             <name>Times of India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update to Half-Life 2 and Episodes]]></title>
-        <id>https://store.steampowered.com/news/142474/</id>
-        <link href="https://store.steampowered.com/news/142474/"/>
-        <updated>2022-08-29T17:31:00.000Z</updated>
-        <author>
-            <name>Valve</name>
         </author>
     </entry>
 </feed>

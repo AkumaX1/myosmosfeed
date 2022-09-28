@@ -909,6 +909,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html",
+          "author": "Michelle Cottle",
+          "description": "How has someone with such contempt for democracy, not to mention a shaky grip on reality, run amok for so long at top levels of politics and government?",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/ginni-thomas-election.html",
+          "publishedOn": "2022-09-28T05:00:03.000Z",
+          "wordCount": null,
+          "title": "The Eagerness of Ginni Thomas",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/sports/baseball/yankees-clinch-al-east.html",
           "author": "David Waldstein",
           "description": "A win over Toronto gave the Yankees the American League East title, but Aaron Judge remained stuck at 60 home runs.",
@@ -3290,6 +3300,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html",
+          "author": "Trish Bendix",
+          "description": "“I mean, it is one thing to conquer a town and blow up their buildings but to make them do paperwork? There is evil and then there’s evil,” Noah said.",
+          "link": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html",
+          "publishedOn": "2022-09-28T05:57:02.000Z",
+          "wordCount": null,
+          "title": "Trevor Noah’s Take on Russia’s Sham Referendums in Ukraine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/arts/music/ray-edenton-dead.html",
           "author": "Bill Friskics-Warren",
           "description": "In a career that spanned four decades, he played on thousands of sessions and accompanied many of the biggest names in country music.",
@@ -3616,6 +3636,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601418",
+          "author": "Althea Legaspi",
+          "description": "“That dude could make you fucking smile and dance and laugh and sing,” Dave Grohl says of late drummer",
+          "link": "https://www.rollingstone.com/music/music-news/foo-fighters-taylor-hawkins-los-angeles-tribute-show-joan-jett-watch-1234601418/",
+          "publishedOn": "2022-09-28T04:36:43.000Z",
+          "wordCount": 9315,
+          "title": "Foo Fighters Open Taylor Hawkins L.A. Tribute Show With Joan Jett",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/TaylorHawkins-1.jpeg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601414",
+          "author": "Althea Legaspi",
+          "description": "Singer shares the song title to Track Six from Midnights, her highly anticipated 10th studio album",
+          "link": "https://www.rollingstone.com/music/music-news/taylor-swift-midnight-rain-tracklist-reveal-1234601414/",
+          "publishedOn": "2022-09-28T04:16:05.000Z",
+          "wordCount": 9143,
+          "title": "Taylor Swift Drops ‘Midnight Rain’ Tracklist Reveal",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/TaylorSwift-1-1.jpeg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234600847",
           "author": "Larisha Paul",
@@ -8663,16 +8703,6 @@
           "wordCount": 1561,
           "title": "Steam Client Update Released",
           "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
-        },
-        {
-          "id": "https://store.steampowered.com/news/142474/",
-          "author": "Valve",
-          "description": "",
-          "link": "https://store.steampowered.com/news/142474/",
-          "publishedOn": "2022-08-29T17:31:00.000Z",
-          "wordCount": 1099,
-          "title": "Update to Half-Life 2 and Episodes",
-          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
         }
       ]
     },
@@ -9568,6 +9598,36 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27-1/rent-a-girlfriend-ruka-va-nao-toyama-releases-new-music-video-over",
+          "author": "Mikikazu Komatsu",
+          "description": "Her 3rd full album \"Welcome to MY WONDERLAND\" hits Japanese stores today\n\n\nThe official YouTube channel for voice actress Nao Toyama (Ruka Sarashina in Rent-A-Girlfriend) has started streaming a full music video for \"OVER!!,\" the lead track from her third full-length album \"Welcome to MY WONDERLAND.\" The song was written/composed by herself. Watch her exhilarating performance after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27-1/rent-a-girlfriend-ruka-va-nao-toyama-releases-new-music-video-over",
+          "publishedOn": "2022-09-28T04:20:07.000Z",
+          "wordCount": 5867,
+          "title": "Rent-A-Girlfriend Ruka VA Nao Toyama Releases New Music Video \"OVER!!\"",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/d2111291c9541fee100646c9601694d51664338548_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27/free-iwatobi-swim-club-splashes-down-in-saitama-next-august-for-10th-anniversary-event",
+          "author": "Liam Dempsey",
+          "description": "Original anime by Kyoto Animation premiered on June 26, 2013\n\n\nTen years of heart-pounding races and male bonding later, the Free! - Iwatobi Swim Club franchise is heading to Saitama next year to celebrate the anime's 10th anniversary. All the main voice actors will be in attendance, so hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27/free-iwatobi-swim-club-splashes-down-in-saitama-next-august-for-10th-anniversary-event",
+          "publishedOn": "2022-09-28T04:12:00.000Z",
+          "wordCount": 6048,
+          "title": "Free! - Iwatobi Swim Club Splashes Down in Saitama Next August for 10th Anniversary Event",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/5c6a335353db300e591806e2f4a6a0ef1664338130_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/27/peter-grill-and-the-philosophers-time-season-2-previews-theme-songs-in-double-trailer-release",
+          "author": "Liam Dempsey",
+          "description": "Ecchi fantasy sequel debuts on October 9\n\n\nEcchi fantasy anime Peter Grill and the Philosopher's Time is already promising double the fun in its upcoming second season, today releasing two versions of a new trailer that each preview a theme song. Hit the jump to watch!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/27/peter-grill-and-the-philosophers-time-season-2-previews-theme-songs-in-double-trailer-release",
+          "publishedOn": "2022-09-28T03:27:09.000Z",
+          "wordCount": 6036,
+          "title": "Peter Grill and the Philosopher's Time Season 2 Previews Theme Songs in Double Trailer Release",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/34aba6977870d589fe820e6626d24ff51664335525_main.png"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-releases-key-visual-for-january-2023-premiere",
           "author": "Mikikazu Komatsu",
@@ -10566,6 +10626,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/russian-defence-ministry-says-newly-mobilised-reservists-begin-training-in-kaliningrad/article65945044.ece",
+          "author": "Reuters",
+          "description": "Courses have been also held to increase firing skills and Russian prepare military personnel for \"confident actions on the battlefield\"",
+          "link": "https://www.thehindu.com/news/international/russian-defence-ministry-says-newly-mobilised-reservists-begin-training-in-kaliningrad/article65945044.ece",
+          "publishedOn": "2022-09-28T05:35:40.000Z",
+          "wordCount": 6103,
+          "title": "Russian Defence Ministry says newly mobilised reservists begin training in Kaliningrad",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/emae2s/article65945052.ece/alternates/LANDSCAPE_615/russia%20ukraine%20war%20reservist%20reuters.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/total-electricity-blackout-in-cuba-after-hurricane-ian-hammers-power-grid/article65944873.ece",
+          "author": "AP",
+          "description": "Cuba’s Electric Union said in a statement that work was under way to gradually restore service to the country’s 11 million people during the night after Hurricane Ian slammed the country’s power grid",
+          "link": "https://www.thehindu.com/news/international/total-electricity-blackout-in-cuba-after-hurricane-ian-hammers-power-grid/article65944873.ece",
+          "publishedOn": "2022-09-28T04:10:00.000Z",
+          "wordCount": 6501,
+          "title": "Total electricity blackout in Cuba after hurricane Ian hammers power grid",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/y39p7t/article65944887.ece/alternates/LANDSCAPE_615/Cuba_Tropical_Weather_35910.jpg-73098.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-28-2022/article65943449.ece",
           "author": "The Hindu Bureau",
           "description": "A select list of stories to read before you start your day",
@@ -11342,6 +11422,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/despite-visa-delays-germany-attracts-larger-number-of-indian-students/articleshow/94496640.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: From 17570 in 2017; the number of Indian students who went to study in Germany increased to 34134 in 2021, according to the German Academic.",
+          "link": "https://timesofindia.indiatimes.com/india/despite-visa-delays-germany-attracts-larger-number-of-indian-students/articleshow/94496640.cms",
+          "publishedOn": "2022-09-28T04:58:20.000Z",
+          "wordCount": 7270,
+          "title": "Despite visa delays, Germany attracts larger number of Indian students",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94496729,width-1070,height-580,imgsize-25690,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-issues-notices-to-3-gehlot-loyalists-25-mlas-meet-cm-at-his-residence-amid-rajasthan-crisis-key-points/articleshow/94495178.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Congress on Tuesday issued show-cause notices to three Gehlot loyalists, who took part in a parallel meeting and ditched an official le.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-issues-notices-to-3-gehlot-loyalists-25-mlas-meet-cm-at-his-residence-amid-rajasthan-crisis-key-points/articleshow/94495178.cms",
+          "publishedOn": "2022-09-28T04:44:42.000Z",
+          "wordCount": 7651,
+          "title": "Congress issues notices to 3 Gehlot loyalists; 25 MLAs meet CM at his residence amid Rajasthan crisis: Key points",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94496027,width-1070,height-580,imgsize-36828,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-to-enter-rahul-gandhis-wayanad-constituency/articleshow/94495571.cms",
+          "author": null,
+          "description": "The Congress' Bharat Jodo Yatra began its 18th day of march in Kerala on Wednesday with hundreds of party workers and followers accompanying Rahul Gandhi set to enter his Wayanad Lok Sabha constituency during the day. The Congress' 3,570 km and 150-day long foot march started from Kanyakumari in Tamil Nadu on September 7 and will conclude in Jammu and Kashmir.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-to-enter-rahul-gandhis-wayanad-constituency/articleshow/94495571.cms",
+          "publishedOn": "2022-09-28T04:12:03.000Z",
+          "wordCount": 5618,
+          "title": "Congress' Bharat Jodo Yatra to enter Rahul Gandhi's Wayanad constituency",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94495590,width-1070,height-580,imgsize-93962,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The MHA via a notification on Tuesday banned the Popular Front of India (PFI) and its associates for five years for links to terrorist grou.",
+          "link": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "publishedOn": "2022-09-28T04:10:55.000Z",
+          "wordCount": 6650,
+          "title": "Explained: Why the Centre banned Popular Front of India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94495584,width-1070,height-580,imgsize-1705450,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/aiba-welcomes-ban-on-pfi-calls-it-surgical-strike/articleshow/94493108.cms",
           "author": null,
@@ -14144,6 +14264,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actor-vijayan-karanthoor-suffering-from-liver-disease-posts-a-note-seeking-donor/articleshow/94496966.cms",
+          "author": null,
+          "description": "Mollywood actor Vijayan Karanthoor who has played significant character roles in several Malayalam movies such as ‘Nazrani’, ‘Parunthu’, and ‘Salt n Pepper’, shared on social media on the last day that he is suffering from liver disease and is urgently in need of a suitable donor as only a transplant could save his life.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actor-vijayan-karanthoor-suffering-from-liver-disease-posts-a-note-seeking-donor/articleshow/94496966.cms",
+          "publishedOn": "2022-09-28T05:10:00.000Z",
+          "wordCount": 9075,
+          "title": "Actor Vijayan Karanthoor suffering from liver disease",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94496987,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-53848/94496987.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms",
+          "author": null,
+          "description": "Six years after her marriage to television director Aijaz Sheikh, Sana Amin Sheikh has parted ways with her husband. Their divorce came through on September 13.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms",
+          "publishedOn": "2022-09-28T04:30:00.000Z",
+          "wordCount": 9441,
+          "title": "Sana Amin Sheikh’s marriage of six years ends",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94490158,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-39552/94490158.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/tata-tiago-ev-2022-launch-in-india-live-updates-tiago-ev-price-features/liveblog/94495866.cms",
+          "author": null,
+          "description": "New Tata Tiago EV 2022 launch in India Live Updates: The Tata Tiago EV is expected to come with electric-themed styling tropes to differentiate it from the standard Tiago. It might get an Electric-specific Teal Blue shade with a tri-arrow design and the ‘humanity’ line grille similar to the Tigor EV. The EV will be launched in just a few hours, keep watching this space for all the live updates.",
+          "link": "https://timesofindia.indiatimes.com/auto/tata-tiago-ev-2022-launch-in-india-live-updates-tiago-ev-price-features/liveblog/94495866.cms",
+          "publishedOn": "2022-09-28T04:27:00.000Z",
+          "wordCount": 7562,
+          "title": "Tata Tiago EV launch: Live updates",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94495866,width-1070,height-580,imgsize-601783,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/news/india/from-puja-procession-garba-to-dandiya-these-images-capture-the-navratri-celebrations-across-india/articleshow/94495083.cms",
+          "author": null,
+          "description": "In pics: Navratri celebrations across India",
+          "link": "https://photogallery.indiatimes.com/news/india/from-puja-procession-garba-to-dandiya-these-images-capture-the-navratri-celebrations-across-india/articleshow/94495083.cms",
+          "publishedOn": "2022-09-28T04:11:53.000Z",
+          "wordCount": 7337,
+          "title": "In pics: Navratri celebrations across India",
+          "imageUrl": "https://static.toiimg.com/photo/94495416.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms",
           "author": null,
           "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
@@ -14152,6 +14312,36 @@
           "wordCount": 4729,
           "title": "Times Top10: You can now be a PhD only if…",
           "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-mother-shri-ghattamaneni-indira-devi-passes-away-last-rites-are-to-be-performed-at-the-mahaprastham-today/articleshow/94494334.cms",
+          "author": null,
+          "description": "Mahesh Babu’s mother Shri Ghattamaneni Indira Devi, the wife of Veteran Telugu actor, Superstar Krishna, and mother of Superstar Mahesh Babu passed away today around 4 AM at her residence in Hyderabad. She was survived by 3 daughters and 2 sons. She lost her elder son Ramesh Babu at the beginning of this year.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-mother-shri-ghattamaneni-indira-devi-passes-away-last-rites-are-to-be-performed-at-the-mahaprastham-today/articleshow/94494334.cms",
+          "publishedOn": "2022-09-28T03:08:15.000Z",
+          "wordCount": 9298,
+          "title": "Mahesh Babu's mother Ghattamaneni Indira Devi passes away",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94494329,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-35788/94494329.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/vijayawada/prominent-nri-docs-wife-two-daughters-killed-in-us-car-crash/articleshow/94494019.cms",
+          "author": null,
+          "description": "Three women of Telugu origin died in a road accident in the US on Monday night. Police officials identified the dead as Vanisri Yelamanchili, wife of Dr Kodali Nagendra Srinivas, board director of the prominent Telugu Association of North America (TANA), and his two daughters.",
+          "link": "https://timesofindia.indiatimes.com/city/vijayawada/prominent-nri-docs-wife-two-daughters-killed-in-us-car-crash/articleshow/94494019.cms",
+          "publishedOn": "2022-09-28T02:54:34.000Z",
+          "wordCount": 5464,
+          "title": "NRI doctor’s wife, daughters killed in US car crash",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94494018,width-1070,height-580,imgsize-811680,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/gurgaon/teacher-crunch-girls-lock-school-gates-in-khattar-village/articleshow/94493954.cms",
+          "author": null,
+          "description": "Scores of girl students of Nindana government school here on Tuesday locked the main gate of the institute to protest against scarcity of teachers. Nindana is the birthplace of Haryana chief minister Manohar Lal Khattar.",
+          "link": "https://timesofindia.indiatimes.com/city/gurgaon/teacher-crunch-girls-lock-school-gates-in-khattar-village/articleshow/94493954.cms",
+          "publishedOn": "2022-09-28T02:52:22.000Z",
+          "wordCount": 5656,
+          "title": "Teacher crunch: Girls lock school gates in Hry CM's village",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94494171,width-1070,height-580,imgsize-57392,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-team-indias-preparations-for-t20-world-cup-hit-the-final-stretch/articleshow/94493524.cms",
@@ -14172,6 +14362,26 @@
           "wordCount": 5699,
           "title": "'Unlawful association': Centre bans PFI, its affiliates for 5 years over terror links",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94492869,width-1070,height-580,imgsize-81976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/agra/agra-500-business-outlets-near-taj-mahal-face-uncertainty-after-sc-order/articleshow/94492789.cms",
+          "author": null,
+          "description": "Uncertainty looms over 500 commercial outlets, including shops, handicraft showrooms, emporiums, hotels and restaurants, operating within a 500m radius of the iconic Taj Mahal following the Supreme Court order on Monday directing the authorities concerned to immediately stop all commercial activities.",
+          "link": "https://timesofindia.indiatimes.com/city/agra/agra-500-business-outlets-near-taj-mahal-face-uncertainty-after-sc-order/articleshow/94492789.cms",
+          "publishedOn": "2022-09-28T01:48:02.000Z",
+          "wordCount": 6328,
+          "title": "500 business outlets near Taj Mahal face uncertainty after SC order",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492818,width-1070,height-580,imgsize-63738,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms",
+          "author": null,
+          "description": "A 27-year-old woman and her 29-year-old husband made a \"daring escape\" two months ago after witnessing \"sinister activities\" at the infamous Uttarakhand resort where receptionist Ankita Bhandari, 19, was being allegedly pressured into prostitution and later killed.",
+          "link": "https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms",
+          "publishedOn": "2022-09-28T01:12:55.000Z",
+          "wordCount": 6929,
+          "title": "Ankita murder: How this couple escaped infamous Rishikesh resort",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492527,width-1070,height-580,imgsize-49490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/time-bound-processes-for-adoption-get-rolling/articleshow/94492087.cms",
