@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23375410/ea-wild-hearts-trailer-release-date",
+          "author": null,
+          "description": "Earlier this month, EA announced that it was partnering with Dynasty Warriors studio Omega Force on a Monster Hunter-style action game. Today, the companies finally showed off the first trailer for the title, which has been dubbed Wild Hearts (not to be confused with the excellent indie game Sayonara Wild Hearts). It’s described as “an epic adventure set in a fantasy world inspired by feudal Japan,” and the first footage shows gameplay that looks faster than Monster Hunter, with inventive traps, sweeping locales, and some truly vicious beasts. The game will be playable solo or via “seamless co-op.”\nHere’s the basic premise, per EA:\nWild Hearts takes place in Azuma, a fantasy landscape inspired by feudal Japan, that is now rampaged by the once peaceful Kemono — altering their environment at the cost of citizens’ lives. The Kemono range from plant-infused squirrels to the massive Kingtusk wild boar. After a dreadful fight with the winter wolf Deathstalker, players become bearers of a life-sustaining technology and are compelled to restore balance across the region. \n\nThe fact that EA is entering the hunting genre is no surprise, given the success of Monster Hunter World. First released in 2018, the more open-ended take on the long-running series went on to become the best-selling release in Capcom’s history, selling more than 18 million copies across multiplatforms. (And it’s on top by a large margin: Capcom’s second best-selling game is Resident Evil 7, with 11 million units.) To date, though, there has been little in the way of competition to MonHun’s unique style of action.\nWhile Omega Force is best known for the Dynasty Warriors franchise, the studio has steadily expanded into creating spinoffs for some of the biggest franchises in gaming, including The Legend of Zelda and Fire Emblem.\nWild Hearts is launching on February 17th, 2023, on the PS5, Xbox Series X / S, and PC.",
+          "link": "https://www.theverge.com/2022/9/28/23375410/ea-wild-hearts-trailer-release-date",
+          "publishedOn": "2022-09-28T14:21:13.000Z",
+          "wordCount": 7598,
+          "title": "EA shows off its Monster Hunter-style game called Wild Hearts",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/rI6_XKt8HpeY55H27smC7pBB7eY=/0x0:2213x1227/1200x628/filters:focal(1107x614:1108x615)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061326/Screen_Shot_2022_09_28_at_10.03.01_AM.png"
+        },
+        {
+          "id": "https://www.theverge.com/23365910/apple-airpods-pro-second-generation-review",
+          "author": null,
+          "description": "Redesigned inside but not out, the new AirPods Pro are destined to be another hit — even if the magic is waning\n There are two main reactions to Apple’s second-generation AirPods Pro, which will be available September 23rd for the same $249 as the original pair released in 2019. \nThe first is “that’s it?” Apple has left the overall design and in-ear fit practically unchanged. The new AirPods Pro look identical to their predecessors. Despite arriving nearly three years after the first model, there’s been no major revamp. No shortened or eliminated stems. No new color choices. From a side view of your head, these are the same AirPods Pro as ever. It’s easy to be underwhelmed.\nRather than reinvent its wireless earbuds, Apple focused on improving everything about the formula that’s already pro…",
+          "link": "https://www.theverge.com/23365910/apple-airpods-pro-second-generation-review",
+          "publishedOn": "2022-09-28T14:03:47.000Z",
+          "wordCount": 14315,
+          "title": "Apple AirPods Pro (second-gen) review: same look, better everything else",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4BSL9awm6HBSkW4yStsrDZFzIE8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24043027/DSCF9466.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23372721/google-pixel-7-event-rumors-watch-tablet-foldable",
+          "author": null,
+          "description": "Image: Google\n    \n\n  \nWe’re getting even closer to the launch of the Pixel 7 phone and Pixel Watch, with Google’s fall launch event set to take place on Thursday, October 6th, at 10AM ET. \nWhile we have an idea of what to expect, Google may still have a few surprises in store. Here’s everything we’re looking forward to at the upcoming Google Pixel event.\nThe Google Pixel 7 and 7 Pro to arrive with incremental upgrades\nThere wouldn’t be a Pixel launch event without a new generation of Pixel smartphones. We’re going to see what Google has in store for the Google Pixel 7 and 7 Pro, which Google offered a brief glimpse of during I/O back in May.\nAt the event, Google showed off renders of the devices, which each come with an aluminum camera bar and the upgraded Tensor G2 chip (we’ll get to tha…",
+          "link": "https://www.theverge.com/23372721/google-pixel-7-event-rumors-watch-tablet-foldable",
+          "publishedOn": "2022-09-28T13:57:11.000Z",
+          "wordCount": 9925,
+          "title": "What to expect from the Google Pixel launch event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vz5LwmKutI-Eavyl6lecsGPElh0=/0x0:920x613/1200x628/filters:focal(460x307:461x308)/cdn.vox-cdn.com/uploads/chorus_asset/file/23597080/Pixel_7_and_Pixel_7_Pro_Family.0.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field",
           "author": null,
           "description": "Illustration by Kristen Radtke / The Verge\n    \n\n  \nBelieve it or not, Dylan Field tells me over Zoom this week, when he started Figma he was only thinking about one thing: making cool design tools. In was 2012, and Field and co-founder Evan Wallace had the idea of building design software for the web browser — making the design process live, interactive, and collaborative — in ways it hadn’t really been in software before.\nThe idea was much easier to imagine than it was to build. Figma was building in stealth mode for three years before its first public preview, but the hard technical work paid off. Figma was a hit with designers almost immediately, as the real-time collaboration it enabled made design processes — particularly software design processes — much more efficient than they had …",
@@ -1016,6 +1046,16 @@
           "publishedOn": "2022-09-28T13:35:37.000Z",
           "wordCount": null,
           "title": "Zambia and Its New President Are Still on Their Honeymoon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/storm-surge-cause-peak.html",
+          "author": "Livia Albeck-Ripka",
+          "description": "A storm surge usually builds over many hours as the eye of hurricane approaches the coast.",
+          "link": "https://www.nytimes.com/2022/09/28/us/storm-surge-cause-peak.html",
+          "publishedOn": "2022-09-28T11:57:02.000Z",
+          "wordCount": null,
+          "title": "When Is a Storm Surge at Its Peak?",
           "imageUrl": null
         },
         {
@@ -4117,6 +4157,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234601556",
+          "author": "Daniel Kreps",
+          "description": "Hawkins spent 18 months in Canadian singer's touring band before joining Dave Grohl and company",
+          "link": "https://www.rollingstone.com/music/music-news/alanis-morissette-foo-fighters-tribute-taylor-hawkins-1234601556/",
+          "publishedOn": "2022-09-28T14:23:43.000Z",
+          "wordCount": 9198,
+          "title": "See Alanis Morissette Sing ‘You Oughta Know’ With Foo Fighters at Tribute for Her Former Drummer Taylor Hawkins",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1412306650.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600146",
+          "author": "Andy Greene",
+          "description": "The Red Rocker says he was approached about a Las Vegas residency in honor of the late guitar hero: \"I would love to play with Alex and Mike, with a great guitar player that doesn't try to just mimic Eddie\"",
+          "link": "https://www.rollingstone.com/music/music-news/sammy-hagar-van-halen-reunion-eddie-van-halen-1234600146/",
+          "publishedOn": "2022-09-28T13:51:30.000Z",
+          "wordCount": 16044,
+          "title": "Sammy Hagar on Van Halen’s Last Days, Trying to Make Peace With Alex, and a (Possible) Vegas Tribute to Eddie",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/van-halen-sammy-hagar-2004-drama.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1341970",
           "author": "Kyle Rice",
           "description": "After his success working under the YEEZY umbrella and designing for lux labels, Stevie Wonder's son is ready to launch his own brand, House of K.O.M.",
@@ -4950,6 +5010,66 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2409847",
+          "author": "Rebecca Bellan",
+          "description": "Tesla CEO Elon Musk is sick and tired of having to pause before tweeting to consider the potential implications on his company’s stock price. The celebrity executive is urging a federal appeals court to throw out a provision in his 2018 consent decree with the U.S. Securities and Exchange Commission (SEC) that requires him to […]\nElon Musk wants “government-imposed muzzle” on his tweets thrown out by Rebecca Bellan originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/elon-musk-wants-government-imposed-muzzle-on-his-tweets-thrown-out/",
+          "publishedOn": "2022-09-28T14:07:31.000Z",
+          "wordCount": 6741,
+          "title": "Elon Musk wants “government-imposed muzzle” on his tweets thrown out",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/04/elon-musk-sec-getty.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2406738",
+          "author": "Kyle Wiggers",
+          "description": "The rise of so-called “smart factory” technologies is leading to a race to modernize manufacturing plant and warehouse floors. Old equipment is being replaced by newer, more advanced machinery as manufacturers look to keep pace with the competition — and wrestle with high turnover rates. According to a survey by Plex Systems, 50% of manufacturers […]\nInvisible AI raises $15M to stick worker-monitoring cameras in factories by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/invisible-ai-raises-15m-to-stick-worker-monitoring-cameras-in-factories/",
+          "publishedOn": "2022-09-28T14:05:39.000Z",
+          "wordCount": 7306,
+          "title": "Invisible AI raises $15M to stick worker-monitoring cameras in factories",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/07/factory-e1436271459319.jpg?resize=1200,939"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408891",
+          "author": "Natasha Mascarenhas",
+          "description": "This week on the Equity podcast, Natasha Mascarenhas asked: How does the 'build in public' mindset impact the way that startups are built?\nBuilding startups in public has an end date by Natasha Mascarenhas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/building-startups-in-public-has-an-end-date/",
+          "publishedOn": "2022-09-28T14:02:20.000Z",
+          "wordCount": 5603,
+          "title": "Building startups in public has an end date",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408621",
+          "author": "Ram Iyer",
+          "description": "Asset-light marketplaces have proved their worth, but the model has limitations, and has led to the development of asset-heavy platforms.\nThe unbearable lightness of being asset-light by Ram Iyer originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/asset-light-model-versus-asset-heavy-model-marketplace/",
+          "publishedOn": "2022-09-28T14:00:48.000Z",
+          "wordCount": 5912,
+          "title": "The unbearable lightness of being asset-light",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-722232773.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409869",
+          "author": "Ron Miller",
+          "description": "Just about every company is going to face a catastrophic incident at some point where a key part of the system goes down, and you need to know not only how to respond in the moment, but how you figure out what happened when it’s over. Jeli.io is an incident response startup from former Netflix […]\nJeli.io keeps rolling with free Slack incident response bot and new investment by Ron Miller originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/jeli-io-keeps-rolling-with-free-slack-incident-response-bot-and-new-investment/",
+          "publishedOn": "2022-09-28T14:00:35.000Z",
+          "wordCount": 6381,
+          "title": "Jeli.io keeps rolling with free Slack incident response bot and new investment",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-502757942.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407701",
+          "author": "Kyle Wiggers",
+          "description": "Large AI systems like OpenAI’s GPT-3 might grab headlines, but the practical limitations of power consumption and cost — not capabilities — often determine where AI is deployed. For the most part, highly capable systems are relegated to the cloud because they’re too complex to run on edge devices with weaker hardware and limited connectivity. […]\nFemtosense raises capital to power the AI inside of consumer electronics by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/femtosense-raises-capital-to-power-the-ai-inside-of-consumer-electronics/",
+          "publishedOn": "2022-09-28T14:00:33.000Z",
+          "wordCount": 6720,
+          "title": "Femtosense raises capital to power the AI inside of consumer electronics",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1191367089.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2407595",
           "author": "Kyle Wiggers",
@@ -6448,6 +6568,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "n7z47x",
+          "author": "Paul Blest",
+          "description": "“We are not closing, We are working. We’ll make it super fun for the kids!”",
+          "link": "https://www.vice.com/en_us/article/n7z47x/clearwater-florida-marketing-company-hurricane-ian",
+          "publishedOn": "2022-09-28T14:23:12.000Z",
+          "wordCount": 6208,
+          "title": "Company Asked Employees to Bring Family, Pets to Office to Work Through Hurricane Ian",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63345601d18e93009f8fa2dd/lede/1664374278057-gettyimages-1243569927.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63345601d18e93009f8fa2dd/lede/1664374278057-gettyimages-1243569927.jpeg"
+        },
+        {
           "id": "dy743w",
           "author": "Hannah Docter-Loeb",
           "description": "The technology is open-source and cheap to acquire, but its creator says it's \"a little dangerous.\"",
@@ -7430,6 +7565,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/culture/23375811/netflix-jeffrey-dahmer-monster-victims-controversy-backlash",
+          "author": null,
+          "description": "DaShawn Barnes as Rita Isbell, a relative of one of Jeffrey Dahmer’s murder victims, in the new Netflix series Dahmer — Monster: The Jeffrey Dahmer Story. | Netflix\n    \n\n  \nTrue crime has made huge strides in centering the victim. But we keep getting series like the Netflix docudrama.\n True crime has always been complicated, morally speaking. At a minimum, it takes the real stories of victims, their families, and their killers and repackages them as entertainment for the public’s consumption. \nShould we expect a person impacted by a crime to be okay with having their story trotted out for the general public? Does it matter if they aren’t? What about when the story leans heavily into the old ways of true crime storytelling — tabloidy, sensationalistic, glorifying the serial killer at the e…",
+          "link": "https://www.vox.com/culture/23375811/netflix-jeffrey-dahmer-monster-victims-controversy-backlash",
+          "publishedOn": "2022-09-28T14:15:00.000Z",
+          "wordCount": 4168,
+          "title": "What do true crime series like Dahmer owe the victims?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/UlD-58MOZUtB60D6CouXP4JRnz8=/825x0:3012x1145/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24060205/dahmer_barnes.jpg"
+        },
+        {
           "id": "https://www.vox.com/even-better/23374918/community-priya-parker-gathering-guesting",
           "author": null,
           "description": "Shanée Benjamin for Vox\n    \n\n\n  \nPractical questions for creating community, according to Priya Parker.\n Even when times are normal, figuring out how to host — or attend — a gathering can be fraught. What do you wear? Who will be there? What will happen while you’re there? When will everyone go home?\nAnd now the pandemic has thrown an extra wrench into things. Not just because people have varying levels of comfort and ability to gather; the disruption to our normal life patterns have left some of us feeling drained of our past ability to socialize for days on end. Or we feel like we’ve forgotten the social scripts that governed our interactions. We’re all awkward. \nYet gathering in some form is essential to our social, mental, and even physical health; humans aren’t meant to exist without…",
@@ -7776,6 +7921,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849590477",
+          "author": "Sisi Jiang",
+          "description": "Dragon Age is an immensely popular fantasy roleplaying series that has spawned several main entries, spin-off games, novels, comics books, a tabletop game, an animated film, and a web series. Yet the first entry in the series was relatively modest: Origins is a single-player game with a main story campaign that…\nRead more...",
+          "link": "https://kotaku.com/dragon-age-origins-bioware-ea-steam-mods-hours-played-1849590477",
+          "publishedOn": "2022-09-28T14:20:00.000Z",
+          "wordCount": 8683,
+          "title": "I Played 1,167 Hours Of Dragon Age: Origins And Lived",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/53caf4db472c58971505f59ac9feb0b9.jpg"
+        },
         {
           "id": "1849589853",
           "author": "John Walker",
@@ -8543,6 +8698,26 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update",
+          "author": null,
+          "description": "Image: Supermassive Games/Bandai Namco Entertainment\n    \n\n  \nAs well as accessibility options and improved UI tied to the game’s PS5 and Xbox Series X release\n Developer Supermassive Games and publisher Bandai Namco Entertainment announced on Wednesday that Man of Medan, the first installment in the interactive survival-horror drama series The Dark Pictures Anthology, will receive new free content in the form of a new chapter called, “Flooded,” featuring new gameplay and player deaths added to the climax of the game. \nNot only that, but both Man of Medan and Little Hope, the second game in The Dark Pictures Anthology, have received a free update in the form of improved UI, updated art and event triggers, accessibility options, and other additions tied to the game’s release on PlayStation 5 and Xbox Series X this week. Bandai Namco said the updates provide players “an even greater immersive experience.”\nThe Dark Pictures Anthology is a series of stand-alone, branching cinematic horror games in the vein of Supermassive’s other titles, like 2015’s Until Dawn and 2022’s The Quarry. \nIn our review of Man of Medan, Polygon’s Austen Goslin wrote that “While the characters and their relationships feel detailed and fleshed out, Man of Medan’s overall story never quite manages to make it beyond its ghost-ship premise.” Polygon’s Cass Marshall wrote in their review of Little Hope that that game “fails to capture the Shared Story magic that the previous game in the Dark Pictures Anthology, Man of Medan, managed to pull off.”\nIn addition to PS5 and Xbox Series X, Man of Medan and Little Hope are available for PlayStation 4, Windows PC, and Xbox One.",
+          "link": "https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update",
+          "publishedOn": "2022-09-28T14:11:31.000Z",
+          "wordCount": 2193,
+          "title": "Dark Pictures: Man of Medan gets surprise new chapter in update",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/9saDes2CJzGOss6s6fg8ZWEPPQw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19123678/ss_a454cc906adbefde00649f84f0054fda92fe03b5.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett",
+          "author": null,
+          "description": "Image: Game Freak/The Pokémon Company\n    \n\n  \nJust a little bit of Wiglett revealed\n The Pokémon Company revealed a sort-of-new Pokémon coming to Pokémon Scarlet and Pokémon Violet this November: Wiglett, a Paldean region-spin on the lovable ground-type, Diglett. Wiglett is long, white, and loves hanging out on the beach.\nWiglett was revealed in a somewhat unusual fashion, as part of a faux Zoom call between members of the World Ecological Pokémon Society, which is being shown a presentation on the Paldean region by Jacq, the player’s homeroom teacher in Pokémon Scarlet and Violet. During the video, various biomes and Paldean Pokémon are shown, including another newcomer, Paldean Wooper. Society members remark on Wiglett’s appearance, likening it to a region-specific version of Diglett — even though it is apparently a separate species.\nWhether Wiglett will evolve into another form — as Diglett does into Dugtrio — is unknown. You can watch the Wiglett reveal in this video uploaded by Serebii, if you don’t want to sit through the entire World Ecological Pokémon Society presentation. \nPokémon Scarlet and Violet will be released Nov. 18 for Nintendo Switch. The newest mainline game will introduce the ninth generation of Pokémon and the new Paldean region. Players will be able to catch brand-new Pokémon like Armarouge, Ceruledge, Klawf, Grafaiai, Fidough, Paldean Wooper (aka Pooper), Cetitan, Cyclizar, Smoliv, Lechonk, and Pawmi. Those new creatures join Scarlet and Violet’s new starters Sprigatito, Fuecoco, and Quaxly, and two new Legendary Pokémon (Koraidon and Miraidon), in the series’ Pokédex.",
+          "link": "https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett",
+          "publishedOn": "2022-09-28T14:00:54.000Z",
+          "wordCount": 2132,
+          "title": "Pokémon Scarlet and Violet adds a weird new Diglett called Wiglett",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/94G6qo_zooQfLjd4Jcco_O46zTM=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061174/wiglett_clean.jpg"
+        },
         {
           "id": "https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier",
           "author": null,
@@ -10619,6 +10794,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/my-master-has-no-tail-anime-casts-junya-enoki-as-mamedas-father",
+          "author": "Liam Dempsey",
+          "description": "Supernatural comedy series premieres on September 30\n\n\nSupernatural comedy anime My Master Has No Tail is working its tail off right up to its premiere in two days' time, today adding Junya Enoki to the cast as protagonist Mameda's tanuki father. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/my-master-has-no-tail-anime-casts-junya-enoki-as-mamedas-father",
+          "publishedOn": "2022-09-28T13:38:00.000Z",
+          "wordCount": 5974,
+          "title": "My Master Has No Tail Anime Casts Junya Enoki as Mameda's Father",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/6dd626d7484d62722c6ecff07e6eeddb1664372226_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/autumn-is-mysterious-in-dongitsune-animated-tv-cm-for-nissin-foods",
           "author": "Paul Chapman",
           "description": "30 second TV spot features character designs by manga artist Eisaku Kubonouchi\n\n\nAutumn is a time for mysterious meetings in a new animated TV commercial series entitled \"Dongitsune Season 2 Autumn Edition\", which features a cute fox-spirit girl to promote Nissin Foods' \"Nissin no Donbei\" line of instant kitsune udon noodle dishes. Hit the jump to check it out.",
@@ -12602,6 +12787,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-sharpens-stand-on-ukraine-war-but-business-as-usual-with-russia/articleshow/94512259.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: India is articulating its position against the Ukraine war more robustly to counter criticism that it is soft on Russia, but it still has n.",
+          "link": "https://timesofindia.indiatimes.com/india/india-sharpens-stand-on-ukraine-war-but-business-as-usual-with-russia/articleshow/94512259.cms",
+          "publishedOn": "2022-09-28T14:12:43.000Z",
+          "wordCount": 7616,
+          "title": "India sharpens stand on Ukraine war but business as usual with Russia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94513941,width-1070,height-580,imgsize-59206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Lt General Anil Chauhan (Retired) was on Wednesday named India's new Chief of Defence Staff (CDS), the top military post which aims to brin.",
+          "link": "https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms",
+          "publishedOn": "2022-09-28T13:49:45.000Z",
+          "wordCount": 6198,
+          "title": "Who is Lt Gen Anil Chauhan (retd), India's new CDS: 10 things to know",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94513433,width-1070,height-580,imgsize-84468,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "author": null,
+          "description": "Lt General Anil Chauhan (Retired) has been appointed as the Chief of Defence Staff (CDS), nearly 10 months after the death of CDS General Bipin Rawat in a helicopter crash.As CDS, Lt Gen Chauhan will function as secretary to government of India, department of military affairs, the defence ministry said.Born on May 18, 1961, Lt Gen Anil Chauhan was commissioned into the 11 Gorkha Rifles of the Indian Army in 1981.",
+          "link": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "publishedOn": "2022-09-28T13:27:41.000Z",
+          "wordCount": 6044,
+          "title": "Lt General Anil Chauhan (Retired) named India's new Chief of Defence Staff",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512829,width-1070,height-580,imgsize-20280,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pfi-dissolves-organisation-after-centre-announces-ban/articleshow/94512664.cms",
           "author": null,
@@ -15883,6 +16098,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-5th-t20i/liveblog/94513717.cms",
+          "author": null,
+          "description": "Stay updated with Times of India to get all the live cricket score updates, scorecard, and ball by ball commentary of the fifth T20I between Pakistan and England.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-5th-t20i/liveblog/94513717.cms",
+          "publishedOn": "2022-09-28T14:05:11.000Z",
+          "wordCount": 7467,
+          "title": "Live Blog: Pakistan vs England, 5th T20I",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94513717,width-1070,height-580,imgsize-42268,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Lt General Anil Chauhan (Retired) was on Wednesday named India's new Chief of Defence Staff (CDS), the top military post which aims to brin.",
+          "link": "https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms",
+          "publishedOn": "2022-09-28T13:49:45.000Z",
+          "wordCount": 6198,
+          "title": "Lt Gen Anil Chauhan (retd): 10 things to know about new CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94513433,width-1070,height-580,imgsize-84468,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
           "author": null,
