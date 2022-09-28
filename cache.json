@@ -4451,6 +4451,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2409568",
+          "author": "Annie Njanja",
+          "description": "Micro, small and medium-sized enterprises (MSMEs) across Africa make up the bulk — over 90% — of businesses in the continent but are still marginalized in accessing credit from formal institutions because of the nature of their operations; for instance, many often lack the kind of collateral that is acceptable by banks. To bridge the […]\nYC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to MSMEs beyond Uganda by Annie Njanja originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/yc-backed-fintech-numida-raises-12-3m-led-by-serena-ventures-to-extend-loans-to-msmes-beyond-uganda/",
+          "publishedOn": "2022-09-28T07:30:09.000Z",
+          "wordCount": 7629,
+          "title": "YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to MSMEs beyond Uganda",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Numida-Team.jpg?resize=1200,732"
+        },
+        {
           "id": "https://techcrunch.com/?p=2408724",
           "author": "Romain Dillet",
           "description": "Meet Roundtable, a new startup backed by eFounders that wants to bring community-driven angel investments to European startups. The company has built a platform that simplifies the administrative, legal and financial challenges that come with angel investments. Roundtable could be particularly useful for existing angel investors who want to unlock some additional capital for their […]\nRoundtable wants to bring AngelList-style syndicates to Europe by Romain Dillet originally published on TechCrunch",
@@ -10691,6 +10701,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/national/must-not-let-current-developments-jeopardise-2030-agenda-on-sdgs-jaishankar/article65945428.ece",
+          "author": "PTI",
+          "description": "Secretary of State Antony Blinken said both India and the United States are working in the field of climate change",
+          "link": "https://www.thehindu.com/news/national/must-not-let-current-developments-jeopardise-2030-agenda-on-sdgs-jaishankar/article65945428.ece",
+          "publishedOn": "2022-09-28T08:03:07.000Z",
+          "wordCount": 6165,
+          "title": "Must not let current developments jeopardise 2030 Agenda on SDGs: Jaishankar",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/2e1idp/article65945439.ece/alternates/LANDSCAPE_615/PTI09_28_2022_000002B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/daily-quiz-september-27-2022-on-world-tourism-day/article65945335.ece",
           "author": "V V Ramanan",
           "description": "The UN World Tourism Organization has celebrated September 27 as World Tourism Day since 1980. A quiz on the Day and tourism in India.",
@@ -11527,6 +11547,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/now-banned-pfi-was-under-radar-of-government-agencies-for-long/articleshow/94500372.cms",
+          "author": null,
+          "description": "The ban came after over 150 people allegedly linked with PFI were detained or arrested in raids across seven states on Tuesday, five days after a similar pan-India crackdown against the 16-year-old group had led to the arrest of over a hundred of its activities and seizure of several dozen properties.",
+          "link": "https://timesofindia.indiatimes.com/india/now-banned-pfi-was-under-radar-of-government-agencies-for-long/articleshow/94500372.cms",
+          "publishedOn": "2022-09-28T07:25:25.000Z",
+          "wordCount": 8440,
+          "title": "Now-banned PFI was under radar of government agencies for long",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501646,width-1070,height-580,imgsize-163134,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-compromise-on-national-security-mos-muraleedharan-lauds-pfi-ban/articleshow/94499202.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Union minister V Muraleedharan on Wednesday lauded the Centre's ban on PFI and its affiliates for five years, saying it showed that the Mod.",
+          "link": "https://timesofindia.indiatimes.com/india/no-compromise-on-national-security-mos-muraleedharan-lauds-pfi-ban/articleshow/94499202.cms",
+          "publishedOn": "2022-09-28T07:22:07.000Z",
+          "wordCount": 6098,
+          "title": "No compromise on national security: MoS Muraleedharan lauds PFI ban",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501485,width-1070,height-580,imgsize-55040,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pakistan-swears-in-ishaq-dar-as-finance-minister/articleshow/94499503.cms",
           "author": null,
@@ -13395,6 +13435,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-swaps-6-finance-ministers-in-4-years-to-stem-crisis/articleshow/94501170.cms",
+          "author": null,
+          "description": "Ishaq Dar, an accountant by profession, will be helming the office for the fourth time and replaces Miftah Ismail. He will be tasked with reversing the course of the nation’s current economic predicament amid challenges such as low growth, high inflation and foreign-exchange reserves standing below the standard benchmark of three months of imports.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-swaps-6-finance-ministers-in-4-years-to-stem-crisis/articleshow/94501170.cms",
+          "publishedOn": "2022-09-28T07:21:06.000Z",
+          "wordCount": 8033,
+          "title": "Pakistan swaps 6 finance ministers in 4 years to stem crisis",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501126,width-1070,height-580,imgsize-48910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/pakistan-swears-in-ishaq-dar-as-finance-minister/articleshow/94499503.cms",
           "author": null,
           "description": "Seasoned politician and chartered accountant Ishaq Dar took the oath as Pakistan's new finance minister on Wednesday, the prime minister's office said, as the country fights an economic crisis exacerbated by devastating floods. It is Dar's fourth stint as finance minister. Dar is known to favour intervention in currency markets to keep the rupee stable.",
@@ -14469,6 +14519,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-umesh-yadav-and-shahbaz-ahmed-added-to-t20i-squad/articleshow/94501988.cms",
+          "author": null,
+          "description": "trio of batter Shreyas Iyer, pacer Umesh Yadav and all-rounder Shahbaz Ahmed was added to India's squad for the three-match T20 series against South Africa, starting on Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-shreyas-iyer-umesh-yadav-and-shahbaz-ahmed-added-to-t20i-squad/articleshow/94501988.cms",
+          "publishedOn": "2022-09-28T07:34:00.000Z",
+          "wordCount": 6110,
+          "title": "Shreyas Iyer, Umesh Yadav and Shahbaz Ahmed added to T20I squad",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501962,width-1070,height-580,imgsize-84340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/auto/electric-cars/tata-tiago-ev-launched-specs-range-price-of-most-affordable-electric-car-in-india/articleshow/94498729.cms",
           "author": null,
           "description": "The all-electric hatchback has been introduced at a base price of Rs 8.49 lakh, going all the way up to Rs 11.79 lakh (both prices, ex-showroom).",
@@ -14479,6 +14539,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94499141,width-1070,height-580,imgsize-1128256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/mollywood-actor-vijayan-karanthoor-suffers-from-liver-disease-early-signs-of-liver-diseases-people-tend-to-miss/articleshow/94498318.cms",
+          "author": null,
+          "description": "Vijayan Karanthoor, a known name in Malayalam film industry, has revealed to be suffering from liver disease. The actor took to social media to update his fans and followers about his health condition.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/mollywood-actor-vijayan-karanthoor-suffers-from-liver-disease-early-signs-of-liver-diseases-people-tend-to-miss/articleshow/94498318.cms",
+          "publishedOn": "2022-09-28T06:16:46.000Z",
+          "wordCount": 10055,
+          "title": "Mollywood actor Vijayan Karanthoor suffers from liver disease",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94498247,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-970180/94498247.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/mamata-banerjee-may-be-arrested-soon-claims-west-bengal-bjp-chief-sukanta-majumdar/articleshow/94498182.cms",
           "author": null,
           "description": "\"Mamata Banerjee may be arrested by December. 41 TMC people's names are with top leadership. The government will fall in December,\" said West Bengal BJP chief Sukanta Majumdar. BJP leader and film star Mithun Chakraborty had also claimed to be in touch with TMC MLAs.",
@@ -14487,6 +14557,16 @@
           "wordCount": 6121,
           "title": "Mamata may be arrested soon, claims Bengal BJP chief",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94498288,width-1070,height-580,imgsize-900101,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/treating-pcos-how-fixing-your-body-weight-and-lifestyle-can-help/articleshow/94481575.cms",
+          "author": null,
+          "description": "Polycystic ovarian syndrome (PCOS) is one of the most common hormonal disorders among women of reproductive age.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/treating-pcos-how-fixing-your-body-weight-and-lifestyle-can-help/articleshow/94481575.cms",
+          "publishedOn": "2022-09-28T05:30:00.000Z",
+          "wordCount": 10559,
+          "title": "Treating PCOS: How fixing your body weight and lifestyle can help",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94481573,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-236222/94481573.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actor-vijayan-karanthoor-suffering-from-liver-disease-posts-a-note-seeking-donor/articleshow/94496966.cms",
@@ -14527,6 +14607,26 @@
           "wordCount": 7337,
           "title": "In pics: Navratri celebrations across India",
           "imageUrl": "https://static.toiimg.com/photo/94495416.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The MHA via a notification on Tuesday banned the Popular Front of India (PFI) and its associates for five years for links to terrorist grou.",
+          "link": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "publishedOn": "2022-09-28T04:10:55.000Z",
+          "wordCount": 6650,
+          "title": "'Links with ISIS, threat to internal security': Why Centre banned PFI, 8 affiliates for 5yrs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94495584,width-1070,height-580,imgsize-1705450,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/videos/toi-original/govt-bans-peoples-front-of-india-know-about-the-groups-history-and-how-its-terror-links-were-unearthed/videoshow/94491038.cms",
+          "author": null,
+          "description": "Days after a pan-India crackdown on the Popular Front of India (PFI) for alleged terror activities, the government has banned the group over its terror links.  A large number of its operatives have been arrested in nationwide raids on the group by the NIA and the ED under 'Operation Lotus'.  The government has said that overtly the group and its affiliates operate as a socio-economic, educational and political organization but in reality they have been pursuing a secret agenda to radicalize a particular section of the society. But how did the outfit that had its roots in the Kerala-based National Development Front which was formed in 1993 reach here? The crackdown against PFI has raised several questions over a possible countrywide ban. Watch the video to know more.",
+          "link": "https://timesofindia.indiatimes.com/videos/toi-original/govt-bans-peoples-front-of-india-know-about-the-groups-history-and-how-its-terror-links-were-unearthed/videoshow/94491038.cms",
+          "publishedOn": "2022-09-28T03:19:52.000Z",
+          "wordCount": 5103,
+          "title": "Govt bans PFI: How its terror links were unearthed",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94491038,imgsize-148300.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94488203.cms",
