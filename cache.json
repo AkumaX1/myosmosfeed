@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23377115/oura-horizon-smart-ring-rose-gold-announcement",
+          "author": null,
+          "description": "The really round Oura Horizon comes in five colors, including the new rose gold finish. | Image: Oura\n    \n\n  \nIf you were intrigued by previous Oura smart rings but were turned off by a design that didn’t let you spin it on your desk, then you’re in luck. Oura is releasing a rounder version of its health and fitness tracking smart ring line called Horizon, though it’ll cost you $50 more than the version not matching that preference. (via Gizmodo).\nThe Oura Horizon is largely identical to the last year’s Oura Ring (Gen 3) in terms of functionality, including the blood oxygen monitoring abilities that were just activated this year. This means the Horizon is just a cosmetic change accompanying the old “heritage” design, and it comes in the same original gold, stealth, black, and silver finis…",
+          "link": "https://www.theverge.com/2022/9/28/23377115/oura-horizon-smart-ring-rose-gold-announcement",
+          "publishedOn": "2022-09-28T22:26:02.000Z",
+          "wordCount": 8965,
+          "title": "Now you can get a really round Oura smart ring",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/d5VPuavvWuoP6TwjBhNT5uDCSl8=/0x0:1280x854/1200x628/filters:focal(640x427:641x428)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062894/HERO_Oura_Gen3_Horizon___Group_Shot.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23377365/hertz-bp-network-ev-chargers-us-electric-vehicle",
+          "author": null,
+          "description": "Image: Hertz\n    \n\n  \nHertz and BP are joining forces to build a network of electric vehicle (EV) chargers throughout the US (via Engadget). The initiative should help support Hertz’s growing fleet of EV vehicles, as the rental car company recently announced plans to purchase a total of over 300,000 EVs from Tesla, Polestar, and GM.\nDetails about the project are still pretty slim, and the two companies haven’t indicated how many charging stations they plan on building, how long it could take, or how much money either side is committing to the project. But we do know that Hertz is working with BP Pulse, the oil giant’s EV branch, to build out “a network of fast-charging hubs” with the goal of serving both Hertz customers and everyday EV drivers. \nAccording to a report from CNBC, the deal bu…",
+          "link": "https://www.theverge.com/2022/9/28/23377365/hertz-bp-network-ev-chargers-us-electric-vehicle",
+          "publishedOn": "2022-09-28T22:14:25.000Z",
+          "wordCount": 7975,
+          "title": "Hertz and BP are teaming up to create a network of EV chargers in the US",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vZWRnD85jbiifpU-y5SkbtpgNJU=/0x0:2350x1321/1200x628/filters:focal(1175x661:1176x662)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062469/hertz_bp_ev_charging.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results",
           "author": null,
           "description": "The company’s “been exploring new ways to make” the info you want easier to find. | Illustration: The Verge\n    \n\n  \nGoogle may be trying to reinvent the way we search in the future and expanding access to its impressive multisearch feature, but perhaps one of its most exciting announcements from today is a feature it’s calling “discussions and forums.” The idea is simple: whenever you do a Google search that it thinks could be an open-ended question, it’ll pop up a box full of results from “a variety of popular forums and online discussions across the web.” An example in its blog post shows results from Reddit, Quora, and Edmunds showing up when the user searches “best car for big family.”\nIt’s more or less a meme at this point that you have to add “reddit” to a search if you want to find…",
@@ -1399,6 +1419,76 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/us/oakland-ca-school-shooting.html",
+          "author": "Eduardo Medina and Kellen Browning",
+          "description": "Three of the victims were in critical condition, the authorities said. The shooting occurred at a campus in the Bay Area that houses multiple schools.",
+          "link": "https://www.nytimes.com/2022/09/28/us/oakland-ca-school-shooting.html",
+          "publishedOn": "2022-09-28T23:04:33.000Z",
+          "wordCount": null,
+          "title": "6 Injured in Oakland School Shooting, Police Say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/nyregion/andrew-cuomo-return.html",
+          "author": "Luis Ferré-Sadurní",
+          "description": "The former governor, who resigned after sexual harassment allegations, said he would start a podcast, a gun-safety project and a political action committee.",
+          "link": "https://www.nytimes.com/2022/09/28/nyregion/andrew-cuomo-return.html",
+          "publishedOn": "2022-09-28T22:26:18.000Z",
+          "wordCount": null,
+          "title": "Cuomo’s Next Steps Include a Podcast and a PAC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html",
+          "author": "Katrin Bennhold and David E. Sanger",
+          "description": "An attack on gas lines under the Baltic Sea exposes the vulnerability of an already jittery Europe. Some officials suggested Moscow was to blame, but with little evidence, others urge caution.",
+          "link": "https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html",
+          "publishedOn": "2022-09-28T22:22:40.000Z",
+          "wordCount": null,
+          "title": "Sabotaged Pipelines and a Mystery: Who Did It?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/upshot/roe-dobbs-midterms-history.html",
+          "author": "Nate Cohn",
+          "description": "Finding analogies for big successes by the party out of power.",
+          "link": "https://www.nytimes.com/2022/09/28/upshot/roe-dobbs-midterms-history.html",
+          "publishedOn": "2022-09-28T22:14:41.000Z",
+          "wordCount": null,
+          "title": "What Can History Tell Us About the Roe Effect on the Midterms?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/pennsylvania-senate-fetterman-oz.html",
+          "author": "Gail Collins",
+          "description": "The Fetterman-Oz race is one of this fall’s big political dramas.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/pennsylvania-senate-fetterman-oz.html",
+          "publishedOn": "2022-09-28T22:13:43.000Z",
+          "wordCount": null,
+          "title": "The Fetterman-Oz Race Is No Piece of Cake",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/katie-couric-breast-cancer.html",
+          "author": "Claire Fahy",
+          "description": "The veteran news anchor received her diagnosis on June 21. She plans to share more about her experience to mark Breast Cancer Awareness month.",
+          "link": "https://www.nytimes.com/2022/09/28/us/katie-couric-breast-cancer.html",
+          "publishedOn": "2022-09-28T22:08:22.000Z",
+          "wordCount": null,
+          "title": "Katie Couric Talks About Her Breast Cancer Diagnosis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/briefing/hurricane-ian-florida-whoopi-goldberg.html",
+          "author": "Matthew Cullen and Lauren Hard",
+          "description": "Here’s what you need to know at the end of the day.",
+          "link": "https://www.nytimes.com/2022/09/28/briefing/hurricane-ian-florida-whoopi-goldberg.html",
+          "publishedOn": "2022-09-28T21:57:52.000Z",
+          "wordCount": null,
+          "title": "Your Wednesday Evening Briefing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html",
           "author": "Stanley Reed",
           "description": "The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.",
@@ -1436,6 +1526,16 @@
           "publishedOn": "2022-09-28T21:04:09.000Z",
           "wordCount": null,
           "title": "Dense Breasts and Cancer: What to Know About Katie Couric’s Diagnosis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html",
+          "author": null,
+          "description": "A man comes out to his wife — and breaks apart their family. Fifteen years later, we check back in.",
+          "link": "https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html",
+          "publishedOn": "2022-09-28T20:00:09.000Z",
+          "wordCount": null,
+          "title": "Modern Love Gay Dad",
           "imageUrl": null
         },
         {
@@ -1666,6 +1766,16 @@
           "publishedOn": "2022-09-28T09:30:07.000Z",
           "wordCount": null,
           "title": "Will Abortion Turn Tide for Democrats in House Fight for NY Suburbs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/realestate/leaf-miners-galls-gardens.html",
+          "author": "Margaret Roach",
+          "description": "Don’t jump to the conclusion that those mysterious marks are evidence of disease. They may be leaf mines or galls — and that’s a good thing.",
+          "link": "https://www.nytimes.com/2022/09/28/realestate/leaf-miners-galls-gardens.html",
+          "publishedOn": "2022-09-28T09:00:45.000Z",
+          "wordCount": null,
+          "title": "Trying to Control Leafminers? Don’t Bother.",
           "imageUrl": null
         },
         {
@@ -3759,6 +3869,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/article/climate-event.html",
+          "author": "The New York Times",
+          "description": "Hear from business leaders like Laurene Powell Jobs and John Doerr, along with storytellers and food innovators in a livestreamed Times event in San Francisco.",
+          "link": "https://www.nytimes.com/article/climate-event.html",
+          "publishedOn": "2022-09-21T20:10:11.000Z",
+          "wordCount": null,
+          "title": "Can Technology and Art Inspire Change in a Warming World?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html",
           "author": null,
           "description": "At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.",
@@ -4123,6 +4243,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html",
+          "author": "Blake Hounshell",
+          "description": "",
+          "link": "https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html",
+          "publishedOn": "2022-09-28T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Pete Souza’s Obama Book Cuts Obama Out of the Picture",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/books/review/new-this-week.html",
           "author": null,
           "description": "A selection of books published this week; plus, a peek at what our colleagues around the newsroom are reading.",
@@ -4369,6 +4499,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/28/arts/music/lizzo-james-madison-flute.html",
+          "author": "Michael Levenson",
+          "description": "A classically trained flutist, the singer, rapper and songwriter spent more than three hours admiring the flute collection at the Library of Congress. Madison’s instrument was made for the second inauguration by a Parisian craftsman.",
+          "link": "https://www.nytimes.com/2022/09/28/arts/music/lizzo-james-madison-flute.html",
+          "publishedOn": "2022-09-28T22:17:41.000Z",
+          "wordCount": null,
+          "title": "Lizzo Plays New Notes on James Madison’s Crystal Flute from 1813",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/us/lizzo-james-madison-flute.html",
           "author": "Michael Levenson",
@@ -4866,6 +5006,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601930",
+          "author": "Daniel Kreps",
+          "description": "Hear new single \"Moneymaker\" from band's first LP since 2019",
+          "link": "https://www.rollingstone.com/music/music-news/fitz-and-the-tantrums-let-yourself-free-album-2023-tour-1234601930/",
+          "publishedOn": "2022-09-28T22:16:20.000Z",
+          "wordCount": 9364,
+          "title": "Fitz and the Tantrums Announce New Album ‘Let Yourself Free,’ 2023 Tour",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/06/SHOT_01_0512_LindseyByrnesc.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234598912",
           "author": "Jon Blistein",
@@ -5554,6 +5704,16 @@
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/barney-dinosaur-doc2.jpg?w=1024"
         },
         {
+          "id": "https://www.rollingstone.com/?p=1234601945",
+          "author": "Sage Anderson",
+          "description": "Bubble, bubble, toil and trouble — the Sanderson sisters are back in the follow up to 1993 original film. Here's how to stream the sequel online this Halloween season",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-hocus-pocus-2-online-disney-plus-1234601945/",
+          "publishedOn": "2022-09-28T20:00:00.000Z",
+          "wordCount": 9739,
+          "title": "How to Watch ‘Hocus Pocus 2’ Online: Stream the Sequel on Disney+",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Hocus-Pocus-2-watch-online.webp?w=1000"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234596842",
           "author": "David Browne",
           "description": "'Nothing Compares' examines how the Irish musician paved the way for so many women's rights issues — and was completely run over in the process.",
@@ -5890,6 +6050,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2411245",
+          "author": "Aria Alamalhodaei",
+          "description": "Rocket launch company Astra will no longer send the remaining NASA TROPICS payloads to space, but instead will launch other “comparable” scientific missions for the agency, the company announced Wednesday. The change to the launch agreement comes a little over three months after Astra’s first TROPICS launch ended in failure after the upper stage shut […]\nAstra will no longer launch NASA’s TROPICS satellites by Aria Alamalhodaei originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/astra-will-no-longer-launch-nasas-tropics-satellites/",
+          "publishedOn": "2022-09-28T22:19:45.000Z",
+          "wordCount": 5547,
+          "title": "Astra will no longer launch NASA’s TROPICS satellites",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/astra-lv-0009.jpeg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2411000",
           "author": "Christine Hall",
@@ -7998,6 +8168,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "pkgq37",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "The Uproot Clean carpet scraper helped me get rid of hair, crumbs, and dust without having to haul out the vacuum.",
+          "link": "https://www.vice.com/en_us/article/pkgq37/uproot-carpet-scraper",
+          "publishedOn": "2022-09-28T22:10:41.000Z",
+          "wordCount": 6900,
+          "title": "This TikTok-Viral Carpet Scraper Completely Purged Lint From My Life",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6334855bebc33400945166e8/lede/1664402259900-carpet-scraper.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6334855bebc33400945166e8/lede/1664402259900-carpet-scraper.jpeg"
+        },
+        {
           "id": "3aq353",
           "author": "Rec Room Staff",
           "description": "If you've been waiting all year for an opportunity to dress your dog as Bette Midler or your snake as a wizard, great news: It's time!",
@@ -9250,6 +9435,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/9/28/23377587/house-democrats-stock-trading-bill-blind-trust",
+          "author": null,
+          "description": "House Speaker Nancy Pelosi (D-CA) during her weekly news conference on September 22, in Washington, DC. | Drew Angerer/Getty Images\n    \n\n  \nA new bill aims to curb conflicts of interest in Congress — but lawmakers could help themselves get around it.\n Democrats have been working for months to nail down legislation that would make it harder for members of Congress to use information they receive on the job for their own financial gain, following a string of instances over the last few years in which they appear to have done just that. Recall 2020, for example, when Sens. Kelly Loeffler (R-GA) and David Perdue (R-GA) faced scrutiny for stock trades they made during the pandemic.\nThose efforts have culminated in the release of the Combating Financial Conflicts of Interest in Government Act, …",
+          "link": "https://www.vox.com/policy-and-politics/2022/9/28/23377587/house-democrats-stock-trading-bill-blind-trust",
+          "publishedOn": "2022-09-28T23:00:00.000Z",
+          "wordCount": 3351,
+          "title": "Democrats’ effort to stop lawmakers from stock trading has a potential loophole",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/lYmZ2EyJMaMDDZ6oRaWC9N_AXnw=/0x606:7391x4476/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062912/1243428112.jpg"
+        },
+        {
           "id": "https://www.vox.com/science-and-health/2022/9/28/23376761/hurricane-ian-rapid-intensification-climate-change",
           "author": null,
           "description": "Waves on the Malecon in Havana, Cuba, on September 28 after the passage of Hurricane Ian, which made landfall in southwestern Florida just shy of a Category 5 storm. | Yamil Lage/AFP via Getty Images\n    \n\n  \nHow Hurricane Ian got so powerful — in just two days.\n On Monday morning, Hurricane Ian had wind speeds of 75 miles per hour. Just 48 hours later, those speeds had more than doubled. On Wednesday, as the storm made landfall in southwestern Florida, Ian’s wind hit 155 mph — just shy of a Category 5 storm, the most severe category for a hurricane.\nSuch rapid growth is known by meteorologists as “rapid intensification.” It’s defined as storms whose wind speeds increase by roughly 35 mph or more in less than 24 hours. “Ian definitely met that criteria,” said Paul Miller, a professor of oc…",
@@ -9646,6 +9841,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849592633",
+          "author": "Patricia Hernandez",
+          "description": "Elden Ring throws all manner of fiendish monstrosities at you, but few will make your hair stand on edge the way a Runebear does after it catches your scent. I’ve only ever barely killed a few Runebears in the hundreds of hours I’ve put into FromSoftware’s open-world game; I’d literally rather fight Malenia or, more…\nRead more...",
+          "link": "https://kotaku.com/elden-ring-runebear-dragon-hearts-talisman-youtube-1849592633",
+          "publishedOn": "2022-09-28T22:15:00.000Z",
+          "wordCount": 5435,
+          "title": "Apparently There's A Lore Reason Behind Elden Ring Runebears Being Such A Pain In The Butt",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/099d1e413eed4952202cadff1172ccf1.jpg"
+        },
         {
           "id": "1849593724",
           "author": "Claire Jackson",
@@ -10543,6 +10748,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23377527/overwatch-2-competitive-mode-changes-update-ranks-scoreboard",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nIt’s even getting a real scoreboard \n Competitive play will be a big focus for Overwatch 2, so it’s no surprise that Blizzard developer is retooling the game’s signature mode to make it a better experience. Blizzard outlined many of the changes coming to Competitive ahead of the game’s imminent launch, including new skill-tier divisions, new requirements to unlock ranked, a more robust scoreboard, and many other additions in a developer post on Wednesday. \nBlizzard reiterated that to unlock Competitive play in Overwatch 2, new players will have to win 50 quick play matches and complete the “first-time user experience.” This should guarantee that everyone in ranked has enough experience to be there, while also keeping new players from accidentally wadi…",
+          "link": "https://www.polygon.com/23377527/overwatch-2-competitive-mode-changes-update-ranks-scoreboard",
+          "publishedOn": "2022-09-28T22:10:40.000Z",
+          "wordCount": 2176,
+          "title": "Overwatch 2 gives Competitive mode an overhaul",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/pKG26juKxkJvGBi50sNWz3dF6cs=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059771/JunkerQueen_007_CommandShout.png"
+        },
         {
           "id": "https://www.polygon.com/23377150/genshin-impact-serenitea-pot-update-realm-within",
           "author": null,
@@ -12889,6 +13104,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/second-longform-trailer-for-makoto-shinkais-suzume-anime-film-released-with-cast-details",
+          "author": "Humberto Saabedra",
+          "description": "Film to be released in Japan on November 11\n\n\nThe official social media accounts for director Makoto Shinkai's latest film in Suzume have been updated with a second and final longform trailer ahead of the film's November 11 release in Japan alongside the official cast list. Read on for the details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/second-longform-trailer-for-makoto-shinkais-suzume-anime-film-released-with-cast-details",
+          "publishedOn": "2022-09-28T21:50:26.000Z",
+          "wordCount": 6083,
+          "title": "Second Longform Trailer For Makoto Shinkai's Suzume Anime Film Released With Cast Details",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/6298ae03521019807a7d33f44c8aa1d31664401574_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/ed-sheeran-drops-a-sample-of-pokmon-collab-songvideo-celestial",
           "author": "Kara Dennison",
           "description": "New single comes out tomorrow\n\n\nLast week, we filled you in on the upcoming Ed Sheeran track \"Celestial,\" a collaboration celebrating the 25th anniversary of Pokémon. Thanks to the series's official UK Twitter account, you can now enjoy a short sample of the new song and its music video. Have a look after the jump!",
@@ -15032,6 +15257,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
+          "author": null,
+          "description": "T​he Cabinet on Wednesday approved Rs 10,000 crore for redevelopment of three major railway stations - New Delhi, Ahmedabad and Mumbai's Chhatrapati Shivaji Terminus - by awarding contracts based on government funding, abandoning the earlier plan to modernise through the public private partnership route.",
+          "link": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
+          "publishedOn": "2022-09-28T22:48:03.000Z",
+          "wordCount": 6986,
+          "title": "New Delhi, Mumbai, Ahmedabad railway stations to get  Rs 10k crore makeover",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519525,width-1070,height-580,imgsize-76666,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/majority-of-women-in-west-bengal-married-by-21-only-17-in-delhi/articleshow/94519423.cms",
+          "author": null,
+          "description": "A majority of women in West Bengal and Jharkhand were married by the age of 21, while the proportion in Jammu and Kashmir was less than 10% in 2020. In Delhi, over 17% of women married before 21. In the country as a whole, nearly 30% of women married by the time they were 21, just released government data shows.",
+          "link": "https://timesofindia.indiatimes.com/india/majority-of-women-in-west-bengal-married-by-21-only-17-in-delhi/articleshow/94519423.cms",
+          "publishedOn": "2022-09-28T22:21:00.000Z",
+          "wordCount": 6338,
+          "title": "Majority of women in West Bengal married by 21, only 17% in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519427,width-1070,height-580,imgsize-110274,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/from-techie-to-lecturer-to-govt-employee-arrested-pfi-men-are-from-all-walks-of-life/articleshow/94519385.cms",
+          "author": null,
+          "description": "Among the arrested top leaders of PFI, its chairman OMA Salam is a Kerala government employee who was suspended as recently as 2020; national vice-chairman E M Abdur Rahiman a retired librarian who served in Cochin University of Science and Technology in Kalamassery.",
+          "link": "https://timesofindia.indiatimes.com/india/from-techie-to-lecturer-to-govt-employee-arrested-pfi-men-are-from-all-walks-of-life/articleshow/94519385.cms",
+          "publishedOn": "2022-09-28T22:09:20.000Z",
+          "wordCount": 6724,
+          "title": "From techie to lecturer to govt employee: Arrested PFI men are from all walks of life",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519405,width-1070,height-580,imgsize-67778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-to-meet-sonia-gandhi-on-thursday-says-issues-will-be-sorted-soon/articleshow/94519342.cms",
           "author": null,
@@ -18603,6 +18858,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
+          "author": null,
+          "description": "T​he Cabinet on Wednesday approved Rs 10,000 crore for redevelopment of three major railway stations - New Delhi, Ahmedabad and Mumbai's Chhatrapati Shivaji Terminus - by awarding contracts based on government funding, abandoning the earlier plan to modernise through the public private partnership route.",
+          "link": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
+          "publishedOn": "2022-09-28T22:48:03.000Z",
+          "wordCount": 6986,
+          "title": "New Delhi, Mum, Ahd rly stns to get 10k cr makeover",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519525,width-1070,height-580,imgsize-76666,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/majority-of-women-in-west-bengal-married-by-21-only-17-in-delhi/articleshow/94519423.cms",
+          "author": null,
+          "description": "A majority of women in West Bengal and Jharkhand were married by the age of 21, while the proportion in Jammu and Kashmir was less than 10% in 2020. In Delhi, over 17% of women married before 21. In the country as a whole, nearly 30% of women married by the time they were 21, just released government data shows.",
+          "link": "https://timesofindia.indiatimes.com/india/majority-of-women-in-west-bengal-married-by-21-only-17-in-delhi/articleshow/94519423.cms",
+          "publishedOn": "2022-09-28T22:21:00.000Z",
+          "wordCount": 6338,
+          "title": "Majority of women in WB married by 21, only 17% in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519427,width-1070,height-580,imgsize-110274,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/from-techie-to-lecturer-to-govt-employee-arrested-pfi-men-are-from-all-walks-of-life/articleshow/94519385.cms",
+          "author": null,
+          "description": "Among the arrested top leaders of PFI, its chairman OMA Salam is a Kerala government employee who was suspended as recently as 2020; national vice-chairman E M Abdur Rahiman a retired librarian who served in Cochin University of Science and Technology in Kalamassery.",
+          "link": "https://timesofindia.indiatimes.com/india/from-techie-to-lecturer-to-govt-employee-arrested-pfi-men-are-from-all-walks-of-life/articleshow/94519385.cms",
+          "publishedOn": "2022-09-28T22:09:20.000Z",
+          "wordCount": 6724,
+          "title": "From techie to lecturer to govt employee: Arrested PFI men",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519405,width-1070,height-580,imgsize-67778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/nri/us-canada-news/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519203.cms",
           "author": null,
