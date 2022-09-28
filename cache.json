@@ -12,6 +12,56 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23376850/verizon-5g-edge-gaming-handheld-razer-qualcomm-tease-home-router",
+          "author": null,
+          "description": "Honestly, I’m just interested to see how Razer competes with the Steam Deck. | Image: Verizon\n    \n\n  \nVerizon is teasing that it’s working on a 5G gaming handheld with Razer and Qualcomm, which is set to be fully announced on October 15th at RazerCon. The carrier talked a little about the device, which will be called the Razer Edge 5G, at a keynote at MWC Las Vegas, saying that it’ll run Android and give you access to cloud gaming services like Xbox Cloud Gaming. Unlike devices like Logitech’s recently announced G Cloud, however, it does seem like it’ll be able to play games stored locally on the device as well.\nWhile details are relatively sparse, we have heard of a similar device before: Qualcomm’s Snapdragon G3x Handheld Gaming Developer Kit. That device, which was shown off late last …",
+          "link": "https://www.theverge.com/2022/9/28/23376850/verizon-5g-edge-gaming-handheld-razer-qualcomm-tease-home-router",
+          "publishedOn": "2022-09-28T18:14:18.000Z",
+          "wordCount": 8746,
+          "title": "Verizon teases a ‘5G gaming handheld’ made by Razer",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/e85ecQ7dfUcyjwsDW158FoO2I0Y=/0x0:1230x690/1200x628/filters:focal(615x345:616x346)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061992/razer_nc_1230x690.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23377108/republican-infighting-threatens-tech-antitrust-vote",
+          "author": null,
+          "description": "Photo by Alex Wong/Getty Images\n    \n\n  \nThe House is expected to vote on a package of previously uncontroversial bills targeting Big Tech’s market dominance this week, but a sudden flare-up among Republicans is threatening to hold up any movement on the bills. \nEarlier this week, Rep. Ken Buck (R-CO) announced that the House planned to vote on three bills that would make it more difficult and expensive for large tech companies, like Apple or Google, to acquire smaller companies by increasing filing fees. In turn, those fees would be used to fund investigations for federal antitrust enforcers at the Federal Trade Commission and Justice Department. \n“We can’t allow goliath tech firms to crush small businesses and conservatism any longer,” Buck said in a Monday statement. “America is watchin…",
+          "link": "https://www.theverge.com/2022/9/28/23377108/republican-infighting-threatens-tech-antitrust-vote",
+          "publishedOn": "2022-09-28T18:00:26.000Z",
+          "wordCount": 7730,
+          "title": "Republican infighting threatens tech antitrust vote",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/jKheadvlp54b7onkLxur9U3HqFA=/0x0:5522x3681/1200x628/filters:focal(2761x1841:2762x1842)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061996/1404694968.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23375691/google-search-multisearch-visual-keywords",
+          "author": null,
+          "description": "Google’s search is becoming both more visual and more exploratory. | Image: Google\n    \n\n\n  \nThe internet is more visual and more interactive than ever. So how does the world’s biggest search engine change to fit the times? By redefining the whole idea.\n Google is trying to blow up how you think about search. To say it’s pivoting to compete in a world where TikTok and Instagram are changing the way the internet works would be an overstatement… but not a big one. Google now exists on a more visual, more interactive internet, in which users want to be surprised and delighted as often as they just want an answer to their questions. In that world, what is a search engine even for? The Google you see tomorrow might not be completely different, but the change is already starting.\nAt its annual S…",
+          "link": "https://www.theverge.com/2022/9/28/23375691/google-search-multisearch-visual-keywords",
+          "publishedOn": "2022-09-28T17:51:32.000Z",
+          "wordCount": 10506,
+          "title": "Google is trying to reinvent search — by being more than a search engine",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TtTHdaUTydJYVvyE25jnxGiQlIQ=/0x0:1600x1200/1200x628/filters:focal(800x600:801x601)/cdn.vox-cdn.com/uploads/chorus_asset/file/24060030/Searchgoog2.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23373772/google-shopping-product-insight-buying-guides",
+          "author": null,
+          "description": "You’ll soon be able to access Google’s shopping features by typing “shop,” followed by whatever you’re looking for. | Image: Google\n    \n\n  \nGoogle wants its search engine to become the place where you do your online shopping. To do that, the company announced today that it’s introducing a set of new shopping-specific features meant to help you narrow down your results and — more importantly — keep you on Google.\nFor starters, Google’s folding shopping features directly into its main search bar, no longer requiring you to hit the “Shopping” tab whenever you’re searching for something you want to buy. Starting your searches with the word “shop” followed by a product name will automatically yield a set of visual results and research tools as well as availability in stores nearby. This featur…",
+          "link": "https://www.theverge.com/2022/9/28/23373772/google-shopping-product-insight-buying-guides",
+          "publishedOn": "2022-09-28T17:40:11.000Z",
+          "wordCount": 8376,
+          "title": "Google’s trying to become a one-stop shopping destination",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/BCqIMDW2DAEiOiklfYY1-Ff08SY=/0x0:2124x1158/1200x628/filters:focal(1062x579:1063x580)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061093/google_shopping_search.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23375135/blink-mini-pan-tilt-amazon-mount-floodlight-home-security-camera-price",
+          "author": null,
+          "description": "The Blink Mini camera attached to the new Pan Tilt mount. | Image: Amazon\n    \n\n  \nBlink’s giving its blocky Mini security camera a new robot body. The new Mini Pan Tilt is a very literally named mounting accessory that converts your existing Blink Mini camera from a stationary device into a controllable camera that lets you look around the room.\nSetup sounds like it’ll be easy for the Pan Tilt: you connect the Mini camera to the mount, plug in the Micro USB cord, and the camera now has 360-degree movement from the Blink app. You can even install it on a tripod or wall mount (not included), or you can just place it on a table.\n\n\nYou can preorder the Mini Pan Tilt mount today on Amazon for $29.99. There’s also a bundle that gets you the mount as well as a Blink Mini camera if you don’t have…",
+          "link": "https://www.theverge.com/2022/9/28/23375135/blink-mini-pan-tilt-amazon-mount-floodlight-home-security-camera-price",
+          "publishedOn": "2022-09-28T17:34:43.000Z",
+          "wordCount": 8447,
+          "title": "Blink’s new Mini Pan Tilt adds robotics to its compact home security camera",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/o94HPcUBLFfbPKM5xx03pKUW0Z8=/0x0:2263x1509/1200x628/filters:focal(1132x755:1133x756)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059785/Blink_Mini_Pan_Tilt_Kitchen.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nAmazon just held its fall hardware launch event, where it revealed a ton of new tech, including a new Kindle Scribe, an updated Fire TV cube, and a second-generation Echo Auto device. Here’s a roundup of some of the most exciting announcements that came out of Amazon’s event.\nThe new Kindle Scribe comes with a stylus\nImage: Amazon\n      Amazon’s new Kindle Scribe has an E-Ink display.\n  \nKindles aren’t just for reading anymore — the newest Kindle is an E-Ink tablet that you can use for reading and writing. It comes with a 10.2-inch screen with 300ppi, along with a Basic Pen or Premium Pen option for the stylus.\nThe Premium Pen costs $30 more and comes with a customizable shortcut button and a sensor for an eraser. With the standard stylus, t…",
@@ -1219,6 +1269,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html",
+          "author": "Erika Solomon",
+          "description": "Tens of thousands gathered in the Czech capital for the second such protest in a month, spurred by an energy crisis and rising prices that are affecting countries across Europe.",
+          "link": "https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html",
+          "publishedOn": "2022-09-28T17:28:52.000Z",
+          "wordCount": null,
+          "title": "Protests in Prague Signal a Troubled Winter Ahead in Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/28/us/hurricane-ian-florida/tampa-bay-receding-water",
+          "author": "Elena Shao",
+          "description": "The effect is called a reverse storm surge, but it won’t last. Officials are warning that the water could come rushing back.",
+          "link": "https://www.nytimes.com/live/2022/09/28/us/hurricane-ian-florida/tampa-bay-receding-water",
+          "publishedOn": "2022-09-28T17:16:29.000Z",
+          "wordCount": null,
+          "title": "Here’s why Hurricane Ian is sucking water out of Tampa Bay.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html",
           "author": "Elian Peltier",
           "description": "In addition to those killed, dozens of women were raped when security forces stormed a pro-democracy rally in 2009, a U.N. investigation found. Eleven men, including the country’s former president, are on trial.",
@@ -1256,6 +1326,16 @@
           "publishedOn": "2022-09-28T15:35:36.000Z",
           "wordCount": null,
           "title": "MacKenzie Scott May No Longer Have a Partner in Philanthropy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/well/live/chronic-illness-dating.html",
+          "author": "Fortesa Latifi",
+          "description": "Deciding if and how to share health information can leave daters on a tightrope between vulnerability and vigilance.",
+          "link": "https://www.nytimes.com/2022/09/28/well/live/chronic-illness-dating.html",
+          "publishedOn": "2022-09-28T15:00:07.000Z",
+          "wordCount": null,
+          "title": "The Challenges of Dating With Chronic Illness",
           "imageUrl": null
         },
         {
@@ -3536,6 +3616,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/technology/google-maps-immersive-search-on.html",
+          "author": "Nico Grant",
+          "description": "From more photo-based results to neighborhood “vibe” checks, the company announced updates meant to keep two of its most popular products on trend.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/google-maps-immersive-search-on.html",
+          "publishedOn": "2022-09-28T17:25:57.000Z",
+          "wordCount": null,
+          "title": "Google to Make Search and Maps More ‘Immersive’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html",
           "author": "Cade Metz",
           "description": "A reporter and a photographer went for a ride in an experimental autonomous vehicle operated by the General Motors subsidiary Cruise. There were bumps in the road.",
@@ -4040,6 +4130,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/movies/blonde-review-marilyn-monroe.html",
+          "author": "Manohla Dargis",
+          "description": "She was an actress of uncommon talent. But once again a director is more interested in examining her body (literally, in this case) than getting inside her mind.",
+          "link": "https://www.nytimes.com/2022/09/28/movies/blonde-review-marilyn-monroe.html",
+          "publishedOn": "2022-09-28T18:18:15.000Z",
+          "wordCount": null,
+          "title": "‘Blonde’ Review: Exploiting Marilyn Monroe for Old Times’ Sake",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/arts/music/ramblin-jack-elliott.html",
           "author": "Erin Osmon",
           "description": "The singer and expert flatpicker is one of the last of the ’50s era folk music revivalists still on the road today.",
@@ -4456,6 +4556,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601730",
+          "author": "Tomás Mier",
+          "description": "New single \"summarizes the plethora of ridiculous emotions, the rollercoaster of being alive in 2022, having survived even just the last 3 or 4 years,\" says Hayley Williams",
+          "link": "https://www.rollingstone.com/music/music-news/paramore-announces-album-this-is-why-1234601730/",
+          "publishedOn": "2022-09-28T18:09:33.000Z",
+          "wordCount": 9541,
+          "title": "Paramore Announces First Album in Six Years, ‘This Is Why’: ‘Such a Cool Experiment’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/paramore.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234601700",
+          "author": "Jodi Guglielmi",
+          "description": "A new film, Rebel Dread, examines the influence of the filmmaker and Big Audio Dynamite cofounder",
+          "link": "https://www.rollingstone.com/music/music-news/don-letts-doc-trailer-1234601700/",
+          "publishedOn": "2022-09-28T17:34:51.000Z",
+          "wordCount": 9528,
+          "title": "See How U.K. Punk and Politics Converged in Don Letts Doc Trailer",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/don-letts.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601706",
           "author": "Daniel Kreps",
@@ -5410,6 +5530,156 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2409353",
+          "author": "Lauren Forristal",
+          "description": "Movie and TV reviews site Rotten Tomatoes is releasing a card game in early 2023 called “Rotten Tomatoes: The Card Game,” a fast-paced party game that challenges cinephiles by making them guess what rating a movie has—a.k.a the Tomatometer score, which reflects the percentage of positive professional critic reviews for a movie. This is the […]\nRotten Tomatoes gets its first card game to entertain film buffs by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/rotten-tomatoes-gets-its-first-card-game-to-entertain-film-buffs/",
+          "publishedOn": "2022-09-28T18:00:13.000Z",
+          "wordCount": 5852,
+          "title": "Rotten Tomatoes gets its first card game to entertain film buffs",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/RT-Card-Game-Movie-Night.png?resize=1200,1200"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410740",
+          "author": "Kyle Wiggers",
+          "description": "At a Google Search-focused event this morning, Google announced that it will soon introduce ways to translate local news coverage directly from Google News. Starting in 2023, English users, for example, will be able to search and see translated links to news results from Spanish-language publishers in countries such as Mexico, in addition to links […]\nGoogle News will soon begin translating local press coverage by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-news-will-soon-begin-translating-local-press-coverage/",
+          "publishedOn": "2022-09-28T17:57:43.000Z",
+          "wordCount": 5981,
+          "title": "Google News will soon begin translating local press coverage",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407612",
+          "author": "Sarah Perez",
+          "description": "This spring, Google announced it would expand the types of personal information users could request to have removed from Google Search results to include contact information, like a phone number, address or email. At Google’s “Search On” event today, where the company unveiled a number of announcements related to its Search products and services, it […]\nGoogle rolls out tool to request removal of personal info from search results, will later add proactive alerts by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-rolls-out-tool-to-request-removal-of-personal-info-from-search-results-will-later-add-proactive-alerts/",
+          "publishedOn": "2022-09-28T17:50:36.000Z",
+          "wordCount": 7056,
+          "title": "Google rolls out tool to request removal of personal info from search results, will later add proactive alerts",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-1.46.51-PM.jpg?resize=1200,614"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409071",
+          "author": "Kyle Wiggers",
+          "description": "In early April, software engineer Dmitri Kyle Brereton published a blog post — “Google Search Is Dying” — that struck a nerve. Now among the most upvoted threads of all time on Y Combinator’s Hacker News forum, the piece argues many users have become so dissatisfied with Google search results that they now append “Reddit” […]\nGoogle Search now queries Reddit and Quora in response to open-ended questions by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/",
+          "publishedOn": "2022-09-28T17:50:21.000Z",
+          "wordCount": 6915,
+          "title": "Google Search now queries Reddit and Quora in response to open-ended questions",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1052803164.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408763",
+          "author": "Aisha Malik",
+          "description": "Google is adding several new sustainability features for Search, the company announced today at its Search On event. The search giant will start showing the annual fuel cost for cars in search results to help people who are in the market for a new car. Google will also show emissions estimates for cars, so you […]\nGoogle is getting new sustainability features, including a fuel cost calculator by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-search-new-sustainability-features/",
+          "publishedOn": "2022-09-28T17:45:15.000Z",
+          "wordCount": 5936,
+          "title": "Google is getting new sustainability features, including a fuel cost calculator",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-1.42.19-PM.jpg?resize=1200,631"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408205",
+          "author": "Sarah Perez",
+          "description": "At its Search On event this afternoon, Google announced a number of shopping-related changes and new features across areas that include visual shopping, personalization and buying with the help of trusted reviews. The additions aim to help the company better attract online consumers to shop on Google, instead of starting their searches directly on Amazon […]\nGoogle revamps shopping with 3D images, shoppable looks, buying guides, and more personalization by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-revamps-shopping-with-3d-images-shoppable-looks-buying-guides-and-more-personalization/",
+          "publishedOn": "2022-09-28T17:40:20.000Z",
+          "wordCount": 7698,
+          "title": "Google revamps shopping with 3D images, shoppable looks, buying guides, and more personalization",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-1.37.36-PM.png?resize=1200,654"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410330",
+          "author": "Aisha Malik",
+          "description": "Google is gearing up to launch several Search updates to make it easier for users to find the perfect dish, the company announced today at its Search On event. Most notably, the search giant says users will be able to use its upcoming image and text-based “Multisearch Near Me” local search feature to find specific […]\nGoogle Search will soon make it easier to find the exact dish you’re craving by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-search-easier-find-exact-dish-youre-craving/",
+          "publishedOn": "2022-09-28T17:33:09.000Z",
+          "wordCount": 5909,
+          "title": "Google Search will soon make it easier to find the exact dish you’re craving",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-28-at-1.27.56-PM-1.jpg?resize=1200,612"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410673",
+          "author": "Brian Heater",
+          "description": "Kickstarter announced today that it has appointed Everette Taylor as CEO. The news comes nearly six months after Aziz Hasan officially stepped down from the Chief Executive role. Hasan had served in the position for around three years, leaving COO Sean Leow leading the company in an interim role. “Everette brings so many exciting qualities […]\nKickstarter names Everette Taylor CEO by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/kickstarter-everette-taylor-ceo/",
+          "publishedOn": "2022-09-28T17:30:06.000Z",
+          "wordCount": 5839,
+          "title": "Kickstarter names Everette Taylor CEO",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screenshot-2022-09-28-at-1.42.38-PM.jpeg?resize=1200,901"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408554",
+          "author": "Aisha Malik",
+          "description": "Google is gearing up to launch several new updates for Maps in the coming months, the company announced today at its Search On event. Google teased the upcoming launches of new Maps features called Immersive view, Neighborhood vibe and Search with Live View. The company says all of the features announced today are part of […]\nHere are all of the new features and updates coming to Google Maps by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/new-features-and-updates-coming-google-maps/",
+          "publishedOn": "2022-09-28T17:25:49.000Z",
+          "wordCount": 6879,
+          "title": "Here are all of the new features and updates coming to Google Maps",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/google-maps-screenshot.png?resize=1200,667"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408646",
+          "author": "Aisha Malik",
+          "description": "Google is introducing a new Maps feature called “Neighborhood vibe,” the company announced today at its Search On event. The feature is designed to give users an instant understanding of a specific neighborhood right in the Maps app. Neighborhood Vibe surfaces photos and information from the Google Maps community to give you an idea of […]\nGoogle’s upcoming Maps feature will let you check out the ‘vibe’ of a neighborhood by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/googles-maps-upcoming-feature-check-out-vibe-neighborhoods/",
+          "publishedOn": "2022-09-28T17:25:31.000Z",
+          "wordCount": 6186,
+          "title": "Google’s upcoming Maps feature will let you check out the ‘vibe’ of a neighborhood",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/google-neighborhood-vibe.png?resize=1200,742"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408095",
+          "author": "Sarah Perez",
+          "description": "A new Google feature that will allow users to search using both images and text combined in to find local retailers who offer the apparel, home goods or the food you’re looking for will soon roll out to users in the U.S., Google announced today at its “Search On” event. The company had first previewed […]\nGoogle to launch its image and text-based ‘Multisearch Near Me’ local search feature in the U.S. by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-to-launch-its-image-and-text-based-multisearch-near-me-local-search-feature-in-the-u-s/",
+          "publishedOn": "2022-09-28T17:18:36.000Z",
+          "wordCount": 5932,
+          "title": "Google to launch its image and text-based ‘Multisearch Near Me’ local search feature in the U.S.",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408146",
+          "author": "Sarah Perez",
+          "description": "Google is giving its translation service an upgrade with a new machine learning-powered addition that will allow users to more easily translate text that appears in the real world, like on storefronts, menus, documents, business cards and other items. Instead of covering up the original text with the translation — the new feature will instead […]\nGoogle turns to machine learning to advance translation of text out in the real world by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/",
+          "publishedOn": "2022-09-28T17:18:17.000Z",
+          "wordCount": 5934,
+          "title": "Google turns to machine learning to advance translation of text out in the real world",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/3-google-lens.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2407932",
+          "author": "Sarah Perez",
+          "description": "Google today announced it’s revamping the traditional Google Search experience to allow users to more naturally explore information. To accomplish this, the company is introducing a number of new features, including tools to drill down into topics and other changes that will make using search a more visual experience, highlighting maps snippets, imagery and even […]\nGoogle unveils a more visual search experience for the TikTok generation by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/google-unveils-a-more-visual-search-experience-for-the-tiktok-generation/",
+          "publishedOn": "2022-09-28T17:18:08.000Z",
+          "wordCount": 7348,
+          "title": "Google unveils a more visual search experience for the TikTok generation",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/09/google-search-app-ios.jpg?resize=1200,644"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410595",
+          "author": "Kyle Wiggers",
+          "description": "Amazon showed its Eero Wi-Fi lineup some love this morning during a hardware event, announcing the Eero PoE 6, a Wi-Fi 6 Power over Ethernet (PoE) access point that can provide up to 2,000 square feet of coverage and support up to 100 devices. A complementary new product, the Eero PoE Gateway, delivers up to […]\nAmazon expands Eero line and introduces Internet Backup by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/amazon-expands-eero-line-and-introduces-internet-backup/",
+          "publishedOn": "2022-09-28T17:16:48.000Z",
+          "wordCount": 6043,
+          "title": "Amazon expands Eero line and introduces Internet Backup",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-696675012-e1550575514327.jpg?resize=1200,639"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410471",
+          "author": "Devin Coldewey",
+          "description": "You already know whether you’re an Amazon Echo type person. If so you’re probably looking at one right now, thinking “should I upgrade that thing or is it pointless?” Probably the latter — unless you also have Amazon’s Eero mesh wi-fi product, in which case: it’s probably still pointless, unless it’s pretty old. In which […]\nThe new Echo Dot is also an Eero by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/the-new-echo-dot-is-also-an-eero/",
+          "publishedOn": "2022-09-28T17:10:30.000Z",
+          "wordCount": 5721,
+          "title": "The new Echo Dot is also an Eero",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/echo-eero.jpg?resize=1200,534"
+        },
         {
           "id": "https://techcrunch.com/?p=2408615",
           "author": "Sarah Perez",
@@ -7207,6 +7477,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "g5vwjm",
+          "author": "Lorenzo  Franceschi-Bicchierai",
+          "description": "Privacy activists are decrying a couple who use TikTok to show how they track people who rented their cars on the car-sharing app Turo.",
+          "link": "https://www.vice.com/en_us/article/g5vwjm/couple-who-rents-cars-brags-about-tracking-customers-on-tiktok",
+          "publishedOn": "2022-09-28T17:31:57.000Z",
+          "wordCount": 4888,
+          "title": "Couple Who Rents Cars Brags About Tracking Customers on TikTok",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633472fade35bf009b1b0f5d/lede/1664382186069-porsche.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633472fade35bf009b1b0f5d/lede/1664382186069-porsche.jpeg"
+        },
         {
           "id": "bvmy74",
           "author": "Luis Chaparro",
@@ -9579,6 +9864,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23377025/trombone-champ-rudeism-controller-twitch-video",
+          "author": null,
+          "description": "Image: Holy Wow\n    \n\n  \nBreaking it down Riker-style\n Trombone Champ is a delightfully silly game that asks players to match the beat with their snazzy trombone. It’s a game that immediately inspires fun gifs and clips; it’s just great to have your little cartoon avatar go absolutely ham on a trombone cover of the national anthem or the solo trombone version of a epic orchestral symphony. Rudeism, a streamer known for creating novelty controllers, has taken a crack at the ultimate Trombone Champ controller.\n\n\nHere, we can see the controller in action: It’s a peripheral of an actual, factual trombone, complete with slide capabilities and some hearty doots. It’s not great as hearing the trombone serving as a proper instrument, but it is the most immersive way to rack up some Trombone Champ high scores.\nBEHOLD, THE TROMBONE CONTROLLER\nUltrasonic sensor controls the slide, and a microphone controls the dooting. If only I knew how to play it IRL  \nThe ultimate way to play Trombone Champ @HolyWowStudios pic.twitter.com/Lvm5m2CT44\n— Rudeism (@rudeism) September 27, 2022\n\n\n\nRudeism made a short video of the trombone controller that shows how it works. An ultrasonic sensor controls the slide, and a built-in microphone captures his trumpet sounds. It’s absolutely beautiful. Rudeism has made a career out of gaming with these great peripherals, pulling off tricks like playing Rocket League with a guitar controller, playing as Overwatch’s French sniper Widowmaker with a controller baguette, and beating FromSoftware’s massive open world adventure Elden Ring with a Fisher Price controller.\nRudeism streams on Twitch, where you can catch his experimental stylings live. Sometimes he just relaxes with some Fall Guys, and sometimes he plays Untitled Goose Game in a giant goose suit. Variety is, after all, the spice of life.",
+          "link": "https://www.polygon.com/23377025/trombone-champ-rudeism-controller-twitch-video",
+          "publishedOn": "2022-09-28T17:38:05.000Z",
+          "wordCount": 2138,
+          "title": "Trombone Champ is even better with a real trombone controller",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/-6DPBdu8rnrKC21Tp_ACEAoidKw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061932/ss_7939107ee0eeeed5e14a942f0f70ae9f00597e1b.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12",
           "author": null,
           "description": "Image: Wizards of the Coast\n    \n\n  \nA new official after-school kit rolls out the initiative\n Gone are the days of crowding around a wobbly card table in the basement or a trying to find some space in a cluttered dining room. Kids’ first Dungeons & Dragons adventures can now take place in their school library or the classroom itself thanks to a robust new educational initiative from Wizards of the Coast.\nD&D’s new educator resources include a brand-new kit for teachers and parents who run after-school clubs, along with webinars from experts discussing how the role-playing game improves both emotional and basic literacy skills. An official curriculum aimed at grades four to eight is also being released this month. All are free. \n“Anyone who has played Dungeons & Dragons can see the social-…",
@@ -9935,6 +10230,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview",
+          "author": null,
+          "description": "Photo: TriStar Pictures\n    \n\n\n  \nComposer Nathan Johnson on how he and brother Rian found the film’s unorthodox sound\n 10 years ago this week, Rian Johnson’s Looper burst into theaters with the sheer ventilating force of a blunderbuss shot.\nThe sci-fi action-thriller starring Joseph Gordon-Levitt and Bruce Willis, which follows an assassin forced to fight a future version of himself, was a far cry from the director’s past films like Brick and The Brothers Bloom. Looper would amass such critical and commercial success that Johnson would be offered the opportunity to write and direct the second installment in Disney’s Star Wars sequel trilogy.\nThere are many things to admire when looking back on the production of Looper, like the film’s sobering depiction of a dilapidated Kansas City slouch…",
+          "link": "https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview",
+          "publishedOn": "2022-09-28T18:05:00.000Z",
+          "wordCount": 2114,
+          "title": "Looper’s experimental soundtrack slapped then, and slaps even harder now",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4j61AAIYFyO6KUwzjkHvWtId-Ng=/0x146:2048x1218/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24058606/looper_1_superJumbo.jpg"
+        },
         {
           "id": "https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy",
           "author": null,
@@ -11833,6 +12138,36 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/kodansha-usa-licenses-kouji-seos-the-caf-terrace-and-its-goddesses-manga-and-more",
+          "author": "Joseph Luster",
+          "description": "Three more titles are on the way digitally this October\n\n\nThree more manga titles are on the way from Kodansha USA, which announced its latest titles exclusively with Anime News Network. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/kodansha-usa-licenses-kouji-seos-the-caf-terrace-and-its-goddesses-manga-and-more",
+          "publishedOn": "2022-09-28T17:57:35.000Z",
+          "wordCount": 6106,
+          "title": "Kodansha USA Licenses Kouji Seo's The Café Terrace and Its Goddesses Manga and More",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/0ea2ec0ae7ba8ed11d3f33d4d94ef0e71664387717_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/touring-exhibition-celebrates-the-opening-of-ghibli-park",
+          "author": "Kara Dennison",
+          "description": "Board the Cat Bus, see behind-the-scenes art, and much more\n\n\nStudio Ghibli fans excited about Ghibli Park will have a unique chance to preview the attraction early! The touring Ghibli Park & Ghibli Exhibition will bring art, merch, sets, and more to five cities around Japan, with a stop in Aichi Prefecture to celebrate the grand opening later this fall. Get a preview after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/touring-exhibition-celebrates-the-opening-of-ghibli-park",
+          "publishedOn": "2022-09-28T17:41:43.000Z",
+          "wordCount": 6053,
+          "title": "Touring Exhibition Celebrates the Opening of Ghibli Park",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/04ce8051f1d08fe7437f234a3ab986371664381082_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/magical-drop-vi-to-end-decade-long-drought-this-winter",
+          "author": "Joseph Luster",
+          "description": "Next entry is coming to Switch from Forever Entertainment\n\n\nIt's been a whole decade since the last entry in the Magical Drop series of arcade puzzlers made its way into the world, but that drought is about to come to an end. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/magical-drop-vi-to-end-decade-long-drought-this-winter",
+          "publishedOn": "2022-09-28T17:27:07.000Z",
+          "wordCount": 5861,
+          "title": "Magical Drop VI to End Decade-Long Drought This Winter",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/ba9c9cc6bf65bec9d1bf346dcfd4e75b1664385640_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-feature/2022/09/28/feature-what-are-some-of-the-best-parody-product-placements-in-anime",
           "author": "Jared Clemons",
@@ -13887,6 +14222,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-appoints-lt-gen-anil-chauhan-retd-as-new-chief-of-defence-staff/articleshow/94517673.cms",
+          "author": null,
+          "description": "Lt-Gen Chauhan (61), currently the military advisor to national security advisor Ajit Doval and the National Security Council Secretariat, will now have to spearhead the entire process to build an integrated war-fighting machinery within budgetary constraints through the creation of theatre commands and other structures.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-appoints-lt-gen-anil-chauhan-retd-as-new-chief-of-defence-staff/articleshow/94517673.cms",
+          "publishedOn": "2022-09-28T18:00:59.000Z",
+          "wordCount": 6814,
+          "title": "Govt appoints Lt Gen Anil Chauhan (Retd) as new Chief of Defence Staff",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517763,width-1070,height-580,imgsize-37684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaishankar-raises-visa-delay-issues-with-us-blinken-says-he-is-sensitive-to-it/articleshow/94517714.cms",
+          "author": null,
+          "description": "External affairs minister S Jaishankar has raised the issue of the huge backlog of US visa applications from India with secretary of state Antony Blinken to which the top American diplomat said he is sensitive to the matter and has a plan to address it.Blinken blamed the Covid-19 pandemic for a backlog of visa applications from Indian nationals.",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankar-raises-visa-delay-issues-with-us-blinken-says-he-is-sensitive-to-it/articleshow/94517714.cms",
+          "publishedOn": "2022-09-28T17:54:34.000Z",
+          "wordCount": 7275,
+          "title": "Jaishankar raises visa delay issues with US; Blinken says he is sensitive to it",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517712,width-1070,height-580,imgsize-35256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/speaker-lacks-power-to-take-away-status-of-ex-mla-while-deciding-disqualification-plea-sc/articleshow/94517688.cms",
+          "author": null,
+          "description": "The Speaker of a legislative assembly does not have the power to take away the status of former MLA while deciding a disqualification plea against a lawmaker under the 10th schedule of the Constitution, the Supreme Court ruled on Wednesday. A bench headed by Chief Justice Uday Umesh Lalit restored the status of former MLAs to the four disqualified lawmakers, and consequently, they will be entitled to pension and other benefits.",
+          "link": "https://timesofindia.indiatimes.com/india/speaker-lacks-power-to-take-away-status-of-ex-mla-while-deciding-disqualification-plea-sc/articleshow/94517688.cms",
+          "publishedOn": "2022-09-28T17:49:46.000Z",
+          "wordCount": 6804,
+          "title": "Speaker lacks power to take away status of ex-MLA while deciding disqualification plea: SC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517682,width-1070,height-580,imgsize-86498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94516811.cms",
+          "author": null,
+          "description": "India News: LUCKNOW: Samajwadi Party (SP) chief Akhilesh Yadav on Wednesday said though recent poll results have not been favourable for them, it has been proved .",
+          "link": "https://timesofindia.indiatimes.com/india/it-has-been-proved-only-sp-can-defeat-bjp-in-up-akhilesh-yadav/articleshow/94516811.cms",
+          "publishedOn": "2022-09-28T17:47:05.000Z",
+          "wordCount": 7569,
+          "title": "It has been proved only SP can defeat BJP in UP: Akhilesh Yadav",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517653,width-1070,height-580,imgsize-27004,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-under-pmgkay-till-december-set-to-push-subsidy-burden/articleshow/94517361.cms",
           "author": null,
@@ -17258,6 +17633,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-appoints-lt-gen-anil-chauhan-retd-as-new-chief-of-defence-staff/articleshow/94517673.cms",
+          "author": null,
+          "description": "Lt-Gen Chauhan (61), currently the military advisor to national security advisor Ajit Doval and the National Security Council Secretariat, will now have to spearhead the entire process to build an integrated war-fighting machinery within budgetary constraints through the creation of theatre commands and other structures.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-appoints-lt-gen-anil-chauhan-retd-as-new-chief-of-defence-staff/articleshow/94517673.cms",
+          "publishedOn": "2022-09-28T18:00:59.000Z",
+          "wordCount": 6814,
+          "title": "Govt appoints Lt Gen Anil Chauhan (Retd) as new CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94517763,width-1070,height-580,imgsize-37684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-highlights-arshdeep-chahar-set-it-up-as-india-win-low-scoring-opener-by-8-wickets/articleshow/94517055.cms",
           "author": null,
