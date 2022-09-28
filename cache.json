@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nAmazon has some new products on the way. The company is holding an invite-only, virtual event today, where it’s expected to introduce products from across its lineup of brands. \nChances are, there’s going to be a lot to see. Amazon is unusually good at keeping its upcoming releases under wraps, and it usually uses its annual September event to announce a lot of new products. Those could come from Amazon’s own product lineup — which includes the Kindle, Fire TV, and Echo — and from some of its acquired brands, like Eero, Ring, and Blink.\nThe Echo is the big one to keep an eye on. It’s been a while since we saw new updates for the Echo, which last saw a new version of its standard and Dot models in 2020. The Kindle just saw a major update to its entry-level model, but it’s been around three years since the higher-end Oasis was updated. The Fire TV Stick just got an update last year, but it is possible Amazon could have other parts of the Fire TV ecosystem it wants to update.\nThen there’s Ring and Eero. Those product lines are a lot harder to predict. But if we do see them, there’s a good chance they’ll continue to build out the product ecosystems they’ve already been working on since they’ve had fairly recent additions to some of their key products.\nThe event is being livestreamed on an invite-only basis, so it’s not open to the public. The Verge will be covering the event as it happens, giving you updates as they come in through our live blog. The event kicks off at 9AM PT / 12PM ET.\nBe sure to also follow The Verge on Twitter, Instagram, and TikTok.",
+          "link": "https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo",
+          "publishedOn": "2022-09-28T12:00:00.000Z",
+          "wordCount": 7039,
+          "title": "Amazon is about to announce a bunch of new products",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23376406/instagram-notes-feature-messages-status",
+          "author": null,
+          "description": "Illustration by Kristen Radtke / The Verge\n    \n\n  \nInstagram’s test of a new feature that lets you post a text note to your followers appears to be getting a wider rollout, XDA Developers reports. When available, the feature displays in the messages section of the app, below the search bar. “Share what’s on your mind…” the prompt in the text box reads, according to a screenshot posted by XDA. “People won’t be notified when you leave a note. They can see your note for 24 hours and reply with a message.” \nTechCrunch reported in June that the feature was being tested with a limited selection of users, but the fact that XDA has the feature working on multiple devices suggests its availability is expanding. Notes can be up to 60 characters in length, according to TechCrunch.\n  \n        \n      …",
+          "link": "https://www.theverge.com/2022/9/28/23376406/instagram-notes-feature-messages-status",
+          "publishedOn": "2022-09-28T11:59:50.000Z",
+          "wordCount": 7749,
+          "title": "Instagram test feature lets you post text statuses for your followers",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ZNdjS2Rz8PBgXsMl8AenGzZAAwY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23374450/wacom-cintiq-pro-27-graphics-drawing-tablet-new-release-price-announcement",
+          "author": null,
+          "description": "Image: Wacom\n    \n\n  \nWacom has announced the Cintiq Pro 27, its latest pen display for creative professionals such as photo editors and digital artists. It takes on a new look more similar to that of a traditional computer monitor, and features a compact design with slim bezels, 4K resolution, HDR support, and a customizable pen. \nThe Cintiq Pro 27 comes in at $3,500 and is available to buy now direct through Wacom or third-party retailers. That price frustratingly doesn’t include a stand, which is required now that Wacom has removed the retractable legs found on older Cintiq models. The official Wacom Cintiq Pro 27 Stand will set you back an additional $500, and is fully adjustable, supporting 20 degrees of display rotation. If you’re not keen on Wacom seemingly being inspired by Apple’s…",
+          "link": "https://www.theverge.com/2022/9/28/23374450/wacom-cintiq-pro-27-graphics-drawing-tablet-new-release-price-announcement",
+          "publishedOn": "2022-09-28T11:11:49.000Z",
+          "wordCount": 8116,
+          "title": "The Wacom Cintiq Pro 27 introduces slim bezels and a customizable pen",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/olhhMIlUdyCwqbLcq0xWDXZFMD4=/0x0:3200x2600/1200x628/filters:focal(1600x1300:1601x1301)/cdn.vox-cdn.com/uploads/chorus_asset/file/24061015/Wacom_Cintiq_Pro_27_hero__1_.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23376374/logitech-mx-mechanical-mini-for-mac-mx-master-3s-lift-k380-bluetooth-price-release-date",
           "author": null,
           "description": "Logitech’s new MX Mechanical Mini for Mac, and MX Master 3S for Mac. | Image: Logitech\n    \n\n  \nLogitech’s MX Mechanical Mini for Mac is the company’s first mechanical keyboard that’s “optimized for Mac.” As its name suggests, the keyboard is a tweaked version of the MX Mechanical Mini that Logitech released earlier this year, with a couple of Mac-specific features. It’s part of a quartet of new Mac accessories the company is announcing today which also include the MX Master 3S for Mac mouse, the Lift for Mac ergonomic mouse, and the K380 Bluetooth Keyboard for Mac.\nSpecifically, the Apple features of the MX Mechanical Mini for Mac include the removal of the Windows and Alt legends on the original MX Mechanical Mini, leaving only the macOS Option and Command keys. Alongside its dark gray v…",
@@ -4831,6 +4861,26 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2409785",
+          "author": "Ivan Mehta",
+          "description": "Apple has taken down Russian social network VK’s app from its App Store globally. The social media company said the VKontakte app is not “not available for download and update in the App Store.” However, apps that are already installed on Apple devices will continue to work but there might be some issues with payments […]\nApple takes down Russian social network VK’s app from the App Store by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/apple-takes-down-russian-social-network-vks-app-from-the-app-store/",
+          "publishedOn": "2022-09-28T12:12:16.000Z",
+          "wordCount": 5719,
+          "title": "Apple takes down Russian social network VK’s app from the App Store",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408063",
+          "author": "Brian Heater",
+          "description": "There’s been plenty of excitement on the robotic exoskeleton front in recent years. For the most part, these devices slot into two categories: 1) workplace assistance and 2) mobility assistance. The first is designed specifically for workers who have to stand for long periods and hold heavy equipment — a little extra boost can go […]\nCionic gets $12.5M to accelerate its assistive mobility wearable by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/cionic-neural-sleeve-assistive-wearable/",
+          "publishedOn": "2022-09-28T12:00:16.000Z",
+          "wordCount": 5947,
+          "title": "Cionic gets $12.5M to accelerate its assistive mobility wearable",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/8_Cionic_doffing_thigh.jpg?resize=1200,675"
+        },
+        {
           "id": "https://techcrunch.com/?p=2409202",
           "author": "Tim De Chant",
           "description": "Moxion has a deal with Sunbelt Rentals to provide battery generators for construction sites, film locations, concert venues, and more.\nMoxion nails $100M Series B to replace noxious diesel generators with silent batteries by Tim De Chant originally published on TechCrunch",
@@ -6178,6 +6228,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "dy74yw",
+          "author": "Samantha Cole",
+          "description": "Pornhub claims its account was “fully PG,” and cites the uneven treatment of mainstream celebrities like Kim Kardashian who post nudity to the platform, compared to adult creators.",
+          "link": "https://www.vice.com/en_us/article/dy74yw/instagram-says-pornhubs-account-is-permanently-banned",
+          "publishedOn": "2022-09-28T11:36:21.000Z",
+          "wordCount": 4371,
+          "title": "Instagram Says Pornhub’s Account is ‘Permanently’ Banned",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63343086eb72de0098182601/lede/1664364934462-gettyimages-910428376.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63343086eb72de0098182601/lede/1664364934462-gettyimages-910428376.jpeg"
+        },
+        {
           "id": "jgpq9p",
           "author": "Ed Szymanski",
           "description": "Deep-fry your fresh catch in a super crispy beer and vodka batter, then serve alongside thrice-cooked potato wedges in this British classic.",
@@ -7085,6 +7150,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/even-better/23374918/community-priya-parker-gathering-guesting",
+          "author": null,
+          "description": "Shanée Benjamin for Vox\n    \n\n\n  \nPractical questions for creating community, according to Priya Parker.\n Even when times are normal, figuring out how to host — or attend — a gathering can be fraught. What do you wear? Who will be there? What will happen while you’re there? When will everyone go home?\nAnd now the pandemic has thrown an extra wrench into things. Not just because people have varying levels of comfort and ability to gather; the disruption to our normal life patterns have left some of us feeling drained of our past ability to socialize for days on end. Or we feel like we’ve forgotten the social scripts that governed our interactions. We’re all awkward. \nYet gathering in some form is essential to our social, mental, and even physical health; humans aren’t meant to exist without…",
+          "link": "https://www.vox.com/even-better/23374918/community-priya-parker-gathering-guesting",
+          "publishedOn": "2022-09-28T12:00:00.000Z",
+          "wordCount": 4084,
+          "title": "Looking for a sense of belonging? Start with being a good guest.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EAOx6vUWyczPlzAICIvtHUoFlcE=/0x59:3000x1630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24058744/STORY_2_SET_2.jpg"
+        },
+        {
           "id": "https://www.vox.com/recode/2022/9/28/23375712/chips-semiconductors-china-taiwan-conflict",
           "author": null,
           "description": "Getty Images/iStockphoto\n    \n\n  \nComputer chips are ubiquitous, but they’re only made in a few places. \n In a single day, we interact with hundreds of computer chips, most no larger than a penny. These tiny circuits power everything from smartphones and laptops to medical devices and electric vehicles, and they’re largely responsible for our increasingly computerized lives. But in recent months, the world’s dependence on these chips has also put them at the center of mounting tensions between the United States and mainland China over Taiwan. \nTaiwan is located just 100 miles from China’s eastern coast, and it produces the vast majority of the advanced chips used in today’s electronics. The island is a democracy with its own government, and is home to more than 20 million people. Officials…",
@@ -7421,6 +7496,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849589853",
+          "author": "John Walker",
+          "description": "Honestly, you need to grow up. It’s a worm! The latest Pokémon to be revealed for Pokémon Scarlet and Violet is a wiggly worm called Wiglett, and clearly related to that base set favorite, Diglett.\n\nRead more...",
+          "link": "https://kotaku.com/pokemon-scarlet-violet-new-revealed-nintendo-wiglett-1849589853",
+          "publishedOn": "2022-09-28T11:25:00.000Z",
+          "wordCount": 5529,
+          "title": "Brand New Scarlet & Violet Pokémon Revealed, And It's A Floppy One",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/02b91aac56148ac7d95aa0ce9d92aee7.jpg"
+        },
         {
           "id": "1849588275",
           "author": "Zack Zwiezen",
@@ -8179,6 +8264,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier",
+          "author": null,
+          "description": "Image: Square Enix\n    \n\n\n  \nThe publisher is releasing (at least) 9 games in the next 3 months, and I’ve played most of them\n Reeling from pandemic production issues — and, perhaps, a gradual shift toward more sustainable working practices — the video game industry is well into a product drought. After a barren summer, we are facing a meager release schedule through fall and toward the end of the year, with few of the major titles and platform exclusives that usually adorn the season. By all accounts, late 2022 is a quiet time for video games.\nBut nobody told Square Enix.\nThe venerable Japanese publisher has a stacked release schedule. Between mid-September and mid-December it is releasing no less than nine games — and as many as 12, if you count the PC version of Triangle Strategy, the L…",
+          "link": "https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier",
+          "publishedOn": "2022-09-28T12:00:00.000Z",
+          "wordCount": 2814,
+          "title": "There are too many RPGs coming, and Square Enix is to blame",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/1GNsjH3cW546PPBtkHVm_zNbBXQ=/0x0:2625x1374/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24058763/Crisis_Core_FFVII_Reunion_Key_Art.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23375562/fortnite-dead-game-skin-epic-games-meme",
           "author": null,
           "description": "Image: Epic Games\n    \n\n  \nIt’s actually hilarious \n Say what you will of the multi-franchise monster that Fortnite has become, but at least its developers know how to crack a solid joke. \nFortnite’s newest skin references the phrase “dead game,” which is a long-running diss-turned-joke in video game communities online. The skin comes as part of a new aesthetic items pack called the “Checkered Past Pack.” The pack has multiple items, one which is the skin which wears black nail polish, a checkered hat, and a sleeveless black turtleneck with the phrase “Dead game,” printed in white lettering on the top. \n*reads comments\n*designs Outfit\nResults: Checkered Past Pack. Available now! pic.twitter.com/mu7Fp5nfoX\n— Fortnite (@FortniteGame) September 27, 2022\n\n\n\nThe phrase references a long-running meme used by people to dismiss a game or claim it’s no longer relevant. Basically the phrase is used to imply that a game has fallen off and is no longer played and liked by people any more. (A phrase that has for many a moon, been used to describe Fortnite despite not actual evidence to support it.) Because it’s so commonly misapplied to games that maintain active playerbases, it’s often used as a sarcastic retort to players who might think interest in a specific game is waning.\nIt’s a playful way for the developers to wink back at potential haters. If you think the skin is cute well you’re in luck. At time of publication, the full pack is available to purchase in Fortnite’s item shop and is available for purchase for $3.99 or 600 V-Bucks.",
@@ -8832,6 +8927,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "8beaf6fa-bba9-4e47-bb20-7f237ea9b4ac",
+          "author": "Ryan Leston",
+          "description": "New Overwatch 2 players won't have access to the game's original heroes, and will have to unlock them by playing around 100 matches.",
+          "link": "https://www.ign.com/articles/new-overwatch-2-players-will-need-to-play-100-matches-to-unlock-original-characters",
+          "publishedOn": "2022-09-28T11:19:36.000Z",
+          "wordCount": 8124,
+          "title": "New Overwatch 2 Players Will Need to Play 100 Matches to Unlock Original Characters",
+          "imageUrl": "https://assets1.ignimgs.com/2021/02/19/overwatch2-blogroll-1613750375361.jpg?width=1280"
+        },
         {
           "id": "908faf5c-b21d-43c1-b664-693901c06ec5",
           "author": "Ryan Leston",
@@ -10204,6 +10309,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/mob-psycho-100-iii-releases-new-trailer-ahead-of-october-5-premiere",
+          "author": "Daryl Harding",
+          "description": "The third season of Mob Psycho 100 begins on Crunchyroll this October\r\n\n\nAhead of the October 5 premiere of the much-anticipated third season of the Mob Psycho 100 TV anime, the series released its main trailer today showing off the torment Mob goes through in his daily life and what he will have to face in Mob Psycho 100 III. Check out the trailer after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/mob-psycho-100-iii-releases-new-trailer-ahead-of-october-5-premiere",
+          "publishedOn": "2022-09-28T11:33:50.000Z",
+          "wordCount": 6074,
+          "title": "Mob Psycho 100 III Releases New Trailer Ahead of October 5 Premiere",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/cb2faa1cbd36208cd19689062e8be0041664356094_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/spy-x-family-takes-us-for-a-ride-in-cour-2-opening-theme-song-video",
+          "author": "Liam Dempsey",
+          "description": "The mission continues on October 1!\n\n\nWith just three days to go until the premiere of its second cour, SPY x FAMILY let loose the full opening theme song sequence online, showing off stunning animation and \"SOUVENIR\" by rock group BUMP OF CHICKEN. Hit the jump to watch!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/spy-x-family-takes-us-for-a-ride-in-cour-2-opening-theme-song-video",
+          "publishedOn": "2022-09-28T11:20:13.000Z",
+          "wordCount": 5925,
+          "title": "SPY x FAMILY Takes Us for a Ride in Cour 2 Opening Theme Song Video",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/c191008b70331152d8aaf9fdbc50bacc1664363970_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/lisa-claris-queendom-and-more-to-perform-in-nhk-world-japans-songs-of-tokyo-music-festival",
           "author": "Daryl Harding",
           "description": "The event will be broadcast on NHK World Japan starting November 5\n\n\nThe annual Songs of Tokyo Music pop-music festival returns again this year with an in-person audience, bringing all the latest music from anime and Japanese pop culture to NHK’s international channel NHK World Japan. The channel revealed the full line-up tonight and can be found after the jump!",
@@ -11261,6 +11386,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/satellite-images-show-eritrea-military-buildup-near-tigray/article65946243.ece",
+          "author": "AP",
+          "description": "New satellite imagery shows a military buildup inside Eritrea near the border with Ethiopia’s northern Tigray region",
+          "link": "https://www.thehindu.com/news/international/satellite-images-show-eritrea-military-buildup-near-tigray/article65946243.ece",
+          "publishedOn": "2022-09-28T12:18:11.000Z",
+          "wordCount": 6365,
+          "title": "Satellite images show Eritrea military buildup near Tigray",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/h6095u/article65946286.ece/alternates/LANDSCAPE_615/Ethiopia_Tigray_Crisis_43142.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/north-korea-test-launches-missile-on-eve-of-kamala-harris-trip-to-seoul/article65945930.ece",
+          "author": "AP",
+          "description": "South Korea says North Korea has fired a ballistic missile toward its eastern waters a day before a visit by U.S. Vice President Kamala Harris",
+          "link": "https://www.thehindu.com/news/international/north-korea-test-launches-missile-on-eve-of-kamala-harris-trip-to-seoul/article65945930.ece",
+          "publishedOn": "2022-09-28T11:27:19.000Z",
+          "wordCount": 6273,
+          "title": "North Korea test launches missile on eve of Kamala Harris trip to Seoul",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/wzr0dc/article65945967.ece/alternates/LANDSCAPE_615/AP09_28_2022_000119B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/ishaq-dar-becomes-pakistans-new-finance-minister/article65945456.ece",
           "author": "PTI",
           "description": "Pakistan appointed Ishaq Dar as its new Finance Minister as the nation struggles to recover from an economic crisis worsened by deadly floods",
@@ -12137,6 +12282,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-link-between-heart-dysfunction-and-covid-booster-vaccines-in-india-experts/articleshow/94509625.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Clearing the air around the effects of a booster dose of the vaccines, the health experts have said that there is no definite link between .",
+          "link": "https://timesofindia.indiatimes.com/india/no-link-between-heart-dysfunction-and-covid-booster-vaccines-in-india-experts/articleshow/94509625.cms",
+          "publishedOn": "2022-09-28T11:44:54.000Z",
+          "wordCount": 7018,
+          "title": "No link between heart dysfunction and Covid booster vaccines in India: Experts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-difficulties-with-russia-on-servicing-of-military-equipment-spare-parts-jaishankar/articleshow/94509413.cms",
+          "author": null,
+          "description": "India News: WASHINGTON: India has said that it faced no difficulties in terms of servicing and spare parts supply of equipment that it received in the past from R.",
+          "link": "https://timesofindia.indiatimes.com/india/no-difficulties-with-russia-on-servicing-of-military-equipment-spare-parts-jaishankar/articleshow/94509413.cms",
+          "publishedOn": "2022-09-28T11:32:38.000Z",
+          "wordCount": 6901,
+          "title": "No difficulties with Russia on servicing of military equipment, spare parts: Jaishankar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94509492,width-1070,height-580,imgsize-21176,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/terror-groups-in-pakistan-have-sent-cadres-for-flood-relief-work-in-balochistan-sindh-army-officer/articleshow/94509054.cms",
+          "author": null,
+          "description": "India News: NAGROTA: There have not be much infiltration attempts along the Line of Control (LoC) recently as terror groups in Pakistan have sent their cadres to .",
+          "link": "https://timesofindia.indiatimes.com/india/terror-groups-in-pakistan-have-sent-cadres-for-flood-relief-work-in-balochistan-sindh-army-officer/articleshow/94509054.cms",
+          "publishedOn": "2022-09-28T11:20:24.000Z",
+          "wordCount": 6517,
+          "title": "Terror groups in Pakistan have sent cadres for flood relief work in Balochistan, Sindh: Army officer",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94509103,width-1070,height-580,imgsize-1649693,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-ec-on-pil-seeking-to-debar-persons-charged-in-serious-offences-from-contesting-elections/articleshow/94507789.cms",
           "author": null,
@@ -14175,6 +14350,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/ian-powers-up-to-a-category-4-hurricane-as-it-nears-florida/articleshow/94508317.cms",
+          "author": null,
+          "description": "US News: ST PETERSBURG: Hurricane Ian intensified into an extremely dangerous Category 4 storm as it approached Florida and forecasters predicted it would reta.",
+          "link": "https://timesofindia.indiatimes.com/world/us/ian-powers-up-to-a-category-4-hurricane-as-it-nears-florida/articleshow/94508317.cms",
+          "publishedOn": "2022-09-28T10:55:14.000Z",
+          "wordCount": 11351,
+          "title": "Ian powers up to a Category 4 hurricane as it nears Florida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94508354,width-1070,height-580,imgsize-20546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-ballistic-missile-off-east-coast-south-korea/articleshow/94506736.cms",
           "author": null,
           "description": "Rest of World News: SEOUL: North Korea fired a ballistic missile off its east coast on Wednesday, South Korea's military said, as South Korea and the United States staged.",
@@ -15328,6 +15513,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-today-match-2022-live-cricket-score-updates/liveblog/94508221.cms",
+          "author": null,
+          "description": "India will be looking to round off their T20 World Cup preparation with a marked improvement in their death bowling besides providing crucial game time to their untested players in the three-match series against South Africa, beginning today. Get live cricket score updates of match between India vs South Africa. Check live scorecard, ball by ball commentary, cricket score online on Times of India.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-today-match-2022-live-cricket-score-updates/liveblog/94508221.cms",
+          "publishedOn": "2022-09-28T10:49:43.000Z",
+          "wordCount": 11901,
+          "title": "1st T20I Live: India face SA with eye on death bowling concerns",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94508221,width-1070,height-580,imgsize-80970,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/10-crucial-tests-to-diagnose-heart-problems/photostory/94504952.cms",
           "author": null,
