@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field",
+          "author": null,
+          "description": "Illustration by Kristen Radtke / The Verge\n    \n\n  \nBelieve it or not, Dylan Field tells me over Zoom this week, when he started Figma he was only thinking about one thing: making cool design tools. In was 2012, and Field and co-founder Evan Wallace had the idea of building design software for the web browser — making the design process live, interactive, and collaborative — in ways it hadn’t really been in software before.\nThe idea was much easier to imagine than it was to build. Figma was building in stealth mode for three years before its first public preview, but the hard technical work paid off. Figma was a hit with designers almost immediately, as the real-time collaboration it enabled made design processes — particularly software design processes — much more efficient than they had …",
+          "link": "https://www.theverge.com/23376442/figma-ceo-interview-adobe-acquisition-ai-antitrust-design-field",
+          "publishedOn": "2022-09-28T13:30:00.000Z",
+          "wordCount": 9858,
+          "title": "What Figma plans to do inside Adobe",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Pd3f_NKALja9CVer0Yl67jDvu1w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24028621/STK251_Figma_Adobe_K_Radtke_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23373604/amazon-fall-event-news-products-announcements",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nGet the latest news on Amazon’s brands from the event\n Amazon’s annual fall event is here, and the company is expected to announce new products from across its many brands — and that’s likely to mean a lot of products. We’d expect to see products from some of Amazon’s own product lines, like the Amazon Echo and Fire TV, and also some from the companies it owns, like Eero, Ring, and Blink.\nThis annual September event is usually a busy one for Amazon. And in the past, it’s used the event to launch some surprising and quirky things, from a ring drone to an Alexa microwave. So it’s hard to predict exactly what we’ll see.\nThe Verge will keep you updated on the news coming out of the invite-only event. It’s set to kick off on Wednesday, September 28th, at 9AM PT / 12PM ET, and we’ll have coverage live.",
+          "link": "https://www.theverge.com/2022/9/28/23373604/amazon-fall-event-news-products-announcements",
+          "publishedOn": "2022-09-28T13:19:00.000Z",
+          "wordCount": 1323,
+          "title": "All the news from Amazon’s September 2022 product launch event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23374494/tesla-event-ai-day-robot-elon-musk-rumors-announcements-news",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n\n  \nOn September 30th, Elon Musk will kick off Tesla’s AI Day to outline the company’s path to fully autonomous vehicles. But this year, Tesla’s cars are expected to take a backseat to a robot named Optimus.\n Tesla’s AI Day event kicks off September 30th, during which the company is expected to highlight its ongoing efforts to develop its advanced driver-assist features that Elon Musk has promised will eventually lead to fully autonomous cars. \nBut this year, Tesla’s cars and self-driving projects are likely to take a backseat to a robot named Optimus. Musk announced the “Tesla Bot” at last year’s AI Day, promising that it would be “friendly” and potentially revolutionize the company’s assembly line and manufacturing business. \nSince then, Musk…",
+          "link": "https://www.theverge.com/2022/9/28/23374494/tesla-event-ai-day-robot-elon-musk-rumors-announcements-news",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 12005,
+          "title": "What to expect from Tesla’s AI Day event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23367035/cloudflare-turnstile-captcha-bot-blocker-beta",
+          "author": null,
+          "description": "Image: Cloudflare\n    \n\n  \nCloudflare is testing a new kind of CAPTCHA that tests your browser instead of you. The company calls it Turnstile, and it’s designed to spare us from performing those mundane click-the-traffic-light kinds of tasks to verify you’re a human and not a bot.\nTurnstile is being presented as “a user-friendly, privacy preserving alternative” to CAPTCHA. According to a press release, it will get rid of the interactive challenges used to verify people, which Cloudflare says normally take an average of 32 seconds to pass, and reduce the entire process to one second.\nAn interaction-free test that reduces confirmation time to one second\nInstead of presenting a visual puzzle to a user, Turnstile applies one of many browser challenges that it rotates through to look for human …",
+          "link": "https://www.theverge.com/2022/9/28/23367035/cloudflare-turnstile-captcha-bot-blocker-beta",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 8823,
+          "title": "Turnstile is Cloudflare’s latest attempt to rid the web of CAPTCHAs",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/iIn20ejTDgGROMh2mtOyTKy-vEE=/0x0:4320x2880/1200x628/filters:focal(2160x1440:2161x1441)/cdn.vox-cdn.com/uploads/chorus_asset/file/24057756/Screen_Shot_2022_09_27_at_2.54.04_AM.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nAmazon has some new products on the way. The company is holding an invite-only, virtual event today, where it’s expected to introduce products from across its lineup of brands. \nChances are, there’s going to be a lot to see. Amazon is unusually good at keeping its upcoming releases under wraps, and it usually uses its annual September event to announce a lot of new products. Those could come from Amazon’s own product lineup — which includes the Kindle, Fire TV, and Echo — and from some of its acquired brands, like Eero, Ring, and Blink.\nThe Echo is the big one to keep an eye on. It’s been a while since we saw new updates for the Echo, which last saw a new version of its standard and Dot models in 2020. The Kindle just saw a major update to its entry-level model, but it’s been around three years since the higher-end Oasis was updated. The Fire TV Stick just got an update last year, but it is possible Amazon could have other parts of the Fire TV ecosystem it wants to update.\nThen there’s Ring and Eero. Those product lines are a lot harder to predict. But if we do see them, there’s a good chance they’ll continue to build out the product ecosystems they’ve already been working on since they’ve had fairly recent additions to some of their key products.\nThe event is being livestreamed on an invite-only basis, so it’s not open to the public. The Verge will be covering the event as it happens, giving you updates as they come in through our live blog. The event kicks off at 9AM PT / 12PM ET.\nBe sure to also follow The Verge on Twitter, Instagram, and TikTok.",
@@ -969,6 +1009,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html",
+          "author": "Ruth Maclean",
+          "description": "Hakainde Hichilema is hailed as a miracle worker for turning around the fortunes of the southern African country. But with his opposition neutralized and a corruption drive focused on his predecessors, some are uneasy.",
+          "link": "https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html",
+          "publishedOn": "2022-09-28T13:35:37.000Z",
+          "wordCount": null,
+          "title": "Zambia and Its New President Are Still on Their Honeymoon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/business/economy/bank-of-england-bonds.html",
           "author": "Eshe Nelson",
           "description": "The purchases will be carried out “on whatever scale is necessary,” the central bank said.",
@@ -1316,6 +1366,16 @@
           "publishedOn": "2022-09-27T21:21:49.000Z",
           "wordCount": null,
           "title": "The Gottmans’ New Book Tries to Fix Your Marriage In 7 Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/well/live/covid-vaccine-periods-delay.html",
+          "author": "Knvul Sheikh",
+          "description": "Experts say there is no indication that vaccines affect fertility. Most people’s periods go back to normal within one cycle.",
+          "link": "https://www.nytimes.com/2022/09/27/well/live/covid-vaccine-periods-delay.html",
+          "publishedOn": "2022-09-27T21:17:16.000Z",
+          "wordCount": null,
+          "title": "Covid Vaccines Temporarily Affect Periods, New Study Shows",
           "imageUrl": null
         },
         {
@@ -3176,6 +3236,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html",
+          "author": "Cade Metz",
+          "description": "A reporter and a photographer went for a ride in an experimental autonomous vehicle operated by the General Motors subsidiary Cruise. There were bumps in the road.",
+          "link": "https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html",
+          "publishedOn": "2022-09-28T13:00:09.000Z",
+          "wordCount": null,
+          "title": "Stuck on the Streets of San Francisco in a Driverless Car",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/technology/crypto-hacks-defi.html",
           "author": "David Yaffe-Bellany",
           "description": "More than $2 billion in digital currency has been stolen in hacks this year, shaking faith in the experimental field of decentralized finance known as DeFi.",
@@ -3730,6 +3800,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/27/movies/goat-dope-streaming-movies.html",
+          "author": "Jason Bailey",
+          "description": "A list of quality movie selections that are off the beaten path.",
+          "link": "https://www.nytimes.com/2022/09/27/movies/goat-dope-streaming-movies.html",
+          "publishedOn": "2022-09-27T16:29:34.000Z",
+          "wordCount": null,
+          "title": "‘Goat,’ ‘Dope’ and More Streaming Gems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/27/movies/the-greatest-beer-run-ever-chickie-donohue.html",
           "author": "Corey Kilgannon",
           "description": "“The Greatest Beer Run Ever” tells the story of Chickie Donohue’s unlikely but true adventure bringing suds from New York to his military pals in 1967 Vietnam.",
@@ -4036,6 +4116,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1341970",
+          "author": "Kyle Rice",
+          "description": "After his success working under the YEEZY umbrella and designing for lux labels, Stevie Wonder's son is ready to launch his own brand, House of K.O.M.",
+          "link": "https://www.rollingstone.com/music/music-features/kailand-morris-fashion-stevie-wonder-kanye-1341970/",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 10649,
+          "title": "Kailand Morris Is Building an Empire With Nothing To Prove and Everything To Gain",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/webL1240168_CV.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601445",
           "author": "Emily Zemler",
@@ -4860,6 +4950,136 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2407595",
+          "author": "Kyle Wiggers",
+          "description": "In March 2020, Sami Bouremoum and Michael Ginzo, two tech entrepreneurs with a background in consulting (Bouremoum worked for Bain & Company) and software development (Ginzo led product at hiring startup Deel), came together to co-launch Hofy, a company that delivers office equipment to remote hires. It wasn’t long after that Hofy began earning “low-six-figure” […]\nHofy lands $15M to help companies remotely manage enterprise equipment by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/hofy-lands-15m-to-help-companies-remotely-manage-enterprise-equipment/",
+          "publishedOn": "2022-09-28T13:30:36.000Z",
+          "wordCount": 6943,
+          "title": "Hofy lands $15M to help companies remotely manage enterprise equipment",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1256459426.jpeg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409828",
+          "author": "Anita Ramaswamy",
+          "description": "Investment app Public, a Robinhood competitor that pivoted away from the contentious payment-for-order-flow (PFOF) revenue model, is expanding its offerings in a big way. The three-year-old company purchased Otis earlier this year to allow consumers to buy and trade fractional shares in alternative assets. Today, the company announced that it has integrated Otis’s offerings onto […]\nTrading app Public debuts alternative asset offering with Birkins, Banksy and CryptoPunks by Anita Ramaswamy originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/alternative-assets-public-otis-collectibles-nfts-investing/",
+          "publishedOn": "2022-09-28T13:30:26.000Z",
+          "wordCount": 6446,
+          "title": "Trading app Public debuts alternative asset offering with Birkins, Banksy and CryptoPunks",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Public.com-Alternative-Asset-Multiple.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409790",
+          "author": "Natasha Lomas",
+          "description": "The European Union is to update product liability laws to tackle the risk of damage caused by artificial intelligence systems and address other liability issues arising from digital devices — such as drones and smart devices. Presenting a proposal for revisions to long-standing EU products rules — which includes a dedicated AI Liability Directive — […]\nBad robot: Europe plans product liability changes to make it easier to sue AIs by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/eu-ai-liability-directive/",
+          "publishedOn": "2022-09-28T13:16:28.000Z",
+          "wordCount": 8302,
+          "title": "Bad robot: Europe plans product liability changes to make it easier to sue AIs",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-473398696.jpg?resize=1200,812"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409796",
+          "author": "Paul Sawers",
+          "description": "TikTok is continuing its PR offensive to convince the world that it takes its content moderator responsibilities seriously, as the Bytedance-owned social video platform today published its latest Community Guidelines Enforcement Report. Covering the period from April 1 to June 30 this year, the report spans a wide gamut of self-reported data points around video […]\nTikTok says fake account removal increased 61% to 33.6M in Q2 2022 by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/tiktok-says-fake-account-removal-increased-61-to-33-6m-in-q2-2022/",
+          "publishedOn": "2022-09-28T13:14:31.000Z",
+          "wordCount": 6256,
+          "title": "TikTok says fake account removal increased 61% to 33.6M in Q2 2022",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243334500-1.jpg?resize=1200,798"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409498",
+          "author": "Mary Ann Azevedo",
+          "description": "Michael Haddix Jr. is a former college basketball player who was pre-med until he discovered investing once finishing undergrad. After being exposed to it, Haddix  says he got “really excited” about investing and went on to get an M.B.A. from Columbia Business School so that he could work in the field. Upon completing graduate school, […]\nThis new app is helping Gen Z invest in cars, food, video games and other ‘themes’ by Mary Ann Azevedo originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/fintech-startup-scout-is-a-new-app-that-aims-to-give-gen-zers-a-way-to-invest-in-themes-not-memes/",
+          "publishedOn": "2022-09-28T13:04:10.000Z",
+          "wordCount": 8041,
+          "title": "This new app is helping Gen Z invest in cars, food, video games and other ‘themes’",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/scout-sbs.jpg?resize=1200,601"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408557",
+          "author": "Christine Hall",
+          "description": "Flora's assessment tool asks members questions about their consumer behaviors, calculates a carbon footprint and suggests certain brand products to help them reduce that footprint.\nFlora poised to bloom as sustainable brand marketplace launches this year by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/flora-sustainable-brand-marketplace/",
+          "publishedOn": "2022-09-28T13:03:47.000Z",
+          "wordCount": 5819,
+          "title": "Flora poised to bloom as sustainable brand marketplace launches this year",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Flora_Products.jpg?resize=1200,683"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409374",
+          "author": "Christine Hall",
+          "description": "The firm says cognitive applications are “the next generation of software companies,” and many of the investments will go into startups focused on that.\nScale Venture Partners closes $900M for fund to back software startups by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/scale-venture-partners-900m-software-startups/",
+          "publishedOn": "2022-09-28T13:01:59.000Z",
+          "wordCount": 6153,
+          "title": "Scale Venture Partners closes $900M for fund to back software startups",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Team-image-blog-header-PR.png?resize=1200,630"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409349",
+          "author": "Aisha Malik",
+          "description": "Facebook Pay is officially being renamed to Meta Pay for users around the world, the company announced on Wednesday. Meta kicked off the rebrand in the United States in June, and is now making the change globally. Starting today, users will see the rebrand roll out across Meta’s products in nearly 200 countries. The company […]\nMeta’s rebranding of Facebook Pay to Meta Pay is rolling out globally by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/metas-rebranding-facebook-pay-meta-pay-rolling-out-globally/",
+          "publishedOn": "2022-09-28T13:00:51.000Z",
+          "wordCount": 5574,
+          "title": "Meta’s rebranding of Facebook Pay to Meta Pay is rolling out globally",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rotate-pattern.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409335",
+          "author": "Rebecca Bellan",
+          "description": "Autonomous ride-hail and shuttle service May Mobility and transit tech provider Via are launching a small fleet of wheelchair-accessible autonomous vehicles in Grand Rapids, Minnesota. Via, which started as an on-demand shuttle service before acquiring Remix, and May have been partnering for years to bridge the gaps in public transit systems with AVs. They have […]\nMay Mobility, Via launch wheelchair-accessible autonomous shuttle service by Rebecca Bellan originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/may-mobility-via-launch-wheelchair-accessible-autonomous-shuttle-service/",
+          "publishedOn": "2022-09-28T13:00:44.000Z",
+          "wordCount": 6103,
+          "title": "May Mobility, Via launch wheelchair-accessible autonomous shuttle service",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/May-ADA-Shuttle-1.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409394",
+          "author": "Jacquelyn Melinek",
+          "description": "While many layer-1 blockchains out there were built for a pretty general purpose, other networks were designed around very specific use cases. Sei, a layer-1 blockchain designed for trading, has launched a $50 million ecosystem and liquidity fund to support new decentralized finance (DeFi) applications on its platform, its co-founders Jeff Feng and Jay Jog […]\nCrypto trading-focused blockchain Sei launches $50M ecosystem fund by Jacquelyn Melinek originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/crypto-trading-focused-blockchain-sei-launches-50m-ecosystem-fund/",
+          "publishedOn": "2022-09-28T13:00:42.000Z",
+          "wordCount": 6280,
+          "title": "Crypto trading-focused blockchain Sei launches $50M ecosystem fund",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1174590894.jpg?resize=1200,720"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2399066",
+          "author": "Kyle Wiggers",
+          "description": "Coalesce is a startup that offers data transformation tools geared mainly toward enterprise customers. Today the company closed a $26 million Series A funding round led by Emergence Capital with participation from 11.2 Capital and GreatPoint Ventures, bringing the company’s total raised to $31.92 million. Co-founder and CEO Armon Petrossian tells TechCrunch that the cash […]\nCoalesce lands fresh capital to transform data at ‘enterprise scale’ by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/coalesce-lands-fresh-capital-to-transform-data-at-enterprise-scale/",
+          "publishedOn": "2022-09-28T13:00:31.000Z",
+          "wordCount": 6570,
+          "title": "Coalesce lands fresh capital to transform data at ‘enterprise scale’",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2405531",
+          "author": "Kyle Wiggers",
+          "description": "Ahead of its Connect conference in October, Cloudflare this week announced an ambitious new project called Turnstile, which seeks to do away with the CAPTCHAs used throughout the web to verify people are who they say they are. Available to site owners at no charge, Cloudflare customers or no, Turnstile chooses from a rotating suite […]\nCloudflare wants to replace CAPTCHAs with Turnstile by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/cloudflare-wants-to-replace-captchas-with-turnstile/",
+          "publishedOn": "2022-09-28T13:00:30.000Z",
+          "wordCount": 7218,
+          "title": "Cloudflare wants to replace CAPTCHAs with Turnstile",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2403327",
+          "author": "Kyle Wiggers",
+          "description": "During a family trip to India, Jagadeesh Ambati was shocked by how broken the local recycling system had become. After complaining about it to his wife, she challenged him to make a change. He did, eventually, founding EverestLabs to develop an AI system to help recycling facilities recover more waste on average than they did […]\nEverestLabs raises $16.1M for AI that sorts recyclables by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/everestlabs-raises-16-1m-for-ai-that-sorts-recyclables/",
+          "publishedOn": "2022-09-28T13:00:29.000Z",
+          "wordCount": 6901,
+          "title": "EverestLabs raises $16.1M for AI that sorts recyclables",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2409785",
           "author": "Ivan Mehta",
@@ -6227,6 +6447,66 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "dy743w",
+          "author": "Hannah Docter-Loeb",
+          "description": "The technology is open-source and cheap to acquire, but its creator says it's \"a little dangerous.\"",
+          "link": "https://www.vice.com/en_us/article/dy743w/scientists-create-ai-powered-laser-turret-that-kills-cockroaches",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 4532,
+          "title": "Scientists Create AI-Powered Laser Turret That Kills Cockroaches",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633361ecde35bf009b1a994d/lede/1664312051311-untitled-design-2022-09-27t165344940.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633361ecde35bf009b1a994d/lede/1664312051311-untitled-design-2022-09-27t165344940.jpeg"
+        },
+        {
+          "id": "epz5vz",
+          "author": "Janus Rose",
+          "description": "San Francisco’s city council approved the new powers, which will allow cops to get real-time access to privately-owned cameras.",
+          "link": "https://www.vice.com/en_us/article/epz5vz/sfpd-can-now-access-surveillance-cameras-across-the-city-without-a-warrant",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 4184,
+          "title": "SFPD Can Now Access Surveillance Cameras Across the City Without a Warrant",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63334797f5756300963038aa/lede/1664305726284-gettyimages-1302715335.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63334797f5756300963038aa/lede/1664305726284-gettyimages-1302715335.jpeg"
+        },
+        {
+          "id": "88qvq3",
+          "author": "Patrick Klepek",
+          "description": "Adventurers in the online RPG 'Tibia' have been",
+          "link": "https://www.vice.com/en_us/article/88qvq3/why-it-took-25-years-for-the-video-game-tibia-to-get-sound",
+          "publishedOn": "2022-09-28T13:00:00.000Z",
+          "wordCount": 8627,
+          "title": "Why It Took 25 Years for the Video Game ‘Tibia’ to Get Sound",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63331388eb72de009817d8a8/lede/1664292095990-tibia2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63331388eb72de009817d8a8/lede/1664292095990-tibia2.png"
+        },
+        {
+          "id": "g5vw5m",
+          "author": "Pallavi Pundir",
+          "description": "Cows are considered divine and protected in India. But a deadly disease is killing thousands of them.",
+          "link": "https://www.vice.com/en_us/article/g5vw5m/cow-bomb-protest-gujrat-india-lumpy-skin-disease",
+          "publishedOn": "2022-09-28T12:59:06.000Z",
+          "wordCount": 6649,
+          "title": "Why Protesters Are ‘Cow-Bombing’ the Indian Government",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633432c7ebc3340094511e5e/lede/1664366573518-img5818.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633432c7ebc3340094511e5e/lede/1664366573518-img5818.jpeg"
+        },
         {
           "id": "dy74yw",
           "author": "Samantha Cole",
@@ -8551,6 +8831,26 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/star-wars/23375328/andor-mon-mothma-star-wars-episode-4",
+          "author": null,
+          "description": "Image: Lucasfilm\n    \n\n  \nMon Mothma isn’t a hero Cassian would respect — yet\n As we see in this week’s Andor, Mon Mothma is far from the height of her powers. Though seen only briefly in the Star Wars films, the Republic leader’s legacy looms large: She’s one of the few to stand against Supreme Chancellor Palpatine during the final days of the Republic; she secretly helped found the Rebel Alliance; and eventually she became the leader and face of the organization. But in Andor she is only partway on that journey. Here Mon Mothma is just a senator, surreptitiously working to fight against the very fascist regime she’s trapped within. \n“I feel like when we meet her in Andor she’s been fighting this fight for a long time. And I feel like she’s been getting nowhere,” Genevieve O’Reilly, who p…",
+          "link": "https://www.polygon.com/star-wars/23375328/andor-mon-mothma-star-wars-episode-4",
+          "publishedOn": "2022-09-28T13:35:00.000Z",
+          "wordCount": 2581,
+          "title": "Mon Mothama returns to Star Wars as Andor’s less-than-perfect hero",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/JzWl2yzpnHJWxNlQ3NKvvskT3CM=/769x0:3840x1608/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059881/PGM_FF_001461.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23376426/netflix-my-fathers-dragon-cartoon-saloon-trailer-release-date",
+          "author": null,
+          "description": "Image: Netflix\n    \n\n  \nFilm of classic children’s book hails from great Irish studio Cartoon Saloon and launches on Nov. 11\n Netflix has revealed the release date and first trailer for My Father’s Dragon, an animated feature based on the classic children’s book. The film, made by the great Irish animation studio Cartoon Saloon (Wolfwalkers), will be released on Nov. 11.\nMy Father’s Dragon is about a young boy called Elmer Elevator. Discomfited by a move to a new city, Elmer befriends a talking alley cat, who tells him about a baby dragon being kept captive on Wild Island. Elmer resolves to rescue the dragon — a plump thing, with blue and yellow candy stripes — and adventures to Wild Island, where he must outwit many cunning animals to reach his goal.\nIn the surreal 1948 book, written by Ruth Stiles Gannett and indelibly illustrated by her stepmother Ruth Chrisman Gannett, Elmer grows up to be the father of the book’s narrator — hence its title. Judging by the charming trailer, it seems Cartoon Saloon is keeping this conceit going with a voiceover framing device.\nThe film is directed by Cartoon Saloon co-founder Nora Twomey, who also directed two of studio’s best films — The Secret of Kells and The Breadwinner, both nominated for Oscars, and both featured in our list of the best animated movies of the 2010s. It could not have a better pedigree. The cast includes Jacob Tremblay (Room, Luca) as Elmer and Gaten Matarazzo (Stranger Things) as Boris the Dragon, as well as the likes of Dianne Wiest, Rita Moreno, Chris O’Dowd, Judy Greer, Alan Cumming, Whoopi Goldberg, and Ian McShane.\n\n  \n        \n      Image: Netflix\n  \n\n  \n        \n      Image: Netflix\n  \n\n  \n        \n      Image: Netflix\n  \n\n  \n        \n      Image: Netflix",
+          "link": "https://www.polygon.com/23376426/netflix-my-fathers-dragon-cartoon-saloon-trailer-release-date",
+          "publishedOn": "2022-09-28T13:03:11.000Z",
+          "wordCount": 2529,
+          "title": "Netflix’s adaptation of My Father’s Dragon looks gorgeous in first trailer",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bmhN85SF88GZs91MFJGycEt9RR4=/828x0:3693x1500/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061071/My_Fathers_Dragon_Image04.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23220314/deadpool-3-mcu-ryan-reynolds-hugh-jackman-wolverine",
           "author": null,
           "description": "Image: 20th Century Fox\n    \n\n  \nRyan Reynolds gives a surprising update on Deadpool’s first MCU film\n Deadpool is officially joining the Marvel Cinematic Universe with Deadpool 3, which got a teaser video on Tuesday. The video was released by Wade Wilson himself, Ryan Reynolds, and was more like a real-life tease than an actual trailer. But Reynolds reveals that Deadpool 3 is on the way, and more importantly that Hugh Jackman will be reprising his role as Wolverine for the film. The film even got a release date: Sept. 6, 2024.\nIn the clip, Reynolds explains that they’ve been working on the film for a long time now, but that they’re fresh out of ideas on how to revive the mercenary for the MCU. But they do have one trick up their sleeve, Reynolds says, and that’s when Hugh Jackman walks by…",
@@ -8927,6 +9227,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "3c6e61db-592e-4ffc-8ca2-f59a910a7de4",
+          "author": "Ryan Leston",
+          "description": "Infinity Ward has promised to improve Modern Warfare 2's footstep audio and enemy visibility, as well as other tweaks, following a successful open beta.",
+          "link": "https://www.ign.com/articles/infinity-ward-promises-to-improve-modern-warfare-2s-footstep-audio-and-enemy-visibility-following-open-beta",
+          "publishedOn": "2022-09-28T12:01:38.000Z",
+          "wordCount": 8152,
+          "title": "Infinity Ward Promises to Improve Modern Warfare 2's Footstep Audio and Enemy Visibility Following Open Beta",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/18/call-of-duty-mw2-blog-roll1-1663542836284.png?width=1280"
+        },
         {
           "id": "8beaf6fa-bba9-4e47-bb20-7f237ea9b4ac",
           "author": "Ryan Leston",
@@ -10308,6 +10618,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/autumn-is-mysterious-in-dongitsune-animated-tv-cm-for-nissin-foods",
+          "author": "Paul Chapman",
+          "description": "30 second TV spot features character designs by manga artist Eisaku Kubonouchi\n\n\nAutumn is a time for mysterious meetings in a new animated TV commercial series entitled \"Dongitsune Season 2 Autumn Edition\", which features a cute fox-spirit girl to promote Nissin Foods' \"Nissin no Donbei\" line of instant kitsune udon noodle dishes. Hit the jump to check it out.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/autumn-is-mysterious-in-dongitsune-animated-tv-cm-for-nissin-foods",
+          "publishedOn": "2022-09-28T12:23:01.000Z",
+          "wordCount": 5887,
+          "title": "Autumn is Mysterious in \"Dongitsune\" Animated TV CM for Nissin Foods",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/24975340e6e13dff1bf1d1f1caa951391664366838_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/mob-psycho-100-iii-releases-new-trailer-ahead-of-october-5-premiere",
           "author": "Daryl Harding",
@@ -12282,6 +12602,56 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-dissolves-organisation-after-centre-announces-ban/articleshow/94512664.cms",
+          "author": null,
+          "description": "The Popular Front of India (PFI) on Wednesday announced the disbanding of the organisation hours after the Centre banned the PFI and its associate outfits. \"All PFI members & public are informed that the Popular Front of India (PFI) has been dissolved. MHA has issued a notification banning PFI. As law-abiding citizens of our great country, the organisation accepts the decision,\" says Kerala state general secretary of PFI Abdul Sattar said in a statement.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-dissolves-organisation-after-centre-announces-ban/articleshow/94512664.cms",
+          "publishedOn": "2022-09-28T13:25:54.000Z",
+          "wordCount": 6244,
+          "title": "PFI dissolves organisation after Centre announces ban",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512820,width-1070,height-580,imgsize-151246,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaishankar-meets-sullivan-at-white-house-discusses-bilateral-ties-ways-to-advance-free-prosperous-indo-pacific/articleshow/94512539.cms",
+          "author": null,
+          "description": "India News: WASHINGTON: External affairs minister S Jaishankar held talks with US National Security Advisor Jake Sullivan during which they reviewed the progress .",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankar-meets-sullivan-at-white-house-discusses-bilateral-ties-ways-to-advance-free-prosperous-indo-pacific/articleshow/94512539.cms",
+          "publishedOn": "2022-09-28T13:14:45.000Z",
+          "wordCount": 6264,
+          "title": "Jaishankar meets Sullivan at White House; discusses bilateral ties & ways to advance free, prosperous Indo-Pacific",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512558,width-1070,height-580,imgsize-61744,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-how-bjp-congress-cms-reacted-on-getting-replaced/articleshow/94511771.cms",
+          "author": null,
+          "description": "The Congress is facing rebellion while replacing Ashok Gehlot as the Rajasthan chief minister. The change of guard in Punjab last year, coincidentally in September itself, was also not without internal rumblings. In contrast, the BJP has replaced as many as six CMs in five states in less than two years and all such transitions have been peaceful and smooth. In fact, the BJP CMs who were removed felt “humbled” and thanked the party leadership for giving them an opportunity to serve the organisation and their respective states.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-how-bjp-congress-cms-reacted-on-getting-replaced/articleshow/94511771.cms",
+          "publishedOn": "2022-09-28T12:59:58.000Z",
+          "wordCount": 9465,
+          "title": "Rajasthan political crisis: How BJP, Congress CMs reacted on getting replaced",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94511959,width-1070,height-580,imgsize-39242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms",
+          "author": null,
+          "description": "Madhya Pradesh Congress chief Kamal Nath on Wednesday said he does not want to contest the election for the post of party chief because he wishes to focus on the state assembly elections scheduled next year. Addressing a press conference, the former Madhya Pradesh chief minister said that the elections for the Congress president's post are being held because Rahul Gandhi refused to take up the party's reins.",
+          "link": "https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms",
+          "publishedOn": "2022-09-28T12:27:11.000Z",
+          "wordCount": 6051,
+          "title": "Not keen on becoming Congress president: Kamal Nath",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94511204,width-1070,height-580,imgsize-41676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/extension-of-free-ration-scheme-will-benefit-crores-of-people-ensure-support-in-festive-season-pm/articleshow/94510566.cms",
+          "author": null,
+          "description": "Prime Minister Narendra Modi on Wednesday said the Union Cabinet decision to extend the scheme, under which over 80 crore people have been getting free ration, will ensure support to them during the festive season.",
+          "link": "https://timesofindia.indiatimes.com/india/extension-of-free-ration-scheme-will-benefit-crores-of-people-ensure-support-in-festive-season-pm/articleshow/94510566.cms",
+          "publishedOn": "2022-09-28T12:11:54.000Z",
+          "wordCount": 5871,
+          "title": "Extension of free ration scheme will benefit crores of people, ensure support in festive season: PM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94510767,width-1070,height-580,imgsize-83134,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/no-link-between-heart-dysfunction-and-covid-booster-vaccines-in-india-experts/articleshow/94509625.cms",
           "author": null,
@@ -15514,6 +15884,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "author": null,
+          "description": "Lt General Anil Chauhan (Retired) has been appointed as the Chief of Defence Staff (CDS), nearly 10 months after the death of CDS General Bipin Rawat in a helicopter crash.As CDS, Lt Gen Chauhan will function as secretary to government of India, department of military affairs, the defence ministry said.Born on May 18, 1961, Lt Gen Anil Chauhan was commissioned into the 11 Gorkha Rifles of the Indian Army in 1981.",
+          "link": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "publishedOn": "2022-09-28T13:27:41.000Z",
+          "wordCount": 6044,
+          "title": "Lt General Anil Chauhan (Retired) named India's new Chief of Defence Staff",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512829,width-1070,height-580,imgsize-20280,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-dissolves-organisation-after-centre-announces-ban/articleshow/94512664.cms",
+          "author": null,
+          "description": "The Popular Front of India (PFI) on Wednesday announced the disbanding of the organisation hours after the Centre banned the PFI and its associate outfits. \"All PFI members & public are informed that the Popular Front of India (PFI) has been dissolved. MHA has issued a notification banning PFI. As law-abiding citizens of our great country, the organisation accepts the decision,\" says Kerala state general secretary of PFI Abdul Sattar said in a statement.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-dissolves-organisation-after-centre-announces-ban/articleshow/94512664.cms",
+          "publishedOn": "2022-09-28T13:25:54.000Z",
+          "wordCount": 6244,
+          "title": "PFI dissolves organisation after Centre announces ban",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512820,width-1070,height-580,imgsize-151246,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-how-bjp-congress-cms-reacted-on-getting-replaced/articleshow/94511771.cms",
+          "author": null,
+          "description": "The Congress is facing rebellion while replacing Ashok Gehlot as the Rajasthan chief minister. The change of guard in Punjab last year, coincidentally in September itself, was also not without internal rumblings. In contrast, the BJP has replaced as many as six CMs in five states in less than two years and all such transitions have been peaceful and smooth. In fact, the BJP CMs who were removed felt “humbled” and thanked the party leadership for giving them an opportunity to serve the organisation and their respective states.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-how-bjp-congress-cms-reacted-on-getting-replaced/articleshow/94511771.cms",
+          "publishedOn": "2022-09-28T12:59:58.000Z",
+          "wordCount": 9465,
+          "title": "Rajasthan crisis: How BJP, Cong CMs reacted to getting replaced",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94511959,width-1070,height-580,imgsize-39242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms",
+          "author": null,
+          "description": "Madhya Pradesh Congress chief Kamal Nath on Wednesday said he does not want to contest the election for the post of party chief because he wishes to focus on the state assembly elections scheduled next year. Addressing a press conference, the former Madhya Pradesh chief minister said that the elections for the Congress president's post are being held because Rahul Gandhi refused to take up the party's reins.",
+          "link": "https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms",
+          "publishedOn": "2022-09-28T12:27:11.000Z",
+          "wordCount": 6051,
+          "title": "Not keen on becoming Congress president: Kamal Nath",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94511204,width-1070,height-580,imgsize-41676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-today-match-2022-live-cricket-score-updates/liveblog/94508221.cms",
           "author": null,
           "description": "India will be looking to round off their T20 World Cup preparation with a marked improvement in their death bowling besides providing crucial game time to their untested players in the three-match series against South Africa, beginning today. Get live cricket score updates of match between India vs South Africa. Check live scorecard, ball by ball commentary, cricket score online on Times of India.",
@@ -15532,6 +15942,16 @@
           "wordCount": 11012,
           "title": "10 crucial tests to diagnose heart problems",
           "imageUrl": "https://static.toiimg.com/photo/msid-94505443.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/palghar-three-feared-dead-in-explosion-due-to-boiler-failure/articleshow/94507528.cms",
+          "author": null,
+          "description": "Police personnel and officials form fire brigade have rushed to the spot.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/palghar-three-feared-dead-in-explosion-due-to-boiler-failure/articleshow/94507528.cms",
+          "publishedOn": "2022-09-28T10:28:47.000Z",
+          "wordCount": 4943,
+          "title": "3 killed, 8 injured in explosion at Maha's Naigaon company",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94507580,width-1070,height-580,imgsize-105596,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
