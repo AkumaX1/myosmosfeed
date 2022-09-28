@@ -939,6 +939,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/business/economy/bank-of-england-bonds.html",
+          "author": "Eshe Nelson",
+          "description": "The purchases will be carried out “on whatever scale is necessary,” the central bank said.",
+          "link": "https://www.nytimes.com/2022/09/28/business/economy/bank-of-england-bonds.html",
+          "publishedOn": "2022-09-28T10:39:34.000Z",
+          "wordCount": null,
+          "title": "Bank of England to Buy Bonds to Restore ‘Orderly’ Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html",
+          "author": "David Leonhardt",
+          "description": "Who should get a Covid booster, and when? We answer the big questions.",
+          "link": "https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html",
+          "publishedOn": "2022-09-28T10:37:46.000Z",
+          "wordCount": null,
+          "title": "Covid Boosters",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html",
           "author": "Andrés R. Martínez",
           "description": "Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.",
@@ -946,6 +966,16 @@
           "publishedOn": "2022-09-28T10:00:34.000Z",
           "wordCount": null,
           "title": "Cuba Starts Restoring Power After Hurricane Ian Causes Blackout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/podcasts/the-daily/iran-protests-women.html",
+          "author": "Michael Barbaro, Rachelle Bonja, Eric Krupke, Mooj Zadie, Nina Feldman, Lisa Chow, Liz O. Baylen, Marion Lozano, Brad Fisher and Chris Wood",
+          "description": "The fury unleashed by the death in police custody of 22-year-old Mahsa Amini has fueled protests and condemnation.",
+          "link": "https://www.nytimes.com/2022/09/28/podcasts/the-daily/iran-protests-women.html",
+          "publishedOn": "2022-09-28T10:00:05.000Z",
+          "wordCount": null,
+          "title": "An Uprising Led by Women Shakes Iran",
           "imageUrl": null
         },
         {
@@ -1256,6 +1286,26 @@
           "publishedOn": "2022-09-27T21:21:49.000Z",
           "wordCount": null,
           "title": "The Gottmans’ New Book Tries to Fix Your Marriage In 7 Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/style/casa-cruz-private-social-club-new-york.html",
+          "author": "Bob Morris",
+          "description": "Casa Cruz, a London celebrity hangout, opens on the Upper East Side.",
+          "link": "https://www.nytimes.com/2022/09/27/style/casa-cruz-private-social-club-new-york.html",
+          "publishedOn": "2022-09-27T20:32:03.000Z",
+          "wordCount": null,
+          "title": "Casa Cruz: $250,000 to Join this Private Playground",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/dining/three-spots-to-try-if-you-dont-mind-a-line.html",
+          "author": "Nikita Richardson",
+          "description": "Join the queue for tacos, circular croissants and chile chicken.",
+          "link": "https://www.nytimes.com/2022/09/27/dining/three-spots-to-try-if-you-dont-mind-a-line.html",
+          "publishedOn": "2022-09-27T20:12:24.000Z",
+          "wordCount": null,
+          "title": "Three Spots to Try if You Don’t Mind a Line",
           "imageUrl": null
         },
         {
@@ -3610,6 +3660,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noah-russia-sham-referendums.html",
+          "author": "Trish Bendix",
+          "description": "“I mean, it is one thing to conquer a town and blow up their buildings but to make them do paperwork? There is evil and then there’s evil,” Noah said.",
+          "link": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noah-russia-sham-referendums.html",
+          "publishedOn": "2022-09-28T05:57:02.000Z",
+          "wordCount": null,
+          "title": "Trevor Noah’s Take on Russia’s Sham Referendums in Ukraine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/arts/television/trevor-noahs-take-on-russias-sham-referendums-in-ukraine.html",
           "author": "Trish Bendix",
           "description": "“I mean, it is one thing to conquer a town and blow up their buildings but to make them do paperwork? There is evil and then there’s evil,” Noah said.",
@@ -4770,6 +4830,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2409202",
+          "author": "Tim De Chant",
+          "description": "Moxion has a deal with Sunbelt Rentals to provide battery generators for construction sites, film locations, concert venues, and more.\nMoxion nails $100M Series B to replace noxious diesel generators with silent batteries by Tim De Chant originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/moxion-nails-100m-series-b-to-replace-noxious-diesel-generators-with-silent-batteries/",
+          "publishedOn": "2022-09-28T11:00:51.000Z",
+          "wordCount": 6366,
+          "title": "Moxion nails $100M Series B to replace noxious diesel generators with silent batteries",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/moxion-power-battery-generator.jpg?resize=1200,645"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409684",
+          "author": "Carly Page",
+          "description": "U.S. business publication Fast Company has confirmed that a hacker breached its internal systems to send offensive push notifications to Apple News users.  In a statement, Fast Company said that a threat actor breached the company’s content management system (CMS) on Tuesday, giving them access to the publication’s Apple News account. The hacker used this […]\nHacker breaches Fast Company systems to send offensive Apple News notifications by Carly Page originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/hacker-breaches-fast-company-systems-to-send-offensive-apple-news-notifications/",
+          "publishedOn": "2022-09-28T10:31:22.000Z",
+          "wordCount": 6862,
+          "title": "Hacker breaches Fast Company systems to send offensive Apple News notifications",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/02/apple-news-ios-icon.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409758",
+          "author": "Ingrid Lunden",
+          "description": "Higher education, at its best, aims to be less elitist and more accessible to people from all walks of life. Today, a startup called Ocelot is announcing a big round of funding to build more tools to help in that effort. The company, which provides an AI-based platform to facilitate easier communications between universities and […]\nOcelot, an engagement platform aimed at college students, raises $117M in its first outside funding by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/ocelot-an-engagement-platform-aimed-at-college-students-raises-117m-in-its-first-outside-funding/",
+          "publishedOn": "2022-09-28T10:19:11.000Z",
+          "wordCount": 7514,
+          "title": "Ocelot, an engagement platform aimed at college students, raises $117M in its first outside funding",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409630",
+          "author": "Ivan Mehta",
+          "description": "Apple’s new iPhone 14 lineup isn’t proving to be as popular as the company would have hoped for. So it is readjusting its production targets by cutting down additional orders for the device. A report from Bloomberg notes that the Cupertino-based tech company produced around 90 million units in the second half of the last […]\nApple reportedly readjusts iPhone 14 production targets after slow demand by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/apple-reportedly-readjusts-iphone-14-production-targets-after-slow-demand/",
+          "publishedOn": "2022-09-28T10:14:39.000Z",
+          "wordCount": 6649,
+          "title": "Apple reportedly readjusts iPhone 14 production targets after slow demand",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Apple-iphone-14-Pro-review-1.jpeg?resize=1200,900"
+        },
         {
           "id": "https://techcrunch.com/?p=2408029",
           "author": "Aisha Malik",
@@ -6078,6 +6178,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "jgpq9p",
+          "author": "Ed Szymanski",
+          "description": "Deep-fry your fresh catch in a super crispy beer and vodka batter, then serve alongside thrice-cooked potato wedges in this British classic.",
+          "link": "https://www.vice.com/en_us/article/jgpq9p/crispy-fish-and-chips-recipe",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 3996,
+          "title": "Crispy Fish & Chips Recipe",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/62bf0b87f51a3e009459307d/lede/1656687642353-dame-fish-chips-recipe.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/62bf0b87f51a3e009459307d/lede/1656687642353-dame-fish-chips-recipe.jpeg"
+        },
+        {
+          "id": "m7gp7v",
+          "author": "Melissa Chan",
+          "description": "“I’m not really good at shooting.”",
+          "link": "https://www.vice.com/en_us/article/m7gp7v/taiwan-defense-china-invasion-conscripts",
+          "publishedOn": "2022-09-28T10:43:14.000Z",
+          "wordCount": 14823,
+          "title": "They Were Trained to Defend Taiwan From China. They Aren’t Sure They Can.",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63342003d18e93009f8f734d/lede/1664361420945-00032cq2qr.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63342003d18e93009f8f734d/lede/1664361420945-00032cq2qr.jpeg"
+        },
+        {
           "id": "93ankv",
           "author": "Gavin Butler",
           "description": "“If you ever want to get rid of anybody, feed them to the wild pigs because they don’t leave anything, not even the bones,” the Australian man allegedly told colleagues.",
@@ -6954,6 +7084,26 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/recode/2022/9/28/23375712/chips-semiconductors-china-taiwan-conflict",
+          "author": null,
+          "description": "Getty Images/iStockphoto\n    \n\n  \nComputer chips are ubiquitous, but they’re only made in a few places. \n In a single day, we interact with hundreds of computer chips, most no larger than a penny. These tiny circuits power everything from smartphones and laptops to medical devices and electric vehicles, and they’re largely responsible for our increasingly computerized lives. But in recent months, the world’s dependence on these chips has also put them at the center of mounting tensions between the United States and mainland China over Taiwan. \nTaiwan is located just 100 miles from China’s eastern coast, and it produces the vast majority of the advanced chips used in today’s electronics. The island is a democracy with its own government, and is home to more than 20 million people. Officials…",
+          "link": "https://www.vox.com/recode/2022/9/28/23375712/chips-semiconductors-china-taiwan-conflict",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 4203,
+          "title": "Chips are the new oil. There are no reserves.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/S0kDczeRvrIUGUTpg9fXfeSnu8w=/0x251:3504x2086/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059984/GettyImages_184093059.jpg"
+        },
+        {
+          "id": "https://www.vox.com/culture/2022/9/28/23375169/pop-culture-gender-war-stories-dont-worry-darling-barbarian",
+          "author": null,
+          "description": "Florence Pugh and Harry Styles star as a couple in a strange, 1950s-style suburban paradise in Don’t Worry Darling. | Warner Bros.\n    \n\n  \nDon’t Worry Darling and Barbarian want us to remember gender is scary.\n In most respects, the recent films Don’t Worry Darling and Barbarian could not be more different. \nDarling, directed by Olivia Wilde, is a glossy period piece, set in a 1950s desert town where nothing is quite what it seems. It has opulent production values, plenty of well-known stars, and a premise straight out of a Black Mirror episode. \nBarbarian, directed by Zach Cregger, is a pitch-black horror-comedy, set in a modern-day Detroit that is riddled with maze-like tunnels running underneath the city. For much of its run time, it focuses on just two actors, and its production value…",
+          "link": "https://www.vox.com/culture/2022/9/28/23375169/pop-culture-gender-war-stories-dont-worry-darling-barbarian",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 5365,
+          "title": "Pop culture loves gender war stories. They leave something out.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/01Ns2s872FFJ7epjcFde2m5Cb94=/0x0:1391x728/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24059141/dontworrydarling.jpg"
+        },
         {
           "id": "https://www.vox.com/recode/2022/9/28/23375164/advertising-slow-growth-economy-digital-facebook-apple-snap",
           "author": null,
@@ -8683,6 +8833,26 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "908faf5c-b21d-43c1-b664-693901c06ec5",
+          "author": "Ryan Leston",
+          "description": "A new feature in FIFA 23 allows you to turn off critical commentary, removing the more critical voiceovers when you make a terrible, terrible mistake.",
+          "link": "https://www.ign.com/articles/fifa-23-will-let-you-disable-commentary-criticizing-your-play",
+          "publishedOn": "2022-09-28T09:23:05.000Z",
+          "wordCount": 7677,
+          "title": "FIFA 23 Will Let You Disable Commentary Criticizing Your Play",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/07/25/fifa23juveofficialgampelaytrailer-ign-blogroll-1658762766037.jpg?width=1280"
+        },
+        {
+          "id": "07b3ded0-5c33-46fd-a4ba-30f2c86cf546",
+          "author": "Luke Reilly",
+          "description": "An unapologetically tricky ode to street skating, Session is packed with a palpable love for the sport, but bugs and unsympathetic tutorial and mission design decisions undermine its approachability.",
+          "link": "https://www.ign.com/articles/session-skate-sim-review",
+          "publishedOn": "2022-09-28T08:52:00.000Z",
+          "wordCount": 11155,
+          "title": "Session: Skate Sim Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/session-blogroll-1-1664344183845.png?width=1280"
+        },
+        {
           "id": "ee67f748-124a-4b1e-aac7-ae60b5c0862a",
           "author": "Dan Stapleton",
           "description": "",
@@ -10033,6 +10203,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/lisa-claris-queendom-and-more-to-perform-in-nhk-world-japans-songs-of-tokyo-music-festival",
+          "author": "Daryl Harding",
+          "description": "The event will be broadcast on NHK World Japan starting November 5\n\n\nThe annual Songs of Tokyo Music pop-music festival returns again this year with an in-person audience, bringing all the latest music from anime and Japanese pop culture to NHK’s international channel NHK World Japan. The channel revealed the full line-up tonight and can be found after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28-1/lisa-claris-queendom-and-more-to-perform-in-nhk-world-japans-songs-of-tokyo-music-festival",
+          "publishedOn": "2022-09-28T10:24:10.000Z",
+          "wordCount": 6061,
+          "title": "LiSA, ClariS, QUEENDOM and More to Perform in NHK World Japan’s Songs of Tokyo Music Festival",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/77050036be1978b3edf9bca814f67ba91664360630_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28-1/life-is-tough-in-the-newest-mob-psycho-100-iii-tv-anime-trailer",
           "author": "Daryl Harding",
@@ -11957,6 +12137,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-ec-on-pil-seeking-to-debar-persons-charged-in-serious-offences-from-contesting-elections/articleshow/94507789.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court Wednesday sought responses from the Centre and the Election Commission on a plea to debar persons against whom charges ha.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-notice-to-centre-ec-on-pil-seeking-to-debar-persons-charged-in-serious-offences-from-contesting-elections/articleshow/94507789.cms",
+          "publishedOn": "2022-09-28T10:33:55.000Z",
+          "wordCount": 5751,
+          "title": "SC notice to Centre, EC on PIL seeking to debar persons charged in serious offences from contesting elections",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/silence-is-better-at-times-says-professor-whose-palm-was-chopped-off-by-pfi-activists/articleshow/94507536.cms",
+          "author": null,
+          "description": "India News: KOCHI: Professor TJ Joseph, whose hand was chopped off by the activists of Popular Front of India (PFI) for alleged blasphemy 12 years ago, on Wednesd.",
+          "link": "https://timesofindia.indiatimes.com/india/silence-is-better-at-times-says-professor-whose-palm-was-chopped-off-by-pfi-activists/articleshow/94507536.cms",
+          "publishedOn": "2022-09-28T10:30:01.000Z",
+          "wordCount": 6347,
+          "title": "Silence is better at times, says professor whose palm was chopped off by PFI activists",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94507672,width-1070,height-580,imgsize-19728,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-ban-seizure-of-properties-freezing-of-bank-accounts-to-follow/articleshow/94507037.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The notification banning the Popular Front of India (PFI) under the stringent anti-terror law UAPA will be followed by a number of actions .",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-ban-seizure-of-properties-freezing-of-bank-accounts-to-follow/articleshow/94507037.cms",
+          "publishedOn": "2022-09-28T10:07:23.000Z",
+          "wordCount": 6709,
+          "title": "PFI ban: Seizure of properties, freezing of bank accounts to follow",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94507022,width-1070,height-580,imgsize-217786,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/avoid-border-area-with-pakistan-in-gujarat-punjab-and-rajasthan-says-new-canadian-travel-advisory-for-india/articleshow/94506517.cms",
           "author": null,
@@ -15119,6 +15329,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/10-crucial-tests-to-diagnose-heart-problems/photostory/94504952.cms",
+          "author": null,
+          "description": "When it comes to heart diseases, we are so less informed that sometimes it deprives us from the right information and even the right medical assessment and treatment. Adequate knowledge on major diseases, will give you enough scopes to look out for help.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/10-crucial-tests-to-diagnose-heart-problems/photostory/94504952.cms",
+          "publishedOn": "2022-09-28T10:30:00.000Z",
+          "wordCount": 11012,
+          "title": "10 crucial tests to diagnose heart problems",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94505443.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/govt-extends-free-ration-scheme-for-next-three-months/articleshow/94506447.cms",
           "author": null,
           "description": "The government on Wednesday extended the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme to provide free ration to the poor for the next three months. \"Free ration to 80 crore for three more months till December 2022 to cost Rs 44,700 crore,\" Union minister Anurag Thakur said.",
@@ -15207,6 +15427,16 @@
           "wordCount": 6110,
           "title": "Shreyas Iyer, Umesh Yadav and Shahbaz Ahmed added to T20I squad",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94501962,width-1070,height-580,imgsize-84340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-swaps-6-finance-ministers-in-4-years-to-stem-crisis/articleshow/94501170.cms",
+          "author": null,
+          "description": "Ishaq Dar, an accountant by profession, will be helming the office for the fourth time and replaces Miftah Ismail. He will be tasked with reversing the course of the nation’s current economic predicament amid challenges such as low growth, high inflation and foreign-exchange reserves standing below the standard benchmark of three months of imports.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-swaps-6-finance-ministers-in-4-years-to-stem-crisis/articleshow/94501170.cms",
+          "publishedOn": "2022-09-28T07:21:06.000Z",
+          "wordCount": 8033,
+          "title": "Pakistan swaps 6 finance ministers in 4yrs to stem crisis",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501126,width-1070,height-580,imgsize-48910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/auto/electric-cars/tata-tiago-ev-launched-specs-range-price-of-most-affordable-electric-car-in-india/articleshow/94498729.cms",
