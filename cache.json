@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results",
+          "author": null,
+          "description": "The company’s “been exploring new ways to make” the info you want easier to find. | Illustration: The Verge\n    \n\n  \nGoogle may be trying to reinvent the way we search in the future and expanding access to its impressive multisearch feature, but perhaps one of its most exciting announcements from today is a feature it’s calling “discussions and forums.” The idea is simple: whenever you do a Google search that it thinks could be an open-ended question, it’ll pop up a box full of results from “a variety of popular forums and online discussions across the web.” An example in its blog post shows results from Reddit, Quora, and Edmunds showing up when the user searches “best car for big family.”\nIt’s more or less a meme at this point that you have to add “reddit” to a search if you want to find…",
+          "link": "https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results",
+          "publishedOn": "2022-09-28T21:23:49.000Z",
+          "wordCount": 8577,
+          "title": "Google will help you find better results without tagging ‘Reddit’ onto every search",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23375741/google-pixel-7-pro-watch-smartwatch-nest-news-announcements",
           "author": null,
           "description": "Expect to learn more about the Pixel 7 and Pixel Watch at the next Made by Google event. | Image: Google\n    \n\n  \nGoogle will finally be sharing more about the Pixel 7 and Pixel Watch at its next Made by Google event\n Google is hosting its next Made by Google launch event on October 6th, where it plans to announce details about the Pixel 7, Pixel 7 Pro, Pixel Watch, and new devices from Nest. There will be an in-person event happening in New York City, but the company is also livestreaming the show from its Made by Google YouTube channel.\nGoogle has already revealed the designs of the smartphones and the Pixel Watch, so we expect that the company will share a lot more about what’s under the hood for those devices (like the new Tensor chip for the Pixel phones) as well as any new software features. What’s coming for Nest is a bit more of a mystery, but leaks indicate that one product we might see is a new Nest Wifi Pro.\nCatch up with all of our coverage of what’s coming and what’s announced right here. The event kicks off at 10AM ET on October 6th.",
@@ -1388,6 +1398,36 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html",
+          "author": "Stanley Reed",
+          "description": "The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.",
+          "link": "https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html",
+          "publishedOn": "2022-09-28T21:56:23.000Z",
+          "wordCount": null,
+          "title": "What We Know About the Mysterious Pipeline Leaks Between Russia and Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/nyregion/redlining-is-racist-12-million-settlement-ends-lending-inquiry.html",
+          "author": "Tracey Tully",
+          "description": "Lakeland Bank in New Jersey admitted no wrongdoing, but agreed to set up a $12 million homeownership fund and open two new branches in minority neighborhoods.",
+          "link": "https://www.nytimes.com/2022/09/28/nyregion/redlining-is-racist-12-million-settlement-ends-lending-inquiry.html",
+          "publishedOn": "2022-09-28T21:55:30.000Z",
+          "wordCount": null,
+          "title": "‘Redlining Is Racist’: $12 Million Settlement Ends Lending Inquiry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it",
+          "author": "Katrin Bennhold and David E. Sanger",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it",
+          "publishedOn": "2022-09-28T21:15:14.000Z",
+          "wordCount": null,
+          "title": "A mystery hovers over the apparent sabotage of two undersea gas pipelines: Did Russia do it?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/well/live/dense-breasts.html",
           "author": "Dani Blum",
@@ -4330,6 +4370,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/us/lizzo-james-madison-flute.html",
+          "author": "Michael Levenson",
+          "description": "A classically trained flutist, the singer, rapper and songwriter spent more than three hours admiring the flute collection at the Library of Congress. Madison’s instrument was made for the second inauguration by a Parisian craftsman.",
+          "link": "https://www.nytimes.com/2022/09/28/us/lizzo-james-madison-flute.html",
+          "publishedOn": "2022-09-28T21:58:47.000Z",
+          "wordCount": null,
+          "title": "Lizzo Plays New Notes on James Madison’s Crystal Flute from 1813",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html",
           "author": "Neil Genzlinger",
           "description": "In 1960 she originated the lone female role in an Off Broadway show that became part of theater history thanks to a record-setting run.",
@@ -4816,6 +4866,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234598912",
+          "author": "Jon Blistein",
+          "description": "Anthony Martini, who signed FN Meka to his virtual label Factory New, used the slur liberally on albums released by his band E.Town Concrete — and rapped them live as recently as 2018",
+          "link": "https://www.rollingstone.com/music/music-news/anthony-martini-fn-meka-e-town-concrete-n-word-lyrics-1234598912/",
+          "publishedOn": "2022-09-28T21:15:49.000Z",
+          "wordCount": 9769,
+          "title": "White Guy Involved With Controversial A.I. Rapper FN Meka Frequently Used the N-Word in Old Hardcore Band Lyrics",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/08/fnmeka-press-compressedc.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601857",
           "author": "Daniel Kreps",
@@ -5484,6 +5544,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234601868",
+          "author": "Tomás Mier",
+          "description": "I Love You, You Hate Me delves into the death threats and strange drug rumors made about the kids' show",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/barney-docuseries-peacock-trailer-1234601868/",
+          "publishedOn": "2022-09-28T21:28:28.000Z",
+          "wordCount": 9299,
+          "title": "Not a Big Happy Family: ‘Barney’ Doc Explores the Hatred and Threats the Show Faced",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/barney-dinosaur-doc2.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234596842",
           "author": "David Browne",
           "description": "'Nothing Compares' examines how the Irish musician paved the way for so many women's rights issues — and was completely run over in the process.",
@@ -5820,6 +5890,66 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2411000",
+          "author": "Christine Hall",
+          "description": "To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. With almost a hundred new stories on the site since the last Daily Crunch, we’re having a hard time picking the cream of the crop, but that’s what we dooooo. It’s been […]\nDaily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/daily-crunch-fast-company-hacker-sends-2-obscene-and-racist-notifications-to-apple-news-users/",
+          "publishedOn": "2022-09-28T22:05:15.000Z",
+          "wordCount": 8447,
+          "title": "Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/02/apple-news-ios-icon.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2404087",
+          "author": "Lauren Simonds",
+          "description": "We’re beyond amazed at the collective creativity, ingenuity and technical prowess of the Startup Battlefield 200. Out of thousands of applications, only 200 early-stage startups made the final cut, and you’ll find all of them — and only them — exhibiting on the TechCrunch Disrupt show floor on October 18-20 in San Francisco. That’s a […]\nThe Startup Battlefield 200: Hardware, Robotics, AI+ML & Mobility + Transportation by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/the-startup-battlefield-200-hardware-robotics-aiml-mobility-transportation/",
+          "publishedOn": "2022-09-28T22:00:04.000Z",
+          "wordCount": 6922,
+          "title": "The Startup Battlefield 200: Hardware, Robotics, AI+ML & Mobility + Transportation",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/mobility_transport.png"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2411083",
+          "author": "Aria Alamalhodaei",
+          "description": "Florida’s Space Coast continues to make preparations for the extremely powerful and slow-moving Hurricane Ian, with officials rolling rockets back to the safety of hangars and delaying launches until the storm passes. The massive storm made landfall near Fort Myers Wednesday afternoon, coming in at just a few miles per hour shy of the Category […]\nFlorida’s Space Coast braces for Hurricane Ian by Aria Alamalhodaei originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/floridas-space-coast-braces-for-hurricane-ian/",
+          "publishedOn": "2022-09-28T21:27:17.000Z",
+          "wordCount": 7378,
+          "title": "Florida’s Space Coast braces for Hurricane Ian",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/03A38651-BA94-48BA-95E1-4F1845CE49B4.jpeg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408236",
+          "author": "Christine Hall",
+          "description": "Digital mortgage lender Better.com continues to lay off staff, and seemingly in as callous a way as possible. Indeed, whereas most companies try to avoid repeated layoffs, the outfit — which gained notoriety by laying off about 900 employees over Zoom on December 1, 2021 — has since been laying off smaller groups very systematically, […]\nInside the human cost of Better.com’s brutal layoffs by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/better-com-employees-detail-their-experiences/",
+          "publishedOn": "2022-09-28T21:25:41.000Z",
+          "wordCount": 12377,
+          "title": "Inside the human cost of Better.com’s brutal layoffs",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/better-com-layoffs-alt.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2410547",
+          "author": "Amanda Silberling",
+          "description": "After a weeks-long suspension, Pornhub’s account has been permanently removed from Instagram. Instagram told TechCrunch that Pornhub has repeatedly violated community guidelines, prompting the account’s removal. Meanwhile, Pornhub declared in an open letter to Meta and Instagram that Instagram’s enforcement of these platform rules are “opaque, discriminatory and hypocritical.” Addressed to four Meta executives, including […]\nInstagram permanently disabled Pornhub’s account by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/instagram-permanently-disabled-pornhubs-account/",
+          "publishedOn": "2022-09-28T21:24:07.000Z",
+          "wordCount": 7390,
+          "title": "Instagram permanently disabled Pornhub’s account",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/pornhub-glitch.png?resize=1200,716"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2411110",
+          "author": "Jaclyn Trop",
+          "description": "Porsche plans to go public on Thursday at a $73 billion valuation, catapulting the company to become the world’s fourth-most valuable automaker and netting billions of dollars for parent company Volkswagen to advance its drive toward electric vehicles. The initial public offering for Porsche AG on the Frankfurt Stock Exchange values the brand at $79 […]\nPorsche to IPO in landmark listing Thursday by Jaclyn Trop originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/porsche-to-ipo-in-landmark-listing-thursday/",
+          "publishedOn": "2022-09-28T21:18:56.000Z",
+          "wordCount": 6618,
+          "title": "Porsche to IPO in landmark listing Thursday",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/Porsche-Taycan-Turbo-S-1.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2410981",
           "author": "Rebecca Bellan",
@@ -7868,6 +7998,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "3aq353",
+          "author": "Rec Room Staff",
+          "description": "If you've been waiting all year for an opportunity to dress your dog as Bette Midler or your snake as a wizard, great news: It's time!",
+          "link": "https://www.vice.com/en_us/article/3aq353/the-best-pet-halloween-costumes-for-cute-dogs-cats",
+          "publishedOn": "2022-09-28T21:45:00.000Z",
+          "wordCount": 9418,
+          "title": "The Best Pet Halloween Costumes, From Cute to Weird to Terrifying",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/615beed7879fb2009d0eec98/lede/1633416928186-best-pet-costumes.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/615beed7879fb2009d0eec98/lede/1633416928186-best-pet-costumes.jpeg"
+        },
+        {
+          "id": "5d3w5z",
+          "author": "Nicolette Accardi",
+          "description": "The magic of the Airwrap is that it uses air pressure, rather than heat, to give you a professional-level blowout at home.",
+          "link": "https://www.vice.com/en_us/article/5d3w5z/dyson-airwrap-review",
+          "publishedOn": "2022-09-28T21:21:33.000Z",
+          "wordCount": 8041,
+          "title": "Once and For All: Is the Dyson Airwrap Worth It?",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633498b40b7b1a0094af8f3d/lede/1664392051359-airwrap-1-copy.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633498b40b7b1a0094af8f3d/lede/1664392051359-airwrap-1-copy.jpeg"
+        },
+        {
           "id": "y3p53y",
           "author": "Annabel Gat",
           "description": "Venus enters Libra and the moon is in Scorpio.",
@@ -9487,6 +9647,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849593724",
+          "author": "Claire Jackson",
+          "description": "EA and Koei Tecmo are teaming up to create a Monster Hunter-style experience with Wild Hearts, they revealed today. A two-and-a-half minute debut trailer shows off lush environments, intimidating encounters, and some cool weaponry. The game also looks to be taking cues from Koei Tecmo’s monster-hunting Toukiden…\nRead more...",
+          "link": "https://kotaku.com/koei-tecmo-ea-toukiden-monster-hunter-wild-hearts-1849593724",
+          "publishedOn": "2022-09-28T21:35:00.000Z",
+          "wordCount": 5789,
+          "title": "It's Like Next-Gen Monster Hunter, Except EA Is Making It",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a45d91b1aa3cf730375750d8606c2efe.jpg"
+        },
+        {
+          "id": "1849593604",
+          "author": "Zack Zwiezen",
+          "description": "The year is wrapping up, and that means we’re nearing the busiest time for video game releases. And even though covid-19 has thrown a wrench in the entire industry and led to numerous delays, a few big games are still launching in the next few weeks. But if you want to enjoy them, you’ll need to fork over 70 bucks (or…\nRead more...",
+          "link": "https://kotaku.com/70-dollar-games-60-ubisoft-ea-gotham-knights-ps5-xbox-1849593604",
+          "publishedOn": "2022-09-28T21:25:00.000Z",
+          "wordCount": 5940,
+          "title": "The Era Of $70 Games Truly Begins This Fall",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/637dea99255e010b95764a78c69c0c4a.jpg"
+        },
+        {
           "id": "1849593471",
           "author": "Ethan Gach",
           "description": "Razer teased a new 5G gaming handheld made in collaboration with Verizon and Qualcomm today. It joins the growing list of Switch-inspired devices taking advantage of Game Pass and other video game streaming libraries. Because in 2022 everyone’s betting on the successor to the PS Vita that Sony never made. What’s dead…\nRead more...",
@@ -10363,6 +10543,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23377150/genshin-impact-serenitea-pot-update-realm-within",
+          "author": null,
+          "description": "Image: Hoyoverse via Polygon\n    \n\n  \nNo more using glitches to pull off your designs\n Genshin Impact is more than just an open-world exploration game. In addition to sweeping quests across its massive map, the game also lets you decorate buildings, plants, landmarks and more, in a separate realm called the Serenitea Pot (also known as the Realm Within). It’s a detailed decorating simulator, and a change introduced in the 3.1 patch made it even better by allowing players to overlap decorations. \nThe seemingly small change makes a big impact for fans who are super into decorating since it allows for more flexibility. Before this patch, items could not be placed closed together, and instead required a varying amounts of space as a buffer. To get around this, fans had to exploit a shaking glitch where they would wiggle around decorations before placing. The glitch would allow players to place the items within the radius of other decorations. Now, that’s no longer an issue, and players can decorate to their heart’s content. \n  @tikolatte \nShaking glitch is no more! #sereniteapot #genshinteleport #hoyoversecreators \n ♬ End Of Line but better - MothMom • Dingus \n  \n\nGenshin Impact has loads of different options for players — some people focus on exploration, others focus on building strong characters, and some focus almost exclusively on decorating their teapot. Known in the community as “teapot mains,” this group of players almost immediately picked up on the change. Now, it’ll be a lot easier for hardcore decorators and casual designers alike to design the Genshin Impact realm of their dreams.",
+          "link": "https://www.polygon.com/23377150/genshin-impact-serenitea-pot-update-realm-within",
+          "publishedOn": "2022-09-28T21:11:31.000Z",
+          "wordCount": 2110,
+          "title": "Genshin Impact’s new update is a game changer for teapot decorators",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/CRqUQK9cOcp0t_sa9eXytfJb99c=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062334/20220928130732.png"
+        },
         {
           "id": "https://www.polygon.com/23377128/activision-qa-workers-voice-summit-osha-doj",
           "author": null,
@@ -13886,6 +14076,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/india-wants-a-relationship-of-mutual-sensitivity-mutual-respect-and-mutual-interest-with-china-jaishankar/article65948286.ece",
+          "author": "Sriram Lakshman",
+          "description": "EAM Jaishankar’s comments comes after the remarks by  Chinese Ambassador to India Sun Weidong claiming that the situation along the LAC was moving towards being “normalised”.",
+          "link": "https://www.thehindu.com/news/international/india-wants-a-relationship-of-mutual-sensitivity-mutual-respect-and-mutual-interest-with-china-jaishankar/article65948286.ece",
+          "publishedOn": "2022-09-28T22:03:46.000Z",
+          "wordCount": 6129,
+          "title": "India wants a relationship of ‘mutual sensitivity, mutual respect and mutual interest’ with China: Jaishankar",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/uhg2lx/article65948288.ece/alternates/LANDSCAPE_615/1428048258.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/wait-and-see-jaishankar-on-indias-position-on-russian-referendums-in-occupied-ukrainian-territory/article65948150.ece",
+          "author": "Sriram Lakshman",
+          "description": "The issue would come up for discussion at the U.N., says EAM Jaishankar",
+          "link": "https://www.thehindu.com/news/national/wait-and-see-jaishankar-on-indias-position-on-russian-referendums-in-occupied-ukrainian-territory/article65948150.ece",
+          "publishedOn": "2022-09-28T21:52:53.000Z",
+          "wordCount": 6231,
+          "title": "‘Wait and See’: Jaishankar on India’s position on Russian referendums in occupied Ukrainian territory",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/a0r0zy/article65948287.ece/alternates/LANDSCAPE_615/PTI09_28_2022_000007B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/chinese-nationals-attacked-in-pakistan-1-killed-2-injured/article65948055.ece",
           "author": "PTI",
           "description": "The incident is the latest in the recent spate of attacks on Chinese nationals in the country.",
@@ -14822,6 +15032,56 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-to-meet-sonia-gandhi-on-thursday-says-issues-will-be-sorted-soon/articleshow/94519342.cms",
+          "author": null,
+          "description": "Gehlot arrived in the capital on Wednesday night and will meet Sonia for deliberations in the morning, talks that will have repercussions for the leadership issue as well as the CMship of Rajasthan.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-to-meet-sonia-gandhi-on-thursday-says-issues-will-be-sorted-soon/articleshow/94519342.cms",
+          "publishedOn": "2022-09-28T21:46:20.000Z",
+          "wordCount": 7159,
+          "title": "Ashok Gehlot to meet Sonia Gandhi on Thursday, says 'issues will be sorted soon'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519360,width-1070,height-580,imgsize-26850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519334.cms",
+          "author": null,
+          "description": "The US says it is considering all steps to reduce the backlog of visa applications by considering steps like interview waivers for those who previously had American visas and increasing staffing at its missions in India to their highest ever levels. The assurance came after foreign minister S Jaishankar raised the issue.",
+          "link": "https://timesofindia.indiatimes.com/india/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519334.cms",
+          "publishedOn": "2022-09-28T21:37:51.000Z",
+          "wordCount": 5627,
+          "title": "Visa applications backlog to ease, US assures India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519323,width-1070,height-580,imgsize-29984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "author": null,
+          "description": "A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.'",
+          "link": "https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "publishedOn": "2022-09-28T21:23:26.000Z",
+          "wordCount": 5412,
+          "title": "Want condoms too? IAS officer rebukes girl seeking pads",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519113,width-1070,height-580,imgsize-40546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "author": null,
+          "description": "Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check \"hate campaigns\" of RSS and affiliates against the minority community.",
+          "link": "https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "publishedOn": "2022-09-28T21:14:31.000Z",
+          "wordCount": 5462,
+          "title": "Act against RSS too: Muslim outfits' chorus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519090,width-1070,height-580,imgsize-77400,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms",
+          "author": null,
+          "description": "TOI has learned that SDPI was spared as it is a registered political party, swearing allegiance to the Constitution of India. An officer said that SDPI, as long as it indulges in democratic activities by legal means, may not warrant a ban or crackdown. inside flap",
+          "link": "https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms",
+          "publishedOn": "2022-09-28T20:36:25.000Z",
+          "wordCount": 6698,
+          "title": "PFI's political arm SDPI spared by MHA for now, is on EC radar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518960,width-1070,height-580,imgsize-109906,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/indias-approach-human-centric-as-us-seeks-condemnation-of-russian-referenda-in-unsc/articleshow/94518428.cms",
           "author": null,
@@ -18007,6 +18267,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "author": null,
+          "description": "Lt General Anil Chauhan (Retired) has been appointed as the Chief of Defence Staff (CDS), nearly 10 months after the death of CDS General Bipin Rawat in a helicopter crash.As CDS, Lt Gen Chauhan will function as secretary to government of India, department of military affairs, the defence ministry said.Born on May 18, 1961, Lt Gen Anil Chauhan was commissioned into the 11 Gorkha Rifles of the Indian Army in 1981.",
+          "link": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
+          "publishedOn": "2022-09-28T14:47:06.000Z",
+          "wordCount": 7210,
+          "title": "Lt General Anil Chauhan (Retired) named India's new Chief of Defence Staff",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94512933,width-1070,height-580,imgsize-25610,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "author": null,
+          "description": "\"PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy,\" said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms",
+          "publishedOn": "2022-09-28T14:03:52.000Z",
+          "wordCount": 10182,
+          "title": "Centre declares PFI 'unlawful association' for 5 years",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492869,width-1070,height-580,imgsize-81976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms",
+          "author": null,
+          "description": "A 27-year-old woman and her 29-year-old husband made a \"daring escape\" two months ago after witnessing \"sinister activities\" at the infamous Uttarakhand resort where receptionist Ankita Bhandari, 19, was being allegedly pressured into prostitution and later killed.",
+          "link": "https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms",
+          "publishedOn": "2022-09-28T13:44:50.000Z",
+          "wordCount": 6929,
+          "title": "Ankita Bhandari murder case: How Meerut couple escaped infamous Rishikesh resort",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94492527,width-1070,height-580,imgsize-49490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The MHA via a notification on Tuesday banned the Popular Front of India (PFI) and its associates for five years for links to terrorist grou.",
+          "link": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
+          "publishedOn": "2022-09-28T08:40:55.000Z",
+          "wordCount": 7508,
+          "title": "Explained: Why the Centre banned Popular Front of India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94495584,width-1070,height-580,imgsize-1705450,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms",
+          "author": null,
+          "description": "Six years after her marriage to television director Aijaz Sheikh, Sana Amin Sheikh has parted ways with her husband. Their divorce came through on September 13.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms",
+          "publishedOn": "2022-09-28T07:02:34.000Z",
+          "wordCount": 9407,
+          "title": "Exclusive! Sana Amin Sheikh’s marriage of six years ends; says, ‘When two people are not happy living under a roof, it is best to separate’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94500493,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94500493.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-hospitalised-after-the-actress-complained-of-uneasiness-report/articleshow/94481478.cms",
           "author": null,
           "description": "Actress Deepika Padukone was rushed to a hospital in Mumbai on Monday night after the actress complained of uneasiness. She is reportedly doing well now.",
@@ -18267,6 +18577,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94371570,width-1070,height-580,imgsize-154692,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/things-i-wish-i-knew-before-marrying-a-maa-ka-ladlaa/articleshow/94283819.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/things-i-wish-i-knew-before-marrying-a-maa-ka-ladlaa/articleshow/94283819.cms",
+          "publishedOn": "2022-09-21T05:47:21.000Z",
+          "wordCount": null,
+          "title": "Things I wish I knew before marrying a \"Maa ka Ladlaa\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms",
           "author": null,
           "description": "",
@@ -18283,6 +18603,56 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/nri/us-canada-news/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519203.cms",
+          "author": null,
+          "description": "The US says it is considering all steps to reduce the backlog of visa applications by considering steps like interview waivers for those who previously had American visas and increasing staffing at its missions in India to their highest ever levels. The assurance came after foreign minister S Jaishankar raised the issue.",
+          "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519203.cms",
+          "publishedOn": "2022-09-28T21:37:51.000Z",
+          "wordCount": 5285,
+          "title": "Visa applications backlog to ease, US assures India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519323,width-1070,height-580,imgsize-29984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "author": null,
+          "description": "A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.'",
+          "link": "https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "publishedOn": "2022-09-28T21:23:26.000Z",
+          "wordCount": 5412,
+          "title": "Want condoms too? IAS officer rebukes girl seeking pads",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519113,width-1070,height-580,imgsize-40546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "author": null,
+          "description": "Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check \"hate campaigns\" of RSS and affiliates against the minority community.",
+          "link": "https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "publishedOn": "2022-09-28T21:14:31.000Z",
+          "wordCount": 5462,
+          "title": "Act against RSS too: Muslim outfits' chorus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519090,width-1070,height-580,imgsize-77400,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms",
+          "author": null,
+          "description": "TOI has learned that SDPI was spared as it is a registered political party, swearing allegiance to the Constitution of India. An officer said that SDPI, as long as it indulges in democratic activities by legal means, may not warrant a ban or crackdown. inside flap",
+          "link": "https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms",
+          "publishedOn": "2022-09-28T20:36:25.000Z",
+          "wordCount": 6698,
+          "title": "PFI's political arm SDPI spared by MHA for now, is on EC radar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518960,width-1070,height-580,imgsize-109906,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-live-updates-september-29/liveblog/94518761.cms",
+          "author": null,
+          "description": "As the Congress leadership continues to grope for a candidate to support in the election for party president, Rajasthan chief minister Ashok Gehlot said the party works under its chief Sonia Gandhi and all issues will be sorted out soon. Stay with TOI for live updates --",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-live-updates-september-29/liveblog/94518761.cms",
+          "publishedOn": "2022-09-28T19:47:55.000Z",
+          "wordCount": 5919,
+          "title": "Live: Gehlot to meet Sonia today, says ‘issues to be sorted’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518761,width-1070,height-580,imgsize-26850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarina-wahab-sooraj-pancholi-is-innocent-and-rabia-khan-knows-it-exclusive/articleshow/94518390.cms",
           "author": null,

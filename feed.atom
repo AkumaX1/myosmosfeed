@@ -2,10 +2,304 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T21:09:43.313Z</updated>
+    <updated>2022-09-28T22:10:26.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users]]></title>
+        <id>https://techcrunch.com/?p=2411000</id>
+        <link href="https://techcrunch.com/2022/09/28/daily-crunch-fast-company-hacker-sends-2-obscene-and-racist-notifications-to-apple-news-users/"/>
+        <updated>2022-09-28T22:05:15.000Z</updated>
+        <summary type="html"><![CDATA[To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here. With almost a hundred new stories on the site since the last Daily Crunch, we’re having a hard time picking the cream of the crop, but that’s what we dooooo. It’s been […]
+Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users by Christine Hall originally published on TechCrunch]]></summary>
+        <author>
+            <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India wants a relationship of ‘mutual sensitivity, mutual respect and mutual interest’ with China: Jaishankar]]></title>
+        <id>https://www.thehindu.com/news/international/india-wants-a-relationship-of-mutual-sensitivity-mutual-respect-and-mutual-interest-with-china-jaishankar/article65948286.ece</id>
+        <link href="https://www.thehindu.com/news/international/india-wants-a-relationship-of-mutual-sensitivity-mutual-respect-and-mutual-interest-with-china-jaishankar/article65948286.ece"/>
+        <updated>2022-09-28T22:03:46.000Z</updated>
+        <summary type="html"><![CDATA[EAM Jaishankar’s comments comes after the remarks by  Chinese Ambassador to India Sun Weidong claiming that the situation along the LAC was moving towards being “normalised”.]]></summary>
+        <author>
+            <name>Sriram Lakshman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Startup Battlefield 200: Hardware, Robotics, AI+ML & Mobility + Transportation]]></title>
+        <id>https://techcrunch.com/?p=2404087</id>
+        <link href="https://techcrunch.com/2022/09/28/the-startup-battlefield-200-hardware-robotics-aiml-mobility-transportation/"/>
+        <updated>2022-09-28T22:00:04.000Z</updated>
+        <summary type="html"><![CDATA[We’re beyond amazed at the collective creativity, ingenuity and technical prowess of the Startup Battlefield 200. Out of thousands of applications, only 200 early-stage startups made the final cut, and you’ll find all of them — and only them — exhibiting on the TechCrunch Disrupt show floor on October 18-20 in San Francisco. That’s a […]
+The Startup Battlefield 200: Hardware, Robotics, AI+ML & Mobility + Transportation by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lizzo Plays New Notes on James Madison’s Crystal Flute from 1813]]></title>
+        <id>https://www.nytimes.com/2022/09/28/us/lizzo-james-madison-flute.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/us/lizzo-james-madison-flute.html"/>
+        <updated>2022-09-28T21:58:47.000Z</updated>
+        <summary type="html"><![CDATA[A classically trained flutist, the singer, rapper and songwriter spent more than three hours admiring the flute collection at the Library of Congress. Madison’s instrument was made for the second inauguration by a Parisian craftsman.]]></summary>
+        <author>
+            <name>Michael Levenson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know About the Mysterious Pipeline Leaks Between Russia and Europe]]></title>
+        <id>https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html"/>
+        <updated>2022-09-28T21:56:23.000Z</updated>
+        <summary type="html"><![CDATA[The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.]]></summary>
+        <author>
+            <name>Stanley Reed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Redlining Is Racist’: $12 Million Settlement Ends Lending Inquiry]]></title>
+        <id>https://www.nytimes.com/2022/09/28/nyregion/redlining-is-racist-12-million-settlement-ends-lending-inquiry.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/nyregion/redlining-is-racist-12-million-settlement-ends-lending-inquiry.html"/>
+        <updated>2022-09-28T21:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Lakeland Bank in New Jersey admitted no wrongdoing, but agreed to set up a $12 million homeownership fund and open two new branches in minority neighborhoods.]]></summary>
+        <author>
+            <name>Tracey Tully</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Wait and See’: Jaishankar on India’s position on Russian referendums in occupied Ukrainian territory]]></title>
+        <id>https://www.thehindu.com/news/national/wait-and-see-jaishankar-on-indias-position-on-russian-referendums-in-occupied-ukrainian-territory/article65948150.ece</id>
+        <link href="https://www.thehindu.com/news/national/wait-and-see-jaishankar-on-indias-position-on-russian-referendums-in-occupied-ukrainian-territory/article65948150.ece"/>
+        <updated>2022-09-28T21:52:53.000Z</updated>
+        <summary type="html"><![CDATA[The issue would come up for discussion at the U.N., says EAM Jaishankar]]></summary>
+        <author>
+            <name>Sriram Lakshman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashok Gehlot to meet Sonia Gandhi on Thursday, says 'issues will be sorted soon']]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-to-meet-sonia-gandhi-on-thursday-says-issues-will-be-sorted-soon/articleshow/94519342.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-to-meet-sonia-gandhi-on-thursday-says-issues-will-be-sorted-soon/articleshow/94519342.cms"/>
+        <updated>2022-09-28T21:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Gehlot arrived in the capital on Wednesday night and will meet Sonia for deliberations in the morning, talks that will have repercussions for the leadership issue as well as the CMship of Rajasthan.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Pet Halloween Costumes, From Cute to Weird to Terrifying]]></title>
+        <id>3aq353</id>
+        <link href="https://www.vice.com/en_us/article/3aq353/the-best-pet-halloween-costumes-for-cute-dogs-cats"/>
+        <updated>2022-09-28T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've been waiting all year for an opportunity to dress your dog as Bette Midler or your snake as a wizard, great news: It's time!]]></summary>
+        <author>
+            <name>Rec Room Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa applications backlog to ease, US assures India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519334.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519334.cms"/>
+        <updated>2022-09-28T21:37:51.000Z</updated>
+        <summary type="html"><![CDATA[The US says it is considering all steps to reduce the backlog of visa applications by considering steps like interview waivers for those who previously had American visas and increasing staffing at its missions in India to their highest ever levels. The assurance came after foreign minister S Jaishankar raised the issue.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa applications backlog to ease, US assures India]]></title>
+        <id>https://timesofindia.indiatimes.com/nri/us-canada-news/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519203.cms</id>
+        <link href="https://timesofindia.indiatimes.com/nri/us-canada-news/visa-applications-backlog-to-ease-us-assures-india/articleshow/94519203.cms"/>
+        <updated>2022-09-28T21:37:51.000Z</updated>
+        <summary type="html"><![CDATA[The US says it is considering all steps to reduce the backlog of visa applications by considering steps like interview waivers for those who previously had American visas and increasing staffing at its missions in India to their highest ever levels. The assurance came after foreign minister S Jaishankar raised the issue.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Like Next-Gen Monster Hunter, Except EA Is Making It]]></title>
+        <id>1849593724</id>
+        <link href="https://kotaku.com/koei-tecmo-ea-toukiden-monster-hunter-wild-hearts-1849593724"/>
+        <updated>2022-09-28T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[EA and Koei Tecmo are teaming up to create a Monster Hunter-style experience with Wild Hearts, they revealed today. A two-and-a-half minute debut trailer shows off lush environments, intimidating encounters, and some cool weaponry. The game also looks to be taking cues from Koei Tecmo’s monster-hunting Toukiden…
+Read more...]]></summary>
+        <author>
+            <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not a Big Happy Family: ‘Barney’ Doc Explores the Hatred and Threats the Show Faced]]></title>
+        <id>https://www.rollingstone.com/?p=1234601868</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/barney-docuseries-peacock-trailer-1234601868/"/>
+        <updated>2022-09-28T21:28:28.000Z</updated>
+        <summary type="html"><![CDATA[I Love You, You Hate Me delves into the death threats and strange drug rumors made about the kids' show]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida’s Space Coast braces for Hurricane Ian]]></title>
+        <id>https://techcrunch.com/?p=2411083</id>
+        <link href="https://techcrunch.com/2022/09/28/floridas-space-coast-braces-for-hurricane-ian/"/>
+        <updated>2022-09-28T21:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Florida’s Space Coast continues to make preparations for the extremely powerful and slow-moving Hurricane Ian, with officials rolling rockets back to the safety of hangars and delaying launches until the storm passes. The massive storm made landfall near Fort Myers Wednesday afternoon, coming in at just a few miles per hour shy of the Category […]
+Florida’s Space Coast braces for Hurricane Ian by Aria Alamalhodaei originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aria Alamalhodaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the human cost of Better.com’s brutal layoffs]]></title>
+        <id>https://techcrunch.com/?p=2408236</id>
+        <link href="https://techcrunch.com/2022/09/28/better-com-employees-detail-their-experiences/"/>
+        <updated>2022-09-28T21:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Digital mortgage lender Better.com continues to lay off staff, and seemingly in as callous a way as possible. Indeed, whereas most companies try to avoid repeated layoffs, the outfit — which gained notoriety by laying off about 900 employees over Zoom on December 1, 2021 — has since been laying off smaller groups very systematically, […]
+Inside the human cost of Better.com’s brutal layoffs by Christine Hall originally published on TechCrunch]]></summary>
+        <author>
+            <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Era Of $70 Games Truly Begins This Fall]]></title>
+        <id>1849593604</id>
+        <link href="https://kotaku.com/70-dollar-games-60-ubisoft-ea-gotham-knights-ps5-xbox-1849593604"/>
+        <updated>2022-09-28T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The year is wrapping up, and that means we’re nearing the busiest time for video game releases. And even though covid-19 has thrown a wrench in the entire industry and led to numerous delays, a few big games are still launching in the next few weeks. But if you want to enjoy them, you’ll need to fork over 70 bucks (or…
+Read more...]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram permanently disabled Pornhub’s account]]></title>
+        <id>https://techcrunch.com/?p=2410547</id>
+        <link href="https://techcrunch.com/2022/09/28/instagram-permanently-disabled-pornhubs-account/"/>
+        <updated>2022-09-28T21:24:07.000Z</updated>
+        <summary type="html"><![CDATA[After a weeks-long suspension, Pornhub’s account has been permanently removed from Instagram. Instagram told TechCrunch that Pornhub has repeatedly violated community guidelines, prompting the account’s removal. Meanwhile, Pornhub declared in an open letter to Meta and Instagram that Instagram’s enforcement of these platform rules are “opaque, discriminatory and hypocritical.” Addressed to four Meta executives, including […]
+Instagram permanently disabled Pornhub’s account by Amanda Silberling originally published on TechCrunch]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will help you find better results without tagging ‘Reddit’ onto every search]]></title>
+        <id>https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results</id>
+        <link href="https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results"/>
+        <updated>2022-09-28T21:23:49.000Z</updated>
+        <summary type="html"><![CDATA[The company’s “been exploring new ways to make” the info you want easier to find. | Illustration: The Verge
+    
+
+  
+Google may be trying to reinvent the way we search in the future and expanding access to its impressive multisearch feature, but perhaps one of its most exciting announcements from today is a feature it’s calling “discussions and forums.” The idea is simple: whenever you do a Google search that it thinks could be an open-ended question, it’ll pop up a box full of results from “a variety of popular forums and online discussions across the web.” An example in its blog post shows results from Reddit, Quora, and Edmunds showing up when the user searches “best car for big family.”
+It’s more or less a meme at this point that you have to add “reddit” to a search if you want to find…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want condoms too? IAS officer rebukes girl seeking pads]]></title>
+        <id>https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms"/>
+        <updated>2022-09-28T21:23:26.000Z</updated>
+        <summary type="html"><![CDATA[A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.']]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want condoms too? IAS officer rebukes girl seeking pads]]></title>
+        <id>https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms"/>
+        <updated>2022-09-28T21:23:26.000Z</updated>
+        <summary type="html"><![CDATA[A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.']]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once and For All: Is the Dyson Airwrap Worth It?]]></title>
+        <id>5d3w5z</id>
+        <link href="https://www.vice.com/en_us/article/5d3w5z/dyson-airwrap-review"/>
+        <updated>2022-09-28T21:21:33.000Z</updated>
+        <summary type="html"><![CDATA[The magic of the Airwrap is that it uses air pressure, rather than heat, to give you a professional-level blowout at home.]]></summary>
+        <author>
+            <name>Nicolette Accardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porsche to IPO in landmark listing Thursday]]></title>
+        <id>https://techcrunch.com/?p=2411110</id>
+        <link href="https://techcrunch.com/2022/09/28/porsche-to-ipo-in-landmark-listing-thursday/"/>
+        <updated>2022-09-28T21:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Porsche plans to go public on Thursday at a $73 billion valuation, catapulting the company to become the world’s fourth-most valuable automaker and netting billions of dollars for parent company Volkswagen to advance its drive toward electric vehicles. The initial public offering for Porsche AG on the Frankfurt Stock Exchange values the brand at $79 […]
+Porsche to IPO in landmark listing Thursday by Jaclyn Trop originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jaclyn Trop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Guy Involved With Controversial A.I. Rapper FN Meka Frequently Used the N-Word in Old Hardcore Band Lyrics]]></title>
+        <id>https://www.rollingstone.com/?p=1234598912</id>
+        <link href="https://www.rollingstone.com/music/music-news/anthony-martini-fn-meka-e-town-concrete-n-word-lyrics-1234598912/"/>
+        <updated>2022-09-28T21:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Anthony Martini, who signed FN Meka to his virtual label Factory New, used the slur liberally on albums released by his band E.Town Concrete — and rapped them live as recently as 2018]]></summary>
+        <author>
+            <name>Jon Blistein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A mystery hovers over the apparent sabotage of two undersea gas pipelines: Did Russia do it?]]></title>
+        <id>https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it</id>
+        <link href="https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it"/>
+        <updated>2022-09-28T21:15:14.000Z</updated>
+        <author>
+            <name>Katrin Bennhold and David E. Sanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Act against RSS too: Muslim outfits' chorus]]></title>
+        <id>https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms"/>
+        <updated>2022-09-28T21:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check "hate campaigns" of RSS and affiliates against the minority community.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Act against RSS too: Muslim outfits' chorus]]></title>
+        <id>https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms"/>
+        <updated>2022-09-28T21:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check "hate campaigns" of RSS and affiliates against the minority community.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact’s new update is a game changer for teapot decorators]]></title>
+        <id>https://www.polygon.com/23377150/genshin-impact-serenitea-pot-update-realm-within</id>
+        <link href="https://www.polygon.com/23377150/genshin-impact-serenitea-pot-update-realm-within"/>
+        <updated>2022-09-28T21:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Image: Hoyoverse via Polygon
+    
+
+  
+No more using glitches to pull off your designs
+ Genshin Impact is more than just an open-world exploration game. In addition to sweeping quests across its massive map, the game also lets you decorate buildings, plants, landmarks and more, in a separate realm called the Serenitea Pot (also known as the Realm Within). It’s a detailed decorating simulator, and a change introduced in the 3.1 patch made it even better by allowing players to overlap decorations. 
+The seemingly small change makes a big impact for fans who are super into decorating since it allows for more flexibility. Before this patch, items could not be placed closed together, and instead required a varying amounts of space as a buffer. To get around this, fans had to exploit a shaking glitch where they would wiggle around decorations before placing. The glitch would allow players to place the items within the radius of other decorations. Now, that’s no longer an issue, and players can decorate to their heart’s content. 
+  @tikolatte 
+Shaking glitch is no more! #sereniteapot #genshinteleport #hoyoversecreators 
+ ♬ End Of Line but better - MothMom • Dingus 
+  
+
+Genshin Impact has loads of different options for players — some people focus on exploration, others focus on building strong characters, and some focus almost exclusively on decorating their teapot. Known in the community as “teapot mains,” this group of players almost immediately picked up on the change. Now, it’ll be a lot easier for hardcore decorators and casual designers alike to design the Genshin Impact realm of their dreams.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dense Breasts and Cancer: What to Know About Katie Couric’s Diagnosis]]></title>
         <id>https://www.nytimes.com/2022/09/28/well/live/dense-breasts.html</id>
@@ -98,6 +392,26 @@ Some of the collectibles will be “ultra-rare”; while it’s unclear exactly 
 PlayStation Stars is beginning to roll out now in Asia (including Japan) and will launch in Europe and Australia on October 13th.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI's political arm SDPI spared by MHA for now, is on EC radar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms"/>
+        <updated>2022-09-28T20:36:25.000Z</updated>
+        <summary type="html"><![CDATA[TOI has learned that SDPI was spared as it is a registered political party, swearing allegiance to the Constitution of India. An officer said that SDPI, as long as it indulges in democratic activities by legal means, may not warrant a ban or crackdown. inside flap]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI's political arm SDPI spared by MHA for now, is on EC radar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfis-political-arm-sdpi-spared-by-mha-for-now-is-on-ec-radar/articleshow/94518908.cms"/>
+        <updated>2022-09-28T20:36:25.000Z</updated>
+        <summary type="html"><![CDATA[TOI has learned that SDPI was spared as it is a registered political party, swearing allegiance to the Constitution of India. An officer said that SDPI, as long as it indulges in democratic activities by legal means, may not warrant a ban or crackdown. inside flap]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -208,6 +522,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The incident is the latest in the recent spate of attacks on Chinese nationals in the country.]]></summary>
         <author>
             <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: Gehlot to meet Sonia today, says ‘issues to be sorted’]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-live-updates-september-29/liveblog/94518761.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajasthan-political-crisis-live-updates-september-29/liveblog/94518761.cms"/>
+        <updated>2022-09-28T19:47:55.000Z</updated>
+        <summary type="html"><![CDATA[As the Congress leadership continues to grope for a candidate to support in the election for party president, Rajasthan chief minister Ashok Gehlot said the party works under its chief Sonia Gandhi and all issues will be sorted out soon. Stay with TOI for live updates --]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -2404,6 +2728,16 @@ Differentiating Wild Hearts from Capcom’s Monster Hunter series is a mechanic 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lt General Anil Chauhan (Retired) named India's new Chief of Defence Staff]]></title>
+        <id>https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms"/>
+        <updated>2022-09-28T14:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Lt General Anil Chauhan (Retired) has been appointed as the Chief of Defence Staff (CDS), nearly 10 months after the death of CDS General Bipin Rawat in a helicopter crash.As CDS, Lt Gen Chauhan will function as secretary to government of India, department of military affairs, the defence ministry said.Born on May 18, 1961, Lt Gen Anil Chauhan was commissioned into the 11 Gorkha Rifles of the Indian Army in 1981.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marvel’s upcoming Blade movie has lost its director]]></title>
         <id>https://www.theverge.com/2022/9/28/23376559/bassam-tariq-blade-marvel-studios-mahershala-ali</id>
         <link href="https://www.theverge.com/2022/9/28/23376559/bassam-tariq-blade-marvel-studios-mahershala-ali"/>
@@ -2664,6 +2998,16 @@ Invisible AI raises $15M to stick worker-monitoring cameras in factories by Kyle
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Centre declares PFI 'unlawful association' for 5 years]]></title>
+        <id>https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/centre-declares-pfi-unlawful-association-for-5-years/articleshow/94492881.cms"/>
+        <updated>2022-09-28T14:03:52.000Z</updated>
+        <summary type="html"><![CDATA["PFI and its associates or affiliates or fronts operate openly as a socio-economic, educational and political organization but, they have been pursuing a secret agenda to radicalize a particular section of the society working towards undermining the concept of democracy," said the government notification. The decision to ban PFI comes after the second round of crackdown against the outfit on Tuesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple AirPods Pro (second-gen) review: same look, better everything else]]></title>
         <id>https://www.theverge.com/23365910/apple-airpods-pro-second-generation-review</id>
         <link href="https://www.theverge.com/23365910/apple-airpods-pro-second-generation-review"/>
@@ -2792,6 +3136,16 @@ At the event, Google showed off renders of the devices, which each come with an 
         <link href="https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms"/>
         <updated>2022-09-28T13:49:45.000Z</updated>
         <summary type="html"><![CDATA[India News: NEW DELHI: Lt General Anil Chauhan (Retired) was on Wednesday named India's new Chief of Defence Staff (CDS), the top military post which aims to brin.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankita Bhandari murder case: How Meerut couple escaped infamous Rishikesh resort]]></title>
+        <id>https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/meerut/ankita-bhandari-murder-case-how-meerut-couple-escaped-infamous-rishikesh-resort/articleshow/94492513.cms"/>
+        <updated>2022-09-28T13:44:50.000Z</updated>
+        <summary type="html"><![CDATA[A 27-year-old woman and her 29-year-old husband made a "daring escape" two months ago after witnessing "sinister activities" at the infamous Uttarakhand resort where receptionist Ankita Bhandari, 19, was being allegedly pressured into prostitution and later killed.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -4306,6 +4660,16 @@ Elsewhere, the rumored specs of both the Galaxy S23 and S23 Plus are broadly sim
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Explained: Why the Centre banned Popular Front of India]]></title>
+        <id>https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms"/>
+        <updated>2022-09-28T08:40:55.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The MHA via a notification on Tuesday banned the Popular Front of India (PFI) and its associates for five years for links to terrorist grou.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector]]></title>
         <id>https://techcrunch.com/?p=2405043</id>
         <link href="https://techcrunch.com/2022/09/28/vrais-brings-vr-simulation-training-to-offshore-wind-and-other-hazardous-industries/"/>
@@ -4506,6 +4870,16 @@ YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to
         <summary type="html"><![CDATA[“If you ever want to get rid of anybody, feed them to the wild pigs because they don’t leave anything, not even the bones,” the Australian man allegedly told colleagues.]]></summary>
         <author>
             <name>Gavin Butler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive! Sana Amin Sheikh’s marriage of six years ends; says, ‘When two people are not happy living under a roof, it is best to separate’]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sana-amin-sheikhs-marriage-of-six-years-ends-says-when-two-people-are-not-happy-living-under-a-roof-it-is-best-to-separate/articleshow/94475581.cms"/>
+        <updated>2022-09-28T07:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Six years after her marriage to television director Aijaz Sheikh, Sana Amin Sheikh has parted ways with her husband. Their divorce came through on September 13.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -22286,6 +22660,15 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Jennifer Finney Boylan and Thomas Page McBee on what the feminist movement owes the trans community.]]></summary>
         <author>
             <name>‘The Argument’</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I wish I knew before marrying a "Maa ka Ladlaa"]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/relationships/love-sex/things-i-wish-i-knew-before-marrying-a-maa-ka-ladlaa/articleshow/94283819.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/relationships/love-sex/things-i-wish-i-knew-before-marrying-a-maa-ka-ladlaa/articleshow/94283819.cms"/>
+        <updated>2022-09-21T05:47:21.000Z</updated>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
