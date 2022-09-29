@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T18:16:29.430Z</updated>
+    <updated>2022-09-29T19:13:52.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Democrats demand FTC probe Amazon-iRobot deal]]></title>
+        <id>https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan</id>
+        <link href="https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan"/>
+        <updated>2022-09-29T19:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+The Federal Trade Commission is facing mounting pressure to block Amazon’s proposed $1.65 billion purchase of iRobot, the company behind Roomba autonomous vacuums.
+In a letter to FTC Chair Lina Khan on Thursday, a group of Democratic lawmakers argued that the proposed merger would unfairly bolster Amazon’s dominance in the smart home market by acquiring one of the company’s leading competitors. They also criticized Amazon’s data privacy and security practices following past acquisitions of companies like Ring, including data sharing partnerships with over 600 law enforcement agencies across the country.
+“iRobot is a powerful market incumbent, and Amazon, given its vast resources, history of producing smart vacuums… and powerful platform, is …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 investors weigh in on the state of insurtech in Q3 2022]]></title>
+        <id>https://techcrunch.com/?p=2412740</id>
+        <link href="https://techcrunch.com/2022/09/29/8-investors-weigh-in-on-the-state-of-insurtech-in-q3-2022/"/>
+        <updated>2022-09-29T19:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Seeing significant M&A activity and repricing in the public insurtech cohort left us wondering about their private peers: Are the same trends at play, and to what extent?
+8 investors weigh in on the state of insurtech in Q3 2022 by Anna Heim originally published on TechCrunch]]></summary>
+        <author>
+            <name>Anna Heim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite its many troubles, the insurtech market is ‘far from dead,’ investors say]]></title>
+        <id>https://techcrunch.com/?p=2412852</id>
+        <link href="https://techcrunch.com/2022/09/29/despite-its-many-troubles-the-insurtech-market-is-far-from-dead-investors-say/"/>
+        <updated>2022-09-29T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The insurtech market has had a rough time this past year, so we reached out to 8 investors to find out where insurtech is headed in Q4.
+Despite its many troubles, the insurtech market is ‘far from dead,’ investors say by Anna Heim originally published on TechCrunch]]></summary>
+        <author>
+            <name>Anna Heim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Twitter is becoming TikTok]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok</id>
+        <link href="https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok"/>
+        <updated>2022-09-29T18:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Swipe up for more videos — where have I heard that before? | Image: Twitter
+    
+
+  
+Twitter is joining the bandwagon of social media companies copying TikTok’s everlasting scroll of videos. In a blog post on Thursday, the company announced that it’s updating its video player to be “immersive” — tapping on it will make the video full screen, and if you scroll up, you’ll “start browsing more engaging video content.” The company is also adding a video carousel to its Explore tab, which will show you “some of the most popular videos being shared on Twitter.”
+The company says its “immersive media viewer” will start to roll out in the iOS Twitter app over the next few days and that the videos on the Explore tab are “currently available to people in select countries” who are using iOS or Android. Both updates are coming to people using the app in English first.
+Image: Twitter
+      The Explore tab will now have a section dedicated to videos.
+  
+While Twitter doesn’t seem to be going all in on copying TikTok like Instagram has, it’s definitely a big change; until this point, videos have mostly been treated as parts of tweets. (Though the somewhat annoying floating livestream player acted as its own thing in certain situations.) Now, they’re becoming their own separate experience; it wouldn’t surprise me at all if we end up getting a dedicated video tab soon, where you’ll automatically be given a starting video to begin your scrolling. The company’s post does say that it wants to make Twitter “the best place for video,” after all.
+While TikTok is still a huge deal, social media companies haven’t always found success copying it. For every YouTube Shorts, there’s a yanked Instagram redesign that turned even photo posts into a full-screen scrolling experience, sparking backlash from some of the biggest users on the platform.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg tells Meta employees that the company is freezing hiring]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378996/meta-hiring-freeze-layoffs-mark-zuckerberg-facebook</id>
+        <link href="https://www.theverge.com/2022/9/29/23378996/meta-hiring-freeze-layoffs-mark-zuckerberg-facebook"/>
+        <updated>2022-09-29T18:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Nick Barclay / The Verge
+    
+
+  
+Meta CEO Mark Zuckerberg told employees on Thursday that the company is enacting a company-wide hiring freeze and warned them that more downsizing is likely coming. 
+First reported by Bloomberg’s Kurt Wagner and confirmed by sources to The Verge, the comments made during an internal all-hands call show how Meta is responding to a decline in its revenue brought on by the slowing global economy and Apple’s ad tracking changes. Meta’s stock price has fallen by more than half this year.
+In May, Zuckerberg announced a hiring freeze affecting certain segments of Meta and said he couldn’t make promises about possible layoffs, but by the end of June, his tone had changed. In a Q&A session reported by The Verge, he said, “Realistically, there are probably a bunch of people at the company who shouldn’t be here... And part of my hope by raising expectations and having more aggressive goals, and just kind of turning up the heat a little bit, is that I think some of you might just say that this place isn’t for you. And that self-selection is okay with me.”
+
+
+Asked about today’s meeting, Meta spokesperson Dave Arnold declined to comment but pointed toward comments from Zuckerberg during the last Meta earnings call, where he said, “Our plan is to steadily reduce headcount growth over the next year. Many teams are going to shrink so we can shift energy to other areas.”]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get a refund for Google Stadia]]></title>
+        <id>https://www.polygon.com/gaming/23378769/google-stadia-refunds</id>
+        <link href="https://www.polygon.com/gaming/23378769/google-stadia-refunds"/>
+        <updated>2022-09-29T18:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Justin Sullivan/Getty Images
+    
+
+  
+Google will shutter the game-streaming service in January 2023
+ Such is the downstream effect of gaming’s recent pivot away from physical media: Google is shutting down Stadia, its beleaguered game-streaming platform, in January 2023. In other words, if you’re a Stadia user, you’ll effectively be unable to play any Stadia games you own. But hey, at least you can get a refund!
+It’s been a rocky three years for Stadia, which Google first rolled out in 2019 to a mix of intrigue and skepticism. Stadia purported to revolutionize the way we play games, allowing players to stream major video games without need of a console or high-end PC. But an anemic game library and a confusing pricing model limited its reach. As such, Stadia never took off like the…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s text-to-speech engine is getting new voices across Android apps]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378651/google-text-to-speech-new-voices-android-apps</id>
+        <link href="https://www.theverge.com/2022/9/29/23378651/google-text-to-speech-new-voices-android-apps"/>
+        <updated>2022-09-29T18:48:21.000Z</updated>
+        <summary type="html"><![CDATA[Google’s text-to-speech tech is getting new voices across Android apps to improve clarity and sound more natural. | The Verge
+    
+
+  
+The speech engine Speech Services by Google is being upgraded to improve clarity and make text-to-speech voices in Android apps sound more natural. You can hear the difference between the old voices and the updated voices for yourself through prerecorded snippets on the Android Developers Blog. 
+Frankly, while the voices do sound clearer, I’m skeptical about the claims it sounds more natural. It’s also still difficult to ascertain what the first sentence in these US English-language recordings actually says — is this my gun? Is this my god? Apparently, it says, “is this mic on?” but that was lost on me.
+Old
+ 
+New
+ 
+All 421 voices in 67 languages within Google’s speech engine are getting a new voice model
+All 421 voices in 67 languages within the system are getting a new voice model and synthesizer. The current default voice in “English-US” is changing to one built using “fresher speaker data,” which, alongside other updates, results in a recognizable improvement from the previous default voice. You can also listen to how the updated voices sound in languages such as “Spanish-US” and “Brazilian-Portuguese.” 
+The update announcement says that folks already using text-to-speech tech don’t need to do anything to receive the new voices, as “everything will happen behind the scenes” with the updates being downloaded automatically. Its listing on the Google Play Store states that the service is already used by a variety of native applications such as Google Maps, Google Translate, and the Android Recorder app, so chances are that if you use an Android device, you probably already use the Speech Services by Google speech engine even if you don’t know it. The update is rolling out over the next few weeks to all 64-bit Android devices via the Google Play Store.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia plans to illegally annex lands it invaded, even as its military falters.]]></title>
+        <id>https://www.nytimes.com/live/2022/09/29/world/russia-ukraine-war-news/putin-will-sign-agreements-on-friday-that-will-allow-takeover-of-ukrainian-regions-the-kremlin-says</id>
+        <link href="https://www.nytimes.com/live/2022/09/29/world/russia-ukraine-war-news/putin-will-sign-agreements-on-friday-that-will-allow-takeover-of-ukrainian-regions-the-kremlin-says"/>
+        <updated>2022-09-29T18:43:46.000Z</updated>
+        <author>
+            <name>Matthew Mpoke Bigg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate Passes Bill to Aid Ukraine and Avert Government Shutdown]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/politics/senate-bill-ukraine-government-shutdown.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/politics/senate-bill-ukraine-government-shutdown.html"/>
+        <updated>2022-09-29T18:38:33.000Z</updated>
+        <summary type="html"><![CDATA[The stopgap spending measure was the final legislative deadline facing the Senate before the midterm elections. It heads to the House next, with a midnight deadline on Friday.]]></summary>
+        <author>
+            <name>Emily Cochrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom of the Planet of the Apes will continue the story in 2024]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378927/kingdom-of-the-planet-of-the-apes-cast-date</id>
+        <link href="https://www.theverge.com/2022/9/29/23378927/kingdom-of-the-planet-of-the-apes-cast-date"/>
+        <updated>2022-09-29T18:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Concept art from Kingdom of the Planet of the Apes | Image: 20th Century Studios
+    
+
+  
+The next entry in the Planet of the Apes saga will start filming soon — and it has yet another very long name. Today, 20th Century Studios unveiled the first real details on Kingdom of the Planet of the Apes, which picks up the story years after 2017’s War for the Planet of the Apes for what’s described as “an all-new chapter.” Production on the film is scheduled to start next month, with Wes Ball, best-known for the Maze Runner trilogy, serving as director.
+We don’t know much else about the movie, and it’s hard to glean a lot from the initial concept art (see above). But the studio did reveal some of the cast, including Owen Teague (Black Mirror and the newer It films), Freya Allen (The Witcher), and Peter Macon (The Orville). The screenplay comes courtesy a team that includes Josh Friedman (War of the Worlds), Rick Jaffa and Amanda Silver (Rise of the Planet of the Apes), and Patrick Aison (Prey).
+It’s not clear how exactly you’ll be able to watch Kingdom of the Planet of the Apes. 20th Century says the movie will be out in 2024 but doesn’t specify a theatrical release, and franchise films from the studio like the Predator spinoff Prey have been released directly on Hulu.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s a sprint, not a marathon]]></title>
+        <id>https://techcrunch.com/?p=2411197</id>
+        <link href="https://techcrunch.com/2022/09/29/actuator-its-a-sprint-not-a-marathon/"/>
+        <updated>2022-09-29T18:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a question for you: How seriously should we take Amazon’s home robotics play? Perhaps a better way of framing it is: When do we take Amazon’s home robotics play seriously? I realize these sound like pointed questions, and I should specify that they’re not really specific to Amazon. They’re more a result of having […]
+It’s a sprint, not a marathon by Brian Heater originally published on TechCrunch]]></summary>
+        <author>
+            <name>Brian Heater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic Monkeys Splice Together a Vintage Video for ‘Body Paint’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602402</id>
+        <link href="https://www.rollingstone.com/music/music-news/arctic-monkeys-drop-body-paint-video-1234602402/"/>
+        <updated>2022-09-29T18:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Alex Turner previously said he was inspired by the work of film editor Walter Murch when making LP, The Car]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source ‘Consent-O-Matic’ Tool Lets Anyone Automatically Stop Websites From Tracking Them]]></title>
+        <id>y3p5q5</id>
+        <link href="https://www.vice.com/en_us/article/y3p5q5/open-source-consent-o-matic-tool-lets-anyone-automatically-stop-websites-from-tracking-them"/>
+        <updated>2022-09-29T18:21:54.000Z</updated>
+        <summary type="html"><![CDATA["We shouldn't be having nicer pop-ups; we should just not have any pop-ups whatsoever," the researcher behind the tool said.]]></summary>
+        <author>
+            <name>Edward Ongweso Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chess Players Are Convinced That The Anal Bead Controversy Is Causing More Online Cheating]]></title>
+        <id>1849596703</id>
+        <link href="https://kotaku.com/chess-com-how-to-cheating-hans-neimann-magnus-carlsen-1849596703"/>
+        <updated>2022-09-29T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember the anal bead cheating controversy? As much as I’d like to forget, it turns out that a lot of people are still thinking about it. Some chess players have reported an uptick of computer-aided cheating in Chess.com matches ever since the story about Hans Niemann broke. One player has dubbed the recent surge in…
+Read more...]]></summary>
+        <author>
+            <name>Sisi Jiang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warcry is Warhammer at its best, and the new second edition proves it]]></title>
         <id>https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review</id>
@@ -735,6 +927,16 @@ Last year, rumors abounded it would shut down after the number of games released
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Xbox Games With Gold for October 2022 Revealed]]></title>
+        <id>822298bb-442f-4611-81a3-ff2561d65518</id>
+        <link href="https://www.ign.com/articles/xbox-games-with-gold-october-2022-revealed"/>
+        <updated>2022-09-29T16:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Games With Gold has just announced its October line up, including Windbound and Bomber Crew Deluxe Edition.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elihu Okay’s Music Is Flawed on Purpose]]></title>
         <id>3ad553</id>
         <link href="https://www.vice.com/en_us/article/3ad553/elihu-okay-oil-music-video"/>
@@ -809,6 +1011,15 @@ Besides Ghost in the Shell and Akira, that is
 The people have spoken: They want more cyberpunk. And while the anime itself may have reached its natural conclusion, and the first (and presumably last) DLC expansion for Cyberpunk 2077 is still quite a ways away, we’ve scoured our databanks to bring you a list of some of the bes…]]></summary>
         <author>
             <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewrite Destiny in Valkyrie Elysium]]></title>
+        <id>ed10c3d5-9e66-4edc-a6b1-3058048f5463</id>
+        <link href="https://www.ign.com/articles/rewrite-destiny-in-valkyrie-elysium"/>
+        <updated>2022-09-29T16:00:30.000Z</updated>
+        <author>
+            <name>JMBurge$$</name>
         </author>
     </entry>
     <entry>
@@ -3695,6 +3906,16 @@ The announcement of Sackboy: A Big Adventure on PC comes just a day after a PC v
         <summary type="html"><![CDATA[India News: NEW DELHI: The Congress of today is a ghost of its glorious past self.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First among equals: Why Congress still matters more than rest of the opposition]]></title>
+        <id>https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms"/>
+        <updated>2022-09-29T07:08:40.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Congress of today is a ghost of its glorious past self.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

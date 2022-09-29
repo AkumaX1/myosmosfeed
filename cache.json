@@ -12,6 +12,56 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nThe Federal Trade Commission is facing mounting pressure to block Amazon’s proposed $1.65 billion purchase of iRobot, the company behind Roomba autonomous vacuums.\nIn a letter to FTC Chair Lina Khan on Thursday, a group of Democratic lawmakers argued that the proposed merger would unfairly bolster Amazon’s dominance in the smart home market by acquiring one of the company’s leading competitors. They also criticized Amazon’s data privacy and security practices following past acquisitions of companies like Ring, including data sharing partnerships with over 600 law enforcement agencies across the country.\n“iRobot is a powerful market incumbent, and Amazon, given its vast resources, history of producing smart vacuums… and powerful platform, is …",
+          "link": "https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan",
+          "publishedOn": "2022-09-29T19:12:52.000Z",
+          "wordCount": 7456,
+          "title": "Democrats demand FTC probe Amazon-iRobot deal",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gGXG4F_gdAUOH7ys60vQz873lYs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935559/acastro_STK103__02.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok",
+          "author": null,
+          "description": "Swipe up for more videos — where have I heard that before? | Image: Twitter\n    \n\n  \nTwitter is joining the bandwagon of social media companies copying TikTok’s everlasting scroll of videos. In a blog post on Thursday, the company announced that it’s updating its video player to be “immersive” — tapping on it will make the video full screen, and if you scroll up, you’ll “start browsing more engaging video content.” The company is also adding a video carousel to its Explore tab, which will show you “some of the most popular videos being shared on Twitter.”\nThe company says its “immersive media viewer” will start to roll out in the iOS Twitter app over the next few days and that the videos on the Explore tab are “currently available to people in select countries” who are using iOS or Android. Both updates are coming to people using the app in English first.\nImage: Twitter\n      The Explore tab will now have a section dedicated to videos.\n  \nWhile Twitter doesn’t seem to be going all in on copying TikTok like Instagram has, it’s definitely a big change; until this point, videos have mostly been treated as parts of tweets. (Though the somewhat annoying floating livestream player acted as its own thing in certain situations.) Now, they’re becoming their own separate experience; it wouldn’t surprise me at all if we end up getting a dedicated video tab soon, where you’ll automatically be given a starting video to begin your scrolling. The company’s post does say that it wants to make Twitter “the best place for video,” after all.\nWhile TikTok is still a huge deal, social media companies haven’t always found success copying it. For every YouTube Shorts, there’s a yanked Instagram redesign that turned even photo posts into a full-screen scrolling experience, sparking backlash from some of the biggest users on the platform.",
+          "link": "https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok",
+          "publishedOn": "2022-09-29T18:59:00.000Z",
+          "wordCount": 7740,
+          "title": "Even Twitter is becoming TikTok",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ED3IpFfSlVCn9isXJKVXXWLBZPM=/0x0:1654x1654/1200x628/filters:focal(827x827:828x828)/cdn.vox-cdn.com/uploads/chorus_asset/file/24065466/two_new_video_products_make_easier_watch_what_happening_twitter_3.jpg.img.fullhd.medium.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378996/meta-hiring-freeze-layoffs-mark-zuckerberg-facebook",
+          "author": null,
+          "description": "Nick Barclay / The Verge\n    \n\n  \nMeta CEO Mark Zuckerberg told employees on Thursday that the company is enacting a company-wide hiring freeze and warned them that more downsizing is likely coming. \nFirst reported by Bloomberg’s Kurt Wagner and confirmed by sources to The Verge, the comments made during an internal all-hands call show how Meta is responding to a decline in its revenue brought on by the slowing global economy and Apple’s ad tracking changes. Meta’s stock price has fallen by more than half this year.\nIn May, Zuckerberg announced a hiring freeze affecting certain segments of Meta and said he couldn’t make promises about possible layoffs, but by the end of June, his tone had changed. In a Q&A session reported by The Verge, he said, “Realistically, there are probably a bunch of people at the company who shouldn’t be here... And part of my hope by raising expectations and having more aggressive goals, and just kind of turning up the heat a little bit, is that I think some of you might just say that this place isn’t for you. And that self-selection is okay with me.”\n\n\nAsked about today’s meeting, Meta spokesperson Dave Arnold declined to comment but pointed toward comments from Zuckerberg during the last Meta earnings call, where he said, “Our plan is to steadily reduce headcount growth over the next year. Many teams are going to shrink so we can shift energy to other areas.”",
+          "link": "https://www.theverge.com/2022/9/29/23378996/meta-hiring-freeze-layoffs-mark-zuckerberg-facebook",
+          "publishedOn": "2022-09-29T18:58:22.000Z",
+          "wordCount": 7215,
+          "title": "Mark Zuckerberg tells Meta employees that the company is freezing hiring",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/8Q1KvxGmlU590XlJGXIL5Z4tHTs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951351/STK043_VRG_Illo_N_Barclay_5_Meta.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378651/google-text-to-speech-new-voices-android-apps",
+          "author": null,
+          "description": "Google’s text-to-speech tech is getting new voices across Android apps to improve clarity and sound more natural. | The Verge\n    \n\n  \nThe speech engine Speech Services by Google is being upgraded to improve clarity and make text-to-speech voices in Android apps sound more natural. You can hear the difference between the old voices and the updated voices for yourself through prerecorded snippets on the Android Developers Blog. \nFrankly, while the voices do sound clearer, I’m skeptical about the claims it sounds more natural. It’s also still difficult to ascertain what the first sentence in these US English-language recordings actually says — is this my gun? Is this my god? Apparently, it says, “is this mic on?” but that was lost on me.\nOld\n \nNew\n \nAll 421 voices in 67 languages within Google’s speech engine are getting a new voice model\nAll 421 voices in 67 languages within the system are getting a new voice model and synthesizer. The current default voice in “English-US” is changing to one built using “fresher speaker data,” which, alongside other updates, results in a recognizable improvement from the previous default voice. You can also listen to how the updated voices sound in languages such as “Spanish-US” and “Brazilian-Portuguese.” \nThe update announcement says that folks already using text-to-speech tech don’t need to do anything to receive the new voices, as “everything will happen behind the scenes” with the updates being downloaded automatically. Its listing on the Google Play Store states that the service is already used by a variety of native applications such as Google Maps, Google Translate, and the Android Recorder app, so chances are that if you use an Android device, you probably already use the Speech Services by Google speech engine even if you don’t know it. The update is rolling out over the next few weeks to all 64-bit Android devices via the Google Play Store.",
+          "link": "https://www.theverge.com/2022/9/29/23378651/google-text-to-speech-new-voices-android-apps",
+          "publishedOn": "2022-09-29T18:48:21.000Z",
+          "wordCount": 7773,
+          "title": "Google’s text-to-speech engine is getting new voices across Android apps",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378927/kingdom-of-the-planet-of-the-apes-cast-date",
+          "author": null,
+          "description": "Concept art from Kingdom of the Planet of the Apes | Image: 20th Century Studios\n    \n\n  \nThe next entry in the Planet of the Apes saga will start filming soon — and it has yet another very long name. Today, 20th Century Studios unveiled the first real details on Kingdom of the Planet of the Apes, which picks up the story years after 2017’s War for the Planet of the Apes for what’s described as “an all-new chapter.” Production on the film is scheduled to start next month, with Wes Ball, best-known for the Maze Runner trilogy, serving as director.\nWe don’t know much else about the movie, and it’s hard to glean a lot from the initial concept art (see above). But the studio did reveal some of the cast, including Owen Teague (Black Mirror and the newer It films), Freya Allen (The Witcher), and Peter Macon (The Orville). The screenplay comes courtesy a team that includes Josh Friedman (War of the Worlds), Rick Jaffa and Amanda Silver (Rise of the Planet of the Apes), and Patrick Aison (Prey).\nIt’s not clear how exactly you’ll be able to watch Kingdom of the Planet of the Apes. 20th Century says the movie will be out in 2024 but doesn’t specify a theatrical release, and franchise films from the studio like the Predator spinoff Prey have been released directly on Hulu.",
+          "link": "https://www.theverge.com/2022/9/29/23378927/kingdom-of-the-planet-of-the-apes-cast-date",
+          "publishedOn": "2022-09-29T18:35:23.000Z",
+          "wordCount": 7193,
+          "title": "Kingdom of the Planet of the Apes will continue the story in 2024",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Rbnujc6XMuMq3yTiBM3nAw4CD0g=/0x0:2788x1318/1200x628/filters:focal(991x623:992x624)/cdn.vox-cdn.com/uploads/chorus_asset/file/24065360/unnamed.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378549/netflix-desta-the-memories-mobile-ustwo-games",
           "author": null,
           "description": "Image: Ustwo Games / Netflix\n    \n\n  \nThe quality of Netflix games has gone from simple, cotton candy-like fluff suitable for short bursts in a waiting room to bespoke, narrative experiences that require hours of strategic thinking. Desta: The Memories Between is the latter. \nNow I’m going to say some words that make sense independently but seem confusing when smashed together: Desta is a dreaming dodgeball roguelike friendship simulator. I promise you, it works.\n\n\nThat’s the thing that enamored me of this game: those disparate words and genres, when put together, frickin’ work on a level that I simply have not seen in a mobile game, let alone one brought exclusively to mobile via Netflix — whose first crop of games included such BAFTA hopefuls like Shooting Hoops and Teeter (Up). (Desta’s…",
@@ -1688,6 +1738,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/live/2022/09/29/world/russia-ukraine-war-news/putin-will-sign-agreements-on-friday-that-will-allow-takeover-of-ukrainian-regions-the-kremlin-says",
+          "author": "Matthew Mpoke Bigg",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/29/world/russia-ukraine-war-news/putin-will-sign-agreements-on-friday-that-will-allow-takeover-of-ukrainian-regions-the-kremlin-says",
+          "publishedOn": "2022-09-29T18:43:46.000Z",
+          "wordCount": null,
+          "title": "Russia plans to illegally annex lands it invaded, even as its military falters.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/senate-bill-ukraine-government-shutdown.html",
+          "author": "Emily Cochrane",
+          "description": "The stopgap spending measure was the final legislative deadline facing the Senate before the midterm elections. It heads to the House next, with a midnight deadline on Friday.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/senate-bill-ukraine-government-shutdown.html",
+          "publishedOn": "2022-09-29T18:38:33.000Z",
+          "wordCount": null,
+          "title": "Senate Passes Bill to Aid Ukraine and Avert Government Shutdown",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/realestate/mortgage-rates-home-prices.html",
           "author": "Stefanos Chen",
@@ -6217,6 +6287,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602402",
+          "author": "Tomás Mier",
+          "description": "Alex Turner previously said he was inspired by the work of film editor Walter Murch when making LP, The Car",
+          "link": "https://www.rollingstone.com/music/music-news/arctic-monkeys-drop-body-paint-video-1234602402/",
+          "publishedOn": "2022-09-29T18:22:35.000Z",
+          "wordCount": 9258,
+          "title": "Arctic Monkeys Splice Together a Vintage Video for ‘Body Paint’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/artic-monkeys-body-paint.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234602352",
           "author": "Jodi Guglielmi",
           "description": "The first guests for the Hi, How Are You? Podcast includes members of Black Pumas and Surfaces",
@@ -7420,6 +7500,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412740",
+          "author": "Anna Heim",
+          "description": "Seeing significant M&A activity and repricing in the public insurtech cohort left us wondering about their private peers: Are the same trends at play, and to what extent?\n8 investors weigh in on the state of insurtech in Q3 2022 by Anna Heim originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/8-investors-weigh-in-on-the-state-of-insurtech-in-q3-2022/",
+          "publishedOn": "2022-09-29T19:00:32.000Z",
+          "wordCount": 9692,
+          "title": "8 investors weigh in on the state of insurtech in Q3 2022",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311371638.jpg?resize=1200,801"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2412852",
+          "author": "Anna Heim",
+          "description": "The insurtech market has had a rough time this past year, so we reached out to 8 investors to find out where insurtech is headed in Q4.\nDespite its many troubles, the insurtech market is ‘far from dead,’ investors say by Anna Heim originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/despite-its-many-troubles-the-insurtech-market-is-far-from-dead-investors-say/",
+          "publishedOn": "2022-09-29T19:00:02.000Z",
+          "wordCount": 6458,
+          "title": "Despite its many troubles, the insurtech market is ‘far from dead,’ investors say",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1201269168.jpg?resize=1200,531"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2411197",
+          "author": "Brian Heater",
+          "description": "Here’s a question for you: How seriously should we take Amazon’s home robotics play? Perhaps a better way of framing it is: When do we take Amazon’s home robotics play seriously? I realize these sound like pointed questions, and I should specify that they’re not really specific to Amazon. They’re more a result of having […]\nIt’s a sprint, not a marathon by Brian Heater originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/actuator-its-a-sprint-not-a-marathon/",
+          "publishedOn": "2022-09-29T18:30:08.000Z",
+          "wordCount": 8284,
+          "title": "It’s a sprint, not a marathon",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screenshot-2022-09-28-at-5.39.42-PM.jpeg?resize=1200,584"
+        },
         {
           "id": "https://techcrunch.com/?p=2412884",
           "author": "Jacquelyn Melinek",
@@ -10068,6 +10178,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "y3p5q5",
+          "author": "Edward Ongweso Jr",
+          "description": "\"We shouldn't be having nicer pop-ups; we should just not have any pop-ups whatsoever,\" the researcher behind the tool said.",
+          "link": "https://www.vice.com/en_us/article/y3p5q5/open-source-consent-o-matic-tool-lets-anyone-automatically-stop-websites-from-tracking-them",
+          "publishedOn": "2022-09-29T18:21:54.000Z",
+          "wordCount": 5793,
+          "title": "Open-Source ‘Consent-O-Matic’ Tool Lets Anyone Automatically Stop Websites From Tracking Them",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335de83112f84009b7eef86/lede/1664475559719-gettyimages-1405667521-1.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335de83112f84009b7eef86/lede/1664475559719-gettyimages-1405667521-1.jpeg"
+        },
+        {
           "id": "7k8ewe",
           "author": "Chloe Xiang",
           "description": "The western Arctic Ocean's high rate of acidification magnifies the impact of carbon dioxide on all of our oceans, which will likely face a similar fate.",
@@ -12082,6 +12207,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849596703",
+          "author": "Sisi Jiang",
+          "description": "Remember the anal bead cheating controversy? As much as I’d like to forget, it turns out that a lot of people are still thinking about it. Some chess players have reported an uptick of computer-aided cheating in Chess.com matches ever since the story about Hans Niemann broke. One player has dubbed the recent surge in…\nRead more...",
+          "link": "https://kotaku.com/chess-com-how-to-cheating-hans-neimann-magnus-carlsen-1849596703",
+          "publishedOn": "2022-09-29T18:15:00.000Z",
+          "wordCount": 6975,
+          "title": "Chess Players Are Convinced That The Anal Bead Controversy Is Causing More Online Cheating",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fbb0874aca6359a6ad293da57cb1008.jpg"
+        },
+        {
           "id": "1849597014",
           "author": "Ethan Gach",
           "description": "Google is shutting down its video game streaming service, Stadia, on January 18th, 2023, the company announced today. All purchases will be refunded and the technology will still be used for YouTube and other parts of its business, but the consumer-facing app and storefront will be shuttered for good less than five…\nRead more...",
@@ -13058,6 +13193,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/gaming/23378769/google-stadia-refunds",
+          "author": null,
+          "description": "Photo: Justin Sullivan/Getty Images\n    \n\n  \nGoogle will shutter the game-streaming service in January 2023\n Such is the downstream effect of gaming’s recent pivot away from physical media: Google is shutting down Stadia, its beleaguered game-streaming platform, in January 2023. In other words, if you’re a Stadia user, you’ll effectively be unable to play any Stadia games you own. But hey, at least you can get a refund!\nIt’s been a rocky three years for Stadia, which Google first rolled out in 2019 to a mix of intrigue and skepticism. Stadia purported to revolutionize the way we play games, allowing players to stream major video games without need of a console or high-end PC. But an anemic game library and a confusing pricing model limited its reach. As such, Stadia never took off like the…",
+          "link": "https://www.polygon.com/gaming/23378769/google-stadia-refunds",
+          "publishedOn": "2022-09-29T18:56:59.000Z",
+          "wordCount": 2661,
+          "title": "How to get a refund for Google Stadia",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/G5hBZaacBKB2UbqRulblN8AVVms=/0x439:5292x3210/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15975882/GettyImages_1136864094.jpg"
+        },
         {
           "id": "https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review",
           "author": null,
@@ -14062,6 +14207,26 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "822298bb-442f-4611-81a3-ff2561d65518",
+          "author": "Ryan Leston",
+          "description": "Xbox Games With Gold has just announced its October line up, including Windbound and Bomber Crew Deluxe Edition.",
+          "link": "https://www.ign.com/articles/xbox-games-with-gold-october-2022-revealed",
+          "publishedOn": "2022-09-29T16:13:33.000Z",
+          "wordCount": 8517,
+          "title": "Xbox Games With Gold for October 2022 Revealed",
+          "imageUrl": "https://assets-prd.ignimgs.com/2020/08/04/sailing-01-1596581214082.jpg?width=1280"
+        },
+        {
+          "id": "ed10c3d5-9e66-4edc-a6b1-3058048f5463",
+          "author": "JMBurge$$",
+          "description": "",
+          "link": "https://www.ign.com/articles/rewrite-destiny-in-valkyrie-elysium",
+          "publishedOn": "2022-09-29T16:00:30.000Z",
+          "wordCount": 8971,
+          "title": "Rewrite Destiny in Valkyrie Elysium",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/yggdora-ka-beauty-1920x1080-1664404417745.png?width=1280"
+        },
         {
           "id": "629720a5-3934-48d8-abef-4d7b0dd10225",
           "author": "Ryan Leston",
@@ -23337,6 +23502,16 @@
           "wordCount": 6650,
           "title": "Most expensive Made in India luxury EV launch tomorrow",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94528050,width-1070,height-580,imgsize-560062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Congress of today is a ghost of its glorious past self.",
+          "link": "https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms",
+          "publishedOn": "2022-09-29T07:08:40.000Z",
+          "wordCount": 7077,
+          "title": "First among equals: Why Congress still matters more than rest of the opposition",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94527469,width-1070,height-580,imgsize-59818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/mouni-roy-dazzles-in-strapless-white-dress-with-husband-suraj-nambira-at-her-birthday-bash-jannat-zubair-and-other-celebs-attend/photostory/94527102.cms",
