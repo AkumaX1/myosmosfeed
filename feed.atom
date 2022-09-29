@@ -2,10 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T11:09:34.039Z</updated>
+    <updated>2022-09-29T12:20:52.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka]]></title>
+        <id>https://techcrunch.com/?p=2412340</id>
+        <link href="https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/"/>
+        <updated>2022-09-29T12:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Aiven, which provides fully-managed and hosted services for major open source projects including Kafka, Cassandra, and Grafana, has announced its first ever acquisition — the Finnish company has snapped up Kafkawize, a self-service open source data governance tool for Apache Kafka. Terms of the deal were not disclosed. The acquisition comes amid a renewed focus […]
+Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka by Paul Sawers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Paul Sawers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Mona Lisa and the Blood Moon’ Review: Escape From New Orleans]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html"/>
+        <updated>2022-09-29T12:04:51.000Z</updated>
+        <summary type="html"><![CDATA[This hyper-stylized quasi-superhero movie by Ana Lily Amirpour follows a mental hospital patient with supernatural abilities; it looks a lot more fun than it actually is.]]></summary>
+        <author>
+            <name>Beatrice Loayza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairphone adds fully refurbished handsets to its modular reuse mix]]></title>
+        <id>https://techcrunch.com/?p=2412353</id>
+        <link href="https://techcrunch.com/2022/09/29/fairphone-3-refurbished/"/>
+        <updated>2022-09-29T12:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Away from the premium smartphone feature-utility hyperbole swirling around dynamic islands, mobile devices remain much of a muchness. But ethical mobile brand Fairphone has always done innovation differently — applying attention to supply chain conditions and novel modularity to support repairability and lifespan longevity, with a dual mission to make consumer electronics more ethical and […]
+Fairphone adds fully refurbished handsets to its modular reuse mix by Natasha Lomas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sri Lanka Parliamentary panel headed by PM Gunawardena sets up sub-committee to tackle economic crisis]]></title>
+        <id>https://www.thehindu.com/news/international/sri-lanka-parliamentary-panel-headed-by-pm-gunawardena-sets-up-sub-committee-to-tackle-economic-crisis/article65950534.ece</id>
+        <link href="https://www.thehindu.com/news/international/sri-lanka-parliamentary-panel-headed-by-pm-gunawardena-sets-up-sub-committee-to-tackle-economic-crisis/article65950534.ece"/>
+        <updated>2022-09-29T12:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Sri Lanka owes $51 billion in foreign debt, of which $28 billion must be paid by 2027]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two GameStop documentaries miss the forest for the memes]]></title>
+        <id>https://www.theverge.com/2022/9/29/23377175/gamestop-eat-the-rich-diamond-hands-roaring-kitty-elon-musk-netflix</id>
+        <link href="https://www.theverge.com/2022/9/29/23377175/gamestop-eat-the-rich-diamond-hands-roaring-kitty-elon-musk-netflix"/>
+        <updated>2022-09-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All this fuss for a brick and mortar? | Photo by Sean Hollister / The Verge
+    
+
+
+  
+The whole thing smacks of ‘content’
+ I was somewhat surprised that both Netflix and MSNBC chose to make documentaries about Wall Street Bets, GameStop, and retail traders. The majority of the action takes place online, after all. So what is the visual here? Watching someone type text into a box?
+As a result, MSNBC’s feature, Diamond Hands: The Legend of WallStreetBets, and Netflix’s series, Eat the Rich: The GameStop Saga, rely heavily on stock footage. In the case of Diamond Hands, this has a ’90s MTV type of vibe; in the case of Eat the Rich, it seems like editors just slapped together whatever was handy and cheap.
+These shows appear to be less art and more “content”
+In both cases, these appear to be le…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate change has come for the world’s largest greenhouse gas emitter]]></title>
+        <id>https://www.vox.com/future-perfect/2022/9/29/23375616/china-climate-adaptation-heat-wave-future</id>
+        <link href="https://www.vox.com/future-perfect/2022/9/29/23375616/china-climate-adaptation-heat-wave-future"/>
+        <updated>2022-09-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Smoke and flames rise from a hill during a forest fire in Chongqing, China, on August 18, when the highest temperature recorded there was 112 degrees Farenheit. | Chen Chao/China News Service via Getty Images
+    
+
+  
+China’s catastrophic summer shows its climate adaptation plans still have a long way to go.
+ China just finished one of its most disastrous summers on record, with record-breaking heat, drought, and wildfires leading to water shortages even into the fall. More than 900 million people — or about 64 percent of China’s population — faced brutal heat waves alone, highlighting how much further the nation has to go to protect itself against worsening climate-related disasters.
+As weather historian Maximiliano Herrera told New Scientist magazine last month while the heat waves were …]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andor is the angriest Star Wars has ever been]]></title>
+        <id>https://www.polygon.com/23377563/star-wars-andor-pissed</id>
+        <link href="https://www.polygon.com/23377563/star-wars-andor-pissed"/>
+        <updated>2022-09-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Lucasfilm
+    
+
+
+  
+Forget the Force, get pissed instead
+ Traditionally in Star Wars, getting pissed off doesn’t get you very far. Like a lot of annoying things in the Star Wars mythos, you can blame the Jedi for this: When your most iconic characters and ideas revolve around cool space wizards who adhere to a strict moral code, stepping outside that code becomes the sole provenance of the bad guys. Where this gets tricky for Jedi is that normal, understandable human emotions become anathema. While expansions to the canon add a bit of nuance — love, for example, isn’t forbidden as much as attachment is, and how it can warp a Jedi’s balance in the Force — more negative emotions like fear and anger are more verboten. 
+As Star Wars stories reach beyond Jedi, its heroes slowly shed thes…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's different this time, India says about Biden promise of UN reforms]]></title>
+        <id>https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms"/>
+        <updated>2022-09-29T11:59:27.000Z</updated>
+        <summary type="html"><![CDATA[India believes US President's promise of reforming the UN Security Council is different from past Washington pledges, external affairs minister S.Jaishankar said on Wednesday, while acknowledging that the path to New Delhi's elevation in the body is still not easy and no one country can make it happen.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's different this time, India says about Biden promise of UN reforms]]></title>
+        <id>https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms"/>
+        <updated>2022-09-29T11:59:27.000Z</updated>
+        <summary type="html"><![CDATA[India believes US President's promise of reforming the UN Security Council is different from past Washington pledges, external affairs minister S.Jaishankar said on Wednesday, while acknowledging that the path to New Delhi's elevation in the body is still not easy and no one country can make it happen.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunio raises $15M to combat click fraud with algorithms]]></title>
+        <id>https://techcrunch.com/?p=2404010</id>
+        <link href="https://techcrunch.com/2022/09/29/lunio-raises-15m-to-combat-click-fraud-with-algorithms/"/>
+        <updated>2022-09-29T11:56:47.000Z</updated>
+        <summary type="html"><![CDATA[The digital ads market is robust, with Statista predicting that worldwide spend will reach nearly $900 billion by 2026. But fake and fraudulent ad traffic remains a major problem in the space. Global losses from ad fraud totaled $35 billion in 2020 alone. And beyond the wasted spend, invalid traffic can inflate metrics, leading brands […]
+Lunio raises $15M to combat click fraud with algorithms by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Man Flees Putin’s Draft]]></title>
+        <id>https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html"/>
+        <updated>2022-09-29T11:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Kirill, a 24-year-old from the Moscow region, is taking desperate measures to avoid being conscripted to fight in Ukraine.]]></summary>
+        <author>
+            <name>Sabrina Tavernise, Lynsea Garrison, Will Reid, Michael Benoist, Elisheba Ittoop, Marion Lozano, Dan Powell and Chris Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI maintaining close ties with radical Turkish group which provides arms to Syrian jihadists]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms"/>
+        <updated>2022-09-29T11:40:35.000Z</updated>
+        <summary type="html"><![CDATA[The Popular Front of India (PFI) has been maintaining close ties with a radical Turkish group accused of supplying arms to al-Qaeda-affiliated jihadists in Syria and even two top leaders of the just-banned outfit were hosted by the group, officials said on Thursday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI maintaining close ties with radical Turkish group]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms"/>
+        <updated>2022-09-29T11:40:35.000Z</updated>
+        <summary type="html"><![CDATA[The Popular Front of India (PFI) has been maintaining close ties with a radical Turkish group accused of supplying arms to al-Qaeda-affiliated jihadists in Syria and even two top leaders of the just-banned outfit were hosted by the group, officials said on Thursday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Russian cosmonauts return safely from International Space Station]]></title>
+        <id>https://www.thehindu.com/news/international/three-russian-cosmonauts-return-safely-from-international-space-station/article65950407.ece</id>
+        <link href="https://www.thehindu.com/news/international/three-russian-cosmonauts-return-safely-from-international-space-station/article65950407.ece"/>
+        <updated>2022-09-29T11:37:42.000Z</updated>
+        <summary type="html"><![CDATA[The trio arrived at the station in March]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia set to annex Ukraine territory; West warns of new sanctions]]></title>
+        <id>https://www.thehindu.com/news/international/russia-set-to-annex-ukraine-territory-west-warns-of-new-sanctions/article65950399.ece</id>
+        <link href="https://www.thehindu.com/news/international/russia-set-to-annex-ukraine-territory-west-warns-of-new-sanctions/article65950399.ece"/>
+        <updated>2022-09-29T11:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Russian Parliament says overwhelming support for annexation, but the West, Ukraine decry foul play]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At least four killed, 44 wounded in Israeli raid in West Bank: Palestine officials]]></title>
+        <id>https://www.thehindu.com/news/international/at-least-four-killed-44-wounded-in-israeli-raid-in-west-bank-palestine-officials/article65950432.ece</id>
+        <link href="https://www.thehindu.com/news/international/at-least-four-killed-44-wounded-in-israeli-raid-in-west-bank-palestine-officials/article65950432.ece"/>
+        <updated>2022-09-29T11:35:06.000Z</updated>
+        <summary type="html"><![CDATA[The Palestinian Health Ministry said at least four people were killed and 44 others wounded during an Israeli military raid in the occupied West Bank town of Jenin]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Georgia and the Carolinas, Ian Is Forecast to Cause Heavy Rain and Strong Winds]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/ian-georgia-carolinas-virginia-forecast.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/ian-georgia-carolinas-virginia-forecast.html"/>
+        <updated>2022-09-29T11:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Weakened but still dangerous, the tropical storm is expected to produce strong winds and heavy rains as it moves north to Georgia, the Carolinas and Virginia.]]></summary>
+        <author>
+            <name>Jenny Gross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Thanks Kohli': Federer appreciates Indian batter's message]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/off-the-field/thanks-virat-kohli-tennis-great-roger-federer-appreciates-indian-batters-message/articleshow/94534105.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/off-the-field/thanks-virat-kohli-tennis-great-roger-federer-appreciates-indian-batters-message/articleshow/94534105.cms"/>
+        <updated>2022-09-29T11:23:16.000Z</updated>
+        <summary type="html"><![CDATA[The Indian batting great Virat Kohli on Thursday shared a heartwarming video for tennis legend Roger Federer and replying to his message the Swiss great thanked the Indian batter. Federer took to Instagram and said that he looks forward to come to India soon. "Thanks @ViratKohli I hope to make it to India soon," he wrote in his Instagram story.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajasthan Congress leader calls Pilot loyalist 'traitor', shows video of his 'meeting' with state BJP president]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajasthan-congress-leader-calls-pilot-loyalist-traitor-shows-video-of-his-meeting-with-state-bjp-president/articleshow/94533938.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajasthan-congress-leader-calls-pilot-loyalist-traitor-shows-video-of-his-meeting-with-state-bjp-president/articleshow/94533938.cms"/>
+        <updated>2022-09-29T11:19:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: JAIPUR: Rajasthan Congress leader Dharmendra Rathore, who has been sent a notice for ‘indiscipline' by the party leadership, on Thursday accused Sachi.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eren and Co. Scout Out How to Get People to Give Blood in Attack on TItan Red Cross Collab]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/eren-and-co-scout-out-how-to-get-people-to-give-blood-in-attack-on-titan-red-cross-collab</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/eren-and-co-scout-out-how-to-get-people-to-give-blood-in-attack-on-titan-red-cross-collab"/>
+        <updated>2022-09-29T11:11:16.000Z</updated>
+        <summary type="html"><![CDATA[A new visual of the Scout Regiment in striking white and red was released
+
+
+Eren, Levi, Erwin, Mikasa and Armin know a little about taking blood so the Japanese Red Cross has teamed up with the Scout Regiment members to learn their ways and get a more steady supply in case of an emergency. The newest anime collaboration with the Red Cross Society delivers a new Attack on Titan visual, which can be seen after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shashi Tharoor to file nomination for Congress president post tomorrow]]></title>
+        <id>https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-congress-president-post-tomorrow/articleshow/94533497.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-congress-president-post-tomorrow/articleshow/94533497.cms"/>
+        <updated>2022-09-29T11:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Gehlot's remarks came after the veteran leader met with the party's interim chief Sonia Gandhi at her residence at 10 Janpath in the national capital.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bihar CM Nitish upset over 'free condom' row triggered by IAS officer, hints at possible action]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bihar-cm-nitish-upset-over-row-triggered-by-ias-officer-during-event-for-schoolgirls-hints-at-possible-action/articleshow/94533487.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bihar-cm-nitish-upset-over-row-triggered-by-ias-officer-during-event-for-schoolgirls-hints-at-possible-action/articleshow/94533487.cms"/>
+        <updated>2022-09-29T11:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Bihar chief minister Nitish Kumar on Thursday hinted that action may be taken against senior IAS officer Harjot Kaur Bumrah whose indiscretion during a recent interaction with schoolgirls has caused a major embarrassment for his government.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘What We Leave Behind’ Review: A Father’s Final Project]]></title>
         <id>https://www.nytimes.com/2022/09/29/movies/what-we-leave-behind-review.html</id>
@@ -125,6 +373,16 @@ Eurovision Song Contest winners and international superstars Måneskin travelled
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flood relief activities to continue for next two years in Pakistan]]></title>
+        <id>https://timesofindia.indiatimes.com/world/pakistan/flood-relief-activities-to-continue-for-next-two-years-in-pakistan-victims-say-not-our-country/articleshow/94533126.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/pakistan/flood-relief-activities-to-continue-for-next-two-years-in-pakistan-victims-say-not-our-country/articleshow/94533126.cms"/>
+        <updated>2022-09-29T10:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Pakistan News: ISLAMABAD: The flood relief activities in Pakistan are likely to continue for the next two years, planning minister Ahsan Iqbal said on Thursday, citi.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Humiliated’ and ‘harassed’: Ukrainians recount life under occupation]]></title>
         <id>https://www.thehindu.com/news/international/humiliated-and-harassed-ukrainians-recount-life-under-occupation/article65950145.ece</id>
         <link href="https://www.thehindu.com/news/international/humiliated-and-harassed-ukrainians-recount-life-under-occupation/article65950145.ece"/>
@@ -156,6 +414,16 @@ Square now supports Apple’s Tap to Pay on iPhones by Ivan Mehta originally pub
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What to Know About Ian and Climate Change]]></title>
+        <id>https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html"/>
+        <updated>2022-09-29T10:42:36.000Z</updated>
+        <summary type="html"><![CDATA[We have the latest on Hurricane Ian, another storm to gather strength with frightening speed.]]></summary>
+        <author>
+            <name>David Leonhardt, Claire Moses and Ian Prasad Philbrick</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twitch is temporarily restricting browser support to just Chrome, Edge, and Firefox]]></title>
         <id>https://www.theverge.com/2022/9/29/23378228/twitch-bot-error-restriction-browser-support-chrome-edge-firefox</id>
         <link href="https://www.theverge.com/2022/9/29/23378228/twitch-bot-error-restriction-browser-support-chrome-edge-firefox"/>
@@ -168,6 +436,26 @@ Poor communications from Twitch have led to confusion following the service anno
 The issues started when users started experiencing errors when logging into the service. Twitch Support then addressed the situation by asking users to login from an up-to-date version of the three suppo…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitamin B12 deficiency: This sign in the feet may be hard to reverse]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-deficiency-this-sign-in-the-feet-may-be-hard-to-reverse/photostory/94532560.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-deficiency-this-sign-in-the-feet-may-be-hard-to-reverse/photostory/94532560.cms"/>
+        <updated>2022-09-29T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Low levels of nutrients in the body can take a drastic toll on our health. Not only does it make us feel weak and less efficient, but it can also give light to serious health problems.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 4 contestants Shweta Tiwari, Sameer Soni still bond together]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-bffs-from-karan-kundrra-umar-riaz-to-pratik-sehajpal-simba-nagpal-these-celebs-were-inseparable-in-the-house/shweta-tiwari-and-samir-soni/photostory/94532591.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-bffs-from-karan-kundrra-umar-riaz-to-pratik-sehajpal-simba-nagpal-these-celebs-were-inseparable-in-the-house/shweta-tiwari-and-samir-soni/photostory/94532591.cms"/>
+        <updated>2022-09-29T10:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Bigg Boss 4 contestants Shweta Tiwari and Sameer Soni have remained close ever since their time on the show. They were seen to have a close bond, spending time together and being there for one another whenever needed. Moreover, Sameer was the only person who helped Shweta get through the difficult time she was going through as a result of Dolly Bindra's crude remarks.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -383,6 +671,16 @@ For the first time since its announcement last July, we get to literally hear so
     </entry>
     <entry>
         <title type="html"><![CDATA[15 New Books Coming in October]]></title>
+        <id>https://www.nytimes.com/2022/09/29/books/october-new-book-list.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/books/october-new-book-list.html"/>
+        <updated>2022-09-29T09:00:50.000Z</updated>
+        <summary type="html"><![CDATA[A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.]]></summary>
+        <author>
+            <name>Joumana Khatib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 New Books Coming in October]]></title>
         <id>https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html</id>
         <link href="https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html"/>
         <updated>2022-09-29T09:00:50.000Z</updated>
@@ -399,6 +697,16 @@ For the first time since its announcement last July, we get to literally hear so
         <summary type="html"><![CDATA[A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.]]></summary>
         <author>
             <name>Joumana Khatib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Days of an Outback Town Where Every Breath Can Be Toxic]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html"/>
+        <updated>2022-09-29T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.]]></summary>
+        <author>
+            <name>Yan Zhuang and Matthew Abbott</name>
         </author>
     </entry>
     <entry>
@@ -629,6 +937,16 @@ For the first time since its announcement last July, we get to literally hear so
         <summary type="html"><![CDATA[Food was scarce when I was growing up, so I ate all I could when I had the chance.]]></summary>
         <author>
             <name>Bertrand Cooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Run-Up: American Evangelicalism and the Midterm Elections]]></title>
+        <id>https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html"/>
+        <updated>2022-09-29T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[A new class of American evangelical leaders is shaking up the Republican Party — and raising the stakes of the midterm elections.]]></summary>
+        <author>
+            <name>‘The Run-Up’ Team</name>
         </author>
     </entry>
     <entry>
@@ -2052,6 +2370,15 @@ E-commerce aggregator Una Brands gets $30M to acquire more APAC brands by Cather
         <summary type="html"><![CDATA[Three of the victims were in critical condition, the authorities said. The shooting occurred at a campus in the Bay Area that houses multiple schools.]]></summary>
         <author>
             <name>Eduardo Medina and Kellen Browning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Souza’s Obama Book Cuts Obama Out of the Picture]]></title>
+        <id>https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html"/>
+        <updated>2022-09-28T23:00:04.000Z</updated>
+        <author>
+            <name>Blake Hounshell</name>
         </author>
     </entry>
     <entry>

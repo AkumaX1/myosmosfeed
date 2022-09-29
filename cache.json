@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23377175/gamestop-eat-the-rich-diamond-hands-roaring-kitty-elon-musk-netflix",
+          "author": null,
+          "description": "All this fuss for a brick and mortar? | Photo by Sean Hollister / The Verge\n    \n\n\n  \nThe whole thing smacks of ‘content’\n I was somewhat surprised that both Netflix and MSNBC chose to make documentaries about Wall Street Bets, GameStop, and retail traders. The majority of the action takes place online, after all. So what is the visual here? Watching someone type text into a box?\nAs a result, MSNBC’s feature, Diamond Hands: The Legend of WallStreetBets, and Netflix’s series, Eat the Rich: The GameStop Saga, rely heavily on stock footage. In the case of Diamond Hands, this has a ’90s MTV type of vibe; in the case of Eat the Rich, it seems like editors just slapped together whatever was handy and cheap.\nThese shows appear to be less art and more “content”\nIn both cases, these appear to be le…",
+          "link": "https://www.theverge.com/2022/9/29/23377175/gamestop-eat-the-rich-diamond-hands-roaring-kitty-elon-musk-netflix",
+          "publishedOn": "2022-09-29T12:00:00.000Z",
+          "wordCount": 11682,
+          "title": "Two GameStop documentaries miss the forest for the memes",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TEpK3D-GME7UIXweFQdacDpVGYE=/0x0:4898x3265/1200x628/filters:focal(2449x1633:2450x1634)/cdn.vox-cdn.com/uploads/chorus_asset/file/22263408/gamestop_stock_hero.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378228/twitch-bot-error-restriction-browser-support-chrome-edge-firefox",
           "author": null,
           "description": "Twitch has caused confusion among its users by restricting browser support to just Chrome, Edge and Firefox. | Nick Barclay / The Verge\n    \n\n  \nPoor communications from Twitch have led to confusion following the service announcing that Chrome, Edge, and Firefox are currently the only web browsers officially supported by the popular streaming platform. No context was provided within the announcement, though it appears the restrictions are temporary and have been placed on alternative browsers so that Twitch can locate and shut down access points being used to create masses of bot accounts.\nThe issues started when users started experiencing errors when logging into the service. Twitch Support then addressed the situation by asking users to login from an up-to-date version of the three suppo…",
@@ -1479,6 +1489,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html",
+          "author": "Sabrina Tavernise, Lynsea Garrison, Will Reid, Michael Benoist, Elisheba Ittoop, Marion Lozano, Dan Powell and Chris Wood",
+          "description": "Kirill, a 24-year-old from the Moscow region, is taking desperate measures to avoid being conscripted to fight in Ukraine.",
+          "link": "https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html",
+          "publishedOn": "2022-09-29T11:44:42.000Z",
+          "wordCount": null,
+          "title": "One Man Flees Putin’s Draft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/ian-georgia-carolinas-virginia-forecast.html",
+          "author": "Jenny Gross",
+          "description": "Weakened but still dangerous, the tropical storm is expected to produce strong winds and heavy rains as it moves north to Georgia, the Carolinas and Virginia.",
+          "link": "https://www.nytimes.com/2022/09/29/us/ian-georgia-carolinas-virginia-forecast.html",
+          "publishedOn": "2022-09-29T11:32:30.000Z",
+          "wordCount": null,
+          "title": "In Georgia and the Carolinas, Ian Is Forecast to Cause Heavy Rain and Strong Winds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html",
+          "author": "David Leonhardt, Claire Moses and Ian Prasad Philbrick",
+          "description": "We have the latest on Hurricane Ian, another storm to gather strength with frightening speed.",
+          "link": "https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html",
+          "publishedOn": "2022-09-29T10:42:36.000Z",
+          "wordCount": null,
+          "title": "What to Know About Ian and Climate Change",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-flood-warning.html",
           "author": "Victoria Kim",
           "description": "Rivers and creeks are flooding, and storm surge means there’s nowhere for the water to go.",
@@ -1486,6 +1526,16 @@
           "publishedOn": "2022-09-29T09:42:04.000Z",
           "wordCount": null,
           "title": "Florida Faces ‘Life-Threatening’ Flooding From Hurricane Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html",
+          "author": "Yan Zhuang and Matthew Abbott",
+          "description": "The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.",
+          "link": "https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html",
+          "publishedOn": "2022-09-29T09:00:48.000Z",
+          "wordCount": null,
+          "title": "The Last Days of an Outback Town Where Every Breath Can Be Toxic",
           "imageUrl": null
         },
         {
@@ -1639,6 +1689,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html",
+          "author": "‘The Run-Up’ Team",
+          "description": "A new class of American evangelical leaders is shaking up the Republican Party — and raising the stakes of the midterm elections.",
+          "link": "https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html",
+          "publishedOn": "2022-09-29T09:00:11.000Z",
+          "wordCount": null,
+          "title": "The Run-Up: American Evangelicalism and the Midterm Elections",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/opinion/dating-courtship-relationships.html",
           "author": "Michal Leibowitz",
           "description": "Old-fashioned courtship is having a moment.",
@@ -1746,6 +1806,16 @@
           "publishedOn": "2022-09-28T23:04:33.000Z",
           "wordCount": null,
           "title": "6 Injured in Oakland School Shooting, Police Say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html",
+          "author": "Blake Hounshell",
+          "description": "",
+          "link": "https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html",
+          "publishedOn": "2022-09-28T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Pete Souza’s Obama Book Cuts Obama Out of the Picture",
           "imageUrl": null
         },
         {
@@ -4633,6 +4703,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/books/october-new-book-list.html",
+          "author": "Joumana Khatib",
+          "description": "A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.",
+          "link": "https://www.nytimes.com/2022/09/29/books/october-new-book-list.html",
+          "publishedOn": "2022-09-29T09:00:50.000Z",
+          "wordCount": null,
+          "title": "15 New Books Coming in October",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
           "author": "Joumana Khatib",
           "description": "A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.",
@@ -4939,6 +5019,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html",
+          "author": "Beatrice Loayza",
+          "description": "This hyper-stylized quasi-superhero movie by Ana Lily Amirpour follows a mental hospital patient with supernatural abilities; it looks a lot more fun than it actually is.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html",
+          "publishedOn": "2022-09-29T12:04:51.000Z",
+          "wordCount": null,
+          "title": "‘Mona Lisa and the Blood Moon’ Review: Escape From New Orleans",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/movies/what-we-leave-behind-review.html",
           "author": "Lisa Kennedy",
@@ -6680,6 +6770,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412340",
+          "author": "Paul Sawers",
+          "description": "Aiven, which provides fully-managed and hosted services for major open source projects including Kafka, Cassandra, and Grafana, has announced its first ever acquisition — the Finnish company has snapped up Kafkawize, a self-service open source data governance tool for Apache Kafka. Terms of the deal were not disclosed. The acquisition comes amid a renewed focus […]\nAiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka by Paul Sawers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/",
+          "publishedOn": "2022-09-29T12:12:32.000Z",
+          "wordCount": 8316,
+          "title": "Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/AivenConsoleScreen.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2412353",
+          "author": "Natasha Lomas",
+          "description": "Away from the premium smartphone feature-utility hyperbole swirling around dynamic islands, mobile devices remain much of a muchness. But ethical mobile brand Fairphone has always done innovation differently — applying attention to supply chain conditions and novel modularity to support repairability and lifespan longevity, with a dual mission to make consumer electronics more ethical and […]\nFairphone adds fully refurbished handsets to its modular reuse mix by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/fairphone-3-refurbished/",
+          "publishedOn": "2022-09-29T12:03:36.000Z",
+          "wordCount": 8214,
+          "title": "Fairphone adds fully refurbished handsets to its modular reuse mix",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/09/Fp3sc.jpg?resize=1200,803"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2404010",
+          "author": "Kyle Wiggers",
+          "description": "The digital ads market is robust, with Statista predicting that worldwide spend will reach nearly $900 billion by 2026. But fake and fraudulent ad traffic remains a major problem in the space. Global losses from ad fraud totaled $35 billion in 2020 alone. And beyond the wasted spend, invalid traffic can inflate metrics, leading brands […]\nLunio raises $15M to combat click fraud with algorithms by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/lunio-raises-15m-to-combat-click-fraud-with-algorithms/",
+          "publishedOn": "2022-09-29T11:56:47.000Z",
+          "wordCount": 8638,
+          "title": "Lunio raises $15M to combat click fraud with algorithms",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1326068857.jpg?resize=1200,600"
+        },
         {
           "id": "https://techcrunch.com/?p=2411944",
           "author": "Ivan Mehta",
@@ -10180,6 +10300,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/future-perfect/2022/9/29/23375616/china-climate-adaptation-heat-wave-future",
+          "author": null,
+          "description": "Smoke and flames rise from a hill during a forest fire in Chongqing, China, on August 18, when the highest temperature recorded there was 112 degrees Farenheit. | Chen Chao/China News Service via Getty Images\n    \n\n  \nChina’s catastrophic summer shows its climate adaptation plans still have a long way to go.\n China just finished one of its most disastrous summers on record, with record-breaking heat, drought, and wildfires leading to water shortages even into the fall. More than 900 million people — or about 64 percent of China’s population — faced brutal heat waves alone, highlighting how much further the nation has to go to protect itself against worsening climate-related disasters.\nAs weather historian Maximiliano Herrera told New Scientist magazine last month while the heat waves were …",
+          "link": "https://www.vox.com/future-perfect/2022/9/29/23375616/china-climate-adaptation-heat-wave-future",
+          "publishedOn": "2022-09-29T12:00:00.000Z",
+          "wordCount": 4456,
+          "title": "Climate change has come for the world’s largest greenhouse gas emitter",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/J83p_ZOuY9aD8YW6PGw-VdgAifw=/0x411:2550x1746/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24061882/GettyImages_1415612932a.jpg"
+        },
+        {
           "id": "https://www.vox.com/policy-and-politics/23281683/trans-kids-transition-medicine-surgery",
           "author": null,
           "description": "Stop worrying about what happens if we let kids transition. Worry about what happens if we don’t.\n \n\nWhen Mae Sallean was a teenager, her body and mind began to slip away from each other. Her body and face began to sprout thick hair, her voice dropped, and she felt dissociated from her physical form. Something had gone wrong, and she could not reconcile the person she was with the person the world perceived her as. The disconnect left her profoundly depressed and deeply lonely.\nMae knew, somewhere deep down, that she needed to be a girl. She lacked the language for it. In Mae’s heavily religious Texas community, the existence of queer people was barely acknowledged, and trans people, she says, were only seen “in pornography and on Maury.” But she knew, all the same.\nWhen Mae was 15, her mo…",
@@ -11920,6 +12050,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23377563/star-wars-andor-pissed",
+          "author": null,
+          "description": "Image: Lucasfilm\n    \n\n\n  \nForget the Force, get pissed instead\n Traditionally in Star Wars, getting pissed off doesn’t get you very far. Like a lot of annoying things in the Star Wars mythos, you can blame the Jedi for this: When your most iconic characters and ideas revolve around cool space wizards who adhere to a strict moral code, stepping outside that code becomes the sole provenance of the bad guys. Where this gets tricky for Jedi is that normal, understandable human emotions become anathema. While expansions to the canon add a bit of nuance — love, for example, isn’t forbidden as much as attachment is, and how it can warp a Jedi’s balance in the Force — more negative emotions like fear and anger are more verboten. \nAs Star Wars stories reach beyond Jedi, its heroes slowly shed thes…",
+          "link": "https://www.polygon.com/23377563/star-wars-andor-pissed",
+          "publishedOn": "2022-09-29T12:00:00.000Z",
+          "wordCount": 1916,
+          "title": "Andor is the angriest Star Wars has ever been",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/KA7B6o9FX17VFuBeKH6_HooXNWs=/170x0:3241x1608/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062841/PGM_FF_000915.jpg"
+        },
         {
           "id": "https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview",
           "author": null,
@@ -14119,6 +14259,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/eren-and-co-scout-out-how-to-get-people-to-give-blood-in-attack-on-titan-red-cross-collab",
+          "author": "Daryl Harding",
+          "description": "A new visual of the Scout Regiment in striking white and red was released\n\n\nEren, Levi, Erwin, Mikasa and Armin know a little about taking blood so the Japanese Red Cross has teamed up with the Scout Regiment members to learn their ways and get a more steady supply in case of an emergency. The newest anime collaboration with the Red Cross Society delivers a new Attack on Titan visual, which can be seen after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/eren-and-co-scout-out-how-to-get-people-to-give-blood-in-attack-on-titan-red-cross-collab",
+          "publishedOn": "2022-09-29T11:11:16.000Z",
+          "wordCount": 6007,
+          "title": "Eren and Co. Scout Out How to Get People to Give Blood in Attack on TItan Red Cross Collab",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/96570ada493280c404751a3c65ae74551664449839_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29/beastars-mangaka-paru-itagaki-meets-and-illustrates-italian-rock-band-mneskin",
           "author": "Liam Dempsey",
           "description": "\"MAMMAMIA\" indeed!\n\n\nEurovision Song Contest winners and international superstars Måneskin travelled to Japan last month while on tour, where they met up with BEASTARS creator Paru Itagaki due to vocalist Damiano's love for the series. A special illustration and video were released, so hit the jump for all the details!",
@@ -15436,6 +15586,46 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/sri-lanka-parliamentary-panel-headed-by-pm-gunawardena-sets-up-sub-committee-to-tackle-economic-crisis/article65950534.ece",
+          "author": "AP",
+          "description": "Sri Lanka owes $51 billion in foreign debt, of which $28 billion must be paid by 2027",
+          "link": "https://www.thehindu.com/news/international/sri-lanka-parliamentary-panel-headed-by-pm-gunawardena-sets-up-sub-committee-to-tackle-economic-crisis/article65950534.ece",
+          "publishedOn": "2022-09-29T12:02:22.000Z",
+          "wordCount": 6360,
+          "title": "Sri Lanka Parliamentary panel headed by PM Gunawardena sets up sub-committee to tackle economic crisis",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/398jjl/article65950559.ece/alternates/LANDSCAPE_615/IMG_Turmoil_In_Sri_Lanka_2_1_JFA2ESD4.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/three-russian-cosmonauts-return-safely-from-international-space-station/article65950407.ece",
+          "author": "AP",
+          "description": "The trio arrived at the station in March",
+          "link": "https://www.thehindu.com/news/international/three-russian-cosmonauts-return-safely-from-international-space-station/article65950407.ece",
+          "publishedOn": "2022-09-29T11:37:42.000Z",
+          "wordCount": 6048,
+          "title": "Three Russian cosmonauts return safely from International Space Station",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/y0bdip/article65950460.ece/alternates/LANDSCAPE_615/2022-09-29T113441Z_1758792993_RC2ZQW9QLRBK_RTRMADP_3_SPACE-EXPLORATION-LANDING.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/russia-set-to-annex-ukraine-territory-west-warns-of-new-sanctions/article65950399.ece",
+          "author": "Reuters",
+          "description": "Russian Parliament says overwhelming support for annexation, but the West, Ukraine decry foul play",
+          "link": "https://www.thehindu.com/news/international/russia-set-to-annex-ukraine-territory-west-warns-of-new-sanctions/article65950399.ece",
+          "publishedOn": "2022-09-29T11:35:38.000Z",
+          "wordCount": 6652,
+          "title": "Russia set to annex Ukraine territory; West warns of new sanctions",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lqlybj/article65945464.ece/alternates/LANDSCAPE_615/2022-09-28T050010Z_1376624604_RC2MPW90RW3R_RTRMADP_3_UKRAINE-CRISIS-PUTIN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/at-least-four-killed-44-wounded-in-israeli-raid-in-west-bank-palestine-officials/article65950432.ece",
+          "author": "AP",
+          "description": "The Palestinian Health Ministry said at least four people were killed and 44 others wounded during an Israeli military raid in the occupied West Bank town of Jenin",
+          "link": "https://www.thehindu.com/news/international/at-least-four-killed-44-wounded-in-israeli-raid-in-west-bank-palestine-officials/article65950432.ece",
+          "publishedOn": "2022-09-29T11:35:06.000Z",
+          "wordCount": 6430,
+          "title": "At least four killed, 44 wounded in Israeli raid in West Bank: Palestine officials",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/f0xnlq/article65950439.ece/alternates/LANDSCAPE_615/2022-09-29T103155Z_659610911_RC2YQW9WLH43_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/humiliated-and-harassed-ukrainians-recount-life-under-occupation/article65950145.ece",
           "author": "AFP",
           "description": "The Ukrainian army retook Vysokopillya and three other villages on September 12, during a major counter-offensive on the southern front",
@@ -16482,6 +16672,56 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms",
+          "author": null,
+          "description": "India believes US President's promise of reforming the UN Security Council is different from past Washington pledges, external affairs minister S.Jaishankar said on Wednesday, while acknowledging that the path to New Delhi's elevation in the body is still not easy and no one country can make it happen.",
+          "link": "https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms",
+          "publishedOn": "2022-09-29T11:59:27.000Z",
+          "wordCount": 6669,
+          "title": "It's different this time, India says about Biden promise of UN reforms",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94535318,width-1070,height-580,imgsize-32244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms",
+          "author": null,
+          "description": "The Popular Front of India (PFI) has been maintaining close ties with a radical Turkish group accused of supplying arms to al-Qaeda-affiliated jihadists in Syria and even two top leaders of the just-banned outfit were hosted by the group, officials said on Thursday.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms",
+          "publishedOn": "2022-09-29T11:40:35.000Z",
+          "wordCount": 6817,
+          "title": "PFI maintaining close ties with radical Turkish group which provides arms to Syrian jihadists",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94534629,width-1070,height-580,imgsize-37096,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-congress-leader-calls-pilot-loyalist-traitor-shows-video-of-his-meeting-with-state-bjp-president/articleshow/94533938.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Rajasthan Congress leader Dharmendra Rathore, who has been sent a notice for ‘indiscipline' by the party leadership, on Thursday accused Sachi.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-congress-leader-calls-pilot-loyalist-traitor-shows-video-of-his-meeting-with-state-bjp-president/articleshow/94533938.cms",
+          "publishedOn": "2022-09-29T11:19:46.000Z",
+          "wordCount": 7030,
+          "title": "Rajasthan Congress leader calls Pilot loyalist 'traitor', shows video of his 'meeting' with state BJP president",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-congress-president-post-tomorrow/articleshow/94533497.cms",
+          "author": null,
+          "description": "Gehlot's remarks came after the veteran leader met with the party's interim chief Sonia Gandhi at her residence at 10 Janpath in the national capital.",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoor-to-file-nomination-for-congress-president-post-tomorrow/articleshow/94533497.cms",
+          "publishedOn": "2022-09-29T11:06:22.000Z",
+          "wordCount": 6179,
+          "title": "Shashi Tharoor to file nomination for Congress president post tomorrow",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94533523,width-1070,height-580,imgsize-31816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bihar-cm-nitish-upset-over-row-triggered-by-ias-officer-during-event-for-schoolgirls-hints-at-possible-action/articleshow/94533487.cms",
+          "author": null,
+          "description": "Bihar chief minister Nitish Kumar on Thursday hinted that action may be taken against senior IAS officer Harjot Kaur Bumrah whose indiscretion during a recent interaction with schoolgirls has caused a major embarrassment for his government.",
+          "link": "https://timesofindia.indiatimes.com/india/bihar-cm-nitish-upset-over-row-triggered-by-ias-officer-during-event-for-schoolgirls-hints-at-possible-action/articleshow/94533487.cms",
+          "publishedOn": "2022-09-29T11:02:36.000Z",
+          "wordCount": 6646,
+          "title": "Bihar CM Nitish upset over 'free condom' row triggered by IAS officer, hints at possible action",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94533807,width-1070,height-580,imgsize-45206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/ours-friendly-contest-and-not-battle-between-rivals-says-tharoor-after-digvijaya-singh-meets-him/articleshow/94531292.cms",
           "author": null,
@@ -19320,6 +19560,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/flood-relief-activities-to-continue-for-next-two-years-in-pakistan-victims-say-not-our-country/articleshow/94533126.cms",
+          "author": null,
+          "description": "Pakistan News: ISLAMABAD: The flood relief activities in Pakistan are likely to continue for the next two years, planning minister Ahsan Iqbal said on Thursday, citi.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/flood-relief-activities-to-continue-for-next-two-years-in-pakistan-victims-say-not-our-country/articleshow/94533126.cms",
+          "publishedOn": "2022-09-29T10:58:26.000Z",
+          "wordCount": 10673,
+          "title": "Flood relief activities to continue for next two years in Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94533348,width-1070,height-580,imgsize-69668,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/japans-army-issues-rare-apology-over-sexual-harassment-case/articleshow/94532257.cms",
           "author": null,
           "description": "Yoshihide Yoshida, head of Japan’s Ground Self-Defense Force, said an internal investigation found evidence that several servicemen were involved in the case brought by former soldier Rina Gonoi last month.",
@@ -20733,6 +20983,56 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms",
+          "author": null,
+          "description": "India believes US President's promise of reforming the UN Security Council is different from past Washington pledges, external affairs minister S.Jaishankar said on Wednesday, while acknowledging that the path to New Delhi's elevation in the body is still not easy and no one country can make it happen.",
+          "link": "https://timesofindia.indiatimes.com/india/its-different-this-time-india-says-about-biden-promise-of-un-reforms/articleshow/94535273.cms",
+          "publishedOn": "2022-09-29T11:59:27.000Z",
+          "wordCount": 6669,
+          "title": "It's different this time, India says about Biden promise of UN reforms",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94535318,width-1070,height-580,imgsize-32244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms",
+          "author": null,
+          "description": "The Popular Front of India (PFI) has been maintaining close ties with a radical Turkish group accused of supplying arms to al-Qaeda-affiliated jihadists in Syria and even two top leaders of the just-banned outfit were hosted by the group, officials said on Thursday.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms",
+          "publishedOn": "2022-09-29T11:40:35.000Z",
+          "wordCount": 6817,
+          "title": "PFI maintaining close ties with radical Turkish group",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94534629,width-1070,height-580,imgsize-37096,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/off-the-field/thanks-virat-kohli-tennis-great-roger-federer-appreciates-indian-batters-message/articleshow/94534105.cms",
+          "author": null,
+          "description": "The Indian batting great Virat Kohli on Thursday shared a heartwarming video for tennis legend Roger Federer and replying to his message the Swiss great thanked the Indian batter. Federer took to Instagram and said that he looks forward to come to India soon. \"Thanks @ViratKohli I hope to make it to India soon,\" he wrote in his Instagram story.",
+          "link": "https://timesofindia.indiatimes.com/sports/off-the-field/thanks-virat-kohli-tennis-great-roger-federer-appreciates-indian-batters-message/articleshow/94534105.cms",
+          "publishedOn": "2022-09-29T11:23:16.000Z",
+          "wordCount": 6394,
+          "title": "'Thanks Kohli': Federer appreciates Indian batter's message",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94534093,width-1070,height-580,imgsize-34240,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-deficiency-this-sign-in-the-feet-may-be-hard-to-reverse/photostory/94532560.cms",
+          "author": null,
+          "description": "Low levels of nutrients in the body can take a drastic toll on our health. Not only does it make us feel weak and less efficient, but it can also give light to serious health problems.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-deficiency-this-sign-in-the-feet-may-be-hard-to-reverse/photostory/94532560.cms",
+          "publishedOn": "2022-09-29T10:33:54.000Z",
+          "wordCount": 10059,
+          "title": "Vitamin B12 deficiency: This sign in the feet may be hard to reverse",
+          "imageUrl": "https://static.toiimg.com/photo/94532579.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-bffs-from-karan-kundrra-umar-riaz-to-pratik-sehajpal-simba-nagpal-these-celebs-were-inseparable-in-the-house/shweta-tiwari-and-samir-soni/photostory/94532591.cms",
+          "author": null,
+          "description": "Bigg Boss 4 contestants Shweta Tiwari and Sameer Soni have remained close ever since their time on the show. They were seen to have a close bond, spending time together and being there for one another whenever needed. Moreover, Sameer was the only person who helped Shweta get through the difficult time she was going through as a result of Dolly Bindra's crude remarks.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-bffs-from-karan-kundrra-umar-riaz-to-pratik-sehajpal-simba-nagpal-these-celebs-were-inseparable-in-the-house/shweta-tiwari-and-samir-soni/photostory/94532591.cms",
+          "publishedOn": "2022-09-29T10:30:06.000Z",
+          "wordCount": 9624,
+          "title": "Bigg Boss 4 contestants Shweta Tiwari, Sameer Soni still bond together",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94533003.cms"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup-bcci-sources/articleshow/94531425.cms",
           "author": null,
