@@ -2,10 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T10:12:02.222Z</updated>
+    <updated>2022-09-29T11:09:34.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘What We Leave Behind’ Review: A Father’s Final Project]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/what-we-leave-behind-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/what-we-leave-behind-review.html"/>
+        <updated>2022-09-29T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[At 89, Julián Moreno began building a home in Mexico for his children who had immigrated to the U.S. His granddaughter made the poignant documentary “What We Leave Behind.”]]></summary>
+        <author>
+            <name>Lisa Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I Didn’t See You There’ Review: A View From His Seat]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/i-didnt-see-you-there-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/i-didnt-see-you-there-review.html"/>
+        <updated>2022-09-29T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[The filmmaker Reid Davenport, by turns pensive and irritated, takes viewers inside his life as a disabled person through footage shot entirely from his perspective.]]></summary>
+        <author>
+            <name>Nicolas Rapold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘InHospitable’ Review: Fight for Survival]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/inhospitable-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/inhospitable-review.html"/>
+        <updated>2022-09-29T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Patients push back on a medical behemoth in this persuasive health care documentary.]]></summary>
+        <author>
+            <name>Ben Kenigsberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Sirens’ Review: The Risk in Rocking Out in Beirut]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/sirens-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/sirens-review.html"/>
+        <updated>2022-09-29T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[A documentary about an all-female metal group in Lebanon shows the difficulties of asserting complex identities in a repressive environment.]]></summary>
+        <author>
+            <name>Glenn Kenny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘From the Hood to the Holler’ Review: A Race to Galvanize the Poor]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/from-the-hood-to-the-holler-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/from-the-hood-to-the-holler-review.html"/>
+        <updated>2022-09-29T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[A new documentary revisits the former Kentucky state representative Charles Booker’s 2020 campaign to unseat Mitch McConnell in the Senate.]]></summary>
+        <author>
+            <name>Concepción de León</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Justice of Bunny King’ Review: No Way Out]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/the-justice-of-bunny-king-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/the-justice-of-bunny-king-review.html"/>
+        <updated>2022-09-29T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[In this unsteady drama from New Zealand, Bunny, a chronic rule-bender, wants to pay a birthday visit to her daughter, but first she needs a house.]]></summary>
+        <author>
+            <name>Ben Kenigsberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Good House’ Review: Expending Emotional Real Estate]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/the-good-house-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/the-good-house-review.html"/>
+        <updated>2022-09-29T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Sigourney Weaver and Kevin Kline star in a film that hides a story about alcoholism inside a soft focus romance.]]></summary>
+        <author>
+            <name>Teo Bugbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Vesper’ Review: Seeds of Hope]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/vesper-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/vesper-review.html"/>
+        <updated>2022-09-29T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[This elegantly visualized dystopian fantasy envelops us in the world of a gifted girl fending for survival with her sickly father.]]></summary>
+        <author>
+            <name>Nicolas Rapold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Smile’ Review: Grab and Grin]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/smile-review-grab-and-grin.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/smile-review-grab-and-grin.html"/>
+        <updated>2022-09-29T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A young psychiatrist believes she’s being pursued by a malevolent force in this impressive horror feature debut.]]></summary>
+        <author>
+            <name>Jeannette Catsoulis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop worrying about what happens if we let kids transition. Worry about what happens if we don’t.]]></title>
+        <id>https://www.vox.com/policy-and-politics/23281683/trans-kids-transition-medicine-surgery</id>
+        <link href="https://www.vox.com/policy-and-politics/23281683/trans-kids-transition-medicine-surgery"/>
+        <updated>2022-09-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop worrying about what happens if we let kids transition. Worry about what happens if we don’t.
+ 
+
+When Mae Sallean was a teenager, her body and mind began to slip away from each other. Her body and face began to sprout thick hair, her voice dropped, and she felt dissociated from her physical form. Something had gone wrong, and she could not reconcile the person she was with the person the world perceived her as. The disconnect left her profoundly depressed and deeply lonely.
+Mae knew, somewhere deep down, that she needed to be a girl. She lacked the language for it. In Mae’s heavily religious Texas community, the existence of queer people was barely acknowledged, and trans people, she says, were only seen “in pornography and on Maury.” But she knew, all the same.
+When Mae was 15, her mo…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEASTARS Mangaka Paru Itagaki Meets and Illustrates Italian Rock Band Måneskin]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/beastars-mangaka-paru-itagaki-meets-and-illustrates-italian-rock-band-mneskin</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/beastars-mangaka-paru-itagaki-meets-and-illustrates-italian-rock-band-mneskin"/>
+        <updated>2022-09-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA["MAMMAMIA" indeed!
+
+
+Eurovision Song Contest winners and international superstars Måneskin travelled to Japan last month while on tour, where they met up with BEASTARS creator Paru Itagaki due to vocalist Damiano's love for the series. A special illustration and video were released, so hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Humiliated’ and ‘harassed’: Ukrainians recount life under occupation]]></title>
+        <id>https://www.thehindu.com/news/international/humiliated-and-harassed-ukrainians-recount-life-under-occupation/article65950145.ece</id>
+        <link href="https://www.thehindu.com/news/international/humiliated-and-harassed-ukrainians-recount-life-under-occupation/article65950145.ece"/>
+        <updated>2022-09-29T10:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The Ukrainian army retook Vysokopillya and three other villages on September 12, during a major counter-offensive on the southern front]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square now supports Apple’s Tap to Pay on iPhones]]></title>
+        <id>https://techcrunch.com/?p=2411944</id>
+        <link href="https://techcrunch.com/2022/09/29/square-now-supports-apples-tap-to-pay-on-iphones/"/>
+        <updated>2022-09-29T10:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Block, the company behind Square and Cash App, now supports Apple’s Tap to Pay for iPhone feature for merchants. Existing Square users or new businesses wanting to use Square can now use their iPhones to receive payments while using the fintech company’s financial management software. The Jack Dorsey-led company said that merchants can open the […]
+Square now supports Apple’s Tap to Pay on iPhones by Ivan Mehta originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ours 'friendly contest and not battle between rivals', says Tharoor after Digvijaya Singh meets him]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ours-friendly-contest-and-not-battle-between-rivals-says-tharoor-after-digvijaya-singh-meets-him/articleshow/94531292.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ours-friendly-contest-and-not-battle-between-rivals-says-tharoor-after-digvijaya-singh-meets-him/articleshow/94531292.cms"/>
+        <updated>2022-09-29T10:42:48.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Senior Congress leader Digvijaya Singh, who is likely to file his nomination for the Congress president's post on Friday, met Shashi Tharoo.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch is temporarily restricting browser support to just Chrome, Edge, and Firefox]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378228/twitch-bot-error-restriction-browser-support-chrome-edge-firefox</id>
+        <link href="https://www.theverge.com/2022/9/29/23378228/twitch-bot-error-restriction-browser-support-chrome-edge-firefox"/>
+        <updated>2022-09-29T10:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Twitch has caused confusion among its users by restricting browser support to just Chrome, Edge and Firefox. | Nick Barclay / The Verge
+    
+
+  
+Poor communications from Twitch have led to confusion following the service announcing that Chrome, Edge, and Firefox are currently the only web browsers officially supported by the popular streaming platform. No context was provided within the announcement, though it appears the restrictions are temporary and have been placed on alternative browsers so that Twitch can locate and shut down access points being used to create masses of bot accounts.
+The issues started when users started experiencing errors when logging into the service. Twitch Support then addressed the situation by asking users to login from an up-to-date version of the three suppo…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan&#039;s army issues rare apology over sexual harassment case]]></title>
+        <id>https://www.thehindu.com/news/international/japans-army-issues-rare-apology-over-sexual-harassment-case/article65950218.ece</id>
+        <link href="https://www.thehindu.com/news/international/japans-army-issues-rare-apology-over-sexual-harassment-case/article65950218.ece"/>
+        <updated>2022-09-29T10:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Former Japanese soldier Rina Gonoi came forward in late August to request a reinvestigation of an alleged assault on her in 2021 by former male colleagues]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta urged to pay reparations for Facebook’s role in Rohingya genocide]]></title>
+        <id>https://techcrunch.com/?p=2412097</id>
+        <link href="https://techcrunch.com/2022/09/29/amnesty-report-facebook-rohingya-reparations/"/>
+        <updated>2022-09-29T10:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Meta is facing a fresh call to pay reparations to the Rohingya people for Facebook’s role in inciting ethnic violence in Myanmar. A new report by Amnesty International — providing what it calls a “first-of-its kind, in-depth human rights analysis” of the role played by Meta (aka Facebook) in the atrocities perpetrated against the Rohingya […]
+Meta urged to pay reparations for Facebook’s role in Rohingya genocide by Natasha Lomas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's army issues rare apology over sexual harassment case]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/japans-army-issues-rare-apology-over-sexual-harassment-case/articleshow/94532257.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/japans-army-issues-rare-apology-over-sexual-harassment-case/articleshow/94532257.cms"/>
+        <updated>2022-09-29T10:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Yoshihide Yoshida, head of Japan’s Ground Self-Defense Force, said an internal investigation found evidence that several servicemen were involved in the case brought by former soldier Rina Gonoi last month.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRDO starts work on scent pads to train military dogs for detection of explosives/drugs]]></title>
+        <id>https://timesofindia.indiatimes.com/india/drdo-starts-work-on-scent-pads-to-train-military-dogs-for-detection-of-explosives/drugs/articleshow/94531651.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/drdo-starts-work-on-scent-pads-to-train-military-dogs-for-detection-of-explosives/drugs/articleshow/94531651.cms"/>
+        <updated>2022-09-29T10:08:45.000Z</updated>
+        <summary type="html"><![CDATA[India News: CHANDIGARH: In a first, the Defence Research Development Organisation (DRDO) has started working on the development of scent pads for training militar.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft’s new Outlook for Windows now available to all Office testers]]></title>
         <id>https://www.theverge.com/2022/9/29/23378221/microsoft-outlook-windows-new-design-office-insiders</id>
@@ -72,6 +277,16 @@ With tech stocks plummeting, the industry’s billionaire leaders have seen loss
     </entry>
     <entry>
         <title type="html"><![CDATA[Bumrah out of T20 World Cup, say BCCI sources]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup-bcci-sources/articleshow/94531425.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup-bcci-sources/articleshow/94531425.cms"/>
+        <updated>2022-09-29T09:46:23.000Z</updated>
+        <summary type="html"><![CDATA[India's pace spearhead Jasprit Bumrah was on Thursday ruled out of the T20 World Cup with a stress fracture, dealing a massive blow to the team's chances in the ICC event.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bumrah out of T20 World Cup, say BCCI sources]]></title>
         <id>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup/articleshow/94531425.cms</id>
         <link href="https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup/articleshow/94531425.cms"/>
         <updated>2022-09-29T09:46:23.000Z</updated>
@@ -88,6 +303,19 @@ With tech stocks plummeting, the industry’s billionaire leaders have seen loss
         <summary type="html"><![CDATA[Rivers and creeks are flooding, and storm surge means there’s nowhere for the water to go.]]></summary>
         <author>
             <name>Victoria Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Urusei Yatsura TV Anime Blasts New OP/ED in Out of This World Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/new-urusei-yatsura-tv-anime-blasts-new-oped-in-out-of-this-world-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/new-urusei-yatsura-tv-anime-blasts-new-oped-in-out-of-this-world-trailer"/>
+        <updated>2022-09-29T09:36:26.000Z</updated>
+        <summary type="html"><![CDATA[HiDIVE is set to stream the series this season
+
+
+Lum and her cohorts of aliens make their newest debut in next season's Urusei Yatsura TV anime on October 13, but ahead of then, the series released a brand new spaceship-filled trailer that previews the opening and ending theme songs from MAISONdes. Check it out after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -108,6 +336,19 @@ With tech stocks plummeting, the industry’s billionaire leaders have seen loss
         <summary type="html"><![CDATA[Gehlot on Wednesday sought to play down the political crisis in the state for which three of his loyalists have been issued show cause notice by the party's central leadership and said, "internal politics goes on, we'll resolve it".]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASMR Anime Aru Asa Dummy Head ni Natteita Ore-kun no Jinsei Lends an Ear to Its Ending Theme in 1st Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/asmr-anime-aru-asa-dummy-head-ni-natteita-ore-kun-no-jinsei-lends-an-ear-to-its-ending-theme-in-1st-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/asmr-anime-aru-asa-dummy-head-ni-natteita-ore-kun-no-jinsei-lends-an-ear-to-its-ending-theme-in-1st-trailer"/>
+        <updated>2022-09-29T09:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Original series is set to begin airing next month
+
+
+For the first time since its announcement last July, we get to literally hear something out of upcoming ASMR anime Aru Asa Dummy Head ni Natteita Ore-kun no Jinsei with the release of its first trailer today, which previews Tomokazu Sugita as Ore-kun and the ending theme song. Hit the jump to watch!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -454,6 +695,16 @@ Choosing Toyosato’s Former Elementary School as the main location for K-ON!  
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ashok Gehlot out, who else remain in race for Congress president’s post]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-out-who-else-remain-in-race-for-congress-presidents-post/articleshow/94529538.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-out-who-else-remain-in-race-for-congress-presidents-post/articleshow/94529538.cms"/>
+        <updated>2022-09-29T08:34:19.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Rajasthan CM Ashok Gehlot’s announcement that he was withdrawing from the election for the Congress president’s post provided another twist.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ashok Gehlot, Shashi Tharoor, Digvijaya Singh or a dark horse: Who could be next Congress president?]]></title>
         <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-shashi-tharoor-digvijaya-singh-or-a-dark-horse-who-could-be-next-congress-president/articleshow/94529538.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-shashi-tharoor-digvijaya-singh-or-a-dark-horse-who-could-be-next-congress-president/articleshow/94529538.cms"/>
@@ -461,6 +712,16 @@ Choosing Toyosato’s Former Elementary School as the main location for K-ON!  
         <summary type="html"><![CDATA[India News: NEW DELHI: What appeared to be a straightforward fight between Rajasthan CM Ashok Gehlot and former Union minister Shashi Tharoor for the Congress pre.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gehlot out, who else remain in race for Cong prez post]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-out-who-else-remain-in-race-for-congress-presidents-post/articleshow/94529538.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-out-who-else-remain-in-race-for-congress-presidents-post/articleshow/94529538.cms"/>
+        <updated>2022-09-29T08:34:19.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Rajasthan CM Ashok Gehlot’s announcement that he was withdrawing from the election for the Congress president’s post provided another twist.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -2848,6 +3109,16 @@ It remains unclear why Microsoft has decided to end support on iPhones. SwiftKey
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live: Putin to annex four Ukrainian regions to Russia on Friday]]></title>
+        <id>https://timesofindia.indiatimes.com/world/russia-ukraine-war-live-updates-september-29/liveblog/94518570.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/russia-ukraine-war-live-updates-september-29/liveblog/94518570.cms"/>
+        <updated>2022-09-28T19:17:21.000Z</updated>
+        <summary type="html"><![CDATA[The US will provide an additional USD 1.1 billion in aid to Ukraine, with funding for about 18 more advanced rocket systems and other weapons to counter drones that Russia has been using against Ukrainian troops, according to US officials. Stay with TOI for live updates --]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What’s in Our Queue? ‘My Brilliant Friend’ and More]]></title>
         <id>https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html</id>
         <link href="https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html"/>
@@ -2927,6 +3198,16 @@ US senators aim to amend cybersecurity bill to include crypto by Jacquelyn Melin
 Our top 4 Tesla AI day predictions by Rebecca Bellan originally published on TechCrunch]]></summary>
         <author>
             <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Bold Enough to Go Full-Tilt’: Gabby Beans Is Playing to the Balcony]]></title>
+        <id>https://www.nytimes.com/2022/09/28/theater/gabby-beans-im-revolting.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/theater/gabby-beans-im-revolting.html"/>
+        <updated>2022-09-28T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[The actress, a Tony nominee for “The Skin of Our Teeth,” is bringing her sharp eye for comedy to Atlantic Theater Company’s production of “I’m Revolting.”]]></summary>
+        <author>
+            <name>Juan A. Ramírez</name>
         </author>
     </entry>
     <entry>
