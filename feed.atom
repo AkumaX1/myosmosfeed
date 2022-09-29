@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T19:13:52.011Z</updated>
+    <updated>2022-09-29T20:12:34.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Arrests Former NSA Employee For Trying to Sell Top Secret Documents]]></title>
+        <id>4axq7b</id>
+        <link href="https://www.vice.com/en_us/article/4axq7b/fbi-arrests-former-nsa-employee-for-trying-to-sell-top-secret-documents"/>
+        <updated>2022-09-29T20:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The former employee used encrypted email to communicate with someone he thought was a foreign spy, who was actually an FBI agent.]]></summary>
+        <author>
+            <name>Lorenzo  Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Will Freeze Most Hiring, Zuckerberg Tells Employees]]></title>
+        <id>https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html"/>
+        <updated>2022-09-29T20:02:28.000Z</updated>
+        <summary type="html"><![CDATA[The company’s chief executive had signaled for several months that he wanted to rein in costs as he shifts attention toward the metaverse.]]></summary>
+        <author>
+            <name>Sheera Frenkel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix's Autoplay Means You Likely Missed A Cool Cyberpunk: Edgerunners Secret]]></title>
+        <id>1849598321</id>
+        <link href="https://kotaku.com/cyberpunk-2077-edgerunners-lucy-david-tarot-card-1849598321"/>
+        <updated>2022-09-29T19:55:00.000Z</updated>
+        <summary type="html"><![CDATA[If you watched Netflix’s new anime, Cyberpunk: Edgerunners, chances are you’re still coping with its emotionally devastating ending and have brought it up to your therapist unprompted on more than one occasion. But the pain doesn’t stop there, friends. There’s a high probability Netflix’s aggressive autoplay feature,…
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puerto Rico’s Biggest Stars Take Hurricane Relief Into Their Own Hands]]></title>
+        <id>https://www.rollingstone.com/?p=1234602336</id>
+        <link href="https://www.rollingstone.com/music/music-latin/bad-bunny-rauw-alejandro-pj-sin-suela-help-in-puerto-rico-1234602336/"/>
+        <updated>2022-09-29T19:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Rauw Alejandro, PJ Sin Suela, and Bad Bunny are a few of the artists working to help Puerto Ricans after the damage caused by Hurricane Fiona]]></summary>
+        <author>
+            <name>Julyssa Lopez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Intermediate Crosswords]]></title>
+        <id>https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-2.html</id>
+        <link href="https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-2.html"/>
+        <updated>2022-09-29T19:43:22.000Z</updated>
+        <summary type="html"><![CDATA[Moving up to the Wednesday and Thursday puzzles.]]></summary>
+        <author>
+            <name>Jackie Frere and Isaac Aronow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Name Director’s New Anime Has A Girl Romancing A Chair]]></title>
+        <id>1849598161</id>
+        <link href="https://kotaku.com/suzume-makoto-shinkai-anime-trailer-release-your-name-1849598161"/>
+        <updated>2022-09-29T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[While most anime have a muscle-bound hunk or an aloof loner as a protagonist’s romantic partner, the new film from the director of international box-office hit Your Name goes a slightly different route. Suzume, the film’s leading lady, romances a wooden chair. This isn’t an Onion article, that’s the for-realsies…
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republican-led States Sue to Block Biden’s Student Loan Debt Relief]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/politics/suit-biden-student-loan-debt.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/politics/suit-biden-student-loan-debt.html"/>
+        <updated>2022-09-29T19:36:32.000Z</updated>
+        <summary type="html"><![CDATA[The lawsuit accuses President Biden of overstepping his authority in directing the government to cancel as much as $20,000 in student loan debt for millions of people.]]></summary>
+        <author>
+            <name>Michael D. Shear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s Make-A-Video AI achieves a new, nightmarish state of the art]]></title>
+        <id>https://techcrunch.com/?p=2413055</id>
+        <link href="https://techcrunch.com/2022/09/29/meta-make-a-video-ai-achieves-a-new-creepy-state-of-the-art/"/>
+        <updated>2022-09-29T19:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Meta’s researchers have made a significant leap in the AI art generation field with Make-A-Video, the creatively named new technique for — you guessed it — making a video out of nothing but a text prompt. The results are impressive and varied, and all, with no exceptions, slightly creepy. We’ve seen text-to-video models before — […]
+Meta’s Make-A-Video AI achieves a new, nightmarish state of the art by Devin Coldewey originally published on TechCrunch]]></summary>
+        <author>
+            <name>Devin Coldewey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Smile’ Is Pure, Uncut Arthouse Horror With a Grin (and a Killer Gimmick)]]></title>
+        <id>https://www.rollingstone.com/?p=1234601484</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-reviews/smile-horror-movie-review-1234601484/"/>
+        <updated>2022-09-29T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A creepfest about a curse that causes killers and victims to sport psychotically joyful smile knows exactly how to get under your skin, one unnerving expression at a time]]></summary>
+        <author>
+            <name>David Fear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg says Meta will freeze hiring and cut costs]]></title>
+        <id>https://techcrunch.com/?p=2413145</id>
+        <link href="https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/"/>
+        <updated>2022-09-29T19:26:31.000Z</updated>
+        <summary type="html"><![CDATA[After a decade of explosive growth, the company formerly known as Facebook is planning to trim down. Bloomberg reports that Meta CEO Mark Zuckerberg announced plans to freeze hiring and restructure some groups within the company Thursday in an internal all-hands call. According to Bloomberg, Meta plans to shrink budgets widely within the company, including […]
+Mark Zuckerberg says Meta will freeze hiring and cut costs by Taylor Hatmaker originally published on TechCrunch]]></summary>
+        <author>
+            <name>Taylor Hatmaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louis Tomlinson Says Zayn Malik’s Recent 1D Covers Made Him ‘Feel Good’ But Says to ‘Ask Him’ If They’re Friends]]></title>
+        <id>https://www.rollingstone.com/?p=1234602470</id>
+        <link href="https://www.rollingstone.com/music/music-news/louis-tomlinson-talks-zayn-malik-relationship-1234602470/"/>
+        <updated>2022-09-29T19:24:55.000Z</updated>
+        <summary type="html"><![CDATA["I don't know if I'm mature enough now, but I'm definitely closer to being over all that," Tomlinson said of his past tensions with Malik]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York Film Festival: Movies for Art’s Sake]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html"/>
+        <updated>2022-09-29T19:24:51.000Z</updated>
+        <summary type="html"><![CDATA[In “Tár,” “Showing Up” and other selections, the annual event makes the case for big-screen aesthetics and large-scale ambitions.]]></summary>
+        <author>
+            <name>A.O. Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter is adding a new TikTok-like full-screen video feature]]></title>
+        <id>https://techcrunch.com/?p=2413064</id>
+        <link href="https://techcrunch.com/2022/09/29/twitter-adding-new-tiktok-like-video-discovery-feature/"/>
+        <updated>2022-09-29T19:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is adding new features to make it easier for users to watch and discover videos on its platform, the social network announced on Thursday. Most notably, the company is launching a scrollable TikTok-like scrollable video feed. In the coming days, users on iOS will be able to click on a video in their feed […]
+Twitter is adding a new TikTok-like full-screen video feature by Aisha Malik originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming tech can be used to walk through buildings before they’re even constructed]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool</id>
+        <link href="https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool"/>
+        <updated>2022-09-29T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Epic Games
+    
+
+  
+Epic Games is partnering with industry design software giant Autodesk to bring game-like graphics to architecture tools in order to visualize design concepts and plans as more immersive environments. 
+While Autodesk architecture software such as Revit is capable of creating 3D design plans, the partnership will introduce easy-to-use tools to designers, with features typically seen more often in game development, such as Unreal Engine, ray tracing, and a huge library of 3D assets to populate environments. 
+
+
+Anyone subscribed to Autodesk Revit (a building information modeling solution for architects) will now get free access to Epic Game’s Twinmotion, an Unreal Engine-powered real-time visualization tool that’s already being used within the urban planning and cons…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Democrats demand FTC probe Amazon-iRobot deal]]></title>
         <id>https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan</id>
@@ -95,6 +248,25 @@ Asked about today’s meeting, Meta spokesperson Dave Arnold declined to comment
 Google will shutter the game-streaming service in January 2023
  Such is the downstream effect of gaming’s recent pivot away from physical media: Google is shutting down Stadia, its beleaguered game-streaming platform, in January 2023. In other words, if you’re a Stadia user, you’ll effectively be unable to play any Stadia games you own. But hey, at least you can get a refund!
 It’s been a rocky three years for Stadia, which Google first rolled out in 2019 to a mix of intrigue and skepticism. Stadia purported to revolutionize the way we play games, allowing players to stream major video games without need of a console or high-end PC. But an anemic game library and a confusing pricing model limited its reach. As such, Stadia never took off like the…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World of Warcraft: Dragonflight lands this November]]></title>
+        <id>https://www.polygon.com/23378982/world-of-warcraft-dragonflight-release-date</id>
+        <link href="https://www.polygon.com/23378982/world-of-warcraft-dragonflight-release-date"/>
+        <updated>2022-09-29T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+The expansion will introduce the game’s first race and class combination, the Dracthyr Evoker
+ World of Warcraft: Dragonflight, the upcoming ninth expansion for the long-running fantasy MMORPG, is set to be released in late November.
+In a blog posted on the official World of Warcraft website, Blizzard Entertainment detailed that the expansion will introduce the Dragon Isles, a new environment and the ancestral home of the Dragon Aspects, a new playable race known as the Dracthyr, and a new Dracthyr-exclusive player class known as the Evoker. 
+The Evoker is the first race and class combination to come to World of Warcraft, allowing players to switch between a human-like appearance and an anthropomorphic dragon-like form. The expansion will also, naturally, introduce Dragonriding; a new skill-based method of aerial traversal that will allow players to fly on the back of their own personal Drake that can be customized throughout the expansion.
+In addition, World of Warcraft: Dragonflight will also introduce new content such as a cast of new characters, raids, and dungeons, as well as new features in the form of a new talent system, an updated profession system, user interface customization, and more.
+World of Warcraft: Dragonflight will be released on Nov. 28.]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
         </author>

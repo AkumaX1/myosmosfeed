@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool",
+          "author": null,
+          "description": "Image: Epic Games\n    \n\n  \nEpic Games is partnering with industry design software giant Autodesk to bring game-like graphics to architecture tools in order to visualize design concepts and plans as more immersive environments. \nWhile Autodesk architecture software such as Revit is capable of creating 3D design plans, the partnership will introduce easy-to-use tools to designers, with features typically seen more often in game development, such as Unreal Engine, ray tracing, and a huge library of 3D assets to populate environments. \n\n\nAnyone subscribed to Autodesk Revit (a building information modeling solution for architects) will now get free access to Epic Game’s Twinmotion, an Unreal Engine-powered real-time visualization tool that’s already being used within the urban planning and cons…",
+          "link": "https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool",
+          "publishedOn": "2022-09-29T19:15:00.000Z",
+          "wordCount": 7576,
+          "title": "Gaming tech can be used to walk through buildings before they’re even constructed",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ReiuSW8u1FM4_ZvejV-Or1wUKig=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24065402/autodesk_epic_partnership_2022_digital_twins_1920x1080_7542a5394d61.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23379036/amazon-irobot-roomba-elizabeth-warren-antitrust-ftc-lina-khan",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nThe Federal Trade Commission is facing mounting pressure to block Amazon’s proposed $1.65 billion purchase of iRobot, the company behind Roomba autonomous vacuums.\nIn a letter to FTC Chair Lina Khan on Thursday, a group of Democratic lawmakers argued that the proposed merger would unfairly bolster Amazon’s dominance in the smart home market by acquiring one of the company’s leading competitors. They also criticized Amazon’s data privacy and security practices following past acquisitions of companies like Ring, including data sharing partnerships with over 600 law enforcement agencies across the country.\n“iRobot is a powerful market incumbent, and Amazon, given its vast resources, history of producing smart vacuums… and powerful platform, is …",
@@ -1738,6 +1748,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-2.html",
+          "author": "Jackie Frere and Isaac Aronow",
+          "description": "Moving up to the Wednesday and Thursday puzzles.",
+          "link": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-2.html",
+          "publishedOn": "2022-09-29T19:43:22.000Z",
+          "wordCount": null,
+          "title": "How to Solve Intermediate Crosswords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/suit-biden-student-loan-debt.html",
+          "author": "Michael D. Shear",
+          "description": "The lawsuit accuses President Biden of overstepping his authority in directing the government to cancel as much as $20,000 in student loan debt for millions of people.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/suit-biden-student-loan-debt.html",
+          "publishedOn": "2022-09-29T19:36:32.000Z",
+          "wordCount": null,
+          "title": "Republican-led States Sue to Block Biden’s Student Loan Debt Relief",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/live/2022/09/29/world/russia-ukraine-war-news/putin-will-sign-agreements-on-friday-that-will-allow-takeover-of-ukrainian-regions-the-kremlin-says",
           "author": "Matthew Mpoke Bigg",
@@ -4866,6 +4896,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html",
+          "author": "Sheera Frenkel",
+          "description": "The company’s chief executive had signaled for several months that he wanted to rein in costs as he shifts attention toward the metaverse.",
+          "link": "https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html",
+          "publishedOn": "2022-09-29T20:02:28.000Z",
+          "wordCount": null,
+          "title": "Meta Will Freeze Most Hiring, Zuckerberg Tells Employees",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/technology/google-to-shut-down-stadia-video-game-streaming-service.html",
           "author": "Nico Grant",
           "description": "After nearly three years, Google has decided to winnow its video game ambitions because Stadia was less popular than it had anticipated.",
@@ -5479,6 +5519,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html",
+          "author": "A.O. Scott",
+          "description": "In “Tár,” “Showing Up” and other selections, the annual event makes the case for big-screen aesthetics and large-scale ambitions.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html",
+          "publishedOn": "2022-09-29T19:24:51.000Z",
+          "wordCount": null,
+          "title": "The New York Film Festival: Movies for Art’s Sake",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/arts/design/strike-philadelphia-museum-of-art.html",
           "author": "Jon Hurdle",
@@ -6286,6 +6336,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602336",
+          "author": "Julyssa Lopez",
+          "description": "Rauw Alejandro, PJ Sin Suela, and Bad Bunny are a few of the artists working to help Puerto Ricans after the damage caused by Hurricane Fiona",
+          "link": "https://www.rollingstone.com/music/music-latin/bad-bunny-rauw-alejandro-pj-sin-suela-help-in-puerto-rico-1234602336/",
+          "publishedOn": "2022-09-29T19:44:29.000Z",
+          "wordCount": 10201,
+          "title": "Puerto Rico’s Biggest Stars Take Hurricane Relief Into Their Own Hands",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/rauw-alejandro-PR-efforts.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602470",
+          "author": "Tomás Mier",
+          "description": "\"I don't know if I'm mature enough now, but I'm definitely closer to being over all that,\" Tomlinson said of his past tensions with Malik",
+          "link": "https://www.rollingstone.com/music/music-news/louis-tomlinson-talks-zayn-malik-relationship-1234602470/",
+          "publishedOn": "2022-09-29T19:24:55.000Z",
+          "wordCount": 9702,
+          "title": "Louis Tomlinson Says Zayn Malik’s Recent 1D Covers Made Him ‘Feel Good’ But Says to ‘Ask Him’ If They’re Friends",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/louis-tomlinson-on-zayn-malik.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602402",
           "author": "Tomás Mier",
@@ -7124,6 +7194,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234601484",
+          "author": "David Fear",
+          "description": "A creepfest about a curse that causes killers and victims to sport psychotically joyful smile knows exactly how to get under your skin, one unnerving expression at a time",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/smile-horror-movie-review-1234601484/",
+          "publishedOn": "2022-09-29T19:30:00.000Z",
+          "wordCount": 9944,
+          "title": "‘Smile’ Is Pure, Uncut Arthouse Horror With a Grin (and a Killer Gimmick)",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/smilefp02_.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234602319",
           "author": "Tomás Mier",
           "description": "\"You don't think I'm a bad person?\" he asks in it",
@@ -7500,6 +7580,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2413055",
+          "author": "Devin Coldewey",
+          "description": "Meta’s researchers have made a significant leap in the AI art generation field with Make-A-Video, the creatively named new technique for — you guessed it — making a video out of nothing but a text prompt. The results are impressive and varied, and all, with no exceptions, slightly creepy. We’ve seen text-to-video models before — […]\nMeta’s Make-A-Video AI achieves a new, nightmarish state of the art by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/meta-make-a-video-ai-achieves-a-new-creepy-state-of-the-art/",
+          "publishedOn": "2022-09-29T19:30:19.000Z",
+          "wordCount": 5964,
+          "title": "Meta’s Make-A-Video AI achieves a new, nightmarish state of the art",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/make-a-video-header.gif"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413145",
+          "author": "Taylor Hatmaker",
+          "description": "After a decade of explosive growth, the company formerly known as Facebook is planning to trim down. Bloomberg reports that Meta CEO Mark Zuckerberg announced plans to freeze hiring and restructure some groups within the company Thursday in an internal all-hands call. According to Bloomberg, Meta plans to shrink budgets widely within the company, including […]\nMark Zuckerberg says Meta will freeze hiring and cut costs by Taylor Hatmaker originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/",
+          "publishedOn": "2022-09-29T19:26:31.000Z",
+          "wordCount": 6076,
+          "title": "Mark Zuckerberg says Meta will freeze hiring and cut costs",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1140291808.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413064",
+          "author": "Aisha Malik",
+          "description": "Twitter is adding new features to make it easier for users to watch and discover videos on its platform, the social network announced on Thursday. Most notably, the company is launching a scrollable TikTok-like scrollable video feed. In the coming days, users on iOS will be able to click on a video in their feed […]\nTwitter is adding a new TikTok-like full-screen video feature by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/twitter-adding-new-tiktok-like-video-discovery-feature/",
+          "publishedOn": "2022-09-29T19:19:01.000Z",
+          "wordCount": 5530,
+          "title": "Twitter is adding a new TikTok-like full-screen video feature",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/twitter-tiktok-feed.png?resize=1200,835"
+        },
         {
           "id": "https://techcrunch.com/?p=2412740",
           "author": "Anna Heim",
@@ -10178,6 +10288,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "4axq7b",
+          "author": "Lorenzo  Franceschi-Bicchierai",
+          "description": "The former employee used encrypted email to communicate with someone he thought was a foreign spy, who was actually an FBI agent.",
+          "link": "https://www.vice.com/en_us/article/4axq7b/fbi-arrests-former-nsa-employee-for-trying-to-sell-top-secret-documents",
+          "publishedOn": "2022-09-29T20:12:19.000Z",
+          "wordCount": 3706,
+          "title": "FBI Arrests Former NSA Employee For Trying to Sell Top Secret Documents",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335f92046002a009c9e8f4e/lede/1664482141582-nsa.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335f92046002a009c9e8f4e/lede/1664482141582-nsa.jpeg"
+        },
+        {
           "id": "y3p5q5",
           "author": "Edward Ongweso Jr",
           "description": "\"We shouldn't be having nicer pop-ups; we should just not have any pop-ups whatsoever,\" the researcher behind the tool said.",
@@ -12207,6 +12332,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849598321",
+          "author": "Isaiah Colbert",
+          "description": "If you watched Netflix’s new anime, Cyberpunk: Edgerunners, chances are you’re still coping with its emotionally devastating ending and have brought it up to your therapist unprompted on more than one occasion. But the pain doesn’t stop there, friends. There’s a high probability Netflix’s aggressive autoplay feature,…\nRead more...",
+          "link": "https://kotaku.com/cyberpunk-2077-edgerunners-lucy-david-tarot-card-1849598321",
+          "publishedOn": "2022-09-29T19:55:00.000Z",
+          "wordCount": 6438,
+          "title": "Netflix's Autoplay Means You Likely Missed A Cool Cyberpunk: Edgerunners Secret",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d79058965413a2d78fd2a5c26f7462ce.jpg"
+        },
+        {
+          "id": "1849598161",
+          "author": "Isaiah Colbert",
+          "description": "While most anime have a muscle-bound hunk or an aloof loner as a protagonist’s romantic partner, the new film from the director of international box-office hit Your Name goes a slightly different route. Suzume, the film’s leading lady, romances a wooden chair. This isn’t an Onion article, that’s the for-realsies…\nRead more...",
+          "link": "https://kotaku.com/suzume-makoto-shinkai-anime-trailer-release-your-name-1849598161",
+          "publishedOn": "2022-09-29T19:40:00.000Z",
+          "wordCount": 5728,
+          "title": "Your Name Director’s New Anime Has A Girl Romancing A Chair",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/af9021f8d21ce7179d33ccf1537cad65.jpg"
+        },
+        {
           "id": "1849596703",
           "author": "Sisi Jiang",
           "description": "Remember the anal bead cheating controversy? As much as I’d like to forget, it turns out that a lot of people are still thinking about it. Some chess players have reported an uptick of computer-aided cheating in Chess.com matches ever since the story about Hans Niemann broke. One player has dubbed the recent surge in…\nRead more...",
@@ -13202,6 +13347,16 @@
           "wordCount": 2661,
           "title": "How to get a refund for Google Stadia",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/G5hBZaacBKB2UbqRulblN8AVVms=/0x439:5292x3210/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15975882/GettyImages_1136864094.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23378982/world-of-warcraft-dragonflight-release-date",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nThe expansion will introduce the game’s first race and class combination, the Dracthyr Evoker\n World of Warcraft: Dragonflight, the upcoming ninth expansion for the long-running fantasy MMORPG, is set to be released in late November.\nIn a blog posted on the official World of Warcraft website, Blizzard Entertainment detailed that the expansion will introduce the Dragon Isles, a new environment and the ancestral home of the Dragon Aspects, a new playable race known as the Dracthyr, and a new Dracthyr-exclusive player class known as the Evoker. \nThe Evoker is the first race and class combination to come to World of Warcraft, allowing players to switch between a human-like appearance and an anthropomorphic dragon-like form. The expansion will also, naturally, introduce Dragonriding; a new skill-based method of aerial traversal that will allow players to fly on the back of their own personal Drake that can be customized throughout the expansion.\nIn addition, World of Warcraft: Dragonflight will also introduce new content such as a cast of new characters, raids, and dungeons, as well as new features in the form of a new talent system, an updated profession system, user interface customization, and more.\nWorld of Warcraft: Dragonflight will be released on Nov. 28.",
+          "link": "https://www.polygon.com/23378982/world-of-warcraft-dragonflight-release-date",
+          "publishedOn": "2022-09-29T18:51:22.000Z",
+          "wordCount": 2043,
+          "title": "World of Warcraft: Dragonflight lands this November",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/N4XqNp_JamjKWbUtrt_tKNmHFeA=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065456/ZRH610Q7YAUH1658953523750.jpg"
         },
         {
           "id": "https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review",
