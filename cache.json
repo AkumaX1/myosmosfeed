@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023",
+          "author": null,
+          "description": "Google is shutting down Stadia, its cloud gaming service. The service will remain live for players until January 18th, 2023. Google will be refunding all Stadia hardware purchased through the Google Store as well as all the games and add-on content purchased from the Stadia store. Google expects those refunds will be completed in mid-January.\n“A few years ago, we also launched a consumer gaming service, Stadia,” Stadia vice president and GM Phil Harrison said in a blog post. “And while Stadia’s approach to streaming games for consumers was built on a strong technology foundation, it hasn’t gained the traction with users that we expected so we’ve made the difficult decision to begin winding down our Stadia streaming service.” Employees on the Stadia team will be distributed to other parts of the company. \nHarrison says Google sees opportunities to apply Stadia’s technology to other parts of Google, like YouTube, Google Play, and its AR efforts, and the company also plans to “make it available to our industry partners, which aligns with where we see the future of gaming headed,” he wrote.\nThe writing has been on the wall for Stadia for a while now, most recently when Logitech announced its new cloud gaming handheld last week and Stadia was one of the few cloud gaming services not mentioned. But Stadia has been facing rumors of its demise practically from the start. Google has a habit of killing projects only a few years after they launch, and Stadia, a cloud gaming service from a company with few ties in the gaming industry, seemed like a prime candidate for an early demise.\nLast year, rumors abounded it would shut down after the number of games released to the platform slowed and the company shuttered its in-house game development studios. When those rumors popped up again this year, Google insisted that Stadia was not shutting down. “Rest assured we’re always working bringing more great games to the platform and Stadia Pro,” the company said in a tweet. Which was true... until today.",
+          "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023",
+          "publishedOn": "2022-09-29T16:15:00.000Z",
+          "wordCount": 6968,
+          "title": "Google is shutting down Stadia",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WU6wv76I5kReH3F8PAVaY0Ip4ro=/0x0:1379x919/1200x628/filters:focal(690x460:691x461)/cdn.vox-cdn.com/uploads/chorus_asset/file/16322965/stadia_controller_social_media.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance",
+          "author": null,
+          "description": "Waymo says it has created a new benchmark to measure the safety of its autonomous vehicles. | Photo by Justin Sullivan / Getty Images\n    \n\n  \nWaymo’s latest effort to prove that autonomous vehicles are safer than silly, accident-prone humans involves creating a virtual representation of a hyper-attentive driver and then pitting this fake person against its own AVs in a series of simulated tests to see which is better at crash avoidance. \n(Not to spoil it or anything, but the Waymo vehicle did better.)\nImproved safety has been one of the main predictions of the autonomous vehicle (AV) industry. With millions of people dying in auto crashes globally every year, AV operators are increasingly leaning on this safety case to spur regulators to pass legislation allowing more fully autonomous veh…",
+          "link": "https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance",
+          "publishedOn": "2022-09-29T16:00:00.000Z",
+          "wordCount": 8849,
+          "title": "Waymo pitted its autonomous vehicles against a virtual superhuman driver to see which was safer",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Cd1W7pgd9oqd_4VTp9fGHjK4MRU=/0x0:5589x3606/1200x628/filters:focal(2795x1803:2796x1804)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062249/1390904923.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378621/ed-sheeran-celestial-pokemon-video",
+          "author": null,
+          "description": "Pikachu is the star of one of the biggest entertainment franchises around, and as such, he’s unsurprisingly friends with a lot of other celebrities. The electric rat includes the likes of Katy Perry and Post Malone among his inner circle, and now you can add Ed Sheeran to that list.\nSheeran just released his latest music video for the song “Celestial” — not to be confused with Celesteela — and it features notable pocket monsters like Squirtle, Charmander, and Pikachu just hanging out with Sheeran as he goes about his day... before he eventually transforms into a pokémon trainer. The pokémon are all rendered in an adorable cartoon style courtesy of Japanese artist Yu Nagaba.\nIn a press release, Sheeran explains that he’s been a fan of the franchise since he was a kid. “I still own the same Game Boy Color and play Pokémon Yellow or Pokémon Silver on planes and trains when I’m on tour,” he says. A Game Boy even makes an appearance in the music video. The singer / Game of Thrones star was previously featured in Pokémon Go, and the new song will be in the upcoming games Pokémon Violet and Scarlet, which launch on the Switch on November 18th.",
+          "link": "https://www.theverge.com/2022/9/29/23378621/ed-sheeran-celestial-pokemon-video",
+          "publishedOn": "2022-09-29T15:48:15.000Z",
+          "wordCount": 6584,
+          "title": "Pikachu adds Ed Sheeran to his growing list of celebrity friends",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LeR8l0CGHx0pVMojvhR-Lq_f7Cg=/0x0:1748x798/1200x628/filters:focal(874x399:875x400)/cdn.vox-cdn.com/uploads/chorus_asset/file/24064484/Screen_Shot_2022_09_29_at_11.20.50_AM.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378556/lg-oled-flex-lx3-97-inch-g2-pose-lx1-price-release-date-features",
+          "author": null,
+          "description": "LG’s OLED Flex, fully curved. | Photo by Jon Porter / The Verge\n    \n\n  \nLG’s OLED Flex (LX3), a bizarre 42-inch TV that can transform between a curved and flat TV at the push of a button, now has an official price and release date. The South Korean tech giant says it’ll be available in October for $2,999. Alongside it, the company has also announced pricing for the massive 97-inch version of its G2 OLED TV, which costs $24,999 and is available now, as well as the LG OLED Posé (LX1) lifestyle TV, which costs $1,999 for the 55-inch model that’s available now or $1,699 for the 48-inch model coming in November.\nConsidering the exorbitant $100,000 price tag LG slapped on its rollable TV last year, $2,999 for a bendable TV almost sounds affordable. Granted, the LG OLED Flex is over double the p…",
+          "link": "https://www.theverge.com/2022/9/29/23378556/lg-oled-flex-lx3-97-inch-g2-pose-lx1-price-release-date-features",
+          "publishedOn": "2022-09-29T15:34:49.000Z",
+          "wordCount": 7159,
+          "title": "LG’s bendable 42-inch OLED TV goes on sale next month for $3,000",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LU5IDPT_Ywp7Zed4pl2Fg7Yxa2A=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23989779/Watermarked1DSCF0345Jon_Porter.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378337/bitcoin-climate-change-damages-crypto-mining",
           "author": null,
           "description": "Bitcoin Mining Data Centers computers are provided energy from natural gas at Renegade Oil & Gas Company site in Elizabeth, Colorado on July 15th, 2022. | Photo by Hyoung Chang / The Denver Post\n    \n\n  \nThe environmental and social damage Bitcoin inflicts on the world is comparable to notoriously polluting industries such as beef production and crude oil burned as gasoline, according to new a new study published today in the journal Scientific Reports. The research found that every $1 in Bitcoin market value generated an average of 35 cents in global climate damages between 2016 and 2021.\nFor comparison, gasoline generated 41 cents, and beef production was responsible for 33 cents in damages. When it comes to both their economic value and environmental impact, Bitcoin is sometimes compare…",
@@ -1589,6 +1629,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/nyregion/wall-of-death-carnival-motordrome.html",
+          "author": "Allie Conti and Desiree Rios",
+          "description": "To ride a motorcycle in the carnival motordrome, you need to be an alpha dog with sawdust in your veins. Or at least have a driver’s license.",
+          "link": "https://www.nytimes.com/2022/09/29/nyregion/wall-of-death-carnival-motordrome.html",
+          "publishedOn": "2022-09-29T16:08:47.000Z",
+          "wordCount": null,
+          "title": "Where the Wall of Death Is a Way of Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html",
+          "author": "Andrew E. Kramer",
+          "description": "In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: ‘If you want to live, run.’",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html",
+          "publishedOn": "2022-09-29T15:50:17.000Z",
+          "wordCount": null,
+          "title": "Zelensky’s Answer to Escalating Russian Threats: Defiance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/business/stock-market-today.html",
+          "author": "Isabella Simonetti",
+          "description": "Investors are anticipating a global recession as central bankers take a hard line against inflation, looking to slow the economy by raising interest rates.",
+          "link": "https://www.nytimes.com/2022/09/29/business/stock-market-today.html",
+          "publishedOn": "2022-09-29T15:34:41.000Z",
+          "wordCount": null,
+          "title": "Stocks Drop as Focus Shifts Back to a Potential Recession",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html",
           "author": "Zixu Wang",
           "description": "The use of propaganda in the country has been on overdrive in the pandemic, with some Chinese citizens arguing the language has bordered on “nonsense.”",
@@ -1596,6 +1666,16 @@
           "publishedOn": "2022-09-29T14:26:53.000Z",
           "wordCount": null,
           "title": "China’s ‘Absurd’ Covid Propaganda Stirs Rebellion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/business/energy-environment/biden-oil-prices-reserve.html",
+          "author": "Clifford Krauss",
+          "description": "The administration’s move has brought down gasoline prices. Some experts say continued withdrawals could test the nation’s energy security.",
+          "link": "https://www.nytimes.com/2022/09/29/business/energy-environment/biden-oil-prices-reserve.html",
+          "publishedOn": "2022-09-29T14:24:26.000Z",
+          "wordCount": null,
+          "title": "Even as Oil Prices Ease, U.S. Keeps Tapping Strategic Reserve",
           "imageUrl": null
         },
         {
@@ -5170,6 +5250,46 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html",
+          "author": "Andrew E. Kramer",
+          "description": "In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: “If you want to live, run.”",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html",
+          "publishedOn": "2022-09-29T16:14:35.000Z",
+          "wordCount": null,
+          "title": "Zelensky’s Answer to Escalating Russian Threats: Defiance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/design/curators-2024-whitney-biennial.html",
+          "author": "Aruna D’Souza",
+          "description": "Chrissie Iles, a longtime veteran of the museum, and Meg Onli, an important emerging voice in the art world, will organize the 81st edition of the show.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/design/curators-2024-whitney-biennial.html",
+          "publishedOn": "2022-09-29T16:12:41.000Z",
+          "wordCount": null,
+          "title": "Curators for the 2024 Whitney Biennial Are Announced",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/gods-creatures-review.html",
+          "author": "Natalia Winkelman",
+          "description": "Emily Watson is terrific at telegraphing how a mother’s love grinds against her moral code in this atmospheric seaside drama.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/gods-creatures-review.html",
+          "publishedOn": "2022-09-29T15:34:03.000Z",
+          "wordCount": null,
+          "title": "‘God’s Creatures’ Review: A Crisis of Conscience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/argentina-1985-review.html",
+          "author": "Natalia Winkelman",
+          "description": "Santiago Mitre’s impassioned dramatization of the Trial of the Juntas benefits from a gentle evocation of collective memory.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/argentina-1985-review.html",
+          "publishedOn": "2022-09-29T15:29:23.000Z",
+          "wordCount": null,
+          "title": "‘Argentina, 1985’ Review: All the Prosecutor’s Men",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/arts/dance/yvonne-rainer-last-dance.html",
           "author": "Gia Kourlas",
           "description": "With more than a half-century of work behind her, Rainer goes out swinging with “Hellzapoppin’: What About the Bees?,” which takes on themes of race and resistance.",
@@ -5896,6 +6016,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1282853",
+          "author": "Andy Greene",
+          "description": "The transaction includes the music Collins made as a solo artist and with Genesis, along with solo work by keyboardist Tony Banks and guitarist Mike Rutherford",
+          "link": "https://www.rollingstone.com/music/music-news/phil-collins-genesis-part-with-publishing-300-million-deal-concord-music-1282853/",
+          "publishedOn": "2022-09-29T15:56:25.000Z",
+          "wordCount": 9530,
+          "title": "Phil Collins and Genesis Part With Publishing In $300 Million Deal With Concord Music",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/phil-collins.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602249",
           "author": "Jodi Guglielmi",
@@ -6664,6 +6794,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602262",
+          "author": "Daniel Kreps",
+          "description": "Margaret Qualley and Joe Alwyn (a.k.a Taylor Swift’s boyfriend) star in director Claire Denis' Cannes hit",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/stars-at-noon-trailer-1234602262/",
+          "publishedOn": "2022-09-29T15:49:52.000Z",
+          "wordCount": 9064,
+          "title": "‘Stars at Noon’: Watch Steamy New Trailer for A24’s Erotic Thriller",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/https___cdn.sanity.io_images_xq1bjtf4_production_b23b06dff8b03fb19129f2aa5889c9cceeb39b78-8000x3333-1.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234601868",
           "author": "Tomás Mier",
           "description": "I Love You, You Hate Me delves into the death threats and strange drug rumors made about the kids' show",
@@ -7020,6 +7160,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412711",
+          "author": "Lauren Forristal",
+          "description": "Online daters everywhere fear “ghosting.” Inner Circle, a global dating app, is hoping to address this ongoing problem with the launch of five new features that aim to put a stop to the hurtful online dating experience where people cut off contact with another person without any warning or explanation. Inner Circle dubbed this new […]\nDating app Inner Circle adds a suite of anti-ghosting features by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/dating-app-inner-circle-adds-a-suite-of-anti-ghosting-features/",
+          "publishedOn": "2022-09-29T15:43:12.000Z",
+          "wordCount": 7839,
+          "title": "Dating app Inner Circle adds a suite of anti-ghosting features",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Education-Images-TDCS_Closure-Messages.png?resize=1200,767"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2403653",
+          "author": "Lucas Matney",
+          "description": "When it comes to the decentralized world of crypto, few single entities loom larger or carry more weight in the industry than exchange behemoth Binance. The blockchain giant processed $34 trillion in trading volume in 2021, it says, and the exchange shows few signs of resting on its laurels as it pursues bold new bets […]\nBinance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto by Lucas Matney originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/",
+          "publishedOn": "2022-09-29T15:20:44.000Z",
+          "wordCount": 7750,
+          "title": "Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/TC22_Sessions_Crypto_1200x628-cz-2.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2412669",
           "author": "Mike Butcher",
@@ -9528,6 +9688,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "3ad553",
+          "author": "Jaime Silano",
+          "description": "Watch the indie crooner’s reflective new music video for “Oil” today.",
+          "link": "https://www.vice.com/en_us/article/3ad553/elihu-okay-oil-music-video",
+          "publishedOn": "2022-09-29T16:13:02.000Z",
+          "wordCount": 4385,
+          "title": "Elihu Okay’s Music Is Flawed on Purpose",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335baa7eb72de009818eafe/lede/1664466186161-elihu.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335baa7eb72de009818eafe/lede/1664466186161-elihu.jpeg"
+        },
+        {
+          "id": "akennb",
+          "author": "Paul Blest",
+          "description": "It was the strongest hurricane to hit the western coast of Florida since 2004.",
+          "link": "https://www.vice.com/en_us/article/akennb/hurricane-ian-destruction-florida",
+          "publishedOn": "2022-09-29T15:37:51.000Z",
+          "wordCount": 4664,
+          "title": "Here’s What Hurricane Ian Hath Wrought—and It’s Not Over Yet",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335b87346002a009c9e81d7/lede/1664465243963-gettyimages-1243593970.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335b87346002a009c9e81d7/lede/1664465243963-gettyimages-1243593970.jpeg"
+        },
+        {
           "id": "88qvvp",
           "author": "Matthew Gault",
           "description": "“Any deliberate attack against Allies’ critical infrastructure would be met with a united and determined response.”",
@@ -11427,6 +11617,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849596608",
+          "author": "Ashley Bardhan",
+          "description": "PlayStation Stars, a free-to-join rewards program Sony announced in July, is being gently rolled out to the whole world—it’s currently live in Asia, will reach the Americas on October 5, and Europe, Australia, and New Zealand will receive the service on October 13. Not as gently, PlayStation might be pushing players…\nRead more...",
+          "link": "https://kotaku.com/playstation-stars-loyalty-program-customer-support-sony-1849596608",
+          "publishedOn": "2022-09-29T15:55:00.000Z",
+          "wordCount": 5808,
+          "title": "PlayStation Could Reward Big Spenders With Better Customer Support",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/409e2cd4c6a50ed35a978cc66a4cf20f.jpg"
+        },
+        {
+          "id": "1848814100",
+          "author": "Sisi Jiang",
+          "description": "On April 15, an anonymous employee filed a complaint against Nintendo and contracting company Aston Carter with the National Labor Relations Board. The public case docket lists allegations of coercive statements, discharge, retaliation against concerted activities, and surveillance. (Update: The worker recently came…\nRead more...",
+          "link": "https://kotaku.com/nintendo-labor-complaint-union-national-labor-relations-1848814100",
+          "publishedOn": "2022-09-29T15:10:00.000Z",
+          "wordCount": 5940,
+          "title": "Former Nintendo Worker Wants Company President To Apologize After Alleged Firing [Update]",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bcafff626adef357d8e64bec36467c29.jpg"
+        },
+        {
           "id": "1849595424",
           "author": "John Walker",
           "description": "Filtering through the Northern American server of Among Us, users will stumble across a variety of oddly-titled lobbies. “HornyRPOnly,” or “SingleGirl,” even “Hrny Bakugo RP.” Inside these lobbies are a multitude of horny gamers, searching for like minded individuals to cyber with. As a 27-year-old looking to play…\nRead more...",
@@ -12374,6 +12584,26 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update",
+          "author": null,
+          "description": "Image: EA Motive/Electronic Arts\n    \n\n  \nA new EA blogpost lists a host of changes coming to Dead Space’s remake later this year\n The Dead Space remake is finally coming in early 2023, and it’s bringing with it a beloved feature from 2018’s God of War: the game will play out over one continuous shot for the entire time.\nIn a new blog post from EA, which takes quotes from some of the key devs working on the remake from EA Motive, the publisher offers some developer insights on the upcoming horror game. There are interesting details about Dead Space’s community council — a group of hardcore fans who helped advise development — and the new graphical effects for shredding enemies. But the most interesting bit of information concerns the game’s camera and its new content. \nIn the original Dead…",
+          "link": "https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update",
+          "publishedOn": "2022-09-29T15:49:40.000Z",
+          "wordCount": 2373,
+          "title": "God of War’s impressive camera trick inspired the Dead Space remake",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/20w-NaN8hzyaflhAncDPqbP53XE=/75x75:1351x743/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24064546/isaac_in_game_render.jpg.adapt.crop16x9.1455w.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23378502/adventure-zone-new-season-steeplechase-gm-justin-mcelroy-blades-in-the-dark",
+          "author": null,
+          "description": "Image: The McElroy Family\n    \n\n  \nGM Justin McElroy is leading a campaign with the Blades in the Dark ruleset\n The Adventure Zone podcast, the popular actual play series featuring the McElroy family, kicks off its fifth full season today. Called Steeplechase, the campaign is set in a fictional theme park in an alternate future Georgia. Unlike some past TAZ seasons, Steeplechase will not use the 5th edition Dungeons & Dragons ruleset. Instead, game master Justin McElroy is relying on John Harper’s Blades in the Dark, another critically acclaimed tabletop role-playing game.\nBlades in the Dark was first published in 2017 by Evil Hat Productions. The game is set in the fictional setting of Doskvol, a European-inspired city in the throws of an industrial revolution and plagued by undead spirit…",
+          "link": "https://www.polygon.com/23378502/adventure-zone-new-season-steeplechase-gm-justin-mcelroy-blades-in-the-dark",
+          "publishedOn": "2022-09-29T15:19:52.000Z",
+          "wordCount": 2849,
+          "title": "The Adventure Zone’s new season moves from Dungeons & Dragons to something even better",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Xt85oR2BGMPaCbS8wfdayWgnmcU=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24064426/steeplechase.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23378454/goat-simulator-3-fortnite-skin-pre-order-purchase-store-trailer",
           "author": null,
           "description": "Image: Coffee Stain Studios/Epic Games\n    \n\n  \nPlayers who purchase Goat Simulator 3 on the Epic Games Store can get the skin for free\n Epic Games and Coffee Stain — the studio behind Satisfactory and Goat Simulator — are partnering up for a terrifying Fortnite skin to get you in the mood for scary season. Starting Thursday and running until Sept. 29, 2023, players who purchase Goat Simulator 3 on the Epic Games store will get the “A Goat” skin in Fortnite. \nThis Fortnite skin is available now to players who buy the game, even though Coffee Stain won’t launch Goat Simulator 3 until later this year, on Nov. 17. For players who want the skin but aren’t interested in destructive goat shenanigans, “A Goat” will also come to Fortnite’s in-game shop on Nov. 26.\nImage: Coffee Stain Studios/Epic Games\n  \nAs for the skin itself, it’s a half-human, half-goat hybrid that is truly haunting — Black Phillip himself would be proud. The goat is grey, has a farm tag on its left ear, a crop top, and slacks. Coffee Stain released a trailer to reveal the skin on Thursday, which shows the titular goat from Goat Simulator going through a training montage before essentially jacking into the matrix.\nFor the uninitiated, Goat Simulator is a sandbox comedy series where you essentially run around and cause mayhem as a goat. And despite the upcoming game having a three after the title, there has actually only been one Goat Simulator so far. Goat Simulator 3 will let players partner up in co-op and cause a wide variety of mischief, from headbutting camera guys to flying off into the sunset with goat jetpacks.",
@@ -12820,6 +13050,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare",
+          "author": null,
+          "description": "Image: Studio Trigger/Netflix\n    \n\n  \nBesides Ghost in the Shell and Akira, that is\n Cyberpunk: Edgerunners has taken the Internet by storm. The latest anime by Studio Trigger and director Hiroyuki Imaishi is based on the universe of Cyberpunk 2077 and Mike Pondsmith’s TTRPG. The 10-episode limited series has not only won the hearts of critics and anime fans alike as one of the best series to premiere this year, but also managed to reinvigorate the game’s fan base in an impressive display of post-launch synergy.\nThe people have spoken: They want more cyberpunk. And while the anime itself may have reached its natural conclusion, and the first (and presumably last) DLC expansion for Cyberpunk 2077 is still quite a ways away, we’ve scoured our databanks to bring you a list of some of the bes…",
+          "link": "https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare",
+          "publishedOn": "2022-09-29T16:05:00.000Z",
+          "wordCount": 3672,
+          "title": "7 anime to watch if you like Cyberpunk: Edgerunners",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2URJ4doaSLwg8GpzN5TF_2laDgg=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24052465/CyberpunkEdgerunners_3.jpg"
+        },
         {
           "id": "https://www.polygon.com/reviews/23376739/bros-review-billy-eichner-gay-rom-com",
           "author": null,
@@ -13278,6 +13518,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "629720a5-3934-48d8-abef-4d7b0dd10225",
+          "author": "Ryan Leston",
+          "description": "Classic RPG The Elder Scrolls V: Skyrim Anniversary Edition just unexpectedly landed on Nintendo Switch and is available to download now on the eShop.",
+          "link": "https://www.ign.com/articles/skyrim-anniversary-edition-got-a-surprise-switch-release-today",
+          "publishedOn": "2022-09-29T14:23:37.000Z",
+          "wordCount": 8894,
+          "title": "Skyrim: Anniversary Edition Got a Surprise Switch Release Today",
+          "imageUrl": "https://assets-prd.ignimgs.com/2021/07/13/skyrimspecialedition-1280-1510795773755-1626181651526.jpg?width=1280"
+        },
+        {
           "id": "5633e671-3288-49ba-b150-3f4d63c9b4f6",
           "author": "JMBurge$$",
           "description": "Our early review impressions of Overwatch 2 before the hero shooter gets ready to launch on October 4th.",
@@ -13296,6 +13546,16 @@
           "wordCount": 7872,
           "title": "Scorn Release Date Moved Forward",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/09/29/screenshot-2022-09-29-114043-1664448051512.png?width=1280"
+        },
+        {
+          "id": "ef644636-aa15-4382-98c3-101e8c69d117",
+          "author": null,
+          "description": "If you've got a big home and your router isn't cutting it, you should consider a Wi-Fi mesh system.",
+          "link": "https://www.ign.com/articles/best-mesh-router",
+          "publishedOn": "2022-09-29T11:36:26.000Z",
+          "wordCount": 17343,
+          "title": "Best Mesh Router 2022",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/06/06/mesh-wi-fi-2-1654475241734.jpg?width=1280"
         },
         {
           "id": "5a714cb1-24e8-476f-807f-97056cd0435d",
@@ -15059,6 +15319,46 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/ed-sheeran-battles-mewtwo-in-new-music-video-celebrating-the-classic-pokmon-anime-film",
+          "author": "Daryl Harding",
+          "description": "Sheeran goes sakuga in \"Celestial\"\n\n\nIf \"anime Ed Sheeran is transported into Pokémon The First Movie in one of the best-animated sequences in 2022\" was on your scorecard for this year then congratulations, you win! As do the rest of us with the music video for Ed Sheeran's \"Celestial\" released today, blowing away expectations after the tease last week. Catch the music video after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/ed-sheeran-battles-mewtwo-in-new-music-video-celebrating-the-classic-pokmon-anime-film",
+          "publishedOn": "2022-09-29T15:49:03.000Z",
+          "wordCount": 6005,
+          "title": "Ed Sheeran Battles Mewtwo in New Music Video Celebrating the Classic Pokémon Anime Film",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/8635294530d86d7a56b9562c677ea31a1664466516_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/heres-the-exact-time-my-hero-academia-season-6-begins",
+          "author": "Joseph Luster",
+          "description": "The heroics will finally be on display again starting October 1 at 2:30am PT\n\n\nOne of the most electrifying additions to Crunchyroll's Fall 2022 Lineup is My Hero Academia Season 6, which brings the battle between heroes and villains to a head this weekend. Read on for the exact time!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/heres-the-exact-time-my-hero-academia-season-6-begins",
+          "publishedOn": "2022-09-29T15:30:00.000Z",
+          "wordCount": 5953,
+          "title": "Here's the Exact Time My Hero Academia Season 6 Begins!",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/683bf06f4504943b324c88c13a6ab7b91664308700_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/the-devil-is-a-part-timer-orders-fresh-anime-sequel-for-2023",
+          "author": "Liam Dempsey",
+          "description": "Season 2 concluded with its 12th episode today\n\n\nThe longest wait for a sequel announcement has turned into the shortest possible wait, as a new installment in The Devil is a Part-Timer! anime series was immediately announced after the conclusion of its long-awaited second season. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/the-devil-is-a-part-timer-orders-fresh-anime-sequel-for-2023",
+          "publishedOn": "2022-09-29T15:05:00.000Z",
+          "wordCount": 5966,
+          "title": "The Devil is a Part-Timer! Orders Fresh Anime Sequel for 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/f27988380c212b7522b7d77d37d79a1e1664464207_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/09/29-1/feature-after-all-these-years-the-stakes-are-still-high-in-dragon-ball",
+          "author": "Sean Aitchison",
+          "description": "Just because the Dragon Balls can resurrect people, doesn’t mean the stakes are gone\n\n\nThe Dragon Balls and the wishes they grant can often feel like a clean-up that erases consequences after every saga, rendering the stakes pointless. That couldn't be further from the truth. As the series' sense of permanent death evolved over time, so too did its stakes and how they gave meaning to every battle of every saga. Hit the jump to see how Dragon Ball changed to match its evolving idea of death.",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/09/29-1/feature-after-all-these-years-the-stakes-are-still-high-in-dragon-ball",
+          "publishedOn": "2022-09-29T15:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: After All These Years, the Stakes Are Still High in Dragon Ball",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/new-pokmon-wiglett-worms-its-way-into-scarlet-and-violet",
           "author": "Daryl Harding",
           "description": "Catch Pokémon Scarlet and Violet on November 18 \n\n\nTrainers all around the world were teased about a brand new Pokémon that looked like Diglett but with a bit of a long-catifed change. Today, the mammoth franchise confirmed the existence of Wiglett, a water-type variant of the ground-type Pokémon and from the mouth of the devs themselves \"it’s really a completely different species of Pokémon!\" Catch more after the jump!",
@@ -16426,6 +16726,66 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/lebanon-fails-to-elect-new-president-as-political-crisis-deepens/article65951556.ece",
+          "author": "AFP",
+          "description": "Beirut",
+          "link": "https://www.thehindu.com/news/international/lebanon-fails-to-elect-new-president-as-political-crisis-deepens/article65951556.ece",
+          "publishedOn": "2022-09-29T16:05:26.000Z",
+          "wordCount": 6448,
+          "title": "Lebanon fails to elect new president as political crisis deepens",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/uswxu8/article34096362.ece/alternates/LANDSCAPE_615/Lebanons-President-Michel-Aoun-is-pictured-at-the-presidential-palace-in-Baabda"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/iran-arrests-reporter-who-covered-amini-funeral-lawyer/article65951182.ece",
+          "author": "AFP",
+          "description": "Iran arrested a reporter who covered the funeral of Mahsa Amini",
+          "link": "https://www.thehindu.com/news/international/iran-arrests-reporter-who-covered-amini-funeral-lawyer/article65951182.ece",
+          "publishedOn": "2022-09-29T15:54:03.000Z",
+          "wordCount": 6328,
+          "title": "Iran arrests reporter who covered Amini funeral: Lawyer",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/d29tec/article65949814.ece/alternates/LANDSCAPE_615/2022-09-28T164214Z_908053579_RC2NWS90AG7W_RTRMADP_3_IRAN-WOMEN-IRAQ.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/finland-closing-border-to-russians-with-eu-tourist-visas/article65951176.ece",
+          "author": "AFP",
+          "description": "Finland said it will bar Russians with Schengen tourist visas from entering the country at midnight",
+          "link": "https://www.thehindu.com/news/international/finland-closing-border-to-russians-with-eu-tourist-visas/article65951176.ece",
+          "publishedOn": "2022-09-29T15:22:34.000Z",
+          "wordCount": 6301,
+          "title": "Finland closing border to Russians with EU tourist visas",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/rn1u3/article65456771.ece/alternates/LANDSCAPE_615/AFP_32A66TU.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/myanmar-junta-court-sentences-australian-economist-suu-kyi-to-3-years/article65951167.ece",
+          "author": "AFP",
+          "description": "Myanmar’s State Counsellor Aung San Suu Kyi sentenced an Australian economist to three years in prison",
+          "link": "https://www.thehindu.com/news/international/myanmar-junta-court-sentences-australian-economist-suu-kyi-to-3-years/article65951167.ece",
+          "publishedOn": "2022-09-29T15:13:45.000Z",
+          "wordCount": 6517,
+          "title": "Myanmar junta court sentences Australian economist, Suu Kyi to 3 years",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/j6h04m/article65839885.ece/alternates/LANDSCAPE_615/IMG_FILE_PHOTO__Myanmar__2_1_299OJ81O.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/sterling-turns-positive-as-dollar-wavers-and-pm-truss-defends-economic-plans/article65951539.ece",
+          "author": "Reuters",
+          "description": "Sterling fell as much as 1% on Thursday before cutting losses and turning positive as the dollar wavered and British Prime Minister Liz Truss defended the government's economic plans.",
+          "link": "https://www.thehindu.com/news/international/sterling-turns-positive-as-dollar-wavers-and-pm-truss-defends-economic-plans/article65951539.ece",
+          "publishedOn": "2022-09-29T15:04:14.000Z",
+          "wordCount": 6480,
+          "title": "Sterling turns positive as dollar wavers and PM Truss defends economic plans",
+          "imageUrl": "https://th-i.thgim.com/public/business/markets/7f3oho/article65936963.ece/alternates/LANDSCAPE_615/AFP_32K492G.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/article65951159.ece",
+          "author": "AFP",
+          "description": "Kabul",
+          "link": "https://www.thehindu.com/news/international/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/article65951159.ece",
+          "publishedOn": "2022-09-29T14:48:46.000Z",
+          "wordCount": 6441,
+          "title": "Taliban fire into air to disperse women&#039;s rally backing Iran protests",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qrc97d/article65943411.ece/alternates/LANDSCAPE_615/Iran_Protests_23540.jpg-54ade.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/sci-tech/energy-and-environment/extraordinary-elephant-that-survived-poaching-dies-in-drought-hit-kenya/article65950862.ece",
           "author": "AFP",
           "description": "\"Monsoon\" was euthanised by vets after collapsing several times in poor health in Samburu in northern Kenya",
@@ -17532,6 +17892,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-orders-blocking-67-porn-websites/articleshow/94540838.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The government has ordered internet companies to block 67 pornographic websites following court orders and for violating the new IT rules t.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-orders-blocking-67-porn-websites/articleshow/94540838.cms",
+          "publishedOn": "2022-09-29T15:57:29.000Z",
+          "wordCount": 5464,
+          "title": "Govt orders blocking 67 porn websites",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/digvijaya-finally-joins-race-for-aicc-chief-but-uncertainty-still-persists/articleshow/94540762.cms",
+          "author": null,
+          "description": "India News: BHOPAL: After Rajasthan Chief Minister Ashok Gehlot announced on Thursday that he will not be contesting the Congress presidential election, political.",
+          "link": "https://timesofindia.indiatimes.com/india/digvijaya-finally-joins-race-for-aicc-chief-but-uncertainty-still-persists/articleshow/94540762.cms",
+          "publishedOn": "2022-09-29T15:51:57.000Z",
+          "wordCount": 6582,
+          "title": "Digvijaya finally joins race for AICC chief, but uncertainty still persists",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94540751,width-1070,height-580,imgsize-35562,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-tamil-nadu-rahul-accuses-centre-of-using-guv-to-target-non-bjp-govts/articleshow/94540357.cms",
+          "author": null,
+          "description": "India News: GUDALUR: Congress leader Rahul Gandhi on Thursday accused the Narendra Modi-led government at the Centre of 'using' the offices of the Governors to ta.",
+          "link": "https://timesofindia.indiatimes.com/india/in-tamil-nadu-rahul-accuses-centre-of-using-guv-to-target-non-bjp-govts/articleshow/94540357.cms",
+          "publishedOn": "2022-09-29T15:22:52.000Z",
+          "wordCount": 6341,
+          "title": "In Tamil Nadu, Rahul accuses Centre of 'using' Guv to target non-BJP govts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/lt-gen-anil-chauhan-retired-to-take-charge-as-new-cds-on-friday/articleshow/94540296.cms",
+          "author": null,
+          "description": "Lt Gen Anil Chauhan (retired) will assume charge as India's new Chief of Defence Staff on Friday that is expected to bring the focus back on the implementation of the ambitious theaterisation drive to bring synergy among the three services.",
+          "link": "https://timesofindia.indiatimes.com/india/lt-gen-anil-chauhan-retired-to-take-charge-as-new-cds-on-friday/articleshow/94540296.cms",
+          "publishedOn": "2022-09-29T15:22:02.000Z",
+          "wordCount": 6868,
+          "title": "Lt Gen Anil Chauhan (retired) to take charge as new CDS on Friday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94540300,width-1070,height-580,imgsize-48604,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sachin-pilot-reaches-sonia-gandhis-residence-for-meeting/articleshow/94539764.cms",
           "author": null,
@@ -20530,6 +20930,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-south-carolina-bound-ian-could-become-hurricane-again-says-nhc/articleshow/94540358.cms",
+          "author": null,
+          "description": "US News: Tropical Storm Ian is expected to become a hurricane again later on Thursday before making US landfall for the second time on Friday, the United State.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-south-carolina-bound-ian-could-become-hurricane-again-says-nhc/articleshow/94540358.cms",
+          "publishedOn": "2022-09-29T15:22:52.000Z",
+          "wordCount": 5229,
+          "title": "US: South Carolina-bound Ian could become hurricane again, says NHC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94540577,width-1070,height-580,imgsize-39640,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-a-clash-of-titans-as-bolsonaro-faces-lula/articleshow/94539205.cms",
+          "author": null,
+          "description": "Brazil's presidential election on Sunday is being contested by 11 candidates but only two stand a chance of reaching a runoff: former President Luiz Inacio Lula da Silva and incumbent Jair Bolsonaro. Both are political titans, and eight of 10 Brazilians will vote for one of them, according to pollster Datafolha.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-a-clash-of-titans-as-bolsonaro-faces-lula/articleshow/94539205.cms",
+          "publishedOn": "2022-09-29T14:20:39.000Z",
+          "wordCount": 13882,
+          "title": "Brazil election: A clash of titans as Bolsonaro faces Lula",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94539512,width-1070,height-580,imgsize-106316,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/uk/queen-elizabeth-ii-died-of-old-age-death-certificate/articleshow/94538348.cms",
           "author": null,
           "description": "Queen Elizabeth II died of \"old age\" at 3:10 pm (1410 GMT) on September 8, according to her death certificate newly released on Thursday by the National Records of Scotland. The 96-year-old monarch died at her Balmoral estate in Scotland around three-and-a-half hours before the news was announced to the world.",
@@ -21983,6 +22403,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-inaugurates-36th-national-games-says-soft-power-of-sports-will-significantly-improve-indias-image/articleshow/94540073.cms",
+          "author": null,
+          "description": "Gujarat chief minister Bhupendra Patel, governor Acharya Devvrat, Union minister Anurag Thakur and other dignitaries were present.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-inaugurates-36th-national-games-says-soft-power-of-sports-will-significantly-improve-indias-image/articleshow/94540073.cms",
+          "publishedOn": "2022-09-29T15:08:34.000Z",
+          "wordCount": 5963,
+          "title": "PM Modi inaugurates 36th National Games in Ahmedabad",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94540050,width-1070,height-580,imgsize-53694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/every-pregnant-woman-irrespective-of-marital-status-has-right-to-choose-to-undergo-abortion-supreme-court/articleshow/94539075.cms",
           "author": null,

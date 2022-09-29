@@ -2,10 +2,396 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T15:12:22.983Z</updated>
+    <updated>2022-09-29T16:17:33.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google is shutting down Stadia]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023</id>
+        <link href="https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023"/>
+        <updated>2022-09-29T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is shutting down Stadia, its cloud gaming service. The service will remain live for players until January 18th, 2023. Google will be refunding all Stadia hardware purchased through the Google Store as well as all the games and add-on content purchased from the Stadia store. Google expects those refunds will be completed in mid-January.
+“A few years ago, we also launched a consumer gaming service, Stadia,” Stadia vice president and GM Phil Harrison said in a blog post. “And while Stadia’s approach to streaming games for consumers was built on a strong technology foundation, it hasn’t gained the traction with users that we expected so we’ve made the difficult decision to begin winding down our Stadia streaming service.” Employees on the Stadia team will be distributed to other parts of the company. 
+Harrison says Google sees opportunities to apply Stadia’s technology to other parts of Google, like YouTube, Google Play, and its AR efforts, and the company also plans to “make it available to our industry partners, which aligns with where we see the future of gaming headed,” he wrote.
+The writing has been on the wall for Stadia for a while now, most recently when Logitech announced its new cloud gaming handheld last week and Stadia was one of the few cloud gaming services not mentioned. But Stadia has been facing rumors of its demise practically from the start. Google has a habit of killing projects only a few years after they launch, and Stadia, a cloud gaming service from a company with few ties in the gaming industry, seemed like a prime candidate for an early demise.
+Last year, rumors abounded it would shut down after the number of games released to the platform slowed and the company shuttered its in-house game development studios. When those rumors popped up again this year, Google insisted that Stadia was not shutting down. “Rest assured we’re always working bringing more great games to the platform and Stadia Pro,” the company said in a tweet. Which was true... until today.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelensky’s Answer to Escalating Russian Threats: Defiance]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html"/>
+        <updated>2022-09-29T16:14:35.000Z</updated>
+        <summary type="html"><![CDATA[In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: “If you want to live, run.”]]></summary>
+        <author>
+            <name>Andrew E. Kramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elihu Okay’s Music Is Flawed on Purpose]]></title>
+        <id>3ad553</id>
+        <link href="https://www.vice.com/en_us/article/3ad553/elihu-okay-oil-music-video"/>
+        <updated>2022-09-29T16:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Watch the indie crooner’s reflective new music video for “Oil” today.]]></summary>
+        <author>
+            <name>Jaime Silano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curators for the 2024 Whitney Biennial Are Announced]]></title>
+        <id>https://www.nytimes.com/2022/09/29/arts/design/curators-2024-whitney-biennial.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/arts/design/curators-2024-whitney-biennial.html"/>
+        <updated>2022-09-29T16:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Chrissie Iles, a longtime veteran of the museum, and Meg Onli, an important emerging voice in the art world, will organize the 81st edition of the show.]]></summary>
+        <author>
+            <name>Aruna D’Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where the Wall of Death Is a Way of Life]]></title>
+        <id>https://www.nytimes.com/2022/09/29/nyregion/wall-of-death-carnival-motordrome.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/nyregion/wall-of-death-carnival-motordrome.html"/>
+        <updated>2022-09-29T16:08:47.000Z</updated>
+        <summary type="html"><![CDATA[To ride a motorcycle in the carnival motordrome, you need to be an alpha dog with sawdust in your veins. Or at least have a driver’s license.]]></summary>
+        <author>
+            <name>Allie Conti and Desiree Rios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lebanon fails to elect new president as political crisis deepens]]></title>
+        <id>https://www.thehindu.com/news/international/lebanon-fails-to-elect-new-president-as-political-crisis-deepens/article65951556.ece</id>
+        <link href="https://www.thehindu.com/news/international/lebanon-fails-to-elect-new-president-as-political-crisis-deepens/article65951556.ece"/>
+        <updated>2022-09-29T16:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Beirut]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 anime to watch if you like Cyberpunk: Edgerunners]]></title>
+        <id>https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare</id>
+        <link href="https://www.polygon.com/23353387/cyberpunk-edgerunners-anime-to-watch-redline-promare"/>
+        <updated>2022-09-29T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Studio Trigger/Netflix
+    
+
+  
+Besides Ghost in the Shell and Akira, that is
+ Cyberpunk: Edgerunners has taken the Internet by storm. The latest anime by Studio Trigger and director Hiroyuki Imaishi is based on the universe of Cyberpunk 2077 and Mike Pondsmith’s TTRPG. The 10-episode limited series has not only won the hearts of critics and anime fans alike as one of the best series to premiere this year, but also managed to reinvigorate the game’s fan base in an impressive display of post-launch synergy.
+The people have spoken: They want more cyberpunk. And while the anime itself may have reached its natural conclusion, and the first (and presumably last) DLC expansion for Cyberpunk 2077 is still quite a ways away, we’ve scoured our databanks to bring you a list of some of the bes…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo pitted its autonomous vehicles against a virtual superhuman driver to see which was safer]]></title>
+        <id>https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance</id>
+        <link href="https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance"/>
+        <updated>2022-09-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Waymo says it has created a new benchmark to measure the safety of its autonomous vehicles. | Photo by Justin Sullivan / Getty Images
+    
+
+  
+Waymo’s latest effort to prove that autonomous vehicles are safer than silly, accident-prone humans involves creating a virtual representation of a hyper-attentive driver and then pitting this fake person against its own AVs in a series of simulated tests to see which is better at crash avoidance. 
+(Not to spoil it or anything, but the Waymo vehicle did better.)
+Improved safety has been one of the main predictions of the autonomous vehicle (AV) industry. With millions of people dying in auto crashes globally every year, AV operators are increasingly leaning on this safety case to spur regulators to pass legislation allowing more fully autonomous veh…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt orders blocking 67 porn websites]]></title>
+        <id>https://timesofindia.indiatimes.com/india/govt-orders-blocking-67-porn-websites/articleshow/94540838.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/govt-orders-blocking-67-porn-websites/articleshow/94540838.cms"/>
+        <updated>2022-09-29T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The government has ordered internet companies to block 67 pornographic websites following court orders and for violating the new IT rules t.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phil Collins and Genesis Part With Publishing In $300 Million Deal With Concord Music]]></title>
+        <id>https://www.rollingstone.com/?p=1282853</id>
+        <link href="https://www.rollingstone.com/music/music-news/phil-collins-genesis-part-with-publishing-300-million-deal-concord-music-1282853/"/>
+        <updated>2022-09-29T15:56:25.000Z</updated>
+        <summary type="html"><![CDATA[The transaction includes the music Collins made as a solo artist and with Genesis, along with solo work by keyboardist Tony Banks and guitarist Mike Rutherford]]></summary>
+        <author>
+            <name>Andy Greene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Could Reward Big Spenders With Better Customer Support]]></title>
+        <id>1849596608</id>
+        <link href="https://kotaku.com/playstation-stars-loyalty-program-customer-support-sony-1849596608"/>
+        <updated>2022-09-29T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation Stars, a free-to-join rewards program Sony announced in July, is being gently rolled out to the whole world—it’s currently live in Asia, will reach the Americas on October 5, and Europe, Australia, and New Zealand will receive the service on October 13. Not as gently, PlayStation might be pushing players…
+Read more...]]></summary>
+        <author>
+            <name>Ashley Bardhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran arrests reporter who covered Amini funeral: Lawyer]]></title>
+        <id>https://www.thehindu.com/news/international/iran-arrests-reporter-who-covered-amini-funeral-lawyer/article65951182.ece</id>
+        <link href="https://www.thehindu.com/news/international/iran-arrests-reporter-who-covered-amini-funeral-lawyer/article65951182.ece"/>
+        <updated>2022-09-29T15:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Iran arrested a reporter who covered the funeral of Mahsa Amini]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digvijaya finally joins race for AICC chief, but uncertainty still persists]]></title>
+        <id>https://timesofindia.indiatimes.com/india/digvijaya-finally-joins-race-for-aicc-chief-but-uncertainty-still-persists/articleshow/94540762.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/digvijaya-finally-joins-race-for-aicc-chief-but-uncertainty-still-persists/articleshow/94540762.cms"/>
+        <updated>2022-09-29T15:51:57.000Z</updated>
+        <summary type="html"><![CDATA[India News: BHOPAL: After Rajasthan Chief Minister Ashok Gehlot announced on Thursday that he will not be contesting the Congress presidential election, political.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelensky’s Answer to Escalating Russian Threats: Defiance]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html"/>
+        <updated>2022-09-29T15:50:17.000Z</updated>
+        <summary type="html"><![CDATA[In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: ‘If you want to live, run.’]]></summary>
+        <author>
+            <name>Andrew E. Kramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Stars at Noon’: Watch Steamy New Trailer for A24’s Erotic Thriller]]></title>
+        <id>https://www.rollingstone.com/?p=1234602262</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/stars-at-noon-trailer-1234602262/"/>
+        <updated>2022-09-29T15:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Margaret Qualley and Joe Alwyn (a.k.a Taylor Swift’s boyfriend) star in director Claire Denis' Cannes hit]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[God of War’s impressive camera trick inspired the Dead Space remake]]></title>
+        <id>https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update</id>
+        <link href="https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update"/>
+        <updated>2022-09-29T15:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Image: EA Motive/Electronic Arts
+    
+
+  
+A new EA blogpost lists a host of changes coming to Dead Space’s remake later this year
+ The Dead Space remake is finally coming in early 2023, and it’s bringing with it a beloved feature from 2018’s God of War: the game will play out over one continuous shot for the entire time.
+In a new blog post from EA, which takes quotes from some of the key devs working on the remake from EA Motive, the publisher offers some developer insights on the upcoming horror game. There are interesting details about Dead Space’s community council — a group of hardcore fans who helped advise development — and the new graphical effects for shredding enemies. But the most interesting bit of information concerns the game’s camera and its new content. 
+In the original Dead…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Sheeran Battles Mewtwo in New Music Video Celebrating the Classic Pokémon Anime Film]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/ed-sheeran-battles-mewtwo-in-new-music-video-celebrating-the-classic-pokmon-anime-film</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/ed-sheeran-battles-mewtwo-in-new-music-video-celebrating-the-classic-pokmon-anime-film"/>
+        <updated>2022-09-29T15:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Sheeran goes sakuga in "Celestial"
+
+
+If "anime Ed Sheeran is transported into Pokémon The First Movie in one of the best-animated sequences in 2022" was on your scorecard for this year then congratulations, you win! As do the rest of us with the music video for Ed Sheeran's "Celestial" released today, blowing away expectations after the tease last week. Catch the music video after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pikachu adds Ed Sheeran to his growing list of celebrity friends]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378621/ed-sheeran-celestial-pokemon-video</id>
+        <link href="https://www.theverge.com/2022/9/29/23378621/ed-sheeran-celestial-pokemon-video"/>
+        <updated>2022-09-29T15:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Pikachu is the star of one of the biggest entertainment franchises around, and as such, he’s unsurprisingly friends with a lot of other celebrities. The electric rat includes the likes of Katy Perry and Post Malone among his inner circle, and now you can add Ed Sheeran to that list.
+Sheeran just released his latest music video for the song “Celestial” — not to be confused with Celesteela — and it features notable pocket monsters like Squirtle, Charmander, and Pikachu just hanging out with Sheeran as he goes about his day... before he eventually transforms into a pokémon trainer. The pokémon are all rendered in an adorable cartoon style courtesy of Japanese artist Yu Nagaba.
+In a press release, Sheeran explains that he’s been a fan of the franchise since he was a kid. “I still own the same Game Boy Color and play Pokémon Yellow or Pokémon Silver on planes and trains when I’m on tour,” he says. A Game Boy even makes an appearance in the music video. The singer / Game of Thrones star was previously featured in Pokémon Go, and the new song will be in the upcoming games Pokémon Violet and Scarlet, which launch on the Switch on November 18th.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dating app Inner Circle adds a suite of anti-ghosting features]]></title>
+        <id>https://techcrunch.com/?p=2412711</id>
+        <link href="https://techcrunch.com/2022/09/29/dating-app-inner-circle-adds-a-suite-of-anti-ghosting-features/"/>
+        <updated>2022-09-29T15:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Online daters everywhere fear “ghosting.” Inner Circle, a global dating app, is hoping to address this ongoing problem with the launch of five new features that aim to put a stop to the hurtful online dating experience where people cut off contact with another person without any warning or explanation. Inner Circle dubbed this new […]
+Dating app Inner Circle adds a suite of anti-ghosting features by Lauren Forristal originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s What Hurricane Ian Hath Wrought—and It’s Not Over Yet]]></title>
+        <id>akennb</id>
+        <link href="https://www.vice.com/en_us/article/akennb/hurricane-ian-destruction-florida"/>
+        <updated>2022-09-29T15:37:51.000Z</updated>
+        <summary type="html"><![CDATA[It was the strongest hurricane to hit the western coast of Florida since 2004.]]></summary>
+        <author>
+            <name>Paul Blest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG’s bendable 42-inch OLED TV goes on sale next month for $3,000]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378556/lg-oled-flex-lx3-97-inch-g2-pose-lx1-price-release-date-features</id>
+        <link href="https://www.theverge.com/2022/9/29/23378556/lg-oled-flex-lx3-97-inch-g2-pose-lx1-price-release-date-features"/>
+        <updated>2022-09-29T15:34:49.000Z</updated>
+        <summary type="html"><![CDATA[LG’s OLED Flex, fully curved. | Photo by Jon Porter / The Verge
+    
+
+  
+LG’s OLED Flex (LX3), a bizarre 42-inch TV that can transform between a curved and flat TV at the push of a button, now has an official price and release date. The South Korean tech giant says it’ll be available in October for $2,999. Alongside it, the company has also announced pricing for the massive 97-inch version of its G2 OLED TV, which costs $24,999 and is available now, as well as the LG OLED Posé (LX1) lifestyle TV, which costs $1,999 for the 55-inch model that’s available now or $1,699 for the 48-inch model coming in November.
+Considering the exorbitant $100,000 price tag LG slapped on its rollable TV last year, $2,999 for a bendable TV almost sounds affordable. Granted, the LG OLED Flex is over double the p…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks Drop as Focus Shifts Back to a Potential Recession]]></title>
+        <id>https://www.nytimes.com/2022/09/29/business/stock-market-today.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/business/stock-market-today.html"/>
+        <updated>2022-09-29T15:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Investors are anticipating a global recession as central bankers take a hard line against inflation, looking to slow the economy by raising interest rates.]]></summary>
+        <author>
+            <name>Isabella Simonetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘God’s Creatures’ Review: A Crisis of Conscience]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/gods-creatures-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/gods-creatures-review.html"/>
+        <updated>2022-09-29T15:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Emily Watson is terrific at telegraphing how a mother’s love grinds against her moral code in this atmospheric seaside drama.]]></summary>
+        <author>
+            <name>Natalia Winkelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's the Exact Time My Hero Academia Season 6 Begins!]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/heres-the-exact-time-my-hero-academia-season-6-begins</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/heres-the-exact-time-my-hero-academia-season-6-begins"/>
+        <updated>2022-09-29T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The heroics will finally be on display again starting October 1 at 2:30am PT
+
+
+One of the most electrifying additions to Crunchyroll's Fall 2022 Lineup is My Hero Academia Season 6, which brings the battle between heroes and villains to a head this weekend. Read on for the exact time!]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Argentina, 1985’ Review: All the Prosecutor’s Men]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/argentina-1985-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/argentina-1985-review.html"/>
+        <updated>2022-09-29T15:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Santiago Mitre’s impassioned dramatization of the Trial of the Juntas benefits from a gentle evocation of collective memory.]]></summary>
+        <author>
+            <name>Natalia Winkelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Tamil Nadu, Rahul accuses Centre of 'using' Guv to target non-BJP govts]]></title>
+        <id>https://timesofindia.indiatimes.com/india/in-tamil-nadu-rahul-accuses-centre-of-using-guv-to-target-non-bjp-govts/articleshow/94540357.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/in-tamil-nadu-rahul-accuses-centre-of-using-guv-to-target-non-bjp-govts/articleshow/94540357.cms"/>
+        <updated>2022-09-29T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[India News: GUDALUR: Congress leader Rahul Gandhi on Thursday accused the Narendra Modi-led government at the Centre of 'using' the offices of the Governors to ta.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US: South Carolina-bound Ian could become hurricane again, says NHC]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/us-south-carolina-bound-ian-could-become-hurricane-again-says-nhc/articleshow/94540358.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/us-south-carolina-bound-ian-could-become-hurricane-again-says-nhc/articleshow/94540358.cms"/>
+        <updated>2022-09-29T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[US News: Tropical Storm Ian is expected to become a hurricane again later on Thursday before making US landfall for the second time on Friday, the United State.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland closing border to Russians with EU tourist visas]]></title>
+        <id>https://www.thehindu.com/news/international/finland-closing-border-to-russians-with-eu-tourist-visas/article65951176.ece</id>
+        <link href="https://www.thehindu.com/news/international/finland-closing-border-to-russians-with-eu-tourist-visas/article65951176.ece"/>
+        <updated>2022-09-29T15:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Finland said it will bar Russians with Schengen tourist visas from entering the country at midnight]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lt Gen Anil Chauhan (retired) to take charge as new CDS on Friday]]></title>
+        <id>https://timesofindia.indiatimes.com/india/lt-gen-anil-chauhan-retired-to-take-charge-as-new-cds-on-friday/articleshow/94540296.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/lt-gen-anil-chauhan-retired-to-take-charge-as-new-cds-on-friday/articleshow/94540296.cms"/>
+        <updated>2022-09-29T15:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Lt Gen Anil Chauhan (retired) will assume charge as India's new Chief of Defence Staff on Friday that is expected to bring the focus back on the implementation of the ambitious theaterisation drive to bring synergy among the three services.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto]]></title>
+        <id>https://techcrunch.com/?p=2403653</id>
+        <link href="https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/"/>
+        <updated>2022-09-29T15:20:44.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the decentralized world of crypto, few single entities loom larger or carry more weight in the industry than exchange behemoth Binance. The blockchain giant processed $34 trillion in trading volume in 2021, it says, and the exchange shows few signs of resting on its laurels as it pursues bold new bets […]
+Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto by Lucas Matney originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lucas Matney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Adventure Zone’s new season moves from Dungeons & Dragons to something even better]]></title>
+        <id>https://www.polygon.com/23378502/adventure-zone-new-season-steeplechase-gm-justin-mcelroy-blades-in-the-dark</id>
+        <link href="https://www.polygon.com/23378502/adventure-zone-new-season-steeplechase-gm-justin-mcelroy-blades-in-the-dark"/>
+        <updated>2022-09-29T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Image: The McElroy Family
+    
+
+  
+GM Justin McElroy is leading a campaign with the Blades in the Dark ruleset
+ The Adventure Zone podcast, the popular actual play series featuring the McElroy family, kicks off its fifth full season today. Called Steeplechase, the campaign is set in a fictional theme park in an alternate future Georgia. Unlike some past TAZ seasons, Steeplechase will not use the 5th edition Dungeons & Dragons ruleset. Instead, game master Justin McElroy is relying on John Harper’s Blades in the Dark, another critically acclaimed tabletop role-playing game.
+Blades in the Dark was first published in 2017 by Evil Hat Productions. The game is set in the fictional setting of Doskvol, a European-inspired city in the throws of an industrial revolution and plagued by undead spirit…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myanmar junta court sentences Australian economist, Suu Kyi to 3 years]]></title>
+        <id>https://www.thehindu.com/news/international/myanmar-junta-court-sentences-australian-economist-suu-kyi-to-3-years/article65951167.ece</id>
+        <link href="https://www.thehindu.com/news/international/myanmar-junta-court-sentences-australian-economist-suu-kyi-to-3-years/article65951167.ece"/>
+        <updated>2022-09-29T15:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Myanmar’s State Counsellor Aung San Suu Kyi sentenced an Australian economist to three years in prison]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Nintendo Worker Wants Company President To Apologize After Alleged Firing [Update]]]></title>
+        <id>1848814100</id>
+        <link href="https://kotaku.com/nintendo-labor-complaint-union-national-labor-relations-1848814100"/>
+        <updated>2022-09-29T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[On April 15, an anonymous employee filed a complaint against Nintendo and contracting company Aston Carter with the National Labor Relations Board. The public case docket lists allegations of coercive statements, discharge, retaliation against concerted activities, and surveillance. (Update: The worker recently came…
+Read more...]]></summary>
+        <author>
+            <name>Sisi Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Modi inaugurates 36th National Games in Ahmedabad]]></title>
+        <id>https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-inaugurates-36th-national-games-says-soft-power-of-sports-will-significantly-improve-indias-image/articleshow/94540073.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-inaugurates-36th-national-games-says-soft-power-of-sports-will-significantly-improve-indias-image/articleshow/94540073.cms"/>
+        <updated>2022-09-29T15:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Gujarat chief minister Bhupendra Patel, governor Acharya Devvrat, Union minister Anurag Thakur and other dignitaries were present.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Willow Covers Yungblud’s ‘The Funeral,’ Praises Song’s ‘Billy Idol Vibe’]]></title>
         <id>https://www.rollingstone.com/?p=1234602249</id>
@@ -35,6 +421,29 @@
 Why build any fintech any more when you can just raise €20M and white-label it to banks? by Mike Butcher originally published on TechCrunch]]></summary>
         <author>
             <name>Mike Butcher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Devil is a Part-Timer! Orders Fresh Anime Sequel for 2023]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/the-devil-is-a-part-timer-orders-fresh-anime-sequel-for-2023</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/the-devil-is-a-part-timer-orders-fresh-anime-sequel-for-2023"/>
+        <updated>2022-09-29T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Season 2 concluded with its 12th episode today
+
+
+The longest wait for a sequel announcement has turned into the shortest possible wait, as a new installment in The Devil is a Part-Timer! anime series was immediately announced after the conclusion of its long-awaited second season. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sterling turns positive as dollar wavers and PM Truss defends economic plans]]></title>
+        <id>https://www.thehindu.com/news/international/sterling-turns-positive-as-dollar-wavers-and-pm-truss-defends-economic-plans/article65951539.ece</id>
+        <link href="https://www.thehindu.com/news/international/sterling-turns-positive-as-dollar-wavers-and-pm-truss-defends-economic-plans/article65951539.ece"/>
+        <updated>2022-09-29T15:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Sterling fell as much as 1% on Thursday before cutting losses and turning positive as the dollar wavered and British Prime Minister Liz Truss defended the government's economic plans.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +525,19 @@ The Startup Battlefield 200: SaaS, Enterprise, Retail and FinTech edition by Lau
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FEATURE: After All These Years, the Stakes Are Still High in Dragon Ball]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/09/29-1/feature-after-all-these-years-the-stakes-are-still-high-in-dragon-ball</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/09/29-1/feature-after-all-these-years-the-stakes-are-still-high-in-dragon-ball"/>
+        <updated>2022-09-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just because the Dragon Balls can resurrect people, doesn’t mean the stakes are gone
+
+
+The Dragon Balls and the wishes they grant can often feel like a clean-up that erases consequences after every saga, rendering the stakes pointless. That couldn't be further from the truth. As the series' sense of permanent death evolved over time, so too did its stakes and how they gave meaning to every battle of every saga. Hit the jump to see how Dragon Ball changed to match its evolving idea of death.]]></summary>
+        <author>
+            <name>Sean Aitchison</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fast Company Hacker on Rogue Apple News Notification: ‘Anyone Could Have Done It’]]></title>
         <id>epz55w</id>
         <link href="https://www.vice.com/en_us/article/epz55w/fast-company-hacker-apple-news-thrax-interview"/>
@@ -165,6 +587,16 @@ Disney Dreamlight Valley rewards you for having daily conversations with eac…]
 Trainers all around the world were teased about a brand new Pokémon that looked like Diglett but with a bit of a long-catifed change. Today, the mammoth franchise confirmed the existence of Wiglett, a water-type variant of the ground-type Pokémon and from the mouth of the devs themselves "it’s really a completely different species of Pokémon!" Catch more after the jump!]]></summary>
         <author>
             <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taliban fire into air to disperse women&#039;s rally backing Iran protests]]></title>
+        <id>https://www.thehindu.com/news/international/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/article65951159.ece</id>
+        <link href="https://www.thehindu.com/news/international/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/article65951159.ece"/>
+        <updated>2022-09-29T14:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Kabul]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -392,12 +824,32 @@ In addition to these games, subscribers can still get three of September’s Gam
     </entry>
     <entry>
         <title type="html"><![CDATA[Even as Oil Prices Ease, U.S. Keeps Tapping Strategic Reserve]]></title>
+        <id>https://www.nytimes.com/2022/09/29/business/energy-environment/biden-oil-prices-reserve.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/business/energy-environment/biden-oil-prices-reserve.html"/>
+        <updated>2022-09-29T14:24:26.000Z</updated>
+        <summary type="html"><![CDATA[The administration’s move has brought down gasoline prices. Some experts say continued withdrawals could test the nation’s energy security.]]></summary>
+        <author>
+            <name>Clifford Krauss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even as Oil Prices Ease, U.S. Keeps Tapping Strategic Reserve]]></title>
         <id>https://www.nytimes.com/2022/09/29/business/energy-environment/biden-strategic-petroleum-reserve.html</id>
         <link href="https://www.nytimes.com/2022/09/29/business/energy-environment/biden-strategic-petroleum-reserve.html"/>
         <updated>2022-09-29T14:24:26.000Z</updated>
         <summary type="html"><![CDATA[The administration’s move has brought down gasoline prices. Some experts say continued withdrawals could test the nation’s energy security.]]></summary>
         <author>
             <name>Clifford Krauss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyrim: Anniversary Edition Got a Surprise Switch Release Today]]></title>
+        <id>629720a5-3934-48d8-abef-4d7b0dd10225</id>
+        <link href="https://www.ign.com/articles/skyrim-anniversary-edition-got-a-surprise-switch-release-today"/>
+        <updated>2022-09-29T14:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Classic RPG The Elder Scrolls V: Skyrim Anniversary Edition just unexpectedly landed on Nintendo Switch and is available to download now on the eShop.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
         </author>
     </entry>
     <entry>
@@ -409,6 +861,16 @@ In addition to these games, subscribers can still get three of September’s Gam
 Twitter is rolling out podcasts to Blue subscribers on Android by Aisha Malik originally published on TechCrunch]]></summary>
         <author>
             <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil election: A clash of titans as Bolsonaro faces Lula]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-a-clash-of-titans-as-bolsonaro-faces-lula/articleshow/94539205.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-a-clash-of-titans-as-bolsonaro-faces-lula/articleshow/94539205.cms"/>
+        <updated>2022-09-29T14:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Brazil's presidential election on Sunday is being contested by 11 candidates but only two stand a chance of reaching a runoff: former President Luiz Inacio Lula da Silva and incumbent Jair Bolsonaro. Both are political titans, and eight of 10 Brazilians will vote for one of them, according to pollster Datafolha.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1343,6 +1805,16 @@ Lunio raises $15M to combat click fraud with algorithms by Kyle Wiggers original
         <summary type="html"><![CDATA[The trio arrived at the station in March]]></summary>
         <author>
             <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Mesh Router 2022]]></title>
+        <id>ef644636-aa15-4382-98c3-101e8c69d117</id>
+        <link href="https://www.ign.com/articles/best-mesh-router"/>
+        <updated>2022-09-29T11:36:26.000Z</updated>
+        <summary type="html"><![CDATA[If you've got a big home and your router isn't cutting it, you should consider a Wi-Fi mesh system.]]></summary>
+        <author>
+            <name>IGN PC Articles</name>
         </author>
     </entry>
     <entry>
