@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date",
+          "author": null,
+          "description": "Sony is bringing another PlayStation exclusive to PC. Sackboy: A Big Adventure is set to release on PC on October 27th, according to a trailer that was posted early to Sony’s PlayStation Latin America YouTube account. Spotted by Nibel on Twitter, the trailer confirms the PC port of Sackboy: A Big Adventure will be full of improvements.\n4K and 120fps support is listed, alongside support for ultrawide 21:9 aspect ratio monitors, Nvidia’s DLSS, and Variable Refresh Rate (VRR). These are the best improvements to Sackboy: A Big Adventure yet, following a resolution and visuals boost on the PS5 version.\nSackboy is the latest in a line of PlayStation games on PC\nSackboy: A Big Adventure is the latest in a growing line of PlayStation exclusive games on PC. Marvel’s Spider-Man Remastered launched on PC last month, after Horizon Zero Dawn, Days Gone, and God of War appeared in recent years. Uncharted: Legacy of Thieves Collection is also launching on PC on October 19th, with Marvel’s Spider-Man: Miles Morales arriving on PC at some point this fall.\nSony has been increasingly focused on PlayStation PC ports, and wants around half of its games to be on PC and mobile by 2025. Sony even started using a PlayStation PC label last year alongside acquiring a PC port developer.\nThe announcement of Sackboy: A Big Adventure on PC comes just a day after a PC version of the Returnal settings menu leaked. Sony confirmed its authenticity by copyright striking the video on YouTube, but the settings video showed support for ray-traced shadows and reflections, and Nvidia’s DLSS. Sony might also be working on its own PlayStation PC launcher, as references to the launcher were discovered in the recent release of Marvel’s Spider-Man Remastered on PC.",
+          "link": "https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date",
+          "publishedOn": "2022-09-29T07:19:48.000Z",
+          "wordCount": 7591,
+          "title": "Sackboy: A Big Adventure arrives on PC next month",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/nvkZWk8uoE2BlnBseHxwh2b9afE=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24063933/F3WT1i11qaAoJjAErwUywN4x.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa",
           "author": null,
           "description": "Automatic emergency braking (AEB) is pretty good at preventing low-speed rear-end crashes but kind of sucks when vehicles are traveling at more average speeds, according to new research from the American Automobile Association (AAA).\nStarting September 2022, all new cars sold in the US are required to come standard with AEB, which uses forward-facing cameras and other sensors to automatically apply the brakes when a crash is imminent. The Insurance Institute for Highway Safety estimates that AEB may help prevent 28,000 crashes and 12,000 injuries by 2025.\nUsing four common vehicles, AAA wanted to put AEB to the test to see how it’s progressed since first rolling out to production vehicles nearly 20 years ago. What they found was not that great.\n“Automatic Emergency Braking does well at tac…",
@@ -1448,6 +1458,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html",
+          "author": "Seth Mydans",
+          "description": "Sean Turnell, arrested five days after the military seized power in a coup, has been convicted by the junta of violating the country’s official secrets act.",
+          "link": "https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html",
+          "publishedOn": "2022-09-29T06:39:39.000Z",
+          "wordCount": null,
+          "title": "Australian Economic Adviser Sentenced to Three Years in Myanmar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html",
           "author": "McKenna Oxenden and Eduardo Medina",
@@ -6220,6 +6240,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2410287",
+          "author": "Romain Dillet",
+          "description": "Meet Solvo, a new mobile app that wants to make it easier to invest in cryptocurrencies and cryptocurrency-related financial products. The two founders Ayelen Denovitzer and Shailendra Sason met while they were working for Revolut, in the crypto team more specifically. Earlier this year, Solvo raised a $3.5 million seed round from Index Ventures with […]\nFormer Revolut employees launch Solvo, an app that simplifies crypto investing by Romain Dillet originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/former-revolut-employees-launch-solvo-an-app-that-simplifies-crypto-investing/",
+          "publishedOn": "2022-09-29T07:00:00.000Z",
+          "wordCount": 6642,
+          "title": "Former Revolut employees launch Solvo, an app that simplifies crypto investing",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Solvo-v2-3-2-1.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2409762",
           "author": "Natasha Lomas",
@@ -14831,6 +14861,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/opinion/op-ed/indias-catch-22-dilemma-on-relations-with-iran/article65949504.ece",
+          "author": "Suhasini Haidar",
+          "description": "Iran is vital for India’s energy security and connectivity plans — but New Delhi is in a bind on how to balance its cooperation with Tehran with its other bilateral ties",
+          "link": "https://www.thehindu.com/opinion/op-ed/indias-catch-22-dilemma-on-relations-with-iran/article65949504.ece",
+          "publishedOn": "2022-09-29T06:50:38.000Z",
+          "wordCount": 7020,
+          "title": "India’s catch-22 dilemma on relations with Iran",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/zb3sp/article52613968.ece/alternates/LANDSCAPE_615/th29BUIRAN%20GAS"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/five-years-on-how-metoo-shook-the-world/article65949484.ece",
+          "author": "AFP",
+          "description": "It caught fire in the wake of an explosive New York Times investigation about film producer Harvey Weinstein who, had for years been raping and assaulting women, many in the industry, and getting away with it",
+          "link": "https://www.thehindu.com/news/international/five-years-on-how-metoo-shook-the-world/article65949484.ece",
+          "publishedOn": "2022-09-29T06:32:22.000Z",
+          "wordCount": 6742,
+          "title": "Five years on, how #MeToo shook the world",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/mssbdp/article65949497.ece/alternates/LANDSCAPE_615/AFP_32KB94N.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/chinese-tycoon-richard-liu-faces-civil-trial-in-alleged-rape/article65949364.ece",
           "author": "AP",
           "description": "Jury selection begins Thursday in a civil trial against Chinese billionaire Richard Liu",
@@ -15827,6 +15877,66 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Congress of today is a ghost of its glorious past self.",
+          "link": "https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms",
+          "publishedOn": "2022-09-29T07:08:40.000Z",
+          "wordCount": 7077,
+          "title": "First among equals: Why Congress still matters more than rest of the opposition",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94527469,width-1070,height-580,imgsize-59818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-person-visa-interview-not-required-for-opt-status/articleshow/94527026.cms",
+          "author": null,
+          "description": "Travel plans of thousands of Indians have been hit by backlogs for important categories of US visas including B-1/B-2 visitors visas and H-1B and H-4 work permit visas. However, the good news for Indian students is that, with valid F-1 student visas, travelling back to the US after visiting India or any other country, is easy and does not require any additional visa stamp or interview. ​​The same rule applies to students who are on optional practical training (OPT).",
+          "link": "https://timesofindia.indiatimes.com/india/in-person-visa-interview-not-required-for-opt-status/articleshow/94527026.cms",
+          "publishedOn": "2022-09-29T06:49:50.000Z",
+          "wordCount": 7096,
+          "title": "In-person visa interview not required for OPT status",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94526989,width-1070,height-580,imgsize-27806,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/poor-vulnerable-need-to-be-compensated-for-loss-damage-needs-to-raised-at-cop27/articleshow/94526891.cms",
+          "author": null,
+          "description": "India News: BATHINDA: Going by the losses suffered in terms of lives, property and income as the most real face of Loss & Damage due to climate change, especially.",
+          "link": "https://timesofindia.indiatimes.com/india/poor-vulnerable-need-to-be-compensated-for-loss-damage-needs-to-raised-at-cop27/articleshow/94526891.cms",
+          "publishedOn": "2022-09-29T06:44:44.000Z",
+          "wordCount": 7070,
+          "title": "Poor, vulnerable need to be compensated for loss & damage, needs to raised at COP27",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/privacy-issue-sc-constitution-bench-to-hear-on-jan-17-2023-plea-challenging-whatsapps-policy-to-share-users-data/articleshow/94525914.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court on Thursday said it would take up on January 17, 2023 a plea by two students contending that WhatsApp's policy to share u.",
+          "link": "https://timesofindia.indiatimes.com/india/privacy-issue-sc-constitution-bench-to-hear-on-jan-17-2023-plea-challenging-whatsapps-policy-to-share-users-data/articleshow/94525914.cms",
+          "publishedOn": "2022-09-29T06:05:27.000Z",
+          "wordCount": 5709,
+          "title": "Privacy issue: SC Constitution bench to hear on Jan 17, 2023 plea challenging WhatsApp's policy to share users' data",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525904,width-1070,height-580,imgsize-62064,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-records-4272-covid-cases-in-a-day-27-more-deaths/articleshow/94525843.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: India's Covid-19 case tally increased by 4,272 in a day to reach 4,45,83,360, while active cases have declined to 40,750 according to Union.",
+          "link": "https://timesofindia.indiatimes.com/india/india-records-4272-covid-cases-in-a-day-27-more-deaths/articleshow/94525843.cms",
+          "publishedOn": "2022-09-29T06:04:36.000Z",
+          "wordCount": 5945,
+          "title": "India records 4,272 Covid cases in a day, 27 more deaths",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525877,width-1070,height-580,imgsize-1744927,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms",
+          "author": null,
+          "description": "In a landmark judgment, the Supreme Court on Thursday said that marital status of a woman cannot be a ground to deprive her of the right to abort an unwanted pregnancy. The top court said that even a single and unmarried woman has the right to abort under Medical Termination of Pregnancy Act and the rules, till 24 weeks of pregnancy.",
+          "link": "https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms",
+          "publishedOn": "2022-09-29T05:51:41.000Z",
+          "wordCount": 5646,
+          "title": "All women entitled to safe and legal abortion, marital status can't be a ground to deny it, says Supreme Court",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525603,width-1070,height-580,imgsize-30222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-modi-on-2-day-gujarat-visit-to-launch-various-projects-and-inaugurate-national-games/articleshow/94525042.cms",
           "author": null,
@@ -18475,6 +18585,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/articleshow/94526975.cms",
+          "author": null,
+          "description": "South Asia News: KABUL: Taliban forces fired shots into the air on Thursday to disperse a women's rally supporting protests in Iran over the death of a woman in the cu.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/articleshow/94526975.cms",
+          "publishedOn": "2022-09-29T06:47:27.000Z",
+          "wordCount": 6087,
+          "title": "Taliban fire into air to disperse women's rally backing Iran protests",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94526959,width-1070,height-580,imgsize-1366093,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/most-high-court-judges-will-be-women-in-australian-first/articleshow/94526022.cms",
+          "author": null,
+          "description": "Justice Jayne Jagot will fill a High Court vacancy on its seven-judge bench when Justice Patrick Keane retires Oct. 17, Attorney-General Mark Dreyfus said. Jagot has been a Federal Court judge since 2008.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/most-high-court-judges-will-be-women-in-australian-first/articleshow/94526022.cms",
+          "publishedOn": "2022-09-29T06:08:52.000Z",
+          "wordCount": 6347,
+          "title": "Most high court judges will be women in Australian first",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525992,width-1070,height-580,imgsize-63426,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-introduces-yoga-in-universities/articleshow/94525782.cms",
+          "author": null,
+          "description": "Middle East News: RIYADH: A virtual introductory lecture on Yoga was organised for all Saudi university representatives across the kingdom to spread awareness and motiv.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-introduces-yoga-in-universities/articleshow/94525782.cms",
+          "publishedOn": "2022-09-29T05:59:18.000Z",
+          "wordCount": 7399,
+          "title": "Saudi Arabia introduces Yoga in Universities",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525768,width-1070,height-580,imgsize-296908,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/the-big-metoo-moments-outside-the-united-states/articleshow/94524578.cms",
           "author": null,
           "description": "Europe News: PARIS: Five years after the dawn of #MeToo in the United States, AFP looks at how the campaign to end sexual harassment and assault has reverberated a.",
@@ -19809,6 +19949,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94525603,width-1070,height-580,imgsize-30222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-bobby-darling-fails-to-participate-despite-her-best-efforts-exclusive/articleshow/94525544.cms",
+          "author": null,
+          "description": "'Bigg Boss' is all set to return to television. This will be its 16th season. On September 27, Salman Khan, interacted with the media where he talked about the upcoming season. But did you know that Bobby Darling has been moving heaven and hell for many years to get a place in this show?",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-bobby-darling-fails-to-participate-despite-her-best-efforts-exclusive/articleshow/94525544.cms",
+          "publishedOn": "2022-09-29T05:49:18.000Z",
+          "wordCount": 9133,
+          "title": "Bigg Boss 16: Bobby Darling fails to take part despite best efforts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94525570,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94525570.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-narendra-modi-gujarat-visit-live-updates/liveblog/94525400.cms",
           "author": null,
           "description": "Prime Minister Narendra Modi has arrived on a two-day visit in Gujarat. The PM is scheduled to visit Ahmedabad, Gandhinagar, Surat, Bhavnagar, and Ambaji on Thursday and Friday, where he will either lay foundation stones for development projects or dedicate them to the public. The projects are worth over Rs 30,000 crore. Stay with TOI for all the latest updates:",
@@ -19827,6 +19977,16 @@
           "wordCount": 8377,
           "title": "Focus is on adaptability ahead of T20 WC: Arshdeep",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94525342,width-1070,height-580,imgsize-48598,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/world-heart-day-after-menopause-women-are-as-prone-to-heart-attack-as-men/articleshow/94508495.cms",
+          "author": null,
+          "description": "Women do tend to have relative immunity to heart attacks before menopause. But in the presence of diabetes and high blood pressure which are very common in India, this protection against heart disease is blunted.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/world-heart-day-after-menopause-women-are-as-prone-to-heart-attack-as-men/articleshow/94508495.cms",
+          "publishedOn": "2022-09-29T05:30:00.000Z",
+          "wordCount": 9981,
+          "title": "World Heart Day: After menopause women prone to heart attack",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94508566,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-62524/94508566.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/lucknow/aadhaar-helped-up-save-8k-cr-in-nine-yrs/articleshow/94522305.cms",
@@ -19897,6 +20057,16 @@
           "wordCount": 5046,
           "title": "Explained: Healthy body not equal to healthy heart",
           "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94515449,imgsize-871435.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-newlywed-finds-she-is-second-wife-ends-life/articleshow/94520410.cms",
+          "author": null,
+          "description": "Upset on learning that she was her husband's second wife, a 24-year-old newlywed woman hanged herself from the ceiling of her rental house at Kaveri Layout in Marathahalli on Tuesday. Gouthami took the extreme step between midnight and 4am.",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-newlywed-finds-she-is-second-wife-ends-life/articleshow/94520410.cms",
+          "publishedOn": "2022-09-29T01:15:37.000Z",
+          "wordCount": 5438,
+          "title": "Newlywed finds she is second wife, ends life",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94522721,width-1070,height-580,imgsize-26390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/meerut/uttar-pradesh-man-complains-of-pain-doctors-find-63-spoons-in-tummy/articleshow/94520380.cms",
@@ -20187,6 +20357,16 @@
           "wordCount": 7467,
           "title": "Live Blog: Pakistan vs England, 5th T20I",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94513717,width-1070,height-580,imgsize-42268,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/videos/city/lucknow/kanpur-passes-a-resolution-banning-the-breeding-of-pitbull-and-rottweiler-dogs-in-the-city/videoshow/94513571.cms",
+          "author": null,
+          "description": "There has been a ruckus in UP over incidents of pet dogs biting people. On the other hand, Kanpur Municipal Corporation has taken a tough decision because of the increasing attacks. Kanpur Municipal Corporation has passed a resolution banning the rearing of dangerous dogs like pitbull, American bully, and rottweilers. As per the resolution, anyone found rearing either of these breeds will be fined up to Rs 5,000 and their pet will be confiscated. Along with this, If someone has a dog of this breed, then he will have to give an affidavit that if this dog bites someone, then a case will be registered against the owner.As few days ago, a dog of the Pitbull breed attacked the cow. Amid many such incidents, the Kanpur Municipal Corporation has taken this tough decision.",
+          "link": "https://timesofindia.indiatimes.com/videos/city/lucknow/kanpur-passes-a-resolution-banning-the-breeding-of-pitbull-and-rottweiler-dogs-in-the-city/videoshow/94513571.cms",
+          "publishedOn": "2022-09-28T13:55:28.000Z",
+          "wordCount": 4950,
+          "title": "Kanpur civic body bans Pitbull & Rottweiler dog breeds",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94513571,imgsize-46503.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/who-is-lt-gen-anil-chauhan-retd-indias-new-cds-10-things-to-know/articleshow/94513234.cms",

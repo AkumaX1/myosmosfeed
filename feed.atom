@@ -2,16 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T06:02:35.966Z</updated>
+    <updated>2022-09-29T07:28:57.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sackboy: A Big Adventure arrives on PC next month]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date</id>
+        <link href="https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date"/>
+        <updated>2022-09-29T07:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Sony is bringing another PlayStation exclusive to PC. Sackboy: A Big Adventure is set to release on PC on October 27th, according to a trailer that was posted early to Sony’s PlayStation Latin America YouTube account. Spotted by Nibel on Twitter, the trailer confirms the PC port of Sackboy: A Big Adventure will be full of improvements.
+4K and 120fps support is listed, alongside support for ultrawide 21:9 aspect ratio monitors, Nvidia’s DLSS, and Variable Refresh Rate (VRR). These are the best improvements to Sackboy: A Big Adventure yet, following a resolution and visuals boost on the PS5 version.
+Sackboy is the latest in a line of PlayStation games on PC
+Sackboy: A Big Adventure is the latest in a growing line of PlayStation exclusive games on PC. Marvel’s Spider-Man Remastered launched on PC last month, after Horizon Zero Dawn, Days Gone, and God of War appeared in recent years. Uncharted: Legacy of Thieves Collection is also launching on PC on October 19th, with Marvel’s Spider-Man: Miles Morales arriving on PC at some point this fall.
+Sony has been increasingly focused on PlayStation PC ports, and wants around half of its games to be on PC and mobile by 2025. Sony even started using a PlayStation PC label last year alongside acquiring a PC port developer.
+The announcement of Sackboy: A Big Adventure on PC comes just a day after a PC version of the Returnal settings menu leaked. Sony confirmed its authenticity by copyright striking the video on YouTube, but the settings video showed support for ray-traced shadows and reflections, and Nvidia’s DLSS. Sony might also be working on its own PlayStation PC launcher, as references to the launcher were discovered in the recent release of Marvel’s Spider-Man Remastered on PC.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First among equals: Why Congress still matters more than rest of the opposition]]></title>
+        <id>https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms"/>
+        <updated>2022-09-29T07:08:40.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Congress of today is a ghost of its glorious past self.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Revolut employees launch Solvo, an app that simplifies crypto investing]]></title>
+        <id>https://techcrunch.com/?p=2410287</id>
+        <link href="https://techcrunch.com/2022/09/29/former-revolut-employees-launch-solvo-an-app-that-simplifies-crypto-investing/"/>
+        <updated>2022-09-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet Solvo, a new mobile app that wants to make it easier to invest in cryptocurrencies and cryptocurrency-related financial products. The two founders Ayelen Denovitzer and Shailendra Sason met while they were working for Revolut, in the crypto team more specifically. Earlier this year, Solvo raised a $3.5 million seed round from Index Ventures with […]
+Former Revolut employees launch Solvo, an app that simplifies crypto investing by Romain Dillet originally published on TechCrunch]]></summary>
+        <author>
+            <name>Romain Dillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India’s catch-22 dilemma on relations with Iran]]></title>
+        <id>https://www.thehindu.com/opinion/op-ed/indias-catch-22-dilemma-on-relations-with-iran/article65949504.ece</id>
+        <link href="https://www.thehindu.com/opinion/op-ed/indias-catch-22-dilemma-on-relations-with-iran/article65949504.ece"/>
+        <updated>2022-09-29T06:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Iran is vital for India’s energy security and connectivity plans — but New Delhi is in a bind on how to balance its cooperation with Tehran with its other bilateral ties]]></summary>
+        <author>
+            <name>Suhasini Haidar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-person visa interview not required for OPT status]]></title>
+        <id>https://timesofindia.indiatimes.com/india/in-person-visa-interview-not-required-for-opt-status/articleshow/94527026.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/in-person-visa-interview-not-required-for-opt-status/articleshow/94527026.cms"/>
+        <updated>2022-09-29T06:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Travel plans of thousands of Indians have been hit by backlogs for important categories of US visas including B-1/B-2 visitors visas and H-1B and H-4 work permit visas. However, the good news for Indian students is that, with valid F-1 student visas, travelling back to the US after visiting India or any other country, is easy and does not require any additional visa stamp or interview. ​​The same rule applies to students who are on optional practical training (OPT).]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taliban fire into air to disperse women's rally backing Iran protests]]></title>
+        <id>https://timesofindia.indiatimes.com/world/south-asia/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/articleshow/94526975.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/south-asia/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/articleshow/94526975.cms"/>
+        <updated>2022-09-29T06:47:27.000Z</updated>
+        <summary type="html"><![CDATA[South Asia News: KABUL: Taliban forces fired shots into the air on Thursday to disperse a women's rally supporting protests in Iran over the death of a woman in the cu.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poor, vulnerable need to be compensated for loss & damage, needs to raised at COP27]]></title>
+        <id>https://timesofindia.indiatimes.com/india/poor-vulnerable-need-to-be-compensated-for-loss-damage-needs-to-raised-at-cop27/articleshow/94526891.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/poor-vulnerable-need-to-be-compensated-for-loss-damage-needs-to-raised-at-cop27/articleshow/94526891.cms"/>
+        <updated>2022-09-29T06:44:44.000Z</updated>
+        <summary type="html"><![CDATA[India News: BATHINDA: Going by the losses suffered in terms of lives, property and income as the most real face of Loss & Damage due to climate change, especially.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Economic Adviser Sentenced to Three Years in Myanmar]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html"/>
+        <updated>2022-09-29T06:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Sean Turnell, arrested five days after the military seized power in a coup, has been convicted by the junta of violating the country’s official secrets act.]]></summary>
+        <author>
+            <name>Seth Mydans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five years on, how #MeToo shook the world]]></title>
+        <id>https://www.thehindu.com/news/international/five-years-on-how-metoo-shook-the-world/article65949484.ece</id>
+        <link href="https://www.thehindu.com/news/international/five-years-on-how-metoo-shook-the-world/article65949484.ece"/>
+        <updated>2022-09-29T06:32:22.000Z</updated>
+        <summary type="html"><![CDATA[It caught fire in the wake of an explosive New York Times investigation about film producer Harvey Weinstein who, had for years been raping and assaulting women, many in the industry, and getting away with it]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most high court judges will be women in Australian first]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/most-high-court-judges-will-be-women-in-australian-first/articleshow/94526022.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/most-high-court-judges-will-be-women-in-australian-first/articleshow/94526022.cms"/>
+        <updated>2022-09-29T06:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Justice Jayne Jagot will fill a High Court vacancy on its seven-judge bench when Justice Patrick Keane retires Oct. 17, Attorney-General Mark Dreyfus said. Jagot has been a Federal Court judge since 2008.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy issue: SC Constitution bench to hear on Jan 17, 2023 plea challenging WhatsApp's policy to share users' data]]></title>
+        <id>https://timesofindia.indiatimes.com/india/privacy-issue-sc-constitution-bench-to-hear-on-jan-17-2023-plea-challenging-whatsapps-policy-to-share-users-data/articleshow/94525914.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/privacy-issue-sc-constitution-bench-to-hear-on-jan-17-2023-plea-challenging-whatsapps-policy-to-share-users-data/articleshow/94525914.cms"/>
+        <updated>2022-09-29T06:05:27.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Supreme Court on Thursday said it would take up on January 17, 2023 a plea by two students contending that WhatsApp's policy to share u.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India records 4,272 Covid cases in a day, 27 more deaths]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-records-4272-covid-cases-in-a-day-27-more-deaths/articleshow/94525843.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-records-4272-covid-cases-in-a-day-27-more-deaths/articleshow/94525843.cms"/>
+        <updated>2022-09-29T06:04:36.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: India's Covid-19 case tally increased by 4,272 in a day to reach 4,45,83,360, while active cases have declined to 40,750 according to Union.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saudi Arabia introduces Yoga in Universities]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-introduces-yoga-in-universities/articleshow/94525782.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-introduces-yoga-in-universities/articleshow/94525782.cms"/>
+        <updated>2022-09-29T05:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Middle East News: RIYADH: A virtual introductory lecture on Yoga was organised for all Saudi university representatives across the kingdom to spread awareness and motiv.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All women entitled to safe and legal abortion, marital status can't be a ground to deny it, says Supreme Court]]></title>
+        <id>https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms"/>
+        <updated>2022-09-29T05:51:41.000Z</updated>
+        <summary type="html"><![CDATA[In a landmark judgment, the Supreme Court on Thursday said that marital status of a woman cannot be a ground to deprive her of the right to abort an unwanted pregnancy. The top court said that even a single and unmarried woman has the right to abort under Medical Termination of Pregnancy Act and the rules, till 24 weeks of pregnancy.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All women entitled to safe and legal abortion, says SC]]></title>
         <id>https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms"/>
         <updated>2022-09-29T05:51:41.000Z</updated>
         <summary type="html"><![CDATA[In a landmark judgment, the Supreme Court on Thursday said that marital status of a woman cannot be a ground to deprive her of the right to abort an unwanted pregnancy. The top court said that even a single and unmarried woman has the right to abort under Medical Termination of Pregnancy Act and the rules, till 24 weeks of pregnancy.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16: Bobby Darling fails to take part despite best efforts]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-bobby-darling-fails-to-participate-despite-her-best-efforts-exclusive/articleshow/94525544.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-bobby-darling-fails-to-participate-despite-her-best-efforts-exclusive/articleshow/94525544.cms"/>
+        <updated>2022-09-29T05:49:18.000Z</updated>
+        <summary type="html"><![CDATA['Bigg Boss' is all set to return to television. This will be its 16th season. On September 27, Salman Khan, interacted with the media where he talked about the upcoming season. But did you know that Bobby Darling has been moving heaven and hell for many years to get a place in this show?]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -52,6 +208,16 @@
         <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/focus-is-on-adaptability-ahead-of-t20-world-cup-arshdeep-singh/articleshow/94525344.cms"/>
         <updated>2022-09-29T05:41:38.000Z</updated>
         <summary type="html"><![CDATA[Young India left-arm pacer Arshdeep Singh said "adaptability" is the main focus of the team ahead of the T20 World Cup, starting later this month in Australia. The T20 World Cup will be held in Australia from October 16 to November 13, and Arshdeep said the Indian bowlers are geared up for the tough challenge that awaits them.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Heart Day: After menopause women prone to heart attack]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/world-heart-day-after-menopause-women-are-as-prone-to-heart-attack-as-men/articleshow/94508495.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/world-heart-day-after-menopause-women-are-as-prone-to-heart-attack-as-men/articleshow/94508495.cms"/>
+        <updated>2022-09-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Women do tend to have relative immunity to heart attacks before menopause. But in the presence of diabetes and high blood pressure which are very common in India, this protection against heart disease is blunted.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -560,6 +726,16 @@ Four-member Japanese rock band 04 Limited Sazabys has posted a music video for "
 The official website for Bushiroad's DJ-themed mixed-media franchise D4DJ announced on September 28 that Maiko Irie (Asahi Miura in Magia Record: Puella Magi Madoka Magica Side Story) is newly cast as Rei Togetsu, in place of Kanon Shizaki, who left the franchise in August. Hit the jump for more details.]]></summary>
         <author>
             <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newlywed finds she is second wife, ends life]]></title>
+        <id>https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-newlywed-finds-she-is-second-wife-ends-life/articleshow/94520410.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-newlywed-finds-she-is-second-wife-ends-life/articleshow/94520410.cms"/>
+        <updated>2022-09-29T01:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Upset on learning that she was her husband's second wife, a 24-year-old newlywed woman hanged herself from the ceiling of her rental house at Kaveri Layout in Marathahalli on Tuesday. Gouthami took the extreme step between midnight and 4am.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -4524,6 +4700,16 @@ There wouldn’t be a Pixel launch event without a new generation of Pixel smart
 At the event, Google showed off renders of the devices, which each come with an aluminum camera bar and the upgraded Tensor G2 chip (we’ll get to tha…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanpur civic body bans Pitbull & Rottweiler dog breeds]]></title>
+        <id>https://timesofindia.indiatimes.com/videos/city/lucknow/kanpur-passes-a-resolution-banning-the-breeding-of-pitbull-and-rottweiler-dogs-in-the-city/videoshow/94513571.cms</id>
+        <link href="https://timesofindia.indiatimes.com/videos/city/lucknow/kanpur-passes-a-resolution-banning-the-breeding-of-pitbull-and-rottweiler-dogs-in-the-city/videoshow/94513571.cms"/>
+        <updated>2022-09-28T13:55:28.000Z</updated>
+        <summary type="html"><![CDATA[There has been a ruckus in UP over incidents of pet dogs biting people. On the other hand, Kanpur Municipal Corporation has taken a tough decision because of the increasing attacks. Kanpur Municipal Corporation has passed a resolution banning the rearing of dangerous dogs like pitbull, American bully, and rottweilers. As per the resolution, anyone found rearing either of these breeds will be fined up to Rs 5,000 and their pet will be confiscated. Along with this, If someone has a dog of this breed, then he will have to give an affidavit that if this dog bites someone, then a case will be registered against the owner.As few days ago, a dog of the Pitbull breed attacked the cow. Amid many such incidents, the Kanpur Municipal Corporation has taken this tough decision.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
