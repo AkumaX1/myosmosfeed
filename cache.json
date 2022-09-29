@@ -4393,6 +4393,56 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
+          "author": "Joumana Khatib",
+          "description": "A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.",
+          "link": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
+          "publishedOn": "2022-09-29T09:00:50.000Z",
+          "wordCount": null,
+          "title": "15 New Books Coming in October",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/books/review/solito-javier-zamora.html",
+          "author": "Elisabeth Egan",
+          "description": "In the studio, the best-selling author surrounded himself with people he loves. It shows in his audiobook.",
+          "link": "https://www.nytimes.com/2022/09/29/books/review/solito-javier-zamora.html",
+          "publishedOn": "2022-09-29T09:00:24.000Z",
+          "wordCount": null,
+          "title": "For Javier Zamora, Recording ‘Solito’ Was a Family Affair",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/books/review/romance-novel-readers.html",
+          "author": "Olivia Waite",
+          "description": "Finding wonderful books that bring to mind old favorites is one of the genre’s greatest pleasures.",
+          "link": "https://www.nytimes.com/2022/09/29/books/review/romance-novel-readers.html",
+          "publishedOn": "2022-09-29T09:00:19.000Z",
+          "wordCount": null,
+          "title": "New Romance Novels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/books/review/all-this-could-be-different-sarah-thankam-mathews-the-means-amy-fusselman-identitti-mithu-sanyal.html",
+          "author": "Olivia Craighead",
+          "description": "According to three debut novels: A house in the Hamptons, a mentor she can trust, to “be a slut.”",
+          "link": "https://www.nytimes.com/2022/09/29/books/review/all-this-could-be-different-sarah-thankam-mathews-the-means-amy-fusselman-identitti-mithu-sanyal.html",
+          "publishedOn": "2022-09-29T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Means,’ by Amy Fusselman; ‘Identitti,’ by Mithu Sanyal; ‘All This Could Be Different,’ by Sarah Thankam Mathews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/books/review/fredrik-backman-by-the-book-interview.html",
+          "author": null,
+          "description": "“I have kids and a dog,” says the Swedish novelist, whose new book is “The Winners,” “so my dreams of a reading experience are limited to just being left alone for 10 minutes just about anywhere.”",
+          "link": "https://www.nytimes.com/2022/09/29/books/review/fredrik-backman-by-the-book-interview.html",
+          "publishedOn": "2022-09-29T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Fredrik Backman Has Learned to Read While Distracted",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html",
           "author": "Blake Hounshell",
           "description": "",
@@ -4649,6 +4699,56 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
+          "author": "Joumana Khatib",
+          "description": "A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.",
+          "link": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
+          "publishedOn": "2022-09-29T09:00:50.000Z",
+          "wordCount": null,
+          "title": "15 New Books Coming in October",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/david-geffen-hall-reopening-lincoln-center.html",
+          "author": "Michael Kimmelman",
+          "description": "David Geffen Hall, the New York Philharmonic’s Lincoln Center home, is reopening after a $550 million renovation aimed at breaking its acoustic curse — and adding a dash of glamour.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/david-geffen-hall-reopening-lincoln-center.html",
+          "publishedOn": "2022-09-29T09:00:41.000Z",
+          "wordCount": null,
+          "title": "David Geffen Hall, Notoriously Jinxed, Is Reborn Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/geffen-hall-philharmonic-timeline.html",
+          "author": "Robin Pogrebin",
+          "description": "After decades of failed attempts, the New York Philharmonic and Lincoln Center are hoping that the new $550 million renovation has finally fixed the hall.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/geffen-hall-philharmonic-timeline.html",
+          "publishedOn": "2022-09-29T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Timeline: The Long, Long Journey to a New David Geffen Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/etienne-charles-san-juan-hill-geffen-hall.html",
+          "author": "Seth Colter Walls",
+          "description": "Etienne Charles’s composition for the reopening of the hall honors the Afro-diasporic musical heritage of the neighborhood razed to build Lincoln Center.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/etienne-charles-san-juan-hill-geffen-hall.html",
+          "publishedOn": "2022-09-29T09:00:25.000Z",
+          "wordCount": null,
+          "title": "The Syncopated Sounds of Old San Juan Hill at the New Geffen Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/deborah-borda-geffen-hall.html",
+          "author": "Javier C. Hernández",
+          "description": "Deborah Borda led the New York Philharmonic in the 1990s, and was frustrated by its subpar hall. After a 17-year run in Los Angeles, she “finally saw a path forward,” she said.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/deborah-borda-geffen-hall.html",
+          "publishedOn": "2022-09-29T09:00:20.000Z",
+          "wordCount": null,
+          "title": "A Pioneering Orchestra Boss Had ‘Unfinished Business,’ So She Returned",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/arts/television/late-night-trump-ivanka-jared.html",
           "author": "Trish Bendix",
@@ -6240,6 +6340,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2411889",
+          "author": "Ivan Mehta",
+          "description": "Last week, a startup called Un1feed launched an Instagram client called The OG App, which promised an ad-free and suggestion-free home feed along with features like creating custom feeds like Twitter lists. The app raked up almost 10,000 downloads in a few days, but Apple removed the app from the App Store for violating its […]\nMeta says ad-free Instagram client The OG App breaks its rules by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/meta-says-ad-free-instagram-client-the-og-app-breaks-its-rules/",
+          "publishedOn": "2022-09-29T08:22:09.000Z",
+          "wordCount": 5413,
+          "title": "Meta says ad-free Instagram client The OG App breaks its rules",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/OG-App.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2412012",
           "author": "Mike Butcher",
@@ -8417,6 +8527,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "v7vyza",
+          "author": "Gavin Butler",
+          "description": "A military court in Myanmar found the former doctor guilty of “harming culture and dignity,” in a conviction slammed as politically motivated.",
+          "link": "https://www.vice.com/en_us/article/v7vyza/onlyfans-model-jailed-myanmar",
+          "publishedOn": "2022-09-29T08:45:05.000Z",
+          "wordCount": 8714,
+          "title": "OnlyFans Model Jailed for 6 Years For Posting 'Explicit' Content",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63354d02eb72de0098188aee/lede/1664440558225-collage-maker-29-sep-2022-0634-pm.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63354d02eb72de0098188aee/lede/1664440558225-collage-maker-29-sep-2022-0634-pm.jpeg"
+        },
         {
           "id": "pkgq37",
           "author": "Mary Frances \"Francky\" Knapp",
@@ -13604,6 +13729,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/k-ons-iconic-school-gets-shrunk-down-into-1120-piece-model",
+          "author": "Daryl Harding",
+          "description": "Model is now on sale to raise money for Toyosato Town\n\n\nChoosing Toyosato’s Former Elementary School as the main location for K-ON!  gave the series a location that has its own character. While the school is now a visitable museum due to its popularity, you can bring the school to your home with the newly announced scale model! Piece together the details after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/k-ons-iconic-school-gets-shrunk-down-into-1120-piece-model",
+          "publishedOn": "2022-09-29T08:48:47.000Z",
+          "wordCount": 5954,
+          "title": "K-ON!’s Iconic School Gets Shrunk Down Into 1,120 Piece Model",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/335a144f9f0ceca961622c0e2c471dd91664441291_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/kyoto-animations-free-anime-synchronizes-with-fashion-brand-mayla-for-4-part-collab",
           "author": "Daryl Harding",
           "description": "The final film in the decade-long franchise opened in Japan on April 22\n\n\nThe Free! franchise is starting to wrap up with the final film in Kyoto Animation's long-running series concluding Haru's story in the Free!–the Final Stroke– The Second Volume anime film earlier this year. That doesn't mean that the series can't continue with its collaborations with the franchise revealing today that it'll be working with fashion brand MAYLA. Details after the jump!",
@@ -15907,6 +16042,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bjp-leader-subramanian-swamy-meets-sri-lankas-rajapaksa-brothers/articleshow/94530272.cms",
+          "author": null,
+          "description": "India News: COLOMBO: Senior BJP leader Dr Subramanian Swamy on Thursday met Gotabaya Rajapaksa here, becoming the first foreign visitor to call on the ousted Sri .",
+          "link": "https://timesofindia.indiatimes.com/india/bjp-leader-subramanian-swamy-meets-sri-lankas-rajapaksa-brothers/articleshow/94530272.cms",
+          "publishedOn": "2022-09-29T09:06:55.000Z",
+          "wordCount": 5580,
+          "title": "BJP leader Subramanian Swamy meets Sri Lanka's Rajapaksa brothers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530329,width-1070,height-580,imgsize-24520,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-plays-important-role-as-frontline-state-in-fight-against-terrorism-president-murmu/articleshow/94530099.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: President Droupadi Murmu on Thursday said India's leadership in several fields has become unchallenged now and the country plays an importa.",
+          "link": "https://timesofindia.indiatimes.com/india/india-plays-important-role-as-frontline-state-in-fight-against-terrorism-president-murmu/articleshow/94530099.cms",
+          "publishedOn": "2022-09-29T08:59:34.000Z",
+          "wordCount": 6263,
+          "title": "India plays important role as frontline state in fight against terrorism: President Murmu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530195,width-1070,height-580,imgsize-46324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-shashi-tharoor-digvijaya-singh-or-a-dark-horse-who-could-be-next-congress-president/articleshow/94529538.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: What appeared to be a straightforward fight between Rajasthan CM Ashok Gehlot and former Union minister Shashi Tharoor for the Congress pre.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-shashi-tharoor-digvijaya-singh-or-a-dark-horse-who-could-be-next-congress-president/articleshow/94529538.cms",
+          "publishedOn": "2022-09-29T08:34:19.000Z",
+          "wordCount": 7161,
+          "title": "Ashok Gehlot, Shashi Tharoor, Digvijaya Singh or a dark horse: Who could be next Congress president?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94529651,width-1070,height-580,imgsize-65594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlot-meets-sonia-gandhi-in-delhi/articleshow/94529333.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Rajasthan chief minister Ashok Gehlot on Thursday met Congress president Sonia Gandhi at her residence here.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlot-meets-sonia-gandhi-in-delhi/articleshow/94529333.cms",
+          "publishedOn": "2022-09-29T08:18:24.000Z",
+          "wordCount": 5341,
+          "title": "Rajasthan CM Ashok Gehlot meets Sonia Gandhi in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/digvijaya-singh-to-contest-congress-president-election/articleshow/94528452.cms",
           "author": null,
@@ -18635,6 +18810,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/uk/government-will-not-reverse-economic-plan-liz-truss/articleshow/94529325.cms",
+          "author": null,
+          "description": "Asked during an interview on BBC local radio if it was time to reverse the mini-budget, Truss said: \"No, it isn't because ... the majority of the package we announced on Friday was the support on energy for individuals and businesses and I think that was absolutely the right thing to do.\"",
+          "link": "https://timesofindia.indiatimes.com/world/uk/government-will-not-reverse-economic-plan-liz-truss/articleshow/94529325.cms",
+          "publishedOn": "2022-09-29T08:20:04.000Z",
+          "wordCount": 5459,
+          "title": "Government will not reverse economic plan: Liz Truss",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94529365,width-1070,height-580,imgsize-41510,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-koreas-missile-test-was-destabilising-kamala-harris/articleshow/94529127.cms",
+          "author": null,
+          "description": "US vice president Kamala Harris said on Thursday North Korea's recent missile test was destabilising as she visited the Demilitarized Zone (DMZ) separating the two Koreas a day after the reclusive North's test launch of two short-range ballistic missiles off its east coast.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/north-koreas-missile-test-was-destabilising-kamala-harris/articleshow/94529127.cms",
+          "publishedOn": "2022-09-29T08:07:37.000Z",
+          "wordCount": 5522,
+          "title": "North Korea's missile test was destabilising: Kamala Harris",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94529118,width-1070,height-580,imgsize-656277,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/taliban-fire-into-air-to-disperse-womens-rally-backing-iran-protests/articleshow/94526975.cms",
           "author": null,
           "description": "South Asia News: KABUL: Taliban forces fired shots into the air on Thursday to disperse a women's rally supporting protests in Iran over the death of a woman in the cu.",
@@ -19989,6 +20184,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/touching-sky-line-suryakumar-yadav-is-now-indias-highest-run-scorer-in-t20is-in-single-calendar-year/articleshow/94528822.cms",
+          "author": null,
+          "description": "Suryakumar Yadav's status as India's best T20I batter in recent times has been reaffirmed as he became the highest scorer in a single calender year with 732 runs, surpassing Shikhar Dhawan's 689 back in 2018. Suryakumar, who scored one of his finest T20I half-centuries against South Africa on a seaming track in Thiruvananthapuram on Wednesday, is only 24 runs short of completing 1000 runs in the format.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/touching-sky-line-suryakumar-yadav-is-now-indias-highest-run-scorer-in-t20is-in-single-calendar-year/articleshow/94528822.cms",
+          "publishedOn": "2022-09-29T08:57:40.000Z",
+          "wordCount": 6239,
+          "title": "Surya becomes highest run-scorer for India in a year in T20Is",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530121,width-1070,height-580,imgsize-54858,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/sports/events/national-games-2022-ahead-of-opening-ceremony-spectacular-drone-show-lights-up-ahmedabad-see-pictures/articleshow/94528227.cms",
+          "author": null,
+          "description": "A spectacular drone show took place in Ahmedabad over the Sabarmati river ahead of the opening ceremony of the 36th National Games in Gujarat. As many as 600 drones put up the stunning show, mesmerising the crowd gathered at Sabarmati Riverfront in the city. The show was organised to honour the visit of Prime Minister Narendra Modi to the city and also to mark the opening of the National Games. The painted patterns of various messages and figures to light up the night sky- 'Welcome Hon'ble PM,' '7th Azadi Ka Amrit Mahotsav,' the map of India, symbolising Sardar Vallabhbhai Patel for the Statue of Unity and more. The National Games will be held from September 29 to October 12, 2022. Prime Minister Narendra Modi will officially declare the 36th National Games 2022 open on September 29, 2022. See pictures as drones put up a scintillating display.",
+          "link": "https://photogallery.indiatimes.com/sports/events/national-games-2022-ahead-of-opening-ceremony-spectacular-drone-show-lights-up-ahmedabad-see-pictures/articleshow/94528227.cms",
+          "publishedOn": "2022-09-29T08:24:49.000Z",
+          "wordCount": 9221,
+          "title": "In pics: Drone show over Sabarmati river ahead of National Games",
+          "imageUrl": "https://static.toiimg.com/photo/94528390.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/chinese-aggression-requires-armed-forces-to-modernise-new-cds-must-get-cracking-on-unified-commands/",
           "author": null,
           "description": "The appointment of Retd Lt-Gen Anil Chauhan as India’s Chief of Defence Staff nearly 10 months after Gen Bipin Rawat died in a helicopter crash ends the vacuum that was keenly felt for several months...",
@@ -20007,6 +20222,16 @@
           "wordCount": 5397,
           "title": "Digvijaya Singh to contest Congress president election",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94528430,width-1070,height-580,imgsize-959547,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/cars/mercedes-eqs-580-launching-tomorrow-first-made-in-india-luxury-ev/articleshow/94527956.cms",
+          "author": null,
+          "description": "Talking about the Mercedes-Benz EQS 580 4MATIC, this luxury EV will be India’s first locally manufactured luxury electric car by Mercedes Benz in India and it will also be India’s first ‘Certified locally produced luxury EV’ as per the ARAI certificate which was received by the company on 29th August 2022.",
+          "link": "https://timesofindia.indiatimes.com/auto/cars/mercedes-eqs-580-launching-tomorrow-first-made-in-india-luxury-ev/articleshow/94527956.cms",
+          "publishedOn": "2022-09-29T07:29:52.000Z",
+          "wordCount": 6650,
+          "title": "Most expensive Made in India luxury EV launch tomorrow",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94528050,width-1070,height-580,imgsize-560062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/mouni-roy-dazzles-in-strapless-white-dress-with-husband-suraj-nambira-at-her-birthday-bash-jannat-zubair-and-other-celebs-attend/photostory/94527102.cms",
