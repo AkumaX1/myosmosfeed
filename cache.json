@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378549/netflix-desta-the-memories-mobile-ustwo-games",
+          "author": null,
+          "description": "Image: Ustwo Games / Netflix\n    \n\n  \nThe quality of Netflix games has gone from simple, cotton candy-like fluff suitable for short bursts in a waiting room to bespoke, narrative experiences that require hours of strategic thinking. Desta: The Memories Between is the latter. \nNow I’m going to say some words that make sense independently but seem confusing when smashed together: Desta is a dreaming dodgeball roguelike friendship simulator. I promise you, it works.\n\n\nThat’s the thing that enamored me of this game: those disparate words and genres, when put together, frickin’ work on a level that I simply have not seen in a mobile game, let alone one brought exclusively to mobile via Netflix — whose first crop of games included such BAFTA hopefuls like Shooting Hoops and Teeter (Up). (Desta’s…",
+          "link": "https://www.theverge.com/2022/9/29/23378549/netflix-desta-the-memories-mobile-ustwo-games",
+          "publishedOn": "2022-09-29T18:04:02.000Z",
+          "wordCount": 8994,
+          "title": "Netflix’s gaming lineup keeps getting better with dreamy roguelike Desta: The Memories Between",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/grvDhIUl8Rej84AB-b63RGxFCW0=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24065040/6_DestaThrowingBall.png"
+        },
+        {
           "id": "https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone",
           "author": null,
           "description": "Cut out your pet and paste it into the group chat. | Illustration by Samar Haddad / The Verge\n    \n\n  \nWhile the lock screen is one of iOS 16’s marquee features, there’s another fun addition that’s a little less obvious: the ability to easily cut out subjects from pictures. It’s a way to easily separate a subject from a background and quickly share the results or paste them into applications. What would usually take considerable time and effort when using photo editing software can be done with a couple of easy steps in iOS 16. It’s surprisingly good, and you can easily share the results with your group chat for maximum entertainment. Here’s how it works.\nI followed these steps on both an iPhone 11 running iOS 16.0.2 and an iPhone 14 Pro running iOS 16.1 developer beta three.\nOpen Apple’s Photos app.\nFind a picture in your camera roll with a subject that you want to isolate and cut out, like a person, pet, or a prominently featured object.\nLong press on the subject until you feel a haptic buzz and see a white border appear, identifying your subject.\nFrom here, tap either Copy or Share.\n\n\n\n  \n        \n      Cats are ideal subjects for this kind of feature.\n  \n\n  \n        \n      You can copy your cutout or share it directly.\n  \n\n\nIf you copy the image, you can paste it anywhere that allows you to paste a PNG image file, like Google search, Messages, or even a note. If you tap Share, you’ll see options to AirDrop it, save the image to your camera roll, assign it to a contact, or add it to a new Quick Note, among others.\nEssentially, that’s it! For a little more guidance on getting the best results, here are a few tips:\nAny image saved to your camera roll is fair game — it doesn’t have to be taken with your iPhone.\nIt works best with people, pets, or clearly defined objects.\nIf you long press an image and nothing happens, try again by pressing a different part of the image. If multiple attempts fail, then it probably is just not a good candidate for image cutout.",
@@ -1679,6 +1689,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/realestate/mortgage-rates-home-prices.html",
+          "author": "Stefanos Chen",
+          "description": "As the average 30-year mortgage rate eclipses 7 percent, home buyers and sellers are confronting sticker shock.",
+          "link": "https://www.nytimes.com/2022/09/29/realestate/mortgage-rates-home-prices.html",
+          "publishedOn": "2022-09-29T17:40:13.000Z",
+          "wordCount": null,
+          "title": "Mortgage Rates Hit 7%, Housing Prices Expected to Fall",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html",
           "author": "Carl Zimmer",
           "description": "New research is revealing that cancer is rife with bacteria and fungi — a rich ecosystem that scientists call the tumor microbiome.",
@@ -1726,6 +1746,16 @@
           "publishedOn": "2022-09-29T16:08:47.000Z",
           "wordCount": null,
           "title": "Where the Wall of Death Is a Way of Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/t-magazine/kashmir-foraging-prateek-sadhu.html",
+          "author": "Ligaya Mishan and Anu Kumar",
+          "description": "For Prateek Sadhu, gathering native ingredients in the conflict zone where he grew up is the only way of asserting Kashmir’s tenuous place in the world.",
+          "link": "https://www.nytimes.com/2022/09/29/t-magazine/kashmir-foraging-prateek-sadhu.html",
+          "publishedOn": "2022-09-29T16:05:59.000Z",
+          "wordCount": null,
+          "title": "The Kashmiri Chef Foraging on Precarious Soil",
           "imageUrl": null
         },
         {
@@ -4747,6 +4777,16 @@
           "wordCount": null,
           "title": "The Essential Judy Blume",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/06/well/mind/melatonin-dependency.html",
+          "author": "Dani Blum",
+          "description": "The sleep supplement doesn’t cause physical dependence, but falling asleep without it can be tricky for some people.",
+          "link": "https://www.nytimes.com/2022/09/06/well/mind/melatonin-dependency.html",
+          "publishedOn": "2022-09-06T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Can You Get Addicted to Melatonin?",
+          "imageUrl": null
         }
       ]
     },
@@ -4755,6 +4795,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/technology/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/technology/google-to-shut-down-stadia-video-game-streaming-service.html",
+          "author": "Nico Grant",
+          "description": "After nearly three years, Google has decided to winnow its video game ambitions because Stadia was less popular than it had anticipated.",
+          "link": "https://www.nytimes.com/2022/09/29/technology/google-to-shut-down-stadia-video-game-streaming-service.html",
+          "publishedOn": "2022-09-29T18:01:39.000Z",
+          "wordCount": null,
+          "title": "Google to Shut Down Stadia Video Game Streaming Service",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/28/technology/google-maps-immersive-search-on.html",
           "author": "Nico Grant",
@@ -5360,6 +5410,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/arts/design/strike-philadelphia-museum-of-art.html",
+          "author": "Jon Hurdle",
+          "description": "During a period of labor organizing in museums across the country, workers in Philadelphia are now outside carrying picket signs. They’re frustrated with lengthy wage negotiations.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/design/strike-philadelphia-museum-of-art.html",
+          "publishedOn": "2022-09-29T17:58:06.000Z",
+          "wordCount": null,
+          "title": "Strike at Philadelphia Museum of Art Is Window Into Broader Unrest",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/arts/music/classical-music-albums-september.html",
           "author": null,
           "description": "A recent work by Andrew McIntosh, the latest undertaking by Igor Levit and a high-profile tribute to Mieczyslaw Weinberg are among the highlights.",
@@ -5417,6 +5477,16 @@
           "publishedOn": "2022-09-29T15:29:23.000Z",
           "wordCount": null,
           "title": "‘Argentina, 1985’ Review: All the Prosecutor’s Men",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/dead-for-a-dollar-review.html",
+          "author": "A.O. Scott",
+          "description": "Walter Hill’s lean, mean shoot-’em-up is a master class in B-movie craft.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/dead-for-a-dollar-review.html",
+          "publishedOn": "2022-09-29T15:19:34.000Z",
+          "wordCount": null,
+          "title": "‘Dead for a Dollar’ Review: How the Western’s Done",
           "imageUrl": null
         },
         {
@@ -7350,6 +7420,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412884",
+          "author": "Jacquelyn Melinek",
+          "description": "As traditional financial institutions get into crypto, some market players think cross-chain interoperability and tokenization are key.\nTokenization is key to linking TradFi to the blockchain by Jacquelyn Melinek originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/tokenization-is-key-to-linking-tradfi-to-the-blockchain/",
+          "publishedOn": "2022-09-29T18:00:11.000Z",
+          "wordCount": 6125,
+          "title": "Tokenization is key to linking TradFi to the blockchain",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1331482118.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2412882",
+          "author": "Sarah Perez",
+          "description": "Consumers reduced their mobile app spending in the third quarter of 2022 by roughly 5%, but the social video app TikTok just delivered another record-breaking quarter on this front. For the fourth straight quarter in a row, TikTok continued its streak as the app that has ever generated the most revenue in a quarter. These […]\nTikTok breaks records as top grossing app in Q3, as overall app store revenue declines by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/tiktok-breaks-records-as-top-grossing-app-in-q3-as-overall-app-store-revenue-declines/",
+          "publishedOn": "2022-09-29T17:55:10.000Z",
+          "wordCount": 6785,
+          "title": "TikTok breaks records as top grossing app in Q3, as overall app store revenue declines",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243334500.jpg?resize=1200,798"
+        },
         {
           "id": "https://techcrunch.com/?p=2412878",
           "author": "Rebecca Bellan",
@@ -9977,6 +10067,36 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "7k8ewe",
+          "author": "Chloe Xiang",
+          "description": "The western Arctic Ocean's high rate of acidification magnifies the impact of carbon dioxide on all of our oceans, which will likely face a similar fate.",
+          "link": "https://www.vice.com/en_us/article/7k8ewe/sciarctic-waters-are-rapidly-becoming-acidic-study-finds-in",
+          "publishedOn": "2022-09-29T18:00:00.000Z",
+          "wordCount": 4967,
+          "title": "Scientists Discover Arctic Waters Are Rapidly Becoming Acidic in Dire Climate Warning",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6334b76746002a009c9e1a4a/lede/1664399208480-gettyimages-1219075517.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6334b76746002a009c9e1a4a/lede/1664399208480-gettyimages-1219075517.jpeg"
+        },
+        {
+          "id": "n7z4qd",
+          "author": "Renata Price",
+          "description": "We hardly knew ye, because nobody used ye.",
+          "link": "https://www.vice.com/en_us/article/n7z4qd/google-officially-announces-the-demise-of-stadia-surprising-nobody",
+          "publishedOn": "2022-09-29T17:51:05.000Z",
+          "wordCount": 3707,
+          "title": "Google Officially Announces the Demise of Stadia, Surprising Nobody",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335da19112f84009b7eee80/lede/1664473641294-image-5.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335da19112f84009b7eee80/lede/1664473641294-image-5.jpeg"
+        },
         {
           "id": "xgy45d",
           "author": "Chloe Xiang",
@@ -12939,6 +13059,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review",
+          "author": null,
+          "description": "Image: Games Workshop via Warhammer Plus\n    \n\n\n  \nAll the fun of Games Workshop’s premier setting in a less-expensive package\n Warcry came as a big surprise when Games Workshop announced it in 2019. But after the release of Warhammer 40,000: Kill Team, the community was primed for another miniature skirmish game, this time set in the fantasy world of Warhammer: Age of Sigmar. The appeal was similar — a meaty game that only requires a handful of miniatures to play, and a system with the potential for strong narrative campaigns and a bustling competitive scene. The result was a hit with both fans and critics alike. Warcry: Heart of Ghur is the second Warcry box set, released to retail in August, and it marks a simple yet effective revision of what was already Games Workshop’s best ruleset.\n…",
+          "link": "https://www.polygon.com/reviews/23377231/warhammer-warcry-heart-of-ghur-review",
+          "publishedOn": "2022-09-29T18:05:00.000Z",
+          "wordCount": 2458,
+          "title": "Warcry is Warhammer at its best, and the new second edition proves it",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ejr8nFLqWESA4cwHV01ICwYtH5o=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062441/hashut.JPG"
+        },
+        {
           "id": "https://www.polygon.com/23378648/ed-sheeran-pokemon-scarlet-violet-music-video-celestial",
           "author": null,
           "description": "Image: Ed Sheeran/The Pokémon Company\n    \n\n  \nNew track will appear in Pokémon Scarlet and Violet\n It’s no secret that singer-songwriter Ed Sheeran is a major Pokémon nerd. He collaborated with The Pokémon Company last year for a “special performance” in Pokémon Go, recently promoted the 2022 Pokémon World Championships in London, and is a known enjoyer of the adorable water-type Squirtle. He professes to playing Pokémon Yellow and Silver on his original Game Boy Color to this day. But Sheeran and Pokémon’s bond is evolving with the release of “Celestial,” a new song that not only features Pokémon in its official video, but will also appear in Pokémon Scarlet and Pokémon Violet.\nSheeran released the “Celestial” music video on Thursday — after teasing it underneath a blanket of Pokémon plush toys two weeks ago — and it raises the question of whether he is OK. In “Celestial,” Sheeran is plagued by Pokémon hallucinations: He has a fry up with Charmander, who helps him make food for all his imaginary Pokémon pals; he’s nearly hit by a London cab, but is spared death by a Snorlax; and after being struck by songwriting inspiration, he hitches a ride home from Charizard. From there, Sheeran goes full anime, and seemingly dies in an explosion caused by Mew and Mewtwo battling.\nFortunately for Sheeran and fans of modern radio-friendly rock, it was all a dream. Or was it the work of Hypno?! Who can say! Regardless, the “Celestial” video is cute, thanks to the inclusion of all those adorable Pokémon and the contribution of illustrator Yu Nagaba — a frequent collaborator of The Pokémon Company — who handled the cartoonish side of Sheeran’s latest project.\nSheeran’s the latest in a long line of pop stars who have rubbed elbows with Pikachu and crew in recent years, including Katy Perry, Post Malone, J Balvin, and Vince Staples, all of whom appeared on last year’s Pokémon 25: The Album.\nPokémon Scarlet and Pokémon Violet are headed to Nintendo Switch on Nov. 18.",
@@ -13425,6 +13555,36 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23378890/timothee-chalamet-bones-and-all-trailer-release-date",
+          "author": null,
+          "description": "Photo: Yannis Drakoulidis/MGM\n    \n\n  \nThe horror-romance road movie thriller opens in theaters this November\n Timothée Chalamet reunites with Call Me by Your Name director Luca Guadagnino in the first trailer for Bones and All, an upcoming horror-romance thriller set to premiere in theaters this November. The film stars Chalamet as Lee, a young serial killer who falls in love with Maren (Taylor Russell), a runaway on the margins of society who shares Lee’s affinity for cannibalism.\nSet to Leonard Cohen’s song “You Want It Darker,” the trailer shows glimpses of Lee and Maren’s trek across Reagan-era America, with the pair driving through picturesque open plains and pouncing on any unsuspecting prey unfortunate enough to cross their path.\nThere are a surprising number of movies featuring cannibalism, from 2016’s Raw and 2013’s The Green Inferno to The Silence of the Lambs and The Neon Demon. Guadagnino’s film appears to be going the Natural Born Killers route, with Lee and Maren desperately attempting to maintain their relationship despite the obvious violence and emotional volatility rife at the crux of its foundations. We’ll just have to see how fate fares for these two lovers when the film opens in theaters.\nBones and All premieres in theaters on Nov. 23.",
+          "link": "https://www.polygon.com/23378890/timothee-chalamet-bones-and-all-trailer-release-date",
+          "publishedOn": "2022-09-29T17:57:30.000Z",
+          "wordCount": 2076,
+          "title": "Timothée Chalamet is a softboy cannibal in the first trailer for Bones and All",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/591Vb-pSPTrc1N_fOuEWMGTvO5o=/0x144:2000x1191/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065321/image.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max",
+          "author": null,
+          "description": "Image: Metro-Goldwyn-Mayer/United Artists\n    \n\n\n  \nThe best laughs you can stream right now\n Everybody needs a good laugh from time to time. And between streaming services like Netflix, Hulu, Amazon Prime Video, and HBO Max, there’s never been a greater wealth or assortment of comedies to choose from or available at the click of a button. \nFrom romantic comedies like Charade and Don’t Go Breaking My Heart to genre-mashing comedies like The Last Action Hero and Freaky to classics like Tampopo and To Be or Not to Be and much more, we have a variety of options sure to bring you laughter and brighten up your night.\nSo, with that in mind, we’ve sifted through the libraries of the most popular streaming services to bring you our top picks for the 29 best comedies streaming right now. If you’re …",
+          "link": "https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max",
+          "publishedOn": "2022-09-29T17:51:25.000Z",
+          "wordCount": 6143,
+          "title": "29 great comedies you’ll find on streaming right now",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Vj0BAe88VYyJFNs0-zgKD42tMJk=/0x0:1280x670/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23604478/The_Birdcage_029.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23378506/she-hulk-man-bull-saracen-porcupine-aguila-marvel-comics",
+          "author": null,
+          "description": "Image: Marvel Studios\n    \n\n  \nMan-Bull? Águila? Saracen???? They’re legit-ish.\n She-Hulk: Attorney at Law has really put in the work to find the most obscure Marvel Comics characters to bring to the show. From the Great Lakes Avengers to Dakota North, no series is too small, no character too minor. \nAnd with the show’s seventh episode, we’ve got a whole quartet of weirdos to get to know. \n[Ed. note: This post contains spoilers for She-Hulk: Attorney at Law episode 7, “The Retreat.”]\nImage: Marvel Studios\n  \nThe bulk of episode 7, “The Retreat,” takes place at Emil Blonsky’s wellness... campus...? where Jen works through some disappointments in a group setting. \nWho’s in the group? That’s a very good question! It’s a mix of extremely obscure D-list Marvel supervillains, heroes, and profess…",
+          "link": "https://www.polygon.com/23378506/she-hulk-man-bull-saracen-porcupine-aguila-marvel-comics",
+          "publishedOn": "2022-09-29T17:47:29.000Z",
+          "wordCount": 2686,
+          "title": "She-Hulk just assembled Marvel’s most D-list supervillain squad",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gNlTWgsV5mWEyJZZAaFjj0iG46g=/385x0:3456x1608/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24064973/FRF1760_107_comp_v145.1052.jpg"
+        },
         {
           "id": "https://www.polygon.com/23378795/suzume-anime-trailer-release-date-japan",
           "author": null,
@@ -15713,6 +15873,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/ea-and-koei-tecmo-tie-up-for-unique-hunting-game-in-wild-hearts",
+          "author": "Humberto Saabedra",
+          "description": "Joint project to be released on multiple platforms in February 2023\n\n\nElectronic Arts has tied up with Japanese publisher Koei-Tecmo to release a unique hunting game under the EA Originals banner called Wild Hearts. Read on for the first details and reveal trailer for the game.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/ea-and-koei-tecmo-tie-up-for-unique-hunting-game-in-wild-hearts",
+          "publishedOn": "2022-09-29T17:51:33.000Z",
+          "wordCount": 5908,
+          "title": "EA And Koei-Tecmo Tie Up For Unique Hunting Game In Wild Hearts",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/332327a85d921fca56598336b6252f1c1664474195_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29/exclusive-black-clover-mereoleona-pop-heads-to-the-crunchyroll-store",
           "author": "Guest Author",
@@ -18328,6 +18498,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/g-23-leaders-meet-in-delhi-as-congress-presidential-poll-race-heats-up/articleshow/94542118.cms",
+          "author": null,
+          "description": "As the Congress president's election race heats up, some G-23 leaders, including Prithviraj Chavan, Bhupinder Hooda and Manish Tewari, met at the residence of Anand Sharma and are learnt to have discussed the current situation. Sources said that Tewari was keen to file his nomination papers for the election but there was no confirmation on the same.",
+          "link": "https://timesofindia.indiatimes.com/india/g-23-leaders-meet-in-delhi-as-congress-presidential-poll-race-heats-up/articleshow/94542118.cms",
+          "publishedOn": "2022-09-29T17:24:35.000Z",
+          "wordCount": 5587,
+          "title": "G-23 leaders meet in Delhi as Congress presidential poll race heats up",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94542124,width-1070,height-580,imgsize-1241693,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms",
           "author": null,
           "description": "India News: NEW DELHI: Anil Chauhan will take over as the country’s next chief of defence staff (CDS) on Friday, returning to active service as a four-star genera.",
@@ -18336,6 +18516,16 @@
           "wordCount": 6034,
           "title": "Gen Chauhan to take over as India’s next chief of defence staff on Friday",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94541832,width-1070,height-580,imgsize-41356,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-observation-on-marital-rape-in-abortion-ruling-welcome-but-does-not-make-it-an-offence-activists/articleshow/94541811.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Lawyers and activists on Thursday welcomed the Supreme Court's observation that the meaning of rape must include marital rape for the purpo.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-observation-on-marital-rape-in-abortion-ruling-welcome-but-does-not-make-it-an-offence-activists/articleshow/94541811.cms",
+          "publishedOn": "2022-09-29T17:05:13.000Z",
+          "wordCount": 7983,
+          "title": "SC observation on marital rape in abortion ruling welcome but does not make it an offence: Activists",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94542243,width-1070,height-580,imgsize-24678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/sachin-pilot-meets-sonia-gandhi-in-delhi-discusses-events-in-rajasthan/articleshow/94541643.cms",
