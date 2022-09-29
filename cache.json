@@ -6241,6 +6241,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2412012",
+          "author": "Mike Butcher",
+          "description": "So-called ‘stakeholder capitalism’ has not had the most illustrious of histories. Yes, there have been ‘Walmart Associates’ who were able to own stock in the company, or ‘John Lewis Associates’ (in the UK), but it’s hardly made the average person well off. At least they got something? In tech startups, however, tech founders are helped […]\nCan companies issue stakes in their success without using shares or options? This startup thinks so by Mike Butcher originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/can-companies-issue-stakes-in-their-success-without-using-shares-or-options-this-startup-thinks-so/",
+          "publishedOn": "2022-09-29T07:46:23.000Z",
+          "wordCount": 6239,
+          "title": "Can companies issue stakes in their success without using shares or options? This startup thinks so",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Taavi-Kotka-Koos-founder.jpeg"
+        },
+        {
           "id": "https://techcrunch.com/?p=2410287",
           "author": "Romain Dillet",
           "description": "Meet Solvo, a new mobile app that wants to make it easier to invest in cryptocurrencies and cryptocurrency-related financial products. The two founders Ayelen Denovitzer and Shailendra Sason met while they were working for Revolut, in the crypto team more specifically. Earlier this year, Solvo raised a $3.5 million seed round from Index Ventures with […]\nFormer Revolut employees launch Solvo, an app that simplifies crypto investing by Romain Dillet originally published on TechCrunch",
@@ -12517,6 +12527,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190325",
+          "author": null,
+          "description": "Also: BS11 creates new Friday/Saturday \"Gundam Hour\" block for reruns",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/gundam-the-witch-from-mercury-anime-to-air-2nd-part-next-april/.190325",
+          "publishedOn": "2022-09-29T06:29:40.000Z",
+          "wordCount": 3540,
+          "title": "Gundam: The Witch From Mercury Anime to Air 2nd Part Next April",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMH/cms/news.5/189313/visual-gundam.jpeg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190323",
           "author": null,
           "description": "9 played characters in Detective Conan, Magic Kaito anime",
@@ -14861,6 +14881,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/uk-prime-minister-liz-truss-defends-economic-plan-that-sent-pound-tumbling/article65949716.ece",
+          "author": "AP",
+          "description": ":Liz Truss said that “we had to take urgent action to get our economy growing, get Britain moving and also deal with inflation.”",
+          "link": "https://www.thehindu.com/news/international/uk-prime-minister-liz-truss-defends-economic-plan-that-sent-pound-tumbling/article65949716.ece",
+          "publishedOn": "2022-09-29T07:36:34.000Z",
+          "wordCount": 6054,
+          "title": "U.K. Prime Minister Liz Truss defends economic plan that sent pound tumbling",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/z9tkm1/article65949732.ece/alternates/LANDSCAPE_615/2022-09-25T141007Z_2117515147_RC2XMW94K8J7_RTRMADP_3_UKRAINE-CRISIS-BRITAIN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/opinion/op-ed/indias-catch-22-dilemma-on-relations-with-iran/article65949504.ece",
           "author": "Suhasini Haidar",
           "description": "Iran is vital for India’s energy security and connectivity plans — but New Delhi is in a bind on how to balance its cooperation with Tehran with its other bilateral ties",
@@ -15877,6 +15907,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/digvijaya-singh-to-contest-congress-president-election/articleshow/94528452.cms",
+          "author": null,
+          "description": "Veteran Congress leader Digvijaya Singh will file his nomination for the Congress president election on Friday. The former Madhya Pradesh chief minister, seen as being close to the Gandhi family, who arrived in Delhi on Wednesday after participating in Bharat Jodo Yatra in Kerala, collected nomination papers on Thursday.",
+          "link": "https://timesofindia.indiatimes.com/india/digvijaya-singh-to-contest-congress-president-election/articleshow/94528452.cms",
+          "publishedOn": "2022-09-29T07:40:00.000Z",
+          "wordCount": 5397,
+          "title": "Digvijaya Singh to contest Congress president election",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94528430,width-1070,height-580,imgsize-959547,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/14-years-on-malegaon-blast-case-trial-still-underway-more-than-100-witnesses-yet-to-be-examined-by-court/articleshow/94528437.cms",
+          "author": null,
+          "description": "India News: MUMBAI: Fourteen years after a blast in Maharashtra's Malegaon town claimed six lives and injured more than 100 people, the trial in the case is still.",
+          "link": "https://timesofindia.indiatimes.com/india/14-years-on-malegaon-blast-case-trial-still-underway-more-than-100-witnesses-yet-to-be-examined-by-court/articleshow/94528437.cms",
+          "publishedOn": "2022-09-29T07:39:08.000Z",
+          "wordCount": 6411,
+          "title": "14 years on, Malegaon blast case trial still underway; more than 100 witnesses yet to be examined by court",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94528429,width-1070,height-580,imgsize-115712,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/first-among-equals-why-congress-still-matters-more-than-rest-of-the-opposition/articleshow/94527042.cms",
           "author": null,
@@ -19939,6 +19989,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/chinese-aggression-requires-armed-forces-to-modernise-new-cds-must-get-cracking-on-unified-commands/",
+          "author": null,
+          "description": "The appointment of Retd Lt-Gen Anil Chauhan as India’s Chief of Defence Staff nearly 10 months after Gen Bipin Rawat died in a helicopter crash ends the vacuum that was keenly felt for several months...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/chinese-aggression-requires-armed-forces-to-modernise-new-cds-must-get-cracking-on-unified-commands/",
+          "publishedOn": "2022-09-29T08:09:57.000Z",
+          "wordCount": 2779,
+          "title": "Quick Edit: New CDS must get cracking on unified commands amid Chinese aggression",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2018/04/100x100-Quick-Edit-1.png"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/digvijaya-singh-to-contest-congress-president-election/articleshow/94528452.cms",
+          "author": null,
+          "description": "Veteran Congress leader Digvijaya Singh will file his nomination for the Congress president election on Friday. The former Madhya Pradesh chief minister, seen as being close to the Gandhi family, who arrived in Delhi on Wednesday after participating in Bharat Jodo Yatra in Kerala, collected nomination papers on Thursday.",
+          "link": "https://timesofindia.indiatimes.com/india/digvijaya-singh-to-contest-congress-president-election/articleshow/94528452.cms",
+          "publishedOn": "2022-09-29T07:40:00.000Z",
+          "wordCount": 5397,
+          "title": "Digvijaya Singh to contest Congress president election",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94528430,width-1070,height-580,imgsize-959547,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/mouni-roy-dazzles-in-strapless-white-dress-with-husband-suraj-nambira-at-her-birthday-bash-jannat-zubair-and-other-celebs-attend/photostory/94527102.cms",
+          "author": null,
+          "description": "Naagin fame Mouni Roy has all the reasons to celebrate. After the success of Brahmastra, the actress threw a lavish birthday bash for all her industry friends. Popular celebs from the entertainment industry were in full attendance looking their glamorous best at the party. Take a look.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/mouni-roy-dazzles-in-strapless-white-dress-with-husband-suraj-nambira-at-her-birthday-bash-jannat-zubair-and-other-celebs-attend/photostory/94527102.cms",
+          "publishedOn": "2022-09-29T06:58:47.000Z",
+          "wordCount": 10406,
+          "title": "Mouni dazzles in strapless white dress at birthday bash",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94527039.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/naane-varuven/movie-review/94527025.cms",
+          "author": null,
+          "description": "Dhanush and Selvaraghavan's moody thriller is let down by a tepid second half.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/naane-varuven/movie-review/94527025.cms",
+          "publishedOn": "2022-09-29T06:49:46.000Z",
+          "wordCount": 4780,
+          "title": "Naane Varuven review: Thriller let down by tepid second half",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94527025/94527025.jpg?13280"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/videos/auto/watch-tata-yodha-2-0-and-intra-v50-off-road-driving-experience/videoshow/94526824.cms",
+          "author": null,
+          "description": "Tata Motors has introduced two new models in the light commercial vehicle (LCV) segment: Yodha 2.0 and Intra V50. Both pickup trucks come with improved payload capacity and enhanced driving capabilities. The Yodha 2.0 has a payload of 2000kg while the Intra V50 boasts a payload capacity of 1500kg. In this video, we show you how the vehicles look, what the cabin features are and the overall build quality. We also got a chance to drive these vehicles on an off-road track and test their driving prowess in some very challenging conditions.",
+          "link": "https://timesofindia.indiatimes.com/videos/auto/watch-tata-yodha-2-0-and-intra-v50-off-road-driving-experience/videoshow/94526824.cms",
+          "publishedOn": "2022-09-29T06:42:21.000Z",
+          "wordCount": 5116,
+          "title": "Watch: Tata Yodha 2.0 & Intra V50 off-road driving experience",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94526824,imgsize-288096.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms",
           "author": null,
           "description": "In a landmark judgment, the Supreme Court on Thursday said that marital status of a woman cannot be a ground to deprive her of the right to abort an unwanted pregnancy. The top court said that even a single and unmarried woman has the right to abort under Medical Termination of Pregnancy Act and the rules, till 24 weeks of pregnancy.",
@@ -19987,6 +20087,16 @@
           "wordCount": 9981,
           "title": "World Heart Day: After menopause women prone to heart attack",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94508566,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-62524/94508566.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/english/music/news/gangstas-paradise-rapper-coolio-dies-at-age-59/articleshow/94524668.cms",
+          "author": null,
+          "description": "Coolio, the rapper who was among hip-hop's biggest names of the 1990s with hits including Gangsta's Paradise and Fantastic Voyage, died Wednesday at age 59, his manager said. Coolio died at the Los Angeles home of a friend, longtime manager Jarez Posey told The Associated Press.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/gangstas-paradise-rapper-coolio-dies-at-age-59/articleshow/94524668.cms",
+          "publishedOn": "2022-09-29T05:16:06.000Z",
+          "wordCount": 8981,
+          "title": "'Gangsta's Paradise' rapper Coolio dies at 59",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94524781,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-281939/94524781.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/lucknow/aadhaar-helped-up-save-8k-cr-in-nine-yrs/articleshow/94522305.cms",
