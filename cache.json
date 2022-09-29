@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network",
+          "author": null,
+          "description": "Its last exclusive game of the season won’t be quite as exclusive. | Photo by Cole Burston/Getty Images\n    \n\n  \nThis Friday’s Yankees game against the Orioles will no longer be exclusively available on Amazon Prime Video, like 20 games before it: the game will also be airing on the Yankee Entertainment and Sports (YES) network, according to a tweet from the cable network. It’s a big change, and it’s something that Apple didn’t do last week, despite pleas from New York’s Attorney General.\nMany Yankees fans will likely want to tune in to the game, as outfielder Aaron Judge could tie (or maybe even beat) a record for home runs that’s stood for over 60 years. But the ability to watch the Yankees on YES has been a bit contentious lately; last Friday, New York’s attorney general Letitia James c…",
+          "link": "https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network",
+          "publishedOn": "2022-09-29T00:15:54.000Z",
+          "wordCount": 8467,
+          "title": "Amazon says YES to putting the Yankees on cable",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Toe80sSmZoLFYfgFUJ1NCiHZ3To=/0x0:4429x2953/1200x628/filters:focal(2215x1477:2216x1478)/cdn.vox-cdn.com/uploads/chorus_asset/file/24063189/1243579837.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/28/23373094/dbrand-project-killswitch-steam-deck-case-magnet-stand",
+          "author": null,
+          "description": "The Killswitch case keeps your Steam Deck safe and is currently available on the Dbrand site. | Photo by Alice Newcome-Beill / The Verge\n    \n\n  \nIn high school, I’d keep my CD player from getting crushed in my bookbag by wrapping it in a wool sock. Considering that the CD player was probably the most expensive thing I owned at the time, I probably could’ve done better. This is how I felt with the first case I bought for my Steam Deck. It was definitely a step up from mismatched footwear, but I knew a device like this demands a little more respect without keeping it constantly locked away inside the case that it was packaged with.\n\n\nDbrand, maker of accessories for your phone, AirPods, and even your PS5, shares this sentiment and made “Project Killswitch.” Killswitch is designed to be a be…",
+          "link": "https://www.theverge.com/2022/9/28/23373094/dbrand-project-killswitch-steam-deck-case-magnet-stand",
+          "publishedOn": "2022-09-29T00:06:34.000Z",
+          "wordCount": 9598,
+          "title": "Dbrand’s Steam Deck case is so good it almost makes you forget its big flaw",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/IlI8i3nNfm9GCQPVewCdXfkXBrw=/0x0:5509x3099/1200x628/filters:focal(2762x1358:2763x1359)/cdn.vox-cdn.com/uploads/chorus_asset/file/24059120/DSC_0245.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23377115/oura-horizon-smart-ring-rose-gold-announcement",
           "author": null,
           "description": "The really round Oura Horizon comes in five colors, including the new rose gold finish. | Image: Oura\n    \n\n  \nIf you were intrigued by previous Oura smart rings but were turned off by a design that didn’t let you spin it on your desk, then you’re in luck. Oura is releasing a rounder version of its health and fitness tracking smart ring line called Horizon, though it’ll cost you $50 more than the version not matching that preference. (via Gizmodo).\nThe Oura Horizon is largely identical to the last year’s Oura Ring (Gen 3) in terms of functionality, including the blood oxygen monitoring abilities that were just activated this year. This means the Horizon is just a cosmetic change accompanying the old “heritage” design, and it comes in the same original gold, stealth, black, and silver finis…",
@@ -1419,6 +1439,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html",
+          "author": "Andrew E. Kramer, Marc Santora and Eric Nagourney",
+          "description": "The requests lent an air of formality to a process condemned by the West. They followed sham referendums in four regions in Ukraine that purported to put voters’ stamp of approval on joining Russia.",
+          "link": "https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html",
+          "publishedOn": "2022-09-28T23:27:05.000Z",
+          "wordCount": null,
+          "title": "Russian Proxies in Ukraine Push Moscow to Annex Occupied Regions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/us/oakland-ca-school-shooting.html",
           "author": "Eduardo Medina and Kellen Browning",
           "description": "Three of the victims were in critical condition, the authorities said. The shooting occurred at a campus in the Bay Area that houses multiple schools.",
@@ -1426,6 +1456,26 @@
           "publishedOn": "2022-09-28T23:04:33.000Z",
           "wordCount": null,
           "title": "6 Injured in Oakland School Shooting, Police Say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/new-york-housing-crisis.html",
+          "author": "Mara Gay",
+          "description": "Political momentum is growing for efforts to build more housing, fast.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/new-york-housing-crisis.html",
+          "publishedOn": "2022-09-28T23:00:04.000Z",
+          "wordCount": null,
+          "title": "In New York, NIMBYism Finally Outstays Its Welcome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/28/us/hurricane-ian-florida/residents-arrive-at-shelters-not-knowing-whether-they-will-have-homes-to-return-to",
+          "author": "Richard Fausset",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/28/us/hurricane-ian-florida/residents-arrive-at-shelters-not-knowing-whether-they-will-have-homes-to-return-to",
+          "publishedOn": "2022-09-28T22:58:08.000Z",
+          "wordCount": null,
+          "title": "Residents arrive at shelters, not knowing whether they will have homes to return to.",
           "imageUrl": null
         },
         {
@@ -2146,6 +2196,16 @@
           "publishedOn": "2022-09-27T19:26:58.000Z",
           "wordCount": null,
           "title": "Lawsuit Seeks to Block Biden’s Student Debt Cancellation Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/27/movies/kevin-smith-jason-mewes-jay-and-silent-bob-interview.html",
+          "author": "Robert Ito",
+          "description": "The two, who have played the characters Jay and Silent Bob for 28 years and counting, reflect on their time as best friends and professional partners.",
+          "link": "https://www.nytimes.com/2022/09/27/movies/kevin-smith-jason-mewes-jay-and-silent-bob-interview.html",
+          "publishedOn": "2022-09-27T18:45:43.000Z",
+          "wordCount": null,
+          "title": "The Not-So-Silent Friendship of Jason Mewes and Kevin Smith",
           "imageUrl": null
         },
         {
@@ -5007,6 +5067,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602038",
+          "author": "Althea Legaspi",
+          "description": "Rapper’s hits include classic “Gangsta’s Paradise”",
+          "link": "https://www.rollingstone.com/music/music-news/coolio-dead-obit-1234602038/",
+          "publishedOn": "2022-09-29T01:05:05.000Z",
+          "wordCount": 8983,
+          "title": "Rapper and Actor Coolio Dead at 59",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Coolio-RIP-GettyImages-1400062491.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234601930",
           "author": "Daniel Kreps",
           "description": "Hear new single \"Moneymaker\" from band's first LP since 2019",
@@ -6050,6 +6120,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2409474",
+          "author": "Catherine Shu",
+          "description": "Una Brands, an e-commerce aggregator focused on brands in the Asia-Pacific region, announced the first close of its Series B round at $30 million today. The funding was led by White Star Capital and Alpha JWC Ventures. Headquartered in Singapore, Una Brands has a presence in Southeast Asia, Australia, New Zealand, China and the United […]\nE-commerce aggregator Una Brands gets $30M to acquire more APAC brands by Catherine Shu originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/e-commerce-aggregator-una-brands-gets-30m-to-acquire-more-apac-brands/",
+          "publishedOn": "2022-09-29T00:00:55.000Z",
+          "wordCount": 5398,
+          "title": "E-commerce aggregator Una Brands gets $30M to acquire more APAC brands",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1172395075.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2411245",
           "author": "Aria Alamalhodaei",
@@ -11593,6 +11673,56 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "5a714cb1-24e8-476f-807f-97056cd0435d",
+          "author": "Adam Mathew",
+          "description": "The school holiday sales continue to amaze. Get in quick for some boredom busting solutions to your rainy day blues.",
+          "link": "https://www.ign.com/articles/aussie-deals-a-swath-of-switch-games-go-59-or-below-a-5-buck-deluxe-need-for-speed-and-more",
+          "publishedOn": "2022-09-29T00:31:31.000Z",
+          "wordCount": 9444,
+          "title": "Aussie Deals: A Swath of Switch Games Go $59 or Below, a 5 Buck Deluxe Need For Speed and More!",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/29/nfs-1664410946070.jpg?width=1280"
+        },
+        {
+          "id": "0b09519d-6ce6-489e-8c04-c3e1007661bb",
+          "author": "Ryan Leston",
+          "description": "An upcoming Disney Dreamlight Valley update is on its way, but the patch won't arrive for several weeks.",
+          "link": "https://www.ign.com/articles/major-disney-dreamlight-valley-patch-featuring-scar-gets-a-timing-update",
+          "publishedOn": "2022-09-28T23:37:45.000Z",
+          "wordCount": 8950,
+          "title": "Major Disney Dreamlight Valley Patch Featuring Scar Gets a Timing Update",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/07/26/disneydreamlightvalleygameplayoverviewtrailer-ign-blogroll2-1658853254009.jpg?width=1280"
+        },
+        {
+          "id": "9b9f5b68-7135-40f9-ae12-bdf56d2ae36b",
+          "author": "Ryan McCaffrey",
+          "description": "",
+          "link": "https://www.ign.com/articles/who-should-make-a-new-ninja-gaiden-unlocked-563",
+          "publishedOn": "2022-09-28T22:59:14.000Z",
+          "wordCount": 8254,
+          "title": "Who Should Make a New Ninja Gaiden? – Unlocked 563",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/unlocked-563-ninjagaiden-blogroll-1664405957928.jpg?width=1280"
+        },
+        {
+          "id": "51346b8b-fb15-4f41-a63f-f9c05c964ce6",
+          "author": "Dan Stapleton",
+          "description": "",
+          "link": "https://www.ign.com/articles/the-diofield-chronicle-review",
+          "publishedOn": "2022-09-28T22:16:33.000Z",
+          "wordCount": 12559,
+          "title": "The DioField Chronicle Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/28/thediofieldchronicle-review-blogroll-1664398967012.jpg?width=1280"
+        },
+        {
+          "id": "8b8d3416-0257-402e-b69c-4a9aba769aad",
+          "author": "Ryan Leston",
+          "description": "Terraria just got a surprise update that adds new worlds, new items, and a whole load of quality of life updates.",
+          "link": "https://www.ign.com/articles/terraria-update-is-a-big-surprise-for-the-community",
+          "publishedOn": "2022-09-28T22:05:07.000Z",
+          "wordCount": 9101,
+          "title": "Terraria Update is a Big Surprise for the Community",
+          "imageUrl": "https://assets1.ignimgs.com/2015/11/18/wiiuterrariascreenshot02jpg-9b40a9.jpg?width=1280"
+        },
+        {
           "id": "3f614f5a-6bc6-49a8-8069-96e38be84ba7",
           "author": "Tom Marks",
           "description": "The Mistborn author has a decade-long story planned for Moonbreaker.",
@@ -12179,6 +12309,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news.xml",
       "siteUrl": "http://www.steampowered.com/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/143694/",
+          "author": "Valve",
+          "description": "",
+          "link": "https://store.steampowered.com/news/143694/",
+          "publishedOn": "2022-09-28T23:05:00.000Z",
+          "wordCount": 1099,
+          "title": "Team Fortress 2 Update Released",
+          "imageUrl": "https://store.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
+        },
         {
           "id": "https://store.steampowered.com/news/143577/",
           "author": "Valve",
@@ -13103,6 +13243,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/miyu-tomita-sings-jujutsu-kaisen-opening-theme-for-crossing-project-season-3",
+          "author": "Mikikazu Komatsu",
+          "description": "\"It was a very difficult song, but I sang it with my feeling of love and respect.\"\n\n\nAs the first entry from the third season of the cover song project CrosSing, voice actress Miyu Tomita (Yume Nijino in Aikatsu Stars!) sings \"Kaikai Kitan,\" the first cour opening theme song for the JUJUTSU KAISEN TV anime. Watch her performance in a recording booth after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/miyu-tomita-sings-jujutsu-kaisen-opening-theme-for-crossing-project-season-3",
+          "publishedOn": "2022-09-29T00:30:03.000Z",
+          "wordCount": 5973,
+          "title": "Miyu Tomita Sings JUJUTSU KAISEN Opening Theme for CrosSing Project Season 3",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/63f9ddc3f4dc0950230d84e0d088cec81664411096_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/second-longform-trailer-for-makoto-shinkais-suzume-anime-film-released-with-cast-details",
           "author": "Humberto Saabedra",
@@ -15257,6 +15407,126 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/on-october-12-sc-to-take-call-on-batch-of-pleas-against-demonetisation/articleshow/94520173.cms",
+          "author": null,
+          "description": "After keeping a batch of petitions pending for six years against the Centre's decision to demonetise Rs 500 and Rs 1,000 currency notes and subsequent problems faced by people, the Supreme Court on Wednesday said that it would take a call on October 12 whether it should be heard after Centre submitted that nothing survived in the case for practical purposes.",
+          "link": "https://timesofindia.indiatimes.com/india/on-october-12-sc-to-take-call-on-batch-of-pleas-against-demonetisation/articleshow/94520173.cms",
+          "publishedOn": "2022-09-29T00:48:25.000Z",
+          "wordCount": 5570,
+          "title": "On October 12, SC to take call on batch of pleas against demonetisation",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94520181,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hc-grants-bail-to-ex-nse-chief-after-piecemeal-cbi-chargesheet/articleshow/94520146.cms",
+          "author": null,
+          "description": "The Delhi high court Thursday granted bail to former National Stock Exchange (NSE) head Chitra Ramkrishna and ex-group operating officer Anand Subramanian in the alleged co-location scam being probed by the CBI, observing that the agency had failed to file a complete chargesheet within the stipulated 60-day period.",
+          "link": "https://timesofindia.indiatimes.com/india/hc-grants-bail-to-ex-nse-chief-after-piecemeal-cbi-chargesheet/articleshow/94520146.cms",
+          "publishedOn": "2022-09-29T00:44:32.000Z",
+          "wordCount": 5597,
+          "title": "HC grants bail to ex-NSE chief after 'piecemeal' CBI chargesheet",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/two-actors-groped-in-kerala-mall-during-promotional-event/articleshow/94520022.cms",
+          "author": null,
+          "description": "Kerala police have launched an investigation into two actors being groped after a promotional event at a mall in Kozhikode on Tuesday. They will examine CCTV footage from the mall to identify the culprits. While one of the actors slapped the man who misbehaved, the other said in an online post that she froze.",
+          "link": "https://timesofindia.indiatimes.com/india/two-actors-groped-in-kerala-mall-during-promotional-event/articleshow/94520022.cms",
+          "publishedOn": "2022-09-29T00:25:55.000Z",
+          "wordCount": 5339,
+          "title": "Two actors groped in Kerala mall during promotional event",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/working-president-of-congress-harsh-mahajan-in-poll-bound-himachal-pradesh-joins-bjp/articleshow/94519998.cms",
+          "author": null,
+          "description": "Congress suffered a jolt in poll-bound Himachal with state working president and a close aide of ex-CM Virbhadra Singh, Harsh Mahajan, joining BJP on Wednesday. He said the party had become \"vision-less, directionless and leaderless\".",
+          "link": "https://timesofindia.indiatimes.com/india/working-president-of-congress-harsh-mahajan-in-poll-bound-himachal-pradesh-joins-bjp/articleshow/94519998.cms",
+          "publishedOn": "2022-09-29T00:21:45.000Z",
+          "wordCount": 5715,
+          "title": "Working president of Congress Harsh Mahajan in poll-bound Himachal Pradesh joins BJP",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94520005,width-1070,height-580,imgsize-40998,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/in-bandhavgarh-after-85-years-asi-finds-ninth-century-treasures/articleshow/94519962.cms",
+          "author": null,
+          "description": "After a gap of nearly 85 years, ASI has restarted exploration and documentation of ancient caves, remains of Buddhist structures, temples, and statues of Vishnu Dashavataras in MP's Bandhavgarh forest.",
+          "link": "https://timesofindia.indiatimes.com/india/in-bandhavgarh-after-85-years-asi-finds-ninth-century-treasures/articleshow/94519962.cms",
+          "publishedOn": "2022-09-29T00:15:07.000Z",
+          "wordCount": 5811,
+          "title": "In Bandhavgarh after 85 years, ASI finds ninth century treasures",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519973,width-1070,height-580,imgsize-72780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-ips-officer-satish-chandra-vermas-sacking/articleshow/94519905.cms",
+          "author": null,
+          "description": "The SC on Wednesday refused to stay the Centre's order to dismiss IPS officer Satish Chandra Verma and asked the Delhi HC to decide on the plea against his sacking expeditiously. On Verma's plea that he should be allowed to retire honourably, the bench said officers had to face tribulation for doing what they think is right and assured him that if truth is on his side then he will get justice. The HC had earlier refused relief to Verma, who is due to retire Sept 30.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-ips-officer-satish-chandra-vermas-sacking/articleshow/94519905.cms",
+          "publishedOn": "2022-09-29T00:04:47.000Z",
+          "wordCount": 6207,
+          "title": "SC refuses to stay IPS officer Satish Chandra Verma's sacking",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519916,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/j-p-nadda-likely-to-get-second-term-as-bjp-chief/articleshow/94519878.cms",
+          "author": null,
+          "description": "BJP is set to contest the 2024 Lok Sabha polls under the presidency of J P Nadda, who is likely to continue as party president for another term.",
+          "link": "https://timesofindia.indiatimes.com/india/j-p-nadda-likely-to-get-second-term-as-bjp-chief/articleshow/94519878.cms",
+          "publishedOn": "2022-09-29T00:00:57.000Z",
+          "wordCount": 5843,
+          "title": "J P Nadda likely to get second term as BJP chief",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519901,width-1070,height-580,imgsize-43896,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-extends-free-ration-under-pmgkay-by-three-months/articleshow/94519781.cms",
+          "author": null,
+          "description": "Calling it \"festive cheer\", the government on Wednesday announced the extension of the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) for three more months till December 2022.",
+          "link": "https://timesofindia.indiatimes.com/india/centre-extends-free-ration-under-pmgkay-by-three-months/articleshow/94519781.cms",
+          "publishedOn": "2022-09-28T23:42:35.000Z",
+          "wordCount": 5671,
+          "title": "Centre extends free ration under PMGKAY by three months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/venkataramani-appointed-next-attorney-general/articleshow/94519715.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: In a notification issued late Wednesday evening, the government has appointed senior advocate R Venkataramani as attorney general after the.",
+          "link": "https://timesofindia.indiatimes.com/india/venkataramani-appointed-next-attorney-general/articleshow/94519715.cms",
+          "publishedOn": "2022-09-28T23:29:00.000Z",
+          "wordCount": 5076,
+          "title": "Venkataramani appointed next attorney general",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/what-led-to-pfi-ban-radicalising-youths-killing-hindu-activists/articleshow/94519648.cms",
+          "author": null,
+          "description": "The PFI first came under the radar following the involvement of its cadres in chopping a Kerala college professor's palm in 2010 over alleged blasphemy.",
+          "link": "https://timesofindia.indiatimes.com/india/what-led-to-pfi-ban-radicalising-youths-killing-hindu-activists/articleshow/94519648.cms",
+          "publishedOn": "2022-09-28T23:16:39.000Z",
+          "wordCount": 6625,
+          "title": "What led to PFI ban: Radicalising youths, killing Hindu activists",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519677,width-1070,height-580,imgsize-58358,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-aaps-vijay-nair-liquor-co-md-sameer-mahendru-held-in-excise-probe/articleshow/94519597.cms",
+          "author": null,
+          "description": "A day after CBI arrested influential AAP functionary Vijay Nair, ED on Wednesday arrested the MD of a Delhi-based liquor company, raising the prospect of central agencies moving closer to state government functionaries in connection with the probe into the alleged corruption in the now-junked liquor policy.",
+          "link": "https://timesofindia.indiatimes.com/india/after-aaps-vijay-nair-liquor-co-md-sameer-mahendru-held-in-excise-probe/articleshow/94519597.cms",
+          "publishedOn": "2022-09-28T23:07:11.000Z",
+          "wordCount": 7265,
+          "title": "After AAP's Vijay Nair, liquor co MD Sameer Mahendru held in excise probe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519626,width-1070,height-580,imgsize-38044,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pmla-bail-terms-can-be-eased-for-illness-women-delhi-hc/articleshow/94519547.cms",
+          "author": null,
+          "description": "The court passed the order while granting bail to an accused on medical grounds in the Rs 3,269-crore bank loan fraud case by Delhi-based Shakti Bhog Foods Ltd.",
+          "link": "https://timesofindia.indiatimes.com/india/pmla-bail-terms-can-be-eased-for-illness-women-delhi-hc/articleshow/94519547.cms",
+          "publishedOn": "2022-09-28T22:55:24.000Z",
+          "wordCount": 6425,
+          "title": "PMLA bail terms can be eased for illness, women: Delhi HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
           "author": null,
@@ -18859,6 +19129,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-ips-officer-satish-chandra-vermas-sacking/articleshow/94519905.cms",
+          "author": null,
+          "description": "The SC on Wednesday refused to stay the Centre's order to dismiss IPS officer Satish Chandra Verma and asked the Delhi HC to decide on the plea against his sacking expeditiously. On Verma's plea that he should be allowed to retire honourably, the bench said officers had to face tribulation for doing what they think is right and assured him that if truth is on his side then he will get justice. The HC had earlier refused relief to Verma, who is due to retire Sept 30.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-ips-officer-satish-chandra-vermas-sacking/articleshow/94519905.cms",
+          "publishedOn": "2022-09-29T00:04:47.000Z",
+          "wordCount": 6207,
+          "title": "SC refuses to stay IPS officer Verma's sacking",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519916,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/venkataramani-appointed-next-attorney-general/articleshow/94519715.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: In a notification issued late Wednesday evening, the government has appointed senior advocate R Venkataramani as attorney general after the.",
+          "link": "https://timesofindia.indiatimes.com/india/venkataramani-appointed-next-attorney-general/articleshow/94519715.cms",
+          "publishedOn": "2022-09-28T23:29:00.000Z",
+          "wordCount": 5076,
+          "title": "Venkataramani appointed next attorney general",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/what-led-to-pfi-ban-radicalising-youths-killing-hindu-activists/articleshow/94519648.cms",
+          "author": null,
+          "description": "The PFI first came under the radar following the involvement of its cadres in chopping a Kerala college professor's palm in 2010 over alleged blasphemy.",
+          "link": "https://timesofindia.indiatimes.com/india/what-led-to-pfi-ban-radicalising-youths-killing-hindu-activists/articleshow/94519648.cms",
+          "publishedOn": "2022-09-28T23:16:39.000Z",
+          "wordCount": 6625,
+          "title": "What led to PFI ban",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519677,width-1070,height-580,imgsize-58358,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-aaps-vijay-nair-liquor-co-md-sameer-mahendru-held-in-excise-probe/articleshow/94519597.cms",
+          "author": null,
+          "description": "A day after CBI arrested influential AAP functionary Vijay Nair, ED on Wednesday arrested the MD of a Delhi-based liquor company, raising the prospect of central agencies moving closer to state government functionaries in connection with the probe into the alleged corruption in the now-junked liquor policy.",
+          "link": "https://timesofindia.indiatimes.com/india/after-aaps-vijay-nair-liquor-co-md-sameer-mahendru-held-in-excise-probe/articleshow/94519597.cms",
+          "publishedOn": "2022-09-28T23:07:11.000Z",
+          "wordCount": 7265,
+          "title": "Liquor co MD held in excise probe",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519626,width-1070,height-580,imgsize-38044,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pmla-bail-terms-can-be-eased-for-illness-women-delhi-hc/articleshow/94519547.cms",
+          "author": null,
+          "description": "The court passed the order while granting bail to an accused on medical grounds in the Rs 3,269-crore bank loan fraud case by Delhi-based Shakti Bhog Foods Ltd.",
+          "link": "https://timesofindia.indiatimes.com/india/pmla-bail-terms-can-be-eased-for-illness-women-delhi-hc/articleshow/94519547.cms",
+          "publishedOn": "2022-09-28T22:55:24.000Z",
+          "wordCount": 6425,
+          "title": "PMLA bail terms can be eased for illness, women: HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/new-delhi-mumbai-ahmedabad-railway-stations-to-get-rs-10k-crore-makeover/articleshow/94519503.cms",
           "author": null,
           "description": "T​he Cabinet on Wednesday approved Rs 10,000 crore for redevelopment of three major railway stations - New Delhi, Ahmedabad and Mumbai's Chhatrapati Shivaji Terminus - by awarding contracts based on government funding, abandoning the earlier plan to modernise through the public private partnership route.",
@@ -18939,6 +19259,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94518761,width-1070,height-580,imgsize-26850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/india/military-strife-caused-by-galwan-has-ended-china-envoy/articleshow/94518395.cms",
+          "author": null,
+          "description": "Even as the disengagement process in eastern Ladakh remains incomplete, China has claimed the phase of \"emergency response\" that started with the Galwan clash in June 2022 had \"basically\" come to an end, and that the border situation is now switching to \"normalised management and control\".",
+          "link": "https://timesofindia.indiatimes.com/india/military-strife-caused-by-galwan-has-ended-china-envoy/articleshow/94518395.cms",
+          "publishedOn": "2022-09-28T18:57:44.000Z",
+          "wordCount": 6546,
+          "title": "Strife caused by Galwan has ended: China",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518397,width-1070,height-580,imgsize-131814,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zarina-wahab-sooraj-pancholi-is-innocent-and-rabia-khan-knows-it-exclusive/articleshow/94518390.cms",
           "author": null,
           "description": "Yesterday a Court order was published which criticized late actress Jiah Khan's mother Rabia Khan for misusing the judicial machinery. The order stated that Rabia was trying to protract the trial by repeatedly filing applications in various courts despite the fact that the CBI had submitted a report confirming that Jiah's death was by suicide and not homicide, as alleged by Rabia. In light of this order, ETimes reached out to the main accused, Sooraj Pancholi's mother Zarina Wahab. Here is the conversation that took place...",
@@ -18947,6 +19277,16 @@
           "wordCount": 9222,
           "title": "Zarina Wahab: Sooraj Pancholi is innocent and Rabia Khan knows it - Exclusive",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94518384,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-38718/94518384.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/posing-as-patient-gunman-kills-chinese-national-injures-dentist-wife-in-karachi-clinic/articleshow/94518312.cms",
+          "author": null,
+          "description": "An unidentified assailant masquerading as a patient shot and killed a Chinese national and wounded two others in their seventies inside a dentist's clinic in the southern Pakistan port city of Karachi on Wednesday, five months after a suicide attack there left three Chinese dead.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/posing-as-patient-gunman-kills-chinese-national-injures-dentist-wife-in-karachi-clinic/articleshow/94518312.cms",
+          "publishedOn": "2022-09-28T18:44:18.000Z",
+          "wordCount": 6550,
+          "title": "Karachi: Posing as patient, gunman kills Chinese",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94518310,width-1070,height-580,imgsize-85398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bihar-court-issues-arrest-warrant-against-ekta-kapoor-her-mother-shobha/articleshow/94518138.cms",
