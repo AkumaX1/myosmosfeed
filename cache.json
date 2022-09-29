@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378221/microsoft-outlook-windows-new-design-office-insiders",
+          "author": null,
+          "description": "The new Outlook for Windows design. | Image: Microsoft\n    \n\n  \nMicrosoft is making its new version of Outlook for Windows available to all Office testers this week. The new Outlook for Windows app will make the desktop email client a lot more like the web version. Microsoft has been working on this redesign for months, and originally released a semi-public beta earlier this year. \n“Since then, we’ve received valuable feedback from Office Insiders on Beta Channel about how to create a more consistent, feature-rich experience,” explains Margie Clinton, group product manager on the Outlook team. “We’ve been listening to feedback since May and our team has been working diligently to improve the new Outlook for Windows.”\nImage: Microsoft\n      Office testers can try the new Outlook for Windows…",
+          "link": "https://www.theverge.com/2022/9/29/23378221/microsoft-outlook-windows-new-design-office-insiders",
+          "publishedOn": "2022-09-29T10:07:35.000Z",
+          "wordCount": 7216,
+          "title": "Microsoft’s new Outlook for Windows now available to all Office testers",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/tziCMmRBATdBo_4R6GzdDbPErTk=/0x0:2992x1796/1200x628/filters:focal(1496x898:1497x899)/cdn.vox-cdn.com/uploads/chorus_asset/file/24063984/outlook_new.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378174/sackboy-a-big-adventure-pc-release-date",
           "author": null,
           "description": "Sony is bringing another PlayStation exclusive to PC. Sackboy: A Big Adventure is set to release on PC on October 27th, according to a trailer that was posted early to Sony’s PlayStation Latin America YouTube account. Spotted by Nibel on Twitter, the trailer confirms the PC port of Sackboy: A Big Adventure will be full of improvements.\n4K and 120fps support is listed, alongside support for ultrawide 21:9 aspect ratio monitors, Nvidia’s DLSS, and Variable Refresh Rate (VRR). These are the best improvements to Sackboy: A Big Adventure yet, following a resolution and visuals boost on the PS5 version.\nSackboy is the latest in a line of PlayStation games on PC\nSackboy: A Big Adventure is the latest in a growing line of PlayStation exclusive games on PC. Marvel’s Spider-Man Remastered launched on PC last month, after Horizon Zero Dawn, Days Gone, and God of War appeared in recent years. Uncharted: Legacy of Thieves Collection is also launching on PC on October 19th, with Marvel’s Spider-Man: Miles Morales arriving on PC at some point this fall.\nSony has been increasingly focused on PlayStation PC ports, and wants around half of its games to be on PC and mobile by 2025. Sony even started using a PlayStation PC label last year alongside acquiring a PC port developer.\nThe announcement of Sackboy: A Big Adventure on PC comes just a day after a PC version of the Returnal settings menu leaked. Sony confirmed its authenticity by copyright striking the video on YouTube, but the settings video showed support for ray-traced shadows and reflections, and Nvidia’s DLSS. Sony might also be working on its own PlayStation PC launcher, as references to the launcher were discovered in the recent release of Marvel’s Spider-Man Remastered on PC.",
@@ -1459,6 +1469,206 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-flood-warning.html",
+          "author": "Victoria Kim",
+          "description": "Rivers and creeks are flooding, and storm surge means there’s nowhere for the water to go.",
+          "link": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-flood-warning.html",
+          "publishedOn": "2022-09-29T09:42:04.000Z",
+          "wordCount": null,
+          "title": "Florida Faces ‘Life-Threatening’ Flooding From Hurricane Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/health/doctor-burnout-pandemic.html",
+          "author": "Oliver Whang",
+          "description": "Nearly two-thirds of doctors are experiencing at least one symptom of burnout, a huge increase from before the pandemic. But the situation is not irreparable, researchers say.",
+          "link": "https://www.nytimes.com/2022/09/29/health/doctor-burnout-pandemic.html",
+          "publishedOn": "2022-09-29T09:00:47.000Z",
+          "wordCount": null,
+          "title": "Physician Burnout Has Reached Distressing Levels, New Research Finds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/david-geffen-hall-reopening-lincoln-center.html",
+          "author": "Michael Kimmelman",
+          "description": "David Geffen Hall, the New York Philharmonic’s Lincoln Center home, is reopening after a $550 million renovation aimed at breaking its acoustic curse — and adding a dash of glamour.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/david-geffen-hall-reopening-lincoln-center.html",
+          "publishedOn": "2022-09-29T09:00:41.000Z",
+          "wordCount": null,
+          "title": "David Geffen Hall, Notoriously Jinxed, Is Reborn Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/business/mckinsey-tobacco-juul-opioids.html",
+          "author": "Walt Bogdanich and Michael Forsythe",
+          "description": "The consulting firm’s work with opioid makers is well known, but for decades McKinsey worked with Big Tobacco and has also advised Juul, the e-cigarette company.",
+          "link": "https://www.nytimes.com/2022/09/29/business/mckinsey-tobacco-juul-opioids.html",
+          "publishedOn": "2022-09-29T09:00:40.000Z",
+          "wordCount": null,
+          "title": "How McKinsey Got Into the Business of Addiction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html",
+          "author": "Jack Nicas and Flávia Milhorance",
+          "description": "Former President Luiz Inácio Lula da Silva is trying to cap a stunning political comeback by defeating the incumbent Jair Bolsonaro in Brazil’s elections on Sunday.",
+          "link": "https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html",
+          "publishedOn": "2022-09-29T09:00:37.000Z",
+          "wordCount": null,
+          "title": "Lula Is Back From Prison and Could Be Brazil’s Next President, Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/geffen-hall-philharmonic-timeline.html",
+          "author": "Robin Pogrebin",
+          "description": "After decades of failed attempts, the New York Philharmonic and Lincoln Center are hoping that the new $550 million renovation has finally fixed the hall.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/geffen-hall-philharmonic-timeline.html",
+          "publishedOn": "2022-09-29T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Timeline: The Long, Long Journey to a New David Geffen Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html",
+          "author": "Apoorva Mandavilli",
+          "description": "The coronavirus revealed flaws in the nation’s pandemic plans. The spread of monkeypox shows that the problems remain deeply entrenched.",
+          "link": "https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html",
+          "publishedOn": "2022-09-29T09:00:28.000Z",
+          "wordCount": null,
+          "title": "New Infectious Threats Are Coming. The US Probably Won’t Contain Them.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html",
+          "author": "Vivian Yee",
+          "description": "Online, Iranians engage in a world their leaders don’t want them to see.",
+          "link": "https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html",
+          "publishedOn": "2022-09-29T09:00:27.000Z",
+          "wordCount": null,
+          "title": "Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/etienne-charles-san-juan-hill-geffen-hall.html",
+          "author": "Seth Colter Walls",
+          "description": "Etienne Charles’s composition for the reopening of the hall honors the Afro-diasporic musical heritage of the neighborhood razed to build Lincoln Center.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/etienne-charles-san-juan-hill-geffen-hall.html",
+          "publishedOn": "2022-09-29T09:00:25.000Z",
+          "wordCount": null,
+          "title": "The Syncopated Sounds of Old San Juan Hill at the New Geffen Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/arizona-governor-katie-hobbs.html",
+          "author": "Jack Healy and Jazmine Ulloa",
+          "description": "Katie Hobbs has struggled to compete against Republican Kari Lake, who is running on border security and election fraud conspiracy theories.",
+          "link": "https://www.nytimes.com/2022/09/29/us/arizona-governor-katie-hobbs.html",
+          "publishedOn": "2022-09-29T09:00:22.000Z",
+          "wordCount": null,
+          "title": "In Arizona Governor’s Race, a Democrat Runs on Abortion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/deborah-borda-geffen-hall.html",
+          "author": "Javier C. Hernández",
+          "description": "Deborah Borda led the New York Philharmonic in the 1990s, and was frustrated by its subpar hall. After a 17-year run in Los Angeles, she “finally saw a path forward,” she said.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/deborah-borda-geffen-hall.html",
+          "publishedOn": "2022-09-29T09:00:20.000Z",
+          "wordCount": null,
+          "title": "A Pioneering Orchestra Boss Had ‘Unfinished Business,’ So She Returned",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/sports/baseball/aaron-judge-roger-maris-yankees.html",
+          "author": "Tyler Kepner",
+          "description": "Aaron Judge tied Roger Maris’s American League record with his 61st home run of the season, and Maris’s former teammate Bobby Richardson sees many parallels.",
+          "link": "https://www.nytimes.com/2022/09/29/sports/baseball/aaron-judge-roger-maris-yankees.html",
+          "publishedOn": "2022-09-29T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Roger Maris Would be ‘Tickled to Death’ to be Matched by Aaron Judge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/justice-dept-prison-reform.html",
+          "author": "Glenn Thrush",
+          "description": "The move is part of a long-anticipated effort by the Biden administration to overhaul the underfunded, scandal-plagued Federal Bureau of Prisons.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/justice-dept-prison-reform.html",
+          "publishedOn": "2022-09-29T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Justice Dept. to Seek Stiffer Sentences in Prisoner Abuse Cases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/tax-cuts-uk.html",
+          "author": "Jim Tankersley",
+          "description": "The International Monetary Fund is just one of the many voices that have criticized a plan to cut rates for high earners.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/tax-cuts-uk.html",
+          "publishedOn": "2022-09-29T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Britain’s Gamble on Tax Cuts has Economists Warning of Past Mistakes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/esg-investing-responsibility.html",
+          "author": "Hans Taparia",
+          "description": "Just because a company meets E.S.G. criteria doesn’t mean it’s a good corporate citizen.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/esg-investing-responsibility.html",
+          "publishedOn": "2022-09-29T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Don’t Believe Wall Street’s Social Responsibility Hype",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/poverty-hunger-bingeing.html",
+          "author": "Bertrand Cooper",
+          "description": "Food was scarce when I was growing up, so I ate all I could when I had the chance.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/poverty-hunger-bingeing.html",
+          "publishedOn": "2022-09-29T09:00:12.000Z",
+          "wordCount": null,
+          "title": "I Escaped Poverty, but Hunger Still Haunts Me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/dating-courtship-relationships.html",
+          "author": "Michal Leibowitz",
+          "description": "Old-fashioned courtship is having a moment.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/dating-courtship-relationships.html",
+          "publishedOn": "2022-09-29T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Dating Is Broken. Is Going Retro the Answer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/opiate-fentanyl-epidemic.html",
+          "author": "Maia Szalavitz",
+          "description": "It’s important to understand why drug use patterns change over time.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/opiate-fentanyl-epidemic.html",
+          "publishedOn": "2022-09-29T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Why Drug Epidemics End",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/sports/baseball/aaron-judge-home-run-toronto.html",
+          "author": "David Waldstein",
+          "description": "Aaron Judge went seven games without a home run and admitted the chase for No. 61 wore on him. With one swing, he matched Roger Maris’s record. And now he’s ready for more.",
+          "link": "https://www.nytimes.com/2022/09/29/sports/baseball/aaron-judge-home-run-toronto.html",
+          "publishedOn": "2022-09-29T08:07:41.000Z",
+          "wordCount": null,
+          "title": "Aaron Judge of Yankees Reacts to Hitting 61st Home Run",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html",
+          "author": "Jack Nicas and André Spigariol",
+          "description": "Four days before Brazilians vote, President Jair Bolsonaro’s political party formally claimed, without evidence, that government employees could alter ballots.",
+          "link": "https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html",
+          "publishedOn": "2022-09-29T08:02:30.000Z",
+          "wordCount": null,
+          "title": "On Eve of Election, Bolsonaro’s Party Attacks Brazil’s Voting Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html",
           "author": "Seth Mydans",
           "description": "Sean Turnell, arrested five days after the military seized power in a coup, has been convicted by the junta of violating the country’s official secrets act.",
@@ -1856,6 +2066,16 @@
           "publishedOn": "2022-09-28T11:57:02.000Z",
           "wordCount": null,
           "title": "When Is a Storm Surge at Its Peak?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/style/a-vanishing-craft-reappears.html",
+          "author": "Saskia Solomon",
+          "description": "The practice of making pajaki, the Polish folk art created to honor the earth, finds an unexpected revival.",
+          "link": "https://www.nytimes.com/2022/09/28/style/a-vanishing-craft-reappears.html",
+          "publishedOn": "2022-09-28T10:52:34.000Z",
+          "wordCount": null,
+          "title": "The Polish Folk Art Pajaki Makes an Unexpected Comeback",
           "imageUrl": null
         },
         {
@@ -4700,6 +4920,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/arts/paris-mary-sidney-shakespeare.html",
+          "author": "Laura Cappelle",
+          "description": "Several Paris theaters geared up to open their seasons with the most famous English playwright. How would the plays be tackled if a woman’s name were attached to them?",
+          "link": "https://www.nytimes.com/2022/09/29/arts/paris-mary-sidney-shakespeare.html",
+          "publishedOn": "2022-09-29T09:50:46.000Z",
+          "wordCount": null,
+          "title": "In Paris Plays, What It Would Be Like if Shakespeare Was Female",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/books/15-new-books-coming-in-october.html",
           "author": "Joumana Khatib",
           "description": "A deeply reported history of Covid-19; Maggie Haberman’s look at Donald J. Trump; stories by George Saunders, Alan Moore and Samanta Schweblin; and more.",
@@ -6340,6 +6570,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2410639",
+          "author": "Christine Hall",
+          "description": "Recruitment and onboarding for deskless and hourly workers has always been a challenge, and one that startups have taken on in recent years. These employees are often always in demand due to traditionally high turnover rates, and yet, many still rely on paperwork and videos. Workstream is one of the startups working on a solution […]\nGGV Capital latest to back Workstream’s goal of filling software gap for deskless workers by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/ggv-capital-workstream-software-deskless-worker/",
+          "publishedOn": "2022-09-29T10:00:57.000Z",
+          "wordCount": 6054,
+          "title": "GGV Capital latest to back Workstream’s goal of filling software gap for deskless workers",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/04/waiter.jpg?resize=1200,801"
+        },
         {
           "id": "https://techcrunch.com/?p=2411889",
           "author": "Ivan Mehta",
@@ -9809,6 +10049,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/recode/2022/9/29/23377578/tech-billionaires-pandemic-wealth-2022",
+          "author": null,
+          "description": "Bill Gates and Jeff Bezos at the Schick Xtreme III Tennis Challenge in Seattle, Washington, in 2001. | Robert Sorbo/Sygma via Getty Images\n    \n\n  \nLosing billions hasn’t erased the wild gains they made since the start of the pandemic.\n It’s been a gloomy year for the economy, with high inflation and recession anxieties leading to sharp downturns in the stock market. Tech companies have suffered some of the largest shocks: Netflix’s stock is down more than 60 percent so far this year; Meta’s has fallen about 58 percent. According to Google Finance, Amazon and Google stocks have both dropped around 30 percent year-to-date in 2022.\nWith tech stocks plummeting, the industry’s billionaire leaders have seen losses to their personal fortunes too. That’s one of the takeaways of this year’s Forbes…",
+          "link": "https://www.vox.com/recode/2022/9/29/23377578/tech-billionaires-pandemic-wealth-2022",
+          "publishedOn": "2022-09-29T10:00:00.000Z",
+          "wordCount": 3088,
+          "title": "Tech billionaires lost $315 billion in 2022 and it genuinely doesn’t matter",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Em47sb-0LaGPYcD-FSnfomdu9Ck=/0x69:2074x1155/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062963/627634220.jpg"
+        },
         {
           "id": "https://www.vox.com/policy-and-politics/2022/9/28/23377587/house-democrats-stock-trading-bill-blind-trust",
           "author": null,
@@ -16043,6 +16293,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/will-not-contest-congress-prez-poll-apologised-to-sonia-for-what-happened-in-jaipur-ashok-gehlot/articleshow/94531594.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Rajasthan Chief Minister Ashok Gehlot on Thursday announced that he will not contest the Congress presidential polls as he took moral respo.",
+          "link": "https://timesofindia.indiatimes.com/india/will-not-contest-congress-prez-poll-apologised-to-sonia-for-what-happened-in-jaipur-ashok-gehlot/articleshow/94531594.cms",
+          "publishedOn": "2022-09-29T09:52:35.000Z",
+          "wordCount": 5454,
+          "title": "Will not contest Congress prez poll, apologised to Sonia for what happened in Jaipur: Ashok Gehlot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94531586,width-1070,height-580,imgsize-46442,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rahul-gandhis-posters-flexes-torn-in-karnataka-before-bharat-jodo-yatra-enters-state/articleshow/94531144.cms",
+          "author": null,
+          "description": "India News: CHAMARAJANAGAR: Ahead of Bharat Jodo Yatra entering Karnataka, welcome flexes bearing pictures of Congress MP Rahul Gandhi were seen vandalized in the.",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-posters-flexes-torn-in-karnataka-before-bharat-jodo-yatra-enters-state/articleshow/94531144.cms",
+          "publishedOn": "2022-09-29T09:36:07.000Z",
+          "wordCount": 5692,
+          "title": "Rahul Gandhi's posters, flexes torn in Karnataka before Bharat Jodo Yatra enters state",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/delhi-rajasthan-cm-ashok-gehlot-meets-sonia-gandhi-at-10-janpath/articleshow/94530920.cms",
+          "author": null,
+          "description": "Gehlot on Wednesday sought to play down the political crisis in the state for which three of his loyalists have been issued show cause notice by the party's central leadership and said, \"internal politics goes on, we'll resolve it\".",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-rajasthan-cm-ashok-gehlot-meets-sonia-gandhi-at-10-janpath/articleshow/94530920.cms",
+          "publishedOn": "2022-09-29T09:29:02.000Z",
+          "wordCount": 6363,
+          "title": "Delhi: Rajasthan CM Ashok Gehlot meets Sonia Gandhi at 10 Janpath",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530901,width-1070,height-580,imgsize-1748844,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/bjp-leader-subramanian-swamy-meets-sri-lankas-rajapaksa-brothers/articleshow/94530272.cms",
           "author": null,
           "description": "India News: COLOMBO: Senior BJP leader Dr Subramanian Swamy on Thursday met Gotabaya Rajapaksa here, becoming the first foreign visitor to call on the ousted Sri .",
@@ -16051,6 +16331,16 @@
           "wordCount": 5580,
           "title": "BJP leader Subramanian Swamy meets Sri Lanka's Rajapaksa brothers",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94530329,width-1070,height-580,imgsize-24520,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/nine-indian-fishermen-recused-from-sri-lankan-waters/articleshow/94530299.cms",
+          "author": null,
+          "description": "India News: CHENNAI: Nine Indian fishermen were recused from Sri Lankan waters by the India Coast Guard on Thursday after their vessel had an engine breakdown and.",
+          "link": "https://timesofindia.indiatimes.com/india/nine-indian-fishermen-recused-from-sri-lankan-waters/articleshow/94530299.cms",
+          "publishedOn": "2022-09-29T09:04:43.000Z",
+          "wordCount": 5865,
+          "title": "Nine Indian fishermen recused from Sri Lankan waters",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530888,width-1070,height-580,imgsize-191158,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-plays-important-role-as-frontline-state-in-fight-against-terrorism-president-murmu/articleshow/94530099.cms",
@@ -19847,6 +20137,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "author": null,
+          "description": "A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.'",
+          "link": "https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "publishedOn": "2022-09-29T06:12:27.000Z",
+          "wordCount": 6588,
+          "title": "Want condoms too? IAS officer rebukes girl seeking pads",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519113,width-1070,height-580,imgsize-40546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/seven-early-signs-of-alzheimers-disease-in-elders/articleshow/94344876.cms",
+          "author": null,
+          "description": "Epidemiological studies indicate that engagement in risk reduction practices can have an impact on the incidence of dementia. A cognitive lifestyle is known to reduce the risk of dementia. Cognitive lifestyle refers to those cognitive activities that individuals perform throughout their lifespans such as young people engaging in education-based activities, adults engaging in their occupation or jobs and older adults engaging in cognitively stimulating leisure activities. By following a healthy cognitive lifestyle, one can have a good cognitive reserve. Those who have a good cognitive reserve can avoid dementia.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/seven-early-signs-of-alzheimers-disease-in-elders/articleshow/94344876.cms",
+          "publishedOn": "2022-09-29T05:12:16.000Z",
+          "wordCount": 10028,
+          "title": "Seven early signs of Alzheimer's disease in elders",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94345425,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-23036/94345425.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
           "author": null,
           "description": "Lt General Anil Chauhan (Retired) has been appointed as the Chief of Defence Staff (CDS), nearly 10 months after the death of CDS General Bipin Rawat in a helicopter crash.As CDS, Lt Gen Chauhan will function as secretary to government of India, department of military affairs, the defence ministry said.Born on May 18, 1961, Lt Gen Anil Chauhan was commissioned into the 11 Gorkha Rifles of the Indian Army in 1981.",
@@ -19875,6 +20185,16 @@
           "wordCount": 6929,
           "title": "Ankita Bhandari murder case: How Meerut couple escaped infamous Rishikesh resort",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94492527,width-1070,height-580,imgsize-49490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-and-anil-kapoor-share-new-pictures-of-vayu-kapoor-ahuja-as-they-wish-nirmal-kapoor-on-her-88th-birthday/articleshow/94478837.cms",
+          "author": null,
+          "description": "New mommy Sonam Kapoor Ahuja, who is quite active on social media, on Tuesday, took to Instagram to wish her grandmother Nirmal Kapoor on her birthday. To wish her daddy on her special day, Sonam shared two pictures. One of them featured her newborn baby boy, Vayu Kapoor Ahuja.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-and-anil-kapoor-share-new-pictures-of-vayu-kapoor-ahuja-as-they-wish-nirmal-kapoor-on-her-88th-birthday/articleshow/94478837.cms",
+          "publishedOn": "2022-09-28T08:56:36.000Z",
+          "wordCount": 9380,
+          "title": "Sonam Kapoor and Anil Kapoor share new pictures of Vayu Kapoor Ahuja as they wish Nirmal Kapoor on her 88th birthday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94478851,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-76202/94478851.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/why-the-centre-moved-to-ban-pfi-explained/articleshow/94495453.cms",
@@ -20184,6 +20504,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup/articleshow/94531425.cms",
+          "author": null,
+          "description": "India's pace spearhead Jasprit Bumrah was on Thursday ruled out of the T20 World Cup with a stress fracture, dealing a massive blow to the team's chances in the ICC event.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup/articleshow/94531425.cms",
+          "publishedOn": "2022-09-29T09:46:23.000Z",
+          "wordCount": 5249,
+          "title": "Bumrah out of T20 World Cup, say BCCI sources",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94531406,width-1070,height-580,imgsize-34970,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/news/govt-to-mandate-minimum-6-air-bags-in-all-passengers-cars-from-october-1-next-year/articleshow/94530508.cms",
+          "author": null,
+          "description": "The government has deferred the implementation of the proposal to make six airbags mandatory in passenger cars by one year to October 1, 2023, road transport and highways minister Nitin Gadkari said on Thursday.",
+          "link": "https://timesofindia.indiatimes.com/auto/news/govt-to-mandate-minimum-6-air-bags-in-all-passengers-cars-from-october-1-next-year/articleshow/94530508.cms",
+          "publishedOn": "2022-09-29T09:13:46.000Z",
+          "wordCount": 5856,
+          "title": "Govt defers proposal to make 6 airbags mandatory in cars",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94530534,width-1070,height-580,imgsize-36496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/touching-sky-line-suryakumar-yadav-is-now-indias-highest-run-scorer-in-t20is-in-single-calendar-year/articleshow/94528822.cms",
           "author": null,
           "description": "Suryakumar Yadav's status as India's best T20I batter in recent times has been reaffirmed as he became the highest scorer in a single calender year with 732 runs, surpassing Shikhar Dhawan's 689 back in 2018. Suryakumar, who scored one of his finest T20I half-centuries against South Africa on a seaming track in Thiruvananthapuram on Wednesday, is only 24 runs short of completing 1000 runs in the format.",
@@ -20192,6 +20532,16 @@
           "wordCount": 6239,
           "title": "Surya becomes highest run-scorer for India in a year in T20Is",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94530121,width-1070,height-580,imgsize-54858,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-reveals-three-types-of-conditions-that-may-increase-the-risk-of-covid-19-death/photostory/94507083.cms",
+          "author": null,
+          "description": "By now, we know that COVID-19 can affect people in different ways. While some develop mild to moderate symptoms, there are those who either experience no symptoms at all or go on to battle life-threatening ailments.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-reveals-three-types-of-conditions-that-may-increase-the-risk-of-covid-19-death/photostory/94507083.cms",
+          "publishedOn": "2022-09-29T08:30:00.000Z",
+          "wordCount": 10104,
+          "title": "Study reveals conditions that may increase Covid death risk",
+          "imageUrl": "https://static.toiimg.com/photo/94507102.cms"
         },
         {
           "id": "https://photogallery.indiatimes.com/sports/events/national-games-2022-ahead-of-opening-ceremony-spectacular-drone-show-lights-up-ahmedabad-see-pictures/articleshow/94528227.cms",
@@ -20262,6 +20612,26 @@
           "wordCount": 5116,
           "title": "Watch: Tata Yodha 2.0 & Intra V50 off-road driving experience",
           "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94526824,imgsize-288096.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/surat/prime-minister-narendra-modi-inaugurates-various-developmental-projects-in-surat/articleshow/94526754.cms",
+          "author": null,
+          "description": "During his two-day visit to Gujarat, Prime Minister Narendra Modi on Thursday laid the foundation stone and dedicated various projects worth more than Rs 3,400 crore in Surat.",
+          "link": "https://timesofindia.indiatimes.com/city/surat/prime-minister-narendra-modi-inaugurates-various-developmental-projects-in-surat/articleshow/94526754.cms",
+          "publishedOn": "2022-09-29T06:39:43.000Z",
+          "wordCount": 6479,
+          "title": "PM Modi inaugurates development projects in Surat",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94526850,width-1070,height-580,imgsize-35430,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/online-schooling/can-online-schooling-be-the-best-option-for-ph-students/articleshow/94526223.cms",
+          "author": null,
+          "description": "Online schooling has changed the pedagogy sphere forever for physically challenged students. The virtual solution is helping PH students to overcome the physical challenges of accessing education in traditional institutions. By providing them equitable opportunities, E-learning enables the PH student with increased engagement in class. It eliminates the jostling for space and the struggle to hear the lecture or lesson delivered by the teacher.",
+          "link": "https://timesofindia.indiatimes.com/education/online-schooling/can-online-schooling-be-the-best-option-for-ph-students/articleshow/94526223.cms",
+          "publishedOn": "2022-09-29T06:18:07.000Z",
+          "wordCount": 6224,
+          "title": "Can online schooling be the best option for PH students?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94526164,width-1070,height-580,imgsize-101470,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/all-women-entitled-to-safe-and-legal-abortion-marital-status-cant-be-a-ground-to-deny-it-says-supreme-court/articleshow/94525524.cms",
