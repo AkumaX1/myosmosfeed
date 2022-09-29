@@ -2,10 +2,517 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T16:17:33.190Z</updated>
+    <updated>2022-09-29T17:30:05.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12 New Books We Recommend This Week]]></title>
+        <id>https://www.nytimes.com/2022/09/29/books/review/12-new-books-we-recommend-this-week.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/books/review/12-new-books-we-recommend-this-week.html"/>
+        <updated>2022-09-29T17:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Suggested reading from critics and editors at The New York Times.]]></summary>
+        <author>
+            <name>NYT &gt; Books</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Now Generate Videos From Text, Courtesy of Facebook]]></title>
+        <id>xgy45d</id>
+        <link href="https://www.vice.com/en_us/article/xgy45d/ai-can-now-generate-videos-from-text-courtesy-of-facebook"/>
+        <updated>2022-09-29T17:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Make-A-Video is the first time we are seeing a text-to-video tool that will soon be available to the public.]]></summary>
+        <author>
+            <name>Chloe Xiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Approach to Spotting Tumors: Look for Their Microbes]]></title>
+        <id>https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html"/>
+        <updated>2022-09-29T17:19:30.000Z</updated>
+        <summary type="html"><![CDATA[New research is revealing that cancer is rife with bacteria and fungi — a rich ecosystem that scientists call the tumor microbiome.]]></summary>
+        <author>
+            <name>Carl Zimmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create image cutouts in iOS 16]]></title>
+        <id>https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone</id>
+        <link href="https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone"/>
+        <updated>2022-09-29T17:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Cut out your pet and paste it into the group chat. | Illustration by Samar Haddad / The Verge
+    
+
+  
+While the lock screen is one of iOS 16’s marquee features, there’s another fun addition that’s a little less obvious: the ability to easily cut out subjects from pictures. It’s a way to easily separate a subject from a background and quickly share the results or paste them into applications. What would usually take considerable time and effort when using photo editing software can be done with a couple of easy steps in iOS 16. It’s surprisingly good, and you can easily share the results with your group chat for maximum entertainment. Here’s how it works.
+I followed these steps on both an iPhone 11 running iOS 16.0.2 and an iPhone 14 Pro running iOS 16.1 developer beta three.
+Open Apple’s Photos app.
+Find a picture in your camera roll with a subject that you want to isolate and cut out, like a person, pet, or a prominently featured object.
+Long press on the subject until you feel a haptic buzz and see a white border appear, identifying your subject.
+From here, tap either Copy or Share.
+
+
+
+  
+        
+      Cats are ideal subjects for this kind of feature.
+  
+
+  
+        
+      You can copy your cutout or share it directly.
+  
+
+
+If you copy the image, you can paste it anywhere that allows you to paste a PNG image file, like Google search, Messages, or even a note. If you tap Share, you’ll see options to AirDrop it, save the image to your camera roll, assign it to a contact, or add it to a new Quick Note, among others.
+Essentially, that’s it! For a little more guidance on getting the best results, here are a few tips:
+Any image saved to your camera roll is fair game — it doesn’t have to be taken with your iPhone.
+It works best with people, pets, or clearly defined objects.
+If you long press an image and nothing happens, try again by pressing a different part of the image. If multiple attempts fail, then it probably is just not a good candidate for image cutout.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Name director’s new movie is a romantic adventure about a girl and a chair]]></title>
+        <id>https://www.polygon.com/23378795/suzume-anime-trailer-release-date-japan</id>
+        <link href="https://www.polygon.com/23378795/suzume-anime-trailer-release-date-japan"/>
+        <updated>2022-09-29T17:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Image: CoMix Wave Films
+    
+
+  
+The film will premiere in U.S. theaters in early 2023
+ Makoto Shinkai, the acclaimed anime director behind such films as Your Name and Weathering With You, is returning this fall with a new movie about a young woman who falls in love with a chair. That’s essentially the elevator pitch for Suzume, but there’s a whole lot more going on in the new trailer for the upcoming film, which is slated to release in theaters in Japan this November.
+Set in the quiet town of Kyushu, the coming-of-age film follows the story of a 17 year-old girl who finds herself thrust into a magical adventure when she crosses paths with Souta, a mysterious and brooding stranger searching for a mystical door to another world. 
+After confiding in Suzume that disaster will befall Japan if these are not closed, Souta is transformed into a sentient chair by a malevolent cat bent on plunging the world into chaos. In order to reverse the curse, Suzume and Souta must work together to track down the cat and close doors scattered across Japan along the way.
+As outlandish as the premise might sound, the crux of the story feels very much in line with the rest of the director’s oeuvre. A persistent theme in one form or another across all of Shinkai’s films is the concept of missed connections, of people finding each other in spite of seemingly improbable circumstances, only for those connections to be stymied by equally improbable circumstances outside of their control. I’d say “being turned into a chair by an evil magical cat” falls squarely within the latter description.
+Suzume is set to open in theaters in Japan on Nov. 11. The film is set to release in U.S. theaters sometime in early 2023.]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timothée Chalamet Gets Bloody in Creepy Trailer for ‘Bones and All’ (And It’s Kinda Hot)]]></title>
+        <id>https://www.rollingstone.com/?p=1234602319</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/timothee-chalamet-bones-and-all-trailer-1234602319/"/>
+        <updated>2022-09-29T17:10:32.000Z</updated>
+        <summary type="html"><![CDATA["You don't think I'm a bad person?" he asks in it]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheriff Threatened to Fire All His Black Officers in Racist Tirade Caught on Tape]]></title>
+        <id>z34qwx</id>
+        <link href="https://www.vice.com/en_us/article/z34qwx/sheriff-threatened-to-fire-all-his-black-officers-in-racist-tirade-caught-on-tape"/>
+        <updated>2022-09-29T17:09:07.000Z</updated>
+        <summary type="html"><![CDATA[“Fuck them Black bastards... it’s just time to clean them out.”]]></summary>
+        <author>
+            <name>Trone Dowd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gen Chauhan to take over as India’s next chief of defence staff on Friday]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms"/>
+        <updated>2022-09-29T17:08:14.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Anil Chauhan will take over as the country’s next chief of defence staff (CDS) on Friday, returning to active service as a four-star genera.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gen Chauhan to take over as India’s next CDS on Friday]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms"/>
+        <updated>2022-09-29T17:08:14.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Anil Chauhan will take over as the country’s next chief of defence staff (CDS) on Friday, returning to active service as a four-star genera.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Classical Music Albums You Can Listen to Right Now]]></title>
+        <id>https://www.nytimes.com/2022/09/29/arts/music/classical-music-albums-september.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/arts/music/classical-music-albums-september.html"/>
+        <updated>2022-09-29T17:06:36.000Z</updated>
+        <summary type="html"><![CDATA[A recent work by Andrew McIntosh, the latest undertaking by Igor Levit and a high-profile tribute to Mieczyslaw Weinberg are among the highlights.]]></summary>
+        <author>
+            <name>NYT &gt; Arts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OG App, an ad- and Reels-free Instagram clone, is pulled from the App Store]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378541/the-og-app-instagram-clone-pulled-from-app-store</id>
+        <link href="https://www.theverge.com/2022/9/29/23378541/the-og-app-instagram-clone-pulled-from-app-store"/>
+        <updated>2022-09-29T17:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+An app appealing to the nostalgia of an Instagram without Reels and recommendations was pulled from the App Store just as developers say it was taking off.
+The OG App allows users to log in with their Instagram account and browse without ads, recommendations, and Reels — increasingly obtrusive features on Instagram that have caused widespread pushback from users. The app’s name captures the same sentiment: many users miss the old Instagram.
+But just a day after the app officially launched, it was pulled from the App Store on Wednesday, Engadget reports. On Twitter, the OG App creators said the app got 10,000 downloads and was climbing the rankings before it was removed.
+Yesterday night, after we received 10,000 downloads,
+were #50 on the App…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York follows California mandating zero-emissions vehicles by 2035]]></title>
+        <id>https://techcrunch.com/?p=2412878</id>
+        <link href="https://techcrunch.com/2022/09/29/new-york-follows-california-mandating-zero-emissions-vehicles-by-2035/"/>
+        <updated>2022-09-29T17:03:17.000Z</updated>
+        <summary type="html"><![CDATA[All new passenger cars, pickup trucks and SUVs sold in New York state must be zero emissions by 2035, Governor Kathy Hochul announced Thursday. “By revving up our clean transportation transition and making major investments to make EVs more accessible, we’re supercharging our fight against climate change,” Hochul tweeted. NEW: All new vehicles sold in […]
+New York follows California mandating zero-emissions vehicles by 2035 by Rebecca Bellan originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Podcast in Daniel Johnston’s Name Will Open Mental Health Conversation]]></title>
+        <id>https://www.rollingstone.com/?p=1234602352</id>
+        <link href="https://www.rollingstone.com/music/music-news/new-podcast-daniel-johnstons-name-mental-health-conversation-1234602352/"/>
+        <updated>2022-09-29T17:03:02.000Z</updated>
+        <summary type="html"><![CDATA[The first guests for the Hi, How Are You? Podcast includes members of Black Pumas and Surfaces]]></summary>
+        <author>
+            <name>Jodi Guglielmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sachin Pilot meets Sonia Gandhi in Delhi, discusses events in Rajasthan]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sachin-pilot-meets-sonia-gandhi-in-delhi-discusses-events-in-rajasthan/articleshow/94541643.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sachin-pilot-meets-sonia-gandhi-in-delhi-discusses-events-in-rajasthan/articleshow/94541643.cms"/>
+        <updated>2022-09-29T17:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Pilot met hours after his bete noire Ashok Gehlot met Sonia Gandhi in the afternoon, after which the Rajasthan chief minister announced that he will opt out of the Congress president's race.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pitch Deck Teardown: Rokoko’s $3M strategic extension deck]]></title>
+        <id>https://techcrunch.com/?p=2410892</id>
+        <link href="https://techcrunch.com/2022/09/29/sample-strategic-extension-pitch-deck-rokoko/"/>
+        <updated>2022-09-29T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[For this week's pitch deck teardown, I've got something slightly unusual: Rokoko's $3 million strategic extension deck that valued the company at $80 million.
+Pitch Deck Teardown: Rokoko’s $3M strategic extension deck by Haje Jan Kamps originally published on TechCrunch]]></summary>
+        <author>
+            <name>Haje Jan Kamps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCs at Index Ventures, Serena Ventures, NEA and Volition Capital join Startup Battlefield judges]]></title>
+        <id>https://techcrunch.com/?p=2408595</id>
+        <link href="https://techcrunch.com/2022/09/29/vcs-at-index-ventures-serena-ventures-nea-and-volition-capital-join-startup-battlefield-judges/"/>
+        <updated>2022-09-29T17:00:23.000Z</updated>
+        <summary type="html"><![CDATA[We’re stoked for what’s shaping up to be a glorious Startup Battlefield competition at TechCrunch Disrupt on October 18–20 in San Francisco. Twenty of the most promising and creative early stage startups — chosen from the elite Startup Battlefield 200 — will go toe-to-toe for bragging rights and $100,000. This year’s contenders will have to […]
+VCs at Index Ventures, Serena Ventures, NEA and Volition Capital join Startup Battlefield judges by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to watch the 2022 League of Legends World Championship — and what to watch for]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378362/league-of-legends-world-championship-2022-lol-worlds-how-to-watch-schedule</id>
+        <link href="https://www.theverge.com/2022/9/29/23378362/league-of-legends-world-championship-2022-lol-worlds-how-to-watch-schedule"/>
+        <updated>2022-09-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Worlds 2021 champions Edward Gaming in Iceland. | Photo by Clive Rose/Riot Games Inc. via Getty Images
+    
+
+  
+The weather is cooling down, leaves are starting to change color, and PSLs are everywhere, which can only mean one thing: it’s time for the League of Legends World Championship. The annual esports tournament, better known simply as Worlds, kicks off on September 29th. Following a few years of competitions hampered by COVID-related restrictions, the 2022 edition looks to be more in keeping with the spectacle fans are used to.
+This year, the event is taking place across several cities in North America, starting off in Mexico City and culminating with the finals in San Francisco, where none other than Lil Nas X will be performing at the opening ceremony. As always, there are plenty …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive Black Clover Mereoleona Pop! Heads to the Crunchyroll Store]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/exclusive-black-clover-mereoleona-pop-heads-to-the-crunchyroll-store</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/exclusive-black-clover-mereoleona-pop-heads-to-the-crunchyroll-store"/>
+        <updated>2022-09-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can pre-order your own today ahead of launch!
+
+
+There's about to be a new short-fused noblewoman in charge of your personal Black Clover collection, because an exclusive Pop! figure of Mereoleona Vermillion is on the way to the Crunchyroll Store! Read on for more.]]></summary>
+        <author>
+            <name>Guest Author</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Sheeran Loves Pokémon So Much He Wrote a Song About It]]></title>
+        <id>https://www.rollingstone.com/?p=1234602327</id>
+        <link href="https://www.rollingstone.com/music/music-news/ed-sheeran-pokemon-song-celestial-1234602327/"/>
+        <updated>2022-09-29T16:51:50.000Z</updated>
+        <summary type="html"><![CDATA[After getting Squirtle tattoo, singer drops "Celestial," his track from upcoming Pokémon video games]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now with VC backing, Ride1Up is producing affordable mid-drive ebikes, like the Prodigy]]></title>
+        <id>https://techcrunch.com/?p=2412872</id>
+        <link href="https://techcrunch.com/2022/09/29/now-with-vc-backing-ride1up-is-producing-affordable-mid-drive-ebikes-like-the-prodigy/"/>
+        <updated>2022-09-29T16:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Since E-bike manufacturer Ride1Up closed a $6.5 million Series A led by Ecosystem Integrity Fund, the San Diego-based company has seen steady sales growth since its launch in 2018, especially as consumers switched to ebikes during the pandemic over public transit. Indeeed, last year ebikes reportedly outsold EV and plug-in hybrid automobiles. So it was […]
+Now with VC backing, Ride1Up is producing affordable mid-drive ebikes, like the Prodigy by Mike Butcher originally published on TechCrunch]]></summary>
+        <author>
+            <name>Mike Butcher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solange Debuts Original Score for New York City Ballet]]></title>
+        <id>https://www.rollingstone.com/?p=1234598412</id>
+        <link href="https://www.rollingstone.com/music/music-features/solange-original-score-new-york-city-ballet-1234598412/"/>
+        <updated>2022-09-29T16:46:52.000Z</updated>
+        <summary type="html"><![CDATA[The Grammy-winning artist became the first Black woman to compose a piece for the storied company]]></summary>
+        <author>
+            <name>Jeff Ihaza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla’s mythical Cybertruck will also be a temporary boat because why not]]></title>
+        <id>https://techcrunch.com/?p=2412773</id>
+        <link href="https://techcrunch.com/2022/09/29/teslas-mythical-cybertruck-will-also-be-a-temporary-boat-because-why-not/"/>
+        <updated>2022-09-29T16:45:38.000Z</updated>
+        <summary type="html"><![CDATA[The Tesla Cybertruck is not yet in existence thanks to multiple delays. But when it does come, Elon Musk promises it will also have the ability to “briefly” act as a boat — if the need arises. “Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes & […]
+Tesla’s mythical Cybertruck will also be a temporary boat because why not by Kirsten Korosec originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Kills Stadia, Its Cloud Gaming Service, Refunding Everyone]]></title>
+        <id>1849597014</id>
+        <link href="https://kotaku.com/stadia-google-refund-cloud-streaming-assassins-creed-1849597014"/>
+        <updated>2022-09-29T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is shutting down its video game streaming service, Stadia, on January 18th, 2023, the company announced today. All purchases will be refunded and the technology will still be used for YouTube and other parts of its business, but the consumer-facing app and storefront will be shuttered for good less than five…
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teenage Girl Killed in Shootout Between Police and Alleged Kidnapper]]></title>
+        <id>dy74wz</id>
+        <link href="https://www.vice.com/en_us/article/dy74wz/california-kidnapping-girl-shot-savannah-graziano"/>
+        <updated>2022-09-29T16:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Savannah Graziano died during a gunfight between police and her father in California. Police believed her father had kidnapped her after killing her mother.]]></summary>
+        <author>
+            <name>Mack Lamoureux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google pulls the plug on Stadia]]></title>
+        <id>https://techcrunch.com/?p=2412893</id>
+        <link href="https://techcrunch.com/2022/09/29/google-pulls-the-plug-on-stadia/"/>
+        <updated>2022-09-29T16:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Two and a half years after unveiling Stadia on stage at GDC, the game streaming service is officially done. Subscribers will have access to the games library through January 18 of next year, after which point, it will shut down for good. Google adds in a blog post that it expects to have all refunds […]
+Google pulls the plug on Stadia by Brian Heater originally published on TechCrunch]]></summary>
+        <author>
+            <name>Brian Heater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon Plans to Set Up a New Command to Arm Ukraine, Officials Say]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html"/>
+        <updated>2022-09-29T16:37:22.000Z</updated>
+        <summary type="html"><![CDATA[The mission in Germany would streamline a training and assistance system that the United States and its allies created on the fly after Russia’s invasion, officials said.]]></summary>
+        <author>
+            <name>Eric Schmitt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally. Lordstown Motors, Foxconn begin Endurance EV production]]></title>
+        <id>https://techcrunch.com/?p=2412772</id>
+        <link href="https://techcrunch.com/2022/09/29/lordstown-motors-foxconn-begin-production-of-endurance-ev/"/>
+        <updated>2022-09-29T16:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Taiwanese electronics manufacturer Foxconn has begun production of Lordstown Motors’s electric pickup truck. The news, which Bloomberg grabbed first, is a milestone for both companies: Foxconn as it diversifies from manufacturing consumer electronics like iPhones to electric vehicles, and Lordstown as it finally gets its much-anticipated Endurance truck off production lines and, hopefully, into customers’ […]
+Finally. Lordstown Motors, Foxconn begin Endurance EV production by Rebecca Bellan originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The culture war flashpoints dividing Latino Democrats]]></title>
+        <id>https://www.vox.com/policy-and-politics/23378427/culture-economy-abortion-lgbtq-latino-democrats</id>
+        <link href="https://www.vox.com/policy-and-politics/23378427/culture-economy-abortion-lgbtq-latino-democrats"/>
+        <updated>2022-09-29T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Latino supporters attend a Hispanic Democratic legislative caucus in Las Vegas, Nevada, in October 2020. | Melina Mara/Washington Post via Getty Images
+    
+
+  
+While most Latinos rank the economy as a top midterms priority, their opinions on abortion and LGBTQ Americans are much more varied.
+ Talk to anyone who closely follows Latino voters — believe me, I’ve talked to a lot in the last few years — and they’ll likely share a similar lesson: America’s political parties, and their candidates’ campaigns, often shoot themselves in the foot by thinking that Latino and Hispanic voters have very different priorities when compared to the average American voter. Voting preference really does often boil down to the economy, health care, and education.
+But it’s on social issues where notable excepti…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a Reversal, NYC Tightens Admissions to Some Top Schools]]></title>
+        <id>https://www.nytimes.com/2022/09/29/nyregion/nyc-schools-admissions.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/nyregion/nyc-schools-admissions.html"/>
+        <updated>2022-09-29T16:33:54.000Z</updated>
+        <summary type="html"><![CDATA[The city loosened selection criteria during the pandemic, policies some parents protested as unfair and others hoped would reduce racial disparities.]]></summary>
+        <author>
+            <name>Troy Closson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Ten Tricks’ Review: Trying to Drum Up Some Magic]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/ten-tricks-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/ten-tricks-review.html"/>
+        <updated>2022-09-29T16:33:23.000Z</updated>
+        <summary type="html"><![CDATA[In Richard Pagano’s indie comedy, Lea Thompson plays a brothel’s business-savvy madam with a ticking biological clock.]]></summary>
+        <author>
+            <name>Beandrea July</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Ashlee Simpson Make a Rare Return to the Stage to Perform With Demi Lovato]]></title>
+        <id>https://www.rollingstone.com/?p=1234602280</id>
+        <link href="https://www.rollingstone.com/music/music-news/ashlee-simpson-performs-with-demi-lovato-1234602280/"/>
+        <updated>2022-09-29T16:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Simpson joined Lovato for a performance of "La La" during her show at YouTube Theater on Wednesday]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflect brings data visualization to HR teams]]></title>
+        <id>https://techcrunch.com/?p=2412875</id>
+        <link href="https://techcrunch.com/2022/09/29/reflect-brings-data-visualization-to-hr-teams/"/>
+        <updated>2022-09-29T16:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Meet Reflect, a new analytics tool that has been specifically designed for HR teams. While many teams now rely on sophisticated data visualization and business planning tools, HR teams can’t easily measure different metrics and see how they evolve over time. And yet, human resources have become a key component for tech startups and innovative […]
+Reflect brings data visualization to HR teams by Romain Dillet originally published on TechCrunch]]></summary>
+        <author>
+            <name>Romain Dillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Felicien Kabuga, Rwanda Genocide Tribunal’s Most Wanted, Is on Trial]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html"/>
+        <updated>2022-09-29T16:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Félicien Kabuga lived on the run for 23 years before his arrest in France in 2020. He is accused of backing the groups that oversaw the killing of hundreds of thousands of people in 1994.]]></summary>
+        <author>
+            <name>Marlise Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bowers & Wilkins’ PX8 wireless headphones promise $700 worth of premium sound]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378658/bowers-wilkins-px8-wireless-headphones-promise-price-release-date-specs-features</id>
+        <link href="https://www.theverge.com/2022/9/29/23378658/bowers-wilkins-px8-wireless-headphones-promise-price-release-date-specs-features"/>
+        <updated>2022-09-29T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Bowers & Wilkins’ new PX8 headphones in tan | Image: Bowers & Wilkins
+    
+
+  
+On paper, there’s little to separate Bowers & Wilkins’ new PX8 headphones from the PX7 S2 model released earlier this year. Battery life is still rated at 30 hours, they still contain six microphones (four for active noise cancellation plus two for calls), and there’s still no dedicated 3.5mm jack.
+And yet, the new PX8 costs $699, a whole $300 more than their midrange counterpart. What gives?
+Well, B&W argues that “what gives” is its new flagship headphones’ sound quality, thanks to a pair of new 40mm Carbon Cone drive units. These use a similar design to those found in the company’s 700 Series loudspeakers, which start at over $1,000 per pair. “The result is resolution, detail and timing that surpasses the high…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ed Sheeran has intense Pokémon hallucinations in his new video, ‘Celestial’]]></title>
+        <id>https://www.polygon.com/23378648/ed-sheeran-pokemon-scarlet-violet-music-video-celestial</id>
+        <link href="https://www.polygon.com/23378648/ed-sheeran-pokemon-scarlet-violet-music-video-celestial"/>
+        <updated>2022-09-29T16:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Image: Ed Sheeran/The Pokémon Company
+    
+
+  
+New track will appear in Pokémon Scarlet and Violet
+ It’s no secret that singer-songwriter Ed Sheeran is a major Pokémon nerd. He collaborated with The Pokémon Company last year for a “special performance” in Pokémon Go, recently promoted the 2022 Pokémon World Championships in London, and is a known enjoyer of the adorable water-type Squirtle. He professes to playing Pokémon Yellow and Silver on his original Game Boy Color to this day. But Sheeran and Pokémon’s bond is evolving with the release of “Celestial,” a new song that not only features Pokémon in its official video, but will also appear in Pokémon Scarlet and Pokémon Violet.
+Sheeran released the “Celestial” music video on Thursday — after teasing it underneath a blanket of Pokémon plush toys two weeks ago — and it raises the question of whether he is OK. In “Celestial,” Sheeran is plagued by Pokémon hallucinations: He has a fry up with Charmander, who helps him make food for all his imaginary Pokémon pals; he’s nearly hit by a London cab, but is spared death by a Snorlax; and after being struck by songwriting inspiration, he hitches a ride home from Charizard. From there, Sheeran goes full anime, and seemingly dies in an explosion caused by Mew and Mewtwo battling.
+Fortunately for Sheeran and fans of modern radio-friendly rock, it was all a dream. Or was it the work of Hypno?! Who can say! Regardless, the “Celestial” video is cute, thanks to the inclusion of all those adorable Pokémon and the contribution of illustrator Yu Nagaba — a frequent collaborator of The Pokémon Company — who handled the cartoonish side of Sheeran’s latest project.
+Sheeran’s the latest in a long line of pop stars who have rubbed elbows with Pikachu and crew in recent years, including Katy Perry, Post Malone, J Balvin, and Vince Staples, all of whom appeared on last year’s Pokémon 25: The Album.
+Pokémon Scarlet and Pokémon Violet are headed to Nintendo Switch on Nov. 18.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS leader booked for ‘derogatory’ FB post on Ankita's murder]]></title>
+        <id>https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-rss-leader-booked-for-derogatory-fb-post-on-ankitas-murder-likely-to-be-questioned-on-friday/articleshow/94541122.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-rss-leader-booked-for-derogatory-fb-post-on-ankitas-murder-likely-to-be-questioned-on-friday/articleshow/94541122.cms"/>
+        <updated>2022-09-29T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[The case was registered in the city's Raiwala police station based on a complaint filed by state Congress leader and social activist, Vijaypal Rawat, after a huge furore broke out in the state against Karnwal's comments on Wednesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS’ Label Says They’ve Filed a Criminal Complaint Against Internet Troll Spreading ‘Ill-Intentioned Rumor’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602301</id>
+        <link href="https://www.rollingstone.com/music/music-news/bts-label-criminal-complaint-against-internet-troll-spreading-ill-intentioned-rumor-1234602301/"/>
+        <updated>2022-09-29T16:21:15.000Z</updated>
+        <summary type="html"><![CDATA[The label noted that they uncovered the identity of the internet troll through their own surveillance methods, along with the help of ARMY]]></summary>
+        <author>
+            <name>Jodi Guglielmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Stadia is shutting down, for good]]></title>
+        <id>https://www.polygon.com/23378721/google-stadia-shutting-down</id>
+        <link href="https://www.polygon.com/23378721/google-stadia-shutting-down"/>
+        <updated>2022-09-29T16:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Google
+    
+
+  
+Stadia ends in January
+ Google is officially shutting down its ambitious game streaming project, Stadia, Phil Harrison, the vice president and general manager of Stadia, said in a blog post published Thursday. The announcement comes less than three years after the cloud-gaming console launched.
+Stadia will shut down in January 2023.
+Harrison said that players who bought Stadia hardware and games will get a refund for their purchases.
+“We’re grateful to the dedicated Stadia players that have been with us from the start,” Harrison said. “We will be refunding all Stadia hardware purchases made through the Google Store, and all game and add-on content purchases made through the Stadia store. Players will continue to have access to their games library and play through Jan…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mythic Quest’s third season premieres in November]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378627/mythic-quest-third-season-premiere-date</id>
+        <link href="https://www.theverge.com/2022/9/29/23378627/mythic-quest-third-season-premiere-date"/>
+        <updated>2022-09-29T16:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Image: Apple
+    
+
+  
+The third season of Mythic Quest, the Apple TV Plus show about a group of dysfunctional video game developers, will premiere on November 11th, Apple announced on Thursday. The company’s tweet didn’t share much about what to expect, but you can get an idea of what’s coming in the new season by watching the teaser trailer released in July.
+Ian Grimm (played by show co-creator Rob McElhenney) and Poppy Li (Charlotte Nicdao) appear to have followed through on their plan to leave the show’s fictional game studio, and it seems as if they’ll be dabbling with the metaverse. I’m sure nothing will go wrong with that. That said, the trailer also features a few scenes with them back with the rest of the cast, so maybe they won’t be too far away from Mythic Quest (the game) after all. 
+A fourth season of the show is on the way as well.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC collegium recommends transfer of Orissa CJ Justice Muralidhar to Madras HC]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-collegium-recommends-transfer-of-orissa-cj-justice-muralidhar-to-madras-hc/articleshow/94541072.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-collegium-recommends-transfer-of-orissa-cj-justice-muralidhar-to-madras-hc/articleshow/94541072.cms"/>
+        <updated>2022-09-29T16:16:46.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court Collegium headed by Chief Justice Uday Umesh Lalit is learnt to have recommended to the Centre the transfer of Chief Justice (CJ) of Orissa High Court, Justice S Muralidhar, as the CJ of the Madras High Court, sources said on Thursday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US announces $810 mn in new funding for Pacific Islands at summit]]></title>
+        <id>https://www.thehindu.com/news/international/us-announces-810-mn-in-new-funding-for-pacific-islands-at-summit/article65951569.ece</id>
+        <link href="https://www.thehindu.com/news/international/us-announces-810-mn-in-new-funding-for-pacific-islands-at-summit/article65951569.ece"/>
+        <updated>2022-09-29T16:16:34.000Z</updated>
+        <summary type="html"><![CDATA[The United States announced $810 million in new funding for Pacific Islands at a summit with President Joe Biden]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google is shutting down Stadia]]></title>
         <id>https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023</id>
@@ -38,6 +545,17 @@ Last year, rumors abounded it would shut down after the number of games released
         <summary type="html"><![CDATA[Watch the indie crooner’s reflective new music video for “Oil” today.]]></summary>
         <author>
             <name>Jaime Silano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Facebook and Instagram users in the US can now share NFTs, cross-post between both apps]]></title>
+        <id>https://techcrunch.com/?p=2412712</id>
+        <link href="https://techcrunch.com/2022/09/29/all-facebook-instagram-users-in-us-share-nfts-cross-post-both-apps/"/>
+        <updated>2022-09-29T16:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Meta announced today that all Facebook and Instagram users in the U.S. can now connect their wallets and share their NFTs. All users in the U.S. also have the ability to cross-post the NFTs that they own across both Facebook and Instagram. The official roll out comes a few months after Meta first began testing […]
+All Facebook and Instagram users in the US can now share NFTs, cross-post between both apps by Aisha Malik originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aisha Malik</name>
         </author>
     </entry>
     <entry>
@@ -87,6 +605,27 @@ The people have spoken: They want more cyberpunk. And while the anime itself may
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Donald Can’t Quit Maggie]]></title>
+        <id>https://www.nytimes.com/2022/09/29/opinion/donald-trump-maggie-haberman.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/opinion/donald-trump-maggie-haberman.html"/>
+        <updated>2022-09-29T16:00:09.000Z</updated>
+        <summary type="html"><![CDATA[A Times reporter’s new biography of Trump shows the boundlessness of his self-regard.]]></summary>
+        <author>
+            <name>Frank Bruni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The upcoming TripActions IPO has us hype]]></title>
+        <id>https://techcrunch.com/?p=2412479</id>
+        <link href="https://techcrunch.com/2022/09/29/the-upcoming-tripactions-ipo-has-us-hype/"/>
+        <updated>2022-09-29T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The IPO market is still frozen like a Nordic lake dotted with fishing huts, but Instacart and TripActions offer signs that a thaw is now in sight.
+The upcoming TripActions IPO has us hype by Alex Wilhelm originally published on TechCrunch]]></summary>
+        <author>
+            <name>Alex Wilhelm</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waymo pitted its autonomous vehicles against a virtual superhuman driver to see which was safer]]></title>
         <id>https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance</id>
         <link href="https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance"/>
@@ -100,6 +639,32 @@ Waymo’s latest effort to prove that autonomous vehicles are safer than silly, 
 Improved safety has been one of the main predictions of the autonomous vehicle (AV) industry. With millions of people dying in auto crashes globally every year, AV operators are increasingly leaning on this safety case to spur regulators to pass legislation allowing more fully autonomous veh…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Fruits Basket -prelude- and Fairy Tail: Dragon Cry on Crunchyroll This October]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/watch-fruits-basket-prelude-and-fairy-tail-dragon-cry-on-crunchyroll-this-october</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/watch-fruits-basket-prelude-and-fairy-tail-dragon-cry-on-crunchyroll-this-october"/>
+        <updated>2022-09-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Both movies come to Crunchyroll on October 6
+
+
+Following the film releases throughout August and September, Crunchyroll is announcing today the weekly summer movie schedule will close out with Fruits Basket -prelude- and Fairy Tail: Dragon Cry! Hit the jump to read more.]]></summary>
+        <author>
+            <name>Kyle Cardine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERVIEW: My Favorite Naruto Arc with Tamoor Hussain]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/09/29/interview-my-favorite-naruto-arc-with-tamoor-hussain</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/09/29/interview-my-favorite-naruto-arc-with-tamoor-hussain"/>
+        <updated>2022-09-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We speak with GameSpot Managing Editor Tamoor Hussain about his favorite arc!
+
+
+Our next installment of My Favorite Naruto Arc is with GameSpot Managing Editor and Giant Bomb Creative Director Tamoor Hussain on his favorite arc, Jiraiya the Gallant! Hit the jump to read the interview!]]></summary>
+        <author>
+            <name>Daniel Dockery</name>
         </author>
     </entry>
     <entry>
@@ -444,6 +1009,16 @@ The longest wait for a sequel announcement has turned into the shortest possible
         <summary type="html"><![CDATA[Sterling fell as much as 1% on Thursday before cutting losses and turning positive as the dollar wavered and British Prime Minister Liz Truss defended the government's economic plans.]]></summary>
         <author>
             <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia says Nord Stream likely hit by state-backed 'terrorism']]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/russia-says-nord-stream-likely-hit-by-state-backed-terrorism/articleshow/94540068.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/russia-says-nord-stream-likely-hit-by-state-backed-terrorism/articleshow/94540068.cms"/>
+        <updated>2022-09-29T15:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Russia said on Thursday that leaks spewing gas into the Baltic Sea from pipelines to Germany appeared to be the result of state-sponsored "terrorism", as an EU official said the incident had fundamentally changed the nature of the conflict in Ukraine.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -3321,6 +3896,16 @@ The official website for the TV anime adaptation of of Itaru Bonnoki's comedy ma
         <summary type="html"><![CDATA[Putin has said his nuclear threat isn't a bluff. His top associate, Dmitry Medvedev, said Tuesday that Russia has the right to use nuclear weapons in Ukraine if Kyiv threatens Russian statehood.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainer: Just brinkmanship or will Putin really use nukes in Ukraine?]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/explainer-how-real-are-putins-nuclear-threats-in-ukraine/articleshow/94523490.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/explainer-how-real-are-putins-nuclear-threats-in-ukraine/articleshow/94523490.cms"/>
+        <updated>2022-09-29T04:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Putin has said his nuclear threat isn't a bluff. His top associate, Dmitry Medvedev, said Tuesday that Russia has the right to use nuclear weapons in Ukraine if Kyiv threatens Russian statehood.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -7170,6 +7755,16 @@ Hear game-changing AI and ML leaders at the iMerit ML DataOps Summit by Lauren S
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Reviewed Movies of 2022]]></title>
+        <id>0533d190-84ea-4fba-84d6-d688e1ec744b</id>
+        <link href="https://www.ign.com/articles/best-reviewed-movies-2022"/>
+        <updated>2022-09-28T15:05:34.000Z</updated>
+        <summary type="html"><![CDATA[To keep track of 2022's best new movies, we've compiled a list of every film that IGN has scored an 8 ("great"), 9 ("amazing"), or 10 ("masterpiece") this year.]]></summary>
+        <author>
+            <name>Jordan Sirani</name>
         </author>
     </entry>
     <entry>
