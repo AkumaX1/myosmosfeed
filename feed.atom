@@ -2,10 +2,222 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T20:12:34.450Z</updated>
+    <updated>2022-09-29T21:10:11.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel’s RTX 3060 competitor is priced at just $289]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date</id>
+        <link href="https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date"/>
+        <updated>2022-09-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel’s Arc A750 arrives next month. | Image: Intel
+    
+
+  
+Intel surprised PC gamers earlier this week with $329 pricing for its top Arc A770 GPU, matching Nvidia’s RTX 3060 retail pricing. While it’s still difficult to find an RTX 3060 at $329, Intel is now undercutting Nvidia’s popular GPU with a $289 starting price for its A750, a card it claims should be able to trade blows with the RTX 3060.
+We’re still waiting on independent reviews of the Arc A750, but Intel did release 48 benchmarks last month showing that it should be able to beat or come close to Nvidia’s RTX 3060 performance in modern games. Intel tested its A750 directly against the RTX 3060 across 42 DirectX 12 titles and six Vulkan games, and the results look promising.
+Intel is clearly aiming for performance per dollar and…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Horoscope: September 30, 2022]]></title>
+        <id>bvmy5v</id>
+        <link href="https://www.vice.com/en_us/article/bvmy5v/daily-horoscope-september-30-2022"/>
+        <updated>2022-09-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The moon enters Sagittarius today.]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Know About Russia’s Annexation of Four Ukrainian Provinces]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html"/>
+        <updated>2022-09-29T20:58:16.000Z</updated>
+        <summary type="html"><![CDATA[The Kremlin is using pageantry and a show of adhering to Russian legal formalities to give the move a veneer of legitimacy.]]></summary>
+        <author>
+            <name>Andrew E. Kramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Migrants Shot Along Roadway in Rural Texas]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html"/>
+        <updated>2022-09-29T20:55:29.000Z</updated>
+        <summary type="html"><![CDATA[A local jail warden in Hudspeth County is one of two men arrested in connection with the attack south of El Paso, a law enforcement official said.]]></summary>
+        <author>
+            <name>J. David Goodman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The biggest moonshots from 500 Global’s latest Demo Day]]></title>
+        <id>https://techcrunch.com/?p=2406472</id>
+        <link href="https://techcrunch.com/2022/09/29/the-biggest-moonshots-from-500-globals-latest-demo-day/"/>
+        <updated>2022-09-29T20:54:32.000Z</updated>
+        <summary type="html"><![CDATA[It’s demo day season. This morning marked the kickoff of VC firm 500 Global’s Fall 2022 Demo Day, which saw over a dozen startups give their best pitches to prospective investors — and customers. Participants ran the gamut from fintech and sustainability to edtech and developer tools, and several stood out from the rest of […]
+The biggest moonshots from 500 Global’s latest Demo Day by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the Fed Braking Too Hard?]]></title>
+        <id>https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html"/>
+        <updated>2022-09-29T20:54:17.000Z</updated>
+        <summary type="html"><![CDATA[It may be raising interest rates too far, too fast.]]></summary>
+        <author>
+            <name>Paul Krugman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crisis of Men and Boys]]></title>
+        <id>https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html"/>
+        <updated>2022-09-29T20:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Men have opportunities, but they’re not taking them.]]></summary>
+        <author>
+            <name>David Brooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise]]></title>
+        <id>https://www.polygon.com/23379128/kingdom-planet-apes-film-announced</id>
+        <link href="https://www.polygon.com/23379128/kingdom-planet-apes-film-announced"/>
+        <updated>2022-09-29T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: 20th Century Studios
+    
+
+  
+Sorry humans, you had your time
+ The recent Planet of the Apes trilogy is one of the most consistently fun and thoughtful blockbuster franchise revivals in recent memory. Beginning in an understated fashion with Rupert Wyatt’s 2011 film Rise of the Planet of the Apes, the series took off when The Batman director Matt Reeves grabbed the baton for 2014’s Dawn of the Planet of the Apes and 2017’s War for the Planet of the Apes with an understated approach to post-apocalyptic action that never lost sight of the humanity in its story about a burgeoning ape society. 
+Turns out their story is not over: Kingdom of the Planet of the Apes, “an all-new chapter in the ‘Planet of the Apes’ saga” will enter production next month. According to 20th Century Studios, the story will pick up many years after the conclusion of War for the Planet of the Apes, but any plot details beyond that aren’t being revealed yet.
+Kingdom of the Planet of the Apes will star Owen Teague (It), Freya Allan (The Witcher), and Peter Macon (The Orville), and it will be directed by Wes Bell (known for the Maze Runner films but also the unfortunately canned animated adaptation of Mouse Guard). While this seems like a changing of the guard, two of the writers on the script — Rick Jaffa and Amanda Silver — worked on the first two films, and they’re joined by Josh Friedman and Patrick Aison (the latter of which wrote the excellent Prey). 
+Unfortunately, there’s no mention of the one thing that helped make the new Apes trilogy such a success: Weta Digital’s work bringing the Apes to life, which included an all-time great performance from Andy Serkis as the ape leader Caesar. That’s not to say the movie can’t be good with another team and performer, it’s just easily the biggest shoes to fill, the sort of thing that will help or hinder the storytelling ambitions of a movie like this. 
+Kingdom of the Planet of the Apes is currently set to premiere in 2024.]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Harry Potter’ Actors Alfred Enoch and Bonnie Wright to Help Narrate Late Alan Rickman’s Diaries in Audiobook]]></title>
+        <id>https://www.rollingstone.com/?p=1234602543</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/harry-potter-actors-enoch-wright-read-alan-rickman-book-1234602543/"/>
+        <updated>2022-09-29T20:50:06.000Z</updated>
+        <summary type="html"><![CDATA[The book Madly Deeply: The Diaries of Alan Rickman features excerpts from the actor's diary from 1993 to 2016]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soon you can buy a Peloton at Dick’s]]></title>
+        <id>https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership</id>
+        <link href="https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership"/>
+        <updated>2022-09-29T20:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Peloton continues to expand outside of its own marketplace. | Illustration by Alex Castro / The Verge
+    
+
+  
+In August, Peloton partnered with Amazon to sell its bikes and other accessories and apparel via the retailer’s website and apps. Today, Peloton announced another partnership with Dick’s Sporting Goods to sell its equipment both online and exclusively in its stores across the US. The partnership marks the first time that its equipment will be readily available for purchase in a third-party retailer’s brick-and-mortar store. 
+The move to expand its fitness lineup to physical stores beyond the ones Peloton operates isn’t surprising. It’s continuing a plan to improve operations after a disastrous last 18 months that included layoffs, replacing founder and CEO John Foley with a new CEO, and restructuring. Last month, CEO Barry McCarthy announced another round of layoffs and said Peloton will shut down its in-house retail locations in 2023.
+
+
+Peloton senior VP Jen Parker said in a press release, “This partnership is a natural fit for our brand and our Member acquisition goals ... Retail remains a critical touchpoint, and we want to provide the in-store experience that many current and prospective Members still covet.” 
+In a Q4 earnings report in August, Peloton noted a decline in its membership numbers, a $1.2 billion operating loss, and a 28 percent drop in revenue compared to the same period a year before. 
+With this new partnership, current and potential Peloton customers can buy the Peloton Bike, Bike Plus, Tread, Guide, and select accessories. The company said orders made online on Dick’s website will also have home delivery and setup, while “select” orders made in-store can be carried out. There isn’t much information on Peloton or Dick’s website except a list showing some of its over 100 stores in the US that will be included in the rollout, scheduled to start ahead of the holiday season.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia Plans to Illegally Annex Lands It Invaded, Even as Its Military Falters]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html"/>
+        <updated>2022-09-29T20:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Even though Russia has failed to fully control the four territories it seeks to annex, the Kremlin is preparing a show designed to present a sheen of legitimacy to its illegal takeover.]]></summary>
+        <author>
+            <name>Matthew Mpoke Bigg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple fires exec after he made crude jokes on the expensive car guy’s TikTok]]></title>
+        <id>https://www.theverge.com/2022/9/29/23379142/apple-removes-tony-blevins-daniel-mac-tiktok-comments</id>
+        <link href="https://www.theverge.com/2022/9/29/23379142/apple-removes-tony-blevins-daniel-mac-tiktok-comments"/>
+        <updated>2022-09-29T20:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Nick Barclay / The Verge
+    
+
+  
+Apple’s vice president of procurement, Tony Blevins, has been fired from the company after his crude remarks in a TikTok interview went viral, according to a report from Bloomberg. Earlier this month, creator Daniel Mac posted a video where he asked Blevins what he does for a living, which showed Blevins responding: “I race cars and play golf and fondle big-breasted women. But I take weekends and major holidays off.” 
+The video doesn’t identify Blevins by name and doesn’t reference his position at Apple, though Blevins does note that his job offers “a hell of a dental plan.” Mac’s format on TikTok mostly consists of walking up to people in expensive or luxurious cars and asking what they do for a living. As a slightly more safe for work exa…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Will Freeze Most Hiring, Zuckerberg Tells Employees]]></title>
+        <id>https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html"/>
+        <updated>2022-09-29T20:28:41.000Z</updated>
+        <summary type="html"><![CDATA[The company’s chief executive had signaled for several months that he wanted to rein in costs as he shifts attention toward the metaverse.]]></summary>
+        <author>
+            <name>Sheera Frenkel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can field contender if final candidate isn't good: G23]]></title>
+        <id>https://timesofindia.indiatimes.com/india/can-field-contender-if-final-candidate-isnt-good-g23/articleshow/94544061.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/can-field-contender-if-final-candidate-isnt-good-g23/articleshow/94544061.cms"/>
+        <updated>2022-09-29T20:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Digvijaya's entry in the race triggered excitement with some saying the veteran has the profile and is a bigger name than Tharoor - a factor that would be crucial if it turns out to be an "open contest" without a leader with the Congress chief's backing.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Games Of 2022 (So Far)]]></title>
+        <id>1848663025</id>
+        <link href="https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025"/>
+        <updated>2022-09-29T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re halfway through the year, and a throughline is clear: Despite a wave of delays and industry upheaval, 2022 has cemented its place as a damn good year for video games. By summer, we’re usually bemoaning a lack of must-play games. But this year, so far, is the opposite: There are, somehow, almost too many games…
+Read more...]]></summary>
+        <author>
+            <name>Kotaku Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Deals This Week, From Hoka Bondi 7s to MysteryVibe Sex Toys]]></title>
+        <id>5d3wkq</id>
+        <link href="https://www.vice.com/en_us/article/5d3wkq/best-deals-this-week-sept-29-2022"/>
+        <updated>2022-09-29T20:23:38.000Z</updated>
+        <summary type="html"><![CDATA[It's a great week to scoop savings on Buffy’s cozy bedding or a Dutch oven from Le Creuset for soup season.]]></summary>
+        <author>
+            <name>Nicolette Accardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Just Dropped the First Close-Up Images of Europa in Decades and They're Stunning]]></title>
+        <id>m7gp5n</id>
+        <link href="https://www.vice.com/en_us/article/m7gp5n/nasa-just-dropped-the-first-close-up-images-of-europa-in-decades-a"/>
+        <updated>2022-09-29T20:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter's moon Europa is one of the best possible sites for alien life, and new observations will answer that question and many others.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress may call another CLP meet in Jaipur]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-may-call-another-clp-meet-in-jaipur/articleshow/94544023.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-may-call-another-clp-meet-in-jaipur/articleshow/94544023.cms"/>
+        <updated>2022-09-29T20:20:49.000Z</updated>
+        <summary type="html"><![CDATA[The announcement spar- ked fresh buzz about whether Gehlot will continue in the CM's post or will be eased out, and if his replacement will be his bete noire Pilot. It is felt that AICC may call another legislature party meeting in Jaipur.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Arrests Former NSA Employee For Trying to Sell Top Secret Documents]]></title>
         <id>4axq7b</id>
@@ -14,6 +226,26 @@
         <summary type="html"><![CDATA[The former employee used encrypted email to communicate with someone he thought was a foreign spy, who was actually an FBI agent.]]></summary>
         <author>
             <name>Lorenzo  Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashok Gehlot out of Congress president race, Sonia Gandhi to take call on Rajasthan CM]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms"/>
+        <updated>2022-09-29T20:11:52.000Z</updated>
+        <summary type="html"><![CDATA[As the race was thrown open, Congress was finalising a replacement candidate for Gehlot, with Mallikarjun Kharge, a senior Dalit leader, as the lead contender.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gehlot out of Cong prez race, Sonia to take call on Raj CM]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms"/>
+        <updated>2022-09-29T20:11:52.000Z</updated>
+        <summary type="html"><![CDATA[As the race was thrown open, Congress was finalising a replacement candidate for Gehlot, with Mallikarjun Kharge, a senior Dalit leader, as the lead contender.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +329,16 @@ Meta’s Make-A-Video AI achieves a new, nightmarish state of the art by Devin C
         <summary type="html"><![CDATA[A creepfest about a curse that causes killers and victims to sport psychotically joyful smile knows exactly how to get under your skin, one unnerving expression at a time]]></summary>
         <author>
             <name>David Fear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World of Warcraft Dragonflight Launches This November]]></title>
+        <id>c7f07501-4d49-450b-a7ea-07611ac214b0</id>
+        <link href="https://www.ign.com/articles/world-of-warcraft-dragonflight-november-release-date"/>
+        <updated>2022-09-29T19:27:38.000Z</updated>
+        <summary type="html"><![CDATA[World of Warcraft's latest expansion, Dragonflight, will launch on November 28.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
         </author>
     </entry>
     <entry>
@@ -234,6 +476,15 @@ In May, Zuckerberg announced a hiring freeze affecting certain segments of Meta 
 Asked about today’s meeting, Meta spokesperson Dave Arnold declined to comment but pointed toward comments from Zuckerberg during the last Meta earnings call, where he said, “Our plan is to steadily reduce headcount growth over the next year. Many teams are going to shrink so we can shift energy to other areas.”]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As the small boat floated higher and higher, they decided to ‘just hold on to each other.’]]></title>
+        <id>https://www.nytimes.com/live/2022/09/29/us/hurricane-ian-florida/as-their-small-boat-floated-higher-and-higher-they-decided-to-just-hold-on-to-each-other</id>
+        <link href="https://www.nytimes.com/live/2022/09/29/us/hurricane-ian-florida/as-their-small-boat-floated-higher-and-higher-they-decided-to-just-hold-on-to-each-other"/>
+        <updated>2022-09-29T18:58:19.000Z</updated>
+        <author>
+            <name>Nicholas Bogel-Burroughs</name>
         </author>
     </entry>
     <entry>
@@ -1824,6 +2075,16 @@ The recording will automatically show up on the left side of the screen. Right-c
         <summary type="html"><![CDATA[Though the protection given to marital rape under penal provision for rape in Indian Penal Code is under challenge in Supreme Court and is pending, today's verdict recognised it under as far its application in civil law like MTP Act.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a first, Supreme Court recognises concept of marital rape]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rape-under-abortion-law-includes-marital-rape-supreme-court/articleshow/94539535.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rape-under-abortion-law-includes-marital-rape-supreme-court/articleshow/94539535.cms"/>
+        <updated>2022-09-29T14:44:04.000Z</updated>
+        <summary type="html"><![CDATA[For the first time, the Supreme Court on Thursday acknowledged the concept of ‘marital rape’, and held ‘rape’ under the MTP Act includes a husband’s act of sexual assault committed on his wife. Though another bench is to hear pleas on marital rape next February, Justice D Y Chandrachud’s observation can be seen by many as a pointer to the trajectory SC may take while deciding the prickly issue next year.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

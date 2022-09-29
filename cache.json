@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date",
+          "author": null,
+          "description": "Intel’s Arc A750 arrives next month. | Image: Intel\n    \n\n  \nIntel surprised PC gamers earlier this week with $329 pricing for its top Arc A770 GPU, matching Nvidia’s RTX 3060 retail pricing. While it’s still difficult to find an RTX 3060 at $329, Intel is now undercutting Nvidia’s popular GPU with a $289 starting price for its A750, a card it claims should be able to trade blows with the RTX 3060.\nWe’re still waiting on independent reviews of the Arc A750, but Intel did release 48 benchmarks last month showing that it should be able to beat or come close to Nvidia’s RTX 3060 performance in modern games. Intel tested its A750 directly against the RTX 3060 across 42 DirectX 12 titles and six Vulkan games, and the results look promising.\nIntel is clearly aiming for performance per dollar and…",
+          "link": "https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date",
+          "publishedOn": "2022-09-29T21:00:00.000Z",
+          "wordCount": 7865,
+          "title": "Intel’s RTX 3060 competitor is priced at just $289",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/-DFZR3pilZdNbHGHZcns4DC5FgU=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24063952/2022_03_30_20_10_00.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership",
+          "author": null,
+          "description": "Peloton continues to expand outside of its own marketplace. | Illustration by Alex Castro / The Verge\n    \n\n  \nIn August, Peloton partnered with Amazon to sell its bikes and other accessories and apparel via the retailer’s website and apps. Today, Peloton announced another partnership with Dick’s Sporting Goods to sell its equipment both online and exclusively in its stores across the US. The partnership marks the first time that its equipment will be readily available for purchase in a third-party retailer’s brick-and-mortar store. \nThe move to expand its fitness lineup to physical stores beyond the ones Peloton operates isn’t surprising. It’s continuing a plan to improve operations after a disastrous last 18 months that included layoffs, replacing founder and CEO John Foley with a new CEO, and restructuring. Last month, CEO Barry McCarthy announced another round of layoffs and said Peloton will shut down its in-house retail locations in 2023.\n\n\nPeloton senior VP Jen Parker said in a press release, “This partnership is a natural fit for our brand and our Member acquisition goals ... Retail remains a critical touchpoint, and we want to provide the in-store experience that many current and prospective Members still covet.” \nIn a Q4 earnings report in August, Peloton noted a decline in its membership numbers, a $1.2 billion operating loss, and a 28 percent drop in revenue compared to the same period a year before. \nWith this new partnership, current and potential Peloton customers can buy the Peloton Bike, Bike Plus, Tread, Guide, and select accessories. The company said orders made online on Dick’s website will also have home delivery and setup, while “select” orders made in-store can be carried out. There isn’t much information on Peloton or Dick’s website except a list showing some of its over 100 stores in the US that will be included in the rollout, scheduled to start ahead of the holiday season.",
+          "link": "https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership",
+          "publishedOn": "2022-09-29T20:44:32.000Z",
+          "wordCount": 7412,
+          "title": "Soon you can buy a Peloton at Dick’s",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WOCB6iuTYkvl_iJSGQk6beZ5SBY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007927/acastro_STK119_Peleton_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23379142/apple-removes-tony-blevins-daniel-mac-tiktok-comments",
+          "author": null,
+          "description": "Illustration by Nick Barclay / The Verge\n    \n\n  \nApple’s vice president of procurement, Tony Blevins, has been fired from the company after his crude remarks in a TikTok interview went viral, according to a report from Bloomberg. Earlier this month, creator Daniel Mac posted a video where he asked Blevins what he does for a living, which showed Blevins responding: “I race cars and play golf and fondle big-breasted women. But I take weekends and major holidays off.” \nThe video doesn’t identify Blevins by name and doesn’t reference his position at Apple, though Blevins does note that his job offers “a hell of a dental plan.” Mac’s format on TikTok mostly consists of walking up to people in expensive or luxurious cars and asking what they do for a living. As a slightly more safe for work exa…",
+          "link": "https://www.theverge.com/2022/9/29/23379142/apple-removes-tony-blevins-daniel-mac-tiktok-comments",
+          "publishedOn": "2022-09-29T20:38:17.000Z",
+          "wordCount": 7730,
+          "title": "Apple fires exec after he made crude jokes on the expensive car guy’s TikTok",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ioXP09GeTx3QY0vxAYAfEsMgKUk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378913/epic-games-autodesk-unreal-engine-partnership-twinmotion-free-design-tool",
           "author": null,
           "description": "Image: Epic Games\n    \n\n  \nEpic Games is partnering with industry design software giant Autodesk to bring game-like graphics to architecture tools in order to visualize design concepts and plans as more immersive environments. \nWhile Autodesk architecture software such as Revit is capable of creating 3D design plans, the partnership will introduce easy-to-use tools to designers, with features typically seen more often in game development, such as Unreal Engine, ray tracing, and a huge library of 3D assets to populate environments. \n\n\nAnyone subscribed to Autodesk Revit (a building information modeling solution for architects) will now get free access to Epic Game’s Twinmotion, an Unreal Engine-powered real-time visualization tool that’s already being used within the urban planning and cons…",
@@ -1749,6 +1779,66 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html",
+          "author": "Andrew E. Kramer",
+          "description": "The Kremlin is using pageantry and a show of adhering to Russian legal formalities to give the move a veneer of legitimacy.",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html",
+          "publishedOn": "2022-09-29T20:58:16.000Z",
+          "wordCount": null,
+          "title": "What to Know About Russia’s Annexation of Four Ukrainian Provinces",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html",
+          "author": "J. David Goodman",
+          "description": "A local jail warden in Hudspeth County is one of two men arrested in connection with the attack south of El Paso, a law enforcement official said.",
+          "link": "https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html",
+          "publishedOn": "2022-09-29T20:55:29.000Z",
+          "wordCount": null,
+          "title": "Two Migrants Shot Along Roadway in Rural Texas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html",
+          "author": "Paul Krugman",
+          "description": "It may be raising interest rates too far, too fast.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html",
+          "publishedOn": "2022-09-29T20:54:17.000Z",
+          "wordCount": null,
+          "title": "Is the Fed Braking Too Hard?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html",
+          "author": "David Brooks",
+          "description": "Men have opportunities, but they’re not taking them.",
+          "link": "https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html",
+          "publishedOn": "2022-09-29T20:52:41.000Z",
+          "wordCount": null,
+          "title": "The Crisis of Men and Boys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html",
+          "author": "Matthew Mpoke Bigg",
+          "description": "Even though Russia has failed to fully control the four territories it seeks to annex, the Kremlin is preparing a show designed to present a sheen of legitimacy to its illegal takeover.",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html",
+          "publishedOn": "2022-09-29T20:39:43.000Z",
+          "wordCount": null,
+          "title": "Russia Plans to Illegally Annex Lands It Invaded, Even as Its Military Falters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html",
+          "author": "Sheera Frenkel",
+          "description": "The company’s chief executive had signaled for several months that he wanted to rein in costs as he shifts attention toward the metaverse.",
+          "link": "https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html",
+          "publishedOn": "2022-09-29T20:28:41.000Z",
+          "wordCount": null,
+          "title": "Meta Will Freeze Most Hiring, Zuckerberg Tells Employees",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-2.html",
           "author": "Jackie Frere and Isaac Aronow",
           "description": "Moving up to the Wednesday and Thursday puzzles.",
@@ -1766,6 +1856,16 @@
           "publishedOn": "2022-09-29T19:36:32.000Z",
           "wordCount": null,
           "title": "Republican-led States Sue to Block Biden’s Student Loan Debt Relief",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/29/us/hurricane-ian-florida/as-their-small-boat-floated-higher-and-higher-they-decided-to-just-hold-on-to-each-other",
+          "author": "Nicholas Bogel-Burroughs",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/29/us/hurricane-ian-florida/as-their-small-boat-floated-higher-and-higher-they-decided-to-just-hold-on-to-each-other",
+          "publishedOn": "2022-09-29T18:58:19.000Z",
+          "wordCount": null,
+          "title": "As the small boat floated higher and higher, they decided to ‘just hold on to each other.’",
           "imageUrl": null
         },
         {
@@ -7194,6 +7294,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602543",
+          "author": "Tomás Mier",
+          "description": "The book Madly Deeply: The Diaries of Alan Rickman features excerpts from the actor's diary from 1993 to 2016",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/harry-potter-actors-enoch-wright-read-alan-rickman-book-1234602543/",
+          "publishedOn": "2022-09-29T20:50:06.000Z",
+          "wordCount": 7471,
+          "title": "‘Harry Potter’ Actors Alfred Enoch and Bonnie Wright to Help Narrate Late Alan Rickman’s Diaries in Audiobook",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/harry-potter-new-audiobook.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234601484",
           "author": "David Fear",
           "description": "A creepfest about a curse that causes killers and victims to sport psychotically joyful smile knows exactly how to get under your skin, one unnerving expression at a time",
@@ -7580,6 +7690,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2406472",
+          "author": "Kyle Wiggers",
+          "description": "It’s demo day season. This morning marked the kickoff of VC firm 500 Global’s Fall 2022 Demo Day, which saw over a dozen startups give their best pitches to prospective investors — and customers. Participants ran the gamut from fintech and sustainability to edtech and developer tools, and several stood out from the rest of […]\nThe biggest moonshots from 500 Global’s latest Demo Day by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/the-biggest-moonshots-from-500-globals-latest-demo-day/",
+          "publishedOn": "2022-09-29T20:54:32.000Z",
+          "wordCount": 7224,
+          "title": "The biggest moonshots from 500 Global’s latest Demo Day",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-108221399.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2413055",
           "author": "Devin Coldewey",
@@ -10288,6 +10408,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "bvmy5v",
+          "author": "Annabel Gat",
+          "description": "The moon enters Sagittarius today.",
+          "link": "https://www.vice.com/en_us/article/bvmy5v/daily-horoscope-september-30-2022",
+          "publishedOn": "2022-09-29T21:00:00.000Z",
+          "wordCount": 4866,
+          "title": "Daily Horoscope: September 30, 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335d5ee112f84009b7eebad/lede/1664472571561-7libradaily41920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335d5ee112f84009b7eebad/lede/1664472571561-7libradaily41920x1080.jpeg"
+        },
+        {
+          "id": "5d3wkq",
+          "author": "Nicolette Accardi",
+          "description": "It's a great week to scoop savings on Buffy’s cozy bedding or a Dutch oven from Le Creuset for soup season.",
+          "link": "https://www.vice.com/en_us/article/5d3wkq/best-deals-this-week-sept-29-2022",
+          "publishedOn": "2022-09-29T20:23:38.000Z",
+          "wordCount": 6237,
+          "title": "The Best Deals This Week, From Hoka Bondi 7s to MysteryVibe Sex Toys",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335fb5ad18e93009f905082/lede/1664482531686-dealssep29.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335fb5ad18e93009f905082/lede/1664482531686-dealssep29.png"
+        },
+        {
+          "id": "m7gp5n",
+          "author": "Becky Ferreira",
+          "description": "Jupiter's moon Europa is one of the best possible sites for alien life, and new observations will answer that question and many others.",
+          "link": "https://www.vice.com/en_us/article/m7gp5n/nasa-just-dropped-the-first-close-up-images-of-europa-in-decades-a",
+          "publishedOn": "2022-09-29T20:22:08.000Z",
+          "wordCount": 4298,
+          "title": "NASA Just Dropped the First Close-Up Images of Europa in Decades and They're Stunning",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335fd35ebc334009451e1c6/lede/1664482886766-untitled-design-2022-09-29t162117005.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335fd35ebc334009451e1c6/lede/1664482886766-untitled-design-2022-09-29t162117005.jpeg"
+        },
+        {
           "id": "4axq7b",
           "author": "Lorenzo  Franceschi-Bicchierai",
           "description": "The former employee used encrypted email to communicate with someone he thought was a foreign spy, who was actually an FBI agent.",
@@ -12332,6 +12497,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1848663025",
+          "author": "Kotaku Staff",
+          "description": "We’re halfway through the year, and a throughline is clear: Despite a wave of delays and industry upheaval, 2022 has cemented its place as a damn good year for video games. By summer, we’re usually bemoaning a lack of must-play games. But this year, so far, is the opposite: There are, somehow, almost too many games…\nRead more...",
+          "link": "https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025",
+          "publishedOn": "2022-09-29T20:25:00.000Z",
+          "wordCount": 13213,
+          "title": "The Best Games Of 2022 (So Far)",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f6ead10b1f7910b0c41844bf2219dddf.jpg"
+        },
+        {
           "id": "1849598321",
           "author": "Isaiah Colbert",
           "description": "If you watched Netflix’s new anime, Cyberpunk: Edgerunners, chances are you’re still coping with its emotionally devastating ending and have brought it up to your therapist unprompted on more than one occasion. But the pain doesn’t stop there, friends. There’s a high probability Netflix’s aggressive autoplay feature,…\nRead more...",
@@ -13856,6 +14031,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23379128/kingdom-planet-apes-film-announced",
+          "author": null,
+          "description": "Image: 20th Century Studios\n    \n\n  \nSorry humans, you had your time\n The recent Planet of the Apes trilogy is one of the most consistently fun and thoughtful blockbuster franchise revivals in recent memory. Beginning in an understated fashion with Rupert Wyatt’s 2011 film Rise of the Planet of the Apes, the series took off when The Batman director Matt Reeves grabbed the baton for 2014’s Dawn of the Planet of the Apes and 2017’s War for the Planet of the Apes with an understated approach to post-apocalyptic action that never lost sight of the humanity in its story about a burgeoning ape society. \nTurns out their story is not over: Kingdom of the Planet of the Apes, “an all-new chapter in the ‘Planet of the Apes’ saga” will enter production next month. According to 20th Century Studios, the story will pick up many years after the conclusion of War for the Planet of the Apes, but any plot details beyond that aren’t being revealed yet.\nKingdom of the Planet of the Apes will star Owen Teague (It), Freya Allan (The Witcher), and Peter Macon (The Orville), and it will be directed by Wes Bell (known for the Maze Runner films but also the unfortunately canned animated adaptation of Mouse Guard). While this seems like a changing of the guard, two of the writers on the script — Rick Jaffa and Amanda Silver — worked on the first two films, and they’re joined by Josh Friedman and Patrick Aison (the latter of which wrote the excellent Prey). \nUnfortunately, there’s no mention of the one thing that helped make the new Apes trilogy such a success: Weta Digital’s work bringing the Apes to life, which included an all-time great performance from Andy Serkis as the ape leader Caesar. That’s not to say the movie can’t be good with another team and performer, it’s just easily the biggest shoes to fill, the sort of thing that will help or hinder the storytelling ambitions of a movie like this. \nKingdom of the Planet of the Apes is currently set to premiere in 2024.",
+          "link": "https://www.polygon.com/23379128/kingdom-planet-apes-film-announced",
+          "publishedOn": "2022-09-29T20:51:00.000Z",
+          "wordCount": 2148,
+          "title": "Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/9ODD2-wUaHrW3l1SwCOiZcUPdQk=/0x0:3048x1596/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065800/KingdomofthePlanetoftheApes__SOP.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23378890/timothee-chalamet-bones-and-all-trailer-release-date",
           "author": null,
           "description": "Photo: Yannis Drakoulidis/MGM\n    \n\n  \nThe horror-romance road movie thriller opens in theaters this November\n Timothée Chalamet reunites with Call Me by Your Name director Luca Guadagnino in the first trailer for Bones and All, an upcoming horror-romance thriller set to premiere in theaters this November. The film stars Chalamet as Lee, a young serial killer who falls in love with Maren (Taylor Russell), a runaway on the margins of society who shares Lee’s affinity for cannibalism.\nSet to Leonard Cohen’s song “You Want It Darker,” the trailer shows glimpses of Lee and Maren’s trek across Reagan-era America, with the pair driving through picturesque open plains and pouncing on any unsuspecting prey unfortunate enough to cross their path.\nThere are a surprising number of movies featuring cannibalism, from 2016’s Raw and 2013’s The Green Inferno to The Silence of the Lambs and The Neon Demon. Guadagnino’s film appears to be going the Natural Born Killers route, with Lee and Maren desperately attempting to maintain their relationship despite the obvious violence and emotional volatility rife at the crux of its foundations. We’ll just have to see how fate fares for these two lovers when the film opens in theaters.\nBones and All premieres in theaters on Nov. 23.",
@@ -14362,6 +14547,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "c7f07501-4d49-450b-a7ea-07611ac214b0",
+          "author": "Ryan Leston",
+          "description": "World of Warcraft's latest expansion, Dragonflight, will launch on November 28.",
+          "link": "https://www.ign.com/articles/world-of-warcraft-dragonflight-november-release-date",
+          "publishedOn": "2022-09-29T19:27:38.000Z",
+          "wordCount": 9225,
+          "title": "World of Warcraft Dragonflight Launches This November",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/07/13/wow-dragonflight-azurespan-xa-013-1657750302213.png?width=1280"
+        },
         {
           "id": "822298bb-442f-4611-81a3-ff2561d65518",
           "author": "Ryan Leston",
@@ -18817,6 +19012,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/can-field-contender-if-final-candidate-isnt-good-g23/articleshow/94544061.cms",
+          "author": null,
+          "description": "Digvijaya's entry in the race triggered excitement with some saying the veteran has the profile and is a bigger name than Tharoor - a factor that would be crucial if it turns out to be an \"open contest\" without a leader with the Congress chief's backing.",
+          "link": "https://timesofindia.indiatimes.com/india/can-field-contender-if-final-candidate-isnt-good-g23/articleshow/94544061.cms",
+          "publishedOn": "2022-09-29T20:28:26.000Z",
+          "wordCount": 6363,
+          "title": "Can field contender if final candidate isn't good: G23",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544063,width-1070,height-580,imgsize-62408,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-may-call-another-clp-meet-in-jaipur/articleshow/94544023.cms",
+          "author": null,
+          "description": "The announcement spar- ked fresh buzz about whether Gehlot will continue in the CM's post or will be eased out, and if his replacement will be his bete noire Pilot. It is felt that AICC may call another legislature party meeting in Jaipur.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-may-call-another-clp-meet-in-jaipur/articleshow/94544023.cms",
+          "publishedOn": "2022-09-29T20:20:49.000Z",
+          "wordCount": 5988,
+          "title": "Congress may call another CLP meet in Jaipur",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544055,width-1070,height-580,imgsize-26114,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms",
+          "author": null,
+          "description": "As the race was thrown open, Congress was finalising a replacement candidate for Gehlot, with Mallikarjun Kharge, a senior Dalit leader, as the lead contender.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms",
+          "publishedOn": "2022-09-29T20:11:52.000Z",
+          "wordCount": 7892,
+          "title": "Ashok Gehlot out of Congress president race, Sonia Gandhi to take call on Rajasthan CM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544020,width-1070,height-580,imgsize-55902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/g-23-leaders-meet-in-delhi-as-congress-presidential-poll-race-heats-up/articleshow/94542118.cms",
           "author": null,
@@ -23389,6 +23614,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms",
+          "author": null,
+          "description": "As the race was thrown open, Congress was finalising a replacement candidate for Gehlot, with Mallikarjun Kharge, a senior Dalit leader, as the lead contender.",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-out-of-congress-president-race-sonia-gandhi-to-take-call-on-rajasthan-cm/articleshow/94544007.cms",
+          "publishedOn": "2022-09-29T20:11:52.000Z",
+          "wordCount": 7892,
+          "title": "Gehlot out of Cong prez race, Sonia to take call on Raj CM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544020,width-1070,height-580,imgsize-55902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms",
           "author": null,
           "description": "India News: NEW DELHI: Anil Chauhan will take over as the country’s next chief of defence staff (CDS) on Friday, returning to active service as a four-star genera.",
@@ -23417,6 +23652,16 @@
           "wordCount": 5963,
           "title": "PM Modi inaugurates 36th National Games in Ahmedabad",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94540050,width-1070,height-580,imgsize-53694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rape-under-abortion-law-includes-marital-rape-supreme-court/articleshow/94539535.cms",
+          "author": null,
+          "description": "For the first time, the Supreme Court on Thursday acknowledged the concept of ‘marital rape’, and held ‘rape’ under the MTP Act includes a husband’s act of sexual assault committed on his wife. Though another bench is to hear pleas on marital rape next February, Justice D Y Chandrachud’s observation can be seen by many as a pointer to the trajectory SC may take while deciding the prickly issue next year.",
+          "link": "https://timesofindia.indiatimes.com/india/rape-under-abortion-law-includes-marital-rape-supreme-court/articleshow/94539535.cms",
+          "publishedOn": "2022-09-29T14:44:04.000Z",
+          "wordCount": 7939,
+          "title": "In a first, Supreme Court recognises concept of marital rape",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94543915,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/every-pregnant-woman-irrespective-of-marital-status-has-right-to-choose-to-undergo-abortion-supreme-court/articleshow/94539075.cms",
