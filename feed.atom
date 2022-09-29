@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T01:06:07.880Z</updated>
+    <updated>2022-09-29T04:11:48.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatic emergency braking is not great at preventing crashes at normal speeds]]></title>
+        <id>https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa</id>
+        <link href="https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa"/>
+        <updated>2022-09-29T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Automatic emergency braking (AEB) is pretty good at preventing low-speed rear-end crashes but kind of sucks when vehicles are traveling at more average speeds, according to new research from the American Automobile Association (AAA).
+Starting September 2022, all new cars sold in the US are required to come standard with AEB, which uses forward-facing cameras and other sensors to automatically apply the brakes when a crash is imminent. The Insurance Institute for Highway Safety estimates that AEB may help prevent 28,000 crashes and 12,000 injuries by 2025.
+Using four common vehicles, AAA wanted to put AEB to the test to see how it’s progressed since first rolling out to production vehicles nearly 20 years ago. What they found was not that great.
+“Automatic Emergency Braking does well at tac…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pigment raises another $65M to build the modern business planning platform]]></title>
+        <id>https://techcrunch.com/?p=2410473</id>
+        <link href="https://techcrunch.com/2022/09/28/pigment-raises-another-65m-to-build-the-modern-business-planning-platform/"/>
+        <updated>2022-09-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[French startup Pigment has raised a new round of funding less than a year after raising a $73 million Series B round. If you’re not familiar with Pigment, the company develops a business planning and forecasting platform. For small companies that are growing up, it can replace Microsoft Excel as it’s more secure and more […]
+Pigment raises another $65M to build the modern business planning platform by Romain Dillet originally published on TechCrunch]]></summary>
+        <author>
+            <name>Romain Dillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coolio, ‘Gangsta’s Paradise’ Rapper, Dies at 59]]></title>
+        <id>https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html"/>
+        <updated>2022-09-29T03:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Other hits by Coolio, who won a Grammy for “Gangsta’s Paradise” in the mid-1990s, included “Fantastic Voyage” and “1, 2, 3, 4 (Sumpin’ New).”]]></summary>
+        <author>
+            <name>McKenna Oxenden and Eduardo Medina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coolio, ‘Gangsta’s Paradise’ Rapper, Dies at 59]]></title>
+        <id>https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html"/>
+        <updated>2022-09-29T03:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Other hits by Coolio, who won a Grammy for “Gangsta’s Paradise” in the mid-1990s, included “Fantastic Voyage” and “1, 2, 3, 4 (Sumpin’ New).”]]></summary>
+        <author>
+            <name>McKenna Oxenden and Eduardo Medina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron Judge Hits 61st Home Run Tying Roger Maris]]></title>
+        <id>https://www.nytimes.com/2022/09/28/sports/baseball/aaron-judge-61-home-runs.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/sports/baseball/aaron-judge-61-home-runs.html"/>
+        <updated>2022-09-29T03:27:55.000Z</updated>
+        <summary type="html"><![CDATA[In one of the greatest seasons in major league history, Judge, the Yankees outfielder, has matched Maris’s American League record for home runs in a single season.]]></summary>
+        <author>
+            <name>James Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning digest | Not connected to PFI, says SDPI; R. Venkataramani is the new Attorney General of India, and more]]></title>
+        <id>https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-29-2022/article65947814.ece</id>
+        <link href="https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-29-2022/article65947814.ece"/>
+        <updated>2022-09-29T03:27:07.000Z</updated>
+        <summary type="html"><![CDATA[A select list of stories to read before you start your day]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eye on China and Pakistan, Army set to buy armed-drone swarms]]></title>
+        <id>https://timesofindia.indiatimes.com/india/eye-on-china-and-pakistan-army-set-to-buy-armed-drone-swarms/articleshow/94522387.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/eye-on-china-and-pakistan-army-set-to-buy-armed-drone-swarms/articleshow/94522387.cms"/>
+        <updated>2022-09-29T03:19:06.000Z</updated>
+        <summary type="html"><![CDATA[The Army is slowly, steadily stepping-up the induction of explosive-armed drones. As it gears up to soon induct the first batch of kamikaze drones, the force on Wednesday kicked off the acquisition process for 12 sets of armed drone swarms. Seven of these autonomous surveillance and armed drone swarms (A-SADS), each with 50-75 artificial intelligence-enabled aerial vehicles capable of communicating with control stations as well as among themselves, are meant for high-altitude areas.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Modi's remarks to Russian President Putin at SCO consistent with India's position on Ukraine war: Jaishankar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-modis-remarks-to-russian-president-putin-at-sco-consistent-with-indias-position-on-ukraine-war-jaishankar/articleshow/94522291.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-modis-remarks-to-russian-president-putin-at-sco-consistent-with-indias-position-on-ukraine-war-jaishankar/articleshow/94522291.cms"/>
+        <updated>2022-09-29T03:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Prime Minister Modi pushed Russian President Putin in Samarkand to end the conflict in Ukraine, saying "today's era is not of war" even as he called for finding ways to address the global food and energy security crisis.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last phase of Cong's Bharat Jodo Yatra in Kerala begins, to enter Tamil Nadu in afternoon]]></title>
+        <id>https://timesofindia.indiatimes.com/india/last-phase-of-congs-bharat-jodo-yatra-in-kerala-begins-to-enter-tamil-nadu-in-afternoon/articleshow/94522307.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/last-phase-of-congs-bharat-jodo-yatra-in-kerala-begins-to-enter-tamil-nadu-in-afternoon/articleshow/94522307.cms"/>
+        <updated>2022-09-29T03:12:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: MALAPPURAM: Accompanied by a huge crowd of supporters, Congress leader Rahul Gandhi on Thursday morning began the last phase of the Bharat Jodo Yatra .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top10: A substitute found for Gehlot to run against Tharoor?]]></title>
+        <id>https://timesofindia.indiatimes.com/india/timestopten/msid-94515724.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94515724.cms"/>
+        <updated>2022-09-29T03:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 million without power as Hurricane Ian pounds Florida]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms"/>
+        <updated>2022-09-29T02:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Almost two million customers were without electricity in Florida Wednesday evening out of a total of more than 11 million, with southwestern areas of the state the hardest hit, according to the PowerOutage.us tracking website.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 million without power as Hurricane Ian pounds Florida]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms"/>
+        <updated>2022-09-29T02:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Almost two million customers were without electricity in Florida Wednesday evening out of a total of more than 11 million, with southwestern areas of the state the hardest hit, according to the PowerOutage.us tracking website.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['India strives for a relationship with China but...': Jaishankar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms"/>
+        <updated>2022-09-29T02:45:27.000Z</updated>
+        <summary type="html"><![CDATA["What I have said, to my mind represents accurate policy assessment of where the state of our relations is. We continue to strive for a relationship with China, but one that is built on mutual sensitivity, mutual respect and mutual interest," Jaishankar said during a media briefing in Washington.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['India strives for a relationship with China but...': Jaishankar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms"/>
+        <updated>2022-09-29T02:45:27.000Z</updated>
+        <summary type="html"><![CDATA["What I have said, to my mind represents accurate policy assessment of where the state of our relations is. We continue to strive for a relationship with China, but one that is built on mutual sensitivity, mutual respect and mutual interest," Jaishankar said during a media briefing in Washington.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1st T20I: India rout South Africa on a spiteful track]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-india-rout-south-africa-on-a-spiteful-track/articleshow/94521236.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-india-rout-south-africa-on-a-spiteful-track/articleshow/94521236.cms"/>
+        <updated>2022-09-29T02:38:49.000Z</updated>
+        <summary type="html"><![CDATA[On a pitch that aided prodigious swing, Suryakumar Yadav and KL Rahul's unbeaten half centuries propelled India to a convincing eight-wicket win over South Africa in a one-sided contest at the Greenfield International Stadium in Thiruvananthapuram.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04 Limited Sazabys Rocks Out in Yowamushi Pedal Limit Break Opening Theme MV]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/28/04-limited-sazabys-rocks-out-in-yowamushi-pedal-limit-break-opening-theme-mv</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/28/04-limited-sazabys-rocks-out-in-yowamushi-pedal-limit-break-opening-theme-mv"/>
+        <updated>2022-09-29T02:06:03.000Z</updated>
+        <summary type="html"><![CDATA[The much-awaited season 5 is set to premiere on October 9
+
+
+Four-member Japanese rock band 04 Limited Sazabys has posted a music video for "Keep going," the opening theme song for the fall 2022 TV anime Yowamushi Pedal Limit Break. Check out their energetic performance after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFI ban: BJP hails 'strong action', says Congress backed outfit]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pfi-ban-bjp-hails-strong-action-says-congress-backed-outfit/articleshow/94520650.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pfi-ban-bjp-hails-strong-action-says-congress-backed-outfit/articleshow/94520650.cms"/>
+        <updated>2022-09-29T01:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Terming it a strong and timely move that reasserted the Modi government's "'zero tolerance policy" on terrorism, BJP on Wednesday welcomed the five-year ban on PFI and accused Congress of patronising the "anti-national" organisation.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron Judge Home Run Tracker: 61]]></title>
+        <id>https://www.nytimes.com/article/aaron-judge-home-runs.html</id>
+        <link href="https://www.nytimes.com/article/aaron-judge-home-runs.html"/>
+        <updated>2022-09-29T01:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Judge, the slugging outfielder, is having an incredible year. We tracked his pursuit of other Yankees greats.]]></summary>
+        <author>
+            <name>Benjamin Hoffman and Eve Washington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UP, Karnataka and Gujarat pushed for PFI ban, Amit Shah led the crackdown]]></title>
+        <id>https://timesofindia.indiatimes.com/india/up-karnataka-and-gujarat-pushed-for-pfi-ban-amit-shah-led-the-crackdown/articleshow/94520586.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/up-karnataka-and-gujarat-pushed-for-pfi-ban-amit-shah-led-the-crackdown/articleshow/94520586.cms"/>
+        <updated>2022-09-29T01:32:06.000Z</updated>
+        <summary type="html"><![CDATA[The government on Wednesday declared the Popular Front of India (PFI) and its associates, affiliates or fronts - specifically naming eight of them - as "unlawful association" under the Unlawful Activities (Prevention) Act, 1967 for a period of five years.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming app scam: Bitcoins worth ₹13cr attached]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gaming-app-scam-bitcoins-worth-13cr-attached/articleshow/94520554.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gaming-app-scam-bitcoins-worth-13cr-attached/articleshow/94520554.cms"/>
+        <updated>2022-09-29T01:29:22.000Z</updated>
+        <summary type="html"><![CDATA[The Enforcement Directorate has attached Rs 13 crore worth of crypto currency Bitcoin of Aamir Khan of Kolkata from whose premises the agency had earlier this month recovered over Rs 17 crore in unaccounted cash.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ED attaches IFFCO MD's more assets worth Rs54 cr]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ed-attaches-iffco-mds-more-assets-worth-rs54-cr/articleshow/94520530.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ed-attaches-iffco-mds-more-assets-worth-rs54-cr/articleshow/94520530.cms"/>
+        <updated>2022-09-29T01:27:30.000Z</updated>
+        <summary type="html"><![CDATA[The Enforcement Directorate has attached proceeds of crime in the form of mutual funds, equity shares, bonds and bank balances valued at Rs 54.2 crore belonging to Udai Shanker Awasthi, managing director of Indian Farmers Fertiliser Cooperative Ltd (IFFCO), in a money laundering case.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After five intrusions in four days, BSF fears Pak may turn drones into bombers]]></title>
+        <id>https://timesofindia.indiatimes.com/india/after-five-intrusions-in-four-days-bsf-fears-pak-may-turn-drones-into-bombers/articleshow/94520501.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/after-five-intrusions-in-four-days-bsf-fears-pak-may-turn-drones-into-bombers/articleshow/94520501.cms"/>
+        <updated>2022-09-29T01:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Pakistani drones have been swarming over the international border in Punjab, flying up to five km inside Indian territory to drop drugs and arms.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court: Bengal doorstep ration scheme has no legal sanction]]></title>
+        <id>https://timesofindia.indiatimes.com/india/court-bengal-doorstep-ration-scheme-has-no-legal-sanction/articleshow/94520476.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/court-bengal-doorstep-ration-scheme-has-no-legal-sanction/articleshow/94520476.cms"/>
+        <updated>2022-09-29T01:21:58.000Z</updated>
+        <summary type="html"><![CDATA[The Calcutta HC Wednesday held the Mamata Banerjee government's "Duare (doorstep) ration scheme" a "nullity in the eyes of the law" as it ran contrary to National Food Security Act.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appear in person: Court to Tejashwi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/appear-in-person-court-to-tejashwi/articleshow/94520449.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/appear-in-person-court-to-tejashwi/articleshow/94520449.cms"/>
+        <updated>2022-09-29T01:19:05.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: A Delhi court on Wednesday directed Bihar deputy chief minister and RJD leader Tejashwi Yadav to personally appear before it on the CBI's p.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maiko Irie Newly Cast as Rei Togetsu in The D4DJ Anime/Game Franchise]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/28/maiko-irie-newly-cast-as-rei-togetsu-in-the-d4dj-animegame-franchise</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/28/maiko-irie-newly-cast-as-rei-togetsu-in-the-d4dj-animegame-franchise"/>
+        <updated>2022-09-29T01:15:39.000Z</updated>
+        <summary type="html"><![CDATA["I will do my best to play the role with all my heart and soul."
+
+
+The official website for Bushiroad's DJ-themed mixed-media franchise D4DJ announced on September 28 that Maiko Irie (Asahi Miura in Magia Record: Puella Magi Madoka Magica Side Story) is newly cast as Rei Togetsu, in place of Kanon Shizaki, who left the franchise in August. Hit the jump for more details.]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makoto Shinkai's Suzume Anime Film Unveils 2nd Trailer, More Cast, Visual]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190319</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/makoto-shinkai-suzume-anime-film-unveils-2nd-trailer-more-cast-visual/.190319"/>
+        <updated>2022-09-29T01:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Eri Fukatsu, Matsumoto Hakuō II, Shōta Sometani, Sairi Itō, Kotone Hanase, Kana Hanazawa join cast]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rapper and Actor Coolio Dead at 59]]></title>
         <id>https://www.rollingstone.com/?p=1234602038</id>
@@ -17,6 +287,47 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[More curbs on free speech for ministers? SC hearing in November]]></title>
+        <id>https://timesofindia.indiatimes.com/india/more-curbs-on-free-speech-for-ministers-sc-hearing-in-november/articleshow/94520290.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/more-curbs-on-free-speech-for-ministers-sc-hearing-in-november/articleshow/94520290.cms"/>
+        <updated>2022-09-29T01:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Can greater restrictions be imposed on the right to freedom of speech and expression of public functionaries, including elected representatives and ministers to prevent them from making derogatory remarks?]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla appoints Airbnb co-founder to board]]></title>
+        <id>https://techcrunch.com/?p=2411667</id>
+        <link href="https://techcrunch.com/2022/09/28/tesla-appoints-airbnb-co-founder-to-board/"/>
+        <updated>2022-09-29T01:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Tesla has appointed Airbnb co-founder and billionaire Joe Gebbia to its board of directors, according to a securities filing. Gebbia, a designer who co-founded Airbnb, officially joined the board September 25 as an independent director. His appointment comes a few months after leaving day-to-day operations at Airbnb. He is now an advisor to the short-term rental […]
+Tesla appoints Airbnb co-founder to board by Kirsten Korosec originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC slams TN over 'frivolous' petition, slaps 5 lakh fine]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-slams-tn-over-frivolous-petition-slaps-5-lakh-fine/articleshow/94520270.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-slams-tn-over-frivolous-petition-slaps-5-lakh-fine/articleshow/94520270.cms"/>
+        <updated>2022-09-29T00:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Sending a stern message that states wasting judicial time by filing frivolous petitions in court would not be tolerated, the Supreme Court has imposed a fine of Rs 5 lakh on the Tamil Nadu government for filing an appeal in the apex court even after the issue had been adjudicated.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AK Antony testifies in court in Tatra bribery case]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ak-antony-testifies-in-court-in-tatra-bribery-case/articleshow/94520224.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ak-antony-testifies-in-court-in-tatra-bribery-case/articleshow/94520224.cms"/>
+        <updated>2022-09-29T00:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Former Union defence minister AK Antony submitted on Wednesday before a Delhi court that former Indian Army chief General VK Singh never gave him a written complaint or audio recording (which was claimed to be recorded by him) against Lt Gen Tejinder Singh.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On October 12, SC to take call on batch of pleas against demonetisation]]></title>
         <id>https://timesofindia.indiatimes.com/india/on-october-12-sc-to-take-call-on-batch-of-pleas-against-demonetisation/articleshow/94520173.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/on-october-12-sc-to-take-call-on-batch-of-pleas-against-demonetisation/articleshow/94520173.cms"/>
@@ -24,6 +335,16 @@
         <summary type="html"><![CDATA[After keeping a batch of petitions pending for six years against the Centre's decision to demonetise Rs 500 and Rs 1,000 currency notes and subsequent problems faced by people, the Supreme Court on Wednesday said that it would take a call on October 12 whether it should be heard after Centre submitted that nothing survived in the case for practical purposes.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ron DeSantis’s Race Problem]]></title>
+        <id>https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html"/>
+        <updated>2022-09-29T00:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Ron DeSantis has targeted Black people, Black power and Black history.]]></summary>
+        <author>
+            <name>Charles M. Blow</name>
         </author>
     </entry>
     <entry>
@@ -799,6 +1120,16 @@ It’s more or less a meme at this point that you have to add “reddit” to a 
     </entry>
     <entry>
         <title type="html"><![CDATA[Want condoms too? IAS officer rebukes girl seeking pads]]></title>
+        <id>https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms"/>
+        <updated>2022-09-28T21:23:26.000Z</updated>
+        <summary type="html"><![CDATA[A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.']]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want condoms too? IAS officer rebukes girl seeking pads]]></title>
         <id>https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms"/>
         <updated>2022-09-28T21:23:26.000Z</updated>
@@ -855,6 +1186,16 @@ Porsche to IPO in landmark listing Thursday by Jaclyn Trop originally published 
         <summary type="html"><![CDATA[Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check "hate campaigns" of RSS and affiliates against the minority community.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Act against RSS too: Muslim outfits' chorus]]></title>
+        <id>https://timesofindia.indiatimes.com/city/kozhikode/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/kozhikode/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms"/>
+        <updated>2022-09-28T21:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check "hate campaigns" of RSS and affiliates against the minority community.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1018,6 +1359,16 @@ Read more...]]></summary>
         <title type="html"><![CDATA[Rita Gardner, an Original ‘Fantasticks’ Star, Is Dead at 87]]></title>
         <id>https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html</id>
         <link href="https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html"/>
+        <updated>2022-09-28T20:33:46.000Z</updated>
+        <summary type="html"><![CDATA[In 1960 she originated the lone female role in an Off Broadway show that became part of theater history thanks to a record-setting run.]]></summary>
+        <author>
+            <name>Neil Genzlinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rita Gardner, an Original ‘Fantasticks’ Star, Is Dead at 87]]></title>
+        <id>https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html"/>
         <updated>2022-09-28T20:33:45.000Z</updated>
         <summary type="html"><![CDATA[In 1960 she originated the lone female role in an Off Broadway show that became part of theater history thanks to a record-setting run.]]></summary>
         <author>
@@ -1032,6 +1383,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA["Jane" and "Stephanie," who testified against disgraced singer at Brooklyn trial, to receive money to cover psychological and herpes treatment]]></summary>
         <author>
             <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom Tales of the Night Manga Ends in November]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190309</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/phantom-tales-of-the-night-manga-ends-in-november/.190309"/>
+        <updated>2022-09-28T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Manga scheduled to end on November 22]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1177,6 +1538,16 @@ It also gives you a place to track those requests. When notifications for it sta
 Read more...]]></summary>
         <author>
             <name>Ashley Bardhan and Levi Winslow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungo Stray Dogs Manga Goes on Hiatus]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190302</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/bungo-stray-dogs-manga-goes-on-hiatus/.190302"/>
+        <updated>2022-09-28T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to "certain circumstances," there will be no chapter on October 4]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1793,6 +2164,16 @@ Rotten Tomatoes gets its first card game to entertain film buffs by Lauren Forri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HIDIVE Streams Cardfight!! Vanguard will+Dress Anime's English Dub]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190300</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/hidive-streams-cardfight-vanguard-will-dress-anime-english-dub/.190300"/>
+        <updated>2022-09-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dub premieres on Saturday]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google News will soon begin translating local press coverage]]></title>
         <id>https://techcrunch.com/?p=2410740</id>
         <link href="https://techcrunch.com/2022/09/28/google-news-will-soon-begin-translating-local-press-coverage/"/>
@@ -2313,6 +2694,16 @@ Amazon expands Eero line and introduces Internet Backup by Kyle Wiggers original
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D4DJ Franchise Recasts Maiko Irie as Rei Togetsu]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190298</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/d4dj-franchise-recasts-maiko-irie-as-rei-togetsu/.190298"/>
+        <updated>2022-09-28T17:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Irie begins role on October 7]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CNN lays off audio staffers as it shifts podcast strategy]]></title>
         <id>https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix</id>
         <link href="https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix"/>
@@ -2521,6 +2912,16 @@ Starting at $799.99 and coming in 65- and 75-inch ($1,099.99) sizes, the Fire TV
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EXCLUSIVE: Kodansha USA Adds Kouji Seo's The Café Terrace and its Goddesses, 2 More Manga in October]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190165</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/exclusive-kodansha-usa-adds-kouji-seo-the-cafe-terrace-and-its-goddesses-2-more-manga-in-october/.190165"/>
+        <updated>2022-09-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Company also adds Raised by the Demon Kings!, Gamaran: Shura manga]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FEATURE: What Are Some of the Best Parody Product Placements in Anime?]]></title>
         <id>https://www.crunchyroll.com/anime-feature/2022/09/28/feature-what-are-some-of-the-best-parody-product-placements-in-anime</id>
         <link href="https://www.crunchyroll.com/anime-feature/2022/09/28/feature-what-are-some-of-the-best-parody-product-placements-in-anime"/>
@@ -2606,6 +3007,16 @@ Amazon debuts new Echo devices, including Echo Studio with spatial audio by Kyle
 Amazon’s Ring announces plan to use a robot for security patrols alongside new home security devices by Sarah Perez originally published on TechCrunch]]></summary>
         <author>
             <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaguya-sama: Love is War Anime Film Debuts in Winter 2022]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190299</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/kaguya-sama-love-is-war-anime-film-debuts-in-winter-2022/.190299"/>
+        <updated>2022-09-28T16:40:45.000Z</updated>
+        <summary type="html"><![CDATA[New visual unveiled]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -2979,6 +3390,16 @@ Chelsea Lane was the head performance therapist with the Golden State Warriors w
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Armed Fantasia, Penny Blood Games Reveal More Staff]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190260</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/armed-fantasia-penny-blood-games-reveal-more-staff/.190260"/>
+        <updated>2022-09-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Composers Nobuo Uematsu, Kenji Ito join staff]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INTERVIEW: My Favorite Naruto Arc with Jan Ochoa]]></title>
         <id>https://www.crunchyroll.com/anime-feature/2022/09/28/interview-my-favorite-naruto-arc-with-jan-ochoa</id>
         <link href="https://www.crunchyroll.com/anime-feature/2022/09/28/interview-my-favorite-naruto-arc-with-jan-ochoa"/>
@@ -3279,6 +3700,16 @@ Previously, web apps did not have access to this feature, which could lead to em
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EA, Koei Tecmo Announce Wild Hearts Hunting Game]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190297</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/ea-koei-tecmo-announce-wild-hearts-hunting-game/.190297"/>
+        <updated>2022-09-28T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Game launches for PS5, Xbox Series X|S, PC on February 17]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HeadsUp helps PLG sales teams understand how and when to sell]]></title>
         <id>https://techcrunch.com/?p=2408345</id>
         <link href="https://techcrunch.com/2022/09/28/headsup-helps-plg-sales-teams-understand-how-and-when-to-sell/"/>
@@ -3536,6 +3967,16 @@ While Omega Force is best known for the Dynasty Warriors franchise, the studio h
 Wild Hearts is launching on February 17th, 2023, on the PS5, Xbox Series X / S, and PC.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Master Has No Tail Anime Casts Junya Enoki]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190296</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/my-master-has-no-tail-anime-casts-junya-enoki/.190296"/>
+        <updated>2022-09-28T14:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Enoki plays Mameda's father]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -4216,6 +4657,16 @@ Instead of presenting a visual puzzle to a user, Turnstile applies one of many b
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spy×Family Anime's 2nd Half Streams Clean Opening Sequence]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190295</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/spy-family-anime-2nd-half-streams-clean-opening-sequence/.190295"/>
+        <updated>2022-09-28T12:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Bump of Chicken performs opening song 'Souvenir']]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Not keen on becoming Congress president: Kamal Nath]]></title>
         <id>https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/not-keen-on-becoming-congress-president-kamal-nath/articleshow/94510677.cms"/>
@@ -4482,6 +4933,16 @@ With just three days to go until the premiere of its second cour, SPY x FAMILY l
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FIFA honours Sunil Chhetri for his achievements]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-honours-sunil-chhetri-for-his-achievements-releases-three-episode-series-on-his-life-and-career/articleshow/94509102.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-honours-sunil-chhetri-for-his-achievements-releases-three-episode-series-on-his-life-and-career/articleshow/94509102.cms"/>
+        <updated>2022-09-28T11:20:12.000Z</updated>
+        <summary type="html"><![CDATA[World football governing body FIFA has released a three-episode series on the life and career of talismanic Indian football team captain Sunil Chhetri in recognition of his achievements and goal-scoring exploits.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Overwatch 2 Players Will Need to Play 100 Matches to Unlock Original Characters]]></title>
         <id>8beaf6fa-bba9-4e47-bb20-7f237ea9b4ac</id>
         <link href="https://www.ign.com/articles/new-overwatch-2-players-will-need-to-play-100-matches-to-unlock-original-characters"/>
@@ -4489,6 +4950,16 @@ With just three days to go until the premiere of its second cour, SPY x FAMILY l
         <summary type="html"><![CDATA[New Overwatch 2 players won't have access to the game's original heroes, and will have to unlock them by playing around 100 matches.]]></summary>
         <author>
             <name>Ryan Leston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mob Psycho 100 Anime Season 3's Trailer Highlights Mob, Reigen, Dimple]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190293</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/mob-psycho-100-anime-season-3-trailer-highlights-mob-reigen-dimple/.190293"/>
+        <updated>2022-09-28T11:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Trailer also teases Mob's plan to confess to childhood crush Tsubomi]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -5978,6 +6449,16 @@ Ten years of heart-pounding races and male bonding later, the Free! - Iwatobi Sw
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Peter Grill and the Philosopher's Time Anime Season 2's Videos Preview Theme Songs]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190278</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-28/peter-grill-and-the-philosopher-time-anime-season-2-videos-preview-theme-songs/.190278"/>
+        <updated>2022-09-28T04:06:39.000Z</updated>
+        <summary type="html"><![CDATA[isekaijoucho performs "Kurenazumu Yakusoku" opening, Hilcrhyme performs "Koigokoro" ending]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stockly raises another $12 million to sell out-of-stock items via other retailers]]></title>
         <id>https://techcrunch.com/?p=2408632</id>
         <link href="https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/"/>
@@ -5996,6 +6477,16 @@ Stockly raises another $12 million to sell out-of-stock items via other retailer
         <summary type="html"><![CDATA[A win over Toronto gave the Yankees the American League East title, but Aaron Judge remained stuck at 60 home runs.]]></summary>
         <author>
             <name>David Waldstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reincarnation Of The Strongest Exorcist In Another World Anime Unveils More Cast, New Visual]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190275</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-unveils-more-cast-new-visual/.190275"/>
+        <updated>2022-09-28T03:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Akari Kitō, Yui Ogura join cast of January 2023 anime]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -6019,6 +6510,16 @@ Ecchi fantasy anime Peter Grill and the Philosopher's Time is already promising 
         <summary type="html"><![CDATA[Days after a pan-India crackdown on the Popular Front of India (PFI) for alleged terror activities, the government has banned the group over its terror links.  A large number of its operatives have been arrested in nationwide raids on the group by the NIA and the ED under 'Operation Lotus'.  The government has said that overtly the group and its affiliates operate as a socio-economic, educational and political organization but in reality they have been pursuing a secret agenda to radicalize a particular section of the society. But how did the outfit that had its roots in the Kerala-based National Development Front which was formed in 1993 reach here? The crackdown against PFI has raised several questions over a possible countrywide ban. Watch the video to know more.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadowverse Flame Anime's Video Previews New Opening Song]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190274</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/shadowverse-flame-anime-video-previews-new-opening-song/.190274"/>
+        <updated>2022-09-28T03:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Idol group NEWS performs "Tick-Tock" song for 'Shadowverse Team Competition' arc]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -6125,6 +6626,16 @@ The official website and Twitter account for the upcoming The Reincarnation of t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live-Action 'And Yet, You Are So Sweet' Film Casts Rihito Itagaki]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190272</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/live-action-and-yet-you-are-so-sweet-film-casts-rihito-itagaki/.190272"/>
+        <updated>2022-09-28T02:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Itagaki plays Chigira's romantic rival Sōma Tezuka in March 2023 film]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rajasthan political crisis: Not away from you, CM Gehlot assures MLAs who call on him]]></title>
         <id>https://timesofindia.indiatimes.com/city/jaipur/rajasthan-not-away-from-you-cm-ashok-gehlot-assures-mlas-who-call-on-him/articleshow/94493095.cms</id>
         <link href="https://timesofindia.indiatimes.com/city/jaipur/rajasthan-not-away-from-you-cm-ashok-gehlot-assures-mlas-who-call-on-him/articleshow/94493095.cms"/>
@@ -6204,6 +6715,16 @@ The publication confirmed the hack. “Fast Company’s Apple News account was h
         <summary type="html"><![CDATA[Uncertainty looms over 500 commercial outlets, including shops, handicraft showrooms, emporiums, hotels and restaurants, operating within a 500m radius of the iconic Taj Mahal following the Supreme Court order on Monday directing the authorities concerned to immediately stop all commercial activities.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[takt op. Smartphone Game Launches Next Spring]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190270</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-27/takt-op-smartphone-game-launches-next-spring/.190270"/>
+        <updated>2022-09-28T01:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Game unveils new video, characters voiced by Hina Tachibana, Hisako Tōjō]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>

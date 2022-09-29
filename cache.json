@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa",
+          "author": null,
+          "description": "Automatic emergency braking (AEB) is pretty good at preventing low-speed rear-end crashes but kind of sucks when vehicles are traveling at more average speeds, according to new research from the American Automobile Association (AAA).\nStarting September 2022, all new cars sold in the US are required to come standard with AEB, which uses forward-facing cameras and other sensors to automatically apply the brakes when a crash is imminent. The Insurance Institute for Highway Safety estimates that AEB may help prevent 28,000 crashes and 12,000 injuries by 2025.\nUsing four common vehicles, AAA wanted to put AEB to the test to see how it’s progressed since first rolling out to production vehicles nearly 20 years ago. What they found was not that great.\n“Automatic Emergency Braking does well at tac…",
+          "link": "https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa",
+          "publishedOn": "2022-09-29T04:01:00.000Z",
+          "wordCount": 2162,
+          "title": "Automatic emergency braking is not great at preventing crashes at normal speeds",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2bREd552Whz5po00xrzjtHo20gk=/0x0:1136x760/1200x628/filters:focal(568x380:569x381)/cdn.vox-cdn.com/uploads/chorus_asset/file/24042158/Screen_Shot_2022_09_21_at_2.19.43_PM.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network",
           "author": null,
           "description": "Its last exclusive game of the season won’t be quite as exclusive. | Photo by Cole Burston/Getty Images\n    \n\n  \nThis Friday’s Yankees game against the Orioles will no longer be exclusively available on Amazon Prime Video, like 20 games before it: the game will also be airing on the Yankee Entertainment and Sports (YES) network, according to a tweet from the cable network. It’s a big change, and it’s something that Apple didn’t do last week, despite pleas from New York’s Attorney General.\nMany Yankees fans will likely want to tune in to the game, as outfielder Aaron Judge could tie (or maybe even beat) a record for home runs that’s stood for over 60 years. But the ability to watch the Yankees on YES has been a bit contentious lately; last Friday, New York’s attorney general Letitia James c…",
@@ -1439,6 +1449,46 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html",
+          "author": "McKenna Oxenden and Eduardo Medina",
+          "description": "Other hits by Coolio, who won a Grammy for “Gangsta’s Paradise” in the mid-1990s, included “Fantastic Voyage” and “1, 2, 3, 4 (Sumpin’ New).”",
+          "link": "https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html",
+          "publishedOn": "2022-09-29T03:29:57.000Z",
+          "wordCount": null,
+          "title": "Coolio, ‘Gangsta’s Paradise’ Rapper, Dies at 59",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/sports/baseball/aaron-judge-61-home-runs.html",
+          "author": "James Wagner",
+          "description": "In one of the greatest seasons in major league history, Judge, the Yankees outfielder, has matched Maris’s American League record for home runs in a single season.",
+          "link": "https://www.nytimes.com/2022/09/28/sports/baseball/aaron-judge-61-home-runs.html",
+          "publishedOn": "2022-09-29T03:27:55.000Z",
+          "wordCount": null,
+          "title": "Aaron Judge Hits 61st Home Run Tying Roger Maris",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/article/aaron-judge-home-runs.html",
+          "author": "Benjamin Hoffman and Eve Washington",
+          "description": "Judge, the slugging outfielder, is having an incredible year. We tracked his pursuit of other Yankees greats.",
+          "link": "https://www.nytimes.com/article/aaron-judge-home-runs.html",
+          "publishedOn": "2022-09-29T01:35:48.000Z",
+          "wordCount": null,
+          "title": "Aaron Judge Home Run Tracker: 61",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html",
+          "author": "Charles M. Blow",
+          "description": "Ron DeSantis has targeted Black people, Black power and Black history.",
+          "link": "https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html",
+          "publishedOn": "2022-09-29T00:45:05.000Z",
+          "wordCount": null,
+          "title": "Ron DeSantis’s Race Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html",
           "author": "Andrew E. Kramer, Marc Santora and Eric Nagourney",
           "description": "The requests lent an air of formality to a process condemned by the West. They followed sham referendums in four regions in Ukraine that purported to put voters’ stamp of approval on joining Russia.",
@@ -1576,6 +1626,16 @@
           "publishedOn": "2022-09-28T21:04:09.000Z",
           "wordCount": null,
           "title": "Dense Breasts and Cancer: What to Know About Katie Couric’s Diagnosis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html",
+          "author": "Neil Genzlinger",
+          "description": "In 1960 she originated the lone female role in an Off Broadway show that became part of theater history thanks to a record-setting run.",
+          "link": "https://www.nytimes.com/2022/09/28/theater/rita-gardner-dead.html",
+          "publishedOn": "2022-09-28T20:33:46.000Z",
+          "wordCount": null,
+          "title": "Rita Gardner, an Original ‘Fantasticks’ Star, Is Dead at 87",
           "imageUrl": null
         },
         {
@@ -4560,6 +4620,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html",
+          "author": "McKenna Oxenden and Eduardo Medina",
+          "description": "Other hits by Coolio, who won a Grammy for “Gangsta’s Paradise” in the mid-1990s, included “Fantastic Voyage” and “1, 2, 3, 4 (Sumpin’ New).”",
+          "link": "https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html",
+          "publishedOn": "2022-09-29T03:29:57.000Z",
+          "wordCount": null,
+          "title": "Coolio, ‘Gangsta’s Paradise’ Rapper, Dies at 59",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/28/arts/music/lizzo-james-madison-flute.html",
           "author": "Michael Levenson",
           "description": "A classically trained flutist, the singer, rapper and songwriter spent more than three hours admiring the flute collection at the Library of Congress. Madison’s instrument was made for the second inauguration by a Parisian craftsman.",
@@ -6120,6 +6190,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2410473",
+          "author": "Romain Dillet",
+          "description": "French startup Pigment has raised a new round of funding less than a year after raising a $73 million Series B round. If you’re not familiar with Pigment, the company develops a business planning and forecasting platform. For small companies that are growing up, it can replace Microsoft Excel as it’s more secure and more […]\nPigment raises another $65M to build the modern business planning platform by Romain Dillet originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/pigment-raises-another-65m-to-build-the-modern-business-planning-platform/",
+          "publishedOn": "2022-09-29T04:00:00.000Z",
+          "wordCount": 6962,
+          "title": "Pigment raises another $65M to build the modern business planning platform",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1359478309.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2411667",
+          "author": "Kirsten Korosec",
+          "description": "Tesla has appointed Airbnb co-founder and billionaire Joe Gebbia to its board of directors, according to a securities filing. Gebbia, a designer who co-founded Airbnb, officially joined the board September 25 as an independent director. His appointment comes a few months after leaving day-to-day operations at Airbnb. He is now an advisor to the short-term rental […]\nTesla appoints Airbnb co-founder to board by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/28/tesla-appoints-airbnb-co-founder-to-board/",
+          "publishedOn": "2022-09-29T01:00:27.000Z",
+          "wordCount": 5041,
+          "title": "Tesla appoints Airbnb co-founder to board",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/tesla-EV.jpeg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2409474",
           "author": "Catherine Shu",
@@ -12357,6 +12447,176 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190319",
+          "author": null,
+          "description": "Eri Fukatsu, Matsumoto Hakuō II, Shōta Sometani, Sairi Itō, Kotone Hanase, Kana Hanazawa join cast",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/makoto-shinkai-suzume-anime-film-unveils-2nd-trailer-more-cast-visual/.190319",
+          "publishedOn": "2022-09-29T01:08:33.000Z",
+          "wordCount": 3916,
+          "title": "Makoto Shinkai's Suzume Anime Film Unveils 2nd Trailer, More Cast, Visual",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGN/cms/news.5/190319/suzume.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190309",
+          "author": null,
+          "description": "Manga scheduled to end on November 22",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/phantom-tales-of-the-night-manga-ends-in-november/.190309",
+          "publishedOn": "2022-09-28T20:30:00.000Z",
+          "wordCount": 3403,
+          "title": "Phantom Tales of the Night Manga Ends in November",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB7/cms/news.5/190309/phantom-tales-of-the-night-11.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190302",
+          "author": null,
+          "description": "Due to \"certain circumstances,\" there will be no chapter on October 4",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/bungo-stray-dogs-manga-goes-on-hiatus/.190302",
+          "publishedOn": "2022-09-28T19:45:00.000Z",
+          "wordCount": 3597,
+          "title": "Bungo Stray Dogs Manga Goes on Hiatus",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.5/190302/bungo-stray-dogs-22.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190300",
+          "author": null,
+          "description": "Dub premieres on Saturday",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/hidive-streams-cardfight-vanguard-will-dress-anime-english-dub/.190300",
+          "publishedOn": "2022-09-28T18:00:00.000Z",
+          "wordCount": 3690,
+          "title": "HIDIVE Streams Cardfight!! Vanguard will+Dress Anime's English Dub",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.5/185138/visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190298",
+          "author": null,
+          "description": "Irie begins role on October 7",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/d4dj-franchise-recasts-maiko-irie-as-rei-togetsu/.190298",
+          "publishedOn": "2022-09-28T17:15:26.000Z",
+          "wordCount": 3635,
+          "title": "D4DJ Franchise Recasts Maiko Irie as Rei Togetsu",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.5/190298/maiko-irie.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190165",
+          "author": null,
+          "description": "Company also adds Raised by the Demon Kings!, Gamaran: Shura manga",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/exclusive-kodansha-usa-adds-kouji-seo-the-cafe-terrace-and-its-goddesses-2-more-manga-in-october/.190165",
+          "publishedOn": "2022-09-28T17:00:00.000Z",
+          "wordCount": 3714,
+          "title": "EXCLUSIVE: Kodansha USA Adds Kouji Seo's The Café Terrace and its Goddesses, 2 More Manga in October",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.5/190165/02_thecafe_terraceanditsgoddesses_oct22digidebut.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190299",
+          "author": null,
+          "description": "New visual unveiled",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/kaguya-sama-love-is-war-anime-film-debuts-in-winter-2022/.190299",
+          "publishedOn": "2022-09-28T16:40:45.000Z",
+          "wordCount": 3442,
+          "title": "Kaguya-sama: Love is War Anime Film Debuts in Winter 2022",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g5Q/cms/news.5/190299/kaguya-sama-film-visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190260",
+          "author": null,
+          "description": "Composers Nobuo Uematsu, Kenji Ito join staff",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/armed-fantasia-penny-blood-games-reveal-more-staff/.190260",
+          "publishedOn": "2022-09-28T16:00:00.000Z",
+          "wordCount": 4011,
+          "title": "Armed Fantasia, Penny Blood Games Reveal More Staff",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.5/190260/image1-1-.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190297",
+          "author": null,
+          "description": "Game launches for PS5, Xbox Series X|S, PC on February 17",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/ea-koei-tecmo-announce-wild-hearts-hunting-game/.190297",
+          "publishedOn": "2022-09-28T15:00:22.000Z",
+          "wordCount": 3519,
+          "title": "EA, Koei Tecmo Announce Wild Hearts Hunting Game",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.5/190297/bohni_reveal_screenshot_03_wolf_3840x2160-1-.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190296",
+          "author": null,
+          "description": "Enoki plays Mameda's father",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/my-master-has-no-tail-anime-casts-junya-enoki/.190296",
+          "publishedOn": "2022-09-28T14:20:07.000Z",
+          "wordCount": 3578,
+          "title": "My Master Has No Tail Anime Casts Junya Enoki",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/cms/news.5/190296/my-master-has-no-tail-mameda-father.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190295",
+          "author": null,
+          "description": "Bump of Chicken performs opening song 'Souvenir'",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/spy-family-anime-2nd-half-streams-clean-opening-sequence/.190295",
+          "publishedOn": "2022-09-28T12:30:12.000Z",
+          "wordCount": 3550,
+          "title": "Spy×Family Anime's 2nd Half Streams Clean Opening Sequence",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/YOIJOJsUkUg.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190293",
+          "author": null,
+          "description": "Trailer also teases Mob's plan to confess to childhood crush Tsubomi",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/mob-psycho-100-anime-season-3-trailer-highlights-mob-reigen-dimple/.190293",
+          "publishedOn": "2022-09-28T11:16:19.000Z",
+          "wordCount": 4029,
+          "title": "Mob Psycho 100 Anime Season 3's Trailer Highlights Mob, Reigen, Dimple",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGN/youtube/VwwZU7YgC6A.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190278",
+          "author": null,
+          "description": "isekaijoucho performs \"Kurenazumu Yakusoku\" opening, Hilcrhyme performs \"Koigokoro\" ending",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-28/peter-grill-and-the-philosopher-time-anime-season-2-videos-preview-theme-songs/.190278",
+          "publishedOn": "2022-09-28T04:06:39.000Z",
+          "wordCount": 3847,
+          "title": "Peter Grill and the Philosopher's Time Anime Season 2's Videos Preview Theme Songs",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g55/youtube/txIZFXwTrtY.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190275",
+          "author": null,
+          "description": "Akari Kitō, Yui Ogura join cast of January 2023 anime",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/the-reincarnation-of-the-strongest-exorcist-in-another-world-anime-unveils-more-cast-new-visual/.190275",
+          "publishedOn": "2022-09-28T03:36:55.000Z",
+          "wordCount": 3679,
+          "title": "The Reincarnation Of The Strongest Exorcist In Another World Anime Unveils More Cast, New Visual",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFI/cms/news.5/190275/visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190274",
+          "author": null,
+          "description": "Idol group NEWS performs \"Tick-Tock\" song for 'Shadowverse Team Competition' arc",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/shadowverse-flame-anime-video-previews-new-opening-song/.190274",
+          "publishedOn": "2022-09-28T03:18:33.000Z",
+          "wordCount": 3622,
+          "title": "Shadowverse Flame Anime's Video Previews New Opening Song",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEI/cms/news.5/190274/visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190272",
+          "author": null,
+          "description": "Itagaki plays Chigira's romantic rival Sōma Tezuka in March 2023 film",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/live-action-and-yet-you-are-so-sweet-film-casts-rihito-itagaki/.190272",
+          "publishedOn": "2022-09-28T02:18:28.000Z",
+          "wordCount": 3495,
+          "title": "Live-Action 'And Yet, You Are So Sweet' Film Casts Rihito Itagaki",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g64/cms/news.5/190272/soumatezuka.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190270",
+          "author": null,
+          "description": "Game unveils new video, characters voiced by Hina Tachibana, Hisako Tōjō",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-27/takt-op-smartphone-game-launches-next-spring/.190270",
+          "publishedOn": "2022-09-28T01:26:26.000Z",
+          "wordCount": 3625,
+          "title": "takt op. Smartphone Game Launches Next Spring",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU5/youtube/3K9ww6eAjc4.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190265",
           "author": null,
           "description": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc, Yuki Yuna is a Hero anime; Thus Spoke Rohan Kishibe, Lazy Dungeon Master manga ship",
@@ -13243,6 +13503,26 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/04-limited-sazabys-rocks-out-in-yowamushi-pedal-limit-break-opening-theme-mv",
+          "author": "Mikikazu Komatsu",
+          "description": "The much-awaited season 5 is set to premiere on October 9\n\n\nFour-member Japanese rock band 04 Limited Sazabys has posted a music video for \"Keep going,\" the opening theme song for the fall 2022 TV anime Yowamushi Pedal Limit Break. Check out their energetic performance after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/04-limited-sazabys-rocks-out-in-yowamushi-pedal-limit-break-opening-theme-mv",
+          "publishedOn": "2022-09-29T02:06:03.000Z",
+          "wordCount": 5958,
+          "title": "04 Limited Sazabys Rocks Out in Yowamushi Pedal Limit Break Opening Theme MV",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/91f106a90c7811463b8ee2612e392e171664416931_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/28/maiko-irie-newly-cast-as-rei-togetsu-in-the-d4dj-animegame-franchise",
+          "author": "Mikikazu Komatsu",
+          "description": "\"I will do my best to play the role with all my heart and soul.\"\n\n\nThe official website for Bushiroad's DJ-themed mixed-media franchise D4DJ announced on September 28 that Maiko Irie (Asahi Miura in Magia Record: Puella Magi Madoka Magica Side Story) is newly cast as Rei Togetsu, in place of Kanon Shizaki, who left the franchise in August. Hit the jump for more details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/28/maiko-irie-newly-cast-as-rei-togetsu-in-the-d4dj-animegame-franchise",
+          "publishedOn": "2022-09-29T01:15:39.000Z",
+          "wordCount": 5998,
+          "title": "Maiko Irie Newly Cast as Rei Togetsu in The D4DJ Anime/Game Franchise",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/385a7b7488f0406976a643e3c49dd22c1664413716_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/28/miyu-tomita-sings-jujutsu-kaisen-opening-theme-for-crossing-project-season-3",
           "author": "Mikikazu Komatsu",
@@ -14451,6 +14731,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-29-2022/article65947814.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-29-2022/article65947814.ece",
+          "publishedOn": "2022-09-29T03:27:07.000Z",
+          "wordCount": 6996,
+          "title": "Morning digest | Not connected to PFI, says SDPI; R. Venkataramani is the new Attorney General of India, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/knzk2s/article65948096.ece/alternates/LANDSCAPE_615/PTI09_28_2022_000193B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/india-wants-a-relationship-of-mutual-sensitivity-mutual-respect-and-mutual-interest-with-china-jaishankar/article65948286.ece",
           "author": "Sriram Lakshman",
           "description": "EAM Jaishankar’s comments comes after the remarks by  Chinese Ambassador to India Sun Weidong claiming that the situation along the LAC was moving towards being “normalised”.",
@@ -15407,6 +15697,146 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/eye-on-china-and-pakistan-army-set-to-buy-armed-drone-swarms/articleshow/94522387.cms",
+          "author": null,
+          "description": "The Army is slowly, steadily stepping-up the induction of explosive-armed drones. As it gears up to soon induct the first batch of kamikaze drones, the force on Wednesday kicked off the acquisition process for 12 sets of armed drone swarms. Seven of these autonomous surveillance and armed drone swarms (A-SADS), each with 50-75 artificial intelligence-enabled aerial vehicles capable of communicating with control stations as well as among themselves, are meant for high-altitude areas.",
+          "link": "https://timesofindia.indiatimes.com/india/eye-on-china-and-pakistan-army-set-to-buy-armed-drone-swarms/articleshow/94522387.cms",
+          "publishedOn": "2022-09-29T03:19:06.000Z",
+          "wordCount": 6472,
+          "title": "Eye on China and Pakistan, Army set to buy armed-drone swarms",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94522426,width-1070,height-580,imgsize-9188,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modis-remarks-to-russian-president-putin-at-sco-consistent-with-indias-position-on-ukraine-war-jaishankar/articleshow/94522291.cms",
+          "author": null,
+          "description": "Prime Minister Modi pushed Russian President Putin in Samarkand to end the conflict in Ukraine, saying \"today's era is not of war\" even as he called for finding ways to address the global food and energy security crisis.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modis-remarks-to-russian-president-putin-at-sco-consistent-with-indias-position-on-ukraine-war-jaishankar/articleshow/94522291.cms",
+          "publishedOn": "2022-09-29T03:13:02.000Z",
+          "wordCount": 6808,
+          "title": "PM Modi's remarks to Russian President Putin at SCO consistent with India's position on Ukraine war: Jaishankar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94522316,width-1070,height-580,imgsize-40646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/last-phase-of-congs-bharat-jodo-yatra-in-kerala-begins-to-enter-tamil-nadu-in-afternoon/articleshow/94522307.cms",
+          "author": null,
+          "description": "India News: MALAPPURAM: Accompanied by a huge crowd of supporters, Congress leader Rahul Gandhi on Thursday morning began the last phase of the Bharat Jodo Yatra .",
+          "link": "https://timesofindia.indiatimes.com/india/last-phase-of-congs-bharat-jodo-yatra-in-kerala-begins-to-enter-tamil-nadu-in-afternoon/articleshow/94522307.cms",
+          "publishedOn": "2022-09-29T03:12:46.000Z",
+          "wordCount": 5380,
+          "title": "Last phase of Cong's Bharat Jodo Yatra in Kerala begins, to enter Tamil Nadu in afternoon",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94522269,width-1070,height-580,imgsize-90464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms",
+          "author": null,
+          "description": "\"What I have said, to my mind represents accurate policy assessment of where the state of our relations is. We continue to strive for a relationship with China, but one that is built on mutual sensitivity, mutual respect and mutual interest,\" Jaishankar said during a media briefing in Washington.",
+          "link": "https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms",
+          "publishedOn": "2022-09-29T02:45:27.000Z",
+          "wordCount": 7745,
+          "title": "'India strives for a relationship with China but...': Jaishankar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94521439,width-1070,height-580,imgsize-499111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pfi-ban-bjp-hails-strong-action-says-congress-backed-outfit/articleshow/94520650.cms",
+          "author": null,
+          "description": "Terming it a strong and timely move that reasserted the Modi government's \"'zero tolerance policy\" on terrorism, BJP on Wednesday welcomed the five-year ban on PFI and accused Congress of patronising the \"anti-national\" organisation.",
+          "link": "https://timesofindia.indiatimes.com/india/pfi-ban-bjp-hails-strong-action-says-congress-backed-outfit/articleshow/94520650.cms",
+          "publishedOn": "2022-09-29T01:40:18.000Z",
+          "wordCount": 5692,
+          "title": "PFI ban: BJP hails 'strong action', says Congress backed outfit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-karnataka-and-gujarat-pushed-for-pfi-ban-amit-shah-led-the-crackdown/articleshow/94520586.cms",
+          "author": null,
+          "description": "The government on Wednesday declared the Popular Front of India (PFI) and its associates, affiliates or fronts - specifically naming eight of them - as \"unlawful association\" under the Unlawful Activities (Prevention) Act, 1967 for a period of five years.",
+          "link": "https://timesofindia.indiatimes.com/india/up-karnataka-and-gujarat-pushed-for-pfi-ban-amit-shah-led-the-crackdown/articleshow/94520586.cms",
+          "publishedOn": "2022-09-29T01:32:06.000Z",
+          "wordCount": 6974,
+          "title": "UP, Karnataka and Gujarat pushed for PFI ban, Amit Shah led the crackdown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94520611,width-1070,height-580,imgsize-45736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gaming-app-scam-bitcoins-worth-13cr-attached/articleshow/94520554.cms",
+          "author": null,
+          "description": "The Enforcement Directorate has attached Rs 13 crore worth of crypto currency Bitcoin of Aamir Khan of Kolkata from whose premises the agency had earlier this month recovered over Rs 17 crore in unaccounted cash.",
+          "link": "https://timesofindia.indiatimes.com/india/gaming-app-scam-bitcoins-worth-13cr-attached/articleshow/94520554.cms",
+          "publishedOn": "2022-09-29T01:29:22.000Z",
+          "wordCount": 5457,
+          "title": "Gaming app scam: Bitcoins worth ₹13cr attached",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ed-attaches-iffco-mds-more-assets-worth-rs54-cr/articleshow/94520530.cms",
+          "author": null,
+          "description": "The Enforcement Directorate has attached proceeds of crime in the form of mutual funds, equity shares, bonds and bank balances valued at Rs 54.2 crore belonging to Udai Shanker Awasthi, managing director of Indian Farmers Fertiliser Cooperative Ltd (IFFCO), in a money laundering case.",
+          "link": "https://timesofindia.indiatimes.com/india/ed-attaches-iffco-mds-more-assets-worth-rs54-cr/articleshow/94520530.cms",
+          "publishedOn": "2022-09-29T01:27:30.000Z",
+          "wordCount": 5481,
+          "title": "ED attaches IFFCO MD's more assets worth Rs54 cr",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-five-intrusions-in-four-days-bsf-fears-pak-may-turn-drones-into-bombers/articleshow/94520501.cms",
+          "author": null,
+          "description": "Pakistani drones have been swarming over the international border in Punjab, flying up to five km inside Indian territory to drop drugs and arms.",
+          "link": "https://timesofindia.indiatimes.com/india/after-five-intrusions-in-four-days-bsf-fears-pak-may-turn-drones-into-bombers/articleshow/94520501.cms",
+          "publishedOn": "2022-09-29T01:24:15.000Z",
+          "wordCount": 5353,
+          "title": "After five intrusions in four days, BSF fears Pak may turn drones into bombers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/court-bengal-doorstep-ration-scheme-has-no-legal-sanction/articleshow/94520476.cms",
+          "author": null,
+          "description": "The Calcutta HC Wednesday held the Mamata Banerjee government's \"Duare (doorstep) ration scheme\" a \"nullity in the eyes of the law\" as it ran contrary to National Food Security Act.",
+          "link": "https://timesofindia.indiatimes.com/india/court-bengal-doorstep-ration-scheme-has-no-legal-sanction/articleshow/94520476.cms",
+          "publishedOn": "2022-09-29T01:21:58.000Z",
+          "wordCount": 5513,
+          "title": "Court: Bengal doorstep ration scheme has no legal sanction",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/appear-in-person-court-to-tejashwi/articleshow/94520449.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: A Delhi court on Wednesday directed Bihar deputy chief minister and RJD leader Tejashwi Yadav to personally appear before it on the CBI's p.",
+          "link": "https://timesofindia.indiatimes.com/india/appear-in-person-court-to-tejashwi/articleshow/94520449.cms",
+          "publishedOn": "2022-09-29T01:19:05.000Z",
+          "wordCount": 5286,
+          "title": "Appear in person: Court to Tejashwi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/more-curbs-on-free-speech-for-ministers-sc-hearing-in-november/articleshow/94520290.cms",
+          "author": null,
+          "description": "Can greater restrictions be imposed on the right to freedom of speech and expression of public functionaries, including elected representatives and ministers to prevent them from making derogatory remarks?",
+          "link": "https://timesofindia.indiatimes.com/india/more-curbs-on-free-speech-for-ministers-sc-hearing-in-november/articleshow/94520290.cms",
+          "publishedOn": "2022-09-29T01:02:31.000Z",
+          "wordCount": 5571,
+          "title": "More curbs on free speech for ministers? SC hearing in November",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94520294,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-slams-tn-over-frivolous-petition-slaps-5-lakh-fine/articleshow/94520270.cms",
+          "author": null,
+          "description": "Sending a stern message that states wasting judicial time by filing frivolous petitions in court would not be tolerated, the Supreme Court has imposed a fine of Rs 5 lakh on the Tamil Nadu government for filing an appeal in the apex court even after the issue had been adjudicated.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-slams-tn-over-frivolous-petition-slaps-5-lakh-fine/articleshow/94520270.cms",
+          "publishedOn": "2022-09-29T00:59:58.000Z",
+          "wordCount": 5952,
+          "title": "SC slams TN over 'frivolous' petition, slaps 5 lakh fine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94520270,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ak-antony-testifies-in-court-in-tatra-bribery-case/articleshow/94520224.cms",
+          "author": null,
+          "description": "Former Union defence minister AK Antony submitted on Wednesday before a Delhi court that former Indian Army chief General VK Singh never gave him a written complaint or audio recording (which was claimed to be recorded by him) against Lt Gen Tejinder Singh.",
+          "link": "https://timesofindia.indiatimes.com/india/ak-antony-testifies-in-court-in-tatra-bribery-case/articleshow/94520224.cms",
+          "publishedOn": "2022-09-29T00:55:36.000Z",
+          "wordCount": 6147,
+          "title": "AK Antony testifies in court in Tatra bribery case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/on-october-12-sc-to-take-call-on-batch-of-pleas-against-demonetisation/articleshow/94520173.cms",
           "author": null,
@@ -17875,6 +18305,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms",
+          "author": null,
+          "description": "Almost two million customers were without electricity in Florida Wednesday evening out of a total of more than 11 million, with southwestern areas of the state the hardest hit, according to the PowerOutage.us tracking website.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms",
+          "publishedOn": "2022-09-29T02:50:12.000Z",
+          "wordCount": 10611,
+          "title": "2 million without power as Hurricane Ian pounds Florida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94521644,width-1070,height-580,imgsize-151084,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/us/23-missing-after-migrant-boat-sinks-during-hurricane-ian-us/articleshow/94518052.cms",
           "author": null,
           "description": "A boat carrying migrants sank and left 23 people missing and four survivors as Hurricane Ian slammed into the Florida coast on Wednesday, US police said.",
@@ -19129,6 +19569,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94515724.cms",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94515724.cms",
+          "publishedOn": "2022-09-29T03:05:11.000Z",
+          "wordCount": 5046,
+          "title": "Top10: A substitute found for Gehlot to run against Tharoor?",
+          "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms",
+          "author": null,
+          "description": "Almost two million customers were without electricity in Florida Wednesday evening out of a total of more than 11 million, with southwestern areas of the state the hardest hit, according to the PowerOutage.us tracking website.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-pounds-florida-as-a-monster-storm/articleshow/94521595.cms",
+          "publishedOn": "2022-09-29T02:50:12.000Z",
+          "wordCount": 10611,
+          "title": "2 million without power as Hurricane Ian pounds Florida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94521644,width-1070,height-580,imgsize-151084,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms",
+          "author": null,
+          "description": "\"What I have said, to my mind represents accurate policy assessment of where the state of our relations is. We continue to strive for a relationship with China, but one that is built on mutual sensitivity, mutual respect and mutual interest,\" Jaishankar said during a media briefing in Washington.",
+          "link": "https://timesofindia.indiatimes.com/india/india-strives-for-a-relationship-with-china-but-jaishankar/articleshow/94521256.cms",
+          "publishedOn": "2022-09-29T02:45:27.000Z",
+          "wordCount": 7745,
+          "title": "'India strives for a relationship with China but...': Jaishankar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94521439,width-1070,height-580,imgsize-499111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-india-rout-south-africa-on-a-spiteful-track/articleshow/94521236.cms",
+          "author": null,
+          "description": "On a pitch that aided prodigious swing, Suryakumar Yadav and KL Rahul's unbeaten half centuries propelled India to a convincing eight-wicket win over South Africa in a one-sided contest at the Greenfield International Stadium in Thiruvananthapuram.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-india-rout-south-africa-on-a-spiteful-track/articleshow/94521236.cms",
+          "publishedOn": "2022-09-29T02:38:49.000Z",
+          "wordCount": 7214,
+          "title": "1st T20I: India rout South Africa on a spiteful track",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94521241,width-1070,height-580,imgsize-56392,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/sc-refuses-to-stay-ips-officer-satish-chandra-vermas-sacking/articleshow/94519905.cms",
           "author": null,
           "description": "The SC on Wednesday refused to stay the Centre's order to dismiss IPS officer Satish Chandra Verma and asked the Delhi HC to decide on the plea against his sacking expeditiously. On Verma's plea that he should be allowed to retire honourably, the bench said officers had to face tribulation for doing what they think is right and assured him that if truth is on his side then he will get justice. The HC had earlier refused relief to Verma, who is due to retire Sept 30.",
@@ -19219,6 +19699,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94519323,width-1070,height-580,imgsize-29984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "author": null,
+          "description": "A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.'",
+          "link": "https://timesofindia.indiatimes.com/city/patna/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
+          "publishedOn": "2022-09-28T21:23:26.000Z",
+          "wordCount": 5160,
+          "title": "Want condoms too? IAS officer rebukes girl seeking pads",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519113,width-1070,height-580,imgsize-40546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/want-condoms-too-ias-officer-rebukes-girl-seeking-pads/articleshow/94519094.cms",
           "author": null,
           "description": "A senior woman IAS officer in Bihar has kicked up a major controversy by publicly mocking a poor schoolgirl who asked if the government could provide sanitary napkins at lower prices, saying there was no end to such demands and asking if they would want 'condoms too.'",
@@ -19227,6 +19717,16 @@
           "wordCount": 5412,
           "title": "Want condoms too? IAS officer rebukes girl seeking pads",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94519113,width-1070,height-580,imgsize-40546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kozhikode/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "author": null,
+          "description": "Several Islamic groups in Kerala reacted cautiously to the PFI ban on Wednesday and reiterated their opposition to the outfit's extremist ideology, but at the same time asked the Centre to check \"hate campaigns\" of RSS and affiliates against the minority community.",
+          "link": "https://timesofindia.indiatimes.com/city/kozhikode/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
+          "publishedOn": "2022-09-28T21:14:31.000Z",
+          "wordCount": 5446,
+          "title": "Act against RSS too: Muslim outfits' chorus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519090,width-1070,height-580,imgsize-77400,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/act-against-rss-too-muslim-outfits-chorus/articleshow/94519077.cms",
@@ -19407,6 +19907,16 @@
           "wordCount": 6051,
           "title": "Not keen on becoming Congress president: Kamal Nath",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94511204,width-1070,height-580,imgsize-41676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-honours-sunil-chhetri-for-his-achievements-releases-three-episode-series-on-his-life-and-career/articleshow/94509102.cms",
+          "author": null,
+          "description": "World football governing body FIFA has released a three-episode series on the life and career of talismanic Indian football team captain Sunil Chhetri in recognition of his achievements and goal-scoring exploits.",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-honours-sunil-chhetri-for-his-achievements-releases-three-episode-series-on-his-life-and-career/articleshow/94509102.cms",
+          "publishedOn": "2022-09-28T11:20:12.000Z",
+          "wordCount": 5561,
+          "title": "FIFA honours Sunil Chhetri for his achievements",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94509052,width-1070,height-580,imgsize-60690,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-1st-t20i-today-match-2022-live-cricket-score-updates/liveblog/94508221.cms",
