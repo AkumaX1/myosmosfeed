@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs",
+          "author": null,
+          "description": "Image: Eufy\n    \n\n  \n\nSmart home company Eufy’s new wireless security camera, the EufyCam 3, bumps up the resolution to 4K and adds a built-in solar panel to extend the year-long battery life even further. But its best features come from the new HomeBase 3 hub the camera connects to wirelessly. This adds local processing of video to send you an alert when it spots a person, pet, or vehicle, plus facial recognition so it can tell you if it’s a stranger or a family member. \nAnother interesting feature is the option to upgrade the storage to as much as 16 TB of local storage with a hard drive slot. Eufy says this is enough for 60 years of motion-activated video footage, and it adds the capability to record continuous video — a first for the Eufy ecosystem. \nThe Edge Security System, which is …",
+          "link": "https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs",
+          "publishedOn": "2022-09-29T23:00:00.000Z",
+          "wordCount": 8190,
+          "title": "Eufy’s impressive new smart cameras use AI to identify you and your pets",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/09xgvafY_abpCefzbDnvofD87CE=/0x0:4704x3136/1200x628/filters:focal(3140x2022:3141x2023)/cdn.vox-cdn.com/uploads/chorus_asset/file/24064236/eufyCam_3__2_.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23379304/nasa-is-studying-whether-spacex-can-visit-the-hubble-space-telescope",
+          "author": null,
+          "description": "The Hubble Space Telescope | Image: NASA\n    \n\n  \nSpaceX and NASA have agreed to figure out whether or not a SpaceX ship could visit and potentially breathe new life into the iconic Hubble Space Telescope. They announced that they were partnering on a study that would look into whether or not that kind of mission was even possible.\nThe study will take about six months to complete and will involve NASA and SpaceX. It also involves the Polaris Program, a private human spaceflight effort funded by billionaire Jason Isaacman. Earlier this year, Isaacman bought three flights to space on SpaceX’s Dragon spacecraft, a series of missions he’s calling Polaris.\nIt is not clear yet whether or not a trip to the Hubble would even require a crew\nIt is not clear yet whether or not a trip to the Hubble wo…",
+          "link": "https://www.theverge.com/2022/9/29/23379304/nasa-is-studying-whether-spacex-can-visit-the-hubble-space-telescope",
+          "publishedOn": "2022-09-29T22:44:36.000Z",
+          "wordCount": 7818,
+          "title": "NASA is studying whether SpaceX can visit the Hubble Space Telescope",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/7ph79kfBMU8Lu0kwNxwqmdhY2G4=/0x0:1041x1058/1200x628/filters:focal(521x529:522x530)/cdn.vox-cdn.com/uploads/chorus_asset/file/24066026/sts109_730_034.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23379470/google-stadia-cloud-gaming-future-never-mattered-chance-shutdown",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n\n  \nGoogle had big plans for its cloud gaming service, but it never tipped the scales. Soon, Google will be shutting it down.\n Google’s Stadia cloud gaming service will soon be no more, as the company announced that it’s shutting down the service early next year. Google touted ambitious plans when Stadia launched, but it never posed any real threat to established players like Sony and Microsoft. And because of Google’s general lack of commitment to anything but its biggest cash cow — digital advertising — Stadia never really stood a chance.\nWhen Google first showed Stadia at GDC 2019, it discussed sky-high aspirations that looked disruptive. You’d be able to stream games to all of your devices! You could jump into a game from a YouTube clip…",
+          "link": "https://www.theverge.com/2022/9/29/23379470/google-stadia-cloud-gaming-future-never-mattered-chance-shutdown",
+          "publishedOn": "2022-09-29T22:23:46.000Z",
+          "wordCount": 8160,
+          "title": "Google Stadia never mattered, and it never had a chance",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/eQXyTcudfq5knuagNTmRdkgtQ4M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19376604/akrales_191113_3779_0317.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date",
           "author": null,
           "description": "Intel’s Arc A750 arrives next month. | Image: Intel\n    \n\n  \nIntel surprised PC gamers earlier this week with $329 pricing for its top Arc A770 GPU, matching Nvidia’s RTX 3060 retail pricing. While it’s still difficult to find an RTX 3060 at $329, Intel is now undercutting Nvidia’s popular GPU with a $289 starting price for its A750, a card it claims should be able to trade blows with the RTX 3060.\nWe’re still waiting on independent reviews of the Arc A750, but Intel did release 48 benchmarks last month showing that it should be able to beat or come close to Nvidia’s RTX 3060 performance in modern games. Intel tested its A750 directly against the RTX 3060 across 42 DirectX 12 titles and six Vulkan games, and the results look promising.\nIntel is clearly aiming for performance per dollar and…",
@@ -1779,6 +1809,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/style/midori-francis-greys-anatomy.html",
+          "author": "Rachel Simon",
+          "description": "A star of “The Sex Lives of College Girls” talks about queer and Asian representation on network TV.",
+          "link": "https://www.nytimes.com/2022/09/29/style/midori-francis-greys-anatomy.html",
+          "publishedOn": "2022-09-29T22:19:21.000Z",
+          "wordCount": null,
+          "title": "Midori Francis Is Among the New Class of ‘Grey’s Anatomy’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/briefing/florida-flooding-hurricane-ian-russia-annex.html",
+          "author": "Matthew Cullen",
+          "description": "Here’s what you need to know at the end of the day.",
+          "link": "https://www.nytimes.com/2022/09/29/briefing/florida-flooding-hurricane-ian-russia-annex.html",
+          "publishedOn": "2022-09-29T22:12:23.000Z",
+          "wordCount": null,
+          "title": "Your Thursday Evening Briefing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/us/politics/ginni-thomas-jan-6-committee.html",
           "author": "Luke Broadwater and Stephanie Lai",
           "description": "In a closed-door interview with the House committee investigating the Jan. 6 attack, Ms. Thomas reiterated her false assertion that the 2020 election was stolen from President Donald J. Trump.",
@@ -2006,6 +2056,16 @@
           "publishedOn": "2022-09-29T15:50:17.000Z",
           "wordCount": null,
           "title": "Zelensky’s Answer to Escalating Russian Threats: Defiance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/neediest-cases/refugees-ukraine-war-new-york.html",
+          "author": "Amelia Nierenberg",
+          "description": "When refugees from Russia’s invasion needed a fresh start, nonprofit agencies stepped in to assist.",
+          "link": "https://www.nytimes.com/2022/09/29/neediest-cases/refugees-ukraine-war-new-york.html",
+          "publishedOn": "2022-09-29T15:38:51.000Z",
+          "wordCount": null,
+          "title": "Finding a New Home, and New Hope, After Leaving Ukraine",
           "imageUrl": null
         },
         {
@@ -5650,6 +5710,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html",
+          "author": "Margaret Lyons",
+          "description": "Our TV critic recommends a vampy adaptation, a surprising rap drama and the astonishing return of “Ramy.”",
+          "link": "https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html",
+          "publishedOn": "2022-09-29T22:17:08.000Z",
+          "wordCount": null,
+          "title": "How Much Watching Time Do You Have This Weekend?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html",
           "author": "A.O. Scott",
           "description": "In “Tár,” “Showing Up” and other selections, the annual event makes the case for big-screen aesthetics and large-scale ambitions.",
@@ -6476,6 +6546,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234601973",
+          "author": "Julyssa Lopez",
+          "description": "The song is an upbeat, energetic ode to mambo sounds",
+          "link": "https://www.rollingstone.com/music/music-latin/don-omar-lil-jon-lets-get-crazy-1234601973/",
+          "publishedOn": "2022-09-29T23:02:02.000Z",
+          "wordCount": 7030,
+          "title": "Don Omar’s ‘Let’s Get Crazy’ With Lil Jon Is a Delightful Blast From the Past",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-29-at-6.50.02-PM.png?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602336",
           "author": "Julyssa Lopez",
@@ -7740,6 +7820,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2413013",
+          "author": "Maggie Stamets",
+          "description": "Welcome back to Found, where we get the stories behind the startups. When Phil Libin co-founded Evernote he spent tons of money making the perfect working environment with chic offices, a shuttle bus and headphones to block out all of his employees’ distracting co-workers. He’s since seen the work-from-home light and co-founded mmhmm to make working remotely more efficient […]\nmmhmm co-founders are building the great pyramid of hybrid work by Maggie Stamets originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/phil-libin-mmhmm-found/",
+          "publishedOn": "2022-09-29T23:00:53.000Z",
+          "wordCount": 6107,
+          "title": "mmhmm co-founders are building the great pyramid of hybrid work",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413488",
+          "author": "Natasha Mascarenhas",
+          "description": "Truepill, a platform that helps other companies offer diagnostics, telehealth services and prescriptions, has conducted its fourth layoff of the year. Sources say the layoff impacted around 65% of the existing staff across the engineering, human resources, design, IT and finance teams. The layoff comes around two months after its last round, which impacted about […]\nTruepill, a digital health unicorn, conducts fourth round of layoffs in 2022 by Natasha Mascarenhas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/truepill-a-digital-health-unicorn-conducts-fourth-round-of-layoffs-in-2022/",
+          "publishedOn": "2022-09-29T22:35:57.000Z",
+          "wordCount": 6933,
+          "title": "Truepill, a digital health unicorn, conducts fourth round of layoffs in 2022",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1404252885.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413495",
+          "author": "Aria Alamalhodaei",
+          "description": "SpaceX and NASA have signed a new agreement to study the feasibility of sending a commercial crew in a SpaceX Dragon to boost the orbit of the Hubble Space Telescope. If completed, the mission could extend the operational lifespan of the telescope by as much as 20 years. NASA officials cautioned that today’s news is […]\nNASA and SpaceX are studying sending a private crew to boost Hubble’s orbit by Aria Alamalhodaei originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/nasa-and-spacex-are-studying-sending-a-private-crew-to-boost-hubbles-orbit/",
+          "publishedOn": "2022-09-29T22:12:22.000Z",
+          "wordCount": 7281,
+          "title": "NASA and SpaceX are studying sending a private crew to boost Hubble’s orbit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-72315315.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2413202",
           "author": "Christine Hall",
@@ -12602,6 +12712,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849599263",
+          "author": "Ethan Gach",
+          "description": "Almost a year after it came to every other platform, Skyrim: Anniversary Edition surprise-launched on the Nintendo Switch today. The newest version of the beloved 2011 open-world RPG includes a bunch of DLC, mod content, and fishing. It’s also $70 on Nintendo’s handheld hybrid. Gotham Knights and Callisto Protocol…\nRead more...",
+          "link": "https://kotaku.com/elder-scrolls-skyrim-nintendo-switch-anniversary-1849599263",
+          "publishedOn": "2022-09-29T22:25:00.000Z",
+          "wordCount": 5502,
+          "title": "$70 Version Of Skyrim Quietly Appears On Nintendo Switch",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/adf7c396bb9e227ac75156996794e664.png"
+        },
+        {
           "id": "1849599091",
           "author": "Zack Zwiezen",
           "description": "Earlier today, Google confirmed that its shutting down Stadia, its short-lived cloud gaming service. While the company plans on refunding all software and hardware purchases related to Stadia, the future of the few remaining exclusives on the service is less clear. And if they don’t get ported to other platforms…\nRead more...",
@@ -14683,6 +14803,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "9956acc7-2d7e-4863-b930-67ce93323e55",
+          "author": "George Yang",
+          "description": "Leaked audio clips of the Joker suggest that the version from Batman: The Animated Series might be coming to MultiVersus.",
+          "link": "https://www.ign.com/articles/multiversus-leak-possibly-reveals-mark-hamill-as-joker",
+          "publishedOn": "2022-09-29T20:49:05.000Z",
+          "wordCount": 8704,
+          "title": "MultiVersus Leak Possibly Reveals Mark Hamill as Joker",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/29/joker-1664484223801.png?width=1280"
+        },
+        {
           "id": "c7f07501-4d49-450b-a7ea-07611ac214b0",
           "author": "Ryan Leston",
           "description": "World of Warcraft's latest expansion, Dragonflight, will launch on November 28.",
@@ -15446,6 +15576,96 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190347",
+          "author": null,
+          "description": "Musical casts Win Morisaki/Hiroki Suzuki as Loid, Fūka Yuzuki/Mirei Sasaki as Yor",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/spy-family-stage-musical-reveals-cast-visuals-march-8-debut/.190347",
+          "publishedOn": "2022-09-29T20:45:29.000Z",
+          "wordCount": 3264,
+          "title": "Spy×Family Stage Musical Reveals Cast, Visuals, March 8 Debut",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR1/cms/news.5/190347/spy-x-family-loid-1.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190341",
+          "author": null,
+          "description": "Garden eel Pokémon resembles Diglett",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/pokemon-scarlet-violet-games-trailer-introduce-new-pokemon-wiglett/.190341",
+          "publishedOn": "2022-09-29T18:00:00.000Z",
+          "wordCount": 3310,
+          "title": "Pokémon Scarlet/Violet Games' Trailer Introduce New Pokémon Wiglett",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/youtube/vk3Fr9ysPYo.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190342",
+          "author": null,
+          "description": "Films stream on October 6",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/crunchyroll-adds-fruits-basket-prelude-fairy-tail-dragon-cry-films/.190342",
+          "publishedOn": "2022-09-29T16:52:55.000Z",
+          "wordCount": 3339,
+          "title": "Crunchyroll Adds Fruits Basket -prelude-, Fairy Tail: Dragon Cry Films",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT7/cms/news.5/186222/fb-min.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190340",
+          "author": null,
+          "description": "Film opened on September 2",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/utano-princesama-maji-love-st-rish-tours-film-earns-over-770-million-yen/.190340",
+          "publishedOn": "2022-09-29T16:00:00.000Z",
+          "wordCount": 3285,
+          "title": "Utano☆Princesama♪ Maji Love ST☆RISH Tours Film Earns Over 770 Million Yen",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH1/cms/news.5/187236/utano-princesama.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190338",
+          "author": null,
+          "description": "Visual features new character",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/the-devil-is-a-part-timer-anime-gets-sequel-in-2023/.190338",
+          "publishedOn": "2022-09-29T15:15:42.000Z",
+          "wordCount": 3416,
+          "title": "The Devil Is a Part-Timer!! Anime Gets Sequel in 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL3/cms/news.5/190338/the-devil-is-a-part-timer-sequel.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190336",
+          "author": null,
+          "description": "Takahashi to perform on December 4 at Texas convention",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/anime-frontier-event-hosts-evangelion-singer-yoko-takahashi/.190336",
+          "publishedOn": "2022-09-29T15:00:00.000Z",
+          "wordCount": 3091,
+          "title": "Anime Frontier Event Hosts Evangelion Singer Yoko Takahashi",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.5/190336/yoko-takahashi.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190334",
+          "author": null,
+          "description": "Man allegedly earned advertising revenue on illegally uploaded content",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/alleged-administrator-of-sites-linking-to-pirated-anime-arrested-in-japan/.190334",
+          "publishedOn": "2022-09-29T14:34:45.000Z",
+          "wordCount": 3070,
+          "title": "Alleged Administrator of Sites Linking to Pirated Anime Arrested in Japan",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g53/cms/news.5/183303/001_size6-15.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190333",
+          "author": null,
+          "description": "KOTOKO performs theme for anime about man reincarnated as school club's microphone",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/aru-asa-dummy-head-mike-ni-natteita-ore-kun-no-jinsei-asmr-anime-video-reveals-ending-song-october-/.190333",
+          "publishedOn": "2022-09-29T12:28:19.000Z",
+          "wordCount": 3279,
+          "title": "Aru Asa Dummy Head Mike ni Natteita Ore-kun no Jinsei ASMR Anime's Video Reveals Ending Song, October 12 Debut",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGP/youtube/X3GjvqjJGJ8.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190329",
+          "author": null,
+          "description": "Musical artist MAISONdes performs opening, ending",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/new-urusei-yatsura-anime-2nd-video-reveals-opening-ending-songs/.190329",
+          "publishedOn": "2022-09-29T11:13:01.000Z",
+          "wordCount": 3413,
+          "title": "New Urusei Yatsura Anime's 2nd Video Reveals Opening, Ending Songs",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/unlvnzHlBbk.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190325",
           "author": null,
@@ -19177,6 +19397,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
+          "author": null,
+          "description": "The discount on the base fare that Air India (AI) offers to senior citizens and students will be slashed from 50% to 25% for all bookings done from September 29, said an internal circular by the airline on Thursday, reports Manju V. The carrier will, however, continue to extend its 50% sop on base fare to other categories.",
+          "link": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
+          "publishedOn": "2022-09-29T22:29:38.000Z",
+          "wordCount": 6113,
+          "title": "Air India discount for senior citizens, students halved to 25%",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544887,width-1070,height-580,imgsize-60156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/feast-in-village-to-celebrate-anil-chauhans-appointment-as-cds/articleshow/94544813.cms",
+          "author": null,
+          "description": "Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.",
+          "link": "https://timesofindia.indiatimes.com/india/feast-in-village-to-celebrate-anil-chauhans-appointment-as-cds/articleshow/94544813.cms",
+          "publishedOn": "2022-09-29T22:04:50.000Z",
+          "wordCount": 5764,
+          "title": "Feast in village to celebrate Anil Chauhan's appointment as CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544823,width-1070,height-580,imgsize-99182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "author": null,
+          "description": "Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.",
+          "link": "https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "publishedOn": "2022-09-29T22:03:44.000Z",
+          "wordCount": 6322,
+          "title": "Two villages in Pauri, hours apart, give 'back-to-back' defence chiefs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544838,width-1070,height-580,imgsize-99182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-camp-brands-sachin-pilot-traitor-wont-let-him-be-cm/articleshow/94544791.cms",
           "author": null,
@@ -23898,6 +24148,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
+          "author": null,
+          "description": "The discount on the base fare that Air India (AI) offers to senior citizens and students will be slashed from 50% to 25% for all bookings done from September 29, said an internal circular by the airline on Thursday, reports Manju V. The carrier will, however, continue to extend its 50% sop on base fare to other categories.",
+          "link": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
+          "publishedOn": "2022-09-29T22:29:38.000Z",
+          "wordCount": 6113,
+          "title": "Air India discount for sr citizens, students halved",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544887,width-1070,height-580,imgsize-60156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "author": null,
+          "description": "Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.",
+          "link": "https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "publishedOn": "2022-09-29T22:03:44.000Z",
+          "wordCount": 6322,
+          "title": "Two villages in Pauri, hours apart, give 'back-to-back' CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544838,width-1070,height-580,imgsize-99182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms",
+          "author": null,
+          "description": "The Kerala HC Thursday directed the now-banned Popular Front of India (PFI) to deposit Rs 5.2 crore in two weeks to compensate for damage caused to assets of the state road transport corporation during an illegal flash strike. The division bench also ordered the state to make PFI state secretary Abdul Sattar an accused in all cases registered in the state.",
+          "link": "https://timesofindia.indiatimes.com/india/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms",
+          "publishedOn": "2022-09-29T21:43:52.000Z",
+          "wordCount": 6704,
+          "title": "Deposit ₹5.2cr in 2 weeks for hartal damage: HC tells PFI",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544784,width-1070,height-580,imgsize-121028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/nri/us-canada-news/us-embassy-to-add-staff-to-cut-visa-wait-time-1l-appointments-soon/articleshow/94544478.cms",
           "author": null,
