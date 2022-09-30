@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts",
+          "author": null,
+          "description": "Illustration by Kristen Radtke / The Verge; Getty Images\n    \n\n  \nElon Musk’s deposition for the Twitter v. Musk suit may have been rescheduled for next week, but the public got some more inside dirt about his plans for Twitter, thanks to the release of two slideshow presentations and a slew of Musk texts. \nThe texts show Musk and a variety of contacts — including former Twitter CEO Jack Dorsey, entrepreneur Jason Calacanis, and podcaster Joe Rogan — talking about everything from the blockchain to putting Oprah on Twitter’s board. (That part might be a joke, but with Musk, it’s difficult to tell.) But above all, they’re a chronicle of the deal’s slow implosion.\nTwitter “never should have been a company.”\nThe texts are light reading, and you can check them out here if you’re so inclined. Th…",
+          "link": "https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts",
+          "publishedOn": "2022-09-30T00:30:00.000Z",
+          "wordCount": 8741,
+          "title": "How Elon Musk, Jack Dorsey, and Parag Agrawal cratered the Twitter deal, in texts",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EMwPa1gdV9uJGtPsp5VUaQjrY3k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23390588/VRG_Illo_STK022_K_Radtke_Musk_Stock_Smirk.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/29/23379558/anker-liberty-4-earbuds-announced-price-specs",
+          "author": null,
+          "description": "Soundcore Liberty 4 earbuds | Image: Soundcore\n    \n\n  \nToday Anker is adding a new entry to its line of Soundcore earbuds with the Liberty 4. While this set keeps the brand in the budget earbud category with a $149.99 price, they’re the first ones in this line to combine a “stick” design (as seen in the Liberty Air 2 Pro) and dual dynamic drivers that Soundcore claims “push the boundaries of sound performance, offering clarity across all frequencies for the best listening experience with all genres of music.”\nThe Liberty Air 2 Pro made our list of the best cheap earbuds last year, and the Liberty 3 Pro managed to impress for the price when we reviewed them in February, despite ANC that could use some improvement and some extra emphasis on bass and treble under their default settings.\nWhil…",
+          "link": "https://www.theverge.com/2022/9/29/23379558/anker-liberty-4-earbuds-announced-price-specs",
+          "publishedOn": "2022-09-29T23:33:34.000Z",
+          "wordCount": 7611,
+          "title": "Anker’s Soundcore Liberty 4 earbuds add spatial audio and heart rate tracking",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/eX7vXGLgyAMdhBMkb38y2jqVEfI=/0x0:1929x1374/1200x628/filters:focal(965x687:966x688)/cdn.vox-cdn.com/uploads/chorus_asset/file/24066518/3.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs",
           "author": null,
           "description": "Image: Eufy\n    \n\n  \n\nSmart home company Eufy’s new wireless security camera, the EufyCam 3, bumps up the resolution to 4K and adds a built-in solar panel to extend the year-long battery life even further. But its best features come from the new HomeBase 3 hub the camera connects to wirelessly. This adds local processing of video to send you an alert when it spots a person, pet, or vehicle, plus facial recognition so it can tell you if it’s a stranger or a family member. \nAnother interesting feature is the option to upgrade the storage to as much as 16 TB of local storage with a hard drive slot. Eufy says this is enough for 60 years of motion-activated video footage, and it adds the capability to record continuous video — a first for the Eufy ecosystem. \nThe Edge Security System, which is …",
@@ -1808,6 +1828,46 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-flood-damage.html",
+          "author": "Richard Fausset, Campbell Robertson and Shawn Hubler",
+          "description": "The state was battered on both the Gulf and Atlantic coasts, but some residents of inland areas said the damage was not as severe as feared.",
+          "link": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-flood-damage.html",
+          "publishedOn": "2022-09-30T00:15:34.000Z",
+          "wordCount": null,
+          "title": "Ian Leaves Flooding and Damage Across Florida Far From the Coast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/trump-special-master-documents.html",
+          "author": "Charlie Savage and Alan Feuer",
+          "description": "The dueling moves by Judge Aileen M. Cannon and a special master she appointed reflected a larger struggle over who should control the rules of the review — and whom those rules would favor.",
+          "link": "https://www.nytimes.com/2022/09/29/us/trump-special-master-documents.html",
+          "publishedOn": "2022-09-29T23:45:33.000Z",
+          "wordCount": null,
+          "title": "Judge Overrules Special Master’s Demands to Trump in Document Review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html",
+          "author": "Anton Troianovski",
+          "description": "There was no sign that any other country would recognize Russia’s move, but Mr. Putin may try to use the plans to shift attention away from his losses on the battlefield.",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html",
+          "publishedOn": "2022-09-29T23:18:23.000Z",
+          "wordCount": null,
+          "title": "Putin to Announce Ukraine Annexation Plans on Friday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/alex-jones-sandy-hook-parker.html",
+          "author": "Elizabeth Williamson",
+          "description": "Robbie and Alissa Parker testified in the Infowars host’s damages trial in Connecticut about the torment inflicted on their family by believers of conspiracy theories.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/alex-jones-sandy-hook-parker.html",
+          "publishedOn": "2022-09-29T22:42:23.000Z",
+          "wordCount": null,
+          "title": "Sandy Hook Parents Tie Alex Jones to Years of Threats and Vitriol",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/style/midori-francis-greys-anatomy.html",
           "author": "Rachel Simon",
@@ -7820,6 +7880,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2411259",
+          "author": "Connie Loizos",
+          "description": "Alex Wiltschko has what he thinks is a big idea. He wants to build a company that digitizes scent. It’s a natural step for Wiltschko, who has a PhD in neurobiology from Harvard, where he studied how the brain processes odor. He didn’t wind up in this specific group accidentally, he suggests. It owes to […]\nGV aims to help build a company that can sniff out disease, literally by Connie Loizos originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/gv-aims-to-help-build-a-company-that-can-sniff-out-disease-literally/",
+          "publishedOn": "2022-09-30T00:05:36.000Z",
+          "wordCount": 9449,
+          "title": "GV aims to help build a company that can sniff out disease, literally",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Alex_Landscape.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413634",
+          "author": "Amanda Silberling",
+          "description": "A new, particularly juicy document has surfaced in discovery leading up to the Elon Musk v. Twitter trial, slated to take place in a few weeks. Behold: a trove of texts between Musk and key figures at Twitter, like founder Jack Dorsey, board chair Bret Taylor and current CEO Parag Agrawal, and other casual chats […]\nHere are some of the cringiest revelations in the Elon Musk text dump by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/elon-musk-texts-discovery-twitter/",
+          "publishedOn": "2022-09-29T23:56:49.000Z",
+          "wordCount": 8870,
+          "title": "Here are some of the cringiest revelations in the Elon Musk text dump",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1395371333.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413575",
+          "author": "Kyle Wiggers",
+          "description": "Google Colaboratory (Colab for short), Google’s service designed to allow anyone to write and execute arbitrary Python code through a web browser, is introducing a pay-as-a-you-go plan. In its first pricing change since Google launched premium Colab plans in 2020, Colab will now give users the option to purchase additional compute time in Colab with […]\nGoogle Colaboratory launches a pay-as-you-go option, premium GPU access by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/google-colaboratory-launches-a-pay-as-you-go-option-premium-gpu-access/",
+          "publishedOn": "2022-09-29T23:35:25.000Z",
+          "wordCount": 7194,
+          "title": "Google Colaboratory launches a pay-as-you-go option, premium GPU access",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2413013",
           "author": "Maggie Stamets",
@@ -14803,6 +14893,46 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "3a326362-ff68-4229-b4e8-c6df872d61d7",
+          "author": "Rebekah Valentine",
+          "description": "Among the absolutely massive amount of explorable world and evergreen story content in Genshin Impact, one of the ways the open-world adventure keeps folks busy over time is through limited-time events that, if missed often cannot be accessed later. But developer MiHoYo may be looking for a way for players to reexperience them after all.",
+          "link": "https://www.ign.com/articles/genshin-impact-developer-is-considering-how-to-make-limited-time-events-replayable-in-the-future",
+          "publishedOn": "2022-09-29T22:51:47.000Z",
+          "wordCount": 9038,
+          "title": "Genshin Impact Developer Is Considering How to Make Limited-Time Events Replayable in the Future",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/08/19/genshinimpactversion3-0gameplay-ign-blogroll-1660936510016.jpg?width=1280"
+        },
+        {
+          "id": "d965f935-13e9-4e0c-a040-24dec68e9dfe",
+          "author": "Rebekah Valentine",
+          "description": "Why did it take so long for Genshin Impact developer miHoYo to introduce the Dendro element, especially when all other elements were present from the start? What was it about Dendro that required a little more time in the veggie steamer?",
+          "link": "https://www.ign.com/articles/why-genshin-impacts-dendro-element-took-so-long-to-arrive",
+          "publishedOn": "2022-09-29T22:51:20.000Z",
+          "wordCount": 10080,
+          "title": "Why Genshin Impact's Dendro Element Took So Long to Arrive",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/08/29/genshinimpactcolleicollectivemiscellanyoverviewtrailer-ign-blogroll-1661780537075.jpg?width=1280"
+        },
+        {
+          "id": "0b44afe4-b8cf-4241-9f36-b22fd3b23fb8",
+          "author": "Adam Bankhurst",
+          "description": "From LEGO Island to LEGO Star Wars: The Skywalker Saga, here are our picks for the best LEGO games.",
+          "link": "https://www.ign.com/articles/best-lego-games",
+          "publishedOn": "2022-09-29T22:22:36.000Z",
+          "wordCount": 15532,
+          "title": "The 10 Best LEGO Games of All Time",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/29/blog-1664478524134.jpg?width=1280"
+        },
+        {
+          "id": "3006a25a-336f-48a8-818d-6816ca294665",
+          "author": "Logan Plant",
+          "description": "",
+          "link": "https://www.ign.com/articles/ori-and-the-blind-forest-statues-available-for-preorder-now-at-the-ign-store",
+          "publishedOn": "2022-09-29T22:18:17.000Z",
+          "wordCount": 8216,
+          "title": "Ori and the Blind Forest Statues Available for Preorder Now at the IGN Store",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/29/screenshot-2022-09-29-143316-1664487251683.jpg?width=1280"
+        },
+        {
           "id": "9956acc7-2d7e-4863-b930-67ce93323e55",
           "author": "George Yang",
           "description": "Leaked audio clips of the Joker suggest that the version from Batman: The Animated Series might be coming to MultiVersus.",
@@ -18201,6 +18331,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/putin-recognises-independence-for-two-more-ukraine-regions/article65952653.ece",
+          "author": "AP",
+          "description": "Russian President Vladimir Putin issued decrees early Friday recognising the independence of the Kherson and Zaporizhzhia regions",
+          "link": "https://www.thehindu.com/news/international/putin-recognises-independence-for-two-more-ukraine-regions/article65952653.ece",
+          "publishedOn": "2022-09-29T23:17:58.000Z",
+          "wordCount": 5992,
+          "title": "Putin recognises independence for two more Ukraine regions",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/veo4cp/article65952654.ece/alternates/LANDSCAPE_615/2022-09-29T230834Z_2034855832_RC23RW9AMXE4_RTRMADP_3_UKRAINE-CRISIS-REFERENDUMS-PUTIN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/five-found-dead-after-shooting-in-central-texas-neighbourhood/article65952511.ece",
           "author": "AP",
           "description": "No motives, relationships and other details were immediately determined.",
@@ -19397,6 +19537,76 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sports-in-india-suffered-due-to-upa-graft-favouritism-pm-modi/articleshow/94545680.cms",
+          "author": null,
+          "description": "Prime Minister Narendra Modi began his two-day visit to poll-bound Gujarat on Thursday, strongly harping on the development plank and taking jabs at the Congress-led UPA regime over corruption and favouritism that \"sullied\" the country's sports culture.",
+          "link": "https://timesofindia.indiatimes.com/india/sports-in-india-suffered-due-to-upa-graft-favouritism-pm-modi/articleshow/94545680.cms",
+          "publishedOn": "2022-09-30T01:02:04.000Z",
+          "wordCount": 5807,
+          "title": "Sports in India suffered due to UPA graft, favouritism: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545712,width-1070,height-580,imgsize-45682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
+          "author": null,
+          "description": "In a setback to the AAP government in Punjab, the Punjab and Haryana high court on Thursday restrained the state from creating any \"third party interest\" with regard to distribution of wheat flour (atta) to the beneficiaries at their homes.",
+          "link": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
+          "publishedOn": "2022-09-30T00:42:50.000Z",
+          "wordCount": 5302,
+          "title": "HC stays Punjab plan for ration home delivery",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545549,width-1070,height-580,imgsize-553397,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-to-jk-twin-blasts-rock-udhampur/articleshow/94545499.cms",
+          "author": null,
+          "description": "Two explosions rocked Udhampur town within a span of eight hours since Wednesday night ahead of the three-day visit of Union home minister Amit Shah to J&K in the first week of October. Both blasts occurred in parked buses and two people were injured in the first explosion.",
+          "link": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-to-jk-twin-blasts-rock-udhampur/articleshow/94545499.cms",
+          "publishedOn": "2022-09-30T00:38:04.000Z",
+          "wordCount": 5718,
+          "title": "Ahead of Amit Shah's visit to J&K, twin blasts rock Udhampur",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545527,width-1070,height-580,imgsize-56364,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cbi-arrests-175-in-raids-across-eight-states-in-drugs-crackdown/articleshow/94545465.cms",
+          "author": null,
+          "description": "The CBI has arrested 175 people and seized huge quantity of synthetic and traditional drugs after conducting pan-India raids in eight states.",
+          "link": "https://timesofindia.indiatimes.com/india/cbi-arrests-175-in-raids-across-eight-states-in-drugs-crackdown/articleshow/94545465.cms",
+          "publishedOn": "2022-09-30T00:31:35.000Z",
+          "wordCount": 6081,
+          "title": "CBI arrests 175 in raids across eight states in drugs crackdown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545472,width-1070,height-580,imgsize-77780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/odisha-congress-mla-mohammed-moquim-ex-ias-babu-vinod-kumar-get-three-years-rigorous-imprisonment-for-scam/articleshow/94545152.cms",
+          "author": null,
+          "description": "A special vigilance judge on Thursday sentenced Barabati-Cuttack Congress MLA Mohammed Moquim, former IAS officer Vinod Kumar and two others to three years' rigorous imprisonment in connection with a loan scam.",
+          "link": "https://timesofindia.indiatimes.com/india/odisha-congress-mla-mohammed-moquim-ex-ias-babu-vinod-kumar-get-three-years-rigorous-imprisonment-for-scam/articleshow/94545152.cms",
+          "publishedOn": "2022-09-29T23:34:53.000Z",
+          "wordCount": 5520,
+          "title": "Odisha Congress MLA Mohammed Moquim, ex-IAS babu Vinod Kumar get three years' rigorous imprisonment for scam",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/six-airbag-deadline-pushed-back-to-october-next-year/articleshow/94545111.cms",
+          "author": null,
+          "description": "Barely two days before the proposed timeline for implementation of mandatory six airbags in all cars, Union road transport minister Nitin Gadkari on Thursday said the new norm will be effective from October 2023, considering \"global supply chain constraints\" and feedback from the industry.",
+          "link": "https://timesofindia.indiatimes.com/india/six-airbag-deadline-pushed-back-to-october-next-year/articleshow/94545111.cms",
+          "publishedOn": "2022-09-29T23:24:11.000Z",
+          "wordCount": 6014,
+          "title": "Six-airbag deadline pushed back to October next year",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545132,width-1070,height-580,imgsize-20964,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-upgrades-ambani-security-to-z-plus-after-threat-review/articleshow/94545099.cms",
+          "author": null,
+          "description": "The Union home ministry has upgraded the security cover of industrialist Mukesh Ambani to the highest category of 'Z-plus' from 'Z', based on the review of his threat perception by central intelligence agencies. About 40 CRPF commandos will work in shifts to guard him, reports said.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-upgrades-ambani-security-to-z-plus-after-threat-review/articleshow/94545099.cms",
+          "publishedOn": "2022-09-29T23:19:31.000Z",
+          "wordCount": 5628,
+          "title": "Govt upgrades Ambani security to 'Z-plus' after threat review",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545102,width-1070,height-580,imgsize-27112,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
           "author": null,
@@ -22595,6 +22805,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-targets-celebs-media-for-unrest-over-hijab-death/articleshow/94545317.cms",
+          "author": null,
+          "description": "Iran stepped up pressure on celebrities and journalists on Thursday over the wave of women-led protests sparked by outrage over the death of Mahsa Amini after she was arrested by the Islamic republic's morality police.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-targets-celebs-media-for-unrest-over-hijab-death/articleshow/94545317.cms",
+          "publishedOn": "2022-09-30T00:06:29.000Z",
+          "wordCount": 7076,
+          "title": "Iran targets celebs, media for unrest over hijab death",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545332,width-1070,height-580,imgsize-20660,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-devastates-florida/articleshow/94545265.cms",
+          "author": null,
+          "description": "Emergency crews took to helicopters and boats on Thursday to rescue residents of Florida's Gulf Coast stranded by floodwaters, downed power lines and piles of debris left behind by hurricane Ian's destructive march across the state.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-devastates-florida/articleshow/94545265.cms",
+          "publishedOn": "2022-09-29T23:59:49.000Z",
+          "wordCount": 7141,
+          "title": "Hurricane Ian devastates Florida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545271,width-1070,height-580,imgsize-178432,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/us/us-south-carolina-bound-ian-could-become-hurricane-again-says-nhc/articleshow/94540358.cms",
           "author": null,
           "description": "US News: Tropical Storm Ian is expected to become a hurricane again later on Thursday before making US landfall for the second time on Friday, the United State.",
@@ -24148,6 +24378,86 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
+          "author": null,
+          "description": "In a setback to the AAP government in Punjab, the Punjab and Haryana high court on Thursday restrained the state from creating any \"third party interest\" with regard to distribution of wheat flour (atta) to the beneficiaries at their homes.",
+          "link": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
+          "publishedOn": "2022-09-30T00:42:50.000Z",
+          "wordCount": 5302,
+          "title": "HC stays Punjab plan for ration home delivery",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545549,width-1070,height-580,imgsize-553397,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-to-jk-twin-blasts-rock-udhampur/articleshow/94545499.cms",
+          "author": null,
+          "description": "Two explosions rocked Udhampur town within a span of eight hours since Wednesday night ahead of the three-day visit of Union home minister Amit Shah to J&K in the first week of October. Both blasts occurred in parked buses and two people were injured in the first explosion.",
+          "link": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-to-jk-twin-blasts-rock-udhampur/articleshow/94545499.cms",
+          "publishedOn": "2022-09-30T00:38:04.000Z",
+          "wordCount": 5718,
+          "title": "Ahead of Shah's visit, twin blasts rock Udhampur",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545527,width-1070,height-580,imgsize-56364,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cbi-arrests-175-in-raids-across-eight-states-in-drugs-crackdown/articleshow/94545465.cms",
+          "author": null,
+          "description": "The CBI has arrested 175 people and seized huge quantity of synthetic and traditional drugs after conducting pan-India raids in eight states.",
+          "link": "https://timesofindia.indiatimes.com/india/cbi-arrests-175-in-raids-across-eight-states-in-drugs-crackdown/articleshow/94545465.cms",
+          "publishedOn": "2022-09-30T00:31:35.000Z",
+          "wordCount": 6081,
+          "title": "CBI arrests 175 across 8 states in drugs crackdown",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545472,width-1070,height-580,imgsize-77780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-devastates-florida/articleshow/94545265.cms",
+          "author": null,
+          "description": "Emergency crews took to helicopters and boats on Thursday to rescue residents of Florida's Gulf Coast stranded by floodwaters, downed power lines and piles of debris left behind by hurricane Ian's destructive march across the state.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-devastates-florida/articleshow/94545265.cms",
+          "publishedOn": "2022-09-29T23:59:49.000Z",
+          "wordCount": 7141,
+          "title": "Hurricane Ian devastates Florida",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545271,width-1070,height-580,imgsize-178432,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/odisha-congress-mla-mohammed-moquim-ex-ias-babu-vinod-kumar-get-three-years-rigorous-imprisonment-for-scam/articleshow/94545152.cms",
+          "author": null,
+          "description": "A special vigilance judge on Thursday sentenced Barabati-Cuttack Congress MLA Mohammed Moquim, former IAS officer Vinod Kumar and two others to three years' rigorous imprisonment in connection with a loan scam.",
+          "link": "https://timesofindia.indiatimes.com/india/odisha-congress-mla-mohammed-moquim-ex-ias-babu-vinod-kumar-get-three-years-rigorous-imprisonment-for-scam/articleshow/94545152.cms",
+          "publishedOn": "2022-09-29T23:34:53.000Z",
+          "wordCount": 5520,
+          "title": "Odisha Cong MLA, ex-IAS babu get 3 yrs' RI for scam",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/six-airbag-deadline-pushed-back-to-october-next-year/articleshow/94545111.cms",
+          "author": null,
+          "description": "Barely two days before the proposed timeline for implementation of mandatory six airbags in all cars, Union road transport minister Nitin Gadkari on Thursday said the new norm will be effective from October 2023, considering \"global supply chain constraints\" and feedback from the industry.",
+          "link": "https://timesofindia.indiatimes.com/india/six-airbag-deadline-pushed-back-to-october-next-year/articleshow/94545111.cms",
+          "publishedOn": "2022-09-29T23:24:11.000Z",
+          "wordCount": 6014,
+          "title": "6-airbag deadline pushed back to Oct next year",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545132,width-1070,height-580,imgsize-20964,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/govt-upgrades-ambani-security-to-z-plus-after-threat-review/articleshow/94545099.cms",
+          "author": null,
+          "description": "The Union home ministry has upgraded the security cover of industrialist Mukesh Ambani to the highest category of 'Z-plus' from 'Z', based on the review of his threat perception by central intelligence agencies. About 40 CRPF commandos will work in shifts to guard him, reports said.",
+          "link": "https://timesofindia.indiatimes.com/india/govt-upgrades-ambani-security-to-z-plus-after-threat-review/articleshow/94545099.cms",
+          "publishedOn": "2022-09-29T23:19:31.000Z",
+          "wordCount": 5628,
+          "title": "Govt upgrades Ambani security to 'Z-plus'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545102,width-1070,height-580,imgsize-27112,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/centre-raises-rates-on-some-small-saving-plans/articleshow/94544987.cms",
+          "author": null,
+          "description": "​Amid rising inflation and higher fixed deposit rates, the finance ministry on Thursday announced an increase of up to 30 basis points in interest rates on certain small savings products for the next quarter, marking the first increase in nine quarters.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/centre-raises-rates-on-some-small-saving-plans/articleshow/94544987.cms",
+          "publishedOn": "2022-09-29T22:55:54.000Z",
+          "wordCount": 5817,
+          "title": "Centre raises rates on some small saving plans",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544997,width-1070,height-580,imgsize-30748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
           "author": null,
