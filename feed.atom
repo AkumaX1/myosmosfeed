@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T09:19:46.599Z</updated>
+    <updated>2022-09-30T10:12:43.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Food delivery drone lands on power lines resulting in power outage for thousands]]></title>
+        <id>https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing</id>
+        <link href="https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing"/>
+        <updated>2022-09-30T10:09:46.000Z</updated>
+        <summary type="html"><![CDATA[The Wing delivery drone on the power lines.  | Image: Energex via ABC Radio Brisbane
+    
+
+  
+A food delivery drone operated by Alphabet subsidiary Wing landed on overhead power lines in Brisbane, Australia, and caught fire. As a result, the network was shut down by energy firm Energex to respond to the incident, leaving thousands without power.
+Some 2,000 individuals were left without electricity for around 45 minutes, reports ABC News and The Age, while 300 customers had no power for three hours.
+Energex spokesman Danny Donald told The Age that the drone “landed on top of 11,000 volts and whilst it didn’t take out power, there was voltage tracking across the drone and the drone caught fire and fell to the ground.”
+A spokesperson for Wing told the publication that the drone made a “precau…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Medicaid expansion keeps winning]]></title>
+        <id>https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative</id>
+        <link href="https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pro-Medicaid activists rally in New York City in 2017.  | Zach D Roberts/NurPhoto via Getty Images
+    
+
+  
+Medicaid expansion is 6-for-6 with voters on ballot initiatives. South Dakota could make it seven in a row. 
+ Six times since 2017, voters in a state have weighed in directly on whether to expand Medicaid and make more low-income adults eligible for free public health coverage. Six times, the ballot measure has passed. 
+That undefeated streak could extend to seven wins in South Dakota this November.
+On Election Day, voters will decide on a constitutional amendment that would extend Medicaid eligibility under the Affordable Care Act. If it passes, anybody making less than 133 percent of the federal poverty level (about $18,000 for an individual or $36,900 for a family of four) would q…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Labs eyes over $100 million in new funding]]></title>
+        <id>https://techcrunch.com/?p=2412892</id>
+        <link href="https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/"/>
+        <updated>2022-09-30T09:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Labs is in early stages of putting together a new round, according to four sources familiar with the matter, as the parent firm of the popular eponymous decentralized protocol gears up to broaden its offerings. The startup is engaging with a number of investors including Polychain and one of Singapore’s sovereign funds to raise […]
+Uniswap Labs eyes over $100 million in new funding by Manish Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bombay Times Fashion Week 2022 - Day 1: SOEZI]]></title>
+        <id>https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms</id>
+        <link href="https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms"/>
+        <updated>2022-09-30T09:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Sonakshi Sinha opened the Bombay Times Fashion Week 2022. Our favourite 'it girl' nailed the ramp with her own show, along with Shrishti Raai, showcasing SOEZI's 'SHOW OFF' on Day 1 of the BTFW held at St. Regis Mumbai on September 30, 2022. SOEZI by Sonakshi Sinha and Shrishti Raai is a press-on-nails brand founded with the vision to take glamour to every doorstep and make it an effortless process. (Photo: Gaurav Kolge)]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suicide bomber blows himself up minutes before Friday prayers in Pakistan]]></title>
+        <id>https://timesofindia.indiatimes.com/world/pakistan/suicide-bomber-blows-himself-up-minutes-before-friday-prayers-in-pakistan/articleshow/94558079.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/pakistan/suicide-bomber-blows-himself-up-minutes-before-friday-prayers-in-pakistan/articleshow/94558079.cms"/>
+        <updated>2022-09-30T09:48:19.000Z</updated>
+        <summary type="html"><![CDATA[A suicide bomber on Friday blew himself up in an open field situated close to a mosque, minutes before the jumma prayers in Pakistan's restive Khyber Pakhtunkhwa province, police said. The attacker detonated a hand grenade before exploding his suicide vest, which killed him on the spot, district police officer Irfanullah said. However, no one else was hurt or injured in the blast.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eurozone Inflation Sets Another Record, Hitting 10 Percent in September]]></title>
+        <id>https://www.nytimes.com/2022/09/30/business/eurozone-inflation.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/business/eurozone-inflation.html"/>
+        <updated>2022-09-30T09:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Jumps in energy and food prices again pushed inflation in the 19 countries that use the euro to the highest annual rate recorded since the currency was created.]]></summary>
+        <author>
+            <name>Patricia Cohen and Melissa Eddy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Bassist in New Character PV for BOCCHI THE ROCK! TV Anime]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/30-1/meet-the-bassist-in-new-character-pv-for-bocchi-the-rock-tv-anime</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/30-1/meet-the-bassist-in-new-character-pv-for-bocchi-the-rock-tv-anime"/>
+        <updated>2022-09-30T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Crunchyroll will be simulcasting the series from October 8
+
+
+Upcoming music anime BOCCHI THE ROCK! pulled some strings to release a second character highlight trailer today, previewing bassist Ryo Yamada and her voice actress Saku Mizuno. Hit the jump to watch!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ice Guy and His Cool Female Colleague TV Anime Premieres in January 2023]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190374</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/the-ice-guy-and-his-cool-female-colleague-tv-anime-premieres-in-january-2023/.190374"/>
+        <updated>2022-09-30T09:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Takao Sakuma performs opening theme song]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mallikarjun Kharge: 10 things to know about the possible next Congress president]]></title>
+        <id>https://timesofindia.indiatimes.com/india/mallikarjun-kharge-10-things-to-know-about-the-possible-next-congress-president/articleshow/94556321.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/mallikarjun-kharge-10-things-to-know-about-the-possible-next-congress-president/articleshow/94556321.cms"/>
+        <updated>2022-09-30T09:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Senior Congress leader Mallikarjun Kharge on Friday filed his nomination for the post of party president. His candidature was proposed by party leaders Ashok Gehlot and Digvijaya Singh (both of whom have pulled out of the race) as well as Pramod Tiwari, PL Punia, AK Antony, Pawan Kumar Bansal and Mukul Wasnik.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakhi Sawant, Dolly Bindra: Most dramatic contestants on Bigg Boss]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/from-rakhi-sawant-to-dolly-bindra-heres-a-look-at-the-most-dramatic-contestants-on-bigg-boss-so-far/photostory/94556315.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/from-rakhi-sawant-to-dolly-bindra-heres-a-look-at-the-most-dramatic-contestants-on-bigg-boss-so-far/photostory/94556315.cms"/>
+        <updated>2022-09-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From Rakhi Sawant to Dolly Bindra, here's a look at the most dramatic contestants on Bigg Boss so far]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Arctic Monkeys Showcase New Single ‘Body Paint’ on ‘Fallon’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602753</id>
+        <link href="https://www.rollingstone.com/music/music-news/arctic-monkeys-body-paint-fallon-1234602753/"/>
+        <updated>2022-09-30T09:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Track is the second single off the British rock band's next album, The Car]]></summary>
+        <author>
+            <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sword Art Online -Progressive- Scherzo of Deep Night Anime Film Goes to the Next Level in Main Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/30/sword-art-online-progressive-scherzo-of-deep-night-anime-film-goes-to-the-next-level-in-main-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/30/sword-art-online-progressive-scherzo-of-deep-night-anime-film-goes-to-the-next-level-in-main-trailer"/>
+        <updated>2022-09-30T09:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Pre-sequel hits Japanese theaters on October 22
+
+
+A whole new virtual adventure awaits in the latest Sword Art Online -Progressive- anime film, subtitled "Scherzo of Deep Night", filled with bigger threats and a bigger ensemble that are on full display in the main trailer that was just released. Hit the jump to watch!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Edit: It Kharge vs Tharoor after Gehlot, Digvijaya opt out]]></title>
+        <id>https://timesofindia.indiatimes.com/blogs/toi-editorials/it-is-going-to-be-kharge-vs-tharoor-after-gehlot-digvijaya-drop-out/</id>
+        <link href="https://timesofindia.indiatimes.com/blogs/toi-editorials/it-is-going-to-be-kharge-vs-tharoor-after-gehlot-digvijaya-drop-out/"/>
+        <updated>2022-09-30T09:25:27.000Z</updated>
+        <summary type="html"><![CDATA[In a rare sight in India, a political party is all set for elections to decide who will head it. Despite barbs that the Gandhi family will still run the show, the conduct of elections...]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiger & Bunny 2 Anime's New Trailer Previews Taichi Mukai's Ending Theme]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190373</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/tiger-and-bunny-2-anime-new-trailer-previews-taichi-mukai-ending-theme/.190373"/>
+        <updated>2022-09-30T09:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Netflix streams episodes 14-25 on October 7 worldwide]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress should stand for change, not surprised establishment backing Kharge: Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-should-stand-for-change-not-surprised-establishment-backing-kharge-tharoor/articleshow/94557174.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-should-stand-for-change-not-surprised-establishment-backing-kharge-tharoor/articleshow/94557174.cms"/>
+        <updated>2022-09-30T09:19:41.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Congress MP Shashi Tharoor on Friday asserted that he has a vision to strengthen the party which should be a vehicle for "change" as he fil.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People will prefer Vande Bharat train over flights, says PM Modi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/people-will-prefer-vande-bharat-train-over-flights-says-pm-modi/articleshow/94556963.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/people-will-prefer-vande-bharat-train-over-flights-says-pm-modi/articleshow/94556963.cms"/>
+        <updated>2022-09-30T09:17:27.000Z</updated>
+        <summary type="html"><![CDATA[India News: AHMEDABAD: Prime Minister Narendra Modi on Friday flagged off the updated version of the Vande Bharat Express train from Gandhinagar-Mumbai and took a.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2nd Sword Art Online Progressive Film's Full Trailer Streamed]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190372</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/2nd-sword-art-online-progressive-film-full-trailer-streamed/.190372"/>
+        <updated>2022-09-30T09:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Film opens on October 22 after COVID-19 delay]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.]]></title>
+        <id>https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes</id>
+        <link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes"/>
+        <updated>2022-09-30T09:16:45.000Z</updated>
+        <author>
+            <name>Dan Bilefsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Made in India Luxury EV launched at Rs 1.55 cr]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/electric-cars/mercedes-benz-eqs-580-4matic-luxury-ev-launched-at-rs-1-55-crore-specs-range/articleshow/94551837.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/electric-cars/mercedes-benz-eqs-580-4matic-luxury-ev-launched-at-rs-1-55-crore-specs-range/articleshow/94551837.cms"/>
+        <updated>2022-09-30T09:15:13.000Z</updated>
+        <summary type="html"><![CDATA[The new Mercedes-Benz EQS 580 is powered by a 107.8 kWh lithium-ion battery and has a four-motor setup. The car claims a range of 750 km which also makes it the longest range EV in the country. The EV boasts 523 hp and 856 Nm of torque and claims a 0-100 km/h 4.1 seconds.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quavo, Takeoff Reflect on Their Past on Single ‘Nothing Changed’]]></title>
         <id>https://www.rollingstone.com/?p=1234602746</id>
@@ -14,6 +224,49 @@
         <summary type="html"><![CDATA[Song will appear on the duo's forthcoming LP, Only Built For Infinity Links]]></summary>
         <author>
             <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Thai PM Prayuth respects court verdict on his tenure']]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/thai-pm-prayuth-respects-court-verdict-on-his-tenure-spokesperson/articleshow/94556845.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/thai-pm-prayuth-respects-court-verdict-on-his-tenure-spokesperson/articleshow/94556845.cms"/>
+        <updated>2022-09-30T09:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: BANGKOK: Thai Prime Minister Prayuth Chan-ocha respects Friday's decision by the Constitutional Court and thanks those who provided encouragement, a g.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teenage Life is Tough in RuriDragon Manga Voice Comics]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/30-1/teenage-life-is-tough-in-ruridragon-manga-voice-comics</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/30-1/teenage-life-is-tough-in-ruridragon-manga-voice-comics"/>
+        <updated>2022-09-30T09:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Voice actors Chiaki Omigawa and Kaori Nazuka lend their talents to adaptation based on comic by Masaoki Shindo
+
+
+Adolescence can bring about some tough changes in the teenaged body such as horns and the ability to breath fire, or at least that's the conceit in a pair of voice comics adapting RuriDragon, a fantasy manga by Masaoki Shindo about an ordinary high school girl who is chagrined to discover that she's half human and half dragon. Hit the jump to check them out.]]></summary>
+        <author>
+            <name>Paul Chapman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Year Under the Taliban]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html"/>
+        <updated>2022-09-30T09:00:34.000Z</updated>
+        <summary type="html"><![CDATA[A single year of extremist rule has turned life upside down for Afghans, especially women. A photographer who has long called the country home captured the jarring changes.]]></summary>
+        <author>
+            <name>Kiana Hayeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html"/>
+        <updated>2022-09-30T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Mass protests, once a grave threat to even the fiercest autocrat, have plummeted in effectiveness, a study shows. Factors appear to include polarization, social media and rising nationalist attitudes.]]></summary>
+        <author>
+            <name>Max Fisher</name>
         </author>
     </entry>
     <entry>
@@ -57,6 +310,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Early Cormac McCarthy Interviews Rediscovered]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html"/>
+        <updated>2022-09-30T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.]]></summary>
+        <author>
+            <name>Elizabeth A. Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Living With Grandparents: Cross-Generational Homes Bring Families Together]]></title>
+        <id>https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html"/>
+        <updated>2022-09-30T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[More young adults are moving in with their grandparents, in a trend known as “skipped-generation” households.]]></summary>
+        <author>
+            <name>Joanne Kaufman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Supreme Court Is Broken. Where’s Biden?]]></title>
+        <id>https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html"/>
+        <updated>2022-09-30T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Why is the president sitting this out?]]></summary>
+        <author>
+            <name>Jeff Shesol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Europa Pictures Beamed Home by NASA’s Juno Spacecraft]]></title>
+        <id>https://www.nytimes.com/2022/09/30/science/europa-nasa-juno-photos.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/science/europa-nasa-juno-photos.html"/>
+        <updated>2022-09-30T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[The space probe has been studying Jupiter since 2016 and just flew within about 200 miles of the surface of the ice-covered ocean moon.]]></summary>
+        <author>
+            <name>Kenneth Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Bolsonaro Loses Brazil’s Election, Will He Respect the Result?]]></title>
+        <id>https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html"/>
+        <updated>2022-09-30T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of Sunday’s election, anxiety is enveloping the country.]]></summary>
+        <author>
+            <name>Vanessa Barbara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonds May Be Having Their Worst Year Yet]]></title>
+        <id>https://www.nytimes.com/2022/09/30/business/bonds-market.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/business/bonds-market.html"/>
+        <updated>2022-09-30T09:00:13.000Z</updated>
+        <summary type="html"><![CDATA[This has been the most devastating time for bonds since at least 1926, and maybe in centuries. But, our columnist writes, much of the damage is already behind us.]]></summary>
+        <author>
+            <name>Jeff Sommer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood]]></title>
         <id>https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html</id>
         <link href="https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html"/>
@@ -64,6 +377,36 @@
         <summary type="html"><![CDATA[AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?]]></summary>
         <author>
             <name>Erik Piepenburg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood]]></title>
+        <id>https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html"/>
+        <updated>2022-09-30T09:00:13.000Z</updated>
+        <summary type="html"><![CDATA[AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?]]></summary>
+        <author>
+            <name>Erik Piepenburg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why China’s Crimes in Xinjiang Cannot Go Unpunished]]></title>
+        <id>https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html"/>
+        <updated>2022-09-30T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[China is dragging the world back to a human rights dark age. It’s time to push back.]]></summary>
+        <author>
+            <name>Nicholas Bequelin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Founder on What Crypto Can — and Can’t — Do]]></title>
+        <id>https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html"/>
+        <updated>2022-09-30T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin explains digital currency’s potential to transform our world.]]></summary>
+        <author>
+            <name>‘The Ezra Klein Show’</name>
         </author>
     </entry>
     <entry>
@@ -1209,6 +1552,16 @@ SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shinde approached Cong, NCP in 2017: Ashok Chavan]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mumbai/shinde-approached-congress-ncp-in-17-chavan/articleshow/94545815.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mumbai/shinde-approached-congress-ncp-in-17-chavan/articleshow/94545815.cms"/>
+        <updated>2022-09-30T01:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Former Maarashtra chief minister and senior Congressman Ashok Chavan on Tuesday claimed that a delegation led by Shiv Sena leader and then cabinet minister Eknath Shinde had approached him with a proposal to form a government comprising Shiv Sena, Congress and NCP while the BJP-Sena coalition led by Devendra Fadnavis was in government.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Headmaster suspended over Prophet essay]]></title>
         <id>https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms"/>
@@ -1751,6 +2104,16 @@ When Google first showed Stadia at GDC 2019, it discussed sky-high aspirations t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[F.D.A. Moves to Change ‘Healthy’ Food Definition]]></title>
+        <id>https://www.nytimes.com/2022/09/29/well/fda-healthy-food.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/well/fda-healthy-food.html"/>
+        <updated>2022-09-29T22:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Salmon is in; sugary yogurt is out.]]></summary>
+        <author>
+            <name>Dani Blum</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Thursday Evening Briefing]]></title>
         <id>https://www.nytimes.com/2022/09/29/briefing/florida-flooding-hurricane-ian-russia-annex.html</id>
         <link href="https://www.nytimes.com/2022/09/29/briefing/florida-flooding-hurricane-ian-russia-annex.html"/>
@@ -2270,6 +2633,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shakira Is Accused of Tax Evasion in Spain. Here’s What We Know.]]></title>
+        <id>https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html"/>
+        <updated>2022-09-29T20:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutors have charged the Colombian singer and pop star with six counts of tax fraud for failing to pay 14.5 million euros in income taxes. She could face a steep fine and a prison sentence.]]></summary>
+        <author>
+            <name>Remy Tumin and José Bautista</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FBI Arrests Former NSA Employee For Trying to Sell Top Secret Documents]]></title>
         <id>4axq7b</id>
         <link href="https://www.vice.com/en_us/article/4axq7b/fbi-arrests-former-nsa-employee-for-trying-to-sell-top-secret-documents"/>
@@ -2297,6 +2670,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[As the race was thrown open, Congress was finalising a replacement candidate for Gehlot, with Mallikarjun Kharge, a senior Dalit leader, as the lead contender.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confused by the New Mortgage Gimmicks? Here’s a Guide.]]></title>
+        <id>https://www.nytimes.com/2022/09/29/your-money/mortgage-guide-home-buying.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/your-money/mortgage-guide-home-buying.html"/>
+        <updated>2022-09-29T20:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage lenders are offering incentives to borrowers, hoping to lure them even as rates soar. It’s up to consumers to sort it all out.]]></summary>
+        <author>
+            <name>Tara Siegel Bernard</name>
         </author>
     </entry>
     <entry>
@@ -7872,6 +8255,16 @@ Those efforts have culminated in the release of the Combating Financial Conflict
         <summary type="html"><![CDATA[T​he Cabinet on Wednesday approved Rs 10,000 crore for redevelopment of three major railway stations - New Delhi, Ahmedabad and Mumbai's Chhatrapati Shivaji Terminus - by awarding contracts based on government funding, abandoning the earlier plan to modernise through the public private partnership route.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Plante, CBS News’s Man at the White House, Dies at 84]]></title>
+        <id>https://www.nytimes.com/2022/09/28/business/media/bill-plante-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/28/business/media/bill-plante-dead.html"/>
+        <updated>2022-09-28T22:37:50.000Z</updated>
+        <summary type="html"><![CDATA[He covered four presidencies in a 52-year career and never worried about “offending those in power in pursuit of answers,” one former White House press secretary said.]]></summary>
+        <author>
+            <name>Richard Sandomir</name>
         </author>
     </entry>
     <entry>

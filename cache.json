@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing",
+          "author": null,
+          "description": "The Wing delivery drone on the power lines.  | Image: Energex via ABC Radio Brisbane\n    \n\n  \nA food delivery drone operated by Alphabet subsidiary Wing landed on overhead power lines in Brisbane, Australia, and caught fire. As a result, the network was shut down by energy firm Energex to respond to the incident, leaving thousands without power.\nSome 2,000 individuals were left without electricity for around 45 minutes, reports ABC News and The Age, while 300 customers had no power for three hours.\nEnergex spokesman Danny Donald told The Age that the drone “landed on top of 11,000 volts and whilst it didn’t take out power, there was voltage tracking across the drone and the drone caught fire and fell to the ground.”\nA spokesperson for Wing told the publication that the drone made a “precau…",
+          "link": "https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing",
+          "publishedOn": "2022-09-30T10:09:46.000Z",
+          "wordCount": 7506,
+          "title": "Food delivery drone lands on power lines resulting in power outage for thousands",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/NL1hirOyIuEIcL-3LWtcYLENCEo=/0x0:1694x944/1200x628/filters:focal(847x472:848x473)/cdn.vox-cdn.com/uploads/chorus_asset/file/24067443/Screenshot_2022_09_30_at_10.39.27.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack",
           "author": null,
           "description": "The chargers were designed to stack to offer up to 1600W of charging power. | Image: Hyper\n    \n\n  \nHyper is officially recalling its stackable 100W and 65W GaN chargers and a 130W battery pack, following reports that all three devices can overheat and may pose a fire hazard to consumers. Recall notices for the HyperJuice Stackable GaN USB-C chargers and HyperJuice 130W USB-C battery pack have been posted on the United States Consumer Product Safety Commission (US CPSC) website, and the company is emailing its customers directly to ask them to return the devices in exchange for store credit.\nAccording to the CPSC, Hyper has received seven reports of its stackable GaN chargers overheating “resulting in damage to the changing units,” plus two reports of the battery pack overheating and causi…",
@@ -1839,6 +1849,136 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/business/eurozone-inflation.html",
+          "author": "Patricia Cohen and Melissa Eddy",
+          "description": "Jumps in energy and food prices again pushed inflation in the 19 countries that use the euro to the highest annual rate recorded since the currency was created.",
+          "link": "https://www.nytimes.com/2022/09/30/business/eurozone-inflation.html",
+          "publishedOn": "2022-09-30T09:43:49.000Z",
+          "wordCount": null,
+          "title": "Eurozone Inflation Sets Another Record, Hitting 10 Percent in September",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes",
+          "author": "Dan Bilefsky",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes",
+          "publishedOn": "2022-09-30T09:16:45.000Z",
+          "wordCount": null,
+          "title": "Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html",
+          "author": "Kiana Hayeri",
+          "description": "A single year of extremist rule has turned life upside down for Afghans, especially women. A photographer who has long called the country home captured the jarring changes.",
+          "link": "https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html",
+          "publishedOn": "2022-09-30T09:00:34.000Z",
+          "wordCount": null,
+          "title": "A Year Under the Taliban",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html",
+          "author": "Max Fisher",
+          "description": "Mass protests, once a grave threat to even the fiercest autocrat, have plummeted in effectiveness, a study shows. Factors appear to include polarization, social media and rising nationalist attitudes.",
+          "link": "https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html",
+          "publishedOn": "2022-09-30T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "author": "Elizabeth A. Harris",
+          "description": "The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.",
+          "link": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "publishedOn": "2022-09-30T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Early Cormac McCarthy Interviews Rediscovered",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html",
+          "author": "Joanne Kaufman",
+          "description": "More young adults are moving in with their grandparents, in a trend known as “skipped-generation” households.",
+          "link": "https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html",
+          "publishedOn": "2022-09-30T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Living With Grandparents: Cross-Generational Homes Bring Families Together",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html",
+          "author": "Jeff Shesol",
+          "description": "Why is the president sitting this out?",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html",
+          "publishedOn": "2022-09-30T09:00:15.000Z",
+          "wordCount": null,
+          "title": "The Supreme Court Is Broken. Where’s Biden?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/science/europa-nasa-juno-photos.html",
+          "author": "Kenneth Chang",
+          "description": "The space probe has been studying Jupiter since 2016 and just flew within about 200 miles of the surface of the ice-covered ocean moon.",
+          "link": "https://www.nytimes.com/2022/09/30/science/europa-nasa-juno-photos.html",
+          "publishedOn": "2022-09-30T09:00:15.000Z",
+          "wordCount": null,
+          "title": "New Europa Pictures Beamed Home by NASA’s Juno Spacecraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html",
+          "author": "Vanessa Barbara",
+          "description": "Ahead of Sunday’s election, anxiety is enveloping the country.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html",
+          "publishedOn": "2022-09-30T09:00:14.000Z",
+          "wordCount": null,
+          "title": "If Bolsonaro Loses Brazil’s Election, Will He Respect the Result?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/business/bonds-market.html",
+          "author": "Jeff Sommer",
+          "description": "This has been the most devastating time for bonds since at least 1926, and maybe in centuries. But, our columnist writes, much of the damage is already behind us.",
+          "link": "https://www.nytimes.com/2022/09/30/business/bonds-market.html",
+          "publishedOn": "2022-09-30T09:00:13.000Z",
+          "wordCount": null,
+          "title": "Bonds May Be Having Their Worst Year Yet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html",
+          "author": "Erik Piepenburg",
+          "description": "AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?",
+          "link": "https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html",
+          "publishedOn": "2022-09-30T09:00:13.000Z",
+          "wordCount": null,
+          "title": "‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html",
+          "author": "Nicholas Bequelin",
+          "description": "China is dragging the world back to a human rights dark age. It’s time to push back.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html",
+          "publishedOn": "2022-09-30T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Why China’s Crimes in Xinjiang Cannot Go Unpunished",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
+          "author": "‘The Ezra Klein Show’",
+          "description": "Vitalik Buterin explains digital currency’s potential to transform our world.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
+          "publishedOn": "2022-09-30T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Ethereum’s Founder on What Crypto Can — and Can’t — Do",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
           "author": "Eduardo Medina",
           "description": "During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.",
@@ -1929,6 +2069,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/29/well/fda-healthy-food.html",
+          "author": "Dani Blum",
+          "description": "Salmon is in; sugary yogurt is out.",
+          "link": "https://www.nytimes.com/2022/09/29/well/fda-healthy-food.html",
+          "publishedOn": "2022-09-29T22:15:15.000Z",
+          "wordCount": null,
+          "title": "F.D.A. Moves to Change ‘Healthy’ Food Definition",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/briefing/florida-flooding-hurricane-ian-russia-annex.html",
           "author": "Matthew Cullen",
           "description": "Here’s what you need to know at the end of the day.",
@@ -2016,6 +2166,26 @@
           "publishedOn": "2022-09-29T20:28:41.000Z",
           "wordCount": null,
           "title": "Meta Will Freeze Most Hiring, Zuckerberg Tells Employees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html",
+          "author": "Remy Tumin and José Bautista",
+          "description": "Prosecutors have charged the Colombian singer and pop star with six counts of tax fraud for failing to pay 14.5 million euros in income taxes. She could face a steep fine and a prison sentence.",
+          "link": "https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html",
+          "publishedOn": "2022-09-29T20:16:46.000Z",
+          "wordCount": null,
+          "title": "Shakira Is Accused of Tax Evasion in Spain. Here’s What We Know.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/your-money/mortgage-guide-home-buying.html",
+          "author": "Tara Siegel Bernard",
+          "description": "Mortgage lenders are offering incentives to borrowers, hoping to lure them even as rates soar. It’s up to consumers to sort it all out.",
+          "link": "https://www.nytimes.com/2022/09/29/your-money/mortgage-guide-home-buying.html",
+          "publishedOn": "2022-09-29T20:04:43.000Z",
+          "wordCount": null,
+          "title": "Confused by the New Mortgage Gimmicks? Here’s a Guide.",
           "imageUrl": null
         },
         {
@@ -2596,6 +2766,16 @@
           "publishedOn": "2022-09-28T22:58:08.000Z",
           "wordCount": null,
           "title": "Residents arrive at shelters, not knowing whether they will have homes to return to.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/business/media/bill-plante-dead.html",
+          "author": "Richard Sandomir",
+          "description": "He covered four presidencies in a 52-year career and never worried about “offending those in power in pursuit of answers,” one former White House press secretary said.",
+          "link": "https://www.nytimes.com/2022/09/28/business/media/bill-plante-dead.html",
+          "publishedOn": "2022-09-28T22:37:50.000Z",
+          "wordCount": null,
+          "title": "Bill Plante, CBS News’s Man at the White House, Dies at 84",
           "imageUrl": null
         },
         {
@@ -6757,6 +6937,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602753",
+          "author": "Emily Zemler",
+          "description": "Track is the second single off the British rock band's next album, The Car",
+          "link": "https://www.rollingstone.com/music/music-news/arctic-monkeys-body-paint-fallon-1234602753/",
+          "publishedOn": "2022-09-30T09:26:51.000Z",
+          "wordCount": 7068,
+          "title": "Watch Arctic Monkeys Showcase New Single ‘Body Paint’ on ‘Fallon’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/NUP_199291_01647.jpg?w=1000"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234602746",
           "author": "Emily Zemler",
           "description": "Song will appear on the duo's forthcoming LP, Only Built For Infinity Links",
@@ -8090,6 +8280,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412892",
+          "author": "Manish Singh",
+          "description": "Uniswap Labs is in early stages of putting together a new round, according to four sources familiar with the matter, as the parent firm of the popular eponymous decentralized protocol gears up to broaden its offerings. The startup is engaging with a number of investors including Polychain and one of Singapore’s sovereign funds to raise […]\nUniswap Labs eyes over $100 million in new funding by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/",
+          "publishedOn": "2022-09-30T09:53:51.000Z",
+          "wordCount": 6030,
+          "title": "Uniswap Labs eyes over $100 million in new funding",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/twitter-card.jpeg"
+        },
         {
           "id": "https://techcrunch.com/?p=2414079",
           "author": "Manish Singh",
@@ -12585,6 +12785,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative",
+          "author": null,
+          "description": "Pro-Medicaid activists rally in New York City in 2017.  | Zach D Roberts/NurPhoto via Getty Images\n    \n\n  \nMedicaid expansion is 6-for-6 with voters on ballot initiatives. South Dakota could make it seven in a row. \n Six times since 2017, voters in a state have weighed in directly on whether to expand Medicaid and make more low-income adults eligible for free public health coverage. Six times, the ballot measure has passed. \nThat undefeated streak could extend to seven wins in South Dakota this November.\nOn Election Day, voters will decide on a constitutional amendment that would extend Medicaid eligibility under the Affordable Care Act. If it passes, anybody making less than 133 percent of the federal poverty level (about $18,000 for an individual or $36,900 for a family of four) would q…",
+          "link": "https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative",
+          "publishedOn": "2022-09-30T10:00:00.000Z",
+          "wordCount": 3387,
+          "title": "How Medicaid expansion keeps winning",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/M3JhI2OPk6xPR_71aurR-8A_HeA=/0x343:3870x2369/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065397/GettyImages_809509674.jpg"
+        },
+        {
           "id": "https://www.vox.com/down-to-earth/23046997/hurricane-ian-coral-reefs-climate-change-hurricanes",
           "author": null,
           "description": "The nonprofit Coral Restoration Foundation runs the ocean’s largest coral nursery, where scientists raise coral to restore reefs. | Jennifer Adler\n    \n\n\n  \nCoral reefs can protect coastal cities from deadly floods, if only we keep them alive.\n Hurricane Ian was not just a powerful storm, but a preview of what’s to come. Climate change is helping cyclones intensify faster, produce greater storm surges, and dump more rain — all of which makes hurricanes more destructive and expensive. One early assessment for Ian indicates it cost as much as $40 billion in property damage. \nEngineers have long defended against the threat of hurricanes by building structures like levees and seawalls. Yet these tools are imperfect. They can damage the environment, they don’t always hold the water back, and th…",
@@ -15997,6 +16207,36 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190374",
+          "author": null,
+          "description": "Takao Sakuma performs opening theme song",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/the-ice-guy-and-his-cool-female-colleague-tv-anime-premieres-in-january-2023/.190374",
+          "publishedOn": "2022-09-30T09:40:51.000Z",
+          "wordCount": 3257,
+          "title": "The Ice Guy and His Cool Female Colleague TV Anime Premieres in January 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.5/188318/ice-cool-guy.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190373",
+          "author": null,
+          "description": "Netflix streams episodes 14-25 on October 7 worldwide",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/tiger-and-bunny-2-anime-new-trailer-previews-taichi-mukai-ending-theme/.190373",
+          "publishedOn": "2022-09-30T09:23:39.000Z",
+          "wordCount": 3322,
+          "title": "Tiger & Bunny 2 Anime's New Trailer Previews Taichi Mukai's Ending Theme",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGP/youtube/Op8c_jKVucg.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190372",
+          "author": null,
+          "description": "Film opens on October 22 after COVID-19 delay",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/2nd-sword-art-online-progressive-film-full-trailer-streamed/.190372",
+          "publishedOn": "2022-09-30T09:16:50.000Z",
+          "wordCount": 3342,
+          "title": "2nd Sword Art Online Progressive Film's Full Trailer Streamed",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/youtube/MLWmlQmLQLw.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190365",
           "author": null,
           "description": "Toshihiko Seki, Shunsuke Takeuchi, Mie Sonozaki join cast; FIVE NEW OLD perform opening song \"Trickster\"",
@@ -17213,6 +17453,36 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/meet-the-bassist-in-new-character-pv-for-bocchi-the-rock-tv-anime",
+          "author": "Liam Dempsey",
+          "description": "Crunchyroll will be simulcasting the series from October 8\n\n\nUpcoming music anime BOCCHI THE ROCK! pulled some strings to release a second character highlight trailer today, previewing bassist Ryo Yamada and her voice actress Saku Mizuno. Hit the jump to watch!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/meet-the-bassist-in-new-character-pv-for-bocchi-the-rock-tv-anime",
+          "publishedOn": "2022-09-30T09:43:00.000Z",
+          "wordCount": 6050,
+          "title": "Meet the Bassist in New Character PV for BOCCHI THE ROCK! TV Anime",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/ecf04016c9c7cd32eb97679727e507051664530835_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30/sword-art-online-progressive-scherzo-of-deep-night-anime-film-goes-to-the-next-level-in-main-trailer",
+          "author": "Liam Dempsey",
+          "description": "Pre-sequel hits Japanese theaters on October 22\n\n\nA whole new virtual adventure awaits in the latest Sword Art Online -Progressive- anime film, subtitled \"Scherzo of Deep Night\", filled with bigger threats and a bigger ensemble that are on full display in the main trailer that was just released. Hit the jump to watch!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30/sword-art-online-progressive-scherzo-of-deep-night-anime-film-goes-to-the-next-level-in-main-trailer",
+          "publishedOn": "2022-09-30T09:25:27.000Z",
+          "wordCount": 6073,
+          "title": "Sword Art Online -Progressive- Scherzo of Deep Night Anime Film Goes to the Next Level in Main Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/3fcf0327871d9d1faa541c6c1bc6867c1664529830_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/teenage-life-is-tough-in-ruridragon-manga-voice-comics",
+          "author": "Paul Chapman",
+          "description": "Voice actors Chiaki Omigawa and Kaori Nazuka lend their talents to adaptation based on comic by Masaoki Shindo\n\n\nAdolescence can bring about some tough changes in the teenaged body such as horns and the ability to breath fire, or at least that's the conceit in a pair of voice comics adapting RuriDragon, a fantasy manga by Masaoki Shindo about an ordinary high school girl who is chagrined to discover that she's half human and half dragon. Hit the jump to check them out.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/teenage-life-is-tough-in-ruridragon-manga-voice-comics",
+          "publishedOn": "2022-09-30T09:11:30.000Z",
+          "wordCount": 5951,
+          "title": "Teenage Life is Tough in RuriDragon Manga Voice Comics",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/0c866b9af5ad72af12afcaaf7412485c1664528283_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/gambling-anime-high-card-adds-three-of-a-kind-to-cast-list",
           "author": "Liam Dempsey",
@@ -20067,6 +20337,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-10-things-to-know-about-the-possible-next-congress-president/articleshow/94556321.cms",
+          "author": null,
+          "description": "Senior Congress leader Mallikarjun Kharge on Friday filed his nomination for the post of party president. His candidature was proposed by party leaders Ashok Gehlot and Digvijaya Singh (both of whom have pulled out of the race) as well as Pramod Tiwari, PL Punia, AK Antony, Pawan Kumar Bansal and Mukul Wasnik.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-10-things-to-know-about-the-possible-next-congress-president/articleshow/94556321.cms",
+          "publishedOn": "2022-09-30T09:35:32.000Z",
+          "wordCount": 6652,
+          "title": "Mallikarjun Kharge: 10 things to know about the possible next Congress president",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94557626,width-1070,height-580,imgsize-844999,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-should-stand-for-change-not-surprised-establishment-backing-kharge-tharoor/articleshow/94557174.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress MP Shashi Tharoor on Friday asserted that he has a vision to strengthen the party which should be a vehicle for \"change\" as he fil.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-should-stand-for-change-not-surprised-establishment-backing-kharge-tharoor/articleshow/94557174.cms",
+          "publishedOn": "2022-09-30T09:19:41.000Z",
+          "wordCount": 5863,
+          "title": "Congress should stand for change, not surprised establishment backing Kharge: Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94557138,width-1070,height-580,imgsize-70422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/people-will-prefer-vande-bharat-train-over-flights-says-pm-modi/articleshow/94556963.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: Prime Minister Narendra Modi on Friday flagged off the updated version of the Vande Bharat Express train from Gandhinagar-Mumbai and took a.",
+          "link": "https://timesofindia.indiatimes.com/india/people-will-prefer-vande-bharat-train-over-flights-says-pm-modi/articleshow/94556963.cms",
+          "publishedOn": "2022-09-30T09:17:27.000Z",
+          "wordCount": 7301,
+          "title": "People will prefer Vande Bharat train over flights, says PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/cds-general-anil-chauhan-calls-on-defence-minister-rajnath-singh/articleshow/94556481.cms",
           "author": null,
@@ -23625,6 +23925,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/suicide-bomber-blows-himself-up-minutes-before-friday-prayers-in-pakistan/articleshow/94558079.cms",
+          "author": null,
+          "description": "A suicide bomber on Friday blew himself up in an open field situated close to a mosque, minutes before the jumma prayers in Pakistan's restive Khyber Pakhtunkhwa province, police said. The attacker detonated a hand grenade before exploding his suicide vest, which killed him on the spot, district police officer Irfanullah said. However, no one else was hurt or injured in the blast.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-bomber-blows-himself-up-minutes-before-friday-prayers-in-pakistan/articleshow/94558079.cms",
+          "publishedOn": "2022-09-30T09:48:19.000Z",
+          "wordCount": 5841,
+          "title": "Suicide bomber blows himself up minutes before Friday prayers in Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94558457,width-1070,height-580,imgsize-4274,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/thai-pm-prayuth-respects-court-verdict-on-his-tenure-spokesperson/articleshow/94556845.cms",
+          "author": null,
+          "description": "Rest of World News: BANGKOK: Thai Prime Minister Prayuth Chan-ocha respects Friday's decision by the Constitutional Court and thanks those who provided encouragement, a g.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/thai-pm-prayuth-respects-court-verdict-on-his-tenure-spokesperson/articleshow/94556845.cms",
+          "publishedOn": "2022-09-30T09:12:11.000Z",
+          "wordCount": 5189,
+          "title": "'Thai PM Prayuth respects court verdict on his tenure'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556892,width-1070,height-580,imgsize-59714,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/china-wary-of-italys-new-leader-giorgia-meloni/articleshow/94556631.cms",
           "author": null,
           "description": "Europe News: ROME: The victory of Giorgia Meloni in the Italian general election has drawn widespread public attention, owing to questions about the new Italian go.",
@@ -25299,6 +25619,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms",
+          "author": null,
+          "description": "Sonakshi Sinha opened the Bombay Times Fashion Week 2022. Our favourite 'it girl' nailed the ramp with her own show, along with Shrishti Raai, showcasing SOEZI's 'SHOW OFF' on Day 1 of the BTFW held at St. Regis Mumbai on September 30, 2022. SOEZI by Sonakshi Sinha and Shrishti Raai is a press-on-nails brand founded with the vision to take glamour to every doorstep and make it an effortless process. (Photo: Gaurav Kolge)",
+          "link": "https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms",
+          "publishedOn": "2022-09-30T09:49:58.000Z",
+          "wordCount": 8393,
+          "title": "Bombay Times Fashion Week 2022 - Day 1: SOEZI",
+          "imageUrl": "https://static.toiimg.com/photo/94556231.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-rakhi-sawant-to-dolly-bindra-heres-a-look-at-the-most-dramatic-contestants-on-bigg-boss-so-far/photostory/94556315.cms",
+          "author": null,
+          "description": "From Rakhi Sawant to Dolly Bindra, here's a look at the most dramatic contestants on Bigg Boss so far",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-rakhi-sawant-to-dolly-bindra-heres-a-look-at-the-most-dramatic-contestants-on-bigg-boss-so-far/photostory/94556315.cms",
+          "publishedOn": "2022-09-30T09:30:00.000Z",
+          "wordCount": 9524,
+          "title": "Rakhi Sawant, Dolly Bindra: Most dramatic contestants on Bigg Boss",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94556213.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/it-is-going-to-be-kharge-vs-tharoor-after-gehlot-digvijaya-drop-out/",
+          "author": null,
+          "description": "In a rare sight in India, a political party is all set for elections to decide who will head it. Despite barbs that the Gandhi family will still run the show, the conduct of elections...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/it-is-going-to-be-kharge-vs-tharoor-after-gehlot-digvijaya-drop-out/",
+          "publishedOn": "2022-09-30T09:25:27.000Z",
+          "wordCount": 2862,
+          "title": "Quick Edit: It Kharge vs Tharoor after Gehlot, Digvijaya opt out",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2018/04/100x100-Quick-Edit-1.png"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/electric-cars/mercedes-benz-eqs-580-4matic-luxury-ev-launched-at-rs-1-55-crore-specs-range/articleshow/94551837.cms",
+          "author": null,
+          "description": "The new Mercedes-Benz EQS 580 is powered by a 107.8 kWh lithium-ion battery and has a four-motor setup. The car claims a range of 750 km which also makes it the longest range EV in the country. The EV boasts 523 hp and 856 Nm of torque and claims a 0-100 km/h 4.1 seconds.",
+          "link": "https://timesofindia.indiatimes.com/auto/electric-cars/mercedes-benz-eqs-580-4matic-luxury-ev-launched-at-rs-1-55-crore-specs-range/articleshow/94551837.cms",
+          "publishedOn": "2022-09-30T09:15:13.000Z",
+          "wordCount": 6332,
+          "title": "First Made in India Luxury EV launched at Rs 1.55 cr",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94557085,width-1070,height-580,imgsize-1565503,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-6-petition-filed-in-ap-high-court-against-the-nagarjuna-hosted-show-over-obscenity-concerns/articleshow/94556328.cms",
           "author": null,
           "description": "Nagarjuna-hosted Bigg Boss Telugu season 6 has made headlines yet again. As per the latest reports, a petition was reportedly filed against the show in Andhra Pradesh High Court today (September 30) by advocate Kethireddy Jagadeeswar Reddy. The petition demands a change in the telecast time of Bigg Boss Telugu season 6, following the guidelines of Indian Broadcasting Foundation over concerns of 'obscenity' in the show or suspension of the show in case the guidelines are not met.",
@@ -25607,6 +25967,16 @@
           "wordCount": 5713,
           "title": "Mid-term polls better than 'traitor' as CM: Ashok Gehlot camp",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94546002,width-1070,height-580,imgsize-824733,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/shinde-approached-congress-ncp-in-17-chavan/articleshow/94545815.cms",
+          "author": null,
+          "description": "Former Maarashtra chief minister and senior Congressman Ashok Chavan on Tuesday claimed that a delegation led by Shiv Sena leader and then cabinet minister Eknath Shinde had approached him with a proposal to form a government comprising Shiv Sena, Congress and NCP while the BJP-Sena coalition led by Devendra Fadnavis was in government.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/shinde-approached-congress-ncp-in-17-chavan/articleshow/94545815.cms",
+          "publishedOn": "2022-09-30T01:16:18.000Z",
+          "wordCount": 5057,
+          "title": "Shinde approached Cong, NCP in 2017: Ashok Chavan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/chennai/chennai-doctors-remove-live-roundworm-from-monks-eye/articleshow/94545697.cms",
