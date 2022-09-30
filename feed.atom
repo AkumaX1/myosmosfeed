@@ -2,10 +2,238 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T08:20:56.382Z</updated>
+    <updated>2022-09-30T09:19:46.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quavo, Takeoff Reflect on Their Past on Single ‘Nothing Changed’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602746</id>
+        <link href="https://www.rollingstone.com/music/music-news/quavo-takeoff-nothing-changed-single-1234602746/"/>
+        <updated>2022-09-30T09:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Song will appear on the duo's forthcoming LP, Only Built For Infinity Links]]></summary>
+        <author>
+            <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Lives of Sperm Whales]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html"/>
+        <updated>2022-09-30T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Deep in waters rarely seen by humans, these “gentle goliaths” are back from near-extinction.]]></summary>
+        <author>
+            <name>Lauren Christensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: “Nights of Plague,” by Orhan Pamuk]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/review/nights-of-plague-orhan-pamuk.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/review/nights-of-plague-orhan-pamuk.html"/>
+        <updated>2022-09-30T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Set on an imaginary island at the twilight of the Ottoman Empire, “Nights of Plague,” by the Turkish novelist Orhan Pamuk, is a chronicle of an epidemic, a murder mystery and a winking literary game.]]></summary>
+        <author>
+            <name>David Gates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Cormac McCarthy Interviews Rediscovered]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html"/>
+        <updated>2022-09-30T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.]]></summary>
+        <author>
+            <name>Elizabeth A. Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Cormac McCarthy Interviews Rediscovered]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html"/>
+        <updated>2022-09-30T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.]]></summary>
+        <author>
+            <name>Elizabeth A. Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood]]></title>
+        <id>https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html"/>
+        <updated>2022-09-30T09:00:13.000Z</updated>
+        <summary type="html"><![CDATA[AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?]]></summary>
+        <author>
+            <name>Erik Piepenburg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China wary of Italy's new leader Giorgia Meloni]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/china-wary-of-italys-new-leader-giorgia-meloni/articleshow/94556631.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/china-wary-of-italys-new-leader-giorgia-meloni/articleshow/94556631.cms"/>
+        <updated>2022-09-30T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: ROME: The victory of Giorgia Meloni in the Italian general election has drawn widespread public attention, owing to questions about the new Italian go.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunfire heard in Burkina Faso, sparking mutiny fears]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/articleshow/94556570.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/articleshow/94556570.cms"/>
+        <updated>2022-09-30T08:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Last week, Damiba had travelled to New York where he addressed the UN General Assembly as the country's coup leader-turned-president. In his speech, Damiba defended his January coup as “an issue of survival for our nation,” even if it was ”perhaps reprehensible" to the international community.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDS General Anil Chauhan calls on defence minister Rajnath Singh]]></title>
+        <id>https://timesofindia.indiatimes.com/india/cds-general-anil-chauhan-calls-on-defence-minister-rajnath-singh/articleshow/94556481.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/cds-general-anil-chauhan-calls-on-defence-minister-rajnath-singh/articleshow/94556481.cms"/>
+        <updated>2022-09-30T08:55:58.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Chief of defence staff General Anil Chauhan on Friday called on defence minister Rajnath Singh.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UK will never accept Russian annexation of 4 Ukrainian territories']]></title>
+        <id>https://timesofindia.indiatimes.com/world/uk/uk-will-never-accept-russian-annexation-of-four-ukrainian-territories-pm/articleshow/94556504.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/uk/uk-will-never-accept-russian-annexation-of-four-ukrainian-territories-pm/articleshow/94556504.cms"/>
+        <updated>2022-09-30T08:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Prime Minister Liz Truss on Friday accused Vladimir Putin of breaching international law as Russia prepared to formally annex four occupied Ukrainian territories. Truss criticised the Russian leader for showing "clear disregard for the lives of the Ukrainian people he claims to represent". "The UK will never accept the regions of Donetsk, Luhansk, Kherson and Zaporizhzhia as anything other than Ukrainian territory," she added.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss Telugu 6: Petition filed in AP high court against show]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-6-petition-filed-in-ap-high-court-against-the-nagarjuna-hosted-show-over-obscenity-concerns/articleshow/94556328.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-6-petition-filed-in-ap-high-court-against-the-nagarjuna-hosted-show-over-obscenity-concerns/articleshow/94556328.cms"/>
+        <updated>2022-09-30T08:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Nagarjuna-hosted Bigg Boss Telugu season 6 has made headlines yet again. As per the latest reports, a petition was reportedly filed against the show in Andhra Pradesh High Court today (September 30) by advocate Kethireddy Jagadeeswar Reddy. The petition demands a change in the telecast time of Bigg Boss Telugu season 6, following the guidelines of Indian Broadcasting Foundation over concerns of 'obscenity' in the show or suspension of the show in case the guidelines are not met.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyper officially recalls its stackable (and overheating) GaN chargers after all]]></title>
+        <id>https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack</id>
+        <link href="https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack"/>
+        <updated>2022-09-30T08:45:18.000Z</updated>
+        <summary type="html"><![CDATA[The chargers were designed to stack to offer up to 1600W of charging power. | Image: Hyper
+    
+
+  
+Hyper is officially recalling its stackable 100W and 65W GaN chargers and a 130W battery pack, following reports that all three devices can overheat and may pose a fire hazard to consumers. Recall notices for the HyperJuice Stackable GaN USB-C chargers and HyperJuice 130W USB-C battery pack have been posted on the United States Consumer Product Safety Commission (US CPSC) website, and the company is emailing its customers directly to ask them to return the devices in exchange for store credit.
+According to the CPSC, Hyper has received seven reports of its stackable GaN chargers overheating “resulting in damage to the changing units,” plus two reports of the battery pack overheating and causi…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mallikarjun Kharge files nomination for Cong president poll]]></title>
+        <id>https://timesofindia.indiatimes.com/india/mallikarjun-kharge-files-nomination-for-cong-president-poll/articleshow/94556117.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/mallikarjun-kharge-files-nomination-for-cong-president-poll/articleshow/94556117.cms"/>
+        <updated>2022-09-30T08:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Mallikarjun Kharge candidature was proposed by party leaders Ashok Gehlot, Digvijaya Singh, Pramod Tiwari, PL Punia, AK Antony, Pawan Kumar Bansal and Mukul Wasnik. G23 leaders Anand Sharma and Manish Tewari are also proposers for Kharge's candidature.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunman kills Chinese-Pakistani national in Karachi; wounds two]]></title>
+        <id>https://www.thehindu.com/news/international/gunman-kills-chinese-pakistani-national-in-karachi-wounds-two/article65954362.ece</id>
+        <link href="https://www.thehindu.com/news/international/gunman-kills-chinese-pakistani-national-in-karachi-wounds-two/article65954362.ece"/>
+        <updated>2022-09-30T08:33:38.000Z</updated>
+        <summary type="html"><![CDATA[There was no immediate claim of responsibility for the killing, but the separatist Baluch Liberation Army has claimed responsibility for some of the previous attacks on Chinese people in the city and elsewhere in Pakistan.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran targets celebrities, media over Mahsa Amini protests]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/iran-targets-celebrities-media-over-mahsa-amini-protests/articleshow/94555949.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/iran-targets-celebrities-media-over-mahsa-amini-protests/articleshow/94555949.cms"/>
+        <updated>2022-09-30T08:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Filmmakers, athletes, musicians and actors have backed the demonstrations, and many saw it as a signal when the national football team remained in their black tracksuits when the anthems were played before a match in Vienna against Senegal. "We will take action against the celebrities who have fanned the flames of the riots," Tehran provincial governor Mohsen Mansouri said, according to the ISNA news agency.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gambling Anime HIGH CARD Adds Three of a Kind to Cast List]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/30-1/gambling-anime-high-card-adds-three-of-a-kind-to-cast-list</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/30-1/gambling-anime-high-card-adds-three-of-a-kind-to-cast-list"/>
+        <updated>2022-09-30T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Original series will premiere in January 2023
+
+
+Three more cast members have been dealt into upcoming original TV anime HIGH CARD, which is based on a story from Kakegurui authors Homura Kawamoto and Hikaru Muno. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid can lead to severe cardiovascular diseases]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-can-lead-to-more-severe-and-long-term-cardiovascular-diseases-finds-new-study/photostory/94555622.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-can-lead-to-more-severe-and-long-term-cardiovascular-diseases-finds-new-study/photostory/94555622.cms"/>
+        <updated>2022-09-30T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ongoing debates and discussions around the effect of COVID on heart health, another research study has come up with stronger revelations. "University of Queensland researchers have discovered how COVID-19 damages the heart, opening the door to future treatments," an official statement from the University has said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women&#039;s rights group calls on FIFA to kick Iran out of World Cup]]></title>
+        <id>https://www.thehindu.com/sport/football/womens-rights-group-calls-on-fifa-to-kick-iran-out-of-world-cup/article65954359.ece</id>
+        <link href="https://www.thehindu.com/sport/football/womens-rights-group-calls-on-fifa-to-kick-iran-out-of-world-cup/article65954359.ece"/>
+        <updated>2022-09-30T08:27:18.000Z</updated>
+        <summary type="html"><![CDATA[The call comes as protests continued in several cities across Iran, as a human rights group said at least 83 people had been killed in nearly two weeks of demonstrations]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid letter: 'Pandemic altered personality traits of young adults']]></title>
+        <id>https://timesofindia.indiatimes.com/coronabytes/msid-94549819.cms</id>
+        <link href="https://timesofindia.indiatimes.com/coronabytes/msid-94549819.cms"/>
+        <updated>2022-09-30T08:25:59.000Z</updated>
+        <summary type="html"><![CDATA[The latest news and updates on the coronavirus outbreak from Times of India. An informed guide to the covid 19 outbreak, with the latest developments]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some people allergic to sharing India's growth story: Dhankhar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/some-people-allergic-to-sharing-indias-growth-story-dhankhar/articleshow/94554296.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/some-people-allergic-to-sharing-indias-growth-story-dhankhar/articleshow/94554296.cms"/>
+        <updated>2022-09-30T08:17:26.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Vice President Jagdeep Dhankhar on Friday hit out at people "allergic" to sharing the achievements made by India, and said there was a need.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16: Where and when to watch the upcoming season]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-where-and-when-to-watch-the-upcoming-season-of-salman-khans-show-details/articleshow/94555466.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-where-and-when-to-watch-the-upcoming-season-of-salman-khans-show-details/articleshow/94555466.cms"/>
+        <updated>2022-09-30T08:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Bigg Boss 16 is all set to return to the small screen. Be it the contestants or Bigg Boss himself this time, the controversial reality show, which is hosted by Bollywood superstar Salman Khan, has already created a lot of buzz.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonakshi Sinha opens Bombay Times Fashion Week 2022]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/fashion/shows/sonakshi-sinha-opens-bombay-times-fashion-week-2022-in-style/articleshow/94555391.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/fashion/shows/sonakshi-sinha-opens-bombay-times-fashion-week-2022-in-style/articleshow/94555391.cms"/>
+        <updated>2022-09-30T08:05:57.000Z</updated>
+        <summary type="html"><![CDATA[She has sashayed across the ramp umpteen number of times, but it was special walk for Bollywood diva Sonakshi Sinha at Bombay Times Fashion Week, as the beauty kickstarted the fashion week with her own show. Sonakshi, along with Shrishti Raai showcased SOEZI presents SHOW OFF on Day 1 of the ultra-glam Bombay Times Fashion Week 2022.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Montenegro expels six Russian diplomats amid probe into alleged spying, Kremlin shuts consulate]]></title>
         <id>https://www.thehindu.com/news/international/montenegro-expels-six-russian-diplomats-amid-probe-into-alleged-spying-kremlin-shuts-consulate/article65954347.ece</id>
@@ -24,6 +252,16 @@
         <summary type="html"><![CDATA[India News: NEW DELHI: Rajasthan chief minister Ashok Gehlot on Friday said all senior leaders had decided to back veteran Congress leader Mallikarjun Kharge's ca.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T20 WC: Who will lead pace attack in Bumrah's absence?]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-who-will-lead-indias-pace-attack-in-jasprit-bumrahs-absence/articleshow/94554449.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-who-will-lead-indias-pace-attack-in-jasprit-bumrahs-absence/articleshow/94554449.cms"/>
+        <updated>2022-09-30T07:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Jasprit Bumrah’s recurring back injury has dealt a huge blow to Team India’s preparations for the upcoming T20 World Cup. After all, Bumrah is not the Indian pace spearhead for nothing. He is dangerous with the new ball and lethal with the old one. An expert in bowling yorkers at will.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -706,6 +944,16 @@ Why this Blizzard vet thinks the next killer web3 game will come from China by R
         <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94539652.cms"/>
         <updated>2022-09-30T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercedes Benz EQS 580 EV 2022 launch live updates]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/electric-car/2022-mercedes-benz-eqs-580-india-ev-launch-launch-live-updates-features-price-performance-september-30/liveblog/94547408.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/electric-car/2022-mercedes-benz-eqs-580-india-ev-launch-launch-live-updates-features-price-performance-september-30/liveblog/94547408.cms"/>
+        <updated>2022-09-30T02:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Mercedes Benz India is all set to launch the first made-India Luxury EV, Mercedes Benz EQS 580 to the Indian market today. The bookings for the EV are already open at Rs 25 lakh. Stay tuned for TOI Auto live blog for all the specifications.]]></summary>
         <author>
             <name>Times of India</name>
         </author>

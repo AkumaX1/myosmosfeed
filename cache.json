@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack",
+          "author": null,
+          "description": "The chargers were designed to stack to offer up to 1600W of charging power. | Image: Hyper\n    \n\n  \nHyper is officially recalling its stackable 100W and 65W GaN chargers and a 130W battery pack, following reports that all three devices can overheat and may pose a fire hazard to consumers. Recall notices for the HyperJuice Stackable GaN USB-C chargers and HyperJuice 130W USB-C battery pack have been posted on the United States Consumer Product Safety Commission (US CPSC) website, and the company is emailing its customers directly to ask them to return the devices in exchange for store credit.\nAccording to the CPSC, Hyper has received seven reports of its stackable GaN chargers overheating “resulting in damage to the changing units,” plus two reports of the battery pack overheating and causi…",
+          "link": "https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack",
+          "publishedOn": "2022-09-30T08:45:18.000Z",
+          "wordCount": 7193,
+          "title": "Hyper officially recalls its stackable (and overheating) GaN chargers after all",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/b3JL34LLKxhwISrfJjzvIPp5Y6Q=/0x0:1239x826/1200x628/filters:focal(620x413:621x414)/cdn.vox-cdn.com/uploads/chorus_asset/file/23658349/hyper_stackable_charger.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts",
           "author": null,
           "description": "Illustration by Kristen Radtke / The Verge; Getty Images\n    \n\n  \nElon Musk’s deposition for the Twitter v. Musk suit may have been rescheduled for next week, but the public got some more inside dirt about his plans for Twitter, thanks to the release of two slideshow presentations and a slew of Musk texts. \nThe texts show Musk and a variety of contacts — including former Twitter CEO Jack Dorsey, entrepreneur Jason Calacanis, and podcaster Joe Rogan — talking about everything from the blockchain to putting Oprah on Twitter’s board. (That part might be a joke, but with Musk, it’s difficult to tell.) But above all, they’re a chronicle of the deal’s slow implosion.\nTwitter “never should have been a company.”\nThe texts are light reading, and you can check them out here if you’re so inclined. Th…",
@@ -5483,6 +5493,46 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html",
+          "author": "Lauren Christensen",
+          "description": "Deep in waters rarely seen by humans, these “gentle goliaths” are back from near-extinction.",
+          "link": "https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html",
+          "publishedOn": "2022-09-30T09:00:21.000Z",
+          "wordCount": null,
+          "title": "The Secret Lives of Sperm Whales",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/books/review/nights-of-plague-orhan-pamuk.html",
+          "author": "David Gates",
+          "description": "Set on an imaginary island at the twilight of the Ottoman Empire, “Nights of Plague,” by the Turkish novelist Orhan Pamuk, is a chronicle of an epidemic, a murder mystery and a winking literary game.",
+          "link": "https://www.nytimes.com/2022/09/30/books/review/nights-of-plague-orhan-pamuk.html",
+          "publishedOn": "2022-09-30T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Book Review: “Nights of Plague,” by Orhan Pamuk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "author": "Elizabeth A. Harris",
+          "description": "The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.",
+          "link": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "publishedOn": "2022-09-30T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Early Cormac McCarthy Interviews Rediscovered",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html",
+          "author": "Erik Piepenburg",
+          "description": "AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?",
+          "link": "https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html",
+          "publishedOn": "2022-09-30T09:00:13.000Z",
+          "wordCount": null,
+          "title": "‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/magazine/poem-moon-for-aisha.html",
           "author": "Aracelis Girmay and Victoria Chang",
           "description": "Some friendships are so special they seem to exist before, during and after time.",
@@ -5829,6 +5879,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "author": "Elizabeth A. Harris",
+          "description": "The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.",
+          "link": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
+          "publishedOn": "2022-09-30T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Early Cormac McCarthy Interviews Rediscovered",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/30/style/karl-lagerfeld-metropolitan-museum-of-art-costume-institute.html",
           "author": "Vanessa Friedman",
@@ -6696,6 +6756,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602746",
+          "author": "Emily Zemler",
+          "description": "Song will appear on the duo's forthcoming LP, Only Built For Infinity Links",
+          "link": "https://www.rollingstone.com/music/music-news/quavo-takeoff-nothing-changed-single-1234602746/",
+          "publishedOn": "2022-09-30T09:14:32.000Z",
+          "wordCount": 7005,
+          "title": "Quavo, Takeoff Reflect on Their Past on Single ‘Nothing Changed’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GeneralPress.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602536",
           "author": "Daniel Kreps",
@@ -17144,6 +17214,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/gambling-anime-high-card-adds-three-of-a-kind-to-cast-list",
+          "author": "Liam Dempsey",
+          "description": "Original series will premiere in January 2023\n\n\nThree more cast members have been dealt into upcoming original TV anime HIGH CARD, which is based on a story from Kakegurui authors Homura Kawamoto and Hikaru Muno. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/gambling-anime-high-card-adds-three-of-a-kind-to-cast-list",
+          "publishedOn": "2022-09-30T08:30:00.000Z",
+          "wordCount": 6029,
+          "title": "Gambling Anime HIGH CARD Adds Three of a Kind to Cast List",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/9d1f1883dfc08e544e271193a92895211664526591_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/depraved-fantasy-tv-anime-immoral-guild-delivers-final-character-trailer",
           "author": "Daryl Harding",
           "description": "Immoral Guild begins adventuring on October 5\n\n\nThe final character trailer for the upcoming TV anime adaptation of Taichi Kawazoe's erotic comedy manga Immoral Guild was released today, introducing everyone to Noma Rune, a magician of the fairy clan who uses both attack and healing magic. Cast your spell past the jump to learn more!",
@@ -18681,6 +18761,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/gunman-kills-chinese-pakistani-national-in-karachi-wounds-two/article65954362.ece",
+          "author": "AP",
+          "description": "There was no immediate claim of responsibility for the killing, but the separatist Baluch Liberation Army has claimed responsibility for some of the previous attacks on Chinese people in the city and elsewhere in Pakistan.",
+          "link": "https://www.thehindu.com/news/international/gunman-kills-chinese-pakistani-national-in-karachi-wounds-two/article65954362.ece",
+          "publishedOn": "2022-09-30T08:33:38.000Z",
+          "wordCount": 6374,
+          "title": "Gunman kills Chinese-Pakistani national in Karachi; wounds two",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pubcbs/article65954408.ece/alternates/LANDSCAPE_615/Pakistan_Chinese_Attacked_47949.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/sport/football/womens-rights-group-calls-on-fifa-to-kick-iran-out-of-world-cup/article65954359.ece",
+          "author": "Reuters",
+          "description": "The call comes as protests continued in several cities across Iran, as a human rights group said at least 83 people had been killed in nearly two weeks of demonstrations",
+          "link": "https://www.thehindu.com/sport/football/womens-rights-group-calls-on-fifa-to-kick-iran-out-of-world-cup/article65954359.ece",
+          "publishedOn": "2022-09-30T08:27:18.000Z",
+          "wordCount": 6431,
+          "title": "Women&#039;s rights group calls on FIFA to kick Iran out of World Cup",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/o9hfh5/article65954373.ece/alternates/LANDSCAPE_615/2022-09-14T151307Z_964540197_RC23HW906Q91_RTRMADP_3_SOCCER-WORLDCUP-IRAN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/montenegro-expels-six-russian-diplomats-amid-probe-into-alleged-spying-kremlin-shuts-consulate/article65954347.ece",
           "author": "AFP",
           "description": "Moscow retaliated by closing its consulate in Montenegro ‘indefinitely’, Russia’s embassy in the small Balkan nation said in a statement",
@@ -19967,6 +20067,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cds-general-anil-chauhan-calls-on-defence-minister-rajnath-singh/articleshow/94556481.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Chief of defence staff General Anil Chauhan on Friday called on defence minister Rajnath Singh.",
+          "link": "https://timesofindia.indiatimes.com/india/cds-general-anil-chauhan-calls-on-defence-minister-rajnath-singh/articleshow/94556481.cms",
+          "publishedOn": "2022-09-30T08:55:58.000Z",
+          "wordCount": 5180,
+          "title": "CDS General Anil Chauhan calls on defence minister Rajnath Singh",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556541,width-1070,height-580,imgsize-60646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-files-nomination-for-cong-president-poll/articleshow/94556117.cms",
+          "author": null,
+          "description": "Mallikarjun Kharge candidature was proposed by party leaders Ashok Gehlot, Digvijaya Singh, Pramod Tiwari, PL Punia, AK Antony, Pawan Kumar Bansal and Mukul Wasnik. G23 leaders Anand Sharma and Manish Tewari are also proposers for Kharge's candidature.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-files-nomination-for-cong-president-poll/articleshow/94556117.cms",
+          "publishedOn": "2022-09-30T08:38:31.000Z",
+          "wordCount": 5302,
+          "title": "Mallikarjun Kharge files nomination for Cong president poll",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556086,width-1070,height-580,imgsize-34270,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/some-people-allergic-to-sharing-indias-growth-story-dhankhar/articleshow/94554296.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Vice President Jagdeep Dhankhar on Friday hit out at people \"allergic\" to sharing the achievements made by India, and said there was a need.",
+          "link": "https://timesofindia.indiatimes.com/india/some-people-allergic-to-sharing-indias-growth-story-dhankhar/articleshow/94554296.cms",
+          "publishedOn": "2022-09-30T08:17:26.000Z",
+          "wordCount": 5681,
+          "title": "Some people allergic to sharing India's growth story: Dhankhar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94555629,width-1070,height-580,imgsize-23354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-all-senior-leaders-decided-to-support-kharges-candidature-says-gehlot/articleshow/94554732.cms",
           "author": null,
@@ -23495,6 +23625,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/china-wary-of-italys-new-leader-giorgia-meloni/articleshow/94556631.cms",
+          "author": null,
+          "description": "Europe News: ROME: The victory of Giorgia Meloni in the Italian general election has drawn widespread public attention, owing to questions about the new Italian go.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/china-wary-of-italys-new-leader-giorgia-meloni/articleshow/94556631.cms",
+          "publishedOn": "2022-09-30T09:00:08.000Z",
+          "wordCount": 7258,
+          "title": "China wary of Italy's new leader Giorgia Meloni",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556622,width-1070,height-580,imgsize-69076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/articleshow/94556570.cms",
+          "author": null,
+          "description": "Last week, Damiba had travelled to New York where he addressed the UN General Assembly as the country's coup leader-turned-president. In his speech, Damiba defended his January coup as “an issue of survival for our nation,” even if it was ”perhaps reprehensible\" to the international community.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/articleshow/94556570.cms",
+          "publishedOn": "2022-09-30T08:57:16.000Z",
+          "wordCount": 6725,
+          "title": "Gunfire heard in Burkina Faso, sparking mutiny fears",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556557,width-1070,height-580,imgsize-85792,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/uk/uk-will-never-accept-russian-annexation-of-four-ukrainian-territories-pm/articleshow/94556504.cms",
+          "author": null,
+          "description": "Prime Minister Liz Truss on Friday accused Vladimir Putin of breaching international law as Russia prepared to formally annex four occupied Ukrainian territories. Truss criticised the Russian leader for showing \"clear disregard for the lives of the Ukrainian people he claims to represent\". \"The UK will never accept the regions of Donetsk, Luhansk, Kherson and Zaporizhzhia as anything other than Ukrainian territory,\" she added.",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-will-never-accept-russian-annexation-of-four-ukrainian-territories-pm/articleshow/94556504.cms",
+          "publishedOn": "2022-09-30T08:53:54.000Z",
+          "wordCount": 5380,
+          "title": "'UK will never accept Russian annexation of 4 Ukrainian territories'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556490,width-1070,height-580,imgsize-1252419,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/iran-targets-celebrities-media-over-mahsa-amini-protests/articleshow/94555949.cms",
+          "author": null,
+          "description": "Filmmakers, athletes, musicians and actors have backed the demonstrations, and many saw it as a signal when the national football team remained in their black tracksuits when the anthems were played before a match in Vienna against Senegal. \"We will take action against the celebrities who have fanned the flames of the riots,\" Tehran provincial governor Mohsen Mansouri said, according to the ISNA news agency.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/iran-targets-celebrities-media-over-mahsa-amini-protests/articleshow/94555949.cms",
+          "publishedOn": "2022-09-30T08:31:29.000Z",
+          "wordCount": 10860,
+          "title": "Iran targets celebrities, media over Mahsa Amini protests",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94555938,width-1070,height-580,imgsize-64240,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/at-least-23-killed-in-russian-missile-strike-in-ukraine/articleshow/94553190.cms",
           "author": null,
           "description": "Europe News: ZAPORIZHZHIA: At least 23 people were killed and 28 wounded in a Russian missile strike that hit a convoy of vehicles carrying civilians near the sout.",
@@ -25129,6 +25299,66 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-6-petition-filed-in-ap-high-court-against-the-nagarjuna-hosted-show-over-obscenity-concerns/articleshow/94556328.cms",
+          "author": null,
+          "description": "Nagarjuna-hosted Bigg Boss Telugu season 6 has made headlines yet again. As per the latest reports, a petition was reportedly filed against the show in Andhra Pradesh High Court today (September 30) by advocate Kethireddy Jagadeeswar Reddy. The petition demands a change in the telecast time of Bigg Boss Telugu season 6, following the guidelines of Indian Broadcasting Foundation over concerns of 'obscenity' in the show or suspension of the show in case the guidelines are not met.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-6-petition-filed-in-ap-high-court-against-the-nagarjuna-hosted-show-over-obscenity-concerns/articleshow/94556328.cms",
+          "publishedOn": "2022-09-30T08:49:24.000Z",
+          "wordCount": 9509,
+          "title": "Bigg Boss Telugu 6: Petition filed in AP high court against show",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94556374,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-112406/94556374.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-can-lead-to-more-severe-and-long-term-cardiovascular-diseases-finds-new-study/photostory/94555622.cms",
+          "author": null,
+          "description": "In the ongoing debates and discussions around the effect of COVID on heart health, another research study has come up with stronger revelations. \"University of Queensland researchers have discovered how COVID-19 damages the heart, opening the door to future treatments,\" an official statement from the University has said.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-can-lead-to-more-severe-and-long-term-cardiovascular-diseases-finds-new-study/photostory/94555622.cms",
+          "publishedOn": "2022-09-30T08:30:00.000Z",
+          "wordCount": 9974,
+          "title": "Covid can lead to severe cardiovascular diseases",
+          "imageUrl": "https://static.toiimg.com/photo/94555711.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/coronabytes/msid-94549819.cms",
+          "author": null,
+          "description": "The latest news and updates on the coronavirus outbreak from Times of India. An informed guide to the covid 19 outbreak, with the latest developments",
+          "link": "https://timesofindia.indiatimes.com/coronabytes/msid-94549819.cms",
+          "publishedOn": "2022-09-30T08:25:59.000Z",
+          "wordCount": 3327,
+          "title": "Covid letter: 'Pandemic altered personality traits of young adults'",
+          "imageUrl": "https://static.toiimg.com/photo/74725117.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-where-and-when-to-watch-the-upcoming-season-of-salman-khans-show-details/articleshow/94555466.cms",
+          "author": null,
+          "description": "Bigg Boss 16 is all set to return to the small screen. Be it the contestants or Bigg Boss himself this time, the controversial reality show, which is hosted by Bollywood superstar Salman Khan, has already created a lot of buzz.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-where-and-when-to-watch-the-upcoming-season-of-salman-khans-show-details/articleshow/94555466.cms",
+          "publishedOn": "2022-09-30T08:14:43.000Z",
+          "wordCount": 9413,
+          "title": "Bigg Boss 16: Where and when to watch the upcoming season",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94555412,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94555412.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/fashion/shows/sonakshi-sinha-opens-bombay-times-fashion-week-2022-in-style/articleshow/94555391.cms",
+          "author": null,
+          "description": "She has sashayed across the ramp umpteen number of times, but it was special walk for Bollywood diva Sonakshi Sinha at Bombay Times Fashion Week, as the beauty kickstarted the fashion week with her own show. Sonakshi, along with Shrishti Raai showcased SOEZI presents SHOW OFF on Day 1 of the ultra-glam Bombay Times Fashion Week 2022.",
+          "link": "https://timesofindia.indiatimes.com/life-style/fashion/shows/sonakshi-sinha-opens-bombay-times-fashion-week-2022-in-style/articleshow/94555391.cms",
+          "publishedOn": "2022-09-30T08:05:57.000Z",
+          "wordCount": 9583,
+          "title": "Sonakshi Sinha opens Bombay Times Fashion Week 2022",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94555391,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-75608/94555391.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-who-will-lead-indias-pace-attack-in-jasprit-bumrahs-absence/articleshow/94554449.cms",
+          "author": null,
+          "description": "Jasprit Bumrah’s recurring back injury has dealt a huge blow to Team India’s preparations for the upcoming T20 World Cup. After all, Bumrah is not the Indian pace spearhead for nothing. He is dangerous with the new ball and lethal with the old one. An expert in bowling yorkers at will.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-who-will-lead-indias-pace-attack-in-jasprit-bumrahs-absence/articleshow/94554449.cms",
+          "publishedOn": "2022-09-30T07:44:02.000Z",
+          "wordCount": 6463,
+          "title": "T20 WC: Who will lead pace attack in Bumrah's absence?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94554670,width-1070,height-580,imgsize-81462,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/rbis-monetary-policy-committee-showed-the-first-signs-of-differences-in-the-scale-of-interest-rate-hikes/",
           "author": null,
           "description": "RBI’s monetary policy committee today chose to increase its policy rate, or the repo, by 0.5 percentage points to push it up to 5.9%. This was in line with market expectations. A closer look at...",
@@ -25307,6 +25537,16 @@
           "wordCount": 5026,
           "title": "Times Top10: PFI’s link with Turkish ‘rights’ group",
           "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/electric-car/2022-mercedes-benz-eqs-580-india-ev-launch-launch-live-updates-features-price-performance-september-30/liveblog/94547408.cms",
+          "author": null,
+          "description": "Mercedes Benz India is all set to launch the first made-India Luxury EV, Mercedes Benz EQS 580 to the Indian market today. The bookings for the EV are already open at Rs 25 lakh. Stay tuned for TOI Auto live blog for all the specifications.",
+          "link": "https://timesofindia.indiatimes.com/auto/electric-car/2022-mercedes-benz-eqs-580-india-ev-launch-launch-live-updates-features-price-performance-september-30/liveblog/94547408.cms",
+          "publishedOn": "2022-09-30T02:58:48.000Z",
+          "wordCount": 10032,
+          "title": "Mercedes Benz EQS 580 EV 2022 launch live updates",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547408,width-1070,height-580,imgsize-552436,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-team-indias-pace-conundrum/articleshow/94547174.cms",
