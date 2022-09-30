@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke",
+          "author": null,
+          "description": "The Verge\n    \n\n  \nThe NSA, as a rule, wants to employ people who are good at spying. But according to the FBI, one former employee tried to turn the tables on the agency and was caught in the act.\nPer details released by the Department of Justice this week, a Colorado resident was arrested Wednesday and charged with attempting to transmit classified information to a representative of a foreign government.\nThe press release says that Jareh Sebastian Dalke, 30, was employed by the NSA from June 6th to July 1st, 2022. Between August and September 2022, feds say that he used an encrypted email account to transmit portions of three classified documents to an individual who he believed to be working for a foreign government. \nIn fact, that individual was an FBI agent who lured Dalke into a stin…",
+          "link": "https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke",
+          "publishedOn": "2022-09-30T14:22:00.000Z",
+          "wordCount": 7115,
+          "title": "The FBI says it caught an ex-NSA employee trying to sell top-secret intelligence documents",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/M7_cRjiwMy4tr3864MdujU2c2zc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24022137/acastro_STK005_NSA_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23380261/spotify-app-podcasts-audiobooks-clutter-music-leverage-complaint",
+          "author": null,
+          "description": "Nick Barclay / The Verge\n    \n\n  \nThursday morning, I woke up in a haze and decided to listen to ambient music while I drank my first cup of coffee. The night before, I’d saved an album to Spotify, but when I fumbled through the panels of the desktop app, I couldn’t find it. The menu was full of recommendations and recent plays — I couldn’t find “Albums” anywhere in the list. There wasn’t even a clear way to navigate to it. I tried cycling between the Home and Your Library tabs, but nothing turned up an Albums button. The side panel showed playlists, and the album I wanted wasn’t in my recent listens. I could search for it if I remembered the album’s name, but I didn’t. \nEventually, I got there by tinkering with the window size and keeping an eye on the top menu bar, but I had spent whole …",
+          "link": "https://www.theverge.com/23380261/spotify-app-podcasts-audiobooks-clutter-music-leverage-complaint",
+          "publishedOn": "2022-09-30T14:10:04.000Z",
+          "wordCount": 8172,
+          "title": "Spotify keeps making it harder for me to listen to music",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/kAucPM6jjsW5GcaixI4BOsRzTdc=/0x0:2040x1360/1200x628/filters:focal(1000x737:1001x738)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951389/STK088_VRG_Illo_N_Barclay_6_spotify.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23380148/cabinet-of-curiosities-guillermo-del-toro-netflix-series-trailer",
+          "author": null,
+          "description": "Guillermo del Toro presents his Cabinet of Curiosities. | Image: Netflix\n    \n\n  \nGuillermo del Toro is finally ready to show off the first proper trailer for his intriguing Netflix anthology called Cabinet of Curiosities. The series is made up of eight stories with names like “Graveyard Rats” and “Dreams in the Witch House,” and the first trailer definitely makes it seem like — while they’re all spooky — we’ll get a nice mix of genres and styles: haunted houses, gothic horror, and straight-up slasher stories.\nThat likely comes down to the variety of creative minds working on the show. While del Toro penned two original stories for Cabinet of Curiosities, the anthology also includes episodes from The Babadook director Jennifer Kent, Cube director Vincenzo Natali, and Mandy director Panos Cosmatos, among others. The series similarly has a wonderfully eclectic cast, including the likes of Rupert Grint (the Harry Potter films), Crispin Glover (Back to the Future), Ismael Cruz Córdova (The Lord of the Rings: The Rings of Power), Elpidia Carrillo (Predator), and Charlyne Yi (Paper Heart).\nCabinet of Curiosities starts streaming on Netflix on October 25th, and it comes alongside several other promising Halloween movies and shows this year, including Netflix’s adaptation of the Stephen King short Mr. Harrigan’s Phone (October 5th), Mike Flanagan’s latest series The Midnight Club (October 7th), and Hulu’s reboot of Hellraiser (October 7th). There’s also more from del Toro coming later in the year with his stop-motion adaptation of Pinocchio, which is coming to Netflix on December 9th.",
+          "link": "https://www.theverge.com/23380148/cabinet-of-curiosities-guillermo-del-toro-netflix-series-trailer",
+          "publishedOn": "2022-09-30T14:00:40.000Z",
+          "wordCount": 7232,
+          "title": "The first trailer for Guillermo del Toro’s Cabinet of Curiosities looks like just the thing for Halloween",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/IjltjK_c19Ob59i5wFsyOUlmqv8=/0x0:3600x1896/1200x628/filters:focal(1800x948:1801x949)/cdn.vox-cdn.com/uploads/chorus_asset/file/24067815/Guillermo_Del_Toro_s_Cabinet_of_Curiosities_S1_LOT36_00_00_45_23R.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech",
           "author": null,
           "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nStadia will shut down on January 18th, 2023. Here, you’ll find the latest developments on the service as its winds down as well as pieces from our writers on its impact (or lack of it) on the gaming and tech industry. \n Google announced on September 29th, 2022, that its Stadia cloud game streaming service will be terminated in late January 2023. You can no longer make purchases through the platform, and notably, Google is offering refunds to gamers for everything that they might have purchased during its three-year existence: controllers, games, and all.\nDespite coming to a close (which many predicted given Google’s tendency to kill projects instead of letting them fizzle out), Google arguably succeeded at delivering on its promise of bringing cloud game streaming to a bunch of screens before Microsoft, Sony, and Amazon had formal plans to do the same. It was also novel in the industry for being a platform that didn’t require any hardware buy-in on the side of the user; you could plug a controller you already owned into your computer and get started by launching Google Chrome. Here’s our original review from 2019, for old times’ sake.\nWe’re taking a look back and a look forward to dig more into Stadia while we still can. You’ll find all posts about the death of Stadia — and possibly the remnants of it that will live on — rounded up in this StoryStream.",
@@ -1966,6 +1996,16 @@
           "publishedOn": "2022-09-30T13:19:57.000Z",
           "wordCount": null,
           "title": "New Inflation Data Shows Prices Remain Stubbornly High",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/sports/football/tua-tagovailoa-head-injury.html",
+          "author": "Ken Belson",
+          "description": "Miami’s quarterback left Thursday’s game on a stretcher after his head was slammed to the turf for the second time in five days. The players’ union has asked for an investigation of his team’s handling of the concussion protocol.",
+          "link": "https://www.nytimes.com/2022/09/29/sports/football/tua-tagovailoa-head-injury.html",
+          "publishedOn": "2022-09-30T11:22:41.000Z",
+          "wordCount": null,
+          "title": "Dolphins’ Tua Tagovailoa Hospitalized After Second Head Hit in Two Games",
           "imageUrl": null
         },
         {
@@ -6240,6 +6280,26 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/movies/peter-strickland-flux-gourmet.html",
+          "author": "Simran Hans",
+          "description": "The British filmmaker crafts strange, offbeat cinematic universes. His latest, “Flux Gourmet,” reveals his affinity with sound in new ways.",
+          "link": "https://www.nytimes.com/2022/09/30/movies/peter-strickland-flux-gourmet.html",
+          "publishedOn": "2022-09-30T14:10:12.000Z",
+          "wordCount": null,
+          "title": "Welcome to Peter Strickland’s Worlds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html",
+          "author": "Siddhartha Mitter",
+          "description": "Marilyn Nance was 23 when she photographed FESTAC ’77, the immense gathering of Black artists in Nigeria. In ‘Last Day in Lagos,’ she shares her archive.",
+          "link": "https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html",
+          "publishedOn": "2022-09-30T14:00:11.000Z",
+          "wordCount": null,
+          "title": "A Shining Moment of Pan-African Promise",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/theater/review-textplay-stoppard-beckett.html",
           "author": "Jesse Green",
           "description": "An imaginary electronic conversation between the two playwrights falls somewhere between a ❤️ and a 🤷.",
@@ -7156,6 +7216,56 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602603",
+          "author": "Mankaprr Conteh",
+          "description": "Smino first previewed the song earlier this month at a radio station in his hometown of St. Louis",
+          "link": "https://www.rollingstone.com/music/music-news/smino-and-j-cole-90-proof-1234602603/",
+          "publishedOn": "2022-09-30T14:26:17.000Z",
+          "wordCount": 7083,
+          "title": "Smino and J. Cole Go Down Easy ’90 Proof’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/j-cole-smino.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602815",
+          "author": "Daniel Kreps",
+          "description": "Judge says jury must decide whether singer's 2014 hit copied Marvin Gaye's \"Let's Get It On\"",
+          "link": "https://www.rollingstone.com/music/music-news/copyright-infringement-lawsuit-ed-sheeran-thinking-out-loud-marvin-gaye-trial-1234602815/",
+          "publishedOn": "2022-09-30T14:10:57.000Z",
+          "wordCount": 7184,
+          "title": "Copyright Infringement Lawsuit Over Ed Sheeran’s ‘Thinking Out Loud’ Headed to Trial",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1418619167.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602577",
+          "author": "Tomás Mier",
+          "description": "Seavey tells Rolling Stone that \"Can We Pretend That We're Good?\" is the \"best representation of who I am and where I am going as my own artist\"",
+          "link": "https://www.rollingstone.com/music/music-news/daniel-seavey-premires-solo-single-why-dont-we-1234602577/",
+          "publishedOn": "2022-09-30T14:00:00.000Z",
+          "wordCount": 7300,
+          "title": "Daniel Seavey Is Finally ‘Digging Into Who I Truly Am’ With First Single Since Why Don’t We’s Hiatus",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Daniel-Seavey-002-credit-Brandon-Phillips-horizontal.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602777",
+          "author": "Larisha Paul",
+          "description": "The TikTok-teased single follows the arrival of the Canadian pop singer's debut album, I Used to Think I Could Fly",
+          "link": "https://www.rollingstone.com/music/music-news/tate-mcrae-new-single-uh-oh-1234602777/",
+          "publishedOn": "2022-09-30T13:47:09.000Z",
+          "wordCount": 7174,
+          "title": "Tate McRae Just Couldn’t Help Herself on New Single ‘Uh Oh’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1420820111.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234600929",
+          "author": "Jon Dolan",
+          "description": "The post-punk trio call on vintage NYC sounds and their own fierce resolve on their first album in nine years",
+          "link": "https://www.rollingstone.com/music/music-album-reviews/yeah-yeah-yeahs-cool-it-down-1234600929/",
+          "publishedOn": "2022-09-30T13:45:34.000Z",
+          "wordCount": 7348,
+          "title": "Yeah Yeah Yeahs Fight Hard Times With Raw Beauty  on ‘Cool It Down’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Yeah-Yeah-Yeahs-Cool-It-Down-_-Press-Photo-by-David-Black.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602721",
           "author": "Jason Newman",
@@ -8550,6 +8660,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2413726",
+          "author": "Natasha Mascarenhas",
+          "description": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. Before we get into this week’s show notes, some programming notes: First up, use code “EQUITY” for a special listener discount for Disrupt tickets. We’re less than one month away! We also have a special […]\nWe’re all just a Hop, Skip and a Drive away from a better Hustle by Natasha Mascarenhas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/were-all-just-a-hop-skip-and-a-drive-away-from-a-better-hustle/",
+          "publishedOn": "2022-09-30T14:00:14.000Z",
+          "wordCount": 6283,
+          "title": "We’re all just a Hop, Skip and a Drive away from a better Hustle",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200"
+        },
         {
           "id": "https://techcrunch.com/?p=2414450",
           "author": "Jaclyn Trop",
@@ -11468,6 +11588,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "bvmy3v",
+          "author": "Tim Marchman",
+          "description": "It's hard to get straight answers about whether the Meta CEO will be testing himself against elite competition on ESPN this Saturday.",
+          "link": "https://www.vice.com/en_us/article/bvmy3v/is-mark-zuckerberg-fighting-at-this-weekends-ufc-show",
+          "publishedOn": "2022-09-30T14:08:38.000Z",
+          "wordCount": 4608,
+          "title": "Is Mark Zuckerberg Fighting at This Weekend’s UFC Show?",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336f63f856cce009accc65c/lede/1664546629724-zuckpower.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336f63f856cce009accc65c/lede/1664546629724-zuckpower.jpeg"
+        },
+        {
+          "id": "k7bnkz",
+          "author": "Jason Koebler",
+          "description": "NASA says the mission would prevent the famous telescope from falling to Earth.",
+          "link": "https://www.vice.com/en_us/article/k7bnkz/spacex-is-studying-a-mission-to-reboost-the-hubble-space-telescope",
+          "publishedOn": "2022-09-30T13:57:06.000Z",
+          "wordCount": 3511,
+          "title": "SpaceX Is Studying a Mission to Reboost the Hubble Space Telescope",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336f5167ac4f3009a56c335/lede/1664546115995-screen-shot-2022-09-30-at-95501-am.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336f5167ac4f3009a56c335/lede/1664546115995-screen-shot-2022-09-30-at-95501-am.png"
+        },
+        {
+          "id": "z34q8x",
+          "author": "Carter Sherman",
+          "description": "He allegedly handcuffed his victim and strangled him with a belt until he passed out.",
+          "link": "https://www.vice.com/en_us/article/z34q8x/grindr-kidnapping-gay-men",
+          "publishedOn": "2022-09-30T13:57:03.000Z",
+          "wordCount": 3890,
+          "title": "Kidnapper Targeted Gay Men on Grindr to Kill and Dismember Them",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336f17dac70f9009bb6a1c4/lede/1664545154086-gettyimages-1140423087.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336f17dac70f9009bb6a1c4/lede/1664545154086-gettyimages-1140423087.jpeg"
+        },
+        {
           "id": "jgpvay",
           "author": "Pallavi Pundir",
           "description": "On September 29, a school teacher accused of beating his student to death was arrested. Cops say it’s an isolated murder, but his family says it isn’t.",
@@ -13747,6 +13912,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849601243",
+          "author": "Ethan Gach",
+          "description": "Few thought Google’s troubled streaming service, Stadia, might ever become a dominant player in the gaming industry, but almost no one expected it to shut down so abruptly, including the company’s own employees. Stadia VP Phil Harrison, fast becoming the grim reaper of new gaming initiatives, informed staff of the…\nRead more...",
+          "link": "https://kotaku.com/stadia-google-bungie-destiny-2-cyberpunk-2077-red-dead-1849601243",
+          "publishedOn": "2022-09-30T14:10:00.000Z",
+          "wordCount": 7540,
+          "title": "Game Devs And Stadia Employees Alike Were Blindsided By The Sudden Shutdown",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/915f2a56a7c103f86257a00be29e5815.jpg"
+        },
+        {
           "id": "1849600675",
           "author": "George Yang",
           "description": "2022 is a great year to be an RPG fan, particularly of Japanese games. The holiday season is usually crowded with new game releases, but this year Square Enix appears to be releasing games like it’s Christmas all year round. With so many out already, and so many more to come, are SE’s profligate ways good or bad for…\nRead more...",
@@ -15351,6 +15526,26 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23379225/hunt-first-trailer-squid-game-star-lee-jung-jae",
+          "author": null,
+          "description": "Photo: Magnet Releasing\n    \n\n  \nThe first trailer teases the blockbuster action coming to America in December\n For most American viewers, Netflix’s Korean import series Squid Game was probably an introduction to Lee Jung-jae, who plays the hapless series protagonist, and one of the more tragic victims of its lethal children’s games. But Lee has been a high-profile star (and sought-after fashion model) in Korea for decades, and with the new action-driven spy thriller Hunt, he makes the leap to film director as well. \nLee co-stars in Hunt as the head of foreign operations for Korea’s Central Intelligence Agency, opposite Jung Woo-sung as the head of domestic operations. When a series of crucial intelligence leaks threatens South Korea’s president, the two agencies learn that there’s a high-powered, deep-cover mole somewhere within the KCIA. Both men investigate, but as their effort heats up, it also turns into a profoundly personal feud, as they both try to uncover and expose each other as possible North Korean spies.\nThe film, which premiered at the 2022 Cannes International Film Festival, is a sprawling but intense action film that balances spy-agency intrigue with shootouts and mass combat. As the dueling leaders weaponize their entire agencies against each other, sending hordes of agents into shootouts and chases in their attempts to be the first to reach any new information or useful asset. It’s blockbuster-level filmmaking, and the first trailer for the film shows off some of Lee’s directorial skills in terms of staging street warfare and mass faceoffs.\nHunt will premiere in theaters and on VOD on Dec. 2.",
+          "link": "https://www.polygon.com/23379225/hunt-first-trailer-squid-game-star-lee-jung-jae",
+          "publishedOn": "2022-09-30T14:27:09.000Z",
+          "wordCount": 2142,
+          "title": "Squid Game star’s spy thriller Hunt has an intense trailer with great action",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/YTg1gFWMJofBR0z3_O0FAe6YWxU=/0x0:2500x1309/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24066120/Hunt_image.jpeg"
+        },
+        {
+          "id": "https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis",
+          "author": null,
+          "description": "Image: Netflix\n    \n\n\n  \nAndrew Dominik settles for sensational, shocking turns with his Marilyn Monroe biopic \n Prior to its release this week, the controversy surrounding Netflix’s Marilyn Monroe film Blonde centered on its NC-17 rating. According to reports, the film was delayed by a year as Netflix wrangled with director Andrew Dominik over the final cut, apparently hoping to avoid the rating. Rumors swirled about the extreme sexual content that might have earned it.\nThe true mystery, however, was why the streamer would care. An NC-17 rating greatly limits theatrical distribution and marketing, making it a commercial disaster for a traditional studio. But this should not trouble Netflix, which typically gives its prestige films like Blonde a very limited theatrical run in order to qual…",
+          "link": "https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis",
+          "publishedOn": "2022-09-30T14:15:00.000Z",
+          "wordCount": 2307,
+          "title": "Does Netflix regret Blonde’s NC-17 rating or the whole movie?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/7yjBKFxYyfzfzC7_6Xw3cJNAf0w=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065017/BLONDE_STILLS_380330.JPG"
+        },
+        {
           "id": "https://www.polygon.com/23378700/lord-rings-power-adar-tolkien-galadriel-episode-6",
           "author": null,
           "description": "Image: Prime Video\n    \n\n\n  \nJ.R.R. Tolkien’s Middle-earth rules run into trouble in episode 6\n “Udûn” is The Lord of the Rings: The Rings of Power’s first full-fledged battle episode, and fans of the Prime Video series certainly get their money’s worth in terms of sheer blockbuster spectacle. Yet for all the toppled towers and climactic cavalry charges, the episode’s most memorable scene is also one of its least bombastic: the quiet conversation between Galadriel (Morfydd Clark) and Adar (Joseph Mawle). More than anything else that happens in “Udûn,” this largely action-free encounter dramatically alters the status quo of The Rings of Power going forward — although whether it does so for the better or the worse is tough to call.\nThe set-pieces in The Rings of Power episode 6 are suitably …",
@@ -15887,6 +16082,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "af72050e-3af4-41e6-b9f7-9e63e6be4a5e",
+          "author": "Simon Cardy",
+          "description": "Overwatch 2, Modern Warfare 2, Prodeus, plus our favourite shooters.",
+          "link": "https://www.ign.com/articles/ign-uk-podcast-664-our-favourite-first-person-shooters",
+          "publishedOn": "2022-09-30T13:19:21.000Z",
+          "wordCount": 8163,
+          "title": "IGN UK Podcast #664: Our Favourite First-Person Shooters",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/30/664-thumb-1664543951384.jpg?width=1280"
+        },
         {
           "id": "91f7d95a-0e71-4c0d-a4b6-c5f197330d28",
           "author": "Ryan Dinsdale",
@@ -24670,6 +24875,26 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94565437,width-1070,height-580,imgsize-22842,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/putin-says-russia-has-four-new-regions-as-he-announces-annexation-of-ukrainian-territory/articleshow/94563819.cms",
+          "author": null,
+          "description": "Russian President Vladimir Putin on Friday announced Russia had \"four new regions\". In a speech in the Kremlin, he outlined Russia's annexation of four Ukrainian regions that Moscow's forces have partially seized during a seven-month conflict with Ukraine.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/putin-says-russia-has-four-new-regions-as-he-announces-annexation-of-ukrainian-territory/articleshow/94563819.cms",
+          "publishedOn": "2022-09-30T12:30:48.000Z",
+          "wordCount": 5358,
+          "title": "Putin announces annexation of Ukrainian territory",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94563841,width-1070,height-580,imgsize-45326,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-12-sailors-die-of-suspected-food-poisoning-on-ship-off-vietnam/articleshow/94562287.cms",
+          "author": null,
+          "description": "At least 12 sailors on a Chinese-flagged cargo ship have died of suspected food poisoning off Vietnam's southern coast, a government official said on Friday.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-12-sailors-die-of-suspected-food-poisoning-on-ship-off-vietnam/articleshow/94562287.cms",
+          "publishedOn": "2022-09-30T11:50:50.000Z",
+          "wordCount": 6149,
+          "title": "At least 12 sailors die of suspected food poisoning on ship off Vietnam",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/russian-strike-kills-23-as-kremlin-to-annex-ukraine-regions/articleshow/94558000.cms",
           "author": null,
           "description": "Europe News: KYIV: A Russian strike on the Ukrainian city of Zaporizhzhia killed at least 23 people and wounded dozens, an official said Friday, just hours before .",
@@ -26384,6 +26609,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russia-annexes-four-regions-of-ukraine-will-use-all-means-to-defend-new-land-putin-warns-west/articleshow/94560395.cms",
+          "author": null,
+          "description": "Over 8 years after the historic annexation of Crimea, Russia on Friday formally added four more Ukrainian territories under Moscow’s rule where referendums were held recently. Russian President Vladimir Putin presided over a ceremony at the Kremlin to annex Donetsk, Luhansk, Zaporizhzhia and Kherson regions of Ukraine.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-annexes-four-regions-of-ukraine-will-use-all-means-to-defend-new-land-putin-warns-west/articleshow/94560395.cms",
+          "publishedOn": "2022-09-30T13:48:03.000Z",
+          "wordCount": 10326,
+          "title": "Will use all means to defend new land, Putin warns West",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94565649,width-1070,height-580,imgsize-880990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/photostory/94565118.cms",
+          "author": null,
+          "description": "This week in the TV industry has been an eventful one. A lot has been abuzzing with controversial TV show Bigg Boss conducting a press conference and revealing a bunch of details about Salman Khan’s fee, confirmed contestants to Nikki going to the Tihar jail to create her meet with Sukesh Chandrasekhar and more. Here is the list of top TV news of the week:-",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/photostory/94565118.cms",
+          "publishedOn": "2022-09-30T13:40:10.000Z",
+          "wordCount": 10134,
+          "title": "Kaveri Priyam recalls casting couch experience: Top TV news of the week",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94566018.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/auto/news/my-dream-is-to-make-the-indian-automotive-sector-worth-15-lakh-crore-nitin-gadkari/articleshow/94564652.cms",
           "author": null,
           "description": "Nitin Gadkari stated, “Electric buses have grown by 1,600 percent in India. We currently have 1,50,000 buses in the country and my prediction is that within 5 years there is huge potential for electric buses because they are cheaper to run and the government is working towards encouraging public transport in the country.”",
@@ -26392,6 +26637,26 @@
           "wordCount": 6338,
           "title": "'My dream is to make automotive sector worth 15 lakh cr'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94565059,width-1070,height-580,imgsize-1159046,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/68th-national-film-awards-aaroh-velankars-funral-wins-the-best-film-for-social-issues/articleshow/94565087.cms",
+          "author": null,
+          "description": "The 68th National Film Awards for the year 2022 was announced in July, and many Marathi films, 'Me Vasantrao', 'Sumi' and 'Goshta Eka Paithanichi' have been honoured with the esteemed award.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/68th-national-film-awards-aaroh-velankars-funral-wins-the-best-film-for-social-issues/articleshow/94565087.cms",
+          "publishedOn": "2022-09-30T13:18:49.000Z",
+          "wordCount": 9043,
+          "title": "'Funral' in Marathi bags national award for best film on social issues",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94565087,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-975891/94565087.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/68th-national-awards-2020-the-saviour-brig-pritam-singh-gets-the-title-of-the-best-investigative-film-in-the-category-of-non-feature-films/articleshow/94564873.cms",
+          "author": null,
+          "description": "Today at the prestigious 68th National Awards 2020, Punjabi movie ‘The Saviour: Brig. Pritam Singh’ got the title of the Best Investigative Film in the category of non-feature films. To receive the award, the producer of the movie Karanvir Singh Sibla and director Dr. Paramjeet Singh Kattu were present in Delhi at the event.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/68th-national-awards-2020-the-saviour-brig-pritam-singh-gets-the-title-of-the-best-investigative-film-in-the-category-of-non-feature-films/articleshow/94564873.cms",
+          "publishedOn": "2022-09-30T13:09:15.000Z",
+          "wordCount": 8986,
+          "title": "‘The Saviour...’ wins national award in non-feature film category",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94564898,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-49248/94564898.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/business/india-business/fema-authority-approves-indias-biggest-seizure-order-against-chinese-mobile-company-xiaomi-ed/articleshow/94564243.cms",
@@ -26422,6 +26687,16 @@
           "wordCount": 5860,
           "title": "TOISA 2021: Meet the nominees - Neeraj Chopra",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94563391,width-1070,height-580,imgsize-41018,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-a-new-beginning-or-a-missed-reboot-chance/articleshow/94560612.cms",
+          "author": null,
+          "description": "Is the Congress president's election, with almost a predetermined outcome, a sham, or an exercise in futility? May be not. It's still a rare sight in India for a political party to hold internal elections and that too in full public glare.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-poll-a-new-beginning-or-a-missed-reboot-chance/articleshow/94560612.cms",
+          "publishedOn": "2022-09-30T12:01:06.000Z",
+          "wordCount": 7921,
+          "title": "Cong prez poll: A new beginning or a missed reboot chance?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560612,width-1070,height-580,imgsize-932165,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-nifty-rebound-after-7-day-fall-surge-after-rbi-rate-hike/articleshow/94561975.cms",
