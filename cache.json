@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23378504/macbook-air-fitbit-sense-magsafe-battery-pack-hisense-u7h-tv-deal-sale",
+          "author": null,
+          "description": "The MacBook Air models with both 256GB and 512GB of storage are on sale. | Image: Dan Seifert / The Verge\n    \n\n  \nIf the deal on the 512GB M2-powered MacBook Air we featured earlier this week was too spendy for you, fret not, because Apple’s base model is currently even cheaper. Right now, Amazon and Best Buy are selling the model with 8GB of RAM and 256GB of storage for just $1,049 ($150 off), the laptop’s lowest price to date. Unlike Amazon, however, Best Buy is discounting all colors in case you’re not a fan of dark blue or gray.\nTrue, it may take a while to perform some tasks given the storage on the base model is slower than that of the new 512GB M2-powered Air, but it’s still faster overall and should satisfy the average person’s needs. Plus, it significantly improves upon one of th…",
+          "link": "https://www.theverge.com/2022/9/30/23378504/macbook-air-fitbit-sense-magsafe-battery-pack-hisense-u7h-tv-deal-sale",
+          "publishedOn": "2022-09-30T14:54:17.000Z",
+          "wordCount": 9838,
+          "title": "Apple’s new M2-powered MacBook Air is cheaper than ever",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/5WtOgzAbNnVtQuuFs5-_RcYIj3k=/0x0:1440x960/1200x628/filters:focal(720x480:721x481)/cdn.vox-cdn.com/uploads/chorus_asset/file/24068493/macbookair.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23380260/arrival-electric-van-production-microfactory-cash-raise",
+          "author": null,
+          "description": "Arrival’s first production verification van at its microfactory in southern England. | Image: Arrival\n    \n\n  \nArrival, an electric vehicle startup based in the UK, announced that its so-called “microfactory” based in southern England has produced its first production verification vehicle. The news comes as the company is reportedly in talks to raise money so it can build and sell its electric vehicles in the US. \nThe electric van was produced using “in-house technologies, including composite materials, autonomous mobile robots, in-house components and a software defined factory,” the company said. The milestone is proof that Arrival’s microfactory concept, which are highly automated small-footprint facilities where it plans to build its vehicles, is working. \n“This is the first time a veh…",
+          "link": "https://www.theverge.com/2022/9/30/23380260/arrival-electric-van-production-microfactory-cash-raise",
+          "publishedOn": "2022-09-30T14:45:48.000Z",
+          "wordCount": 7454,
+          "title": "UK startup Arrival’s unique ‘microfactory’ produces its first electric van",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vBVE6MjFz5wQUHk2V4zehzFVXM4=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24068373/DELTA_PRESS_2.png"
+        },
+        {
+          "id": "https://www.theverge.com/22227476/cancel-netflix-apple-plus-amazon-prime-hbo-max-how-to-streaming-subscriptions",
+          "author": null,
+          "description": "Illustration by Samar Haddad / The Verge\n    \n\n  \nLet’s face it: many of us don’t pay enough attention to what streaming services we are subscribed to — and paying for. Especially now, when there are more and more services vying for our attention, it’s easy to go for a trial subscription, or to decide that you’re going to subscribe “just for a couple of months,” and then completely forget about it. Meanwhile, your charge card is being pinged every month.\nFor example, over a year ago, Matthew Inman, the comics artist who creates the site The Oatmeal, reported (to his apparent chagrin) that he had been paying for Netflix’s DVD subscription for the last 13 years:\nToday Netflix was kind enough to let me know that  I've accidentally been paying for a DVD subscription for THIRTEEN FUCKING YEARS.…",
+          "link": "https://www.theverge.com/22227476/cancel-netflix-apple-plus-amazon-prime-hbo-max-how-to-streaming-subscriptions",
+          "publishedOn": "2022-09-30T14:39:27.000Z",
+          "wordCount": 10617,
+          "title": "How to cancel your account at Netflix, Amazon Prime, Hulu, and others",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/lykaL-7by9dOGJR2T8uRyUkH-Xg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952443/HT026_TV_0002.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke",
           "author": null,
           "description": "The Verge\n    \n\n  \nThe NSA, as a rule, wants to employ people who are good at spying. But according to the FBI, one former employee tried to turn the tables on the agency and was caught in the act.\nPer details released by the Department of Justice this week, a Colorado resident was arrested Wednesday and charged with attempting to transmit classified information to a representative of a foreign government.\nThe press release says that Jareh Sebastian Dalke, 30, was employed by the NSA from June 6th to July 1st, 2022. Between August and September 2022, feds say that he used an encrypted email account to transmit portions of three classified documents to an individual who he believed to be working for a foreign government. \nIn fact, that individual was an FBI agent who lured Dalke into a stin…",
@@ -1978,6 +2008,46 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/30/nyregion/queens-man-charged-murder-paramedic-stabbing.html",
+          "author": "Corey Kilgannon",
+          "description": "The 34-year-old suspect fled into his apartment and barricaded himself after killing Lt. Alison Russo-Elling, prosecutors said.",
+          "link": "https://www.nytimes.com/2022/09/30/nyregion/queens-man-charged-murder-paramedic-stabbing.html",
+          "publishedOn": "2022-09-30T14:33:17.000Z",
+          "wordCount": null,
+          "title": "Queens Man Charged With Murder After Paramedic’s Stabbing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html",
+          "author": "Joe Rennison",
+          "description": "The S&P 500 on course for its third straight weekly fall and its third straight quarterly slump, the kinds of losses investors have not faced since 2009.",
+          "link": "https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html",
+          "publishedOn": "2022-09-30T14:30:39.000Z",
+          "wordCount": null,
+          "title": "Wall Street ends an ugly quarter with a whimper.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/ukraine-submits-an-application-to-join-nato-zelensky-says",
+          "author": "Andrew E. Kramer",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/ukraine-submits-an-application-to-join-nato-zelensky-says",
+          "publishedOn": "2022-09-30T14:30:13.000Z",
+          "wordCount": null,
+          "title": "Ukraine submits an application to join NATO, Zelensky says.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/new-us-sanctions-on-russia-hit-defense-and-technology-sectors-and-top-officials",
+          "author": "Edward Wong",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/new-us-sanctions-on-russia-hit-defense-and-technology-sectors-and-top-officials",
+          "publishedOn": "2022-09-30T14:30:08.000Z",
+          "wordCount": null,
+          "title": "New U.S. sanctions on Russia hit defense and technology sectors and top officials.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html",
           "author": "Michael Schwirtz and Andrew E. Kramer",
@@ -5893,6 +5963,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/interactive/2022/09/30/books/review/page-screen-author-quiz.html",
+          "author": "J. D. Biersdorfer",
+          "description": "Can you identify this novelist whose work has also been popular at the movie box office?",
+          "link": "https://www.nytimes.com/interactive/2022/09/30/books/review/page-screen-author-quiz.html",
+          "publishedOn": "2022-09-30T14:30:06.000Z",
+          "wordCount": 2934,
+          "title": "Page and Screen: How Well Do You Know This Best-Selling Author?",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/21/books/review/00TBR-QUIZ-PROMO/00TBR-QUIZ-PROMO-facebookJumbo.png"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html",
           "author": "Lauren Christensen",
           "description": "Deep in waters rarely seen by humans, these “gentle goliaths” are back from near-extinction.",
@@ -6279,6 +6359,36 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/music/sue-mingus-dead.html",
+          "author": "Clay Risen",
+          "description": "Charles Mingus was among the greatest bassists in jazz. She worked tirelessly to ensure that he was known as a great composer as well.",
+          "link": "https://www.nytimes.com/2022/09/30/arts/music/sue-mingus-dead.html",
+          "publishedOn": "2022-09-30T15:00:58.000Z",
+          "wordCount": null,
+          "title": "Sue Mingus, Promoter of Her Husband’s Musical Legacy, Dies at 92",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/movies/my-best-friends-exorcism-review-like-totally-satan.html",
+          "author": "Calum Marsh",
+          "description": "A group of high schoolers contend with a friend’s demonic possession in this 1980s-set horror-comedy.",
+          "link": "https://www.nytimes.com/2022/09/30/movies/my-best-friends-exorcism-review-like-totally-satan.html",
+          "publishedOn": "2022-09-30T15:00:01.000Z",
+          "wordCount": null,
+          "title": "‘My Best Friend’s Exorcism’ Review: Like, Totally Satan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/music/playlist-paramore-yeah-yeah-yeahs.html",
+          "author": "Jon Pareles and Lindsay Zoladz",
+          "description": "Hear tracks by Yeah Yeah Yeahs, LCD Soundsystem, Dram and others.",
+          "link": "https://www.nytimes.com/2022/09/30/arts/music/playlist-paramore-yeah-yeah-yeahs.html",
+          "publishedOn": "2022-09-30T14:52:05.000Z",
+          "wordCount": null,
+          "title": "Paramore Steps Into a New Era, and 8 More New Songs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/30/movies/peter-strickland-flux-gourmet.html",
           "author": "Simran Hans",
@@ -7216,6 +7326,26 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602842",
+          "author": "Daniel Kreps",
+          "description": "James Murphy and company will close out 2022 with 20-show residency at Brooklyn Steel",
+          "link": "https://www.rollingstone.com/music/music-news/lcd-soundsystem-new-body-rhumba-brooklyn-residency-1234602842/",
+          "publishedOn": "2022-09-30T14:46:31.000Z",
+          "wordCount": 7152,
+          "title": "LCD Soundsystem Return to the Dance Floor With New Song ‘New Body Rhumba’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1405979315.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602825",
+          "author": "Larisha Paul",
+          "description": "The musician recorded new music and dialogue as the animated character prior to his death on Wednesday at age 59",
+          "link": "https://www.rollingstone.com/music/music-news/futurama-coolio-voice-kwanzaabot-1234602825/",
+          "publishedOn": "2022-09-30T14:41:24.000Z",
+          "wordCount": 7059,
+          "title": "‘Futurama’ Producer: Coolio’s Voice Will Appear as Kwanzaa-bot in ‘Best Send-Off We Can’ Give",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/coolio-album.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602603",
           "author": "Mankaprr Conteh",
@@ -8660,6 +8790,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412622",
+          "author": "Lauren Simonds",
+          "description": "Are you ready to rumble, TechCrunch style? Twenty of the most promising and creative early-stage startups — chosen from the elite Startup Battlefield 200 — will bring the heat for $100,000 in the world-renown Startup Battlefield competition at TechCrunch Disrupt on October 18–20 in San Francisco. We have an outstanding cohort of VCs ready to […]\nVCs at Freestyle, Plexo Capital and Sequoia join Startup Battlefield judges by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/vcs-at-freestyle-plexo-capital-and-sequoia-join-startup-battlefield-judges/",
+          "publishedOn": "2022-09-30T15:00:12.000Z",
+          "wordCount": 6844,
+          "title": "VCs at Freestyle, Plexo Capital and Sequoia join Startup Battlefield judges",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/bfjudges_3.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2414532",
+          "author": "Lauren Forristal",
+          "description": "YouTube TV launched a new option that allows subscribers to purchase add-ons without subscribing to the full channel offering in the service’s Base plan. With this new à la carte plan, subscribers can access more than 20 add-on channels, from Showtime and HBO Max to NBA League Pass, MLB.TV, and Starz among others. This confirms […]\nYouTube TV users can now subscribe to standalone networks without a base plan by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/youtube-tv-users-can-now-subscribe-to-standalone-networks-without-a-base-plan/",
+          "publishedOn": "2022-09-30T14:33:48.000Z",
+          "wordCount": 6029,
+          "title": "YouTube TV users can now subscribe to standalone networks without a base plan",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-10.32.31-AM.png?resize=1200,666"
+        },
         {
           "id": "https://techcrunch.com/?p=2413726",
           "author": "Natasha Mascarenhas",
@@ -11588,6 +11738,66 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "88qvep",
+          "author": "Matthew Gault",
+          "description": "Minutes after the speech concluded, Ukraine announced it would formally submit an application to join NATO.",
+          "link": "https://www.vice.com/en_us/article/88qvep/putin-accuses-west-of-satanism-and-announces-annexations-in-terrifying-speech",
+          "publishedOn": "2022-09-30T15:10:18.000Z",
+          "wordCount": 5364,
+          "title": "Putin Accuses West of ‘Satanism’ and Announces Annexations in Terrifying Speech",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633705d75d8eb6009b384968/lede/1664550484186-fd56wvvwaaakwm.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633705d75d8eb6009b384968/lede/1664550484186-fd56wvvwaaakwm.jpeg"
+        },
+        {
+          "id": "qjkwnm",
+          "author": "Keegan Hamilton",
+          "description": "The product appears to be the latest effort by gun enthusiasts to get around strict laws on fully automatic weapons.",
+          "link": "https://www.vice.com/en_us/article/qjkwnm/bolt-part-ar15-machine-guns",
+          "publishedOn": "2022-09-30T15:05:05.000Z",
+          "wordCount": 9843,
+          "title": "A $50 Part That Makes AR-15s Shoot Like Machine Guns Has People Worried",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336ff63856cce009acccf55/lede/1664549760942-machine-gun-part.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336ff63856cce009acccf55/lede/1664549760942-machine-gun-part.jpeg"
+        },
+        {
+          "id": "93an8a",
+          "author": "Lorenzo  Franceschi-Bicchierai",
+          "description": "Grayshift filed a series of documents with the FCC that reveal the looks of the new cellphone unlocking device.",
+          "link": "https://www.vice.com/en_us/article/93an8a/this-is-the-graykey-20-the-tool-cops-use-to-hack-phones",
+          "publishedOn": "2022-09-30T15:01:11.000Z",
+          "wordCount": 4193,
+          "title": "This Is the ‘GrayKey 2.0,’ the Tool Cops Use to Hack Phones",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336f2d08349520093d8dae2/lede/1664545582692-screen-shot-2022-09-30-at-94312-am.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336f2d08349520093d8dae2/lede/1664545582692-screen-shot-2022-09-30-at-94312-am.png"
+        },
+        {
+          "id": "v7vyq3",
+          "author": "Todd Zwillich",
+          "description": "We talked with author Andy Campbell about Roger Stone, right-wing goons, and what messages they’re getting from Donald Trump.",
+          "link": "https://www.vice.com/en_us/article/v7vyq3/its-going-to-be-scary-extremism-expert-predicts-violence-for-2022-midterms",
+          "publishedOn": "2022-09-30T14:58:39.000Z",
+          "wordCount": 9354,
+          "title": "‘It’s Going to Be Scary’: Extremism Expert Predicts Violence for 2022 Midterms",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336f9a12ccb79009515545d/lede/1664548112051-gettyimages-1092060272.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336f9a12ccb79009515545d/lede/1664548112051-gettyimages-1092060272.jpeg"
+        },
+        {
           "id": "bvmy3v",
           "author": "Tim Marchman",
           "description": "It's hard to get straight answers about whether the Meta CEO will be testing himself against elite competition on ESPN this Saturday.",
@@ -13911,6 +14121,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849601356",
+          "author": "Claire Jackson",
+          "description": "The Steam Deck, Valve’s mini PC, is a wonderful gaming device with plenty of excellent titles to choose from. But as a straight-up handheld computer, the Deck isn’t too shabby for non-gaming computing needs. Whether it’s using the Deck as a dockable desktop computer, a portable coding station, or even a tool for game…\nRead more...",
+          "link": "https://kotaku.com/steam-deck-valve-computers-pc-hacking-1849601356",
+          "publishedOn": "2022-09-30T14:50:00.000Z",
+          "wordCount": 5016,
+          "title": "6 Ways To Push Your Steam Deck Beyond Gaming",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5017dccdd02e259abfe50ce20057b2a5.jpg"
+        },
         {
           "id": "1849601243",
           "author": "Ethan Gach",
@@ -18184,6 +18404,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30/postponed-sk8-the-infinity-will-roll-onto-the-stage-in-january-2023",
+          "author": "Kara Dennison",
+          "description": "\"The Last Part\" of SK8 the Stage welcomes new cast member Keisuke Kaminaga\n\n\nThe stage adaptation of skateboarding anime SK8 the Infinity is coming back to finish out its story! Originally scheduled to run in January of this year, SK8 the Stage Part 2: The Last Part ~Our Infinity~ will bring its rivalries to the stage one last time early next year. Get the details, and take a look at the actors in costume, after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30/postponed-sk8-the-infinity-will-roll-onto-the-stage-in-january-2023",
+          "publishedOn": "2022-09-30T14:29:11.000Z",
+          "wordCount": 5997,
+          "title": "Postponed SK8 the Infinity Play Will Roll onto the Stage in January 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/0fd5125e27d8787aa225fa6a9cd324da1664546127_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/second-part-of-tiger-bunny-2-anime-gets-new-trailer",
           "author": "Humberto Saabedra",
           "description": "Next set of episodes premieres on Netflix October 7\n\n\nA week before its premiere, a new trailer has been released for the second set of TIGER & BUNNY 2 episodes. Read on for the trailer.",
@@ -19781,6 +20011,56 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/women-return-to-kuwait-national-assembly-as-opposition-wins-majority-in-parliament/article65955898.ece",
+          "author": "AFP",
+          "description": "Kuwait has never had more than four women MPs",
+          "link": "https://www.thehindu.com/news/international/women-return-to-kuwait-national-assembly-as-opposition-wins-majority-in-parliament/article65955898.ece",
+          "publishedOn": "2022-09-30T14:57:01.000Z",
+          "wordCount": 6183,
+          "title": "Women return to Kuwait national assembly as opposition wins majority in parliament",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/kz9wrm/article65955960.ece/alternates/LANDSCAPE_615/AFP_32KC4NN.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/worldview-with-suhasini-haidar-usa-pakistan-f-16-deal-will-it-affect-india-usa-relations/article65955806.ece",
+          "author": "Suhasini Haidar",
+          "description": "In this episode of Worldview, Suhasini Haidar breaks down the USA-Pakistan F-16 aircraft deal, and the reason it has become such a thorn in the side of India-USA ties.",
+          "link": "https://www.thehindu.com/news/international/worldview-with-suhasini-haidar-usa-pakistan-f-16-deal-will-it-affect-india-usa-relations/article65955806.ece",
+          "publishedOn": "2022-09-30T14:54:48.000Z",
+          "wordCount": 7396,
+          "title": "Worldview with Suhasini Haidar | USA-Pakistan F-16 deal | Will it affect India-USA relations?",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qbqznr/article65955775.ece/alternates/LANDSCAPE_615/WORLDVIEW%20thumbnail%20%288%29.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/tibet-lockdown-causing-extreme-hardships-campaigners/article65955816.ece",
+          "author": "AFP",
+          "description": "Complaints of lack of supplies and poor quarantine conditions have surfaced on Chinese social media in recent weeks.",
+          "link": "https://www.thehindu.com/news/international/tibet-lockdown-causing-extreme-hardships-campaigners/article65955816.ece",
+          "publishedOn": "2022-09-30T14:42:57.000Z",
+          "wordCount": 6263,
+          "title": "Tibet lockdown causing ‘extreme hardships’: campaigners",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g0ffa4/article65955862.ece/alternates/LANDSCAPE_615/2022-09-30T013340Z_2016811325_RC27RW9AWXS5_RTRMADP_3_HEALTH-CORONAVIRUS-CHINA.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/ukraine-accelerates-nato-bid-as-russia-annexes-seized-areas/article65955830.ece",
+          "author": "AP",
+          "description": "It wasn’t immediately clear what an “accelerated” application would mean, as ascension to NATO requires the unanimous support of the alliance’s members",
+          "link": "https://www.thehindu.com/news/international/ukraine-accelerates-nato-bid-as-russia-annexes-seized-areas/article65955830.ece",
+          "publishedOn": "2022-09-30T14:41:43.000Z",
+          "wordCount": 6115,
+          "title": "Ukraine accelerates NATO bid as Russia annexes seized areas",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/29i2a5/article65955855.ece/alternates/LANDSCAPE_615/Russia_Ukraine_War_59717.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/death-of-mahsa-amini-iran-ruthlessly-suppressing-protests-amnesty/article65955730.ece",
+          "author": "AFP",
+          "description": "Amnesty said it had confirmed 52 deaths in the protests but the toll was likely higher",
+          "link": "https://www.thehindu.com/news/international/death-of-mahsa-amini-iran-ruthlessly-suppressing-protests-amnesty/article65955730.ece",
+          "publishedOn": "2022-09-30T14:28:44.000Z",
+          "wordCount": 6346,
+          "title": "Death of Mahsa Amini | Iran ‘ruthlessly’ suppressing protests: Amnesty",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/enj4qz/article65955774.ece/alternates/LANDSCAPE_615/AFP_32KA8PW.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/business/Economy/inflation-hits-record-10-in-19-european-union-countries/article65955389.ece",
           "author": "AP",
           "description": "Inflation in the European countries using the euro currency has broken into double digits as prices for electricity and natural gas soar",
@@ -21166,6 +21446,16 @@
           "wordCount": 6647,
           "title": "'Old guard' must let go but Rahul, Priyanka not good alternatives: TOI poll on Congress crisis",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94565436,width-1070,height-580,imgsize-59434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-nepal-agree-to-prevent-misuse-of-their-territories-by-anti-nationals/articleshow/94563057.cms",
+          "author": null,
+          "description": "India News: KATHMANDU: India and Nepal have agreed to prevent the misuse of their respective territories by \"anti-nationals\" as their top paramilitary officers di.",
+          "link": "https://timesofindia.indiatimes.com/india/india-nepal-agree-to-prevent-misuse-of-their-territories-by-anti-nationals/articleshow/94563057.cms",
+          "publishedOn": "2022-09-30T12:12:02.000Z",
+          "wordCount": 6035,
+          "title": "India, Nepal agree to prevent misuse of their territories by 'anti-nationals'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-a-new-beginning-or-a-missed-reboot-chance/articleshow/94560612.cms",
@@ -24865,6 +25155,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-accelerates-nato-bid-as-russia-annexes-seized-areas/articleshow/94567098.cms",
+          "author": null,
+          "description": "Ukraine's president says his country is submitting an \"accelerated\" application to join the NATO military alliance. The comment Friday by President Volodymyr Zelenskyy came just after Russia said it would annex four region of Ukraine it seized amid its war and held gunpoint referendums viewed as illegitimate by the international community.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-accelerates-nato-bid-as-russia-annexes-seized-areas/articleshow/94567098.cms",
+          "publishedOn": "2022-09-30T14:26:29.000Z",
+          "wordCount": 7556,
+          "title": "Ukraine accelerates Nato bid as Russia annexes seized areas",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94567493,width-1070,height-580,imgsize-11246,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/eu-condemns-russian-annexation-will-never-accept-illegal-referendums/articleshow/94565073.cms",
           "author": null,
           "description": "The European Union said on Friday it firmly condemned the annexation by Russia of occupied Ukraine regions, adding it would never recognise \"illegal\" referendums held there and would tighten its sanctions to increase pressure on Moscow. The European Council, which groups the 27 EU member states, said in a statement on behalf of those members that Russia's wilful undermining of the international order was putting global security at risk.",
@@ -26777,6 +27077,16 @@
           "wordCount": 8393,
           "title": "Bombay Times Fashion Week 2022 - Day 1: SOEZI",
           "imageUrl": "https://static.toiimg.com/photo/94556231.cms"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/celebs/goldenframes/goldenframes-lata-mangeshkar-the-nightingale-of-india/articleshow/89485955.cms",
+          "author": null,
+          "description": "Lata Mangeshkar has left behind a treasure trove of songs vocalised in her euphonious voice, sung across a career over seventy years. The singer is known famously as the 'Nightingale of India' and 'Melody Queen of India.' She is Hindi cinema’s greatest playback singer with 25,000 songs in over seven decades.",
+          "link": "https://photogallery.indiatimes.com/celebs/goldenframes/goldenframes-lata-mangeshkar-the-nightingale-of-india/articleshow/89485955.cms",
+          "publishedOn": "2022-09-30T09:47:25.000Z",
+          "wordCount": 9071,
+          "title": "#GoldenFrames: Lata Mangeshkar, the Nightingale of India",
+          "imageUrl": "https://static.toiimg.com/photo/89486122.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-rakhi-sawant-to-dolly-bindra-heres-a-look-at-the-most-dramatic-contestants-on-bigg-boss-so-far/photostory/94556315.cms",
