@@ -1859,6 +1859,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/29/well/bone-health-hip-fractures-osteoporosis.html",
+          "author": "Melinda Wenner Moyer",
+          "description": "A new study predicts hip fractures will nearly double worldwide by 2050. Here’s how to avoid them.",
+          "link": "https://www.nytimes.com/2022/09/29/well/bone-health-hip-fractures-osteoporosis.html",
+          "publishedOn": "2022-09-30T00:00:03.000Z",
+          "wordCount": null,
+          "title": "How to Strengthen Your Bones and Reduce Osteoporosis Risk",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/us/trump-special-master-documents.html",
           "author": "Charlie Savage and Alan Feuer",
           "description": "The dueling moves by Judge Aileen M. Cannon and a special master she appointed reflected a larger struggle over who should control the rules of the review — and whom those rules would favor.",
@@ -1866,6 +1876,16 @@
           "publishedOn": "2022-09-29T23:45:33.000Z",
           "wordCount": null,
           "title": "Judge Overrules Special Master’s Demands to Trump in Document Review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/politics/citizens-united-republicans.html",
+          "author": "Blake Hounshell",
+          "description": "Campaign-finance reform is still very much a Democratic project, but there are signs that the winds are starting to shift on the right.",
+          "link": "https://www.nytimes.com/2022/09/29/us/politics/citizens-united-republicans.html",
+          "publishedOn": "2022-09-29T23:22:15.000Z",
+          "wordCount": null,
+          "title": "Hints of Republican Concern About Unlimited Campaign Cash",
           "imageUrl": null
         },
         {
@@ -2056,6 +2076,16 @@
           "publishedOn": "2022-09-29T17:19:30.000Z",
           "wordCount": null,
           "title": "A New Approach to Spotting Tumors: Look for Their Microbes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/dining/dreaming-of-spaghetti-and-meatless-meatballs.html",
+          "author": "Tejal Rao",
+          "description": "Ricotta polpette, vegetarian Swedish meatballs and plant-based meatballs.",
+          "link": "https://www.nytimes.com/2022/09/29/dining/dreaming-of-spaghetti-and-meatless-meatballs.html",
+          "publishedOn": "2022-09-29T17:00:04.000Z",
+          "wordCount": null,
+          "title": "Dreaming of Spaghetti and (Meatless) Meatballs",
           "imageUrl": null
         },
         {
@@ -5800,6 +5830,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/arts/television/daily-show-trevor-noah-leaving.html",
+          "author": "Trish Bendix",
+          "description": "“It’s not instant. I’m not disappearing. Don’t worry. If I owe you money, I’ll still pay you,” Noah joked.",
+          "link": "https://www.nytimes.com/2022/09/30/arts/television/daily-show-trevor-noah-leaving.html",
+          "publishedOn": "2022-09-30T05:52:46.000Z",
+          "wordCount": null,
+          "title": "After 7 Years on ‘The Daily Show,’ Trevor Noah Says ‘It’s Time’ to Depart",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
           "author": "Eduardo Medina",
           "description": "During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.",
@@ -7543,6 +7583,16 @@
       "feedUrl": "https://www.rollingstone.com/tv-movies/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602738",
+          "author": "Emily Zemler",
+          "description": "\"I’ve loved trying to find a way to make people laugh, even when the stories are particularly shitty, even on the worst days\"",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/trevor-noah-the-daily-show-departure-1234602738/",
+          "publishedOn": "2022-09-30T05:09:12.000Z",
+          "wordCount": 7362,
+          "title": "Trevor Noah to Depart ‘The Daily Show’ After Seven Years: ‘I Feel Like It’s Time’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1423224228.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234598861",
           "author": "Alan Sepinwall",
@@ -10787,6 +10837,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "g5vwmb",
+          "author": "Gavin Butler",
+          "description": "A VICE World News investigation prompted one political leader to claim that meth use in Fiji had become a “far bigger disaster than climate change.”",
+          "link": "https://www.vice.com/en_us/article/g5vwmb/fiji-politicians-police-react-meth-drugs-report",
+          "publishedOn": "2022-09-30T05:15:05.000Z",
+          "wordCount": 13472,
+          "title": "‘Our Worst Fears Confirmed’: Fiji Politicians and Police React to Meth Report",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63366dc3edd9480094ce5eb7/lede/1664514291262-fiji-police.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63366dc3edd9480094ce5eb7/lede/1664514291262-fiji-police.jpeg"
+        },
         {
           "id": "epz5mw",
           "author": "Becca Blasdel",
@@ -14476,6 +14541,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom",
+          "author": null,
+          "description": "Image: Prime Video\n    \n\n  \nYes, really, that’s Mount Doom\n Middle-earth has plenty of famous mountains, from the peaks of the Misty Mountains to Erebor, but perhaps the most important to the story is Mount Doom, the volcano at the center of Sauron’s evil domain of Mordor. In the latest episode of Amazon’s The Lord of the Rings: The Rings of Power, we got a surprising and explosive origin story for the series’ most famous volcano.\n[Ed. note: The story contains spoilers for The Lord of the Rings: The Rings of Power episode 6.]\nTo answer the most obvious question first, yes, that was in fact Mount Doom that erupted at the end of the episode. In case you, like Galadriel, are terrible at remembering what Middle-earth looks like on a map, the Southlands of The Rings of Power, where the besieged village of Ostirith sits, also happens to be the land that will later become Mordor. \nIt seems that the evolution of the land from lush fields and beautiful mountains was part of a grand design by either Morgoth or Sauron and was triggered by the sword-key, releasing a massive flood. This flood destroyed the land, thanks to the tunnels the orcs had already dug, and triggered an eruption of the volcanic Mount Doom (though in the show’s time it doesn’t have that name yet) until it erupted. This eruption spewed molten rock and magma in a miles-wide radius that it appears will remain scorched forever, or at least until Frodo, Sam, and Gollum arrive there with the One Ring.\nWhile the history of Mount Doom isn’t very explicit in Tolkien’s lore, the show’s story does seem to mostly line up. We know that the land wasn’t always called Mordor, and that the name likely arrived after Mount Doom’s eruption, but there’s no mention of the eruption itself being caused by an intentional flood.\nAs for what will happen to the area next, and how long it will take before Sauron takes up residence there, we’ll just have to wait to see where The Rings of Power takes its story next.",
+          "link": "https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom",
+          "publishedOn": "2022-09-30T05:30:00.000Z",
+          "wordCount": 2156,
+          "title": "Let’s talk about The Rings of Power’s big geographical reveal",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/HpADB680M5SfTX-hS5NFse2R3nQ=/808x0:3816x1575/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22280932/ROTK_eye_of_sauron.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23379128/kingdom-planet-apes-film-announced",
           "author": null,
           "description": "Image: 20th Century Studios\n    \n\n  \nSorry humans, you had your time\n The recent Planet of the Apes trilogy is one of the most consistently fun and thoughtful blockbuster franchise revivals in recent memory. Beginning in an understated fashion with Rupert Wyatt’s 2011 film Rise of the Planet of the Apes, the series took off when The Batman director Matt Reeves grabbed the baton for 2014’s Dawn of the Planet of the Apes and 2017’s War for the Planet of the Apes with an understated approach to post-apocalyptic action that never lost sight of the humanity in its story about a burgeoning ape society. \nTurns out their story is not over: Kingdom of the Planet of the Apes, “an all-new chapter in the ‘Planet of the Apes’ saga” will enter production next month. According to 20th Century Studios, the story will pick up many years after the conclusion of War for the Planet of the Apes, but any plot details beyond that aren’t being revealed yet.\nKingdom of the Planet of the Apes will star Owen Teague (It), Freya Allan (The Witcher), and Peter Macon (The Orville), and it will be directed by Wes Bell (known for the Maze Runner films but also the unfortunately canned animated adaptation of Mouse Guard). While this seems like a changing of the guard, two of the writers on the script — Rick Jaffa and Amanda Silver — worked on the first two films, and they’re joined by Josh Friedman and Patrick Aison (the latter of which wrote the excellent Prey). \nUnfortunately, there’s no mention of the one thing that helped make the new Apes trilogy such a success: Weta Digital’s work bringing the Apes to life, which included an all-time great performance from Andy Serkis as the ape leader Caesar. That’s not to say the movie can’t be good with another team and performer, it’s just easily the biggest shoes to fill, the sort of thing that will help or hinder the storytelling ambitions of a movie like this. \nKingdom of the Planet of the Apes is currently set to premiere in 2024.",
@@ -15816,6 +15891,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190361",
+          "author": null,
+          "description": "Title sequence features Leon Niihama's opening song \"Tsukamaete, Konya\"",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/detective-conan-the-culprit-hanzawa-anime-streams-clean-opening-sequence/.190361",
+          "publishedOn": "2022-09-30T04:27:09.000Z",
+          "wordCount": 3307,
+          "title": "Detective Conan: The Culprit Hanzawa Anime Streams Clean Opening Sequence",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAJ/youtube/NKQYx6mGQPE.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190360",
           "author": null,
@@ -18531,6 +18616,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/blast-afghanistan-kabul-educational-centre-many-dead/article65953930.ece",
+          "author": "Reuters",
+          "description": "There was no immediate claim of responsibility for the attack",
+          "link": "https://www.thehindu.com/news/international/blast-afghanistan-kabul-educational-centre-many-dead/article65953930.ece",
+          "publishedOn": "2022-09-30T05:48:50.000Z",
+          "wordCount": 6096,
+          "title": "Blast at education institute in Afghanistan’s Kabul kills at least 19",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/apb5hr/article65909292.ece/alternates/LANDSCAPE_615/breaking%20news.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/floods-trap-many-in-florida-as-hurricane-ian-heads-to-south-carolina/article65953769.ece",
+          "author": "AP",
+          "description": "Hurricane Ian has regained some strength after exiting Florida and taking aim at South Carolina",
+          "link": "https://www.thehindu.com/news/international/floods-trap-many-in-florida-as-hurricane-ian-heads-to-south-carolina/article65953769.ece",
+          "publishedOn": "2022-09-30T04:25:57.000Z",
+          "wordCount": 6956,
+          "title": "Floods trap many in Florida as Hurricane Ian heads to South Carolina",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/dc3zeh/article65953792.ece/alternates/LANDSCAPE_615/Tropical_Weather_Florida_37727.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-30-2022/article65952118.ece",
           "author": "The Hindu Bureau",
           "description": "A select list of stories to read before you start your day",
@@ -19767,6 +19872,66 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-to-contest-cong-prez-poll-pramod-tiwari/articleshow/94551456.cms",
+          "author": null,
+          "description": "Congress leader Pramod Tiwari on Friday said his colleague Mallikarjun Kharge will file nomination for the party president's election. He said that he and P L Punia will be proposers for Kharge's candidature and Digvijaya Singh, who collected nomination papers on Thursday, may not contest.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-to-contest-cong-prez-poll-pramod-tiwari/articleshow/94551456.cms",
+          "publishedOn": "2022-09-30T05:49:04.000Z",
+          "wordCount": 5287,
+          "title": "Mallikarjun Kharge to contest Cong prez poll: Pramod Tiwari",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94551446,width-1070,height-580,imgsize-47868,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tharoor-visits-rajghat-ahead-of-filing-nomination-papers-for-congress-presidential-poll/articleshow/94551376.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Senior Congress leader Shashi Tharoor visited Rajghat here on Friday and paid homage to Mahatma Gandhi ahead of filing his nomination paper.",
+          "link": "https://timesofindia.indiatimes.com/india/tharoor-visits-rajghat-ahead-of-filing-nomination-papers-for-congress-presidential-poll/articleshow/94551376.cms",
+          "publishedOn": "2022-09-30T05:46:14.000Z",
+          "wordCount": 5423,
+          "title": "Tharoor visits Rajghat ahead of filing nomination papers for Congress presidential poll",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94551385,width-1070,height-580,imgsize-50074,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-digvijaya-singh-meets-kharge-venugopal/articleshow/94551045.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Ahead of filing his nomination for the Congress presidential poll, party leader Digvijaya Singh on Friday met his colleagues Mallikarjun Kh.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-poll-digvijaya-singh-meets-kharge-venugopal/articleshow/94551045.cms",
+          "publishedOn": "2022-09-30T05:41:05.000Z",
+          "wordCount": 5441,
+          "title": "Congress president poll: Digvijaya Singh meets Kharge, Venugopal",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94551222,width-1070,height-580,imgsize-39732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/3947-new-covid-19-cases-in-india-in-24-hours-active-caseload-dips-below-40k-mark/articleshow/94549857.cms",
+          "author": null,
+          "description": "India has reported 3,947 fresh cases of Covid-19 in 24 hours, taking the country's case tally 4,45,87,307, data released by the government on Friday stated. The country has also recorded 18 deaths, including nine fatalities reconciled by Kerala. India's active caseload has dipped below the 40,000 mark, and stands at 39,583 now.",
+          "link": "https://timesofindia.indiatimes.com/india/3947-new-covid-19-cases-in-india-in-24-hours-active-caseload-dips-below-40k-mark/articleshow/94549857.cms",
+          "publishedOn": "2022-09-30T05:09:57.000Z",
+          "wordCount": 5876,
+          "title": "3,947 new Covid-19 cases in India in 24 hours; active caseload dips below 40k mark",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550340,width-1070,height-580,imgsize-39246,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/general-anil-chauhan-takes-charge-as-indias-new-chief-of-defence-staff/articleshow/94550274.cms",
+          "author": null,
+          "description": "The appointment of Anil Chauhan comes 9 months after the tragic death of India's first Chief of Defence Staff, General Bipin Rawat, in a chopper crash. Known as an expert on China, General Chauhan's appointment to the top post comes amid the lingering border row between Indian and Chinese troops in eastern Ladakh.",
+          "link": "https://timesofindia.indiatimes.com/india/general-anil-chauhan-takes-charge-as-indias-new-chief-of-defence-staff/articleshow/94550274.cms",
+          "publishedOn": "2022-09-30T05:04:34.000Z",
+          "wordCount": 5792,
+          "title": "General Anil Chauhan takes charge as India's new Chief of Defence Staff",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550262,width-1070,height-580,imgsize-41736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-shashi-tharoor-digvijaya-singh-to-file-nominations/articleshow/94549621.cms",
+          "author": null,
+          "description": "A tent has been set up in the lawns of the AICC headquarters in Delhi and party leaders can file their nomination papers between 11 am and 3 pm. Senior party leader Mallikarjun Kharge is also likely to enter the contest with the blessing of the Gandhi family. He is likely to meet Congress president Sonia Gandhi soon.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-poll-shashi-tharoor-digvijaya-singh-to-file-nominations/articleshow/94549621.cms",
+          "publishedOn": "2022-09-30T04:46:34.000Z",
+          "wordCount": 5666,
+          "title": "Congress president poll: Shashi Tharoor, Digvijaya Singh to file nominations",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94549784,width-1070,height-580,imgsize-31682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/gujarat-pm-narendra-modi-to-flag-off-vande-bharat-express-train-launch-ahmedabad-metro-project-today/articleshow/94548263.cms",
           "author": null,
@@ -23155,6 +23320,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/at-least-19-killed-in-suicide-bombing-at-kabul-education-centre/articleshow/94550068.cms",
+          "author": null,
+          "description": "A Taliban-appointed spokesman for the Kabul police chief says 19 people were killed and 27 were wounded in a suicide bombing in a Shiite area of the Afghan capital. \"An educational centre called 'Kaj' has been attacked, which unfortunately has caused deaths and injuries,\" interior ministry spokesman Abdul Nafy Takor tweeted.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/at-least-19-killed-in-suicide-bombing-at-kabul-education-centre/articleshow/94550068.cms",
+          "publishedOn": "2022-09-30T05:17:11.000Z",
+          "wordCount": 5658,
+          "title": "At least 19 killed in suicide bombing at Kabul education centre",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550609,width-1070,height-580,imgsize-1556520,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/nobel-2022-prize-season-under-shadow-of-war-in-ukraine/articleshow/94548477.cms",
           "author": null,
           "description": "Not since World War II has a conflict been waged between two countries so close to Stockholm and Oslo, where the prestigious awards for medicine, physics, chemistry, literature and peace have been announced since 1901, and the newer Economics Prize since 1969.",
@@ -24769,6 +24944,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-or-dengue-how-to-differentiate-between-symptoms/photostory/94532987.cms",
+          "author": null,
+          "description": "Given that COVID-19 has taken a milder turn, causing less severe infections and more manageable symptoms, many have started to confuse the illness with other diseases including the flu and common cold. In addition, the recent rise in the dengue cases has alarmed officials and led to added confusion.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-or-dengue-how-to-differentiate-between-symptoms/photostory/94532987.cms",
+          "publishedOn": "2022-09-30T05:30:00.000Z",
+          "wordCount": 10151,
+          "title": "Covid or Dengue: How to differentiate between symptoms?",
+          "imageUrl": "https://static.toiimg.com/photo/94533002.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-flags-off-vande-bharat-express-train-between-gandhinagar-and-mumbai/articleshow/94550728.cms",
+          "author": null,
+          "description": "Prime Minister Narendra Modi on Friday flagged off Vande Bharat Express train between Gandhinagar and Mumbai. PM Modi flagged off the train from Gandhinagar Capital railway station around 10.30am.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-flags-off-vande-bharat-express-train-between-gandhinagar-and-mumbai/articleshow/94550728.cms",
+          "publishedOn": "2022-09-30T05:22:28.000Z",
+          "wordCount": 5545,
+          "title": "PM Modi flags off maiden Vande Bharat Express train",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550735,width-1070,height-580,imgsize-76054,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/general-anil-chauhan-takes-charge-as-indias-new-chief-of-defence-staff/articleshow/94550274.cms",
+          "author": null,
+          "description": "The appointment of Anil Chauhan comes 9 months after the tragic death of India's first Chief of Defence Staff, General Bipin Rawat, in a chopper crash. Known as an expert on China, General Chauhan's appointment to the top post comes amid the lingering border row between Indian and Chinese troops in eastern Ladakh.",
+          "link": "https://timesofindia.indiatimes.com/india/general-anil-chauhan-takes-charge-as-indias-new-chief-of-defence-staff/articleshow/94550274.cms",
+          "publishedOn": "2022-09-30T05:04:34.000Z",
+          "wordCount": 5792,
+          "title": "General Anil Chauhan takes charge as India's new CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550262,width-1070,height-580,imgsize-41736,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/jobs/teacher-jobs/ap-tet-result-2022-declared-on-aptet-apcfss-in-download-here/articleshow/94550194.cms",
+          "author": null,
+          "description": "Candidates must note that the Department has also released the AP TET August final answer key. The August exam was conducted from August 6 to 21, 2022 in two shifts - 9:30 AM to 12 noon and from 2:30 PM to 5 PM. TET August 2022 result is declared for Paper I A & B and Paper II A & B.",
+          "link": "https://timesofindia.indiatimes.com/education/jobs/teacher-jobs/ap-tet-result-2022-declared-on-aptet-apcfss-in-download-here/articleshow/94550194.cms",
+          "publishedOn": "2022-09-30T05:02:45.000Z",
+          "wordCount": 5866,
+          "title": "AP TET result 2022 declared",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94550192,width-1070,height-580,imgsize-22274,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/rbi-hikes-repo-rate-by-50-bps-to-5-9-for-4th-time-in-a-row/articleshow/94549111.cms",
+          "author": null,
+          "description": "The Reserve Bank of India (RBI) on Friday raised benchmark lending rates for the 4th straight time in a row, in a bid to tame the soaring inflation.Reserve Bank's monetary policy committee (MPC) unanimously decided to raise repo rate by 50 basis points (bps). It now stands at 5.9%.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-hikes-repo-rate-by-50-bps-to-5-9-for-4th-time-in-a-row/articleshow/94549111.cms",
+          "publishedOn": "2022-09-30T04:39:55.000Z",
+          "wordCount": 6233,
+          "title": "RBI cuts GDP growth to 7% from 7.2% for FY23",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94549565,width-1070,height-580,imgsize-48708,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-to-ahmedabad-in-5-5-hours-all-you-need-to-know-about-vande-bharat-express/articleshow/94548242.cms",
           "author": null,
           "description": "Vande Bharat Express, which will run between Mumbai Central and Gandhinagar from September 30 onwards, will take only 6 hours and 20 minutes to go between the two state capitals, and only 5 hours and 35 minutes from Mumbai to Ahmedabad.",
@@ -24787,6 +25012,36 @@
           "wordCount": 5144,
           "title": "Siraj replaces Bumrah for last two T20Is against SA",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94548406,width-1070,height-580,imgsize-52026,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-narendra-modi-rues-missing-out-on-gujarati-delicacies/articleshow/94547787.cms",
+          "author": null,
+          "description": "In a throwback to his 2014 US visit when he won several hearts with the austere Navratri fast, Prime Minister Narendra Modi on Thursday rued in a lighter vein that he couldn’t relish the famed ‘Surat nu jaman’ and Bhavnagari gathiya due to abstinence from food. Modi, an ardent devotee of Ma Amba, also performed ‘aarti’ along with CM Bhupendra Patel and governor Acharya Devvrat at state government-organized garba event at the GMDC grounds in Ahmedabad. The event was kicked off with ‘Gaay eno Garbo’, a garba song penned by PM Modi.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-narendra-modi-rues-missing-out-on-gujarati-delicacies/articleshow/94547787.cms",
+          "publishedOn": "2022-09-30T03:14:35.000Z",
+          "wordCount": 6110,
+          "title": "PM rues missing out on Gujarati delicacies!",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547787,width-1070,height-580,imgsize-65518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/coimbatore/video-of-woman-70-refusing-free-travel-on-bus-goes-viral/articleshow/94547644.cms",
+          "author": null,
+          "description": "Hours after a video of a 70-year-old woman arguing with a Tamil Nadu State Transport Corporation (TNSTC) town bus conductor and refusing to travel free on the bus went viral on social media on Thursday morning, DMK said the entire episode was AIADMK’s brainchild.",
+          "link": "https://timesofindia.indiatimes.com/city/coimbatore/video-of-woman-70-refusing-free-travel-on-bus-goes-viral/articleshow/94547644.cms",
+          "publishedOn": "2022-09-30T03:05:50.000Z",
+          "wordCount": 5817,
+          "title": "Video of woman, 70, refusing free travel on bus goes viral",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547644,width-1070,height-580,imgsize-557139,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/patna/ias-officer-expresses-regret-apologizes-for-her-condom-remark/articleshow/94547530.cms",
+          "author": null,
+          "description": "With her ‘Condom’ remark triggering a wide uproar, Bihar IAS officer Harjot Kaur Bamhrah on Thursday apologized for her conduct saying that she didn’t mean to hurt anyone’s sentiments through her words.",
+          "link": "https://timesofindia.indiatimes.com/city/patna/ias-officer-expresses-regret-apologizes-for-her-condom-remark/articleshow/94547530.cms",
+          "publishedOn": "2022-09-30T03:02:10.000Z",
+          "wordCount": 5878,
+          "title": "IAS officer apologizes for her ‘condom’ remark",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548372,width-1070,height-580,imgsize-41054,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-vedha-movie-review-box-office-collect-and-release-live-updates-vikram-vedha-hrithik-roshan-saif-ali-khan-yogita-bihani-radhika-apte/liveblog/94547448.cms",
@@ -24869,6 +25124,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94546002,width-1070,height-580,imgsize-824733,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/chennai/chennai-doctors-remove-live-roundworm-from-monks-eye/articleshow/94545697.cms",
+          "author": null,
+          "description": "A city hospital made an accidental discovery of an 8mm live roundworm wriggling in the right eye of a Buddhist monk, who was in Chennai to complete his PhD in philosophy at Madras University.",
+          "link": "https://timesofindia.indiatimes.com/city/chennai/chennai-doctors-remove-live-roundworm-from-monks-eye/articleshow/94545697.cms",
+          "publishedOn": "2022-09-30T01:02:51.000Z",
+          "wordCount": 6666,
+          "title": "Chennai docs remove live roundworm from monk's eye",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546808,width-1070,height-580,imgsize-44768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
           "author": null,
           "description": "In a setback to the AAP government in Punjab, the Punjab and Haryana high court on Thursday restrained the state from creating any \"third party interest\" with regard to distribution of wheat flour (atta) to the beneficiaries at their homes.",
@@ -24939,6 +25204,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94545102,width-1070,height-580,imgsize-27112,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/eat-pray-celebrate-2-puja-pandals-in-mumbai-hold-75th-anniversary-festivities/articleshow/94545013.cms",
+          "author": null,
+          "description": "There are two Durga Pujas with a common origin in the western suburbs. Both are celebrating their 75th anniversary.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/eat-pray-celebrate-2-puja-pandals-in-mumbai-hold-75th-anniversary-festivities/articleshow/94545013.cms",
+          "publishedOn": "2022-09-29T23:03:35.000Z",
+          "wordCount": 6332,
+          "title": "2 Puja pandals in Mumbai hold 75th anniv festivities",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545016,width-1070,height-580,imgsize-1131738,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/business/india-business/centre-raises-rates-on-some-small-saving-plans/articleshow/94544987.cms",
           "author": null,
           "description": "​Amid rising inflation and higher fixed deposit rates, the finance ministry on Thursday announced an increase of up to 30 basis points in interest rates on certain small savings products for the next quarter, marking the first increase in nine quarters.",
@@ -24947,6 +25222,16 @@
           "wordCount": 5817,
           "title": "Centre raises rates on some small saving plans",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94544997,width-1070,height-580,imgsize-30748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-chapata-chilli-sells-for-jaw-dropping-rs-900-per-kg/articleshow/94544982.cms",
+          "author": null,
+          "description": "Days after being recognised with the Geographical Indication (GI) tag, Warangal's famous Chapata chilli broke all records at the retail market with the cost of the spice touching Rs 900 per kg. Exclusively cultivated in Telangana's Warangal area, the chilli variety is usually priced around Rs 150 per kg.",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-chapata-chilli-sells-for-jaw-dropping-rs-900-per-kg/articleshow/94544982.cms",
+          "publishedOn": "2022-09-29T22:54:38.000Z",
+          "wordCount": 5735,
+          "title": "Chapata chilli sells for jaw-dropping Rs 900 per kg",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545001,width-1070,height-580,imgsize-2571214,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/air-india-discount-for-senior-citizens-students-halved-to-25/articleshow/94544882.cms",
