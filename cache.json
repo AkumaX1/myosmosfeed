@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max",
+          "author": null,
+          "description": "My “We Are Not For Sale” shirt has people asking a lot of questions already answered by my shirt. | Illustration by Alex Castro / The Verge\n    \n\n  \nWarner Bros. Discovery’s CEO David Zaslav seems to be trying to squash rumors that he wants to sell the company to the likes of Comcast. According to a report from Deadline, he told employees that “we are not for sale, absolutely, not for sale,” during a Zoom call on Wednesday attended by staff from all over the company.\nWhile he reportedly didn’t address any specific rumors, a recent report from The Hollywood Reporter seems to be the likely target of his comments. Earlier this month, the outlet suggested that “top industry execs” were “convinced” that Warner Bros. was on the brink of merging with Comcast, owners of NBCUniversal and the Peacoc…",
+          "link": "https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max",
+          "publishedOn": "2022-09-30T22:04:46.000Z",
+          "wordCount": 8349,
+          "title": "Warner Bros. Discovery is ‘absolutely not for sale,’ says CEO",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/19eOKeIkoCCwSKXvLBPsWdikzlw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23924072/acastro_STK055_06.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators",
+          "author": null,
+          "description": "Nick Barclay / The Verge\n    \n\n  \nTwitch will begin testing a way for its users to boost their chat messages on the platform. Called “Elevated Chat,” the “experiment” is meant to let users elevate their chat messages for a specific time using a one-time fee. The fees are presented in five different tiers ranging from 30 seconds to two and a half minutes, with fees ranging from $5 to $100. \nThe feature is currently available for a “limited number of channels” on the platform. The option to elevate chats may appear at either the top of the chat or at the bottom of a video, and a user can purchase an Elevated Chat depending on how long they want to keep their message up.\nAccording to Game Developer, multiple people can elevate their chat message at once, but it is on a first-come, first-served basis, is queued depending on who purchased it first, and “is managed by streamers and moderators.” Once a chat message is up, moderators can “timeout” or ban the user. If a comment is removed, users won’t be able to receive a refund, and they won’t be able to elevate someone else’s chat message, either. \nAs far as revenue, the experiment will feature a 70 / 30 split for creators. The Twitch test began on eligible channels on Thursday and is set to run for about four weeks. It will be available in the US, and other supported countries include Germany, Canada, Australia, Korea, Japan, Brazil, Mexico, Norway, Sweden, Switzerland, South Africa, and Taiwan.",
+          "link": "https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators",
+          "publishedOn": "2022-09-30T21:17:58.000Z",
+          "wordCount": 7748,
+          "title": "Twitch begins testing paid ‘Elevated Chat’ feature",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LJddQMoGEpE2tOfVPYKzuR3UEog=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951418/STK044_VRG_Illo_N_Barclay_4_twitch.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too",
           "author": null,
           "description": "Google announced the shutdown of Stadia with little warning. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n\n  \nNews that Google would be closing down Stadia was a big surprise for everyone, including the developers making games for the platform\n Stadia users weren’t the only people shocked to learn that Google would be shutting down the cloud gaming service; developers making games for the platform were surprised, too.\n“I woke up getting ready for my workday, and I see on our Discord private chat for the company that one of my employees sent a message saying ‘is this true?,’ with a link,” Rebecca Ann Heineman, CEO of Olde Skuul, said in an interview with The Verge. “I follow the link and it’s like ‘oh, okay.’” Olde Skuul had planned to launch Luxor Evolved on Stadia Pro on November 1…",
@@ -2139,6 +2159,56 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/nyregion/alison-russo-fdny-emt-stabbing.html",
+          "author": "Corey Kilgannon",
+          "description": "Lt. Alison Russo-Elling had served nearly 25 years, through Sept. 11 and the Covid pandemic. She loved a tough job enough to volunteer in her free time.",
+          "link": "https://www.nytimes.com/2022/09/30/nyregion/alison-russo-fdny-emt-stabbing.html",
+          "publishedOn": "2022-09-30T21:57:27.000Z",
+          "wordCount": null,
+          "title": "Alison Russo, Stabbed NYC EMT, Was the ‘Mother of the Station’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html",
+          "author": "Ruth Maclean and Elian Peltier",
+          "description": "The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.",
+          "link": "https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html",
+          "publishedOn": "2022-09-30T21:45:56.000Z",
+          "wordCount": null,
+          "title": "Military Officers Announce Coup in Burkina Faso",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/tech-companies-iran.html",
+          "author": "Mahsa Alimardani, Kendra Albert and Asfaneh Rigot",
+          "description": "Western technology companies, recently freed from sanctions, should grant full access to Iranians.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/tech-companies-iran.html",
+          "publishedOn": "2022-09-30T21:30:04.000Z",
+          "wordCount": null,
+          "title": "Big Tech Should Support the Iranian People, Not the Regime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/us/politics/trump-executive-privilege.html",
+          "author": "Charlie Savage and Glenn Thrush",
+          "description": "In both cases, former President Donald J. Trump is claiming a novel power to keep White House information from his time in office secret from the Justice Department.",
+          "link": "https://www.nytimes.com/2022/09/30/us/politics/trump-executive-privilege.html",
+          "publishedOn": "2022-09-30T21:27:24.000Z",
+          "wordCount": null,
+          "title": "Trump Argues for Executive Privilege in Jan. 6 and Mar-a-Lago Inquiries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/us/fort-myers-beach-hurricane-ian.html",
+          "author": "Jack Healy, Jennifer Reed and Patricia Mazzei",
+          "description": "“WE’RE TERRIFIED!!” Mitch Pacyna wrote in a final Facebook post on Wednesday afternoon.",
+          "link": "https://www.nytimes.com/2022/09/30/us/fort-myers-beach-hurricane-ian.html",
+          "publishedOn": "2022-09-30T21:08:55.000Z",
+          "wordCount": null,
+          "title": "A Couple Tried to Flee Fort Myers Beach. One Didn’t Make It.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html",
           "author": "Alan Rappeport",
           "description": "The president also said that Mr. Putin should not dare to take his fight into NATO territory, underscoring the unity among the alliance.",
@@ -3646,6 +3716,16 @@
           "publishedOn": "2022-09-28T15:00:04.000Z",
           "wordCount": null,
           "title": "How Money Is Ruining Youth Sports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/28/theater/wendell-pierce-death-of-a-salesman-broadway.html",
+          "author": "Alexis Soloski",
+          "description": "A Broadway revival of “Death of a Salesman” has a Black lead for the first time, giving Pierce a chance to step into a role he was “born to play.”",
+          "link": "https://www.nytimes.com/2022/09/28/theater/wendell-pierce-death-of-a-salesman-broadway.html",
+          "publishedOn": "2022-09-28T14:00:07.000Z",
+          "wordCount": null,
+          "title": "Wendell Pierce Steps Into ‘Death of a Salesman’",
           "imageUrl": null
         },
         {
@@ -6710,6 +6790,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/movies/documentaries-streaming.html",
+          "author": "Ben Kenigsberg",
+          "description": "The bonds of an eccentric mother and daughter, of residents of New Orleans and of the family and friends of a kidnapping victim are explored in this month’s documentary picks.",
+          "link": "https://www.nytimes.com/2022/09/30/movies/documentaries-streaming.html",
+          "publishedOn": "2022-09-30T21:16:37.000Z",
+          "wordCount": null,
+          "title": "Stream These Three Great Documentaries",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/arts/design/museum-leaders-vote-deaccessioning.html",
           "author": "Julia Jacobs",
           "description": "A policy of the Association of Art Museum Directors has been loosened to allow the limited use of funds from selling art to pay costs of preserving works.",
@@ -9460,6 +9550,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2415063",
+          "author": "Christine Hall",
+          "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.\nDaily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts  by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/daily-crunch-its-ai-day-for-tesla-but-were-here-for-the-cringey-texts/",
+          "publishedOn": "2022-09-30T22:05:42.000Z",
+          "wordCount": 7263,
+          "title": "Daily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1395371333.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2415112",
+          "author": "Kyle Wiggers",
+          "description": "Google appears to have disabled access to Google Translate in parts of China, redirecting visitors to the Hong Kong domain — which isn’t accessible from the mainland. According to users on Reddit and site archives viewed by TechCrunch, Google swapped the Google Translate interface at translate.google.cn with a generic Google Search page at some point […]\nGoogle appears to have disabled Google Translate in parts of China by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/",
+          "publishedOn": "2022-09-30T21:20:42.000Z",
+          "wordCount": 6117,
+          "title": "Google appears to have disabled Google Translate in parts of China",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2413462",
           "author": "Tim Stevens",
@@ -12548,6 +12658,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "xgy4ak",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Aries!",
+          "link": "https://www.vice.com/en_us/article/xgy4ak/monthly-horoscope-aries-october-2022",
+          "publishedOn": "2022-09-30T22:05:55.000Z",
+          "wordCount": 6493,
+          "title": "Monthly Horoscope: Aries, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63347af2ebc3340094516240/lede/1664561306314-7librascorpiomonthly11920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63347af2ebc3340094516240/lede/1664561306314-7librascorpiomonthly11920x1080.jpeg"
+        },
+        {
+          "id": "4axqpb",
+          "author": "Becca Blasdel",
+          "description": "The Optimus Prime of dining tables has 116 million views because it goes from tiny to seating for 12, and we need one before Friendsgiving.",
+          "link": "https://www.vice.com/en_us/article/4axqpb/viral-transformer-table",
+          "publishedOn": "2022-09-30T21:29:25.000Z",
+          "wordCount": 4795,
+          "title": "This 'Transformer Table' Broke the Internet",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63375896edd9480094cee869/lede/1664573042146-transformertablelede.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63375896edd9480094cee869/lede/1664573042146-transformertablelede.jpeg"
+        },
+        {
           "id": "akenab",
           "author": "Annabel Gat",
           "description": "The moon is in Sagittarius, and Venus opposes Jupiter.",
@@ -15107,6 +15247,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849603969",
+          "author": "Isaiah Colbert",
+          "description": "Today, Activision Blizzard announced three programs coming to Overwatch 2’s competitive and casual scene. These aim to foster a healthy environment, with a focus on its new and returning LGBTQ+ player base. \nRead more...",
+          "link": "https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969",
+          "publishedOn": "2022-09-30T22:00:00.000Z",
+          "wordCount": 6282,
+          "title": "Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cdb10a811378261460a0481ec4426505.jpg"
+        },
+        {
           "id": "1849603750",
           "author": "Levi Winslow",
           "description": "MultiVersus has been getting tons of new characters, with drunk scientist Rick Sanchez from the time-hopping adult cartoon Rick & Morty being the latest addition to the Warner Bros. crossover fighter. The roster’s expansion won’t stop there, though, as datamining has suggested for some time that characters including…\nRead more...",
@@ -16293,6 +16443,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23380306/overwatch-2-pre-download-release-time-early-access-launch",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nHow and when you can play Blizzard’s free-to-play sequel\n Overwatch 2 is almost here, but exactly what that means is still awfully confusing. The game has an official release date of Oct. 4, but it’s full of so many changes from the previous game that players might still have a whole lot of questions about what the game is, when it’s out, or even how much it costs.\nTo help make all this a little clearer, we’ve answered a few of the most important Overwatch 2 questions you might have in the leadup to release\nWhen does Overwatch 2 come out?\nOverwatch 2 launches on Oct. 4 at around 3 p.m. EDT/noon PDT for a worldwide release, according to Blizzard.\nCan you pre-download Overwatch 2?\nPC players can pre-download the game from the Battle.net client starting …",
+          "link": "https://www.polygon.com/23380306/overwatch-2-pre-download-release-time-early-access-launch",
+          "publishedOn": "2022-09-30T21:12:59.000Z",
+          "wordCount": 2372,
+          "title": "When does Overwatch 2 go live?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/HuYtvUcluOVDCVo5KmDcUFCu0PU=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24060871/JunkerQueen_003_Ultimate.png"
+        },
         {
           "id": "https://www.polygon.com/23380667/overwatch-2-store-souvenirs-battle-pass-skins-unlocks-currency",
           "author": null,
@@ -19669,6 +19829,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/spike-chunsoft-announces-chaoshead-noah-release-on-steam-canceled",
+          "author": "Humberto Saabedra",
+          "description": "Publisher cites Steam's insistence to make 'guideline related changes' to game for release\n\n\nVideo game publisher Spike Chunsoft has released a statement to press announcing that its long-planned release of Chaos;Head Noah on Steam has been canceled. Read on for the details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/spike-chunsoft-announces-chaoshead-noah-release-on-steam-canceled",
+          "publishedOn": "2022-09-30T20:41:18.000Z",
+          "wordCount": 5894,
+          "title": "Spike Chunsoft Announces Chaos;Head Noah Release On Steam Canceled",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/9f64f80f8c30186339a632330d7d598a1664570115_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-feature/2022/09/30/feature-international-translation-day-2022-a-world-without-borders",
           "author": "Guest Author",
           "description": "Get to know our translators from all around the world!\n\n\nThis year we have the opportunity to showcase even more team members and languages, which is especially fitting given this year's theme of \"A World Without Barriers.\"",
@@ -22802,6 +22972,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms",
+          "author": null,
+          "description": "The four-month monsoon season officially ended on Friday with the country recording \"above normal\" rainfall at 6% higher than the long period average. However, skewed distribution in the crucial July-August period left large rain deficits in the Gangetic plains, leading to about 1% decline in the overall acreage of kharif (summer sown) crops as compared to last year.",
+          "link": "https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms",
+          "publishedOn": "2022-09-30T21:47:02.000Z",
+          "wordCount": 6293,
+          "title": "Monsoon 2022 'above normal' but agriculture takes hit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572716,width-1070,height-580,imgsize-46494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/its-mallikarjun-kharge-vs-shashi-tharoor-for-congress-president-digvijaya-singh-drops-out/articleshow/94572394.cms",
+          "author": null,
+          "description": "It is Mallikarjun Kharge vs Shashi Tharoor for the much-awaited Congress presidential election. Octogenarian Kharge, the establishment's choice, and Tharoor, the underdog diplomat-turned-politician, filed their nomination papers on the last day on Friday, setting to rest the two-month-long speculation.",
+          "link": "https://timesofindia.indiatimes.com/india/its-mallikarjun-kharge-vs-shashi-tharoor-for-congress-president-digvijaya-singh-drops-out/articleshow/94572394.cms",
+          "publishedOn": "2022-09-30T20:52:52.000Z",
+          "wordCount": 6993,
+          "title": "It's Mallikarjun Kharge vs Shashi Tharoor for Congress president, Digvijaya Singh drops out",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572420,width-1070,height-580,imgsize-46408,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/two-jaish-e-mohammed-men-killed-in-baramulla/articleshow/94572022.cms",
           "author": null,
@@ -27977,6 +28167,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The contest for the Congress president election seems wide open, and the last day of filing nominations could still spring a surprise or tw.",
+          "link": "https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms",
+          "publishedOn": "2022-09-30T12:21:35.000Z",
+          "wordCount": 6425,
+          "title": "Kharge, Tharoor, Tripathi in fray for Congress presidential poll: Key points - Top developments",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547880,width-1070,height-580,imgsize-932165,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-14-amitabh-bachchan-donates-some-money-to-contestant-shobha-says-usually-i-dont-do-such-thing-but-your-dedication-made-me-do-it/articleshow/94491174.cms",
+          "author": null,
+          "description": "In the latest episode if Kaun Banega Crorepati 14, after contestant Rani Patidar quits the game Amitabh Bachchan begins with the fastest finger first question and after answering all the questions contestant Shobha Kanwar wins the round and gets the chance to sit in the hotseat alongside host Amitabh Bachchan.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-14-amitabh-bachchan-donates-some-money-to-contestant-shobha-says-usually-i-dont-do-such-thing-but-your-dedication-made-me-do-it/articleshow/94491174.cms",
+          "publishedOn": "2022-09-30T05:06:08.000Z",
+          "wordCount": 9817,
+          "title": "Kaun Banega Crorepati 14: Amitabh Bachchan donates some money to contestant Shobha; says “usually I don’t do such things but your dedication made me do it”",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94491187,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94491187.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-30-september-2022-check-astrological-prediction-for-virgo-libra-scorpio-sagittarius-and-other-signs/articleshow/94420072.cms",
+          "author": null,
+          "description": "The daily horoscope is determined by the position of the moon and sun. A person’s personality is determined by the traits and characteristics given in his horoscope. How would you feel if you come to know what’s going to happen throughout the whole day before starting your day in the morning? Horoscopes give us a hint about all the things that we are going to face for the entire day.",
+          "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-30-september-2022-check-astrological-prediction-for-virgo-libra-scorpio-sagittarius-and-other-signs/articleshow/94420072.cms",
+          "publishedOn": "2022-09-30T04:07:14.000Z",
+          "wordCount": 8356,
+          "title": "Horoscope Today, 30 September 2022: Check astrological prediction for Virgo, Libra, Scorpio, Sagittarius and other signs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94420025,width-1070,height-580,imgsize-244410,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-t20-world-cup-bcci-sources/articleshow/94531425.cms",
           "author": null,
           "description": "India's pace spearhead Jasprit Bumrah was on Thursday ruled out of the T20 World Cup with a stress fracture, dealing a massive blow to the team's chances in the ICC event.",
@@ -28055,6 +28275,16 @@
           "wordCount": 5438,
           "title": "Bengaluru: Newlywed finds she is second wife, ends life",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94522721,width-1070,height-580,imgsize-26390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-14-amitabh-bachchan-shares-his-disappointment-after-contestant-sonali-talks-about-women-malnutrition-says-yeh-to-bohoth-bada-brahm-hai/articleshow/94519418.cms",
+          "author": null,
+          "description": "In the latest episode, contestant Ankita Sharma has been playing really well until now and has won Rs 3,20,000 and also gets her first cheque signed by Amitabh Bachchan. Amitabh Bachchan further asks her the next question for Rs 6,40,000 and the question was:",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-14-amitabh-bachchan-shares-his-disappointment-after-contestant-sonali-talks-about-women-malnutrition-says-yeh-to-bohoth-bada-brahm-hai/articleshow/94519418.cms",
+          "publishedOn": "2022-09-29T02:30:00.000Z",
+          "wordCount": 10129,
+          "title": "Kaun Banega Crorepati 14: Amitabh Bachchan shares his disappointment after contestant Sonali talks about women malnutrition; says “yeh to bohoth bada brahm hai”",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94519461,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94519461.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/lt-general-anil-chauhan-retired-named-indias-new-chief-of-defence-staff/articleshow/94511258.cms",
@@ -28195,6 +28425,16 @@
           "wordCount": 3978,
           "title": "Bid goodbye to eyeglasses post cataract surgery; Mandira Bedi tells you how",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94393709,width-1070,height-580,imgsize-131870,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/spotlight/getting-5g-ready-is-affordable-thanks-to-these-oneplus-nord-offers/articleshow/94399363.cms",
+          "author": null,
+          "description": "In an effort to make you switch to a 5G-ready smartphone, OnePlus has introduced lucrative offers and discounts across its 5G-ready smartphones and other products to make the signature OnePlus experience more accessible.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/getting-5g-ready-is-affordable-thanks-to-these-oneplus-nord-offers/articleshow/94399363.cms",
+          "publishedOn": "2022-09-26T06:53:20.000Z",
+          "wordCount": 5725,
+          "title": "Getting 5G ready is affordable thanks to these OnePlus Nord offers",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94445515,width-1070,height-580,imgsize-11218338,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/pfi-used-abu-dhabi-restaurant-as-hub-for-hawala-deals-ed/articleshow/94441172.cms",
@@ -28413,6 +28653,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms",
+          "author": null,
+          "description": "The four-month monsoon season officially ended on Friday with the country recording \"above normal\" rainfall at 6% higher than the long period average. However, skewed distribution in the crucial July-August period left large rain deficits in the Gangetic plains, leading to about 1% decline in the overall acreage of kharif (summer sown) crops as compared to last year.",
+          "link": "https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms",
+          "publishedOn": "2022-09-30T21:47:02.000Z",
+          "wordCount": 6293,
+          "title": "Monsoon 2022 'above normal' but agriculture takes hit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572716,width-1070,height-580,imgsize-46494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/emis-start-rising-as-rbi-ups-key-rate-50bps-4th-hike-in-5-mths/articleshow/94572475.cms",
+          "author": null,
+          "description": "For new borrowers, the rates might not go up proportionately as banks can revise their spreads to charge lower rates. As the cost of funds for banks has not gone up, lenders are likely to announce special offers for the festive season. Lenders said that while higher rates do have an impact on demand, the overall sentiment is positive. The sensex gained as the policy was on expected lines and the rupee also firmed up.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/emis-start-rising-as-rbi-ups-key-rate-50bps-4th-hike-in-5-mths/articleshow/94572475.cms",
+          "publishedOn": "2022-09-30T21:21:35.000Z",
+          "wordCount": 6599,
+          "title": "EMIs start rising as RBI ups key rate 50bps; 4th hike in 5 mths",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572499,width-1070,height-580,imgsize-35758,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/its-mallikarjun-kharge-vs-shashi-tharoor-for-congress-president-digvijaya-singh-drops-out/articleshow/94572394.cms",
+          "author": null,
+          "description": "It is Mallikarjun Kharge vs Shashi Tharoor for the much-awaited Congress presidential election. Octogenarian Kharge, the establishment's choice, and Tharoor, the underdog diplomat-turned-politician, filed their nomination papers on the last day on Friday, setting to rest the two-month-long speculation.",
+          "link": "https://timesofindia.indiatimes.com/india/its-mallikarjun-kharge-vs-shashi-tharoor-for-congress-president-digvijaya-singh-drops-out/articleshow/94572394.cms",
+          "publishedOn": "2022-09-30T20:52:52.000Z",
+          "wordCount": 6993,
+          "title": "It’s Kharge vs Tharoor for Cong prez, Diggy drops out",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572420,width-1070,height-580,imgsize-46408,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-makes-landfall-in-south-carolina-after-florida-destruction/articleshow/94572057.cms",
           "author": null,
