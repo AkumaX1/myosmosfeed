@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T10:12:43.898Z</updated>
+    <updated>2022-09-30T11:09:15.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TestGrid is a “one-stop shop” for testing apps at scale]]></title>
+        <id>https://techcrunch.com/?p=2411670</id>
+        <link href="https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/"/>
+        <updated>2022-09-30T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Created by developer who needed to test apps at scale, TestGrid is an on-demand platform that lets users run tests on websites and apps across browsers, operating systems. The startup, which is launching today and can be used on premise or in the cloud, alleviates the hassle of finding and scaling physical and cloud infrastructure […]
+TestGrid is a “one-stop shop” for testing apps at scale by Catherine Shu originally published on TechCrunch]]></summary>
+        <author>
+            <name>Catherine Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Optimistic Art of Mary Mattingly]]></title>
+        <id>https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html"/>
+        <updated>2022-09-30T11:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The artist’s work addresses future climate crises while attempting to make the urban environment a better place to live right now.]]></summary>
+        <author>
+            <name>Zoë Lescaze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2x “lens” on the iPhone 14 Pro is surprisingly good]]></title>
+        <id>https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode</id>
+        <link href="https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode"/>
+        <updated>2022-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2x lens is a 12-megapixel crop of the main sensor... not actually a lens at all. | Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+One of the iPhone 14 Pro’s big new features is a big new camera sensor. For the first time, an iPhone has a high-resolution main camera sensor — 48-megapixels to be exact — and the best thing about it isn’t that you can take 48-megapixel photos. You can, sure, but RIP your phone’s storage space. Nope, one of this sensor’s best features is the 12 megapixels in the middle. Apple has added a 2x zoom mode to its camera app, and all it does is use the central portion of the main camera sensor to crop in and mimic the effect of a 48mm-equivalent telephoto lens. That’s it. Simple, but it’s actually kind of a big deal.
+I wasn’t expecting to like the 2x zoom. F…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering all those times Google said it was committed to Stadia]]></title>
+        <id>https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors</id>
+        <link href="https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors"/>
+        <updated>2022-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the end, were we not the ones getting played? | Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+Come January, Google will be shutting down its Stadia cloud gaming service. In some ways, the move isn’t much of a surprise — as my colleagues have pointed out, there’s been doubt about whether Google was in it for the long haul with Stadia basically ever since it was announced in March 2019.
+If you’ve been listening to what the company said about the service, though, you’d be forgiven for being blindsided. Up until the very end, Google insisted there’s a wonderful future for Stadia, and that players should keep signing up for and using the service, despite rumors that it was about to go bust. Now that Stadia’s officially being shut down, let’s take a look at the times Google promised us…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End-of-life planning with loved ones can be hard. Here’s where to start.]]></title>
+        <id>https://www.vox.com/even-better/23378958/end-of-life-planning-elders-parents-grandparents-loved-ones</id>
+        <link href="https://www.vox.com/even-better/23378958/end-of-life-planning-elders-parents-grandparents-loved-ones"/>
+        <updated>2022-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Denis Novikov/Getty Images
+    
+
+  
+How to make sure you know what they want so you can honor their wishes without having to guess.
+ Confronting the fact that our loved ones will someday die — that we all will — is one of the hardest parts of being human. Most of us don’t like to think about death, and as long as it doesn’t feel urgent, it’s easy to avoid discussing it with family and friends. 
+Avoiding the reality, though, is risky. It increases the likelihood that we’ll be unprepared to make medical decisions when we need to make them. If we’re forced to make choices for an incapacitated loved one and don’t know what they want, we might agonize over whether or not we’ve made the right choice.
+Over the last few years, I’ve been talking to my parents about death, in part because of my dad’…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunfire heard in Burkina Faso, sparking mutiny fears]]></title>
+        <id>https://www.thehindu.com/news/international/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/article65954553.ece</id>
+        <link href="https://www.thehindu.com/news/international/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/article65954553.ece"/>
+        <updated>2022-09-30T10:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Residents in the capital of Burkina Faso say gunfire rang out early in the morning and now the state broadcaster has gone off the air, fueling fears of a mutiny.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After nomination, Tharoor calls for 'decentralisation' in Congress, releases manifesto]]></title>
+        <id>https://timesofindia.indiatimes.com/india/after-nomination-tharoor-calls-for-decentralization-in-congress-releases-manifesto/articleshow/94560224.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/after-nomination-tharoor-calls-for-decentralization-in-congress-releases-manifesto/articleshow/94560224.cms"/>
+        <updated>2022-09-30T10:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Congress leader Shashi Tharoor, who filed his nomination for the party president post on Friday, issued a manifesto explaining how he intends to rejuvenate the party through decentralisation and internal reorganisation if he wins the election.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerrymandering, the Full Story]]></title>
+        <id>https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html"/>
+        <updated>2022-09-30T10:43:04.000Z</updated>
+        <summary type="html"><![CDATA[A Times analysis finds that the House of Representative has its fairest map in 40 years, despite recent gerrymandering.]]></summary>
+        <author>
+            <name>David Leonhardt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida After Hurricane Ian]]></title>
+        <id>https://www.nytimes.com/2022/09/30/podcasts/the-daily/hurricane-ian-florida.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/podcasts/the-daily/hurricane-ian-florida.html"/>
+        <updated>2022-09-30T10:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Times reporters on the ground take stock of one of the deadliest storms ever to hit the state.]]></summary>
+        <author>
+            <name>Michael Barbaro, Nina Feldman, Sydney Harper, Eric Krupke, Jessica Cheung, Rachel Quester, Luke Vander Ploeg, Patricia Willens, Lisa Chow, Dan Powell and Chris Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It wasn't part of plan: Harmanpreet on controversial run out]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/news/it-wasnt-part-of-plan-but-was-very-much-within-rules-harmanpreet-on-controversial-run-out/articleshow/94559596.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/news/it-wasnt-part-of-plan-but-was-very-much-within-rules-harmanpreet-on-controversial-run-out/articleshow/94559596.cms"/>
+        <updated>2022-09-30T10:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Running out England batter Charlie Dean while she was backing up was not part of India's plans during the recent ODI series but was very much within the rules of the game, skipper Harmanpreet Kaur said on Friday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ken Paxton keeps running. Will his legal issues ever catch up?]]></title>
+        <id>https://www.vox.com/policy-and-politics/2022/9/30/23379411/texas-ken-paxton-subpoena-fraud-charges-fbi-investigation</id>
+        <link href="https://www.vox.com/policy-and-politics/2022/9/30/23379411/texas-ken-paxton-subpoena-fraud-charges-fbi-investigation"/>
+        <updated>2022-09-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Texas Attorney General Ken Paxton speaks during the Conservative Political Action Conference (CPAC) on July 11, 2021, in Dallas, Texas.  | Brandon Bell/Getty Images
+    
+
+  
+Texas voters will get to render a verdict before the courts do.
+ On Monday, the top legal authority in the state of Texas reportedly fled his own home rather than allow an official to serve him a subpoena. 
+According to an account from the man who served the subpoena, reported in the Texas Tribune, Texas Attorney General Ken Paxton appeared to try and wait out a process server with the subpoena for an hour in his home, then later ran away as the server approached him, and finally rode away in a truck driven by his wife as the server laid the documents on the ground. 
+Paxton’s lawyers have argued that he was simply inti…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast at Education Center in Kabul Kills at Least 19]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html"/>
+        <updated>2022-09-30T10:21:07.000Z</updated>
+        <summary type="html"><![CDATA[The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.]]></summary>
+        <author>
+            <name>Yaqoob Akbary and Christina Goldbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REVENGER Original Anime Announced with Teaser Visual and Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/30/revenger-original-anime-announced-with-teaser-visual-and-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/30/revenger-original-anime-announced-with-teaser-visual-and-trailer"/>
+        <updated>2022-09-30T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Produced by nitroplus and Shochiku
+
+
+"I kill people with my blade, to resist this cruel fate" decorates an epic teaser visual that was revealed with the announcement of a new original anime titled REVENGER. A short trailer was also released, so hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thailand court clears way for PM Prayuth to return from suspension]]></title>
+        <id>https://www.thehindu.com/news/international/thailand-court-clears-way-for-pm-prayuth-to-return-from-suspension/article65954615.ece</id>
+        <link href="https://www.thehindu.com/news/international/thailand-court-clears-way-for-pm-prayuth-to-return-from-suspension/article65954615.ece"/>
+        <updated>2022-09-30T10:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Mr. Prayuth, 68, had been suspended from office while the court deliberated the case.]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India gets 6% above-average monsoon rains in June-Sept season]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-gets-6-above-average-monsoon-rains-in-june-sept-season/articleshow/94559116.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-gets-6-above-average-monsoon-rains-in-june-sept-season/articleshow/94559116.cms"/>
+        <updated>2022-09-30T10:15:59.000Z</updated>
+        <summary type="html"><![CDATA[India News: MUMBAI: India's monsoon rainfall was 6% higher than normal in the June-September season as excessive precipitation in central and southern areas offse.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shashi Tharoor: Man of words and many independent moves]]></title>
+        <id>https://timesofindia.indiatimes.com/india/shashi-tharoor-man-of-words-and-many-independent-moves/articleshow/94559131.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/shashi-tharoor-man-of-words-and-many-independent-moves/articleshow/94559131.cms"/>
+        <updated>2022-09-30T10:15:11.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: By filing his nomination as Congress president on Friday, Shashi Tharoor has shown he is no ‘quockerwodger' - a word he introduced into our.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian strike kills 23 as Kremlin to annex Ukraine regions]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/russian-strike-kills-23-as-kremlin-to-annex-ukraine-regions/articleshow/94558000.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/russian-strike-kills-23-as-kremlin-to-annex-ukraine-regions/articleshow/94558000.cms"/>
+        <updated>2022-09-30T10:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: KYIV: A Russian strike on the Ukrainian city of Zaporizhzhia killed at least 23 people and wounded dozens, an official said Friday, just hours before .]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 Jaish terrorists killed in encounter in J&K's Baramulla, planned to target Army recruitment rally: Police]]></title>
+        <id>https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-encounter-in-jks-baramulla-planned-to-target-army-recruitment-rally-police/articleshow/94559066.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-encounter-in-jks-baramulla-planned-to-target-army-recruitment-rally-police/articleshow/94559066.cms"/>
+        <updated>2022-09-30T10:12:56.000Z</updated>
+        <summary type="html"><![CDATA[India News: SRINAGAR: Two local Jaish-e-Mohammad terrorists planning to target the Army's Agniveer recruitment rally were killed in an encounter with security for.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Food delivery drone lands on power lines resulting in power outage for thousands]]></title>
         <id>https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing</id>
@@ -24,6 +232,16 @@ A spokesperson for Wing told the publication that the drone made a “precau…]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Congress prez poll: BJP takes potshots at Kharge's candidature, says he will be 'remote-controlled', 'proxy']]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-prez-poll-bjp-takes-potshots-at-kharges-candidature-says-he-will-be-remote-controlled-proxy/articleshow/94558904.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-prez-poll-bjp-takes-potshots-at-kharges-candidature-says-he-will-be-remote-controlled-proxy/articleshow/94558904.cms"/>
+        <updated>2022-09-30T10:06:59.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The BJP on Friday took a swipe at the Congress after senior leader Mallikarjun Kharge emerged as the favourite to win the poll for party pr.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Medicaid expansion keeps winning]]></title>
         <id>https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative</id>
         <link href="https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative"/>
@@ -38,6 +256,16 @@ That undefeated streak could extend to seven wins in South Dakota this November.
 On Election Day, voters will decide on a constitutional amendment that would extend Medicaid eligibility under the Affordable Care Act. If it passes, anybody making less than 133 percent of the federal poverty level (about $18,000 for an individual or $36,900 for a family of four) would q…]]></summary>
         <author>
             <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cities will shape country's destiny and ensure that India becomes developed nation in 25 years: PM Modi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/cities-will-shape-countrys-destiny-and-ensure-that-india-becomes-developed-nation-in-25-years-pm-modi/articleshow/94558540.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/cities-will-shape-countrys-destiny-and-ensure-that-india-becomes-developed-nation-in-25-years-pm-modi/articleshow/94558540.cms"/>
+        <updated>2022-09-30T09:58:06.000Z</updated>
+        <summary type="html"><![CDATA[India News: AHMEDABAD: Prime Minister Narendra Modi on Friday said cities will shape the destiny of India and they will ensure that it becomes a developed nation .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -92,6 +320,16 @@ Uniswap Labs eyes over $100 million in new funding by Manish Singh originally pu
 Upcoming music anime BOCCHI THE ROCK! pulled some strings to release a second character highlight trailer today, previewing bassist Ryo Yamada and her voice actress Saku Mizuno. Hit the jump to watch!]]></summary>
         <author>
             <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gujarat: PM Modi's convoy stops to give way to ambulance]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gujarat-pm-modis-convoy-stops-to-give-way-to-ambulance/articleshow/94557873.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gujarat-pm-modis-convoy-stops-to-give-way-to-ambulance/articleshow/94557873.cms"/>
+        <updated>2022-09-30T09:42:42.000Z</updated>
+        <summary type="html"><![CDATA[India News: AHMEDABAD: Prime Minister Narendra Modi's convoy stopped for a brief time to give way to an ambulance while travelling to Gandhinagar from Ahmedabad o.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -195,6 +433,15 @@ A whole new virtual adventure awaits in the latest Sword Art Online -Progressive
         <summary type="html"><![CDATA[Film opens on October 22 after COVID-19 delay]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html"/>
+        <updated>2022-09-30T09:16:45.000Z</updated>
+        <author>
+            <name>Dan Bilefsky</name>
         </author>
     </entry>
     <entry>
@@ -4760,6 +5007,16 @@ Amazon raises hourly wages by about $1 amid increasing union pressure by Amanda 
         <updated>2022-09-29T14:33:34.000Z</updated>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hocus Pocus 2’ Review: Still Spelling Trouble]]></title>
+        <id>https://www.nytimes.com/2022/09/29/movies/hocus-pocus-2-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/movies/hocus-pocus-2-review.html"/>
+        <updated>2022-09-29T14:30:44.000Z</updated>
+        <summary type="html"><![CDATA[The Sanderson sisters return, bringing the same spooky humor with some modern twists.]]></summary>
+        <author>
+            <name>Claire Shaffer</name>
         </author>
     </entry>
     <entry>

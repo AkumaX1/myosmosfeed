@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode",
+          "author": null,
+          "description": "The 2x lens is a 12-megapixel crop of the main sensor... not actually a lens at all. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nOne of the iPhone 14 Pro’s big new features is a big new camera sensor. For the first time, an iPhone has a high-resolution main camera sensor — 48-megapixels to be exact — and the best thing about it isn’t that you can take 48-megapixel photos. You can, sure, but RIP your phone’s storage space. Nope, one of this sensor’s best features is the 12 megapixels in the middle. Apple has added a 2x zoom mode to its camera app, and all it does is use the central portion of the main camera sensor to crop in and mimic the effect of a 48mm-equivalent telephoto lens. That’s it. Simple, but it’s actually kind of a big deal.\nI wasn’t expecting to like the 2x zoom. F…",
+          "link": "https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode",
+          "publishedOn": "2022-09-30T11:00:00.000Z",
+          "wordCount": 9788,
+          "title": "The 2x “lens” on the iPhone 14 Pro is surprisingly good",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/yuqARiIFLh3ixA8l_iw9N-bDfLY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020040/226270_iPHONE_14_PHO_akrales_0723.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors",
+          "author": null,
+          "description": "In the end, were we not the ones getting played? | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nCome January, Google will be shutting down its Stadia cloud gaming service. In some ways, the move isn’t much of a surprise — as my colleagues have pointed out, there’s been doubt about whether Google was in it for the long haul with Stadia basically ever since it was announced in March 2019.\nIf you’ve been listening to what the company said about the service, though, you’d be forgiven for being blindsided. Up until the very end, Google insisted there’s a wonderful future for Stadia, and that players should keep signing up for and using the service, despite rumors that it was about to go bust. Now that Stadia’s officially being shut down, let’s take a look at the times Google promised us…",
+          "link": "https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors",
+          "publishedOn": "2022-09-30T11:00:00.000Z",
+          "wordCount": 10123,
+          "title": "Remembering all those times Google said it was committed to Stadia",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/eqLxdz3CsbSnqChdKVh9HTGWyY8=/0x0:2040x1360/1200x628/filters:focal(1052x963:1053x964)/cdn.vox-cdn.com/uploads/chorus_asset/file/19376602/akrales_191113_3779_0284.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing",
           "author": null,
           "description": "The Wing delivery drone on the power lines.  | Image: Energex via ABC Radio Brisbane\n    \n\n  \nA food delivery drone operated by Alphabet subsidiary Wing landed on overhead power lines in Brisbane, Australia, and caught fire. As a result, the network was shut down by energy firm Energex to respond to the incident, leaving thousands without power.\nSome 2,000 individuals were left without electricity for around 45 minutes, reports ABC News and The Age, while 300 customers had no power for three hours.\nEnergex spokesman Danny Donald told The Age that the drone “landed on top of 11,000 volts and whilst it didn’t take out power, there was voltage tracking across the drone and the drone caught fire and fell to the ground.”\nA spokesperson for Wing told the publication that the drone made a “precau…",
@@ -1849,6 +1869,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html",
+          "author": "David Leonhardt",
+          "description": "A Times analysis finds that the House of Representative has its fairest map in 40 years, despite recent gerrymandering.",
+          "link": "https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html",
+          "publishedOn": "2022-09-30T10:43:04.000Z",
+          "wordCount": null,
+          "title": "Gerrymandering, the Full Story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/podcasts/the-daily/hurricane-ian-florida.html",
+          "author": "Michael Barbaro, Nina Feldman, Sydney Harper, Eric Krupke, Jessica Cheung, Rachel Quester, Luke Vander Ploeg, Patricia Willens, Lisa Chow, Dan Powell and Chris Wood",
+          "description": "Times reporters on the ground take stock of one of the deadliest storms ever to hit the state.",
+          "link": "https://www.nytimes.com/2022/09/30/podcasts/the-daily/hurricane-ian-florida.html",
+          "publishedOn": "2022-09-30T10:34:11.000Z",
+          "wordCount": null,
+          "title": "Florida After Hurricane Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html",
+          "author": "Yaqoob Akbary and Christina Goldbaum",
+          "description": "The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.",
+          "link": "https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html",
+          "publishedOn": "2022-09-30T10:21:07.000Z",
+          "wordCount": null,
+          "title": "Blast at Education Center in Kabul Kills at Least 19",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/business/eurozone-inflation.html",
           "author": "Patricia Cohen and Melissa Eddy",
           "description": "Jumps in energy and food prices again pushed inflation in the 19 countries that use the euro to the highest annual rate recorded since the currency was created.",
@@ -1856,6 +1906,16 @@
           "publishedOn": "2022-09-30T09:43:49.000Z",
           "wordCount": null,
           "title": "Eurozone Inflation Sets Another Record, Hitting 10 Percent in September",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html",
+          "author": "Dan Bilefsky",
+          "description": "",
+          "link": "https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html",
+          "publishedOn": "2022-09-30T09:16:45.000Z",
+          "wordCount": null,
+          "title": "Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.",
           "imageUrl": null
         },
         {
@@ -2366,6 +2426,16 @@
           "publishedOn": "2022-09-29T15:34:41.000Z",
           "wordCount": null,
           "title": "Stocks Drop as Focus Shifts Back to a Potential Recession",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/movies/hocus-pocus-2-review.html",
+          "author": "Claire Shaffer",
+          "description": "The Sanderson sisters return, bringing the same spooky humor with some modern twists.",
+          "link": "https://www.nytimes.com/2022/09/29/movies/hocus-pocus-2-review.html",
+          "publishedOn": "2022-09-29T14:30:44.000Z",
+          "wordCount": null,
+          "title": "‘Hocus Pocus 2’ Review: Still Spelling Trouble",
           "imageUrl": null
         },
         {
@@ -6060,6 +6130,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html",
+          "author": "Zoë Lescaze",
+          "description": "The artist’s work addresses future climate crises while attempting to make the urban environment a better place to live right now.",
+          "link": "https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html",
+          "publishedOn": "2022-09-30T11:00:13.000Z",
+          "wordCount": null,
+          "title": "The Optimistic Art of Mary Mattingly",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html",
           "author": "Elizabeth A. Harris",
           "description": "The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.",
@@ -8280,6 +8360,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2411670",
+          "author": "Catherine Shu",
+          "description": "Created by developer who needed to test apps at scale, TestGrid is an on-demand platform that lets users run tests on websites and apps across browsers, operating systems. The startup, which is launching today and can be used on premise or in the cloud, alleviates the hassle of finding and scaling physical and cloud infrastructure […]\nTestGrid is a “one-stop shop” for testing apps at scale by Catherine Shu originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/",
+          "publishedOn": "2022-09-30T11:00:59.000Z",
+          "wordCount": 6953,
+          "title": "TestGrid is a “one-stop shop” for testing apps at scale",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2412892",
           "author": "Manish Singh",
@@ -12784,6 +12874,26 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/even-better/23378958/end-of-life-planning-elders-parents-grandparents-loved-ones",
+          "author": null,
+          "description": "Denis Novikov/Getty Images\n    \n\n  \nHow to make sure you know what they want so you can honor their wishes without having to guess.\n Confronting the fact that our loved ones will someday die — that we all will — is one of the hardest parts of being human. Most of us don’t like to think about death, and as long as it doesn’t feel urgent, it’s easy to avoid discussing it with family and friends. \nAvoiding the reality, though, is risky. It increases the likelihood that we’ll be unprepared to make medical decisions when we need to make them. If we’re forced to make choices for an incapacitated loved one and don’t know what they want, we might agonize over whether or not we’ve made the right choice.\nOver the last few years, I’ve been talking to my parents about death, in part because of my dad’…",
+          "link": "https://www.vox.com/even-better/23378958/end-of-life-planning-elders-parents-grandparents-loved-ones",
+          "publishedOn": "2022-09-30T11:00:00.000Z",
+          "wordCount": 4084,
+          "title": "End-of-life planning with loved ones can be hard. Here’s where to start.",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EThoYjldyoFOoGC7YQAZ0I6kHw4=/0x537:7500x4464/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065418/GettyImages_1335844946.jpg"
+        },
+        {
+          "id": "https://www.vox.com/policy-and-politics/2022/9/30/23379411/texas-ken-paxton-subpoena-fraud-charges-fbi-investigation",
+          "author": null,
+          "description": "Texas Attorney General Ken Paxton speaks during the Conservative Political Action Conference (CPAC) on July 11, 2021, in Dallas, Texas.  | Brandon Bell/Getty Images\n    \n\n  \nTexas voters will get to render a verdict before the courts do.\n On Monday, the top legal authority in the state of Texas reportedly fled his own home rather than allow an official to serve him a subpoena. \nAccording to an account from the man who served the subpoena, reported in the Texas Tribune, Texas Attorney General Ken Paxton appeared to try and wait out a process server with the subpoena for an hour in his home, then later ran away as the server approached him, and finally rode away in a truck driven by his wife as the server laid the documents on the ground. \nPaxton’s lawyers have argued that he was simply inti…",
+          "link": "https://www.vox.com/policy-and-politics/2022/9/30/23379411/texas-ken-paxton-subpoena-fraud-charges-fbi-investigation",
+          "publishedOn": "2022-09-30T10:30:00.000Z",
+          "wordCount": 3343,
+          "title": "Ken Paxton keeps running. Will his legal issues ever catch up?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Y_F6ACAkS2A0qhGwvkLSrO_XmPw=/0x0:4048x2119/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24066185/1328181515.jpg"
+        },
         {
           "id": "https://www.vox.com/health-care/2022/9/30/23377495/medicaid-expansion-states-south-dakota-ballot-initiative",
           "author": null,
@@ -17454,6 +17564,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30/revenger-original-anime-announced-with-teaser-visual-and-trailer",
+          "author": "Liam Dempsey",
+          "description": "Produced by nitroplus and Shochiku\n\n\n\"I kill people with my blade, to resist this cruel fate\" decorates an epic teaser visual that was revealed with the announcement of a new original anime titled REVENGER. A short trailer was also released, so hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30/revenger-original-anime-announced-with-teaser-visual-and-trailer",
+          "publishedOn": "2022-09-30T10:20:00.000Z",
+          "wordCount": 5790,
+          "title": "REVENGER Original Anime Announced with Teaser Visual and Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/bab19adc9024ab0db96f5a1550f94b591664533158_main.png"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/meet-the-bassist-in-new-character-pv-for-bocchi-the-rock-tv-anime",
           "author": "Liam Dempsey",
           "description": "Crunchyroll will be simulcasting the series from October 8\n\n\nUpcoming music anime BOCCHI THE ROCK! pulled some strings to release a second character highlight trailer today, previewing bassist Ryo Yamada and her voice actress Saku Mizuno. Hit the jump to watch!",
@@ -19031,6 +19151,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/article65954553.ece",
+          "author": "AP",
+          "description": "Residents in the capital of Burkina Faso say gunfire rang out early in the morning and now the state broadcaster has gone off the air, fueling fears of a mutiny.",
+          "link": "https://www.thehindu.com/news/international/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/article65954553.ece",
+          "publishedOn": "2022-09-30T10:49:17.000Z",
+          "wordCount": 6189,
+          "title": "Gunfire heard in Burkina Faso, sparking mutiny fears",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ajb0gf/article65954565.ece/alternates/LANDSCAPE_615/2022-09-30T075630Z_1584114479_RC2JRW9BDTYL_RTRMADP_3_BURKINA-SECURITY.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/thailand-court-clears-way-for-pm-prayuth-to-return-from-suspension/article65954615.ece",
+          "author": "Reuters",
+          "description": "Mr. Prayuth, 68, had been suspended from office while the court deliberated the case.",
+          "link": "https://www.thehindu.com/news/international/thailand-court-clears-way-for-pm-prayuth-to-return-from-suspension/article65954615.ece",
+          "publishedOn": "2022-09-30T10:19:39.000Z",
+          "wordCount": 6342,
+          "title": "Thailand court clears way for PM Prayuth to return from suspension",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/eiqhg3/article65954617.ece/alternates/LANDSCAPE_615/AP09_30_2022_000192B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/gunman-kills-chinese-pakistani-national-in-karachi-wounds-two/article65954362.ece",
           "author": "AP",
           "description": "There was no immediate claim of responsibility for the killing, but the separatist Baluch Liberation Army has claimed responsibility for some of the previous attacks on Chinese people in the city and elsewhere in Pakistan.",
@@ -20337,6 +20477,76 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/after-nomination-tharoor-calls-for-decentralization-in-congress-releases-manifesto/articleshow/94560224.cms",
+          "author": null,
+          "description": "Congress leader Shashi Tharoor, who filed his nomination for the party president post on Friday, issued a manifesto explaining how he intends to rejuvenate the party through decentralisation and internal reorganisation if he wins the election.",
+          "link": "https://timesofindia.indiatimes.com/india/after-nomination-tharoor-calls-for-decentralization-in-congress-releases-manifesto/articleshow/94560224.cms",
+          "publishedOn": "2022-09-30T10:47:37.000Z",
+          "wordCount": 6196,
+          "title": "After nomination, Tharoor calls for 'decentralisation' in Congress, releases manifesto",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560246,width-1070,height-580,imgsize-31816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-gets-6-above-average-monsoon-rains-in-june-sept-season/articleshow/94559116.cms",
+          "author": null,
+          "description": "India News: MUMBAI: India's monsoon rainfall was 6% higher than normal in the June-September season as excessive precipitation in central and southern areas offse.",
+          "link": "https://timesofindia.indiatimes.com/india/india-gets-6-above-average-monsoon-rains-in-june-sept-season/articleshow/94559116.cms",
+          "publishedOn": "2022-09-30T10:15:59.000Z",
+          "wordCount": 5205,
+          "title": "India gets 6% above-average monsoon rains in June-Sept season",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94559158,width-1070,height-580,imgsize-1795914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoor-man-of-words-and-many-independent-moves/articleshow/94559131.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: By filing his nomination as Congress president on Friday, Shashi Tharoor has shown he is no ‘quockerwodger' - a word he introduced into our.",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoor-man-of-words-and-many-independent-moves/articleshow/94559131.cms",
+          "publishedOn": "2022-09-30T10:15:11.000Z",
+          "wordCount": 8311,
+          "title": "Shashi Tharoor: Man of words and many independent moves",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94559103,width-1070,height-580,imgsize-70422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-encounter-in-jks-baramulla-planned-to-target-army-recruitment-rally-police/articleshow/94559066.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: Two local Jaish-e-Mohammad terrorists planning to target the Army's Agniveer recruitment rally were killed in an encounter with security for.",
+          "link": "https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-encounter-in-jks-baramulla-planned-to-target-army-recruitment-rally-police/articleshow/94559066.cms",
+          "publishedOn": "2022-09-30T10:12:56.000Z",
+          "wordCount": 6196,
+          "title": "2 Jaish terrorists killed in encounter in J&K's Baramulla, planned to target Army recruitment rally: Police",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94559063,width-1070,height-580,imgsize-30104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-prez-poll-bjp-takes-potshots-at-kharges-candidature-says-he-will-be-remote-controlled-proxy/articleshow/94558904.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The BJP on Friday took a swipe at the Congress after senior leader Mallikarjun Kharge emerged as the favourite to win the poll for party pr.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-prez-poll-bjp-takes-potshots-at-kharges-candidature-says-he-will-be-remote-controlled-proxy/articleshow/94558904.cms",
+          "publishedOn": "2022-09-30T10:06:59.000Z",
+          "wordCount": 5888,
+          "title": "Congress prez poll: BJP takes potshots at Kharge's candidature, says he will be 'remote-controlled', 'proxy'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94558891,width-1070,height-580,imgsize-47088,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cities-will-shape-countrys-destiny-and-ensure-that-india-becomes-developed-nation-in-25-years-pm-modi/articleshow/94558540.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: Prime Minister Narendra Modi on Friday said cities will shape the destiny of India and they will ensure that it becomes a developed nation .",
+          "link": "https://timesofindia.indiatimes.com/india/cities-will-shape-countrys-destiny-and-ensure-that-india-becomes-developed-nation-in-25-years-pm-modi/articleshow/94558540.cms",
+          "publishedOn": "2022-09-30T09:58:06.000Z",
+          "wordCount": 7747,
+          "title": "Cities will shape country's destiny and ensure that India becomes developed nation in 25 years: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560375,width-1070,height-580,imgsize-103520,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gujarat-pm-modis-convoy-stops-to-give-way-to-ambulance/articleshow/94557873.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: Prime Minister Narendra Modi's convoy stopped for a brief time to give way to an ambulance while travelling to Gandhinagar from Ahmedabad o.",
+          "link": "https://timesofindia.indiatimes.com/india/gujarat-pm-modis-convoy-stops-to-give-way-to-ambulance/articleshow/94557873.cms",
+          "publishedOn": "2022-09-30T09:42:42.000Z",
+          "wordCount": 5304,
+          "title": "Gujarat: PM Modi's convoy stops to give way to ambulance",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94558027,width-1070,height-580,imgsize-34988,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-10-things-to-know-about-the-possible-next-congress-president/articleshow/94556321.cms",
           "author": null,
@@ -23925,6 +24135,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russian-strike-kills-23-as-kremlin-to-annex-ukraine-regions/articleshow/94558000.cms",
+          "author": null,
+          "description": "Europe News: KYIV: A Russian strike on the Ukrainian city of Zaporizhzhia killed at least 23 people and wounded dozens, an official said Friday, just hours before .",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russian-strike-kills-23-as-kremlin-to-annex-ukraine-regions/articleshow/94558000.cms",
+          "publishedOn": "2022-09-30T10:13:09.000Z",
+          "wordCount": 10697,
+          "title": "Russian strike kills 23 as Kremlin to annex Ukraine regions",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94558957,width-1070,height-580,imgsize-78990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/suicide-bomber-blows-himself-up-minutes-before-friday-prayers-in-pakistan/articleshow/94558079.cms",
           "author": null,
           "description": "A suicide bomber on Friday blew himself up in an open field situated close to a mosque, minutes before the jumma prayers in Pakistan's restive Khyber Pakhtunkhwa province, police said. The attacker detonated a hand grenade before exploding his suicide vest, which killed him on the spot, district police officer Irfanullah said. However, no one else was hurt or injured in the blast.",
@@ -25618,6 +25838,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/news/it-wasnt-part-of-plan-but-was-very-much-within-rules-harmanpreet-on-controversial-run-out/articleshow/94559596.cms",
+          "author": null,
+          "description": "Running out England batter Charlie Dean while she was backing up was not part of India's plans during the recent ODI series but was very much within the rules of the game, skipper Harmanpreet Kaur said on Friday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/news/it-wasnt-part-of-plan-but-was-very-much-within-rules-harmanpreet-on-controversial-run-out/articleshow/94559596.cms",
+          "publishedOn": "2022-09-30T10:31:41.000Z",
+          "wordCount": 5888,
+          "title": "It wasn't part of plan: Harmanpreet on controversial run out",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94559728,width-1070,height-580,imgsize-43176,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms",
           "author": null,
