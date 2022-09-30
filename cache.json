@@ -5830,6 +5830,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/style/karl-lagerfeld-metropolitan-museum-of-art-costume-institute.html",
+          "author": "Vanessa Friedman",
+          "description": "The Chanel, Fendi and Chloé designer will be the subject of the next Costume Institute blockbuster, even though he famously hated museum retrospectives.",
+          "link": "https://www.nytimes.com/2022/09/30/style/karl-lagerfeld-metropolitan-museum-of-art-costume-institute.html",
+          "publishedOn": "2022-09-30T06:00:06.000Z",
+          "wordCount": null,
+          "title": "Inside the Met’s Plans for a Major Karl Lagerfeld Show",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/arts/television/daily-show-trevor-noah-leaving.html",
           "author": "Trish Bendix",
           "description": "“It’s not instant. I’m not disappearing. Don’t worry. If I owe you money, I’ll still pay you,” Noah joked.",
@@ -8010,6 +8020,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2414079",
+          "author": "Manish Singh",
+          "description": "Amazon has launched a QVC-style livestream shopping in India, broadening its offerings in the key overseas market where it has deployed over $6.5 billion to win customers. The company on Friday quietly rolled out the new service, called Amazon Live, bringing an army of creators to host livestreams and plug products in the videos. The […]\nAmazon launches QVC-style livestream shopping in India by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/amazon-live-commerce-india/",
+          "publishedOn": "2022-09-30T06:46:53.000Z",
+          "wordCount": 6445,
+          "title": "Amazon launches QVC-style livestream shopping in India",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1239588817.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2412794",
           "author": "Rita Liao",
@@ -10837,6 +10857,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "xgy47d",
+          "author": "Tonggo Simangunsong",
+          "description": "A recent VICE World News report shed light on the child laborers earning $6 a day to spray poison for one of Indonesia’s biggest paper companies.",
+          "link": "https://www.vice.com/en_us/article/xgy47d/child-labor-indonesian-plantation",
+          "publishedOn": "2022-09-30T07:13:46.000Z",
+          "wordCount": 15254,
+          "title": "Plantation Workers Relocated After Exposé on Child Labor and Working Conditions",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633688e37ac4f3009a566caa/lede/1664518608476-toba-pulp-lestari-in-a-concession-areaalbert-ivan-damanik.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633688e37ac4f3009a566caa/lede/1664518608476-toba-pulp-lestari-in-a-concession-areaalbert-ivan-damanik.jpeg"
+        },
         {
           "id": "g5vwmb",
           "author": "Gavin Butler",
@@ -15892,6 +15927,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190365",
+          "author": null,
+          "description": "Toshihiko Seki, Shunsuke Takeuchi, Mie Sonozaki join cast; FIVE NEW OLD perform opening song \"Trickster\"",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/high-card-anime-reveals-more-cast-members-opening-song-artist/.190365",
+          "publishedOn": "2022-09-30T07:23:48.000Z",
+          "wordCount": 3774,
+          "title": "High Card Anime Reveals More Cast Members, Opening Song Artist",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/cms/news.5/190365/normankingstadt.png.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190361",
           "author": null,
           "description": "Title sequence features Leon Niihama's opening song \"Tsukamaete, Konya\"",
@@ -17098,6 +17143,26 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/depraved-fantasy-tv-anime-immoral-guild-delivers-final-character-trailer",
+          "author": "Daryl Harding",
+          "description": "Immoral Guild begins adventuring on October 5\n\n\nThe final character trailer for the upcoming TV anime adaptation of Taichi Kawazoe's erotic comedy manga Immoral Guild was released today, introducing everyone to Noma Rune, a magician of the fairy clan who uses both attack and healing magic. Cast your spell past the jump to learn more!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/depraved-fantasy-tv-anime-immoral-guild-delivers-final-character-trailer",
+          "publishedOn": "2022-09-30T06:50:14.000Z",
+          "wordCount": 5915,
+          "title": "Depraved Fantasy TV Anime Immoral Guild Delivers Final Character Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/a0ce9a33d27d2fb4fa4a4ee65411a5921664520603_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/my-dress-up-darling-anime-teams-up-with-saitama-city-to-promote-local-doll-production",
+          "author": "Daryl Harding",
+          "description": "An exhibition will be held in Tokyo for Iwatsuki Ningyo dolls\n\n\nSaitama City is bringing its local Iwatsuki Ningyo dolls industry to Tokyo this November with the help of the My Dress-Up Darling anime. Find out more details on the full exhibition after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/my-dress-up-darling-anime-teams-up-with-saitama-city-to-promote-local-doll-production",
+          "publishedOn": "2022-09-30T06:31:11.000Z",
+          "wordCount": 6105,
+          "title": "My Dress-Up Darling Anime Teams Up With Saitama City to Promote Local Doll Production",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/c054bed3965ac05ad56ff9a4d2acdefe1664519460_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29/crime-thriller-anime-my-home-hero-exposes-april-2023-broadcast-with-1st-trailer-and-visual",
           "author": "Liam Dempsey",
@@ -19872,6 +19937,76 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ban-on-pfi-act-of-political-selfishness-aimed-to-appease-rss-mayawati/articleshow/94553552.cms",
+          "author": null,
+          "description": "India News: LUCKNOW: Bahujan Samaj Party president Mayawati on Friday said the ban on the Popular Front of India ahead of elections in some states was an act of \".",
+          "link": "https://timesofindia.indiatimes.com/india/ban-on-pfi-act-of-political-selfishness-aimed-to-appease-rss-mayawati/articleshow/94553552.cms",
+          "publishedOn": "2022-09-30T07:04:21.000Z",
+          "wordCount": 6107,
+          "title": "Ban on PFI act of 'political selfishness' aimed to appease RSS: Mayawati",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94553528,width-1070,height-580,imgsize-16320,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-manish-tewari-bats-for-consensus/articleshow/94553349.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Senior member of the pro-reform G23 group Manish Tewari on Friday called for consensus on the post of Congress president and recalled late .",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-poll-manish-tewari-bats-for-consensus/articleshow/94553349.cms",
+          "publishedOn": "2022-09-30T06:59:14.000Z",
+          "wordCount": 5633,
+          "title": "Congress president poll: Manish Tewari bats for consensus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94553346,width-1070,height-580,imgsize-36982,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/digvijaya-singh-opts-out-of-cong-prez-race-to-back-mallikarjun-kharge/articleshow/94553173.cms",
+          "author": null,
+          "description": "\"Kharge ji is my leader and my senior. I had asked him yesterday if he wanted to contest. He said no. I met him again today. I told him I am with you fully if you are contesting. I can't think of contesting against him. He is filing his nomination and I will be his proposer,\" said Digvijaya Singh. Digvijaya had expressed his inclination to contest the top party post and had collected 10 sets of nomination papers on Thursday after Gehlot opted out of the race.",
+          "link": "https://timesofindia.indiatimes.com/india/digvijaya-singh-opts-out-of-cong-prez-race-to-back-mallikarjun-kharge/articleshow/94553173.cms",
+          "publishedOn": "2022-09-30T06:54:28.000Z",
+          "wordCount": 5950,
+          "title": "Digvijaya Singh opts out of Cong prez race, to back Mallikarjun Kharge",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94553181,width-1070,height-580,imgsize-9010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/strategist-with-expertise-on-china-counters-insurgency-operations-in-kashmir-gen-anil-chauhan-takes-over-as-new-cds/articleshow/94552404.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: A strategist and fine commander, India's new Chief of Defence Staff Gen Anil Chauhan contributed to shaping the country's military policy t.",
+          "link": "https://timesofindia.indiatimes.com/india/strategist-with-expertise-on-china-counters-insurgency-operations-in-kashmir-gen-anil-chauhan-takes-over-as-new-cds/articleshow/94552404.cms",
+          "publishedOn": "2022-09-30T06:30:45.000Z",
+          "wordCount": 7465,
+          "title": "Strategist with expertise on China, counters insurgency operations in Kashmir, Gen Anil Chauhan takes over as new CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94552496,width-1070,height-580,imgsize-54910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/yatra-the-only-way-of-expression-as-all-other-fora-shut-for-opposition-rahul-gandhi/articleshow/94552319.cms",
+          "author": null,
+          "description": "Congress leader Rahul Gandhi on Friday claimed that the 'Bharat Jodo Yatra' was the only option left with the party to reach out to the masses as all other fora for expression are shut. His 'Bharat Jodo Yatra' entered Karnataka here in Chamarajanagar district from Gudalur in Tamil Nadu.",
+          "link": "https://timesofindia.indiatimes.com/india/yatra-the-only-way-of-expression-as-all-other-fora-shut-for-opposition-rahul-gandhi/articleshow/94552319.cms",
+          "publishedOn": "2022-09-30T06:24:46.000Z",
+          "wordCount": 6038,
+          "title": "Yatra the only way of expression as all other fora shut for opposition: Rahul Gandhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94552352,width-1070,height-580,imgsize-30876,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-collegiums-headed-by-cji-lalit-recommends-transfer-of-cjs-of-orissa-jk-hcs/articleshow/94552238.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Supreme Court Collegium headed by Chief Justice Uday Umesh Lalit has recommended to the Centre the transfer of Chief Justice (CJ) of Or.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-collegiums-headed-by-cji-lalit-recommends-transfer-of-cjs-of-orissa-jk-hcs/articleshow/94552238.cms",
+          "publishedOn": "2022-09-30T06:20:27.000Z",
+          "wordCount": 5528,
+          "title": "SC collegiums headed by CJI Lalit recommends transfer of CJs of Orissa, J&K HCs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94552236,width-1070,height-580,imgsize-15090,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rahul-gandhis-bharat-jodo-yatra-enters-poll-bound-karnataka-for-a-21-day-leg/articleshow/94551745.cms",
+          "author": null,
+          "description": "After winding through parts of Kerala and Tamil Nadu over the past 22 days, Rahul Gandhi's 'Bharat Jodo Yatra' entered Karnataka on Friday. The 21-day Karnataka leg of the Yatra began from Gundlupet in Chamarajanagar district, about 200km from Bengaluru. The Karnataka stretch will cover 511 km over the next 21 days, but participants will take a break for four days in between over the first phase.",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-bharat-jodo-yatra-enters-poll-bound-karnataka-for-a-21-day-leg/articleshow/94551745.cms",
+          "publishedOn": "2022-09-30T06:13:55.000Z",
+          "wordCount": 6444,
+          "title": "Rahul Gandhi's Bharat Jodo Yatra enters poll-bound Karnataka for a 21-day leg",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94551996,width-1070,height-580,imgsize-25628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-to-contest-cong-prez-poll-pramod-tiwari/articleshow/94551456.cms",
           "author": null,
@@ -23320,6 +23455,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/at-least-23-killed-in-russian-missile-strike-in-ukraine/articleshow/94553190.cms",
+          "author": null,
+          "description": "Europe News: ZAPORIZHZHIA: At least 23 people were killed and 28 wounded in a Russian missile strike that hit a convoy of vehicles carrying civilians near the sout.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/at-least-23-killed-in-russian-missile-strike-in-ukraine/articleshow/94553190.cms",
+          "publishedOn": "2022-09-30T06:56:08.000Z",
+          "wordCount": 6087,
+          "title": "At least 23 killed in Russian missile strike in Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94553219,width-1070,height-580,imgsize-194194,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/at-least-19-killed-in-suicide-bombing-at-kabul-education-centre/articleshow/94550068.cms",
           "author": null,
           "description": "A Taliban-appointed spokesman for the Kabul police chief says 19 people were killed and 27 were wounded in a suicide bombing in a Shiite area of the Afghan capital. \"An educational centre called 'Kaj' has been attacked, which unfortunately has caused deaths and injuries,\" interior ministry spokesman Abdul Nafy Takor tweeted.",
@@ -24944,6 +25089,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/rbis-monetary-policy-committee-showed-the-first-signs-of-differences-in-the-scale-of-interest-rate-hikes/",
+          "author": null,
+          "description": "RBI’s monetary policy committee today chose to increase its policy rate, or the repo, by 0.5 percentage points to push it up to 5.9%. This was in line with market expectations. A closer look at...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/rbis-monetary-policy-committee-showed-the-first-signs-of-differences-in-the-scale-of-interest-rate-hikes/",
+          "publishedOn": "2022-09-30T07:07:14.000Z",
+          "wordCount": 2899,
+          "title": "Quick Edit: RBI showed first signs of differences in scale of interest rate hike",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/RBI.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/delhi-cm-arvind-kejriwal-announces-winter-action-plan-to-curb-pollution/articleshow/94552171.cms",
+          "author": null,
+          "description": "Delhi chief minister Arvind Kejriwal on Friday announced a 15-point winter action plan for curbing pollution in the national capital.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-cm-arvind-kejriwal-announces-winter-action-plan-to-curb-pollution/articleshow/94552171.cms",
+          "publishedOn": "2022-09-30T06:21:20.000Z",
+          "wordCount": 5502,
+          "title": "Delhi sets action plan to curb winter pollution",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94552173,width-1070,height-580,imgsize-29074,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/bengali/exclusive-this-panchami-is-special-because-i-turned-50-says-birthday-boy-shaan/articleshow/94551387.cms",
+          "author": null,
+          "description": "From celebrating friendship to experiencing first love or first heartbreak, fans have always found solace in his songs. Be it ‘Chand Sifarish’, ‘All is Well’, ‘Jabse Tere Naina’ or ‘Jise Dhoondta Hoon Main…’, his songs have always managed to strike the right chord. And probably that’s the reason, he enjoys an enormous fan following that keeps growing with each passing day.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/bengali/exclusive-this-panchami-is-special-because-i-turned-50-says-birthday-boy-shaan/articleshow/94551387.cms",
+          "publishedOn": "2022-09-30T05:46:50.000Z",
+          "wordCount": 9561,
+          "title": "This Panchami is special because I turned 50, says Shaan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94551951,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94551951.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-or-dengue-how-to-differentiate-between-symptoms/photostory/94532987.cms",
           "author": null,
           "description": "Given that COVID-19 has taken a milder turn, causing less severe infections and more manageable symptoms, many have started to confuse the illness with other diseases including the flu and common cold. In addition, the recent rise in the dengue cases has alarmed officials and led to added confusion.",
@@ -24952,6 +25127,16 @@
           "wordCount": 10151,
           "title": "Covid or Dengue: How to differentiate between symptoms?",
           "imageUrl": "https://static.toiimg.com/photo/94533002.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/web-stories/hindi/navratri-day-5-take-green-outfit-inspo-from-these-tv-celebs/photostory/94550800.cms",
+          "author": null,
+          "description": "From Tejasswi Prakash’s green saree to Hina Khan’s kurta set, be festive ready like these TV celebs on Day 5 of Navratri",
+          "link": "https://timesofindia.indiatimes.com/tv/web-stories/hindi/navratri-day-5-take-green-outfit-inspo-from-these-tv-celebs/photostory/94550800.cms",
+          "publishedOn": "2022-09-30T05:24:14.000Z",
+          "wordCount": 1851,
+          "title": "Navratri Day 5: Take green outfit inspo from these TV celebs",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94551384.cms"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/pm-modi-flags-off-vande-bharat-express-train-between-gandhinagar-and-mumbai/articleshow/94550728.cms",
