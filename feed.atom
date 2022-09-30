@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T07:32:57.035Z</updated>
+    <updated>2022-09-30T08:20:56.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Montenegro expels six Russian diplomats amid probe into alleged spying, Kremlin shuts consulate]]></title>
+        <id>https://www.thehindu.com/news/international/montenegro-expels-six-russian-diplomats-amid-probe-into-alleged-spying-kremlin-shuts-consulate/article65954347.ece</id>
+        <link href="https://www.thehindu.com/news/international/montenegro-expels-six-russian-diplomats-amid-probe-into-alleged-spying-kremlin-shuts-consulate/article65954347.ece"/>
+        <updated>2022-09-30T07:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Moscow retaliated by closing its consulate in Montenegro ‘indefinitely’, Russia’s embassy in the small Balkan nation said in a statement]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress president poll: All senior leaders decided to support Kharge's candidature, says Gehlot]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-president-poll-all-senior-leaders-decided-to-support-kharges-candidature-says-gehlot/articleshow/94554732.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-president-poll-all-senior-leaders-decided-to-support-kharges-candidature-says-gehlot/articleshow/94554732.cms"/>
+        <updated>2022-09-30T07:51:28.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Rajasthan chief minister Ashok Gehlot on Friday said all senior leaders had decided to back veteran Congress leader Mallikarjun Kharge's ca.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. says ex-Army major and his wife tried to leak military health data to Russia]]></title>
+        <id>https://www.thehindu.com/news/international/us-says-ex-army-major-and-his-wife-tried-to-leak-military-health-data-to-russia/article65954265.ece</id>
+        <link href="https://www.thehindu.com/news/international/us-says-ex-army-major-and-his-wife-tried-to-leak-military-health-data-to-russia/article65954265.ece"/>
+        <updated>2022-09-30T07:37:17.000Z</updated>
+        <summary type="html"><![CDATA[The two met with someone whom they believed was a Russian official, but in fact was actually an FBI undercover agent]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India and Pakistan should work together on climate change: Pakistan Foreign Minister Bilawal]]></title>
+        <id>https://www.thehindu.com/news/international/india-and-pakistan-should-work-together-on-climate-change-pakistan-foreign-minister-bilawal/article65954253.ece</id>
+        <link href="https://www.thehindu.com/news/international/india-and-pakistan-should-work-together-on-climate-change-pakistan-foreign-minister-bilawal/article65954253.ece"/>
+        <updated>2022-09-30T07:33:10.000Z</updated>
+        <summary type="html"><![CDATA[He said that given the situation his country is in due to floods, "it’s time that both India and Pakistan work together on the issue of climate change"]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High Card Anime Reveals More Cast Members, Opening Song Artist]]></title>
         <id>https://www.animenewsnetwork.com/cms/.190365</id>
@@ -527,6 +567,16 @@ All the pieces are starting to come together for upcoming crime thriller anime M
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Movie review: Ponniyin Selvan - Part 1]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/ponniyin-selvan-part-1/movie-review/94548001.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/ponniyin-selvan-part-1/movie-review/94548001.cms"/>
+        <updated>2022-09-30T03:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Mani Ratnam finally brings the dream of many Tamil filmmakers alive with this spectacular adaptation that superbly captures the intrigue, thrills and page-turning quality of the books.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Shadow Man Dances His Way Through Tokyo in Detective Conan: The Culprit Hanzawa Creditless Anime Opening Video]]></title>
         <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video</id>
         <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video"/>
@@ -547,6 +597,16 @@ Ahead of the series premiere of Detective Conan: The Culprit Hanzawa, the ShoPr
         <summary type="html"><![CDATA[India News: NEW DELHI: The contest for the Congress president election seems wide open, and the last day of filing nominations could still spring a surprise or tw.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digvijaya to support Kharge in Congress prez race: Key points]]></title>
+        <id>https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms"/>
+        <updated>2022-09-30T03:23:10.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The contest for the Congress president election gets interesting on the last day of filing nominations.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
