@@ -12,6 +12,46 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed",
+          "author": null,
+          "description": "USB-C, the cable that (sometimes) does it all. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nThe SuperSpeed USB branding is no more thanks to a new set of guidelines currently being rolled out by the USB Implementers Forum (USB-IF), the body that manages and maintains the USB standard. \nIt’s part of a rebranding initiative that the organization kicked off last year with the introduction of a new series of packaging, port, and cable logos. But with its latest set of branding and logo guidelines it’s going even further, simplifying its legacy branding and signaling the end of the decade-old SuperSpeed branding. If the name doesn’t ring any bells, then that’s probably because you (like most other people) simply referred to it by its USB 3 version number. Alongside it, the USB-IF is a…",
+          "link": "https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed",
+          "publishedOn": "2022-09-30T12:00:00.000Z",
+          "wordCount": 8760,
+          "title": "USB kills off SuperSpeed branding as it tries to simplify its ubiquitous connector",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ptROpHEgqglGtbRwJFnMP7ydtmE=/0x0:2040x1360/1200x628/filters:focal(1233x981:1234x982)/cdn.vox-cdn.com/uploads/chorus_asset/file/16294982/akrales_190522_3440_0056.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu",
+          "author": null,
+          "description": "A bipedal robot named Cassie has set a new Guinness World Record for the 100 meter dash, clocking in a time of 24.73 seconds and an average speed of 4m/s (9mph). \nThat’s much slower than a human, for whom record times stand at 9.58 seconds for men (set by Usain Bolt) and 10.49 seconds for women (set by Florence Griffith-Joyner). However, it’s still extremely impressive for a robot of Cassie’s design. \n“This may be the first bipedal robot to learn to run, but it won’t be the last,” said OSU robotics professor Jonathan Hurst in a press statement. “I think progress is going to accelerate from here.”\nCassie was created by engineers at Oregon State University (OSU) and is manufactured by OSU-spinout Agility Robotics. Agility uses the bipedal technology developed for Cassie to power its legged r…",
+          "link": "https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu",
+          "publishedOn": "2022-09-30T11:57:12.000Z",
+          "wordCount": 7035,
+          "title": "Bipedal robot sets 100 meter record",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/aVJ7V8l8r7V87w18vlc8f6Fy00E=/0x0:1280x853/1200x628/filters:focal(640x427:641x428)/cdn.vox-cdn.com/uploads/chorus_asset/file/24067462/cassie_100m.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23380068/zendure-superbase-v-semi-solid-state-battery-price-specs",
+          "author": null,
+          "description": "Image: Zendure\n    \n\n  \nZendure’s SuperBase V is the largest and most powerful portable battery yet. Not only can the 6.4kWh battery-on-wheels be expanded to 64kWh via stackable modules, it stores electrons in what the company calls the “first home energy system with semi-solid state batteries.” It can accept up to 3,000W of solar input, can be charged at a level 2 EV station, and includes external running lights, voice control, and powered wheels (because of course it does).\nAccording to Zendure, semi-solid state batteries offer 42 percent higher energy density and improved safety compared to lithium-ion phosphate (aka, LFP or LiFePO4) batteries — the current gold standard. As Professor Hobo explains it on YouTube, Zendure’s semi-solid state batteries are “basically just a more energy den…",
+          "link": "https://www.theverge.com/2022/9/30/23380068/zendure-superbase-v-semi-solid-state-battery-price-specs",
+          "publishedOn": "2022-09-30T11:45:46.000Z",
+          "wordCount": 7718,
+          "title": "Zendure launches a giant ‘semi-solid state’ battery on motorized wheels",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/nnx4kCXNHYqsetfKn9KMhBjS4zw=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24067482/DSC07258.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial",
+          "author": null,
+          "description": "Image: Google\n    \n\n  \nI’ve had a love-hate relationship with Google Stadia, but I’m certainly going to miss it now it’s shutting down. While the writing has been on the wall for Stadia pretty much since it launched, I was one of the many (or the few as the joke goes) to be intrigued by this cloud-powered future of gaming. I paid the entry fee for a (mostly) empty stadium, but I enjoyed it anyway.\nIt hasn’t been easy to like Stadia. The first few months of the service felt like a beta I was paying Google to test. I couldn’t initially connect the Stadia controller wirelessly to a PC or phone; the browser streaming wasn’t as high quality as the Chromecast output; and Google Assistant integration was useless.\nGoogle had also promised neat YouTube integration and the ability to share game clip…",
+          "link": "https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial",
+          "publishedOn": "2022-09-30T11:30:00.000Z",
+          "wordCount": 8283,
+          "title": "I’m going to miss Google Stadia",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/C1K6j09l-dE277XFgZtKfAkGRb0=/0x0:1475x983/1200x628/filters:focal(738x492:739x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/15972837/stadia.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode",
           "author": null,
           "description": "The 2x lens is a 12-megapixel crop of the main sensor... not actually a lens at all. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nOne of the iPhone 14 Pro’s big new features is a big new camera sensor. For the first time, an iPhone has a high-resolution main camera sensor — 48-megapixels to be exact — and the best thing about it isn’t that you can take 48-megapixel photos. You can, sure, but RIP your phone’s storage space. Nope, one of this sensor’s best features is the 12 megapixels in the middle. Apple has added a 2x zoom mode to its camera app, and all it does is use the central portion of the main camera sensor to crop in and mimic the effect of a 48mm-equivalent telephoto lens. That’s it. Simple, but it’s actually kind of a big deal.\nI wasn’t expecting to like the 2x zoom. F…",
@@ -6130,6 +6170,26 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/t-magazine/cultural-appropriation.html",
+          "author": "Ligaya Mishan",
+          "description": "And as accusations of improper borrowing increase, what is at stake when boundaries of collective identity are crossed?",
+          "link": "https://www.nytimes.com/2022/09/30/t-magazine/cultural-appropriation.html",
+          "publishedOn": "2022-09-30T12:00:11.000Z",
+          "wordCount": null,
+          "title": "What Does Cultural Appropriation Really Mean?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/movies/billy-eichner-bros.html",
+          "author": "Kyle Buchanan",
+          "description": "In the film, he channels his relationship angst into something hopeful: “I was like, ‘Why is the fictional version of me happier than I am?’”",
+          "link": "https://www.nytimes.com/2022/09/30/movies/billy-eichner-bros.html",
+          "publishedOn": "2022-09-30T12:00:06.000Z",
+          "wordCount": null,
+          "title": "Billy Eichner Wrote Himself Into the Romance He Wanted With ‘Bros’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html",
           "author": "Zoë Lescaze",
           "description": "The artist’s work addresses future climate crises while attempting to make the urban environment a better place to live right now.",
@@ -8360,6 +8420,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2414145",
+          "author": "Ingrid Lunden",
+          "description": "A wave of Amazon-merchant aggregator startups, floating close to $15 billion in funding, have rushed in, rolled up, and rushed out of the e-commerce market in the last several years. Now, a new tide, and new take on the model, appears to be rising. Today, a Berlin startup called Everstores — which seeks out, buys and […]\nEverstores, an Open Store-style D2C Shopify aggregator out of Europe, emerges from stealth with €18 million by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/everstores-an-open-store-style-d2c-shopify-aggregator-out-of-europe-emerges-from-stealth-with-e18-million/",
+          "publishedOn": "2022-09-30T12:10:03.000Z",
+          "wordCount": 7942,
+          "title": "Everstores, an Open Store-style D2C Shopify aggregator out of Europe, emerges from stealth with €18 million",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1320358093.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2408427",
+          "author": "Jagmeet Singh",
+          "description": "HSBC Asset Management, the investment arm of Britain’s HSBC Group, has led a seed round of $4 million in Singapore’s customer intelligence and risk assessment startup Bizbaz, the two said Friday. Founded in June 2019, Bizbaz offers its proprietary customer intelligence and risk management solutions to banks, insurance companies and fintech startups. The startup has […]\nHSBC invests in Singapore’s customer intelligence and risk assessment startup by Jagmeet Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/hsbc-investment-singapore-customer-intelligence-risk-assessment-startup-bizbaz-seed-round/",
+          "publishedOn": "2022-09-30T12:00:03.000Z",
+          "wordCount": 7004,
+          "title": "HSBC invests in Singapore’s customer intelligence and risk assessment startup",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/risk-assessment-image-pexels.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2411670",
           "author": "Catherine Shu",
@@ -11218,6 +11298,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "wxnp7y",
+          "author": "David Gilbert",
+          "description": "Mugs featuring images of the Nazi leader alongside hate symbols are currently on Goodwill’s online store .",
+          "link": "https://www.vice.com/en_us/article/wxnp7y/goodwill-hitler-nazi-memorabilia",
+          "publishedOn": "2022-09-30T11:47:40.000Z",
+          "wordCount": 5215,
+          "title": "Goodwill Is Selling Hitler Mugs Featuring Swastikas and the SS Motto",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6336c5ca417523009273e60b/lede/1664537460460-goodwill-hitler-nazi-memorabilia.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6336c5ca417523009273e60b/lede/1664537460460-goodwill-hitler-nazi-memorabilia.jpeg"
+        },
+        {
           "id": "xgy47d",
           "author": "Tonggo Simangunsong",
           "description": "A recent VICE World News report shed light on the child laborers earning $6 a day to spray poison for one of Indonesia’s biggest paper companies.",
@@ -12875,6 +12970,26 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/culture/2022/9/30/23378464/bros-billy-eichner-movie-review",
+          "author": null,
+          "description": "Billy Eichner and Luke MacFarlane in Bros, a movie about gay dudes (not brothers). | Bros/Universal Pictures\n    \n\n  \nBros wants to be a gay love story that doesn’t play it straight. \n Billy Eichner seems like the fun kind of grumpy — like a person who will say the mean stuff you’d wish you could say out loud. Eichner rocketed to success and visibility based on his ability to charmingly harangue New Yorkers on sidewalks. Then on Difficult People, he sharpened that crankiness and pop culture savvy into an acidic, narcissistic lead also named Billy, in a show that’s loosely based on his and his friend Julie Klausner’s lives.\nThe underlying irony of Eichner’s humor is that the crankiness is blazing insecurity, the meanness is neurosis, and his self-absorption is a symptom of being his own big…",
+          "link": "https://www.vox.com/culture/2022/9/30/23378464/bros-billy-eichner-movie-review",
+          "publishedOn": "2022-09-30T12:00:00.000Z",
+          "wordCount": 3820,
+          "title": "The Bros and cons of being a huge, gay Hollywood rom-com",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/1A1LNK-U-RvpwYLmBotm4I6-sPo=/0x0:1760x921/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24064243/Screen_Shot_2022_09_29_at_9.39.32_AM.png"
+        },
+        {
+          "id": "https://www.vox.com/23375875/sad-love-carrie-jenkins-heartbreak-romantic-happiness",
+          "author": null,
+          "description": "Christina Animashaun/Vox; Getty Images\n    \n\n  \nCarrie Jenkins on what philosophy can teach us about love and heartbreak.\n \n\n\n\n\nDo we need a new vision of romantic love? \nWhen you think of romantic love in popular culture, you probably think of one of two things: limitless joy or unspeakable sorrow.\nPick your favorite stereotype: obsessed teenagers who can’t leave each other’s side until some youthful misdeed leads to a cry-fest. Or maybe it’s the romance novel depictions of infatuated adults tangled up in passionate love triangles. \nThe point is, even if we know real relationships are much more complicated than this, we’re still drawn to misleading models of romantic love.\nA new book by the philosopher Carrie Jenkins, called Sad Love: Romance and the Search for Meaning, wants to scrap the…",
+          "link": "https://www.vox.com/23375875/sad-love-carrie-jenkins-heartbreak-romantic-happiness",
+          "publishedOn": "2022-09-30T11:30:00.000Z",
+          "wordCount": 4594,
+          "title": "What we get wrong about being in love",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/5nundhPg0acOLqwGuWKnWsK7nL0=/0x0:1800x942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065815/wrong_love_board_1.jpg"
+        },
+        {
           "id": "https://www.vox.com/even-better/23378958/end-of-life-planning-elders-parents-grandparents-loved-ones",
           "author": null,
           "description": "Denis Novikov/Getty Images\n    \n\n  \nHow to make sure you know what they want so you can honor their wishes without having to guess.\n Confronting the fact that our loved ones will someday die — that we all will — is one of the hardest parts of being human. Most of us don’t like to think about death, and as long as it doesn’t feel urgent, it’s easy to avoid discussing it with family and friends. \nAvoiding the reality, though, is risky. It increases the likelihood that we’ll be unprepared to make medical decisions when we need to make them. If we’re forced to make choices for an incapacitated loved one and don’t know what they want, we might agonize over whether or not we’ve made the right choice.\nOver the last few years, I’ve been talking to my parents about death, in part because of my dad’…",
@@ -14448,6 +14563,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu",
+          "author": null,
+          "description": "Image: Hoyoverse\n    \n\n  \nIt will be streamed globally on Genshin Impact’s YouTube\n Hoyoverse is continuing its symphony concert series with “Melodies of an Endless Journey,” a performance celebrating Genshin Impact’s two year anniversary. You can watch the concert’s global broadcast on Genshin Impact’s YouTube channel on Oct. 2 at 12:00 (UTC+8). The 75-minute performance will feature renditions and live adaptations of the game’s most iconic tracks.\nStoried music producer and composer Shirō Sagisu (whose work includes soundtracks for Neon Genesis Evangelion and Bleach) will serve as the concert’s music director. He will be working in partnership with the Hollywood Chamber Orchestra and various folk musicians. Eímear Noone (whose credits include World of Warcraft, Overwatch, and Diablo III) will serve as conductor.\n“The original Genshin Impact soundtracks fit perfectly into the actual in-game scenes and ambiance, and also provide much to imagine beyond the game,” said Sagisu. “Together with the HOYO-MiX team and global artists, we’ve tried different touches to the music, weaving elements of pop music, rock, and jazz into it. Hopefully, we can create a refreshing and fun experience for the players.”\nGenshin Impact is a massive, free-to-play RPG with four unique regions: Mondstat, Liyue, Inazuma, and Sumeru. Each of these has its own culture, and the game’s numerous soundtracks reflect this. Hoyoverse’s thirteenth album — which will focus on the music of Sumeru’s rainforest region — is on the horizon.\n“In the past year, as Inazuma and Sumeru unfolded, we’ve strived to enrich the Genshin Impact music with inspirations drawn from all over the world,” Yu-Peng Chen, composer and music producer for HOYO-MiX said, in a release. “I’m excited to see how these soundtracks resonate with musicians and players across the world.”",
+          "link": "https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu",
+          "publishedOn": "2022-09-30T12:00:00.000Z",
+          "wordCount": 2104,
+          "title": "How to watch Genshin Impact’s 2-year anniversary concert broadcast",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/DuUxIKSI4WyqGa_k4eWc-NWPRAc=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24055613/Key_Art_EN.jpg"
+        },
         {
           "id": "https://www.polygon.com/gaming/23378769/google-stadia-refunds",
           "author": null,
@@ -16316,6 +16441,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190385",
+          "author": null,
+          "description": "Teaser video, teaser visual revealed for new project",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/nitroplus-shochiku-reveal-original-tv-anime-revenger/.190385",
+          "publishedOn": "2022-09-30T11:44:54.000Z",
+          "wordCount": 3060,
+          "title": "Nitroplus, Shochiku Reveal Original TV Anime Revenger",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/cms/news.5/190385/revenger-kv.jpeg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190374",
           "author": null,
@@ -19151,6 +19286,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/russian-strike-kills-25-as-kremlin-look-to-annex-more-ukraine-regions/article65954736.ece",
+          "author": "AP",
+          "description": "Russia has pounded Ukrainian cities with missiles, rockets and suicide drones ahead of celebrations to mark the folding of more seized Ukrainian territory into Russia itself",
+          "link": "https://www.thehindu.com/news/international/russian-strike-kills-25-as-kremlin-look-to-annex-more-ukraine-regions/article65954736.ece",
+          "publishedOn": "2022-09-30T11:44:51.000Z",
+          "wordCount": 6967,
+          "title": "Russian strike kills 25 as Kremlin looks to annex more Ukraine regions",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lzvp2a/article65954775.ece/alternates/LANDSCAPE_615/2022-09-30T100921Z_2022781758_RC2MRW9Y7Z00_RTRMADP_3_UKRAINE-CRISIS.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/gunfire-heard-in-burkina-faso-sparking-mutiny-fears/article65954553.ece",
           "author": "AP",
           "description": "Residents in the capital of Burkina Faso say gunfire rang out early in the morning and now the state broadcaster has gone off the air, fueling fears of a mutiny.",
@@ -20478,6 +20623,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-poll-a-new-beginning-or-a-missed-reboot-chance/articleshow/94560612.cms",
+          "author": null,
+          "description": "Is the Congress president's election, with almost a predetermined outcome, a sham, or an exercise in futility? May be not. It's still a rare sight in India for a political party to hold internal elections and that too in full public glare.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-poll-a-new-beginning-or-a-missed-reboot-chance/articleshow/94560612.cms",
+          "publishedOn": "2022-09-30T12:01:06.000Z",
+          "wordCount": 7921,
+          "title": "Congress president poll: A new beginning or a missed reboot chance?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560612,width-1070,height-580,imgsize-932165,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/several-pfi-members-travelled-to-isis-strongholds-to-join-jihad-officials/articleshow/94562583.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Popular Front of India (PFI) members, who joined the dreaded terror organisation ISIS, always took a long circuitous route to avoid the sec.",
+          "link": "https://timesofindia.indiatimes.com/india/several-pfi-members-travelled-to-isis-strongholds-to-join-jihad-officials/articleshow/94562583.cms",
+          "publishedOn": "2022-09-30T11:59:58.000Z",
+          "wordCount": 6974,
+          "title": "Several PFI members travelled to ISIS strongholds to join jihad: Officials",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94562585,width-1070,height-580,imgsize-68450,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tharoor-faces-flak-for-manifesto-showing-distorted-map-of-india-later-corrects-it/articleshow/94561278.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress MP Shashi Tharoor sparked a controversy on Friday after he released a manifesto, detailing how he would change the party if he bec.",
+          "link": "https://timesofindia.indiatimes.com/india/tharoor-faces-flak-for-manifesto-showing-distorted-map-of-india-later-corrects-it/articleshow/94561278.cms",
+          "publishedOn": "2022-09-30T11:29:31.000Z",
+          "wordCount": 5372,
+          "title": "Tharoor faces flak for manifesto showing distorted map of India, later corrects it",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94561567,width-1070,height-580,imgsize-1210478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/after-nomination-tharoor-calls-for-decentralization-in-congress-releases-manifesto/articleshow/94560224.cms",
           "author": null,
           "description": "Congress leader Shashi Tharoor, who filed his nomination for the party president post on Friday, issued a manifesto explaining how he intends to rejuvenate the party through decentralisation and internal reorganisation if he wins the election.",
@@ -20486,6 +20661,16 @@
           "wordCount": 6196,
           "title": "After nomination, Tharoor calls for 'decentralisation' in Congress, releases manifesto",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94560246,width-1070,height-580,imgsize-31816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-leader-siddaramaiah-warns-bjp-against-obstructing-bharat-jodo-yatra-as-it-enters-karnataka/articleshow/94559964.cms",
+          "author": null,
+          "description": "India News: GUNDLUPET: As Rahul Gandhi's 'Bharat Jodo Yatra' entered Karnataka on Friday, senior Congress leader Siddaramaiah warned the BJP against trying to obs.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-leader-siddaramaiah-warns-bjp-against-obstructing-bharat-jodo-yatra-as-it-enters-karnataka/articleshow/94559964.cms",
+          "publishedOn": "2022-09-30T10:39:10.000Z",
+          "wordCount": 5864,
+          "title": "Congress leader Siddaramaiah warns BJP against obstructing Bharat Jodo Yatra as it enters Karnataka",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560721,width-1070,height-580,imgsize-158674,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-gets-6-above-average-monsoon-rains-in-june-sept-season/articleshow/94559116.cms",
@@ -25839,6 +26024,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-nifty-rebound-after-7-day-fall-surge-after-rbi-rate-hike/articleshow/94561975.cms",
+          "author": null,
+          "description": "Equity indices snapped 7-day losing streak as markets cheered Reserve Bank of India's (RBI) rate hike decision. The 30-share BSE benchmark jumped 1,016.96 points or 1.80 per cent to settle at 57,426.92. During the day, it rallied 1,312.67 points or 2.32 per cent to 57,722.63.",
+          "link": "https://timesofindia.indiatimes.com/business/markets/sensex/sensex-nifty-rebound-after-7-day-fall-surge-after-rbi-rate-hike/articleshow/94561975.cms",
+          "publishedOn": "2022-09-30T11:44:47.000Z",
+          "wordCount": 6697,
+          "title": "Sensex, Nifty rebound, surge nearly 2% post RBI rate hike",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94561974,width-1070,height-580,imgsize-114124,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://photogallery.indiatimes.com/celebs/bollywood/richa-chadha-and-ali-fazal-share-first-pictures-from-dreamy-wedding-celebrations-in-delhi-and-we-are-smitten/articleshow/94371429.cms",
+          "author": null,
+          "description": "Bollywood's starry couple Richa Chadha and Ali Fazal's wedding festivities have officially begun and we can't stay calm. The couple has adorably shared similar posts as a sneak peek at their pre-wedding ceremonies in Delhi. The bride-to-be captioned the post as, \"#RiAli Mohabbat Mubarak,\" to which her beau wrote, \"RiAli. Tumko bhi...\" In the pictures, the couple is glowing and twinning with their ensembles. Richa looks absolutely breathtaking in an embroidered pink lehenga and Ali Fazal complimented her in a white angrakha. Richa Chadha and Ali Fazal will get married on October 4. Earlier, a picture of the couple's wedding invite went viral. The wedding invite features a kitschy rendition of both Richa Chadha and Ali Fazal riding bicycles. The invite is designed in the shape of a matchbox and the text printed on it reads \"Couple Matches.\" The duo's friend Puneet Gupta has designed the invite. Puneet Gupta, Richa and Ali's friend who designed the card said, \"The Save the date is about celebrating being an 80's kid and taking inspiration from Vintage Indian poster art. It is also kind of interesting to do a very different and quirky take on the couple along with a retro twist and a touch of Bollywood.\" There are likely to be three pre-wedding functions - Cocktail, Sangeet, and Mehendi. All three functions, as revealed by our source, are likely to be held in New Delhi. Although the outfit Richa is going to be wearing for her wedding isn't known to us yet, the jewellery has been picked from Bikaner. For the Delhi functions, the actress' jewellery is being custom-made by a 175 old jeweller family from Bikaner. The Khajanchi family are a revered family of jewellers who are known for their statement heirloom pieces and they will be designing signature pieces for Richa. Richa and Ali first met on the sets of 'Fukrey' in 2012 and soon fell in love. (All photos: Instagram)",
+          "link": "https://photogallery.indiatimes.com/celebs/bollywood/richa-chadha-and-ali-fazal-share-first-pictures-from-dreamy-wedding-celebrations-in-delhi-and-we-are-smitten/articleshow/94371429.cms",
+          "publishedOn": "2022-09-30T11:35:57.000Z",
+          "wordCount": 9574,
+          "title": "Richa Chadha, Ali Fazal share first pictures from wedding celebrations",
+          "imageUrl": "https://static.toiimg.com/photo/94561320.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tharoor-faces-flak-for-manifesto-showing-distorted-map-of-india-later-corrects-it/articleshow/94561278.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress MP Shashi Tharoor sparked a controversy on Friday after he released a manifesto, detailing how he would change the party if he bec.",
+          "link": "https://timesofindia.indiatimes.com/india/tharoor-faces-flak-for-manifesto-showing-distorted-map-of-india-later-corrects-it/articleshow/94561278.cms",
+          "publishedOn": "2022-09-30T11:29:31.000Z",
+          "wordCount": 5372,
+          "title": "Tharoor faces flak for manifesto showing distorted map of India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94561567,width-1070,height-580,imgsize-1210478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/policy-and-industry/vehicle-scrapping-over-1-crore-vehicles-ready-for-scrapping-morth-nitin-gadkari/articleshow/94560746.cms",
+          "author": null,
+          "description": "The minister highlighted that more than 1 crore vehicles were ready for scrapping in India. To assist the government's vision of creating an efficient vehicle scrapping mechanism which is essential to the automotive industry's growth, OEMs must also invest in the scrapping industry which is due positive growth in the coming time.",
+          "link": "https://timesofindia.indiatimes.com/auto/policy-and-industry/vehicle-scrapping-over-1-crore-vehicles-ready-for-scrapping-morth-nitin-gadkari/articleshow/94560746.cms",
+          "publishedOn": "2022-09-30T11:13:21.000Z",
+          "wordCount": 6283,
+          "title": "'Over 1 cr vehicles ready for scrapping, carmakers should also invest in it'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560857,width-1070,height-580,imgsize-48868,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/videos/online-schooling/online-school-vs-physical-school-which-learning-model-should-you-choose/videoshow/94528693.cms",
+          "author": null,
+          "description": "It's a question many parents are asking these days - an online school or physical school for children? Of course, we know some of the benefits of online schools! It’s convenient, flexible, and affordable. Online schools give the most diverse form of learning. However, is online school right for everyone? Is it better to spend time in front of a computer screen or in a classroom with other kids? In this video, we will compare physical and online schools and help you choose.",
+          "link": "https://timesofindia.indiatimes.com/videos/online-schooling/online-school-vs-physical-school-which-learning-model-should-you-choose/videoshow/94528693.cms",
+          "publishedOn": "2022-09-30T10:47:46.000Z",
+          "wordCount": 4077,
+          "title": "Which learning model should you choose?",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94528693,imgsize-90871.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/news/it-wasnt-part-of-plan-but-was-very-much-within-rules-harmanpreet-on-controversial-run-out/articleshow/94559596.cms",
           "author": null,
           "description": "Running out England batter Charlie Dean while she was backing up was not part of India's plans during the recent ODI series but was very much within the rules of the game, skipper Harmanpreet Kaur said on Friday.",
@@ -25847,6 +26082,16 @@
           "wordCount": 5888,
           "title": "It wasn't part of plan: Harmanpreet on controversial run out",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94559728,width-1070,height-580,imgsize-43176,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pancreatic-cancer-the-colour-of-your-urine-could-signal-the-first-sign-of-this-cancer/photostory/94557560.cms",
+          "author": null,
+          "description": "Pancreatic cancer is relatively rare but it is one of the deadliest cancers, partly because it is often detected later at a more serious stage.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/pancreatic-cancer-the-colour-of-your-urine-could-signal-the-first-sign-of-this-cancer/photostory/94557560.cms",
+          "publishedOn": "2022-09-30T10:30:00.000Z",
+          "wordCount": 10004,
+          "title": "Pancreatic cancer: The colour of your urine could signal the first sign",
+          "imageUrl": "https://static.toiimg.com/photo/94557607.cms"
         },
         {
           "id": "https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-1-soezi/articleshow/94555812.cms",
@@ -26517,6 +26762,16 @@
           "wordCount": 6517,
           "title": "Cars to get costlier as six airbags mandatory for passenger cars",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94535175,width-1070,height-580,imgsize-725443,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/the-times-of-india-sports-awards-toisa-2021-meet-the-jury/articleshow/94534965.cms",
+          "author": null,
+          "description": "The fifth edition of the Times of India Sports Awards will be held on October 14. TOISA aims to recognise, honour and celebrate the best of the best of Indian sporting talent. The evaluation period for TOISA 2021 was January 1 to December 31, 2021",
+          "link": "https://timesofindia.indiatimes.com/the-times-of-india-sports-awards-toisa-2021-meet-the-jury/articleshow/94534965.cms",
+          "publishedOn": "2022-09-29T11:53:52.000Z",
+          "wordCount": 7275,
+          "title": "The Times of India Sports Awards: Meet the jury",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94534873,width-1070,height-580,imgsize-51060,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/pfi-maintaining-close-ties-with-radical-turkish-group-which-provides-arms-to-syrian-jihadists/articleshow/94534578.cms",
