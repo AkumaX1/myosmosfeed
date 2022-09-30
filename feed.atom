@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T22:11:02.847Z</updated>
+    <updated>2022-09-30T23:11:05.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monthly Horoscope: Gemini, October 2022]]></title>
+        <id>g5vw8b</id>
+        <link href="https://www.vice.com/en_us/article/g5vw8b/monthly-horoscope-gemini-october-2022"/>
+        <updated>2022-09-30T23:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Libra season, dear Gemini!]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Army officers appear on Burkina Faso TV, declare new coup]]></title>
+        <id>https://www.thehindu.com/news/international/army-officers-appear-on-burkina-faso-tv-declare-new-coup/article65956900.ece</id>
+        <link href="https://www.thehindu.com/news/international/army-officers-appear-on-burkina-faso-tv-declare-new-coup/article65956900.ece"/>
+        <updated>2022-09-30T23:04:29.000Z</updated>
+        <summary type="html"><![CDATA[More than a dozen members of the army have appeared on Burkina Faso's state broadcaster to declare they have overthrown the country's coup leader]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court: Preventive detention invalid if order is delayed]]></title>
+        <id>https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms"/>
+        <updated>2022-09-30T22:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Observing that preventive detention is a serious invasion of personal liberty and all safeguards allowed under law must be adhered to, the Supreme Court on Friday held that unreasonable delay between getting a proposal and passing an order for detention would make the order invalid.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC: Preventive detention invalid if order is delayed]]></title>
+        <id>https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms"/>
+        <updated>2022-09-30T22:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Observing that preventive detention is a serious invasion of personal liberty and all safeguards allowed under law must be adhered to, the Supreme Court on Friday held that unreasonable delay between getting a proposal and passing an order for detention would make the order invalid.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Horoscope: Taurus, October 2022]]></title>
+        <id>qjkwzp</id>
+        <link href="https://www.vice.com/en_us/article/qjkwzp/monthly-horoscope-taurus-october-2022"/>
+        <updated>2022-09-30T22:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Libra season, dear Taurus!]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four minors in Hyderabad gangrape case to be tried as adults]]></title>
+        <id>https://timesofindia.indiatimes.com/india/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms"/>
+        <updated>2022-09-30T22:34:24.000Z</updated>
+        <summary type="html"><![CDATA[The Juvenile Justice Board gave its consent to prosecute four of the five minors accused in the Jubilee Hills gang rape as adults. The exception is an MLA's son.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 minors in Hyderabad gangrape case to be tried as adults]]></title>
+        <id>https://timesofindia.indiatimes.com/india/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms"/>
+        <updated>2022-09-30T22:34:24.000Z</updated>
+        <summary type="html"><![CDATA[The Juvenile Justice Board gave its consent to prosecute four of the five minors accused in the Jubilee Hills gang rape as adults. The exception is an MLA's son.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P Chidambaram, Digvijaya Singh in race to succeed Mallikarjun Kharge as leader of opposition in Rajya Sabha]]></title>
+        <id>https://timesofindia.indiatimes.com/india/p-chidambaram-digvijaya-singh-in-race-to-succeed-mallikarjun-kharge-as-leader-of-opposition-in-rajya-sabha/articleshow/94572777.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/p-chidambaram-digvijaya-singh-in-race-to-succeed-mallikarjun-kharge-as-leader-of-opposition-in-rajya-sabha/articleshow/94572777.cms"/>
+        <updated>2022-09-30T22:19:29.000Z</updated>
+        <summary type="html"><![CDATA[With Mallikarjun Kharge set to become the Congress president, former finance minister P Chidambaram and Digvijaya Singh are in the race to succeed him as leader of opposition in Rajya Sabha, with Singh's nose seemingly ahead.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chidambaram, Digvijaya in race for leader of Oppn in RS]]></title>
+        <id>https://timesofindia.indiatimes.com/india/p-chidambaram-digvijaya-singh-in-race-to-succeed-mallikarjun-kharge-as-leader-of-opposition-in-rajya-sabha/articleshow/94572777.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/p-chidambaram-digvijaya-singh-in-race-to-succeed-mallikarjun-kharge-as-leader-of-opposition-in-rajya-sabha/articleshow/94572777.cms"/>
+        <updated>2022-09-30T22:19:29.000Z</updated>
+        <summary type="html"><![CDATA[With Mallikarjun Kharge set to become the Congress president, former finance minister P Chidambaram and Digvijaya Singh are in the race to succeed him as leader of opposition in Rajya Sabha, with Singh's nose seemingly ahead.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Friday Evening Briefing]]></title>
+        <id>https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html"/>
+        <updated>2022-09-30T22:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Here’s what you need to know at the end of the day.]]></summary>
+        <author>
+            <name>Matthew Cullen and Lauren Hard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend]]></title>
+        <id>https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix</id>
+        <link href="https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix"/>
+        <updated>2022-09-30T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Matt Kennedy/Disney
+    
+
+  
+Let the bodies (bodies bodies) hit the floor
+ This weekend Hocus Pocus 2, the long-awaited sequel to the classic 1993 fantasy comedy starring Bette Midler, Sarah Jessica Parker, and Kathy Najimy finally premieres on Disney Plus. If that doesn’t sound like your particular bag of trick-or-treat candy, not to worry — there’s plenty more spooky (and non-spooky) good movies to rent or stream this weekend.
+We’ve got The Munsters, the new Rob Zombie comedy film (yes — I’m as surprised at that description as you are) based on the classic 1960s horror sitcom, Andrew Dominik’s biographical drama of Marilyn Monroe starring Ana de Armas, and the adult animated special Entergalactic starring Scott “Kid Cudi” Mescudi and Jessica Williams (Love Life) all premiering on …]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Plan for Student Loans Attracts Lawsuits, Scams and Confusion]]></title>
+        <id>https://www.nytimes.com/2022/09/30/us/politics/biden-student-loans.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/us/politics/biden-student-loans.html"/>
+        <updated>2022-09-30T22:08:54.000Z</updated>
+        <summary type="html"><![CDATA[As borrowers wait for the administration to unveil an application for loan forgiveness, they are wary of legal challenges and a proliferation of misinformation.]]></summary>
+        <author>
+            <name>Katie Rogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNG, PNG rates set to go up as gas prices hiked 40%]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/cng-png-rates-set-to-go-up-as-gas-prices-hiked-40/articleshow/94572750.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/cng-png-rates-set-to-go-up-as-gas-prices-hiked-40/articleshow/94572750.cms"/>
+        <updated>2022-09-30T22:08:07.000Z</updated>
+        <summary type="html"><![CDATA[CNG and PNG will become dearer and input cost for fertiliser manufacturers will rise sharply with the Centre on Friday raising the prices of natural gas produced from domestic fields by over 40% to record levels, even as a panel of experts is reviewing the pricing formula with an aim of moderating consumer rates.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monthly Horoscope: Aries, October 2022]]></title>
         <id>xgy4ak</id>
@@ -64,6 +200,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rachel Nichols Joins Showtime After Contentious ESPN Exit]]></title>
+        <id>https://www.nytimes.com/2022/09/30/sports/basketball/rachel-nichols-showtime-espn-maria-taylor.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/sports/basketball/rachel-nichols-showtime-espn-maria-taylor.html"/>
+        <updated>2022-09-30T21:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Nichols was pulled from the air at ESPN last year after The New York Times reported on disparaging comments that Nichols, who is white, had made about a Black colleague.]]></summary>
+        <author>
+            <name>Kevin Draper</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monsoon 2022 'above normal' but agriculture takes hit]]></title>
         <id>https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/monsoon-2022-above-normal-but-agriculture-takes-hit/articleshow/94572698.cms"/>
@@ -91,6 +237,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.]]></summary>
         <author>
             <name>Ruth Maclean and Elian Peltier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India abstains on UNSC resolution condemning Russia’s ‘referenda’ in Ukraine]]></title>
+        <id>https://www.thehindu.com/news/international/india-abstains-on-unsc-resolution-condemning-russias-referenda-in-ukraine/article65956754.ece</id>
+        <link href="https://www.thehindu.com/news/international/india-abstains-on-unsc-resolution-condemning-russias-referenda-in-ukraine/article65956754.ece"/>
+        <updated>2022-09-30T21:33:58.000Z</updated>
+        <summary type="html"><![CDATA[India was “deeply disturbed” by the recent events in Ukraine, India’s U.N. Ambassador Ruchira Kamboj said.]]></summary>
+        <author>
+            <name>Sriram Lakshman</name>
         </author>
     </entry>
     <entry>
@@ -5712,6 +5868,16 @@ When Google first showed Stadia at GDC 2019, it discussed sky-high aspirations t
         <updated>2022-09-29T22:18:17.000Z</updated>
         <author>
             <name>Logan Plant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Watching Time Do You Have This Weekend?]]></title>
+        <id>https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html"/>
+        <updated>2022-09-29T22:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Our TV critic recommends a vampy adaptation, a surprising rap drama and the astonishing return of “Ramy.”]]></summary>
+        <author>
+            <name>Margaret Lyons</name>
         </author>
     </entry>
     <entry>
