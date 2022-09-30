@@ -2,10 +2,375 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T16:18:23.151Z</updated>
+    <updated>2022-09-30T17:29:23.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SafeGraph to Close Digital Shop That Sold Abortion Clinic Location Data]]></title>
+        <id>g5vw3b</id>
+        <link href="https://www.vice.com/en_us/article/g5vw3b/safegraph-to-close-shop-abortion-clinic-location-data"/>
+        <updated>2022-09-30T17:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Motherboard previously revealed that SafeGraph was selling location data related to visits to Planned Parenthood facilities.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin’s desperate attempt to annex parts of Ukraine]]></title>
+        <id>https://www.vox.com/world/2022/9/30/23380082/putin-ukraine-annexation-russia-nuclear-threats</id>
+        <link href="https://www.vox.com/world/2022/9/30/23380082/putin-ukraine-annexation-russia-nuclear-threats"/>
+        <updated>2022-09-30T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian President Vladimir Putin, center, joins hands with Moscow-appointed heads of four Ukrainian regions, from left, Vladimir Saldo of Kherson, Yevgeny Balitsky of Zaporizhzhia, Denis Pushilin of Donetsk, and Leonid Pasechnik of Lugansk, at the Grand Kremlin Palace in Moscow on September 30, shortly after signing treaties formally annexing the four regions of Ukraine occupied by Russian troops. | Getty Images
+    
+
+  
+“These are all just gestures made out of weakness because he’s losing on the ground.”
+ On Friday, Russian President Vladimir Putin formally declared four regions of Ukraine as part of Russia following sham referendums this week in eastern and southern Ukraine. Putin made the illegal decree as he lobbed even more threats against the United States and its allies, another pot…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New U.S. Sanctions on Russia Hits Top Officials, Defense and Tech Sectors]]></title>
+        <id>https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/us-russia-sanctions</id>
+        <link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/us-russia-sanctions"/>
+        <updated>2022-09-30T17:23:06.000Z</updated>
+        <author>
+            <name>Edward Wong and Michael Crowley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Bros’ | Anatomy of a Scene]]></title>
+        <id>https://www.nytimes.com/video/movies/100000008560365/bros-scene.html</id>
+        <link href="https://www.nytimes.com/video/movies/100000008560365/bros-scene.html"/>
+        <updated>2022-09-30T17:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Nicholas Stoller narrates a sequence from his romantic comedy starring Billy Eichner and Luke Macfarlane.]]></summary>
+        <author>
+            <name>Mekado Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. slaps sanctions on Russia over annexation of swath of Ukraine]]></title>
+        <id>https://www.thehindu.com/news/international/us-slaps-sanctions-on-russia-over-annexation-of-swath-of-ukraine/article65956046.ece</id>
+        <link href="https://www.thehindu.com/news/international/us-slaps-sanctions-on-russia-over-annexation-of-swath-of-ukraine/article65956046.ece"/>
+        <updated>2022-09-30T17:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Russia declared the annexations after holding what it called ‘referendums’ in occupied areas of Ukraine]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress Clears Stopgap Spending Bill With $12.3 Billion in Aid to Ukraine]]></title>
+        <id>https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html"/>
+        <updated>2022-09-30T17:12:45.000Z</updated>
+        <summary type="html"><![CDATA[The House passed the bill in its final legislative act before the midterm congressional elections, sending it to President Biden before a midnight deadline when federal funding is set to lapse.]]></summary>
+        <author>
+            <name>Emily Cochrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N.F.L.’s Concussion Protocol Under Scrutiny After Tagovailoa Hit Hard Again]]></title>
+        <id>https://www.nytimes.com/2022/09/30/sports/tua-tagavailoa-nfl-concussion-protocol.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/sports/tua-tagavailoa-nfl-concussion-protocol.html"/>
+        <updated>2022-09-30T17:10:36.000Z</updated>
+        <summary type="html"><![CDATA[The N.F.L. said its concussion protocols were followed when Tua Tagovailoa hit his head on Sunday. On Thursday, the quarterback left the field on a stretcher after a second head hit.]]></summary>
+        <author>
+            <name>Ken Belson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McDonald’s First Happy Meal Toys For Adults Are Really Ugly]]></title>
+        <id>1849602326</id>
+        <link href="https://kotaku.com/mcdonalds-happy-meal-toy-adults-pokemon-szechuan-morty-1849602326"/>
+        <updated>2022-09-30T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In the latest example of not letting your memes be dreams, McDonald’s announced that adults can get back in touch with their inner child by opening up a Happy Meal and discovering a toy of their own. Yes, Happy Meal Toys for adults are gonna be a thing, at least for a limited time. 
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolsonaro, Lula in attack mode in last Brazil presidential debate]]></title>
+        <id>https://www.thehindu.com/news/international/bolsonaro-lula-in-attack-mode-in-last-brazil-presidential-debate/article65955181.ece</id>
+        <link href="https://www.thehindu.com/news/international/bolsonaro-lula-in-attack-mode-in-last-brazil-presidential-debate/article65955181.ece"/>
+        <updated>2022-09-30T17:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Trailing in the polls ahead of Sunday’s polarizing vote, Mr. Bolsonaro wasted no time in terming Mr. Lula a liar]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress president poll fiasco: Rajasthan govt in limelight as Sonia Gandhi set to zero in on CM]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-president-poll-fiasco-rajasthan-govt-in-limelight-as-sonia-gandhi-set-to-zero-in-on-cm/articleshow/94570362.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-president-poll-fiasco-rajasthan-govt-in-limelight-as-sonia-gandhi-set-to-zero-in-on-cm/articleshow/94570362.cms"/>
+        <updated>2022-09-30T17:05:42.000Z</updated>
+        <summary type="html"><![CDATA[All eyes are on Rajasthan after the Congress said a decision on the chief minister would be taken by Sonia Gandhi in a day or two, even as Ashok Gehlot said no post was important for him but he wanted to strengthen the party. Earlier in the day, Gehlot extended his support to senior leader Mallikarjun Kharge for the Congress president post, soon after he withdrew his own candidature.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Tolkien was never really sure where orcs came from]]></title>
+        <id>https://www.polygon.com/23379185/lord-rings-power-orcs-origin-tolkien</id>
+        <link href="https://www.polygon.com/23379185/lord-rings-power-orcs-origin-tolkien"/>
+        <updated>2022-09-30T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo: Matt Grace/Prime Video
+    
+
+
+  
+But The Lord of the Rings: The Rings of Power is going there
+ This week’s The Lord of the Rings: The Rings of Power delves into the deepest of Tolkien lore and the far-flung dawn of sentient life on Middle-earth to touch on a question not even the professor himself could answer: Where do orcs come from? 
+[Ed. note: This piece contains spoilers for The Lord of the Rings: The Rings of Power episode 6.]
+  
+        
+      Image: Prime Video
+  
+
+Many plot threads collide in “Udûn,” the third-to-last episode in the first season of Rings of Power — most notably for our purposes, Galadriel comes face to face with Adar, the elf-like being whom the orcs besieging Ostirith call father. 
+“When I was a child,” she tells him, meaning a very, very long time ago, “I…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Submits Application to Join NATO]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/europe/ukraine-nato-zelensky.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/europe/ukraine-nato-zelensky.html"/>
+        <updated>2022-09-30T17:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s desire to join the alliance has long been a source of conflict with Russia, which sees the eastward expansion of NATO as a existential threat.]]></summary>
+        <author>
+            <name>Andrew E. Kramer and Dan Bilefsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bela Fleck Takes Album, Billy Strings Repeats as Entertainer of the Year at 2022 Bluegrass Awards]]></title>
+        <id>https://www.rollingstone.com/?p=1234602843</id>
+        <link href="https://www.rollingstone.com/music/music-country/2022-bluegrass-awards-ibma-winners-list-1234602843/"/>
+        <updated>2022-09-30T17:01:32.000Z</updated>
+        <summary type="html"><![CDATA[As the genre marches forward with new stars like Strings and Molly Tuttle, the IBMA also recognizes elder statesmen Peter Rowan and Del McCoury]]></summary>
+        <author>
+            <name>Joseph Hudak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show, don’t tell: Tips for robotics startups raising a Series B during a downturn]]></title>
+        <id>https://techcrunch.com/?p=2414487</id>
+        <link href="https://techcrunch.com/2022/09/30/show-dont-tell-tips-for-robotics-startups-raising-a-series-b-during-a-downturn/"/>
+        <updated>2022-09-30T17:00:51.000Z</updated>
+        <summary type="html"><![CDATA[The climb uphill toward a Series B can get much easier if a robotics startup can showcase a solid business model, measurable metrics and a plan for the next 18 months.
+Show, don’t tell: Tips for robotics startups raising a Series B during a downturn by Ram Iyer originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch+ roundup: Insurtech investor survey, H-1B red flags, SaaS sales coaching]]></title>
+        <id>https://techcrunch.com/?p=2414718</id>
+        <link href="https://techcrunch.com/2022/09/30/techcrunch-roundup-insurtech-investor-survey-h-1b-red-flags-saas-sales-coaching/"/>
+        <updated>2022-09-30T17:00:39.000Z</updated>
+        <summary type="html"><![CDATA[A strong sales organization is the tip of the spear for every SaaS startup, but because so few founders have meaningful experience in this arena, they don't know how to set their teams up for success.
+TechCrunch+ roundup: Insurtech investor survey, H-1B red flags, SaaS sales coaching by Walter Thompson originally published on TechCrunch]]></summary>
+        <author>
+            <name>Walter Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Give Space for Stories Often Ignored and Silenced:’ Jazmine Sullivan to Debut ‘Uplifting’ Song for Emmett ‘Till’ Biopic]]></title>
+        <id>https://www.rollingstone.com/?p=1234602635</id>
+        <link href="https://www.rollingstone.com/music/music-news/jazmine-sullivan-to-release-stand-up-till-biopic-1234602635/"/>
+        <updated>2022-09-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA["We all know the anguish of losing someone," she says. "Not many would understand how it feels to be a black mother in America who loses a child to racism"]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blonde’s CG fetus is anti-abortion propaganda dressed up as art]]></title>
+        <id>https://www.theverge.com/2022/9/30/23374889/blonde-movie-netflix-fetus-scene</id>
+        <link href="https://www.theverge.com/2022/9/30/23374889/blonde-movie-netflix-fetus-scene"/>
+        <updated>2022-09-30T16:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Adrien Brody as the playwright Arthur Miller and Ana de Armas as Marilyn Monroe in Blonde. | Image: Netflix
+    
+
+
+  
+Director Andrew Dominik’s experimental Marilyn Monroe biopic gets downright weird and borderline offensive in its discussion of abortion
+ Netflix’s Blonde from director Andrew Dominik transforms Ana de Armas into Marilyn Monroe (visually, at least) with a stunning level of detail that’ll make you wonder whether any post-production VFX was involved. Outside of its optic uncanniness, there’s nothing about de Armas’ performance itself as Marilyn that raises that question. But it’s somewhat hard not to consider after Blonde introduces one of its strangest characters: a judgmental CGI fetus who sometimes talks to Marilyn Monroe from within her uterus to shame her for having had …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop Pre-Orders Are A Mess Right Now, Staff Say]]></title>
+        <id>1849602243</id>
+        <link href="https://kotaku.com/gamestop-nba-2k23-pre-order-meme-stock-crypto-nft-1849602243"/>
+        <updated>2022-09-30T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[“Is there anything you want to pre-order?” Almost nobody walks in and out of a GameStop without hearing those words. Employees are measured against how many pre-orders they can rack up while GameStop rakes in the cash months ahead of a game’s actual release. But lately, the strategy has been sabotaged by a system…
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freddie Gibbs is Winning The Fight]]></title>
+        <id>https://www.rollingstone.com/?p=1234601948</id>
+        <link href="https://www.rollingstone.com/music/music-features/freddie-gibbs-interview-new-album-1234601948/"/>
+        <updated>2022-09-30T16:48:25.000Z</updated>
+        <summary type="html"><![CDATA[The Gary rapper’s new album Soul Sold Separately is the culmination of a long journey that he says is finally starting to feel more fun than stressful.]]></summary>
+        <author>
+            <name>Andre Gee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air India plans more flights to U.K., U.S.]]></title>
+        <id>https://www.thehindu.com/news/national/air-india-plans-more-flights-to-uk-us/article65955886.ece</id>
+        <link href="https://www.thehindu.com/news/national/air-india-plans-more-flights-to-uk-us/article65955886.ece"/>
+        <updated>2022-09-30T16:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Proposal to launch 20 additional flights per week to London, Birmingham and San Francisco]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UP BJP team to camp in poll-bound Gujarat]]></title>
+        <id>https://timesofindia.indiatimes.com/india/up-bjp-team-to-camp-in-poll-bound-gujarat/articleshow/94569643.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/up-bjp-team-to-camp-in-poll-bound-gujarat/articleshow/94569643.cms"/>
+        <updated>2022-09-30T16:37:43.000Z</updated>
+        <summary type="html"><![CDATA[India News: LUCKNOW: Organisational ranks from the Uttar Pradesh unit of BJP are set to be deployed in poll-bound Gujarat.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scooter Braun Claims He ‘Regrets’ the Way Taylor Swift Deal Was Handled: I ‘Learned an Important Lesson’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602903</id>
+        <link href="https://www.rollingstone.com/music/music-news/taylor-swift-scooter-braun-claims-regrets-deal-approach-1234602903/"/>
+        <updated>2022-09-30T16:37:32.000Z</updated>
+        <summary type="html"><![CDATA["Essentially, my musical legacy is about to lie in the hands of someone who tried to dismantle it," Swift said in 2019 after Braun's company Ithaca Holdings acquired Taylor Swift's original masters from Big Machine]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why There May Be More Dragons In Zelda: Tears Of The Kingdom]]></title>
+        <id>1849601759</id>
+        <link href="https://kotaku.com/the-legend-of-zelda-tears-of-the-kingdom-dragons-switch-1849601759"/>
+        <updated>2022-09-30T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Read more...]]></summary>
+        <author>
+            <name>Eric Schulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After a series of misfires in Q3, here’s what we expect for startups in Q4]]></title>
+        <id>https://techcrunch.com/?p=2414572</id>
+        <link href="https://techcrunch.com/2022/09/30/after-a-series-of-misfires-in-q3-heres-what-we-expect-for-startups-in-q4/"/>
+        <updated>2022-09-30T16:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Join us for a jolly jaunt through our list of events that we failed to predict in Q3, and what we expect to happen in Q4 2022.
+After a series of misfires in Q3, here’s what we expect for startups in Q4 by Anna Heim originally published on TechCrunch]]></summary>
+        <author>
+            <name>Anna Heim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2 voice chat may be recorded — here’s what Blizzard’s doing with it]]></title>
+        <id>https://www.polygon.com/23380448/overwatch-2-record-voice-chats-defense-matrix-privacy</id>
+        <link href="https://www.polygon.com/23380448/overwatch-2-record-voice-chats-defense-matrix-privacy"/>
+        <updated>2022-09-30T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Defense Matrix will transcribe ‘temporary’ voice chats of reported players
+ Overwatch 2 will collect temporary voice chats of reported players in an effort to cut down on disruptive behavior once Blizzard’s free-to-play shooter launches on Oct. 4.
+As detailed in a recent Blizzard blog post, the system will use a speech-to-text tool to transcribe a voice recording, and will delete the clip once the transcription is complete. Blizzard’s “chat review tools” will then examine the transcript to deem whether a reported players has engaged in disruptive behavior. The text file will itself be erased no later than 30 days after the transcription takes place. 
+“This system relies on players reporting disruptive behavior as soon as they encounter it in game beca…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get a Stadia refund]]></title>
+        <id>https://www.theverge.com/23380370/google-stadia-refund-how-to</id>
+        <link href="https://www.theverge.com/23380370/google-stadia-refund-how-to"/>
+        <updated>2022-09-30T16:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Stadia is shutting down in January. Here’s how to get a refund for your games and hardware. | Image: Google
+    
+
+  
+Google Stadia is shuffling off this mortal coil on January 18th, but thankfully, Google is offering refunds for anyone that purchased Stadia hardware or games from the Stadia store. Google has made an official statement with details regarding the Stadia platform and when users can expect refunds, but here’s a synopsis of what we know so far.
+
+
+Stadia will remain operational until January 18th, and you’ll continue to have access to your games until then, giving you the opportunity to transfer progress and tie up other loose ends. However, Google has disabled the Stadia storefront, so you won’t have the ability to make any additional purchases.
+If you purchased any of the foll…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guillermo Del Toro Stocks Up on Nightmare Fuel in ‘Cabinet of Curiosities’ Anthology Series Trailer]]></title>
+        <id>https://www.rollingstone.com/?p=1234602899</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/guillermo-del-toro-cabinet-of-curiosities-series-trailer-1234602899/"/>
+        <updated>2022-09-30T16:26:36.000Z</updated>
+        <summary type="html"><![CDATA[The spin-on-horror series premieres on Netflix on Oct. 5]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Bussard, Obsessive Collector of Rare Records, Dies at 86]]></title>
+        <id>https://www.nytimes.com/2022/09/30/arts/music/joe-bussard-dead.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/arts/music/joe-bussard-dead.html"/>
+        <updated>2022-09-30T16:25:05.000Z</updated>
+        <summary type="html"><![CDATA[His life revolved around his massive hoard of fragile 78 r.p.m. disks of jazz, blues, country and gospel music recorded between the 1920s and ’50s.]]></summary>
+        <author>
+            <name>Richard Sandomir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Billy Eichner and Luke Macfarlane on an Awkward Date in ‘Bros’]]></title>
+        <id>https://www.nytimes.com/2022/09/30/movies/bros-clip.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/movies/bros-clip.html"/>
+        <updated>2022-09-30T16:24:27.000Z</updated>
+        <summary type="html"><![CDATA[The director Nicholas Stoller narrates a sequence from the romantic comedy.]]></summary>
+        <author>
+            <name>Mekado Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: A Portrait Reveals a Composer With a Dramatic Edge]]></title>
+        <id>https://www.nytimes.com/2022/09/30/arts/music/liza-lim-composer-portrait-review.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/arts/music/liza-lim-composer-portrait-review.html"/>
+        <updated>2022-09-30T16:24:01.000Z</updated>
+        <summary type="html"><![CDATA[The Miller Theater’s Composer Portraits series returns with a program of Liza Lim’s music, featuring the JACK Quartet.]]></summary>
+        <author>
+            <name>Seth Colter Walls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Wow, The Best Pokémon Card Art All Comes From The Same Person]]></title>
+        <id>1849600725</id>
+        <link href="https://kotaku.com/pokemon-tcg-sword-shield-scarlet-violet-yuka-morii-1849600725"/>
+        <updated>2022-09-30T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, the Pokémon Trading Card Game has seen a huge number of artists come and go. Approximately 175 different people have contributed art to the cards, some only ever designing one, others contributing hundreds. Heck, Ken Sugimori has created 966 of them, beginning with the very first set of Pokémon cards,…
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kid Cudi, Don Omar, and 15 Other Songs You Need to Know This Week]]></title>
+        <id>https://www.rollingstone.com/?p=1391989</id>
+        <link href="https://www.rollingstone.com/music/music-features/kid-cudi-don-omar-bjork-songs-you-need-to-know-1391989/"/>
+        <updated>2022-09-30T16:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the week's best new music? Check out our revamped Songs You Need to Know playlist]]></summary>
+        <author>
+            <name>Rolling Stone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kid Cudi, Don Omar, and 15 Other Songs You Need to Know This Week]]></title>
         <id>https://www.rollingstone.com/?p=1391989</id>
@@ -14,6 +379,26 @@
         <summary type="html"><![CDATA[Looking for the week's best new music? Check out our revamped Songs You Need to Know playlist]]></summary>
         <author>
             <name>Rolling Stone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNG, PNG rates to jump as gas prices raised 40% to $8.5 per unit]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/cng-png-rates-to-jump-as-gas-prices-raised-40-to-8-5-per-unit/articleshow/94569563.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/cng-png-rates-to-jump-as-gas-prices-raised-40-to-8-5-per-unit/articleshow/94569563.cms"/>
+        <updated>2022-09-30T16:12:28.000Z</updated>
+        <summary type="html"><![CDATA[India Business News: NEW DELHI: CNG and PNG will become costlier and input cost for fertiliser manufacturers will rise sharply as the government on Friday raised the price.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 years of Swachh Bharat: Availability of functioning public toilers still an issue but civic sense has improved, says survey]]></title>
+        <id>https://timesofindia.indiatimes.com/india/8-years-of-swachh-bharat-availability-of-functioning-public-toilers-still-an-issue-but-civic-sense-has-improved-says-survey/articleshow/94568774.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/8-years-of-swachh-bharat-availability-of-functioning-public-toilers-still-an-issue-but-civic-sense-has-improved-says-survey/articleshow/94568774.cms"/>
+        <updated>2022-09-30T16:12:07.000Z</updated>
+        <summary type="html"><![CDATA[With the Swachh Bharat Mission completing its eighth year on October 2, a survey by LocalCircles has revealed that availability of functioning public toilets still remains an issue but that the scheme has done a lot to improve the civic sense of citizens and responsiveness of civic authorities when it comes to cleanliness and sanitation.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -30,6 +415,37 @@ Indeed, Assassin’s Creed has a significant presence on the games-on-deman…]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Secret Lives of Sperm Whales]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/review/sperm-whales-gaelin-rosenwaks.html"/>
+        <updated>2022-09-30T16:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Deep in waters rarely seen by humans, these “gentle goliaths” are back from near-extinction.]]></summary>
+        <author>
+            <name>Lauren Christensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Time You're Looking For New Switch Joy-Con, Check These Out]]></title>
+        <id>1849601824</id>
+        <link href="https://kotaku.com/nintendo-switch-joy-con-hori-controller-gamepad-zelda-1849601824"/>
+        <updated>2022-09-30T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[My Nintendo Switch largely sat unplayed for the duration of the pandemic. I purchased it in the Before Times thinking it’d make for a great subway companion. But between the short battery life and it being uncomfortable to hold for long periods, I just didn’t ever want to play it much. But there might finally be some…
+Read more...]]></summary>
+        <author>
+            <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liz Truss’ Woes Multiply After Media Blitz]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html"/>
+        <updated>2022-09-30T16:08:28.000Z</updated>
+        <summary type="html"><![CDATA[In a round of interviews, the prime minister showed little sympathy for the pain that high interest rates could inflict on mortgage holders, critics said.]]></summary>
+        <author>
+            <name>Mark Landler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Six Seasons and Finally a Movie: ‘Community’ Reunion Film Headed to Peacock]]></title>
         <id>https://www.rollingstone.com/?p=1234602935</id>
         <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/community-the-movie-peacock-1234602935/"/>
@@ -40,6 +456,16 @@ Indeed, Assassin’s Creed has a significant presence on the games-on-deman…]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SC dismisses plea alleging discrepancy in EVMs, imposes Rs 50,000 cost]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-dismisses-plea-alleging-discrepancy-in-evms-imposes-rs-50000-cost/articleshow/94569427.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-dismisses-plea-alleging-discrepancy-in-evms-imposes-rs-50000-cost/articleshow/94569427.cms"/>
+        <updated>2022-09-30T16:06:30.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Supreme Court on Friday dismissed a petition seeking directions for ruling out discrepancies in the Electronic Voting Machines (EVMs).]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Iran Protests Continue Despite Heavy Crackdowns]]></title>
         <id>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html</id>
         <link href="https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html"/>
@@ -47,6 +473,16 @@ Indeed, Assassin’s Creed has a significant presence on the games-on-deman…]]
         <summary type="html"><![CDATA[Dozens of people have been killed in nationwide demonstrations that erupted almost two weeks ago after Mahsa Amini, a 22-year-old woman, died in police custody.]]></summary>
         <author>
             <name>Farnaz Fassihi and Cora Engelbrecht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['AK-47 rifles, pistols, grenade': Huge cache of arms and ammunition recovered in J&K's Gurez]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ak-47-rifles-pistols-grenade-huge-cache-of-arms-and-ammunition-recovered-in-jks-gurez/articleshow/94569294.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ak-47-rifles-pistols-grenade-huge-cache-of-arms-and-ammunition-recovered-in-jks-gurez/articleshow/94569294.cms"/>
+        <updated>2022-09-30T16:01:57.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Security forces on Friday recovered a huge cache of arms and ammunitions 7 AK-47 rifles, 2 Pistols, 21 AK Magazines near the Line of Contro.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +511,16 @@ The series reached cult-favorite status among its die-hard fans, but rarely, if 
 One open question about this reunion movie is who, from the original cast, might actually return for it. According to Peacock’s announcement, Joel McHale, Danny Pudi, Alison Brie, Gillian Jacos, Jim Rash, and Ken Jeong are all set to return, with Dan Harmon back to write. For now, Donald Glover and Yvette Nicole Brown are not confirmed to return; it’s also unclear if Chevy Chase will come back, though he left the show before season 5, reportedly due to frequent on-set arguments with other actors and crew.]]></summary>
         <author>
             <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Science Fiction Movies to Stream Now]]></title>
+        <id>https://www.nytimes.com/2022/09/30/movies/science-fiction-movies-streaming.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/movies/science-fiction-movies-streaming.html"/>
+        <updated>2022-09-30T16:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Amnesiacs and French-history time travelers are among the protagonists in this month’s sci-fi picks.]]></summary>
+        <author>
+            <name>Elisabeth Vincentelli</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +700,16 @@ Don’t get locked out of some of Overwatch’s coolest characters on Oct. 4
 If Overwatch 2 is a player’s first Overwatch, they’ll have access to a subset of the game’s 35-character roster. That means if newbies want to play as Doomfist, Wrecking Ball, Echo, and the rest, they’ll need to unlock them by playing dozens of matches. But, for new players looking forward to Overwatch 2 there is a way to circumvent this problem: Play the original Overwatch by this weekend. As long as you’re not a “new” pla…]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Welcomes Justice Ketanji Brown Jackson in Stately Ceremony]]></title>
+        <id>https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html"/>
+        <updated>2022-09-30T15:31:58.000Z</updated>
+        <summary type="html"><![CDATA[The investiture of Justice Jackson, the first Black woman to serve on the court, was attended by President Biden and other dignitaries.]]></summary>
+        <author>
+            <name>Adam Liptak</name>
         </author>
     </entry>
     <entry>
@@ -839,6 +1295,16 @@ We’re all just a Hop, Skip and a Drive away from a better Hustle by Natasha Ma
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live Blog: Pakistan vs England, 6th T20I]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-6th-t20i/liveblog/94566428.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-6th-t20i/liveblog/94566428.cms"/>
+        <updated>2022-09-30T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Stay updated with Times of India to get all the live cricket score updates, scorecard, and ball by ball commentary of the sixth T20I between Pakistan and England. England stand-in skipper Moeen Ali won the toss and opted to bowl first against Pakistan in Lahore.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Shining Moment of Pan-African Promise]]></title>
         <id>https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html</id>
         <link href="https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html"/>
@@ -916,6 +1382,16 @@ We’re all just a Hop, Skip and a Drive away from a better Hustle by Natasha Ma
         <summary type="html"><![CDATA[The TikTok-teased single follows the arrival of the Canadian pop singer's debut album, I Used to Think I Could Fly]]></summary>
         <author>
             <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[68th National Film Awards: Check out the complete winners' list]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-sooriya-vishal-bhardwaj-and-more-winners-of-the-68th-national-film-awards/articleshow/94565394.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-sooriya-vishal-bhardwaj-and-more-winners-of-the-68th-national-film-awards/articleshow/94565394.cms"/>
+        <updated>2022-09-30T13:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Ajay Devgn receives the national award for 'Best Popular Film' for 'Tanhaji: The Unsung Warrior'  while Vishal Bhardwaj receives National Award for Best Music Direction]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1003,6 +1479,16 @@ For some, the handwriting for Stadia’s dem…]]></summary>
         <summary type="html"><![CDATA[Even though senior Congress leaders have repeatedly said that they would like to see Rahul Gandhi heading the party, a TOI poll has revealed that the majority of the public feels that the Gandhi scion is not yet ready to head party affairs.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Old guard must let go but Rahul, Priyanka not good alternatives']]></title>
+        <id>https://timesofindia.indiatimes.com/india/old-guard-must-let-go-but-rahul-priyanka-not-good-alternatives-toi-poll-on-congress-crisis/articleshow/94561956.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/old-guard-must-let-go-but-rahul-priyanka-not-good-alternatives-toi-poll-on-congress-crisis/articleshow/94561956.cms"/>
+        <updated>2022-09-30T13:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Even though senior Congress leaders have repeatedly said that they would like to see Rahul Gandhi heading the party, a TOI poll has revealed that the majority of the public feels that the Gandhi scion is not yet ready to head party affairs.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1308,6 +1794,16 @@ Social media a factor in death of UK schoolgirl, inquest finds by Natasha Lomas 
         <summary type="html"><![CDATA[The Mahatma Gandhi Kashi Vidyapith (MGKVP) administration on Thursday terminated the service of a guest lecturer of Political Science, Mithilesh Kumar Gautam, for his objectionable remarks on social media. He was also prohibited from entering the university campus.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lula vs. Bolsonaro: What to Know About Brazil’s Election]]></title>
+        <id>https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html"/>
+        <updated>2022-09-30T12:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.]]></summary>
+        <author>
+            <name>Ana Ionova</name>
         </author>
     </entry>
     <entry>
@@ -2290,6 +2786,16 @@ Adolescence can bring about some tough changes in the teenaged body such as horn
         <summary type="html"><![CDATA[The Pulitzer Prize-winning author has done vanishingly few interviews during the course of his career. In these early ones, some newly uncovered, he is less guarded.]]></summary>
         <author>
             <name>Elizabeth A. Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York’s Invisible Migrant Crisis]]></title>
+        <id>https://www.nytimes.com/2022/09/30/nyregion/new-yorks-migrant-crisis.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/nyregion/new-yorks-migrant-crisis.html"/>
+        <updated>2022-09-30T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of asylum seekers have suddenly arrived in the city with infinite need. What is being done to help them?]]></summary>
+        <author>
+            <name>Ginia Bellafante</name>
         </author>
     </entry>
     <entry>
