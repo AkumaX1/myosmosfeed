@@ -2,10 +2,507 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T01:18:15.520Z</updated>
+    <updated>2022-09-30T04:25:30.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poem: Moon for Aisha]]></title>
+        <id>https://www.nytimes.com/2022/09/30/magazine/poem-moon-for-aisha.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/magazine/poem-moon-for-aisha.html"/>
+        <updated>2022-09-30T04:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Some friendships are so special they seem to exist before, during and after time.]]></summary>
+        <author>
+            <name>Aracelis Girmay and Victoria Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shawn Mendes Shares New Single ‘Heartbeat’ From ‘Lyle, Lyle, Crocodile’]]></title>
+        <id>https://www.rollingstone.com/?p=1234602536</id>
+        <link href="https://www.rollingstone.com/music/music-news/shawn-mendes-heartbeat-lyle-lyle-crocodile-1234602536/"/>
+        <updated>2022-09-30T04:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Singer voices titular reptile in upcoming family film out Oct. 7]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taylor Swift Continues ‘Midnights Mayhem’ With ‘Maroon’ Song Title]]></title>
+        <id>https://www.rollingstone.com/?p=1234602601</id>
+        <link href="https://www.rollingstone.com/music/music-news/taylor-swift-announces-track-reveal-1234602601/"/>
+        <updated>2022-09-30T04:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Hurry up, October 21]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All you need to know about India's third Vande Bharat train]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mumbai/mumbai-to-ahmedabad-in-5-5-hours-all-you-need-to-know-about-vande-bharat-express/articleshow/94548242.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-to-ahmedabad-in-5-5-hours-all-you-need-to-know-about-vande-bharat-express/articleshow/94548242.cms"/>
+        <updated>2022-09-30T03:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Vande Bharat Express, which will run between Mumbai Central and Gandhinagar from September 30 onwards, will take only 6 hours and 20 minutes to go between the two state capitals, and only 5 hours and 35 minutes from Mumbai to Ahmedabad.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobel 2022 prize season under shadow of war in Ukraine]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/nobel-2022-prize-season-under-shadow-of-war-in-ukraine/articleshow/94548477.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/nobel-2022-prize-season-under-shadow-of-war-in-ukraine/articleshow/94548477.cms"/>
+        <updated>2022-09-30T03:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Not since World War II has a conflict been waged between two countries so close to Stockholm and Oslo, where the prestigious awards for medicine, physics, chemistry, literature and peace have been announced since 1901, and the newer Economics Prize since 1969.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siraj replaces Bumrah for last two T20Is against SA]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/mohammed-siraj-replaces-injured-jasprit-bumrah-for-last-two-t20is-against-south-africa/articleshow/94548368.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/mohammed-siraj-replaces-injured-jasprit-bumrah-for-last-two-t20is-against-south-africa/articleshow/94548368.cms"/>
+        <updated>2022-09-30T03:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Mohammed Siraj on Friday replaced injured pace spearhead Jasprit Bumrah for India's remaining two T20I matches against the visiting South African team. Bumrah was on Thursday ruled out of the upcoming T20 World Cup due to a back stress fracture. "The All-India Senior Selection Committee named Siraj as replacement for injured Bumrah for the remainder of the T20I series against South Africa," BCCI secretary Jay Shah said in the statement.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Ian wreaks havoc on Florida, regains steam in Atlantic]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/hurricane-ian-wreaks-havoc-on-florida-regains-steam-in-atlantic/articleshow/94548394.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/hurricane-ian-wreaks-havoc-on-florida-regains-steam-in-atlantic/articleshow/94548394.cms"/>
+        <updated>2022-09-30T03:45:18.000Z</updated>
+        <summary type="html"><![CDATA[US News: FORT MYRES: Hurricane Ian unleashed "historic" devastation in Florida, leaving a yet unknown number of dead in its wake, officials said Thursday, as t.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crime Thriller Anime My Home Hero Exposes April 2023 Broadcast with 1st Trailer and Visual]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/crime-thriller-anime-my-home-hero-exposes-april-2023-broadcast-with-1st-trailer-and-visual</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/crime-thriller-anime-my-home-hero-exposes-april-2023-broadcast-with-1st-trailer-and-visual"/>
+        <updated>2022-09-30T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Main staff and cast were also brought to light
+
+
+All the pieces are starting to come together for upcoming crime thriller anime My Home Hero, which unveiled its first teaser visual and trailer, along with the main staff and cast at work in the middle of all the chaos. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trevor Noah Announces He Will Leave ‘The Daily Show’]]></title>
+        <id>https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html"/>
+        <updated>2022-09-30T03:38:52.000Z</updated>
+        <summary type="html"><![CDATA[During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.]]></summary>
+        <author>
+            <name>Eduardo Medina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trevor Noah Announces He Will Leave ‘The Daily Show’]]></title>
+        <id>https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html"/>
+        <updated>2022-09-30T03:38:52.000Z</updated>
+        <summary type="html"><![CDATA[During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.]]></summary>
+        <author>
+            <name>Eduardo Medina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gujarat: PM Narendra Modi to flag off Vande Bharat Express train, launch Ahmedabad metro project today]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gujarat-pm-narendra-modi-to-flag-off-vande-bharat-express-train-launch-ahmedabad-metro-project-today/articleshow/94548263.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gujarat-pm-narendra-modi-to-flag-off-vande-bharat-express-train-launch-ahmedabad-metro-project-today/articleshow/94548263.cms"/>
+        <updated>2022-09-30T03:36:51.000Z</updated>
+        <summary type="html"><![CDATA[PM Modi will flag off the Vande Bharat Express from Gandhinagar capital railway station at around 10.30 am. He will also take a ride on the train from Gandhinagar to Kalupur railway station in Ahmedabad.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Home Hero Anime's 1st Teaser Reveals Cast, Staff, April 2023 Premiere]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190360</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-29/my-home-hero-anime-1st-teaser-reveals-cast-staff-april-2023-premiere/.190360"/>
+        <updated>2022-09-30T03:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Junichi Suwabe, Sayaka Ohara, Chihiro Shirata, Kent Itō, more star in Tezuka Productions anime]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Sticky bombs are real emerging threat']]></title>
+        <id>https://timesofindia.indiatimes.com/india/sticky-bombs-are-real-emerging-threat/articleshow/94548031.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sticky-bombs-are-real-emerging-threat/articleshow/94548031.cms"/>
+        <updated>2022-09-30T03:27:07.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of ‘sticky bombs’ being suspected behind the twin bus blasts in Udhampur, Jammu and Kashmir, on Wednesday night and Thursday morning, CRPF DG Kuldiep Singh on Thursday conceded that sticky bombs are a “real” emerging threat, even though the heightened risk from these easy-to-plant bombs was effectively and successfully managed during the Amarnath Yatra held this year from June 30 to August 11.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shadow Man Dances His Way Through Tokyo in Detective Conan: The Culprit Hanzawa Creditless Anime Opening Video]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video"/>
+        <updated>2022-09-30T03:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Netflix to release The Culprit Hanzawa in international areas
+
+
+Ahead of the series premiere of Detective Conan: The Culprit Hanzawa, the ShoPro YouTube channel released the creditless opening theme for the anime set to "Tsukamaete, Konya." by Leon Niihama, showing said silhouetted criminal dancing around Tokyo while shaking his shadowy behind. Jam past the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Race for Congress president heats up, party yet to settle Rajasthan CM question : Top developments]]></title>
+        <id>https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms"/>
+        <updated>2022-09-30T03:23:10.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The contest for the Congress president election seems wide open, and the last day of filing nominations could still spring a surprise or tw.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rahul Gandhi leaves meeting in between, goes for jogging: Himanta Biswa Sarma]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rahul-gandhi-leaves-meeting-in-between-goes-for-jogging-himanta-biswa-sarma/articleshow/94547999.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rahul-gandhi-leaves-meeting-in-between-goes-for-jogging-himanta-biswa-sarma/articleshow/94547999.cms"/>
+        <updated>2022-09-30T03:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Assam chief minister Himanta Biswa Sarma accused Rahul Gandhi of being non-serious as a politician, behaving like "a feudal lord" and being arrogant. "The first thing is he is not fit for politics. Probably, the work he should not do, he is doing," Sarma said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why this Blizzard vet thinks the next killer web3 game will come from China]]></title>
+        <id>https://techcrunch.com/?p=2412794</id>
+        <link href="https://techcrunch.com/2022/09/29/china-web3-game-mmo/"/>
+        <updated>2022-09-30T03:18:32.000Z</updated>
+        <summary type="html"><![CDATA[This year, around 3.2 billion people — or about 40% of the world’s population — will play games, with total spending nearing $200 billion, estimates industry researcher Newzoo. The purveyors of web3 want a slice of this gargantuan market. Criticisms of the first generation of crypto games, dominated by the play-to-earn model, have already been […]
+Why this Blizzard vet thinks the next killer web3 game will come from China by Rita Liao originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rita Liao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNSC to vote on resolution condemning Russia annexation referendums]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/un-security-council-to-vote-on-friday-on-resolution-condemning-russia-annexation-referendums/articleshow/94547830.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/un-security-council-to-vote-on-friday-on-resolution-condemning-russia-annexation-referendums/articleshow/94547830.cms"/>
+        <updated>2022-09-30T03:18:19.000Z</updated>
+        <summary type="html"><![CDATA[The resolution - drafted by the United States and Albania and whose exact contents are not yet public - has no chance of passing thanks to Moscow's veto power, though it can then be presented to the general assembly.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Digest | PFI’s alleged links in Turkey and Qatar being probed; Putin recognises independence for two more Ukraine regions, and more]]></title>
+        <id>https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-30-2022/article65952118.ece</id>
+        <link href="https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-30-2022/article65952118.ece"/>
+        <updated>2022-09-30T03:07:18.000Z</updated>
+        <summary type="html"><![CDATA[A select list of stories to read before you start your day]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Bunny, Farruko, Karol G Win Big at Billboard Latin Music Awards]]></title>
+        <id>https://www.rollingstone.com/?p=1234602707</id>
+        <link href="https://www.rollingstone.com/music/music-latin/latin-billboard-winners-1234602707/"/>
+        <updated>2022-09-30T03:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Bad Bunny won nine awards total, including Artist of the Year and Top Latin Album of the Year]]></summary>
+        <author>
+            <name>Julyssa Lopez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikram Vedha movie review and release live updates]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-vedha-movie-review-box-office-collect-and-release-live-updates-vikram-vedha-hrithik-roshan-saif-ali-khan-yogita-bihani-radhika-apte/liveblog/94547448.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-vedha-movie-review-box-office-collect-and-release-live-updates-vikram-vedha-hrithik-roshan-saif-ali-khan-yogita-bihani-radhika-apte/liveblog/94547448.cms"/>
+        <updated>2022-09-30T02:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Saif Ali Khan and Hrithik Roshan's action flick 'Vikram Vedha' hits theatres today, September 30. The Pushkar-Gayathri film follows Vikram, an honest officer with the Lucknow police, who is on a mission to find and eliminate gangster Vedha. It is a remake of the 2017 Tamil film, which saw Vijay Sethupathi and R. Madhavan in action.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Times Top10: PFI’s link with Turkish ‘rights’ group]]></title>
+        <id>https://timesofindia.indiatimes.com/india/timestopten/msid-94539652.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/timestopten/msid-94539652.cms"/>
+        <updated>2022-09-30T02:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T20 World Cup: Team India's pace conundrum]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-team-indias-pace-conundrum/articleshow/94547174.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-team-indias-pace-conundrum/articleshow/94547174.cms"/>
+        <updated>2022-09-30T02:57:31.000Z</updated>
+        <summary type="html"><![CDATA[If you had watched the first 20 minutes of the India-SA T20 match here at the Greenfield stadium on Wednesday, you would have felt that a Test match was on in coloured clothing under lights.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Atlanta’ Recap: How I Kidnapped Your Grandfather]]></title>
+        <id>https://www.rollingstone.com/?p=1234598861</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-recaps/atlanta-recap-season-4-episode-4-light-skinned-1234598861/"/>
+        <updated>2022-09-30T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Earn's parents reappear — along with his aunts, uncle, and grandpa — for an episode about the (crazy) ties that bind]]></summary>
+        <author>
+            <name>Alan Sepinwall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden: US will never recognize Russian claims on Ukraine]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/joe-biden-us-will-never-recognize-russian-claims-on-ukraine/articleshow/94546791.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/joe-biden-us-will-never-recognize-russian-claims-on-ukraine/articleshow/94546791.cms"/>
+        <updated>2022-09-30T02:39:09.000Z</updated>
+        <summary type="html"><![CDATA[The United States is working with allies on sanctions to impose once Russia annexes new areas of Ukraine. Russian President Vladimir Putin will begin annexing four Ukrainian regions to Russia on Friday, and the US response is expected to follow quickly.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cong poll live: Kharge joins race, to file nomination today]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-30-september-2022/liveblog/94546730.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-30-september-2022/liveblog/94546730.cms"/>
+        <updated>2022-09-30T02:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Shashi Tharoor and Digvijaya Singh are expected to formalise their candidature for the Congress president election scheduled for October 17. However the chances of more party leaders joining the fray cannot be ruled out. Also, the party is yet to decisively settle the question of of leadership in Rajasthan. Stay with TOI for all updates]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[172 2.5-Dimensional Musicals Performed in 2021, Up 262% in Attendance]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/172-25-dimensional-musicals-performed-in-2021-up-262-in-attendance</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/172-25-dimensional-musicals-performed-in-2021-up-262-in-attendance"/>
+        <updated>2022-09-30T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Numbers are approaching the level before the outbreak of COVID-19　  
+
+
+Japan 2.5-Dimensional Musical Association has announced the number of 2.5-dimensional musicals (musical theatre production based on Japanese manga, popular animation and video games) performed in Japan in 2021 and the total number of audiences for the year. Check out the data after the jump.]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponniyin Selvan 1: Film records house full shows]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-1-movie-review-ps-1-box-office-collect-and-release-live-updates-ponniyin-selvan-i-aishwarya-rai-bachchan-vikram-jayam-ravi-karthi-trisha-aishwarya-lekshmi/liveblog/94546510.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-1-movie-review-ps-1-box-office-collect-and-release-live-updates-ponniyin-selvan-i-aishwarya-rai-bachchan-vikram-jayam-ravi-karthi-trisha-aishwarya-lekshmi/liveblog/94546510.cms"/>
+        <updated>2022-09-30T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Directed by Mani Ratnam, 'Ponniyin Selvan' is a historic epic drama adapted from the novel. The story revolves around the rise of Chola Empire. Starring Vikram, Jayam Ravi, Karthi, Trisha and Aishwarya Rai Bachchan in the lead roles, the music for the movie is composed by AR Rahman. The film has huge expectations from audience and it is expected that the movie will break all the set records in the box office till date.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealing with the trauma of sexual abuse]]></title>
+        <id>https://timesofindia.indiatimes.com/videos/in-depth/dealing-with-the-trauma-of-sexual-abuse-for-rituparna-chatterjee-the-more-she-forgave-the-freer-she-got/videoshow/94540713.cms</id>
+        <link href="https://timesofindia.indiatimes.com/videos/in-depth/dealing-with-the-trauma-of-sexual-abuse-for-rituparna-chatterjee-the-more-she-forgave-the-freer-she-got/videoshow/94540713.cms"/>
+        <updated>2022-09-30T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Rituparna Chatterjee didn't want her childhood abuse to come in the way of her life. She wanted to be the author of her own story, not just a survivor of sexual abuse. But on the path to reclaim her life, she picked the most unexpected, perhaps even the most unusual path- she forgave her abuser. And that she says was the most selfish and self-loving choice she made. In this conversation with TOI, she explains how she found her freedom in forgiveness. To read her interview, click here]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H-1B visas could soon be stamped inside U.S. following Presidential commission recommendation]]></title>
+        <id>https://www.thehindu.com/news/international/h-1b-visas-could-soon-be-stamped-inside-us-following-presidential-commission-recommendation/article65953641.ece</id>
+        <link href="https://www.thehindu.com/news/international/h-1b-visas-could-soon-be-stamped-inside-us-following-presidential-commission-recommendation/article65953641.ece"/>
+        <updated>2022-09-30T02:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Many Indian professionals, either new or waiting for the renewal of H-1B visas, are facing uncertainty due to long visa application appointments, with the current wait period being more than a year]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin to host Kremlin ceremony annexing parts of Ukraine]]></title>
+        <id>https://www.thehindu.com/news/international/putin-to-host-kremlin-ceremony-annexing-parts-of-ukraine/article65953640.ece</id>
+        <link href="https://www.thehindu.com/news/international/putin-to-host-kremlin-ceremony-annexing-parts-of-ukraine/article65953640.ece"/>
+        <updated>2022-09-30T02:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Russian President Vladimir Putin took the intermediary step of signing decrees on Thursday paving the way for occupied regions of Kherson and Zaporizhzhia to be formally annexed into Russia]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Shaktikanta Das to announce MPC statement soon]]></title>
+        <id>https://timesofindia.indiatimes.com/business/markets/rbi-monetary-policy-live-updates-reserve-bank-of-india-mpc-meet-today-shaktikanta-das-speech-30-sep-2022/liveblog/94546281.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/markets/rbi-monetary-policy-live-updates-reserve-bank-of-india-mpc-meet-today-shaktikanta-das-speech-30-sep-2022/liveblog/94546281.cms"/>
+        <updated>2022-09-30T02:07:00.000Z</updated>
+        <summary type="html"><![CDATA[RBI Monetary Policy Live Updates: The Reserve Bank's rate-setting panel on Wednesday started deliberations on the keenly awaited monetary policy amidst expectation of 50 basis points hike in interest rate to check inflation and improve foreign capital inflow to arrest declining value of rupee against the US dollar. The decision of RBI governor Shaktikanta Das headed six-member Monetary Policy Committee will be announced at 10am. Stay with TOI for all latest updates.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPY x FAMILY TV Anime's 2nd Opening Theme Song Video Sneaks Past 4.5 Million Views]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/spy-x-family-tv-animes-2nd-opening-theme-song-video-sneaks-past-45-million-views</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/spy-x-family-tv-animes-2nd-opening-theme-song-video-sneaks-past-45-million-views"/>
+        <updated>2022-09-30T01:58:12.000Z</updated>
+        <summary type="html"><![CDATA[This is ahead of the Cour 2 premiere on October 1
+
+
+Everyone is very waku waku for the upcoming second half of the SPY x FAMILY TV anime, so much so that even though the creditless opening theme song video was only released less than two days ago, the video has already surpassed 4.5 million views and is steadily climbing by the minutes. See the celebrations of its success after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aussie Deals Sort Your Weekend With the Hottest School Holiday and Franchise/Publisher Sales!]]></title>
+        <id>4880c946-6797-4108-8431-c90cd7e7172f</id>
+        <link href="https://www.ign.com/articles/aussie-deals-sort-your-weekend-with-the-hottest-school-holiday-and-franchisepublisher-sales"/>
+        <updated>2022-09-30T01:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Start your Saturday off in style with a slew of cheap video games. Alternatively, secure a preorder on the games you really don't want to miss.]]></summary>
+        <author>
+            <name>Adam Mathew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ED searches on nine investment token app cos linked to China]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ed-searches-on-nine-investment-token-app-cos-linked-to-china/articleshow/94546023.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ed-searches-on-nine-investment-token-app-cos-linked-to-china/articleshow/94546023.cms"/>
+        <updated>2022-09-30T01:43:11.000Z</updated>
+        <summary type="html"><![CDATA[The Enforcement Directorate carried out fresh searches against at least nine Chinese-controlled entities that were engaged in app-based investment issuing tokens called HPZ, popular in Nagaland. So far, the agency has seized Rs 57 crore deposits of these entities with various payment gateways.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free food plan will cut FCI wheat stock, hit scope for market intervention]]></title>
+        <id>https://timesofindia.indiatimes.com/india/free-food-plan-will-cut-fci-wheat-stock-hit-scope-for-market-intervention/articleshow/94546018.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/free-food-plan-will-cut-fci-wheat-stock-hit-scope-for-market-intervention/articleshow/94546018.cms"/>
+        <updated>2022-09-30T01:41:42.000Z</updated>
+        <summary type="html"><![CDATA[The extension of PM Garib Kalyan Ann Yojna (PMGKAY) till December is likely to reduce the wheat stock with the Food Corporation of India (FCI) to around 140 lakh tonnes by January 2023, almost to the same level of buffer stock norms.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MP cereal output sees big jump, UP's slightly dips]]></title>
+        <id>https://timesofindia.indiatimes.com/india/mp-cereal-output-sees-big-jump-ups-slightly-dips/articleshow/94545983.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/mp-cereal-output-sees-big-jump-ups-slightly-dips/articleshow/94545983.cms"/>
+        <updated>2022-09-30T01:37:14.000Z</updated>
+        <summary type="html"><![CDATA[The share of Madhya Pradesh in the output of cereals has gone up considerably from 6.2% in 2011-12 to 10% in 2019-20, while UP recorded the highest output of cereals in all the years, although its share in the all-India output has decreased from 18.6% in 2011-12 to 18.5% in 2019-20, according data released by the National Statistical Office (NSO).]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid-term polls better than 'traitor' as CM: Ashok Gehlot camp]]></title>
+        <id>https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-mid-term-polls-better-than-a-traitor-as-cm/articleshow/94545952.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-mid-term-polls-better-than-a-traitor-as-cm/articleshow/94545952.cms"/>
+        <updated>2022-09-30T01:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Congress’s latest inhouse strife in Rajasthan threatens to drag beyond the AICC presidential poll, with ministers and legislators loyal to Ashok Gehlot declaring on Thursday they would rather resign and face mid-term elections than settle for a new CM “from the traitor camp”.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Ian Leaves Behind a Staggering Scale of Damage in Florida]]></title>
+        <id>https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html"/>
+        <updated>2022-09-30T01:31:40.000Z</updated>
+        <summary type="html"><![CDATA[The extent of the damage was difficult to comprehend, even for residents who had survived and rebuilt after other powerful storms.]]></summary>
+        <author>
+            <name>Patricia Mazzei, Nicholas Bogel-Burroughs, Frances Robles and Jack Healy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armed forces must have system to punish officers for adultery, says SC]]></title>
+        <id>https://timesofindia.indiatimes.com/india/armed-forces-must-have-system-to-punish-officers-for-adultery-says-sc/articleshow/94545940.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/armed-forces-must-have-system-to-punish-officers-for-adultery-says-sc/articleshow/94545940.cms"/>
+        <updated>2022-09-30T01:31:11.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Thursday said that armed forces must have some kind of mechanism for disciplinary proceedings against their officers for adultery as "this is a conduct that can shake up the life of officers".]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uta no Prince-sama 2nd Concert Film Has Sold 500,000 Tickets in 4 Weeks]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29/uta-no-prince-sama-2nd-concert-film-has-sold-500000-tickets-in-4-weeks</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29/uta-no-prince-sama-2nd-concert-film-has-sold-500000-tickets-in-4-weeks"/>
+        <updated>2022-09-30T01:31:02.000Z</updated>
+        <summary type="html"><![CDATA[5th week theatergoers will receive an instant photo card autographed by the idols
+
+
+MANTAN WEB has reported that the cumulative total box office gross of Uta no Prince-sama The Movie: Maji LOVE ST☆RISH TOURS has surpassed 770 million yen (5.32 million USD) on 500,000 ticket sales in four weeks since its release. Hit the jump for more details!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC orders tests for Gautam Navlakha at Jaslok Hospital]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-orders-tests-for-gautam-navlakha-at-jaslok-hospital/articleshow/94545927.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-orders-tests-for-gautam-navlakha-at-jaslok-hospital/articleshow/94545927.cms"/>
+        <updated>2022-09-30T01:30:09.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court on Thursday directed that social activist Gautam Navlakha be allowed to undergo thorough medical check-up at Mumbai’s Jaslok Hospital under police custody.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adult Swim Stops Streaming Blade Runner: Black Lotus, Shenmue, Fena Anime]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190287</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-29/adult-swim-stops-streaming-blade-runner-black-lotus-shenmue-fena-anime/.190287"/>
+        <updated>2022-09-30T01:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Jason DeMarco: Shenmue season 2 is unlikely]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees]]></title>
+        <id>https://techcrunch.com/?p=2413747</id>
+        <link href="https://techcrunch.com/2022/09/29/softbank-vision-fund-is-reportedly-laying-off-30-of-its-workforce-or-at-least-150-employees/"/>
+        <updated>2022-09-30T01:22:43.000Z</updated>
+        <summary type="html"><![CDATA[The Vision Fund, a venture capital arm of SoftBank, has launched a sweeping layoff process, cutting at least 30% of its workforce globally, or approximately 150 of the 500 employees, according to a report by Bloomberg. The news comes nearly two months after SoftBank chief executive officer and founder Masayoshi Son said the company would […]
+SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees by Kate Park originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kate Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC prefers mutual consent divorce over long legal battles]]></title>
+        <id>https://timesofindia.indiatimes.com/india/sc-prefers-mutual-consent-divorce-over-long-legal-battles/articleshow/94545850.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/sc-prefers-mutual-consent-divorce-over-long-legal-battles/articleshow/94545850.cms"/>
+        <updated>2022-09-30T01:20:38.000Z</updated>
+        <summary type="html"><![CDATA[In the light of growing number of matrimonial disputes, the Supreme Court on Thursday said if two people could not live together happily, then they must be given a chance to get separated by getting divorce by mutual consent rather than fighting long legal battles for years.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muv-Luv Alternative Anime Season 2's Video Previews Theme Songs]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190354</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-29/muv-luv-alternative-anime-season-2-video-previews-theme-songs/.190354"/>
+        <updated>2022-09-30T01:19:41.000Z</updated>
+        <summary type="html"><![CDATA[JAM Project, Minami Kuribayashi perform 'Akatsuki o Ute' opening, V.W.P. performs 'Saikai' ending]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headmaster suspended over Prophet essay]]></title>
+        <id>https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms"/>
+        <updated>2022-09-30T01:08:10.000Z</updated>
+        <summary type="html"><![CDATA[A Karnataka school headmaster has been suspended, a day after the state education department ordered an inquiry after he was heckled by right-wing outfit activists for organising an essay competition on Prophet Mohammed for children of a government school in Gadag district on Wednesday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consider geo-political factors before framing policy: PM Modi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/consider-geo-political-factors-before-framing-policy-pm-modi/articleshow/94545728.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/consider-geo-political-factors-before-framing-policy-pm-modi/articleshow/94545728.cms"/>
+        <updated>2022-09-30T01:05:16.000Z</updated>
+        <summary type="html"><![CDATA[While asking top civil servants to factor in geo-political and strategic considerations while designing policies and schemes, PM Narendra Modi has pointed to India's high dependence on China to source pharmaceutical ingredients, an issue that was flagged by the office of the National Security Advisor.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sports in India suffered due to UPA graft, favouritism: PM Modi]]></title>
         <id>https://timesofindia.indiatimes.com/india/sports-in-india-suffered-due-to-upa-graft-favouritism-pm-modi/articleshow/94545680.cms</id>
@@ -54,6 +551,19 @@
         <summary type="html"><![CDATA[Two explosions rocked Udhampur town within a span of eight hours since Wednesday night ahead of the three-day visit of Union home minister Amit Shah to J&K in the first week of October. Both blasts occurred in parked buses and two people were injured in the first explosion.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPY x FAMILY Musical Unveils Cast Visuals of Loid & Yor Forger]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/09/29-1/spy-x-family-musical-unveils-cast-visuals-of-loid-yor-forger</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/09/29-1/spy-x-family-musical-unveils-cast-visuals-of-loid-yor-forger"/>
+        <updated>2022-09-30T00:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Audition for the role of Anya is underway
+
+
+The official website for the forthcoming musical adaptation of Tatsuya Endo's action comedy manga SPY X FAMILY has announced its main cast members and unveiled visuals of the four cast members playing Loid and Yor Forger in costume. See how they dress up as their characters after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
         </author>
     </entry>
     <entry>
@@ -519,6 +1029,16 @@ Daily Crunch: Google to sunset Stadia in January 2023, will refund hardware purc
     </entry>
     <entry>
         <title type="html"><![CDATA[Two villages in Pauri, hours apart, give 'back-to-back' CDS]]></title>
+        <id>https://timesofindia.indiatimes.com/city/dehradun/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/dehradun/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms"/>
+        <updated>2022-09-29T22:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two villages in Pauri, hours apart, give 'back-to-back' CDS]]></title>
         <id>https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms"/>
         <updated>2022-09-29T22:03:44.000Z</updated>
@@ -566,6 +1086,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The Kerala HC Thursday directed the now-banned Popular Front of India (PFI) to deposit Rs 5.2 crore in two weeks to compensate for damage caused to assets of the state road transport corporation during an illegal flash strike. The division bench also ordered the state to make PFI state secretary Abdul Sattar an accused in all cases registered in the state.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deposit Rs 5.2cr in 2 weeks for hartal damage: HC to PFI]]></title>
+        <id>https://timesofindia.indiatimes.com/city/kochi/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/kochi/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms"/>
+        <updated>2022-09-29T21:43:52.000Z</updated>
+        <summary type="html"><![CDATA[The Kerala HC Thursday directed the now-banned Popular Front of India (PFI) to deposit Rs 5.2 crore in two weeks to compensate for damage caused to assets of the state road transport corporation during an illegal flash strike. The division bench also ordered the state to make PFI state secretary Abdul Sattar an accused in all cases registered in the state.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1307,6 +1837,16 @@ The update announcement says that folks already using text-to-speech tech don’
         <summary type="html"><![CDATA[The stopgap spending measure was the final legislative deadline facing the Senate before the midterm elections. It heads to the House next, with a midnight deadline on Friday.]]></summary>
         <author>
             <name>Emily Cochrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: 21-day Karnataka leg of Bharat Jodo Yatra to begin today]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-september-30-rahul-gandhi/liveblog/94543132.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-september-30-rahul-gandhi/liveblog/94543132.cms"/>
+        <updated>2022-09-29T18:36:47.000Z</updated>
+        <summary type="html"><![CDATA[After winding through parts of Kerala and Tamil Nadu over the past 22 days, Rahul Gandhi will begin the Karnataka leg of Congress’ Bharat Jodo Yatra today. The Karnataka stretch will cover 511km over the next 21 days, but participants will take a break for four days in between over the first phase. Rahul had launched the 3,500km, 150-day campaign from Tamil Nadu’s Kanyakumari on September 7. The Karnataka leg will begin from Gundlupet in Chamarajanagar district. Rahul will kick off the march with a public speech. Stay with TOI for the latest developments --]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

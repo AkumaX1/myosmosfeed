@@ -1829,6 +1829,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
+          "author": "Eduardo Medina",
+          "description": "During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
+          "publishedOn": "2022-09-30T03:38:52.000Z",
+          "wordCount": null,
+          "title": "Trevor Noah Announces He Will Leave ‘The Daily Show’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html",
+          "author": "Patricia Mazzei, Nicholas Bogel-Burroughs, Frances Robles and Jack Healy",
+          "description": "The extent of the damage was difficult to comprehend, even for residents who had survived and rebuilt after other powerful storms.",
+          "link": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html",
+          "publishedOn": "2022-09-30T01:31:40.000Z",
+          "wordCount": null,
+          "title": "Hurricane Ian Leaves Behind a Staggering Scale of Damage in Florida",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-flood-damage.html",
           "author": "Richard Fausset, Campbell Robertson and Shawn Hubler",
           "description": "The state was battered on both the Gulf and Atlantic coasts, but some residents of inland areas said the damage was not as severe as feared.",
@@ -5433,6 +5453,16 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/magazine/poem-moon-for-aisha.html",
+          "author": "Aracelis Girmay and Victoria Chang",
+          "description": "Some friendships are so special they seem to exist before, during and after time.",
+          "link": "https://www.nytimes.com/2022/09/30/magazine/poem-moon-for-aisha.html",
+          "publishedOn": "2022-09-30T04:20:39.000Z",
+          "wordCount": null,
+          "title": "Poem: Moon for Aisha",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/29/books/review/12-new-books-we-recommend-this-week.html",
           "author": null,
           "description": "Suggested reading from critics and editors at The New York Times.",
@@ -5769,6 +5799,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
+          "author": "Eduardo Medina",
+          "description": "During a taping of the Comedy Central program Thursday night, he noted that it has been seven years since he replaced Jon Stewart. He will depart at a time to be determined, he said.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/television/trevor-noah-daily-show.html",
+          "publishedOn": "2022-09-30T03:38:52.000Z",
+          "wordCount": null,
+          "title": "Trevor Noah Announces He Will Leave ‘The Daily Show’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html",
           "author": "Margaret Lyons",
@@ -6606,6 +6646,36 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234602536",
+          "author": "Daniel Kreps",
+          "description": "Singer voices titular reptile in upcoming family film out Oct. 7",
+          "link": "https://www.rollingstone.com/music/music-news/shawn-mendes-heartbeat-lyle-lyle-crocodile-1234602536/",
+          "publishedOn": "2022-09-30T04:09:54.000Z",
+          "wordCount": 7095,
+          "title": "Shawn Mendes Shares New Single ‘Heartbeat’ From ‘Lyle, Lyle, Crocodile’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1405681836.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602601",
+          "author": "Tomás Mier",
+          "description": "Hurry up, October 21",
+          "link": "https://www.rollingstone.com/music/music-news/taylor-swift-announces-track-reveal-1234602601/",
+          "publishedOn": "2022-09-30T04:04:32.000Z",
+          "wordCount": 6993,
+          "title": "Taylor Swift Continues ‘Midnights Mayhem’ With ‘Maroon’ Song Title",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/taylor-swift-midnights.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234602707",
+          "author": "Julyssa Lopez",
+          "description": "Bad Bunny won nine awards total, including Artist of the Year and Top Latin Album of the Year",
+          "link": "https://www.rollingstone.com/music/music-latin/latin-billboard-winners-1234602707/",
+          "publishedOn": "2022-09-30T03:01:19.000Z",
+          "wordCount": 7656,
+          "title": "Bad Bunny, Farruko, Karol G Win Big at Billboard Latin Music Awards",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/GettyImages-1420876488.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234601973",
           "author": "Julyssa Lopez",
@@ -7474,6 +7544,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234598861",
+          "author": "Alan Sepinwall",
+          "description": "Earn's parents reappear — along with his aunts, uncle, and grandpa — for an episode about the (crazy) ties that bind",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-recaps/atlanta-recap-season-4-episode-4-light-skinned-1234598861/",
+          "publishedOn": "2022-09-30T02:43:00.000Z",
+          "wordCount": 8392,
+          "title": "‘Atlanta’ Recap: How I Kidnapped Your Grandfather",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/ATL_404_0191rC.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234602545",
           "author": "Oscar Hartzog",
           "description": "Singles from 'The Bachelor' and 'The Bachelorette' have descended on the beach for Season 8 of 'Bachelor in Paradise' — here’s how to stream the new season online",
@@ -7880,6 +7960,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2412794",
+          "author": "Rita Liao",
+          "description": "This year, around 3.2 billion people — or about 40% of the world’s population — will play games, with total spending nearing $200 billion, estimates industry researcher Newzoo. The purveyors of web3 want a slice of this gargantuan market. Criticisms of the first generation of crypto games, dominated by the play-to-earn model, have already been […]\nWhy this Blizzard vet thinks the next killer web3 game will come from China by Rita Liao originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/china-web3-game-mmo/",
+          "publishedOn": "2022-09-30T03:18:32.000Z",
+          "wordCount": 7234,
+          "title": "Why this Blizzard vet thinks the next killer web3 game will come from China",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1203538154.jpg?resize=1200,633"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413747",
+          "author": "Kate Park",
+          "description": "The Vision Fund, a venture capital arm of SoftBank, has launched a sweeping layoff process, cutting at least 30% of its workforce globally, or approximately 150 of the 500 employees, according to a report by Bloomberg. The news comes nearly two months after SoftBank chief executive officer and founder Masayoshi Son said the company would […]\nSoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees by Kate Park originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/29/softbank-vision-fund-is-reportedly-laying-off-30-of-its-workforce-or-at-least-150-employees/",
+          "publishedOn": "2022-09-30T01:22:43.000Z",
+          "wordCount": 6222,
+          "title": "SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2411259",
           "author": "Connie Loizos",
@@ -14893,6 +14993,16 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "4880c946-6797-4108-8431-c90cd7e7172f",
+          "author": "Adam Mathew",
+          "description": "Start your Saturday off in style with a slew of cheap video games. Alternatively, secure a preorder on the games you really don't want to miss.",
+          "link": "https://www.ign.com/articles/aussie-deals-sort-your-weekend-with-the-hottest-school-holiday-and-franchisepublisher-sales",
+          "publishedOn": "2022-09-30T01:43:53.000Z",
+          "wordCount": 9112,
+          "title": "Aussie Deals Sort Your Weekend With the Hottest School Holiday and Franchise/Publisher Sales!",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/30/ign-uk-deals-may-11-2022-1652256204504-1664501891828.png?width=1280"
+        },
+        {
           "id": "3a326362-ff68-4229-b4e8-c6df872d61d7",
           "author": "Rebekah Valentine",
           "description": "Among the absolutely massive amount of explorable world and evergreen story content in Genshin Impact, one of the ways the open-world adventure keeps folks busy over time is through limited-time events that, if missed often cannot be accessed later. But developer MiHoYo may be looking for a way for players to reexperience them after all.",
@@ -15706,6 +15816,36 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190360",
+          "author": null,
+          "description": "Junichi Suwabe, Sayaka Ohara, Chihiro Shirata, Kent Itō, more star in Tezuka Productions anime",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/my-home-hero-anime-1st-teaser-reveals-cast-staff-april-2023-premiere/.190360",
+          "publishedOn": "2022-09-30T03:33:05.000Z",
+          "wordCount": 3440,
+          "title": "My Home Hero Anime's 1st Teaser Reveals Cast, Staff, April 2023 Premiere",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYA/cms/news.5/190360/visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190287",
+          "author": null,
+          "description": "Jason DeMarco: Shenmue season 2 is unlikely",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/adult-swim-stops-streaming-blade-runner-black-lotus-shenmue-fena-anime/.190287",
+          "publishedOn": "2022-09-30T01:22:45.000Z",
+          "wordCount": 3394,
+          "title": "Adult Swim Stops Streaming Blade Runner: Black Lotus, Shenmue, Fena Anime",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.5/178241/blade-runner-key-visual-3.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190354",
+          "author": null,
+          "description": "JAM Project, Minami Kuribayashi perform 'Akatsuki o Ute' opening, V.W.P. performs 'Saikai' ending",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-29/muv-luv-alternative-anime-season-2-video-previews-theme-songs/.190354",
+          "publishedOn": "2022-09-30T01:19:41.000Z",
+          "wordCount": 3362,
+          "title": "Muv-Luv Alternative Anime Season 2's Video Previews Theme Songs",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/youtube/_MdNEjLtmeA.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190347",
           "author": null,
@@ -16873,6 +17013,66 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/crime-thriller-anime-my-home-hero-exposes-april-2023-broadcast-with-1st-trailer-and-visual",
+          "author": "Liam Dempsey",
+          "description": "Main staff and cast were also brought to light\n\n\nAll the pieces are starting to come together for upcoming crime thriller anime My Home Hero, which unveiled its first teaser visual and trailer, along with the main staff and cast at work in the middle of all the chaos. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/crime-thriller-anime-my-home-hero-exposes-april-2023-broadcast-with-1st-trailer-and-visual",
+          "publishedOn": "2022-09-30T03:45:00.000Z",
+          "wordCount": 6036,
+          "title": "Crime Thriller Anime My Home Hero Exposes April 2023 Broadcast with 1st Trailer and Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/e5543e2429c401dbdba017969891281b1664508718_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video",
+          "author": "Daryl Harding",
+          "description": "Netflix to release The Culprit Hanzawa in international areas\n\n\nAhead of the series premiere of Detective Conan: The Culprit Hanzawa, the ShoPro YouTube channel released the creditless opening theme for the anime set to \"Tsukamaete, Konya.\" by Leon Niihama, showing said silhouetted criminal dancing around Tokyo while shaking his shadowy behind. Jam past the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/the-shadow-man-dances-his-way-through-tokyo-in-detective-conan-the-culprit-hanzawa-creditless-anime-opening-video",
+          "publishedOn": "2022-09-30T03:23:46.000Z",
+          "wordCount": 6010,
+          "title": "The Shadow Man Dances His Way Through Tokyo in Detective Conan: The Culprit Hanzawa Creditless Anime Opening Video",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/d7e13262406dfbe30b0df9255cf81f211664508215_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/172-25-dimensional-musicals-performed-in-2021-up-262-in-attendance",
+          "author": "Mikikazu Komatsu",
+          "description": "Numbers are approaching the level before the outbreak of COVID-19　  \n\n\nJapan 2.5-Dimensional Musical Association has announced the number of 2.5-dimensional musicals (musical theatre production based on Japanese manga, popular animation and video games) performed in Japan in 2021 and the total number of audiences for the year. Check out the data after the jump.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/172-25-dimensional-musicals-performed-in-2021-up-262-in-attendance",
+          "publishedOn": "2022-09-30T02:35:00.000Z",
+          "wordCount": 5960,
+          "title": "172 2.5-Dimensional Musicals Performed in 2021, Up 262% in Attendance",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/3eb9093976a81b8ebb1ee6d96692aa481664504714_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/spy-x-family-tv-animes-2nd-opening-theme-song-video-sneaks-past-45-million-views",
+          "author": "Daryl Harding",
+          "description": "This is ahead of the Cour 2 premiere on October 1\n\n\nEveryone is very waku waku for the upcoming second half of the SPY x FAMILY TV anime, so much so that even though the creditless opening theme song video was only released less than two days ago, the video has already surpassed 4.5 million views and is steadily climbing by the minutes. See the celebrations of its success after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/spy-x-family-tv-animes-2nd-opening-theme-song-video-sneaks-past-45-million-views",
+          "publishedOn": "2022-09-30T01:58:12.000Z",
+          "wordCount": 6120,
+          "title": "SPY x FAMILY TV Anime's 2nd Opening Theme Song Video Sneaks Past 4.5 Million Views",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/2acc508533df6e9c5856cd9be9cafd861664502937_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29/uta-no-prince-sama-2nd-concert-film-has-sold-500000-tickets-in-4-weeks",
+          "author": "Mikikazu Komatsu",
+          "description": "5th week theatergoers will receive an instant photo card autographed by the idols\n\n\nMANTAN WEB has reported that the cumulative total box office gross of Uta no Prince-sama The Movie: Maji LOVE ST☆RISH TOURS has surpassed 770 million yen (5.32 million USD) on 500,000 ticket sales in four weeks since its release. Hit the jump for more details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29/uta-no-prince-sama-2nd-concert-film-has-sold-500000-tickets-in-4-weeks",
+          "publishedOn": "2022-09-30T01:31:02.000Z",
+          "wordCount": 6046,
+          "title": "Uta no Prince-sama 2nd Concert Film Has Sold 500,000 Tickets in 4 Weeks",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/01498e89c070fe20d2ba4b3672d9c4c61664501168_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/29-1/spy-x-family-musical-unveils-cast-visuals-of-loid-yor-forger",
+          "author": "Mikikazu Komatsu",
+          "description": "Audition for the role of Anya is underway\n\n\nThe official website for the forthcoming musical adaptation of Tatsuya Endo's action comedy manga SPY X FAMILY has announced its main cast members and unveiled visuals of the four cast members playing Loid and Yor Forger in costume. See how they dress up as their characters after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/29-1/spy-x-family-musical-unveils-cast-visuals-of-loid-yor-forger",
+          "publishedOn": "2022-09-30T00:35:00.000Z",
+          "wordCount": 6041,
+          "title": "SPY x FAMILY Musical Unveils Cast Visuals of Loid & Yor Forger",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/be9c3690d06d4aa4355a28f1b6a0c99e1664497475_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/29/the-witchs-house-mv-brings-frights-to-ps4-xbox-one-and-switch",
           "author": "Joseph Luster",
@@ -18331,6 +18531,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-30-2022/article65952118.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-september-30-2022/article65952118.ece",
+          "publishedOn": "2022-09-30T03:07:18.000Z",
+          "wordCount": 7092,
+          "title": "Morning Digest | PFI’s alleged links in Turkey and Qatar being probed; Putin recognises independence for two more Ukraine regions, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ucedtc/article65952655.ece/alternates/LANDSCAPE_615/IMG_PTI09_22_2022_000061_2_1_2BAB6DCJ.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/h-1b-visas-could-soon-be-stamped-inside-us-following-presidential-commission-recommendation/article65953641.ece",
+          "author": "PTI",
+          "description": "Many Indian professionals, either new or waiting for the renewal of H-1B visas, are facing uncertainty due to long visa application appointments, with the current wait period being more than a year",
+          "link": "https://www.thehindu.com/news/international/h-1b-visas-could-soon-be-stamped-inside-us-following-presidential-commission-recommendation/article65953641.ece",
+          "publishedOn": "2022-09-30T02:15:51.000Z",
+          "wordCount": 6637,
+          "title": "H-1B visas could soon be stamped inside U.S. following Presidential commission recommendation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/u6mlgi/article65944880.ece/alternates/LANDSCAPE_615/03EPBS_US%20VISA.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/putin-to-host-kremlin-ceremony-annexing-parts-of-ukraine/article65953640.ece",
+          "author": "Reuters",
+          "description": "Russian President Vladimir Putin took the intermediary step of signing decrees on Thursday paving the way for occupied regions of Kherson and Zaporizhzhia to be formally annexed into Russia",
+          "link": "https://www.thehindu.com/news/international/putin-to-host-kremlin-ceremony-annexing-parts-of-ukraine/article65953640.ece",
+          "publishedOn": "2022-09-30T02:09:45.000Z",
+          "wordCount": 6797,
+          "title": "Putin to host Kremlin ceremony annexing parts of Ukraine",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/s08jp8/article65953657.ece/alternates/LANDSCAPE_615/2022-09-29T104832Z_1362833667_RC2YQW954DBL_RTRMADP_3_UKRAINE-CRISIS-REFERENDUMS-MOSCOW.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/putin-recognises-independence-for-two-more-ukraine-regions/article65952653.ece",
           "author": "AP",
           "description": "Russian President Vladimir Putin issued decrees early Friday recognising the independence of the Kherson and Zaporizhzhia regions",
@@ -19537,6 +19767,126 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gujarat-pm-narendra-modi-to-flag-off-vande-bharat-express-train-launch-ahmedabad-metro-project-today/articleshow/94548263.cms",
+          "author": null,
+          "description": "PM Modi will flag off the Vande Bharat Express from Gandhinagar capital railway station at around 10.30 am. He will also take a ride on the train from Gandhinagar to Kalupur railway station in Ahmedabad.",
+          "link": "https://timesofindia.indiatimes.com/india/gujarat-pm-narendra-modi-to-flag-off-vande-bharat-express-train-launch-ahmedabad-metro-project-today/articleshow/94548263.cms",
+          "publishedOn": "2022-09-30T03:36:51.000Z",
+          "wordCount": 5790,
+          "title": "Gujarat: PM Narendra Modi to flag off Vande Bharat Express train, launch Ahmedabad metro project today",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548260,width-1070,height-580,imgsize-34480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sticky-bombs-are-real-emerging-threat/articleshow/94548031.cms",
+          "author": null,
+          "description": "In the wake of ‘sticky bombs’ being suspected behind the twin bus blasts in Udhampur, Jammu and Kashmir, on Wednesday night and Thursday morning, CRPF DG Kuldiep Singh on Thursday conceded that sticky bombs are a “real” emerging threat, even though the heightened risk from these easy-to-plant bombs was effectively and successfully managed during the Amarnath Yatra held this year from June 30 to August 11.",
+          "link": "https://timesofindia.indiatimes.com/india/sticky-bombs-are-real-emerging-threat/articleshow/94548031.cms",
+          "publishedOn": "2022-09-30T03:27:07.000Z",
+          "wordCount": 6065,
+          "title": "'Sticky bombs are real emerging threat'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548072,width-1070,height-580,imgsize-68764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The contest for the Congress president election seems wide open, and the last day of filing nominations could still spring a surprise or tw.",
+          "link": "https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms",
+          "publishedOn": "2022-09-30T03:23:10.000Z",
+          "wordCount": 6425,
+          "title": "Race for Congress president heats up, party yet to settle Rajasthan CM question : Top developments",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547880,width-1070,height-580,imgsize-932165,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rahul-gandhi-leaves-meeting-in-between-goes-for-jogging-himanta-biswa-sarma/articleshow/94547999.cms",
+          "author": null,
+          "description": "Assam chief minister Himanta Biswa Sarma accused Rahul Gandhi of being non-serious as a politician, behaving like \"a feudal lord\" and being arrogant. \"The first thing is he is not fit for politics. Probably, the work he should not do, he is doing,\" Sarma said.",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-leaves-meeting-in-between-goes-for-jogging-himanta-biswa-sarma/articleshow/94547999.cms",
+          "publishedOn": "2022-09-30T03:22:26.000Z",
+          "wordCount": 6616,
+          "title": "Rahul Gandhi leaves meeting in between, goes for jogging: Himanta Biswa Sarma",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548014,width-1070,height-580,imgsize-35354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ed-searches-on-nine-investment-token-app-cos-linked-to-china/articleshow/94546023.cms",
+          "author": null,
+          "description": "The Enforcement Directorate carried out fresh searches against at least nine Chinese-controlled entities that were engaged in app-based investment issuing tokens called HPZ, popular in Nagaland. So far, the agency has seized Rs 57 crore deposits of these entities with various payment gateways.",
+          "link": "https://timesofindia.indiatimes.com/india/ed-searches-on-nine-investment-token-app-cos-linked-to-china/articleshow/94546023.cms",
+          "publishedOn": "2022-09-30T01:43:11.000Z",
+          "wordCount": 5376,
+          "title": "ED searches on nine investment token app cos linked to China",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/free-food-plan-will-cut-fci-wheat-stock-hit-scope-for-market-intervention/articleshow/94546018.cms",
+          "author": null,
+          "description": "The extension of PM Garib Kalyan Ann Yojna (PMGKAY) till December is likely to reduce the wheat stock with the Food Corporation of India (FCI) to around 140 lakh tonnes by January 2023, almost to the same level of buffer stock norms.",
+          "link": "https://timesofindia.indiatimes.com/india/free-food-plan-will-cut-fci-wheat-stock-hit-scope-for-market-intervention/articleshow/94546018.cms",
+          "publishedOn": "2022-09-30T01:41:42.000Z",
+          "wordCount": 5825,
+          "title": "Free food plan will cut FCI wheat stock, hit scope for market intervention",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mp-cereal-output-sees-big-jump-ups-slightly-dips/articleshow/94545983.cms",
+          "author": null,
+          "description": "The share of Madhya Pradesh in the output of cereals has gone up considerably from 6.2% in 2011-12 to 10% in 2019-20, while UP recorded the highest output of cereals in all the years, although its share in the all-India output has decreased from 18.6% in 2011-12 to 18.5% in 2019-20, according data released by the National Statistical Office (NSO).",
+          "link": "https://timesofindia.indiatimes.com/india/mp-cereal-output-sees-big-jump-ups-slightly-dips/articleshow/94545983.cms",
+          "publishedOn": "2022-09-30T01:37:14.000Z",
+          "wordCount": 5936,
+          "title": "MP cereal output sees big jump, UP's slightly dips",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545983,width-1070,height-580,imgsize-244927,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/armed-forces-must-have-system-to-punish-officers-for-adultery-says-sc/articleshow/94545940.cms",
+          "author": null,
+          "description": "The Supreme Court on Thursday said that armed forces must have some kind of mechanism for disciplinary proceedings against their officers for adultery as \"this is a conduct that can shake up the life of officers\".",
+          "link": "https://timesofindia.indiatimes.com/india/armed-forces-must-have-system-to-punish-officers-for-adultery-says-sc/articleshow/94545940.cms",
+          "publishedOn": "2022-09-30T01:31:11.000Z",
+          "wordCount": 5535,
+          "title": "Armed forces must have system to punish officers for adultery, says SC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545941,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-orders-tests-for-gautam-navlakha-at-jaslok-hospital/articleshow/94545927.cms",
+          "author": null,
+          "description": "The Supreme Court on Thursday directed that social activist Gautam Navlakha be allowed to undergo thorough medical check-up at Mumbai’s Jaslok Hospital under police custody.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-orders-tests-for-gautam-navlakha-at-jaslok-hospital/articleshow/94545927.cms",
+          "publishedOn": "2022-09-30T01:30:09.000Z",
+          "wordCount": 5160,
+          "title": "SC orders tests for Gautam Navlakha at Jaslok Hospital",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545905,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-prefers-mutual-consent-divorce-over-long-legal-battles/articleshow/94545850.cms",
+          "author": null,
+          "description": "In the light of growing number of matrimonial disputes, the Supreme Court on Thursday said if two people could not live together happily, then they must be given a chance to get separated by getting divorce by mutual consent rather than fighting long legal battles for years.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-prefers-mutual-consent-divorce-over-long-legal-battles/articleshow/94545850.cms",
+          "publishedOn": "2022-09-30T01:20:38.000Z",
+          "wordCount": 6267,
+          "title": "SC prefers mutual consent divorce over long legal battles",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545852,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms",
+          "author": null,
+          "description": "A Karnataka school headmaster has been suspended, a day after the state education department ordered an inquiry after he was heckled by right-wing outfit activists for organising an essay competition on Prophet Mohammed for children of a government school in Gadag district on Wednesday.",
+          "link": "https://timesofindia.indiatimes.com/india/headmaster-suspended-over-prophet-essay/articleshow/94545756.cms",
+          "publishedOn": "2022-09-30T01:08:10.000Z",
+          "wordCount": 5112,
+          "title": "Headmaster suspended over Prophet essay",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/consider-geo-political-factors-before-framing-policy-pm-modi/articleshow/94545728.cms",
+          "author": null,
+          "description": "While asking top civil servants to factor in geo-political and strategic considerations while designing policies and schemes, PM Narendra Modi has pointed to India's high dependence on China to source pharmaceutical ingredients, an issue that was flagged by the office of the National Security Advisor.",
+          "link": "https://timesofindia.indiatimes.com/india/consider-geo-political-factors-before-framing-policy-pm-modi/articleshow/94545728.cms",
+          "publishedOn": "2022-09-30T01:05:16.000Z",
+          "wordCount": 5660,
+          "title": "Consider geo-political factors before framing policy: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94545740,width-1070,height-580,imgsize-45682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sports-in-india-suffered-due-to-upa-graft-favouritism-pm-modi/articleshow/94545680.cms",
           "author": null,
@@ -22805,6 +23155,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/nobel-2022-prize-season-under-shadow-of-war-in-ukraine/articleshow/94548477.cms",
+          "author": null,
+          "description": "Not since World War II has a conflict been waged between two countries so close to Stockholm and Oslo, where the prestigious awards for medicine, physics, chemistry, literature and peace have been announced since 1901, and the newer Economics Prize since 1969.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/nobel-2022-prize-season-under-shadow-of-war-in-ukraine/articleshow/94548477.cms",
+          "publishedOn": "2022-09-30T03:51:00.000Z",
+          "wordCount": 10801,
+          "title": "Nobel 2022 prize season under shadow of war in Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548485,width-1070,height-580,imgsize-113764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-wreaks-havoc-on-florida-regains-steam-in-atlantic/articleshow/94548394.cms",
+          "author": null,
+          "description": "US News: FORT MYRES: Hurricane Ian unleashed \"historic\" devastation in Florida, leaving a yet unknown number of dead in its wake, officials said Thursday, as t.",
+          "link": "https://timesofindia.indiatimes.com/world/us/hurricane-ian-wreaks-havoc-on-florida-regains-steam-in-atlantic/articleshow/94548394.cms",
+          "publishedOn": "2022-09-30T03:45:18.000Z",
+          "wordCount": 11278,
+          "title": "Hurricane Ian wreaks havoc on Florida, regains steam in Atlantic",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548759,width-1070,height-580,imgsize-111258,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/un-security-council-to-vote-on-friday-on-resolution-condemning-russia-annexation-referendums/articleshow/94547830.cms",
+          "author": null,
+          "description": "The resolution - drafted by the United States and Albania and whose exact contents are not yet public - has no chance of passing thanks to Moscow's veto power, though it can then be presented to the general assembly.",
+          "link": "https://timesofindia.indiatimes.com/world/us/un-security-council-to-vote-on-friday-on-resolution-condemning-russia-annexation-referendums/articleshow/94547830.cms",
+          "publishedOn": "2022-09-30T03:18:19.000Z",
+          "wordCount": 7656,
+          "title": "UNSC to vote on resolution condemning Russia annexation referendums",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547972,width-1070,height-580,imgsize-50270,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/joe-biden-us-will-never-recognize-russian-claims-on-ukraine/articleshow/94546791.cms",
+          "author": null,
+          "description": "The United States is working with allies on sanctions to impose once Russia annexes new areas of Ukraine. Russian President Vladimir Putin will begin annexing four Ukrainian regions to Russia on Friday, and the US response is expected to follow quickly.",
+          "link": "https://timesofindia.indiatimes.com/world/us/joe-biden-us-will-never-recognize-russian-claims-on-ukraine/articleshow/94546791.cms",
+          "publishedOn": "2022-09-30T02:39:09.000Z",
+          "wordCount": 6216,
+          "title": "Biden: US will never recognize Russian claims on Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546760,width-1070,height-580,imgsize-665111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-targets-celebs-media-for-unrest-over-hijab-death/articleshow/94545317.cms",
           "author": null,
           "description": "Iran stepped up pressure on celebrities and journalists on Thursday over the wave of women-led protests sparked by outrage over the death of Mahsa Amini after she was arrested by the Islamic republic's morality police.",
@@ -24379,6 +24769,106 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-to-ahmedabad-in-5-5-hours-all-you-need-to-know-about-vande-bharat-express/articleshow/94548242.cms",
+          "author": null,
+          "description": "Vande Bharat Express, which will run between Mumbai Central and Gandhinagar from September 30 onwards, will take only 6 hours and 20 minutes to go between the two state capitals, and only 5 hours and 35 minutes from Mumbai to Ahmedabad.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-to-ahmedabad-in-5-5-hours-all-you-need-to-know-about-vande-bharat-express/articleshow/94548242.cms",
+          "publishedOn": "2022-09-30T03:51:13.000Z",
+          "wordCount": 5774,
+          "title": "All you need to know about India's third Vande Bharat train",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548355,width-1070,height-580,imgsize-34388,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/mohammed-siraj-replaces-injured-jasprit-bumrah-for-last-two-t20is-against-south-africa/articleshow/94548368.cms",
+          "author": null,
+          "description": "Mohammed Siraj on Friday replaced injured pace spearhead Jasprit Bumrah for India's remaining two T20I matches against the visiting South African team. Bumrah was on Thursday ruled out of the upcoming T20 World Cup due to a back stress fracture. \"The All-India Senior Selection Committee named Siraj as replacement for injured Bumrah for the remainder of the T20I series against South Africa,\" BCCI secretary Jay Shah said in the statement.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/mohammed-siraj-replaces-injured-jasprit-bumrah-for-last-two-t20is-against-south-africa/articleshow/94548368.cms",
+          "publishedOn": "2022-09-30T03:46:12.000Z",
+          "wordCount": 5144,
+          "title": "Siraj replaces Bumrah for last two T20Is against SA",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94548406,width-1070,height-580,imgsize-52026,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-vedha-movie-review-box-office-collect-and-release-live-updates-vikram-vedha-hrithik-roshan-saif-ali-khan-yogita-bihani-radhika-apte/liveblog/94547448.cms",
+          "author": null,
+          "description": "Saif Ali Khan and Hrithik Roshan's action flick 'Vikram Vedha' hits theatres today, September 30. The Pushkar-Gayathri film follows Vikram, an honest officer with the Lucknow police, who is on a mission to find and eliminate gangster Vedha. It is a remake of the 2017 Tamil film, which saw Vijay Sethupathi and R. Madhavan in action.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-vedha-movie-review-box-office-collect-and-release-live-updates-vikram-vedha-hrithik-roshan-saif-ali-khan-yogita-bihani-radhika-apte/liveblog/94547448.cms",
+          "publishedOn": "2022-09-30T02:59:50.000Z",
+          "wordCount": 8110,
+          "title": "Vikram Vedha movie review and release live updates",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547448,width-1070,height-580,imgsize-83774,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94539652.cms",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94539652.cms",
+          "publishedOn": "2022-09-30T02:58:49.000Z",
+          "wordCount": 5026,
+          "title": "Times Top10: PFI’s link with Turkish ‘rights’ group",
+          "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-team-indias-pace-conundrum/articleshow/94547174.cms",
+          "author": null,
+          "description": "If you had watched the first 20 minutes of the India-SA T20 match here at the Greenfield stadium on Wednesday, you would have felt that a Test match was on in coloured clothing under lights.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-team-indias-pace-conundrum/articleshow/94547174.cms",
+          "publishedOn": "2022-09-30T02:57:31.000Z",
+          "wordCount": 6990,
+          "title": "T20 World Cup: Team India's pace conundrum",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94547143,width-1070,height-580,imgsize-37324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-30-september-2022/liveblog/94546730.cms",
+          "author": null,
+          "description": "Shashi Tharoor and Digvijaya Singh are expected to formalise their candidature for the Congress president election scheduled for October 17. However the chances of more party leaders joining the fray cannot be ruled out. Also, the party is yet to decisively settle the question of of leadership in Rajasthan. Stay with TOI for all updates",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-30-september-2022/liveblog/94546730.cms",
+          "publishedOn": "2022-09-30T02:37:07.000Z",
+          "wordCount": 8148,
+          "title": "Cong poll live: Kharge joins race, to file nomination today",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546730,width-1070,height-580,imgsize-38312,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-1-movie-review-ps-1-box-office-collect-and-release-live-updates-ponniyin-selvan-i-aishwarya-rai-bachchan-vikram-jayam-ravi-karthi-trisha-aishwarya-lekshmi/liveblog/94546510.cms",
+          "author": null,
+          "description": "Directed by Mani Ratnam, 'Ponniyin Selvan' is a historic epic drama adapted from the novel. The story revolves around the rise of Chola Empire. Starring Vikram, Jayam Ravi, Karthi, Trisha and Aishwarya Rai Bachchan in the lead roles, the music for the movie is composed by AR Rahman. The film has huge expectations from audience and it is expected that the movie will break all the set records in the box office till date.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-1-movie-review-ps-1-box-office-collect-and-release-live-updates-ponniyin-selvan-i-aishwarya-rai-bachchan-vikram-jayam-ravi-karthi-trisha-aishwarya-lekshmi/liveblog/94546510.cms",
+          "publishedOn": "2022-09-30T02:30:00.000Z",
+          "wordCount": 8910,
+          "title": "Ponniyin Selvan 1: Film records house full shows",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546510,width-1070,height-580,imgsize-639662,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/videos/in-depth/dealing-with-the-trauma-of-sexual-abuse-for-rituparna-chatterjee-the-more-she-forgave-the-freer-she-got/videoshow/94540713.cms",
+          "author": null,
+          "description": "Rituparna Chatterjee didn't want her childhood abuse to come in the way of her life. She wanted to be the author of her own story, not just a survivor of sexual abuse. But on the path to reclaim her life, she picked the most unexpected, perhaps even the most unusual path- she forgave her abuser. And that she says was the most selfish and self-loving choice she made. In this conversation with TOI, she explains how she found her freedom in forgiveness. To read her interview, click here",
+          "link": "https://timesofindia.indiatimes.com/videos/in-depth/dealing-with-the-trauma-of-sexual-abuse-for-rituparna-chatterjee-the-more-she-forgave-the-freer-she-got/videoshow/94540713.cms",
+          "publishedOn": "2022-09-30T02:30:00.000Z",
+          "wordCount": 4793,
+          "title": "Dealing with the trauma of sexual abuse",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-94540713,imgsize-1500366.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/markets/rbi-monetary-policy-live-updates-reserve-bank-of-india-mpc-meet-today-shaktikanta-das-speech-30-sep-2022/liveblog/94546281.cms",
+          "author": null,
+          "description": "RBI Monetary Policy Live Updates: The Reserve Bank's rate-setting panel on Wednesday started deliberations on the keenly awaited monetary policy amidst expectation of 50 basis points hike in interest rate to check inflation and improve foreign capital inflow to arrest declining value of rupee against the US dollar. The decision of RBI governor Shaktikanta Das headed six-member Monetary Policy Committee will be announced at 10am. Stay with TOI for all latest updates.",
+          "link": "https://timesofindia.indiatimes.com/business/markets/rbi-monetary-policy-live-updates-reserve-bank-of-india-mpc-meet-today-shaktikanta-das-speech-30-sep-2022/liveblog/94546281.cms",
+          "publishedOn": "2022-09-30T02:07:00.000Z",
+          "wordCount": 12236,
+          "title": "LIVE: Shaktikanta Das to announce MPC statement soon",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546281,width-1070,height-580,imgsize-61892,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-mid-term-polls-better-than-a-traitor-as-cm/articleshow/94545952.cms",
+          "author": null,
+          "description": "Congress’s latest inhouse strife in Rajasthan threatens to drag beyond the AICC presidential poll, with ministers and legislators loyal to Ashok Gehlot declaring on Thursday they would rather resign and face mid-term elections than settle for a new CM “from the traitor camp”.",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-political-crisis-mid-term-polls-better-than-a-traitor-as-cm/articleshow/94545952.cms",
+          "publishedOn": "2022-09-30T01:34:04.000Z",
+          "wordCount": 5713,
+          "title": "Mid-term polls better than 'traitor' as CM: Ashok Gehlot camp",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94546002,width-1070,height-580,imgsize-824733,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/hc-stays-punjab-plan-for-ration-home-delivery/articleshow/94545540.cms",
           "author": null,
           "description": "In a setback to the AAP government in Punjab, the Punjab and Haryana high court on Thursday restrained the state from creating any \"third party interest\" with regard to distribution of wheat flour (atta) to the beneficiaries at their homes.",
@@ -24469,6 +24959,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94544887,width-1070,height-580,imgsize-60156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/dehradun/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "author": null,
+          "description": "Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.",
+          "link": "https://timesofindia.indiatimes.com/city/dehradun/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
+          "publishedOn": "2022-09-29T22:03:44.000Z",
+          "wordCount": 6513,
+          "title": "Two villages in Pauri, hours apart, give 'back-to-back' CDS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544838,width-1070,height-580,imgsize-99182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/two-villages-in-pauri-hours-apart-give-back-to-back-defence-chiefs/articleshow/94544807.cms",
           "author": null,
           "description": "Uttarakhand is celebrating the appointment of Lt Gen Anil Chauhan as the new Chief of Defence Staff (CDS), and the fact that Chauhan and his predecessor, Gen Bipin Rawat, not only hail from the hill state but also come from the same district, Pauri Garhwal.",
@@ -24477,6 +24977,16 @@
           "wordCount": 6322,
           "title": "Two villages in Pauri, hours apart, give 'back-to-back' CDS",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94544838,width-1070,height-580,imgsize-99182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kochi/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms",
+          "author": null,
+          "description": "The Kerala HC Thursday directed the now-banned Popular Front of India (PFI) to deposit Rs 5.2 crore in two weeks to compensate for damage caused to assets of the state road transport corporation during an illegal flash strike. The division bench also ordered the state to make PFI state secretary Abdul Sattar an accused in all cases registered in the state.",
+          "link": "https://timesofindia.indiatimes.com/city/kochi/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms",
+          "publishedOn": "2022-09-29T21:43:52.000Z",
+          "wordCount": 6704,
+          "title": "Deposit Rs 5.2cr in 2 weeks for hartal damage: HC to PFI",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94544784,width-1070,height-580,imgsize-121028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/deposit-5-2cr-in-2-weeks-to-pay-for-hartal-damage-hc-tells-pfi/articleshow/94544759.cms",
@@ -24507,6 +25017,16 @@
           "wordCount": 7892,
           "title": "Gehlot out of Cong prez race, Sonia to take call on Raj CM",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94544020,width-1070,height-580,imgsize-55902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-september-30-rahul-gandhi/liveblog/94543132.cms",
+          "author": null,
+          "description": "After winding through parts of Kerala and Tamil Nadu over the past 22 days, Rahul Gandhi will begin the Karnataka leg of Congress’ Bharat Jodo Yatra today. The Karnataka stretch will cover 511km over the next 21 days, but participants will take a break for four days in between over the first phase. Rahul had launched the 3,500km, 150-day campaign from Tamil Nadu’s Kanyakumari on September 7. The Karnataka leg will begin from Gundlupet in Chamarajanagar district. Rahul will kick off the march with a public speech. Stay with TOI for the latest developments --",
+          "link": "https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-september-30-rahul-gandhi/liveblog/94543132.cms",
+          "publishedOn": "2022-09-29T18:36:47.000Z",
+          "wordCount": 5975,
+          "title": "Live: 21-day Karnataka leg of Bharat Jodo Yatra to begin today",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94543132,width-1070,height-580,imgsize-64862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/gen-chauhan-to-take-over-as-indias-next-chief-of-defence-staff-on-friday/articleshow/94541772.cms",
