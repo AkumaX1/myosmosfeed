@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid",
+          "author": null,
+          "description": "Tesla’s Optimus robot has been revealed on stage at AI day. | Image: Tesla\n    \n\n  \nTesla CEO Elon Musk revealed a prototype of a humanoid robot “Optimus” robot that shares some AI software and sensors with its cars’ Autopilot driver assistance features. At the start of Tesla's 2022 AI Day presentation, Musk acknowledged that they had \"a guy in a suit\" last year but promised something much more impressive today.\nAccording to Musk, this prototype can do more than than what was shown live, but \"the first time it walked without a tether was tonight on stage.\" Musk predicted it could hit a price of \"probably less than $20,000.\" He claimed that the difference between Tesla’s design and other “very impressive humanoid robot demonstrations” is that Tesla’s Optimus is made for mass production in t…",
+          "link": "https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid",
+          "publishedOn": "2022-10-01T02:57:18.000Z",
+          "wordCount": 8775,
+          "title": "Tesla CEO Elon Musk unveils prototype of humanoid Optimus robot",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/zWe75JR-NcyEoaNN1LXiKc6qPTU=/0x0:2880x1622/1200x628/filters:focal(1440x811:1441x812)/cdn.vox-cdn.com/uploads/chorus_asset/file/24070453/Screen_Shot_2022_09_30_at_9.19.33_PM.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max",
           "author": null,
           "description": "My “We Are Not For Sale” shirt has people asking a lot of questions already answered by my shirt. | Illustration by Alex Castro / The Verge\n    \n\n  \nWarner Bros. Discovery’s CEO David Zaslav seems to be trying to squash rumors that he wants to sell the company to the likes of Comcast. According to a report from Deadline, he told employees that “we are not for sale, absolutely, not for sale,” during a Zoom call on Wednesday attended by staff from all over the company.\nWhile he reportedly didn’t address any specific rumors, a recent report from The Hollywood Reporter seems to be the likely target of his comments. Earlier this month, the outlet suggested that “top industry execs” were “convinced” that Warner Bros. was on the brink of merging with Comcast, owners of NBCUniversal and the Peacoc…",
@@ -2159,6 +2169,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/sports/baseball/hector-lopez-dead.html",
+          "author": "Bruce Weber",
+          "description": "A utility player for the powerhouse Yankees of the 1960s, he was named manager of the Triple-A Buffalo Bisons, becoming the first Black manager at minor league baseball’s highest level.",
+          "link": "https://www.nytimes.com/2022/09/30/sports/baseball/hector-lopez-dead.html",
+          "publishedOn": "2022-10-01T04:07:22.000Z",
+          "wordCount": null,
+          "title": "Hector Lopez, Who Broke a Baseball Color Barrier, Dies at 93",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/business/baltic-pipe-nord-stream.html",
+          "author": "Melissa Eddy",
+          "description": "Natural gas is set to flow through a new undersea pipeline between Norway and Poland after suspected sabotage devastated the Nord Stream pipelines.",
+          "link": "https://www.nytimes.com/2022/10/01/business/baltic-pipe-nord-stream.html",
+          "publishedOn": "2022-10-01T04:01:09.000Z",
+          "wordCount": null,
+          "title": "Safety Concerns Overshadow Europe’s First New Gas Link in Decades",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/us/south-carolina-hurricane-ian.html",
           "author": "Eliza Fawcett, Kellen Browning and Rick Rojas",
           "description": "The storm, which had pummeled Florida, made landfall again in South Carolina, but with less fury than it had earlier in the week.",
@@ -2286,6 +2316,16 @@
           "publishedOn": "2022-09-30T21:08:55.000Z",
           "wordCount": null,
           "title": "A Couple Tried to Flee Fort Myers Beach. One Didn’t Make It.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/business/united-airlines-jfk-airport.html",
+          "author": "Niraj Chokshi",
+          "description": "The airline said it was too small to compete at the airport and would cease flights there at the end of October.",
+          "link": "https://www.nytimes.com/2022/09/30/business/united-airlines-jfk-airport.html",
+          "publishedOn": "2022-09-30T19:51:22.000Z",
+          "wordCount": null,
+          "title": "United Airlines to End Service at J.F.K. Airport",
           "imageUrl": null
         },
         {
@@ -9681,6 +9721,26 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2415479",
+          "author": "Darrell Etherington",
+          "description": "Tesla unveiled its first actual prototype of its Optimus humanoid robot on Friday — an actual robot this time, by the strictest definition, instead of a rreal flesh and blood human clad in a weird suit. The robot performed some basic functions, including walking a little bit and then raising its hands — all for […]\nTesla’s robot strategy is inextricably tied to its Autopilot strategy, for better or for worse by Darrell Etherington originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/teslas-robot-strategy-is-inextricably-tied-to-its-autopilot-strategy-for-better-or-for-worse/",
+          "publishedOn": "2022-10-01T02:47:29.000Z",
+          "wordCount": 6335,
+          "title": "Tesla’s robot strategy is inextricably tied to its Autopilot strategy, for better or for worse",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2415409",
+          "author": "Kirsten Korosec",
+          "description": "Tesla CEO Elon Musk kicked off its Tesla AI Day 2022 with a quick level set on expectations — “we’ve come a long way” — and then stepped aside to allow the first iteration of its robot walk out onto the stage. The robot wasn’t a human dressed in a robot costume like last year.  […]\nTesla’s robot is a real robot now, not just a guy in a suit by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/teslas-robot-is-a-real-robot-now-not-just-a-guy-in-a-suit/",
+          "publishedOn": "2022-10-01T02:17:37.000Z",
+          "wordCount": 6141,
+          "title": "Tesla’s robot is a real robot now, not just a guy in a suit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-bot-1.jpg?resize=1200,628"
+        },
+        {
           "id": "https://techcrunch.com/?p=2415158",
           "author": "Rita Liao",
           "description": "When ByteDance bought the Chinese VR headset maker Pico a year ago, the message it sent was clear: it was betting that the immersive device would be where future generations spend most of their time consuming digital content. It’s a marriage reminiscent of Meta’s acquisition of Oculus back in 2014, except the world is now […]\nByteDance’s Pico debuts its Quest rival, but challenges remain by Rita Liao originally published on TechCrunch",
@@ -12798,6 +12858,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "7k8wvb",
+          "author": "Annabel Gat",
+          "description": "Happy solar return, dear Libra!",
+          "link": "https://www.vice.com/en_us/article/7k8wvb/monthly-horoscope-libra-october-2022",
+          "publishedOn": "2022-10-01T01:28:15.000Z",
+          "wordCount": 6875,
+          "title": "Monthly Horoscope: Libra, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6322261614808f00b9f7f64a/lede/1664585582892-7librascorpiomonthly91920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6322261614808f00b9f7f64a/lede/1664585582892-7librascorpiomonthly91920x1080.jpeg"
+        },
+        {
           "id": "jgpvky",
           "author": "Annabel Gat",
           "description": "Welcome to Libra season, dear Virgo!",
@@ -15461,6 +15536,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849604584",
+          "author": "Ethan Gach",
+          "description": "In a past life, Frances Townsend defended the legal basis for the torture method called waterboarding during George W. Bush’s war on terror. In a more recent one, she helped lead Activision Blizzard’s initially tone-deaf response to a major sexual harassment lawsuit by the state of California. Now she’s stepping down…\nRead more...",
+          "link": "https://kotaku.com/call-duty-mwii-frances-townsend-activision-blizzard-1849604584",
+          "publishedOn": "2022-10-01T01:30:00.000Z",
+          "wordCount": 7154,
+          "title": "Bush-Era Torture Apologist Steps Down From Call Of Duty Publisher",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a349d79ca9fd8e8884db1f1ecf2f8905.jpg"
+        },
         {
           "id": "1849603969",
           "author": "Isaiah Colbert",
@@ -20084,6 +20169,46 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/level-1-demon-lord-and-one-room-hero-tv-anime-releases-teaser-visual-pv-for-2023-premiere",
+          "author": "Mikikazu Komatsu",
+          "description": "Yoshitsugu Matsuoka, Hiro Shimono, Ami Koshimizu newly join the cast\n\n\nThe official website for the forthcoming TV anime adaptation of toufu's fantasy comedy manga Level 1 Demon Lord and One Room Hero opens with a teaser visual and a teaser PV today, announcing its premiere date in 2023. Check out the latest information after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/level-1-demon-lord-and-one-room-hero-tv-anime-releases-teaser-visual-pv-for-2023-premiere",
+          "publishedOn": "2022-10-01T03:11:04.000Z",
+          "wordCount": 6107,
+          "title": "Level 1 Demon Lord and One Room Hero TV Anime Releases Teaser Visual & PV for 2023 Premiere",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/a021a04ae8f4b31876909b6753f558a51664593703_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/love-live-sunshine-kanan-va-nanaka-suwa-releases-her-2nd-photo-book-suwa-wonderland",
+          "author": "Mikikazu Komatsu",
+          "description": "She played waitress, high school girl, wizard, spy, and teacher\n\n\nJapanese publisher Shufunotomosha released popular voice actress Nanaka Suwa's (Kanan Matsuura in Love Live! Sunshine!!, Yui in BOFURI) second photo collection book \"Suwa Wonderland ~Happily ever after~\" in Japan on September 28. Check out her cute smiles in sample photos after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30-1/love-live-sunshine-kanan-va-nanaka-suwa-releases-her-2nd-photo-book-suwa-wonderland",
+          "publishedOn": "2022-10-01T01:57:03.000Z",
+          "wordCount": 5976,
+          "title": "Love Live! Sunshine!! Kanan VA Nanaka Suwa Releases Her 2nd Photo Book \"Suwa Wonderland\"",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/4be9a87e84f2aa71c5bfe9ce0ed3120c1664589117_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30/the-idolmster-riamu-yumemi-va-seena-hoshiki-takes-a-hiatus-due-to-acute-lymphoblastic-leukemia",
+          "author": "Mikikazu Komatsu",
+          "description": "She is currently hospitalized and undergoing treatment\n\n\nSony Music Artists announced on September 30 that voice actress Seena Hoshiki, best known as Riamu Yumemi in The Idolm@ster franchise, will take a hiatus from activities for a while due to Acute lymphoblastic leukaemia (ALL), a type of blood cancer. Hit the jump for more details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30/the-idolmster-riamu-yumemi-va-seena-hoshiki-takes-a-hiatus-due-to-acute-lymphoblastic-leukemia",
+          "publishedOn": "2022-10-01T01:10:29.000Z",
+          "wordCount": 5942,
+          "title": "The Idolm@ster Riamu Yumemi VA Seena Hoshiki Takes A Hiatus due to Acute Lymphoblastic Leukemia",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/3b7906c8d9e0a38f520576b985d17e081664586301_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/09/30/anisong-duo-claris-performs-madoka-magica-tv-anime-opening-theme-for-the-first-take",
+          "author": "Mikikazu Komatsu",
+          "description": "\"We think that taking off the masks will convey our feelings even more to you all.\"\n\n\nIn the 249th episode of THE FIRST TAKE, a YouTube channel that delivers one-take performances by artists, anisong duo ClariS performed their second single song \"Connect,\" the opening theme for the 2011 TV anime Puella Magi Madoka Magica. Check out their impressive performance after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/09/30/anisong-duo-claris-performs-madoka-magica-tv-anime-opening-theme-for-the-first-take",
+          "publishedOn": "2022-10-01T00:39:01.000Z",
+          "wordCount": 5969,
+          "title": "Anisong Duo ClariS Performs Madoka Magica TV Anime Opening Theme for THE FIRST TAKE",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/bee2119e6c2bc5764d276614afdc5b4f1664584366_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/spike-chunsoft-announces-chaoshead-noah-release-on-steam-canceled",
           "author": "Humberto Saabedra",
           "description": "Publisher cites Steam's insistence to make 'guideline related changes' to game for release\n\n\nVideo game publisher Spike Chunsoft has released a statement to press announcing that its long-planned release of Chaos;Head Noah on Steam has been canceled. Read on for the details.",
@@ -21761,6 +21886,56 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/national/mahatma-gandhi-makes-special-appearance-at-un-shares-message-on-education/article65957903.ece",
+          "author": "PTI",
+          "description": "A special life-size hologram of Gandhi was projected during a panel discussion",
+          "link": "https://www.thehindu.com/news/national/mahatma-gandhi-makes-special-appearance-at-un-shares-message-on-education/article65957903.ece",
+          "publishedOn": "2022-10-01T03:35:15.000Z",
+          "wordCount": 6952,
+          "title": "Mahatma Gandhi makes special appearance at U.N., shares message on education",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6m5bbu/article65957905.ece/alternates/LANDSCAPE_615/2022-10-01%20%284%29.png"
+        },
+        {
+          "id": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-october-1-2022/article65956432.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day.",
+          "link": "https://www.thehindu.com/news/cities/chennai/chen-news/morning-digest-october-1-2022/article65956432.ece",
+          "publishedOn": "2022-10-01T02:46:40.000Z",
+          "wordCount": 7110,
+          "title": "Morning Digest | Kharge represents status quo, I represent change, says Shashi Tharoor; President Murmu to award ‘Swachh Survekshan’ to cleanest cities today, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5wopt3/article65956890.ece/alternates/LANDSCAPE_615/PTI09_30_2022_000232A.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/hurricane-ian-lashes-south-carolina-as-floridas-death-toll-climbs/article65957811.ece",
+          "author": "AP",
+          "description": "A revived Hurricane Ian, estimated to be one of the costliest hurricanes ever to hit the U. S., has terrorised people for much of the week — pummeling western Cuba and raking across Florida before gathering strength in the warm waters of the Atlantic Ocean to curve back and strike South Carolina",
+          "link": "https://www.thehindu.com/news/international/hurricane-ian-lashes-south-carolina-as-floridas-death-toll-climbs/article65957811.ece",
+          "publishedOn": "2022-10-01T02:28:09.000Z",
+          "wordCount": 7007,
+          "title": "Hurricane Ian lashes South Carolina as Florida&#039;s death toll climbs",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6i8e9u/article65957815.ece/alternates/LANDSCAPE_615/Tropical_Weather_05912.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/biden-vows-russia-wont-get-away-with-ukraine-annexation/article65957807.ece",
+          "author": "AP",
+          "description": "U.S. President Joe Biden said his administration would support any effort by Ukraine to retake the annexed territories by force",
+          "link": "https://www.thehindu.com/news/international/biden-vows-russia-wont-get-away-with-ukraine-annexation/article65957807.ece",
+          "publishedOn": "2022-10-01T02:24:39.000Z",
+          "wordCount": 7144,
+          "title": "Biden vows Russia won&#039;t &#039;get away with&#039; Ukraine annexation",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/t7vaai/article65957835.ece/alternates/LANDSCAPE_615/Biden_99845.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/north-korea-fires-fourth-round-of-missile-tests-in-one-week/article65957808.ece",
+          "author": "AP",
+          "description": "North Korea has fired two short-range ballistic missiles toward its eastern waters",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-fourth-round-of-missile-tests-in-one-week/article65957808.ece",
+          "publishedOn": "2022-10-01T02:03:40.000Z",
+          "wordCount": 6318,
+          "title": "North Korea fires fourth round of missile tests in one week",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/9o806l/article65957814.ece/alternates/LANDSCAPE_615/South_Korea_Koreas_Tensions_31638.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/army-officers-appear-on-burkina-faso-tv-declare-new-coup/article65956900.ece",
           "author": "AP",
           "description": "More than a dozen members of the army have appeared on Burkina Faso's state broadcaster to declare they have overthrown the country's coup leader",
@@ -23247,6 +23422,96 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mahatma-gandhi-makes-special-appearance-at-un-shares-message-on-education/articleshow/94575749.cms",
+          "author": null,
+          "description": "India News: UNITED NATIONS: In a first, Mahatma Gandhi made a special appearance at the United Nations, sharing his message on education at the world organisation.",
+          "link": "https://timesofindia.indiatimes.com/india/mahatma-gandhi-makes-special-appearance-at-un-shares-message-on-education/articleshow/94575749.cms",
+          "publishedOn": "2022-10-01T03:54:11.000Z",
+          "wordCount": 8118,
+          "title": "Mahatma Gandhi makes special appearance at UN, shares message on education",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94575802,width-1070,height-580,imgsize-20418,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-abstains-on-unsc-resolution-condemning-russian-annexation-of-ukrainian-regions/articleshow/94575345.cms",
+          "author": null,
+          "description": "India abstained a UNSC resolution introduced by the United States and Albania condemning Moscow's proclaimed annexation of parts of Ukraine, citing the \"totality of the evolving situation” as the reason for abstention. The resolution failed to get adopted as Russia, as expected, vetoed it. It was supported by 10 of the 15 members of the Council. China, Gabon and Brazil were the other countries that abstained.",
+          "link": "https://timesofindia.indiatimes.com/india/india-abstains-on-unsc-resolution-condemning-russian-annexation-of-ukrainian-regions/articleshow/94575345.cms",
+          "publishedOn": "2022-10-01T03:16:03.000Z",
+          "wordCount": 6890,
+          "title": "India abstains on UNSC resolution condemning Russian annexation of Ukrainian regions",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94575412,width-1070,height-580,imgsize-1912540,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-lens-on-hc-quashing-sex-case-on-compromise/articleshow/94573888.cms",
+          "author": null,
+          "description": "The Supreme Court on Friday agreed to examine whether a high court can quash a sexual harassment case after compromise between the accused and the survivor, and appointed senior advocate and former Kerala HC judge R Basant as amicus curiae to assist the court.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-lens-on-hc-quashing-sex-case-on-compromise/articleshow/94573888.cms",
+          "publishedOn": "2022-10-01T01:33:02.000Z",
+          "wordCount": 5761,
+          "title": "SC lens on HC quashing sex case on compromise",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573891,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "author": null,
+          "description": "India News: PM Modi late on Friday evening addressed a huge gathering at Abu Road in Rajasthan without a mike as he didn't want to violate any rule of using louds.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "publishedOn": "2022-10-01T01:29:27.000Z",
+          "wordCount": 5079,
+          "title": "PM Modi ditches mic, follows 10pm loudspeaker norm at Abu Road",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573876,width-1070,height-580,imgsize-52534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cities-like-ahmedabad-surat-vadodara-will-drive-growth-for-next-25-years-pm-modi/articleshow/94573797.cms",
+          "author": null,
+          "description": "Stressing the need to modernise transport systems in cities and ensure seamless connectivity, Prime Minister Narendra Modi said in Ahmedabad on Friday that cities like Ahmedabad, Surat and Vadodara, among others, would drive India's growth over the next 25 years.",
+          "link": "https://timesofindia.indiatimes.com/india/cities-like-ahmedabad-surat-vadodara-will-drive-growth-for-next-25-years-pm-modi/articleshow/94573797.cms",
+          "publishedOn": "2022-10-01T01:22:39.000Z",
+          "wordCount": 6955,
+          "title": "Cities like Ahmedabad, Surat, Vadodara will drive growth for next 25 years: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573852,width-1070,height-580,imgsize-123416,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sc-not-keen-on-admitting-pil-on-two-child-norm/articleshow/94573759.cms",
+          "author": null,
+          "description": "Observing that the judiciary can't resolve all the problems in society, the Supreme Court on Friday expressed its reservation in entertaining a PIL seeking enforcement of the two-child norm to control population growth in the country.",
+          "link": "https://timesofindia.indiatimes.com/india/sc-not-keen-on-admitting-pil-on-two-child-norm/articleshow/94573759.cms",
+          "publishedOn": "2022-10-01T01:17:25.000Z",
+          "wordCount": 5964,
+          "title": "SC not keen on admitting PIL on two-child norm",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573768,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/fema-authority-oks-ed-seizure-of-xiaomis-5500cr/articleshow/94573697.cms",
+          "author": null,
+          "description": "The adjudicating authority for Fema has validated ED's seizure of Rs 5,500 crore of Xiaomi India, holding the company's overseas remittances illegal.",
+          "link": "https://timesofindia.indiatimes.com/india/fema-authority-oks-ed-seizure-of-xiaomis-5500cr/articleshow/94573697.cms",
+          "publishedOn": "2022-10-01T01:10:47.000Z",
+          "wordCount": 5502,
+          "title": "Fema authority OKs ED seizure of Xiaomi's 5,500cr",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/retail-price-of-atta-rises-by-19-rice-by-8-in-last-one-year/articleshow/94573636.cms",
+          "author": null,
+          "description": "The average retail prices of rice, wheat and atta have increased by 8-19% in the past one year, according to the government data. The maximum increase has been in the case of atta (wheat flour) prices. On Thursday, the retail price of atta was Rs 36.2 per kg, which is an increase of around 19% from last year.",
+          "link": "https://timesofindia.indiatimes.com/india/retail-price-of-atta-rises-by-19-rice-by-8-in-last-one-year/articleshow/94573636.cms",
+          "publishedOn": "2022-10-01T01:04:44.000Z",
+          "wordCount": 6176,
+          "title": "Retail price of atta rises by 19%, rice by 8% in last one year",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573657,width-1070,height-580,imgsize-64820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/allahabad/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "author": null,
+          "description": "The Allahabad HC on Friday refused to set aside the decision of a lower court in Shahjahanpur, which had declined to grant permission to the state government for the withdrawal of alleged rape case pending against ex-Union minister Swami Chinmayanand Saraswati.",
+          "link": "https://timesofindia.indiatimes.com/city/allahabad/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "publishedOn": "2022-10-01T00:56:13.000Z",
+          "wordCount": 5302,
+          "title": "No HC relief for ex-Union minister Chinmayanand Saraswati in rape case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573591,width-1070,height-580,imgsize-27764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
           "author": null,
@@ -27205,6 +27470,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-fourth-round-of-missile-tests-in-one-week/articleshow/94574216.cms",
+          "author": null,
+          "description": "North Korea on Saturday fired two short-range ballistic missiles toward its eastern waters, South Korean and Japanese officials said, making it the North's fourth round of weapons launches this week that are seen as a response to military drills among its rivals.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-fourth-round-of-missile-tests-in-one-week/articleshow/94574216.cms",
+          "publishedOn": "2022-10-01T02:09:09.000Z",
+          "wordCount": 9914,
+          "title": "North Korea fires fourth round of missile tests in one week",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94574230,width-1070,height-580,imgsize-69196,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-soldiers-announce-overthrow-of-military-government/articleshow/94574140.cms",
+          "author": null,
+          "description": "Armed soldiers in fatigues and masks appeared on television in Burkina Faso on Friday night to confirm the ouster of President Paul-Henri Damiba, the second coup in the troubled West African country this year.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-soldiers-announce-overthrow-of-military-government/articleshow/94574140.cms",
+          "publishedOn": "2022-10-01T01:59:49.000Z",
+          "wordCount": 9333,
+          "title": "Burkina Faso soldiers announce overthrow of military government",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94574170,width-1070,height-580,imgsize-43330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/india-abstains-russia-vetoes-on-draft-unsc-resolution-condemning-illegal-referenda-and-annexation-of-four-ukrainian-territories/articleshow/94572269.cms",
           "author": null,
           "description": "India abstained on a draft resolution tabled in the UN Security Council by the US and Albania that condemns Russia's \"illegal referenda\" and annexation of four Ukrainian territories and requires that Moscow withdraw troops from Ukraine immediately. The resolution failed to get adopted as Russia vetoed it.",
@@ -29039,6 +29324,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94567621.cms",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94567621.cms",
+          "publishedOn": "2022-10-01T03:44:39.000Z",
+          "wordCount": 4927,
+          "title": "Times Top10: A train to compete with planes?",
+          "imageUrl": "https://static.toiimg.com/photo/64683779.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-abstains-on-unsc-resolution-condemning-russian-annexation-of-ukrainian-regions/articleshow/94575345.cms",
+          "author": null,
+          "description": "India abstained a UNSC resolution introduced by the United States and Albania condemning Moscow's proclaimed annexation of parts of Ukraine, citing the \"totality of the evolving situation” as the reason for abstention. The resolution failed to get adopted as Russia, as expected, vetoed it. It was supported by 10 of the 15 members of the Council. China, Gabon and Brazil were the other countries that abstained.",
+          "link": "https://timesofindia.indiatimes.com/india/india-abstains-on-unsc-resolution-condemning-russian-annexation-of-ukrainian-regions/articleshow/94575345.cms",
+          "publishedOn": "2022-10-01T03:16:03.000Z",
+          "wordCount": 6890,
+          "title": "India abstains on UNSC resolution condemning Russian annexation of Ukrainian regions",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94575412,width-1070,height-580,imgsize-1912540,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-indian-pacers-look-to-impress-in-jasprit-bumrahs-absence-as-aca-gears-up-for-2nd-t20i/articleshow/94574655.cms",
+          "author": null,
+          "description": "A day after India’s leading bowler Jasprit Bumrah was ruled out of the remaining two matches of the T20I series against visiting South Africa, his replacement Mohammed Siraj, along with senior pacer Umesh Yadav, bowled their hearts out at Barsapara Cricket Stadium in Guwahati ahead of the second match on Sunday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-indian-pacers-look-to-impress-in-jasprit-bumrahs-absence-as-aca-gears-up-for-2nd-t20i/articleshow/94574655.cms",
+          "publishedOn": "2022-10-01T02:56:14.000Z",
+          "wordCount": 6534,
+          "title": "2nd T20I: Indian pacers look to impress in Bumrah's absence",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94574981,width-1070,height-580,imgsize-23284,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Setting an example, Prime Minister Narendra Modi excused from delivering his speech at a public gathering at Abu Road citing no loudspeaker ru.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "publishedOn": "2022-10-01T01:29:27.000Z",
+          "wordCount": 5465,
+          "title": "Jaipur: PM ditches mic, follows 10pm loudspeaker norm",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573876,width-1070,height-580,imgsize-52534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
           "author": null,
           "description": "The Allahabad HC on Friday refused to set aside the decision of a lower court in Shahjahanpur, which had declined to grant permission to the state government for the withdrawal of alleged rape case pending against ex-Union minister Swami Chinmayanand Saraswati.",
@@ -29047,6 +29372,16 @@
           "wordCount": 5302,
           "title": "No HC relief for ex-Union mantri in rape case",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94573591,width-1070,height-580,imgsize-27764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms",
+          "author": null,
+          "description": "'Aasha' may be the first to give birth to hope of a new cheetah population in India after over seven decades.",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms",
+          "publishedOn": "2022-10-01T00:42:01.000Z",
+          "wordCount": 6542,
+          "title": "‘Aasha’ pregnant, India may see birth of cheetah, a first in 70yrs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573475,width-1070,height-580,imgsize-931273,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-be-second-dalit-congress-chief-after-jagjivan-ram/articleshow/94573181.cms",
@@ -29117,6 +29452,16 @@
           "wordCount": 6081,
           "title": "SC: Preventive detention invalid if order is delayed",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94572868,width-1070,height-580,imgsize-61556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms",
+          "author": null,
+          "description": "The Juvenile Justice Board gave its consent to prosecute four of the five minors accused in the Jubilee Hills gang rape as adults. The exception is an MLA's son.",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms",
+          "publishedOn": "2022-09-30T22:34:24.000Z",
+          "wordCount": 5880,
+          "title": "4 minors in Hyderabad gangrape case to be tried as adults",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94574183,width-1070,height-580,imgsize-662386,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/four-minors-in-hyderabad-gangrape-case-to-be-tried-as-adults/articleshow/94572812.cms",
@@ -29209,6 +29554,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94571751,width-1070,height-580,imgsize-95764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://photogallery.indiatimes.com/etimestrendsetters-asha-parekh-oozes-glamour-in-simple-traditional-sartorial-these-photos-capture-her-timeless-style/articleshow/86618680.cms?ref=toi",
+          "author": null,
+          "description": "The veteran actress Asha Parekh made her way into our hearts at the age of 16. Ever since then, she has been the timeless diva whose beauty and elegance stand unmatchable. Not only did she serve impressive on-screen roles but even made some iconic style statements that are a rage in fashion. Most of her sartorial choices would be all things traditional, but she pulled off those outfits so elegantly that it added a sensational touch of modernity— something only she mastered. It goes without a doubt that Asha Parekh is a trendsetter who introduced different styles that ooze sophistication. Here, we take a look at the vintage photos that capture her timeless fashion.",
+          "link": "https://photogallery.indiatimes.com/etimestrendsetters-asha-parekh-oozes-glamour-in-simple-traditional-sartorial-these-photos-capture-her-timeless-style/articleshow/86618680.cms?ref=toi",
+          "publishedOn": "2022-09-30T17:58:51.000Z",
+          "wordCount": 9436,
+          "title": "Asha Parekh oozes glamour in simple traditional sartorial",
+          "imageUrl": "https://static.toiimg.com/photo/86618707.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/business/india-business/cng-png-rates-to-jump-as-gas-prices-raised-40-to-8-5-per-unit/articleshow/94569563.cms",
           "author": null,
           "description": "India Business News: NEW DELHI: CNG and PNG will become costlier and input cost for fertiliser manufacturers will rise sharply as the government on Friday raised the price.",
@@ -29267,6 +29622,16 @@
           "wordCount": 9860,
           "title": "Happy Durga Puja 2022: Wishes, messages, quotes",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94562914,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-103806/94562914.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/68th-national-film-awards-2022-s-thaman-sandhya-raju-sandeep-raj-sai-rajesh-neelam-and-tv-rambabu-receive-top-honours/articleshow/94566295.cms",
+          "author": null,
+          "description": "President of India Droupadi Murmu honoured the winners of the 68th National Film Awards at a ceremony held in New Delhi’s Vigyan Bhavan. Union Minister for Information and Broadcasting Shri Anurag Singh Thakur also attended the ceremony, which saw the who’s who of the entertainment industry receive the prestigious honour. The awards included the 52nd Dadasaheb Phalke Award, which was presented to Asha Parekh. She was honoured with the prestigious award for her contribution to the Indian cinema in the ceremony today.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/68th-national-film-awards-2022-s-thaman-sandhya-raju-sandeep-raj-sai-rajesh-neelam-and-tv-rambabu-receive-top-honours/articleshow/94566295.cms",
+          "publishedOn": "2022-09-30T14:07:07.000Z",
+          "wordCount": 9254,
+          "title": "68th National Film Awards 2022: Artists who received top honours",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94566604,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-109400/94566604.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-updates-pakistan-vs-england-2022-6th-t20i/liveblog/94566428.cms",
@@ -29437,6 +29802,16 @@
           "wordCount": 6283,
           "title": "'Over 1 cr vehicles ready for scrapping, carmakers should also invest in it'",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94560857,width-1070,height-580,imgsize-48868,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/5g-services-to-roll-out-in-india-on-october-1-likely-tariffs-availability-and-more/articleshow/94560027.cms",
+          "author": null,
+          "description": "Prime Minister Narendra Modi will launch 5G services on Saturday at the sixth edition of Indian Mobile Congress (IMC 2022) 10am scheduled to be held in Pragati Maidan, New Delhi. 5G technology promises to offer seamless coverage, high data rate, low latency, and reliable communications to mobile users in India. Two of the biggest telecom service providers in the country Airtel and Reliance Jio have announced that they will start 5G services this year.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/5g-services-to-roll-out-in-india-on-october-1-likely-tariffs-availability-and-more/articleshow/94560027.cms",
+          "publishedOn": "2022-09-30T10:53:16.000Z",
+          "wordCount": 7176,
+          "title": "5G telecom services to roll out in India today",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94560142,width-1070,height-580,imgsize-19562,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/videos/online-schooling/online-school-vs-physical-school-which-learning-model-should-you-choose/videoshow/94528693.cms",
