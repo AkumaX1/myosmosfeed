@@ -2179,6 +2179,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/briefing/making-friends.html",
+          "author": "Melissa Kirsch",
+          "description": "A psychologist and friendship expert has advice for how to make friends as an adult.",
+          "link": "https://www.nytimes.com/2022/10/01/briefing/making-friends.html",
+          "publishedOn": "2022-10-01T10:23:45.000Z",
+          "wordCount": null,
+          "title": "Making Friends",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/us/florida-water-hurricane-ian.html",
+          "author": "Campbell Robertson and Richard Fausset",
+          "description": "The worst trouble was in Lee County, where a badly damaged water system was affecting a population of nearly 760,000 people.",
+          "link": "https://www.nytimes.com/2022/10/01/us/florida-water-hurricane-ian.html",
+          "publishedOn": "2022-10-01T09:07:27.000Z",
+          "wordCount": null,
+          "title": "Another Challenge for Hardest-Hit Parts of Florida: Finding Clean Drinking Water",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html",
           "author": "Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri",
           "description": "The recent flooding has plunged small farmers in sharecropping arrangements further into debt with their landlords — a cycle that has worsened as extreme weather events become increasingly common.",
@@ -2889,6 +2909,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/30/style/sneakers-botter-paris-fashion-week.html",
+          "author": "Jessica Testa",
+          "description": "Thinking about oceans of plastic at Paris Fashion Week.",
+          "link": "https://www.nytimes.com/2022/09/30/style/sneakers-botter-paris-fashion-week.html",
+          "publishedOn": "2022-09-30T08:27:46.000Z",
+          "wordCount": null,
+          "title": "A Sneaker With a Built-In Puddle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/arts/television/daily-show-trevor-noah-leaving.html",
           "author": "Trish Bendix",
           "description": "“It’s not instant. I’m not disappearing. Don’t worry. If I owe you money, I’ll still pay you,” Noah joked.",
@@ -2966,6 +2996,16 @@
           "publishedOn": "2022-09-29T23:18:23.000Z",
           "wordCount": null,
           "title": "Putin to Announce Ukraine Annexation Plans on Friday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-callout.html",
+          "author": "The New York Times",
+          "description": "We want to hear from you.",
+          "link": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-callout.html",
+          "publishedOn": "2022-09-29T23:11:23.000Z",
+          "wordCount": null,
+          "title": "Did Your Home Security Camera Document Hurricane Ian?",
           "imageUrl": null
         },
         {
@@ -15160,6 +15200,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/10/1/23378515/uk-financial-crisis-pound-truss",
+          "author": null,
+          "description": "People walk past a sign that shows the exchange rate in London on September 27. | Frank Augstein/AP\n    \n\n  \nNew UK Prime Minister Liz Truss introduced a massive tax cut package — and triggered a currency crisis. \n This week, the UK had its most dramatic currency crisis in recent memory. That’s on top of staggering inflation that the Bank of England has yet to significantly curb and a cost-of-living crisis. The situation in the UK sent global financial markets into a tailspin. Though the present crisis has been driven by a combination of factors, including the economic fallout of Brexit, Prime Minister Liz Truss’s recent package of tax cuts has helped push the UK’s economy into chaos. \nOn September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduced the UK’s biggest tax cut…",
+          "link": "https://www.vox.com/policy-and-politics/2022/10/1/23378515/uk-financial-crisis-pound-truss",
+          "publishedOn": "2022-10-01T11:00:00.000Z",
+          "wordCount": 3953,
+          "title": "The UK’s growing economic crisis, explained",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/f5bU0XgiV6aqtJ7kdpIrjwI2Z_A=/0x411:3900x2453/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24070036/AP22270373827713a.jpg"
+        },
+        {
           "id": "https://www.vox.com/world/2022/9/30/23380082/putin-ukraine-annexation-russia-nuclear-threats",
           "author": null,
           "description": "Russian President Vladimir Putin, center, joins hands with Moscow-appointed heads of four Ukrainian regions, from left, Vladimir Saldo of Kherson, Yevgeny Balitsky of Zaporizhzhia, Denis Pushilin of Donetsk, and Leonid Pasechnik of Lugansk, at the Grand Kremlin Palace in Moscow on September 30, shortly after signing treaties formally annexing the four regions of Ukraine occupied by Russian troops. | Getty Images\n    \n\n  \n“These are all just gestures made out of weakness because he’s losing on the ground.”\n On Friday, Russian President Vladimir Putin formally declared four regions of Ukraine as part of Russia following sham referendums this week in eastern and southern Ukraine. Putin made the illegal decree as he lobbed even more threats against the United States and its allies, another pot…",
@@ -20369,6 +20419,16 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/my-hero-academia-tv-anime-leans-into-its-comic-roots-in-season-6-opening-theme-song-video",
+          "author": "Daryl Harding",
+          "description": "Both the opening and ending for season six have been released creditless\n\n\n A new season of My Hero Academia brings a new opening and ending theme song videos, both of which were released shortly after the airing of the new episode without credits on Toho Animation's YouTube Channel. You can catch both of them past the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01-1/my-hero-academia-tv-anime-leans-into-its-comic-roots-in-season-6-opening-theme-song-video",
+          "publishedOn": "2022-10-01T10:10:06.000Z",
+          "wordCount": 5919,
+          "title": "My Hero Academia TV Anime Leans Into Its Comic Roots in Season 6 Opening Theme Song Video",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/190a1cdc9eaff52243ae9c6404eedad21664618992_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/09/30-1/liella-member-liyuu-posts-more-than-a-married-couple-but-not-lovers-tv-anime-opening-theme-mv",
           "author": "Mikikazu Komatsu",
           "description": "Her 3rd single \"TRUE FOOL LOVE\" hits stores November 2\n\n\nChinese cosplayer/singer/voice actress Liyuu has posted a full music video for her third single song \"TRUE FOOL LOVE\" on YouTube, which will be featured as the opening theme song for the fall 2022 TV anime More Than a Married Couple, But Not Lovers. Watch her cute performance after the jump!",
@@ -22095,6 +22155,16 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/sci-tech/health/ebola-kills-doctor-in-uganda-first-health-worker-killed-in-latest-outbreak/article65958634.ece",
+          "author": "Reuters",
+          "description": "There is no vaccine for the Sudanese strain of Ebola, which mainly spreads through contact with the bodily fluids of an infected person",
+          "link": "https://www.thehindu.com/sci-tech/health/ebola-kills-doctor-in-uganda-first-health-worker-killed-in-latest-outbreak/article65958634.ece",
+          "publishedOn": "2022-10-01T10:46:05.000Z",
+          "wordCount": 6097,
+          "title": "Ebola kills doctor in Uganda, first health worker killed in latest outbreak",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/qc8e2w/article65958646.ece/alternates/LANDSCAPE_615/_126900026_gettyimages-1243482827afp976.jpeg"
+        },
         {
           "id": "https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece",
           "author": "AP",
@@ -29733,6 +29803,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-pictures-from-richa-chadha-and-ali-fazals-phool-haldi-and-sangeet-ceremonies-go-viral-on-the-internet/articleshow/94583537.cms",
+          "author": null,
+          "description": "Richa Chadha and Ali Fazal's wedding festivity has begun and pictures from their many ceremonies are taking over the internet. Ahead of their wedding on October 6, the couple hosted a phool haldi, mehendi and sangeet ceremony in Delhi. For the occasion, Richa decked up in a stunning pink embroidered lehenga while Ali Fazal looked suave in a white angrakha.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-pictures-from-richa-chadha-and-ali-fazals-phool-haldi-and-sangeet-ceremonies-go-viral-on-the-internet/articleshow/94583537.cms",
+          "publishedOn": "2022-10-01T10:40:37.000Z",
+          "wordCount": 8961,
+          "title": "Inside pics from Richa Chadha and Ali Fazal's sangeet ceremony",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94583615,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-208990/94583615.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/football/epl/epl-match-arsenal-vs-tottenham-hotspur-premier-league-live-updates/liveblog/94582970.cms",
+          "author": null,
+          "description": "The north London derby kicks off a seven-game lineup in the Premier League. Surprise leaders Arsenal host Tottenham Hotspur at Emirates Stadium. The Gunners have won six of seven games to sit one point ahead of defending champions Manchester City and Tottenham, the league’s only two unbeaten sides.",
+          "link": "https://timesofindia.indiatimes.com/sports/football/epl/epl-match-arsenal-vs-tottenham-hotspur-premier-league-live-updates/liveblog/94582970.cms",
+          "publishedOn": "2022-10-01T10:12:18.000Z",
+          "wordCount": 10560,
+          "title": "EPL Live: Arsenal vs Tottenham Hotspur",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94582970,width-1070,height-580,imgsize-19838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://beautypageants.indiatimes.com/miss-india/ruhii-siingh-is-all-set-to-make-her-hollywood-debut/articleshow/94581866.cms",
+          "author": null,
+          "description": "",
+          "link": "https://beautypageants.indiatimes.com/miss-india/ruhii-siingh-is-all-set-to-make-her-hollywood-debut/articleshow/94581866.cms",
+          "publishedOn": "2022-10-01T10:10:12.000Z",
+          "wordCount": 5796,
+          "title": "Ruhii Siingh is all set to make her Hollywood debut",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94581881,width-1070,height-580,resizemode-75,imgsize-67404,pt-32,y_pad-40/94581881.jpg"
+        },
         {
           "id": "https://bit.ly/3rmD693",
           "author": null,
