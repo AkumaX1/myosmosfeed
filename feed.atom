@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T13:34:56.507Z</updated>
+    <updated>2022-10-01T14:12:42.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On smartphone cameras, the Seattle Mariners, and disappointment]]></title>
+        <id>https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom</id>
+        <link href="https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom"/>
+        <updated>2022-10-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The iPhone 14 Pro has one of the best smartphone camera systems money can buy, but it still has its limitations. | Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+There’s the smell of sizzling sausage, car exhaust, and late-season playoff hopes in the air on Tuesday night as I cross the street toward the stadium. I’m carrying a neon green Mariners fanny pack across my chest (that’s how the kids are wearing them, right?!?) loaded with the essentials: my ID, Kleenex, a Samsung Galaxy S22 Ultra, and an iPhone 14 Pro. The roof of T-Mobile Park hangs open over the adjacent railway, looming like the Death Star, and I head toward an entrance with a few things on my agenda, in no particular order:
+Cheer on the Mariners as they definitely hopefully please dear god end a 20-year playoff drought…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farruko on God, Fame, and Life After ‘Pepas’]]></title>
+        <id>https://www.rollingstone.com/?p=1234594021</id>
+        <link href="https://www.rollingstone.com/music/music-latin/farruko-pepas-god-new-music-1234594021/"/>
+        <updated>2022-10-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Puerto Rican star opens up about why he traded his partying lifestyle for a controversial new spiritual chapter]]></summary>
+        <author>
+            <name>Steven Pearl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Life 2’s Excellent VR Mod Is Almost Too Good To Be True]]></title>
+        <id>1849603782</id>
+        <link href="https://kotaku.com/half-life-2-vr-mod-alyx-pc-valve-steam-gordon-freeman-1849603782"/>
+        <updated>2022-10-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As of last week, a long-held dream of playing Valve’s landmark 2004 shooter Half-Life 2 in virtual reality has finally come to fruition. The journey began nearly 10 years ago, when a man named Nathan Andrews managed to hack together a functioning version of the all-time classic in VR. This was before any Vives,…
+Read more...]]></summary>
+        <author>
+            <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistan floods’ death toll nears 1,700, puts pressure on fragile economy]]></title>
+        <id>https://www.thehindu.com/news/international/pakistan-floods-death-toll-nears-1700-puts-pressure-on-fragile-economy/article65959347.ece</id>
+        <link href="https://www.thehindu.com/news/international/pakistan-floods-death-toll-nears-1700-puts-pressure-on-fragile-economy/article65959347.ece"/>
+        <updated>2022-10-01T13:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Inflation in Pakistan reaches 27%]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prashant Kishor to embark on 3,500-km 'padyatra' in Bihar from Sunday]]></title>
+        <id>https://timesofindia.indiatimes.com/india/prashant-kishor-to-embark-on-3500-km-padyatra-in-bihar-from-sunday/articleshow/94587766.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/prashant-kishor-to-embark-on-3500-km-padyatra-in-bihar-from-sunday/articleshow/94587766.cms"/>
+        <updated>2022-10-01T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Political strategist Prashant Kishor will embark on a 3,500 km 'padyatra' in Bihar from West Champaran district on Mahatma Gandhi's birth anniversary on Sunday as part of his 'Jan Suraj' campaign.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Life Sim Where You Mix Potions For Townsfolk And Healthcare Doesn't Blow]]></title>
+        <id>1849604141</id>
+        <link href="https://kotaku.com/potion-permit-rpg-life-sim-pc-switch-masshivemedia-1849604141"/>
+        <updated>2022-10-01T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Read more...]]></summary>
+        <author>
+            <name>Eric Schulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPL: Arsenal stay top with derby win as Tottenham self-destruct]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-arsenal-stay-top-with-derby-win-as-tottenham-self-destruct/articleshow/94587339.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-arsenal-stay-top-with-derby-win-as-tottenham-self-destruct/articleshow/94587339.cms"/>
+        <updated>2022-10-01T13:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Arsenal meted out their usual punishment to north London rivals Tottenham Hotspur at the Emirates Stadium with goals by Thomas Partey, Gabriel Jesus and Granit Xhaka sealing a 3-1 win to keep them top of the Premier League on Saturday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turkey renews threat to block Swedish, Finnish NATO bids]]></title>
         <id>https://www.thehindu.com/news/international/turkey-renews-threat-to-block-swedish-finnish-nato-bids/article65959235.ece</id>

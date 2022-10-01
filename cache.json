@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom",
+          "author": null,
+          "description": "The iPhone 14 Pro has one of the best smartphone camera systems money can buy, but it still has its limitations. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nThere’s the smell of sizzling sausage, car exhaust, and late-season playoff hopes in the air on Tuesday night as I cross the street toward the stadium. I’m carrying a neon green Mariners fanny pack across my chest (that’s how the kids are wearing them, right?!?) loaded with the essentials: my ID, Kleenex, a Samsung Galaxy S22 Ultra, and an iPhone 14 Pro. The roof of T-Mobile Park hangs open over the adjacent railway, looming like the Death Star, and I head toward an entrance with a few things on my agenda, in no particular order:\nCheer on the Mariners as they definitely hopefully please dear god end a 20-year playoff drought…",
+          "link": "https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom",
+          "publishedOn": "2022-10-01T14:00:00.000Z",
+          "wordCount": 10400,
+          "title": "On smartphone cameras, the Seattle Mariners, and disappointment",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/hmMoP0A1N3etZo3j6n6Bd3Ovz0Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020043/226270_iPHONE_14_PHO_akrales_0754.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/1/23380726/eufy-dual-video-doorbell-ring-amazon-echo-show-5-fire-tv-cube-deal-sale",
           "author": null,
           "description": "The Eufy Dual utilizes a second lens, aimed downward, for watching over packages. | Photo by Jennifer Pattison Tuohy / The Verge\n    \n\n  \nIt’s the first of October, which means it’s officially Spooky Season. And while I’m sure all of us are excited to put up our fearsome 12-foot skeletons, there’s nothing fun about the fear of having a package stolen off your porch. A video doorbell is a good way to keep a watchful eye over your front stoop.\nThe wired version of the Eufy Dual video doorbell is on sale at Amazon or direct from Eufy for $149.99 ($50 off). Amazon requires you to click the $50 on-page coupon, while Eufy has a coupon code of WSCP856PGC to use at checkout for the discounted price. The appeal of the Eufy is that it has two separate lenses, one for seeing who is at your door and o…",
@@ -8287,6 +8297,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234594021",
+          "author": "Steven Pearl",
+          "description": "The Puerto Rican star opens up about why he traded his partying lifestyle for a controversial new spiritual chapter",
+          "link": "https://www.rollingstone.com/music/music-latin/farruko-pepas-god-new-music-1234594021/",
+          "publishedOn": "2022-10-01T14:00:00.000Z",
+          "wordCount": 9058,
+          "title": "Farruko on God, Fame, and Life After ‘Pepas’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Farruko_Rolling-Stone_Báez-4.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603174",
           "author": "Joseph Hudak",
           "description": "After singer Gord Downie's death in 2017, his bandmates have rarely appeared together in public; they performed for Buffy Sainte-Marie earlier this month",
@@ -15882,6 +15902,26 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849603782",
+          "author": "Claire Jackson",
+          "description": "As of last week, a long-held dream of playing Valve’s landmark 2004 shooter Half-Life 2 in virtual reality has finally come to fruition. The journey began nearly 10 years ago, when a man named Nathan Andrews managed to hack together a functioning version of the all-time classic in VR. This was before any Vives,…\nRead more...",
+          "link": "https://kotaku.com/half-life-2-vr-mod-alyx-pc-valve-steam-gordon-freeman-1849603782",
+          "publishedOn": "2022-10-01T14:00:00.000Z",
+          "wordCount": 7957,
+          "title": "Half-Life 2’s Excellent VR Mod Is Almost Too Good To Be True",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/247cf4b8875d33685bfb5fe15c9cbfb0.jpg"
+        },
+        {
+          "id": "1849604141",
+          "author": "Eric Schulkin",
+          "description": "Read more...",
+          "link": "https://kotaku.com/potion-permit-rpg-life-sim-pc-switch-masshivemedia-1849604141",
+          "publishedOn": "2022-10-01T13:45:00.000Z",
+          "wordCount": 4453,
+          "title": "A Life Sim Where You Mix Potions For Townsfolk And Healthcare Doesn't Blow",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28a5e615d027170efcc79d9d2f926e88.jpg"
+        },
+        {
           "id": "1849604584",
           "author": "Ethan Gach",
           "description": "In a past life, Frances Townsend defended the legal basis for the torture method called waterboarding during George W. Bush’s war on terror. In a more recent one, she helped lead Activision Blizzard’s initially tone-deaf response to a major sexual harassment lawsuit by the state of California. Now she’s stepping down…\nRead more...",
@@ -22311,6 +22351,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/pakistan-floods-death-toll-nears-1700-puts-pressure-on-fragile-economy/article65959347.ece",
+          "author": "PTI",
+          "description": "Inflation in Pakistan reaches 27%",
+          "link": "https://www.thehindu.com/news/international/pakistan-floods-death-toll-nears-1700-puts-pressure-on-fragile-economy/article65959347.ece",
+          "publishedOn": "2022-10-01T13:59:58.000Z",
+          "wordCount": 6565,
+          "title": "Pakistan floods’ death toll nears 1,700, puts pressure on fragile economy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/9urq84/article65959414.ece/alternates/LANDSCAPE_615/OECD_Economic_Instability_82750.jpg-f8ba6.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/turkey-renews-threat-to-block-swedish-finnish-nato-bids/article65959235.ece",
           "author": "AFP",
           "description": "President Erdogan has accused both countries of being havens for Kurdish militants, specifically highlighting the outlawed Kurdistan Workers' Party (PKK), and for promoting \"terrorism\".",
@@ -23987,6 +24037,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/prashant-kishor-to-embark-on-3500-km-padyatra-in-bihar-from-sunday/articleshow/94587766.cms",
+          "author": null,
+          "description": "Political strategist Prashant Kishor will embark on a 3,500 km 'padyatra' in Bihar from West Champaran district on Mahatma Gandhi's birth anniversary on Sunday as part of his 'Jan Suraj' campaign.",
+          "link": "https://timesofindia.indiatimes.com/india/prashant-kishor-to-embark-on-3500-km-padyatra-in-bihar-from-sunday/articleshow/94587766.cms",
+          "publishedOn": "2022-10-01T13:56:17.000Z",
+          "wordCount": 5688,
+          "title": "Prashant Kishor to embark on 3,500-km 'padyatra' in Bihar from Sunday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94587774,width-1070,height-580,imgsize-41074,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/s-p-dharkar-new-chief-of-iaf-eastern-air-command/articleshow/94586051.cms",
           "author": null,
@@ -30058,6 +30118,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-arsenal-stay-top-with-derby-win-as-tottenham-self-destruct/articleshow/94587339.cms",
+          "author": null,
+          "description": "Arsenal meted out their usual punishment to north London rivals Tottenham Hotspur at the Emirates Stadium with goals by Thomas Partey, Gabriel Jesus and Granit Xhaka sealing a 3-1 win to keep them top of the Premier League on Saturday.",
+          "link": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/epl-arsenal-stay-top-with-derby-win-as-tottenham-self-destruct/articleshow/94587339.cms",
+          "publishedOn": "2022-10-01T13:36:11.000Z",
+          "wordCount": 5711,
+          "title": "EPL: Arsenal stay top with derby win as Tottenham self-destruct",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94587363,width-1070,height-580,imgsize-95292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indiat20-world-cup/wont-go-deep-in-medical-reports-will-wait-for-official-confirmation-rahul-dravid-on-jasprit-bumrah/articleshow/94587100.cms",
           "author": null,
