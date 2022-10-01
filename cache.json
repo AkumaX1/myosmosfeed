@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november",
+          "author": null,
+          "description": "NASA called off last week’s Artemis I launch due to Hurricane Ian. | Photo by CHANDAN KHANNA/AFP via Getty Images\n    \n\n  \nThe long-anticipated launch of NASA’s Space Launch System (SLS) rocket has been pushed back to mid-November after NASA waved off its September 27th launch plans in the wake of Hurricane Ian (via Space.com). The space agency announced on Friday that it’s aiming to squeeze in the Artemis I launch between November 12th and November 27th.\nWhile there was initially a slight chance that NASA’s next launch attempt could take place in October, that was ultimately scrapped after NASA decided to roll the rocket back to the Vehicle Assembly Building (VAB) to shield it from the storm. NASA successfully secured the rocket on Tuesday after an hours-long trek to the VAB.\nHurricane Ian made landfall in Florida as a Category 4 hurricane, but weakened into a tropical storm by the time it reached the Kennedy Space Center on Thursday. NASA says “there was no damage to Artemis flight hardware,” and that its facilities only suffered “minor water intrusion.”\nNASA’s Artemis I launch will send an uncrewed Orion capsule on a journey around the Moon, paving the way for future missions that will bring the first woman and person of color to the lunar surface. The agency’s first launch attempt was cut short after the rocket experienced engine issues, while its second was marred by a “large” leak that occurred when engineers filled up the rocket with chilled liquid hydrogen fuel.\nSubsequent testing of the rocket’s fueling system showed that the leak was still present, but at a more “manageable” level. Now that the rocket’s back at the VAB, NASA says it will “prepare for additional inspections” and retest the Flight Termination System, which the Space Force uses to destroy the rocket if it goes off course.",
+          "link": "https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november",
+          "publishedOn": "2022-10-01T22:05:11.000Z",
+          "wordCount": 7828,
+          "title": "NASA’s Artemis I launch has officially been delayed until November",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2b8sA7ICPFdnCcB3-U5kRkV8uz4=/0x0:3900x2600/1200x628/filters:focal(1163x1284:1164x1285)/cdn.vox-cdn.com/uploads/chorus_asset/file/24072016/1242985042.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming",
           "author": null,
           "description": "Alex Castro / The Verge\n    \n\n  \nDish and its Sling TV streaming service have dropped Disney’s package of channels after the companies couldn’t come to a contract agreement (via Deadline). In an announcement on its site, Dish says the Disney Channel, ESPN, FX, Freeform, National Geographic, and some local ABC networks are no longer available on its services after its contract expired early this morning.\nDish blames the dispute on Disney, claiming the company demanded a $1 billion fee increase and “walked away from the negotiation table.” The satellite provider adds that Disney wanted Dish to include ESPN, ESPN2, and local ABC channels at an added cost in packages that don’t carry them.\nOur contract has expired with The Walt Disney Company.  Our goal and priority is to reach a fair agreemen…",
@@ -2228,6 +2238,36 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/01/us/venezuela-iran-prisoner-swap.html",
+          "author": "Michael D. Shear and Farnaz Fassihi",
+          "description": "Caracas let go seven Americans in a trade for two nephews of Venezuela’s first lady who had been convicted on drug charges. Separately, Tehran freed its longest-held American prisoner.",
+          "link": "https://www.nytimes.com/2022/10/01/us/venezuela-iran-prisoner-swap.html",
+          "publishedOn": "2022-10-01T21:58:07.000Z",
+          "wordCount": null,
+          "title": "American Prisoners Are Released From Venezuela and Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/us/port-charlotte-florida-gas-lines-ian.html",
+          "author": "Nicholas Bogel-Burroughs",
+          "description": "At one station, in Port Charlotte, cars stretched for over a mile, while hundreds of others in need carried cans. And lawn chairs.",
+          "link": "https://www.nytimes.com/2022/10/01/us/port-charlotte-florida-gas-lines-ian.html",
+          "publishedOn": "2022-10-01T21:34:57.000Z",
+          "wordCount": null,
+          "title": "Some Florida Residents Face Long Gas Lines After Hurricane Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/us/politics/trump-white-house-records-national-archives.html",
+          "author": "Luke Broadwater",
+          "description": "The archives said in a letter to the House Oversight Committee that it was seeking electronic messages from unnamed White House officials sent through personal accounts.",
+          "link": "https://www.nytimes.com/2022/10/01/us/politics/trump-white-house-records-national-archives.html",
+          "publishedOn": "2022-10-01T21:03:24.000Z",
+          "wordCount": null,
+          "title": "Records From Trump White House Still Missing, National Archives Says",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html",
           "author": "Camila Falquez and Isvett Verde",
@@ -8457,6 +8497,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234603688",
+          "author": "Althea Legaspi",
+          "description": "Rapper told K[no]w Mercy host Stephen A. Smith that the LP will arrive in November",
+          "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-dr-dre-missionary-album-1234603688/",
+          "publishedOn": "2022-10-01T21:51:55.000Z",
+          "wordCount": 7151,
+          "title": "Snoop Dogg, Dr. Dre Reteam for Upcoming Album, ‘Missionary’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/SnoopDogg.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603316",
           "author": "Brian Hiattt",
           "description": "We examine the rise of Ice Spice's 'Munch,' look back at Coolio's life and music, and dig into a new book on Pearl Jam – all in the new episode of Rolling Stone Music Now",
@@ -10200,6 +10250,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2416156",
+          "author": "Manish Singh",
+          "description": "Telegram has cut the monthly subscription fee for its premium tier by more than half in India, just months after introducing the offering as it attempts to aggressively cash in on a large user base in one of its biggest markets. In a message to users in India on Saturday, Telegram said it was making […]\nTelegram cuts subscription fee by more than half in India by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/telegram-premium-india-price-change/",
+          "publishedOn": "2022-10-01T21:57:10.000Z",
+          "wordCount": 7294,
+          "title": "Telegram cuts subscription fee by more than half in India",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1229893791.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2415055",
           "author": "Greg Kumparak",
@@ -13437,6 +13497,21 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "akenqb",
+          "author": "Annabel Gat",
+          "description": "The moon enters Capricorn and Mercury retrograde ends.",
+          "link": "https://www.vice.com/en_us/article/akenqb/daily-horoscope-october-2-2022",
+          "publishedOn": "2022-10-01T21:00:00.000Z",
+          "wordCount": 4466,
+          "title": "Daily Horoscope: October 2, 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63386085ac70f9009bb6e14f/lede/1664639126837-7libradaily61920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63386085ac70f9009bb6e14f/lede/1664639126837-7libradaily61920x1080.jpeg"
+        },
         {
           "id": "k7bnyz",
           "author": "Annabel Gat",
@@ -18883,6 +18958,16 @@
           "imageUrl": "https://assets-prd.ignimgs.com/2022/08/12/whereisxurindestiny2weekofaugust1216-36190303-xurthumbnailtower-1660333949126.jpg?width=1280"
         },
         {
+          "id": "84130d61-b83f-4a2b-8f69-68f37b942a4f",
+          "author": "Ryan Leston",
+          "description": "Project U, the newly-announced co-op shooter from Ubisoft, is accepting registrations for its upcoming closed playtests.",
+          "link": "https://www.ign.com/articles/ubisoft-announces-playtests-for-a-new-co-op-shooter-project-u",
+          "publishedOn": "2022-09-30T17:43:13.000Z",
+          "wordCount": 11208,
+          "title": "Ubisoft Announces Playtests for a New Co-Op Shooter, Project U",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/30/project-u-1664558102472.jpg?width=1280"
+        },
+        {
           "id": "d5558f8d-2f7c-4fc9-85d9-8977e8480096",
           "author": "Ryan McCaffrey",
           "description": "",
@@ -23041,6 +23126,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/protesters-attack-french-embassy-in-burkina-faso-after-coup/article65960585.ece",
+          "author": "AP",
+          "description": "Protesters in Burkina Faso's capital have attacked the French Embassy after the military junta in charge accused France of sheltering the ousted interim president",
+          "link": "https://www.thehindu.com/news/international/protesters-attack-french-embassy-in-burkina-faso-after-coup/article65960585.ece",
+          "publishedOn": "2022-10-01T21:18:50.000Z",
+          "wordCount": 6732,
+          "title": "Protesters attack French Embassy in Burkina Faso after coup",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6l4zef/article65960594.ece/alternates/LANDSCAPE_615/2022-10-01T204629Z_1512136996_RC2ISW9545SK_RTRMADP_3_BURKINA-SECURITY-COUP-LEADER.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/arrest-warrant-against-former-pakistan-pm-imran-khan-for-threatening-judge/article65960550.ece",
           "author": "PTI",
           "description": "Imran Khan said that he is \"willing to apologise\" if the judge thinks that he crossed a \"red line\"",
@@ -24777,6 +24872,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
+          "author": null,
+          "description": "While remaining \"deeply disturbed\" by the situation in Ukraine, India Friday joined China, Brazil and Gabon in abstaining from voting on a UNSC resolution which condemned \"illegal\" referendums held by Russia to annex 4 regions of Ukraine, and called upon Moscow to unconditionally withdraw troops from the country.",
+          "link": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
+          "publishedOn": "2022-10-01T21:22:43.000Z",
+          "wordCount": 6386,
+          "title": "India abstains from UNSC vote condemning Russia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591506,width-1070,height-580,imgsize-55542,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms",
           "author": null,
@@ -29065,6 +29170,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-too-abstains-from-unsc-vote-condemning-russia-actions-in-ukraine/articleshow/94591514.cms",
+          "author": null,
+          "description": "Rest of World News: NEW DELHI: India has, in all, abstained over a dozen times from voting at UNSC on resolutions condemning Russia’s actions in Ukraine in what many be s.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-too-abstains-from-unsc-vote-condemning-russia-actions-in-ukraine/articleshow/94591514.cms",
+          "publishedOn": "2022-10-01T21:36:10.000Z",
+          "wordCount": 7236,
+          "title": "Brazil too abstains from UNSC vote condemning Russia actions in Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591521,width-1070,height-580,imgsize-105048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/un-raises-kabul-classroom-bombing-death-toll-to-35-as-women-protest-genocide/articleshow/94588859.cms",
           "author": null,
           "description": "The death toll of a suicide bombing on a Kabul classroom has risen to 35, the UN said Saturday, as Shiite Hazara women who bore the brunt of the attack staged a defiant protest against the \"genocide\" of their minority community.",
@@ -30562,6 +30677,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms",
+          "author": null,
+          "description": "Officials closely monitoring the cheetah project at Kuno National Park in Madhya Pradesh say that Aasha - named by PM Narendra Modi - is exhibiting all the behavioural, physical and hormonal signs of pregnancy. \"We are excited but we'll have to wait till October-end to be sure,\" said an officer. Flown to Kuno from Namibia on September 17, she has adapted to her new home and is doing well.",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms",
+          "publishedOn": "2022-10-01T09:37:57.000Z",
+          "wordCount": 7293,
+          "title": "Madhya Pradesh: Cheetah 'Aasha' may be pregnant with hope in Kuno",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94582005,width-1070,height-580,imgsize-265606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-aishwarya-rai-abhishek-bachchan-ranbir-kapoor-alia-bhatt-when-separation-rumours-of-bollywood-couples-grabbed-eyeballs/articleshow/94563312.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-aishwarya-rai-abhishek-bachchan-ranbir-kapoor-alia-bhatt-when-separation-rumours-of-bollywood-couples-grabbed-eyeballs/articleshow/94563312.cms",
+          "publishedOn": "2022-10-01T09:30:00.000Z",
+          "wordCount": null,
+          "title": "Deepika Padukone-Ranveer Singh, Aishwarya Rai-Abhishek Bachchan, Ranbir Kapoor-Alia Bhatt: When separation rumours of Bollywood couples grabbed eyeballs",
+          "imageUrl": null
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-confirmed-list-of-contestants-on-salman-khans-reality-show/articleshow/94570574.cms",
           "author": null,
           "description": "",
@@ -30569,6 +30704,26 @@
           "publishedOn": "2022-10-01T07:30:00.000Z",
           "wordCount": null,
           "title": "Bigg Boss 16: Confirmed list of contestants on Salman Khan's reality show",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Setting an example, Prime Minister Narendra Modi excused from delivering his speech at a public gathering at Abu Road citing no loudspeaker ru.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
+          "publishedOn": "2022-10-01T03:12:11.000Z",
+          "wordCount": 5369,
+          "title": "PM Modi ditches mic, follows 10pm loudspeaker norm at Abu Road",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573876,width-1070,height-580,imgsize-52534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/articleshow/94565118.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/articleshow/94565118.cms",
+          "publishedOn": "2022-09-30T13:40:10.000Z",
+          "wordCount": null,
+          "title": "From Nikki Tamboli going to the Tihar jail to Kaveri Priyam recalling her casting couch experience; Top TV news of the week",
           "imageUrl": null
         },
         {
@@ -30800,6 +30955,16 @@
           "wordCount": 8420,
           "title": "Ankita Bhandari murder case: Uttarakhand resort a den of prostitution & drug abuse, say ex-staffers",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94471947,width-1070,height-580,imgsize-173826,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/spotlight/with-the-festive-season-right-around-the-corner-heres-why-you-must-pick-berger-paints-for-glamour-that-lasts/articleshow/94452915.cms",
+          "author": null,
+          "description": "Curated with advanced technology, Silk Glamor High Sheen gives an ultra-smooth silky finish to your walls, making way for a glamorous look that'll last for a long time. This luxury interior emulsion from Berger Paints is available in over 10000 shades and is free from added APEO, formaldehyde and is low in VOC.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/with-the-festive-season-right-around-the-corner-heres-why-you-must-pick-berger-paints-for-glamour-that-lasts/articleshow/94452915.cms",
+          "publishedOn": "2022-09-27T06:53:54.000Z",
+          "wordCount": 4215,
+          "title": "With the festive season right around the corner, here's why you must pick Berger Paints for glamour that lasts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94452868,width-1070,height-580,imgsize-152908,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-27-september-2022-check-astrological-prediction-for-virgo-libra-scorpio-sagittarius-and-other-signs/articleshow/94419835.cms",
@@ -31058,6 +31223,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
+          "author": null,
+          "description": "While remaining \"deeply disturbed\" by the situation in Ukraine, India Friday joined China, Brazil and Gabon in abstaining from voting on a UNSC resolution which condemned \"illegal\" referendums held by Russia to annex 4 regions of Ukraine, and called upon Moscow to unconditionally withdraw troops from the country.",
+          "link": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
+          "publishedOn": "2022-10-01T21:22:43.000Z",
+          "wordCount": 6386,
+          "title": "India abstains from UNSC vote condemning Russia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591506,width-1070,height-580,imgsize-55542,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/india-rings-in-new-era-enters-select-5g-club/articleshow/94591308.cms",
+          "author": null,
+          "description": "India on Saturday took a mega generational leap in mobile telephony as the ball was set rolling for the launch of 5G network with Prime Minister Narendra Modi – who inaugurated the services – promising a leg-up in economic activities and citizen empowerment through the high-speed network that boasts of minimum speeds of at least 100 Mbps.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/india-rings-in-new-era-enters-select-5g-club/articleshow/94591308.cms",
+          "publishedOn": "2022-10-01T21:06:04.000Z",
+          "wordCount": 7559,
+          "title": "India rings in new era, enters select 5G club",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591387,width-1070,height-580,imgsize-65894,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/news/car-sales-see-all-time-record-sales-in-september-on-strong-demand-suv-surge/articleshow/94591186.cms",
+          "author": null,
+          "description": "Buoyed by the continued surge in personal mobility and the rush for new cars and SUVs, the car industry recorded its highest-ever wholesales deliveries in a month, indicating the strong consumer sentiment for new purchases despite rising interest rates and inflationary pressures.",
+          "link": "https://timesofindia.indiatimes.com/auto/news/car-sales-see-all-time-record-sales-in-september-on-strong-demand-suv-surge/articleshow/94591186.cms",
+          "publishedOn": "2022-10-01T19:33:49.000Z",
+          "wordCount": 6014,
+          "title": "Auto sales on fast track, hit record monthly high in Sept",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591240,width-1070,height-580,imgsize-85606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms",
           "author": null,

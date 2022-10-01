@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T21:09:01.905Z</updated>
+    <updated>2022-10-01T22:10:09.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA’s Artemis I launch has officially been delayed until November]]></title>
+        <id>https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november</id>
+        <link href="https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november"/>
+        <updated>2022-10-01T22:05:11.000Z</updated>
+        <summary type="html"><![CDATA[NASA called off last week’s Artemis I launch due to Hurricane Ian. | Photo by CHANDAN KHANNA/AFP via Getty Images
+    
+
+  
+The long-anticipated launch of NASA’s Space Launch System (SLS) rocket has been pushed back to mid-November after NASA waved off its September 27th launch plans in the wake of Hurricane Ian (via Space.com). The space agency announced on Friday that it’s aiming to squeeze in the Artemis I launch between November 12th and November 27th.
+While there was initially a slight chance that NASA’s next launch attempt could take place in October, that was ultimately scrapped after NASA decided to roll the rocket back to the Vehicle Assembly Building (VAB) to shield it from the storm. NASA successfully secured the rocket on Tuesday after an hours-long trek to the VAB.
+Hurricane Ian made landfall in Florida as a Category 4 hurricane, but weakened into a tropical storm by the time it reached the Kennedy Space Center on Thursday. NASA says “there was no damage to Artemis flight hardware,” and that its facilities only suffered “minor water intrusion.”
+NASA’s Artemis I launch will send an uncrewed Orion capsule on a journey around the Moon, paving the way for future missions that will bring the first woman and person of color to the lunar surface. The agency’s first launch attempt was cut short after the rocket experienced engine issues, while its second was marred by a “large” leak that occurred when engineers filled up the rocket with chilled liquid hydrogen fuel.
+Subsequent testing of the rocket’s fueling system showed that the leak was still present, but at a more “manageable” level. Now that the rocket’s back at the VAB, NASA says it will “prepare for additional inspections” and retest the Flight Termination System, which the Space Force uses to destroy the rocket if it goes off course.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Prisoners Are Released From Venezuela and Iran]]></title>
+        <id>https://www.nytimes.com/2022/10/01/us/venezuela-iran-prisoner-swap.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/us/venezuela-iran-prisoner-swap.html"/>
+        <updated>2022-10-01T21:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Caracas let go seven Americans in a trade for two nephews of Venezuela’s first lady who had been convicted on drug charges. Separately, Tehran freed its longest-held American prisoner.]]></summary>
+        <author>
+            <name>Michael D. Shear and Farnaz Fassihi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram cuts subscription fee by more than half in India]]></title>
+        <id>https://techcrunch.com/?p=2416156</id>
+        <link href="https://techcrunch.com/2022/10/01/telegram-premium-india-price-change/"/>
+        <updated>2022-10-01T21:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Telegram has cut the monthly subscription fee for its premium tier by more than half in India, just months after introducing the offering as it attempts to aggressively cash in on a large user base in one of its biggest markets. In a message to users in India on Saturday, Telegram said it was making […]
+Telegram cuts subscription fee by more than half in India by Manish Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snoop Dogg, Dr. Dre Reteam for Upcoming Album, ‘Missionary’]]></title>
+        <id>https://www.rollingstone.com/?p=1234603688</id>
+        <link href="https://www.rollingstone.com/music/music-news/snoop-dogg-dr-dre-missionary-album-1234603688/"/>
+        <updated>2022-10-01T21:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Rapper told K[no]w Mercy host Stephen A. Smith that the LP will arrive in November]]></summary>
+        <author>
+            <name>Althea Legaspi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil too abstains from UNSC vote condemning Russia actions in Ukraine]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/brazil-too-abstains-from-unsc-vote-condemning-russia-actions-in-ukraine/articleshow/94591514.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/brazil-too-abstains-from-unsc-vote-condemning-russia-actions-in-ukraine/articleshow/94591514.cms"/>
+        <updated>2022-10-01T21:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: NEW DELHI: India has, in all, abstained over a dozen times from voting at UNSC on resolutions condemning Russia’s actions in Ukraine in what many be s.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Florida Residents Face Long Gas Lines After Hurricane Ian]]></title>
+        <id>https://www.nytimes.com/2022/10/01/us/port-charlotte-florida-gas-lines-ian.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/us/port-charlotte-florida-gas-lines-ian.html"/>
+        <updated>2022-10-01T21:34:57.000Z</updated>
+        <summary type="html"><![CDATA[At one station, in Port Charlotte, cars stretched for over a mile, while hundreds of others in need carried cans. And lawn chairs.]]></summary>
+        <author>
+            <name>Nicholas Bogel-Burroughs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India abstains from UNSC vote condemning Russia]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms"/>
+        <updated>2022-10-01T21:22:43.000Z</updated>
+        <summary type="html"><![CDATA[While remaining "deeply disturbed" by the situation in Ukraine, India Friday joined China, Brazil and Gabon in abstaining from voting on a UNSC resolution which condemned "illegal" referendums held by Russia to annex 4 regions of Ukraine, and called upon Moscow to unconditionally withdraw troops from the country.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India abstains from UNSC vote condemning Russia]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms"/>
+        <updated>2022-10-01T21:22:43.000Z</updated>
+        <summary type="html"><![CDATA[While remaining "deeply disturbed" by the situation in Ukraine, India Friday joined China, Brazil and Gabon in abstaining from voting on a UNSC resolution which condemned "illegal" referendums held by Russia to annex 4 regions of Ukraine, and called upon Moscow to unconditionally withdraw troops from the country.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protesters attack French Embassy in Burkina Faso after coup]]></title>
+        <id>https://www.thehindu.com/news/international/protesters-attack-french-embassy-in-burkina-faso-after-coup/article65960585.ece</id>
+        <link href="https://www.thehindu.com/news/international/protesters-attack-french-embassy-in-burkina-faso-after-coup/article65960585.ece"/>
+        <updated>2022-10-01T21:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Protesters in Burkina Faso's capital have attacked the French Embassy after the military junta in charge accused France of sheltering the ousted interim president]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India rings in new era, enters select 5G club]]></title>
+        <id>https://timesofindia.indiatimes.com/gadgets-news/india-rings-in-new-era-enters-select-5g-club/articleshow/94591308.cms</id>
+        <link href="https://timesofindia.indiatimes.com/gadgets-news/india-rings-in-new-era-enters-select-5g-club/articleshow/94591308.cms"/>
+        <updated>2022-10-01T21:06:04.000Z</updated>
+        <summary type="html"><![CDATA[India on Saturday took a mega generational leap in mobile telephony as the ball was set rolling for the launch of 5G network with Prime Minister Narendra Modi – who inaugurated the services – promising a leg-up in economic activities and citizen empowerment through the high-speed network that boasts of minimum speeds of at least 100 Mbps.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Records From Trump White House Still Missing, National Archives Says]]></title>
+        <id>https://www.nytimes.com/2022/10/01/us/politics/trump-white-house-records-national-archives.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/us/politics/trump-white-house-records-national-archives.html"/>
+        <updated>2022-10-01T21:03:24.000Z</updated>
+        <summary type="html"><![CDATA[The archives said in a letter to the House Oversight Committee that it was seeking electronic messages from unnamed White House officials sent through personal accounts.]]></summary>
+        <author>
+            <name>Luke Broadwater</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With 5G, India setting telecom tech standard: PM Modi]]></title>
         <id>https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms</id>
@@ -14,6 +133,16 @@
         <summary type="html"><![CDATA[“Today, 130 crore Indians are getting a wonderful gift in the form of 5G from the country and from the telecom industry. 5G is a knock on the doors of a new era in the country. It’s the beginning of an infinite sky of opportunities,” he said while launching the services, though he avoided the customary practice of making a call to herald the entry of a new technology.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Horoscope: October 2, 2022]]></title>
+        <id>akenqb</id>
+        <link href="https://www.vice.com/en_us/article/akenqb/daily-horoscope-october-2-2022"/>
+        <updated>2022-10-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The moon enters Capricorn and Mercury retrograde ends.]]></summary>
+        <author>
+            <name>Annabel Gat</name>
         </author>
     </entry>
     <entry>
@@ -71,6 +200,16 @@ Our contract has expired with The Walt Disney Company.  Our goal and priority is
         <summary type="html"><![CDATA[On October 2, the nation celebrates Gandhi Jayanti on account of Mahatma Gandhi's birthday. But the father of the nation shares his birthday with another man who contributed immensely towards the growth of India. He was the country’s second Prime Minister, Lal Bahadur Shastri.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto sales on fast track, hit record monthly high in Sept]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/news/car-sales-see-all-time-record-sales-in-september-on-strong-demand-suv-surge/articleshow/94591186.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/news/car-sales-see-all-time-record-sales-in-september-on-strong-demand-suv-surge/articleshow/94591186.cms"/>
+        <updated>2022-10-01T19:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Buoyed by the continued surge in personal mobility and the rush for new cars and SUVs, the car industry recorded its highest-ever wholesales deliveries in a month, indicating the strong consumer sentiment for new purchases despite rising interest rates and inflationary pressures.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1391,6 +1530,25 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Madhya Pradesh: Cheetah 'Aasha' may be pregnant with hope in Kuno]]></title>
+        <id>https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cheetah-aasha-may-be-pregnant-with-hope-in-kuno/articleshow/94573462.cms"/>
+        <updated>2022-10-01T09:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Officials closely monitoring the cheetah project at Kuno National Park in Madhya Pradesh say that Aasha - named by PM Narendra Modi - is exhibiting all the behavioural, physical and hormonal signs of pregnancy. "We are excited but we'll have to wait till October-end to be sure," said an officer. Flown to Kuno from Namibia on September 17, she has adapted to her new home and is doing well.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepika Padukone-Ranveer Singh, Aishwarya Rai-Abhishek Bachchan, Ranbir Kapoor-Alia Bhatt: When separation rumours of Bollywood couples grabbed eyeballs]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-aishwarya-rai-abhishek-bachchan-ranbir-kapoor-alia-bhatt-when-separation-rumours-of-bollywood-couples-grabbed-eyeballs/articleshow/94563312.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-aishwarya-rai-abhishek-bachchan-ranbir-kapoor-alia-bhatt-when-separation-rumours-of-bollywood-couples-grabbed-eyeballs/articleshow/94563312.cms"/>
+        <updated>2022-10-01T09:30:00.000Z</updated>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['Continuity with change,' Salman Khurshid joins issue with Shashi Tharoor]]></title>
         <id>https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms"/>
@@ -2045,6 +2203,16 @@ Image: Tesla
         <link href="https://timesofindia.indiatimes.com/india/india-abstains-on-unsc-resolution-condemning-russian-annexation-of-ukrainian-regions/articleshow/94575345.cms"/>
         <updated>2022-10-01T03:16:03.000Z</updated>
         <summary type="html"><![CDATA[India abstained a UNSC resolution introduced by the United States and Albania condemning Moscow's proclaimed annexation of parts of Ukraine, citing the "totality of the evolving situation” as the reason for abstention. The resolution failed to get adopted as Russia, as expected, vetoed it. It was supported by 10 of the 15 members of the Council. China, Gabon and Brazil were the other countries that abstained.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Modi ditches mic, follows 10pm loudspeaker norm at Abu Road]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms"/>
+        <updated>2022-10-01T03:12:11.000Z</updated>
+        <summary type="html"><![CDATA[India News: JAIPUR: Setting an example, Prime Minister Narendra Modi excused from delivering his speech at a public gathering at Abu Road citing no loudspeaker ru.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -3921,6 +4089,16 @@ Twitch is testing ‘elevated chats’ that let you pay to highlight a message b
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ubisoft Announces Playtests for a New Co-Op Shooter, Project U]]></title>
+        <id>84130d61-b83f-4a2b-8f69-68f37b942a4f</id>
+        <link href="https://www.ign.com/articles/ubisoft-announces-playtests-for-a-new-co-op-shooter-project-u"/>
+        <updated>2022-09-30T17:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Project U, the newly-announced co-op shooter from Ubisoft, is accepting registrations for its upcoming closed playtests.]]></summary>
+        <author>
+            <name>Ryan Leston</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mother Mary Sheds a Tear as Maluma Prays for (and Finds) a Love Miracle in Cheesy AF Video for ‘Junio’]]></title>
         <id>https://www.rollingstone.com/?p=1234603035</id>
         <link href="https://www.rollingstone.com/music/music-news/maluma-junio-video-watch-1234603035/"/>
@@ -5528,6 +5706,15 @@ We’re all just a Hop, Skip and a Drive away from a better Hustle by Natasha Ma
         <summary type="html"><![CDATA[Giles Martin goes deep on the history behind the psychedelic outtake]]></summary>
         <author>
             <name>Jason Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Nikki Tamboli going to the Tihar jail to Kaveri Priyam recalling her casting couch experience; Top TV news of the week]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/articleshow/94565118.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/from-nikki-tamboli-going-to-the-tihar-jail-to-kaveri-priyam-recalling-her-casting-couch-experience-top-tv-news-of-the-week/articleshow/94565118.cms"/>
+        <updated>2022-09-30T13:40:10.000Z</updated>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -26006,6 +26193,16 @@ Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit by Annie 
         <summary type="html"><![CDATA[India News: MALAPPURAM: The Congress' Bharat Jodo Yatra entered Malappuram district of Kerala on Tuesday with hundreds of party workers and supporters walking alo.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With the festive season right around the corner, here's why you must pick Berger Paints for glamour that lasts]]></title>
+        <id>https://timesofindia.indiatimes.com/spotlight/with-the-festive-season-right-around-the-corner-heres-why-you-must-pick-berger-paints-for-glamour-that-lasts/articleshow/94452915.cms</id>
+        <link href="https://timesofindia.indiatimes.com/spotlight/with-the-festive-season-right-around-the-corner-heres-why-you-must-pick-berger-paints-for-glamour-that-lasts/articleshow/94452915.cms"/>
+        <updated>2022-09-27T06:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Curated with advanced technology, Silk Glamor High Sheen gives an ultra-smooth silky finish to your walls, making way for a glamorous look that'll last for a long time. This luxury interior emulsion from Berger Paints is available in over 10000 shades and is free from added APEO, formaldehyde and is low in VOC.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
