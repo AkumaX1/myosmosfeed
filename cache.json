@@ -10201,6 +10201,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2415055",
+          "author": "Greg Kumparak",
+          "description": "Hi all! Welcome back to Week in Review, the newsletter where we quickly sum up some of the most read TechCrunch stories from the past seven days. The goal? Even when you’re swamped, a quick skim of WiR on Saturday morning should give you a pretty good understanding of what happened in tech this week. […]\nMeta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public by Greg Kumparak originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/meta-plans-hiring-freeze-nasa-shoots-an-asteroid-and-elons-texts-about-twitter-go-public/",
+          "publishedOn": "2022-10-01T20:15:21.000Z",
+          "wordCount": 8119,
+          "title": "Meta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/PIA25239_-_DART-IMAGE-FINAL-illustration.width-1320.jpg?resize=1200,675"
+        },
+        {
           "id": "https://techcrunch.com/?p=2415221",
           "author": "Natasha Mascarenhas",
           "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. A multibillion dollar acquisition, IPO projections and some good ol’ VC and billionaire drama? It would be unfair to say that this week in tech and startups felt like 2021’s boom cycle; especially […]\nWelcome to spooky season in startups by Natasha Mascarenhas originally published on TechCrunch",
@@ -23031,6 +23041,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/arrest-warrant-against-former-pakistan-pm-imran-khan-for-threatening-judge/article65960550.ece",
+          "author": "PTI",
+          "description": "Imran Khan said that he is \"willing to apologise\" if the judge thinks that he crossed a \"red line\"",
+          "link": "https://www.thehindu.com/news/international/arrest-warrant-against-former-pakistan-pm-imran-khan-for-threatening-judge/article65960550.ece",
+          "publishedOn": "2022-10-01T20:10:14.000Z",
+          "wordCount": 6251,
+          "title": "Arrest warrant against former Pakistan PM Imran Khan for threatening judge",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3olvx9/article65960551.ece/alternates/LANDSCAPE_615/2022-09-22T121428Z_584467911_RC29MW9X6DW8_RTRMADP_3_PAKISTAN-POLITICS-KHAN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/luiz-in%C3%A1cio-lula-da-silva-the-democratic-leftist/article65960291.ece",
+          "author": "Srinivasan Ramani",
+          "description": "The former two-time President, who has promised a new form of welfarism with ecological and infrastructure spending, is taking on the Latin American country’s far-right incumbent Jair Bolsonaro in today’s elections",
+          "link": "https://www.thehindu.com/news/international/luiz-in%C3%A1cio-lula-da-silva-the-democratic-leftist/article65960291.ece",
+          "publishedOn": "2022-10-01T17:41:14.000Z",
+          "wordCount": 7012,
+          "title": "Luiz Inácio Lula da Silva | The democratic leftist",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/vdfebq/article65960290.ece/alternates/LANDSCAPE_615/lula%20da%20silva_Art.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/giorgia-meloni-god-family-and-homeland/article65960302.ece",
+          "author": "G. Sampath",
+          "description": "The Brothers of Italy, which campaigned on an anti-immigrant and pro-Christian values platform, is set to form the first far-right government in the country since Mussolini",
+          "link": "https://www.thehindu.com/news/international/giorgia-meloni-god-family-and-homeland/article65960302.ece",
+          "publishedOn": "2022-10-01T17:38:00.000Z",
+          "wordCount": 6671,
+          "title": "Giorgia Meloni | God, family and homeland",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/u0jku6/article65960300.ece/alternates/LANDSCAPE_615/giorgia_meloni%20%281%29.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/sri-lanka-government-slashes-petrol-prices-by-lkr40-no-change-in-diesel-price/article65959834.ece",
           "author": "PTI",
           "description": "With the move, the price of diesel for the first time in Sri Lanka is more than the price of petrol",
@@ -24737,6 +24777,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms",
+          "author": null,
+          "description": "“Today, 130 crore Indians are getting a wonderful gift in the form of 5G from the country and from the telecom industry. 5G is a knock on the doors of a new era in the country. It’s the beginning of an infinite sky of opportunities,” he said while launching the services, though he avoided the customary practice of making a call to herald the entry of a new technology.",
+          "link": "https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms",
+          "publishedOn": "2022-10-01T21:00:32.000Z",
+          "wordCount": 5798,
+          "title": "With 5G, India setting telecom tech standard: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591450,width-1070,height-580,imgsize-73678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/10-lesser-known-facts-about-lal-bahadur-shastri/articleshow/94590486.cms",
           "author": null,

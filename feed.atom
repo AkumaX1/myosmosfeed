@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T20:10:51.972Z</updated>
+    <updated>2022-10-01T21:09:01.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[With 5G, India setting telecom tech standard: PM Modi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/with-5g-india-setting-telecom-tech-standard-pm-modi/articleshow/94591452.cms"/>
+        <updated>2022-10-01T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[“Today, 130 crore Indians are getting a wonderful gift in the form of 5G from the country and from the telecom industry. 5G is a knock on the doors of a new era in the country. It’s the beginning of an infinite sky of opportunities,” he said while launching the services, though he avoided the customary practice of making a call to herald the entry of a new technology.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public]]></title>
+        <id>https://techcrunch.com/?p=2415055</id>
+        <link href="https://techcrunch.com/2022/10/01/meta-plans-hiring-freeze-nasa-shoots-an-asteroid-and-elons-texts-about-twitter-go-public/"/>
+        <updated>2022-10-01T20:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Hi all! Welcome back to Week in Review, the newsletter where we quickly sum up some of the most read TechCrunch stories from the past seven days. The goal? Even when you’re swamped, a quick skim of WiR on Saturday morning should give you a pretty good understanding of what happened in tech this week. […]
+Meta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public by Greg Kumparak originally published on TechCrunch]]></summary>
+        <author>
+            <name>Greg Kumparak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrest warrant against former Pakistan PM Imran Khan for threatening judge]]></title>
+        <id>https://www.thehindu.com/news/international/arrest-warrant-against-former-pakistan-pm-imran-khan-for-threatening-judge/article65960550.ece</id>
+        <link href="https://www.thehindu.com/news/international/arrest-warrant-against-former-pakistan-pm-imran-khan-for-threatening-judge/article65960550.ece"/>
+        <updated>2022-10-01T20:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Imran Khan said that he is "willing to apologise" if the judge thinks that he crossed a "red line"]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Global Indigenous Movement to Fight Climate Change]]></title>
         <id>https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</id>
@@ -195,6 +226,16 @@ Though superheroes are more often associated with western comics and, these days
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Luiz Inácio Lula da Silva | The democratic leftist]]></title>
+        <id>https://www.thehindu.com/news/international/luiz-in%C3%A1cio-lula-da-silva-the-democratic-leftist/article65960291.ece</id>
+        <link href="https://www.thehindu.com/news/international/luiz-in%C3%A1cio-lula-da-silva-the-democratic-leftist/article65960291.ece"/>
+        <updated>2022-10-01T17:41:14.000Z</updated>
+        <summary type="html"><![CDATA[The former two-time President, who has promised a new form of welfarism with ecological and infrastructure spending, is taking on the Latin American country’s far-right incumbent Jair Bolsonaro in today’s elections]]></summary>
+        <author>
+            <name>Srinivasan Ramani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CRPF, ITBP get new chiefs]]></title>
         <id>https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590243.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590243.cms"/>
@@ -202,6 +243,16 @@ Though superheroes are more often associated with western comics and, these days
         <summary type="html"><![CDATA[India News: NEW DELHI: The Centre on Saturday appointed S L Thaosen, a 1988 batch IPS officer of Madhya Pradesh cadre and currently DG, Sashastra Seema Bal with a.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giorgia Meloni | God, family and homeland]]></title>
+        <id>https://www.thehindu.com/news/international/giorgia-meloni-god-family-and-homeland/article65960302.ece</id>
+        <link href="https://www.thehindu.com/news/international/giorgia-meloni-god-family-and-homeland/article65960302.ece"/>
+        <updated>2022-10-01T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The Brothers of Italy, which campaigned on an anti-immigrant and pro-Christian values platform, is set to form the first far-right government in the country since Mussolini]]></summary>
+        <author>
+            <name>G. Sampath</name>
         </author>
     </entry>
     <entry>
