@@ -2239,6 +2239,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html",
+          "author": "Thomas Gibbons-Neff, Andrew E. Kramer, Anton Troianovski and Catherine Porter",
+          "description": "Russia’s withdrawal from the city comes one day after Moscow illegally annexed the surrounding region.",
+          "link": "https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html",
+          "publishedOn": "2022-10-01T22:40:42.000Z",
+          "wordCount": null,
+          "title": "Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/us/venezuela-iran-prisoner-swap.html",
           "author": "Michael D. Shear and Farnaz Fassihi",
           "description": "Caracas let go seven Americans in a trade for two nephews of Venezuela’s first lady who had been convicted on drug charges. Separately, Tehran freed its longest-held American prisoner.",
@@ -2286,6 +2296,16 @@
           "publishedOn": "2022-10-01T19:00:05.000Z",
           "wordCount": null,
           "title": "Will Nostalgia Kill the British Right?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/us/politics/violent-threats-lawmakers.html",
+          "author": "Stephanie Lai, Luke Broadwater and Carl Hulse",
+          "description": "Violent political speech has increasingly crossed into the realm of in-person confrontation for members of Congress in both parties, raising the prospect of a disastrous event.",
+          "link": "https://www.nytimes.com/2022/10/01/us/politics/violent-threats-lawmakers.html",
+          "publishedOn": "2022-10-01T18:00:41.000Z",
+          "wordCount": null,
+          "title": "Lawmakers Confront a Rise in Threats and Intimidation, and Fear Worse",
           "imageUrl": null
         },
         {
@@ -2616,6 +2636,16 @@
           "publishedOn": "2022-09-30T21:57:27.000Z",
           "wordCount": null,
           "title": "Alison Russo, Stabbed NYC EMT, Was the ‘Mother of the Station’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html",
+          "author": "Zoë Lescaze",
+          "description": "The artist’s work addresses future climate crises while attempting to make the urban environment a better place to live right now.",
+          "link": "https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html",
+          "publishedOn": "2022-09-30T21:54:42.000Z",
+          "wordCount": null,
+          "title": "The Optimistic Art of Mary Mattingly",
           "imageUrl": null
         },
         {
@@ -3566,6 +3596,16 @@
           "publishedOn": "2022-09-29T16:00:09.000Z",
           "wordCount": null,
           "title": "Donald Can’t Quit Maggie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/magazine/rural-homeless-students.html",
+          "author": "Samantha M. Shapiro",
+          "description": "Most social services come through the schools — but it can be impossible to get to them.",
+          "link": "https://www.nytimes.com/2022/09/29/magazine/rural-homeless-students.html",
+          "publishedOn": "2022-09-29T15:50:29.000Z",
+          "wordCount": null,
+          "title": "Young and Homeless in Rural America",
           "imageUrl": null
         },
         {
@@ -23146,6 +23186,16 @@
           "imageUrl": "https://th-i.thgim.com/public/incoming/3olvx9/article65960551.ece/alternates/LANDSCAPE_615/2022-09-22T121428Z_584467911_RC29MW9X6DW8_RTRMADP_3_PAKISTAN-POLITICS-KHAN.JPG"
         },
         {
+          "id": "https://www.thehindu.com/news/international/being-a-refugee-in-crisis-hit-sri-lanka/article65960459.ece",
+          "author": "Meera Srinivasan",
+          "description": "Except for some distance from threat and persecution, refugee life is far from easy",
+          "link": "https://www.thehindu.com/news/international/being-a-refugee-in-crisis-hit-sri-lanka/article65960459.ece",
+          "publishedOn": "2022-10-01T19:01:35.000Z",
+          "wordCount": 7120,
+          "title": "Being a refugee in Sri Lanka amid a biting economic downturn",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/rxr6hs/article65960460.ece/alternates/LANDSCAPE_615/riffat.jpeg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/luiz-in%C3%A1cio-lula-da-silva-the-democratic-leftist/article65960291.ece",
           "author": "Srinivasan Ramani",
           "description": "The former two-time President, who has promised a new form of welfarism with ecological and infrastructure spending, is taking on the Latin American country’s far-right incumbent Jair Bolsonaro in today’s elections",
@@ -24872,6 +24922,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
+          "author": null,
+          "description": "External Affairs Minister S Jaishankar on Saturday said that Prime Minister Narendra Modi did not yield to the pressure amid the soaring oil prices and advised that India must do what is best for the nation and if pressure comes then face it head on.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
+          "publishedOn": "2022-10-01T22:39:43.000Z",
+          "wordCount": 6472,
+          "title": "PM fought back pressure on where to buy oil from: EAM S Jaishankar",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591721,width-1070,height-580,imgsize-130220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms",
+          "author": null,
+          "description": "The race for the next Congress president narrowed down to two candidates, Mallikarjun Kharge and Shashi Tharoor, on Saturday with Congress’s central election authority chief Madhusudan Mistry announcing that the nomination papers of the third candidate, KN Tripathi, had been rejected after being scrutinised. Kharge has resigned as the leader of Opposition in Rajya Sabha as per the party’s ‘one per, one post’ principle.",
+          "link": "https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms",
+          "publishedOn": "2022-10-01T22:34:09.000Z",
+          "wordCount": 6284,
+          "title": "Gandhis have vowed to be neutral: Congress MP Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591689,width-1070,height-580,imgsize-40242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlots-notes-show-arsenal-against-sachin-pilot/articleshow/94591692.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: A photograph of Ashok Gehlot’s notes clicked by a photographer when he was on his way to meet Sonia Gandhi last week revealed that the Raja.",
+          "link": "https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlots-notes-show-arsenal-against-sachin-pilot/articleshow/94591692.cms",
+          "publishedOn": "2022-10-01T22:32:23.000Z",
+          "wordCount": 5274,
+          "title": "Rajasthan CM Ashok Gehlot’s ‘notes’ show ‘arsenal’ against Sachin Pilot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591691,width-1070,height-580,imgsize-26622,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ashok-gehlot-hints-at-continuing-as-rajasthan-cm/articleshow/94591696.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Rajasthan CM Ashok Gehlot said Saturday his government will complete its five-year term, indicating he will continue at the helm after opting .",
+          "link": "https://timesofindia.indiatimes.com/india/ashok-gehlot-hints-at-continuing-as-rajasthan-cm/articleshow/94591696.cms",
+          "publishedOn": "2022-10-01T22:31:35.000Z",
+          "wordCount": 4968,
+          "title": "Ashok Gehlot hints at continuing as Rajasthan CM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591708,width-1070,height-580,imgsize-37454,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
           "author": null,
@@ -31223,6 +31313,56 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
+          "author": null,
+          "description": "External Affairs Minister S Jaishankar on Saturday said that Prime Minister Narendra Modi did not yield to the pressure amid the soaring oil prices and advised that India must do what is best for the nation and if pressure comes then face it head on.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
+          "publishedOn": "2022-10-01T22:39:43.000Z",
+          "wordCount": 6472,
+          "title": "PM fought back pressure on where to buy oil from: EAM",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591721,width-1070,height-580,imgsize-130220,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms",
+          "author": null,
+          "description": "The race for the next Congress president narrowed down to two candidates, Mallikarjun Kharge and Shashi Tharoor, on Saturday with Congress’s central election authority chief Madhusudan Mistry announcing that the nomination papers of the third candidate, KN Tripathi, had been rejected after being scrutinised. Kharge has resigned as the leader of Opposition in Rajya Sabha as per the party’s ‘one per, one post’ principle.",
+          "link": "https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms",
+          "publishedOn": "2022-10-01T22:34:09.000Z",
+          "wordCount": 6284,
+          "title": "Gandhis have vowed to be neutral: Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591689,width-1070,height-580,imgsize-40242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/at-rs-1-47-lakh-crore-gst-revenue-up-26-in-september/articleshow/94591670.cms",
+          "author": null,
+          "description": "The gross GST revenue collected in September totalled Rs 1.47 lakh crore, the seventh month in a row in which receipts have been more than Rs 1.4 lakh crore, data released by the finance ministry showed on Saturday. The September revenue was 26% higher than the GST receipts in the same month last year.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/at-rs-1-47-lakh-crore-gst-revenue-up-26-in-september/articleshow/94591670.cms",
+          "publishedOn": "2022-10-01T22:12:47.000Z",
+          "wordCount": 5991,
+          "title": "At Rs 1.47 lakh crore, GST revenue up 26% in Sept",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591674,width-1070,height-580,imgsize-23820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-27-die-22-injured-as-vehicle-falls-into-up-pond/articleshow/94591653.cms",
+          "author": null,
+          "description": "Five days after 10 people were killed when a tractor-trolley plunged into a pond on the outskirts of Lucknow, another one fell into a roadside pond in Kanpur on Saturday, killing 27 people travelling in the vehicle. According to police, one Raju Nishad had gone for the ‘mundan’ ceremony of his one-year-old son on Saturday with his family and about 50 people from the village to the popular Chandrika Devi shrine at Buxar Ghat. They were returning when the accident happened.",
+          "link": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-27-die-22-injured-as-vehicle-falls-into-up-pond/articleshow/94591653.cms",
+          "publishedOn": "2022-10-01T22:02:37.000Z",
+          "wordCount": 5986,
+          "title": "Kanpur: 27 die, 22 injured as vehicle falls into pond",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591654,width-1070,height-580,imgsize-26300,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/no-puc-no-fuel-at-pumps-in-city-from-october-25-delhi-government/articleshow/94591631.cms",
+          "author": null,
+          "description": "Vehicle owners in the city will have to produce a valid pollution under control (PUC) certificate to get fuel at filling stations in the city from October 25. Announcing this on Saturday, Delhi environment minister Gopal Rai said the transport department has been asked to issue a notification making a valid PUC certificate mandatory to get fuel at all pumps from that date.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/no-puc-no-fuel-at-pumps-in-city-from-october-25-delhi-government/articleshow/94591631.cms",
+          "publishedOn": "2022-10-01T21:55:54.000Z",
+          "wordCount": 7022,
+          "title": "No PUC, no fuel at pumps in city from Oct 25: Delhi govt",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591651,width-1070,height-580,imgsize-28412,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-abstains-from-unsc-vote-condemning-russia/articleshow/94591482.cms",
           "author": null,

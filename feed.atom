@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T22:10:09.980Z</updated>
+    <updated>2022-10-01T23:11:49.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html"/>
+        <updated>2022-10-01T22:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s withdrawal from the city comes one day after Moscow illegally annexed the surrounding region.]]></summary>
+        <author>
+            <name>Thomas Gibbons-Neff, Andrew E. Kramer, Anton Troianovski and Catherine Porter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM fought back pressure on where to buy oil from: EAM S Jaishankar]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms"/>
+        <updated>2022-10-01T22:39:43.000Z</updated>
+        <summary type="html"><![CDATA[External Affairs Minister S Jaishankar on Saturday said that Prime Minister Narendra Modi did not yield to the pressure amid the soaring oil prices and advised that India must do what is best for the nation and if pressure comes then face it head on.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM fought back pressure on where to buy oil from: EAM]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms"/>
+        <updated>2022-10-01T22:39:43.000Z</updated>
+        <summary type="html"><![CDATA[External Affairs Minister S Jaishankar on Saturday said that Prime Minister Narendra Modi did not yield to the pressure amid the soaring oil prices and advised that India must do what is best for the nation and if pressure comes then face it head on.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gandhis have vowed to be neutral: Congress MP Shashi Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms"/>
+        <updated>2022-10-01T22:34:09.000Z</updated>
+        <summary type="html"><![CDATA[The race for the next Congress president narrowed down to two candidates, Mallikarjun Kharge and Shashi Tharoor, on Saturday with Congress’s central election authority chief Madhusudan Mistry announcing that the nomination papers of the third candidate, KN Tripathi, had been rejected after being scrutinised. Kharge has resigned as the leader of Opposition in Rajya Sabha as per the party’s ‘one per, one post’ principle.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gandhis have vowed to be neutral: Shashi Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/gandhis-have-vowed-to-be-neutral-congress-mp-shashi-tharoor/articleshow/94591688.cms"/>
+        <updated>2022-10-01T22:34:09.000Z</updated>
+        <summary type="html"><![CDATA[The race for the next Congress president narrowed down to two candidates, Mallikarjun Kharge and Shashi Tharoor, on Saturday with Congress’s central election authority chief Madhusudan Mistry announcing that the nomination papers of the third candidate, KN Tripathi, had been rejected after being scrutinised. Kharge has resigned as the leader of Opposition in Rajya Sabha as per the party’s ‘one per, one post’ principle.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajasthan CM Ashok Gehlot’s ‘notes’ show ‘arsenal’ against Sachin Pilot]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlots-notes-show-arsenal-against-sachin-pilot/articleshow/94591692.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajasthan-cm-ashok-gehlots-notes-show-arsenal-against-sachin-pilot/articleshow/94591692.cms"/>
+        <updated>2022-10-01T22:32:23.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: A photograph of Ashok Gehlot’s notes clicked by a photographer when he was on his way to meet Sonia Gandhi last week revealed that the Raja.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashok Gehlot hints at continuing as Rajasthan CM]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ashok-gehlot-hints-at-continuing-as-rajasthan-cm/articleshow/94591696.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ashok-gehlot-hints-at-continuing-as-rajasthan-cm/articleshow/94591696.cms"/>
+        <updated>2022-10-01T22:31:35.000Z</updated>
+        <summary type="html"><![CDATA[India News: JAIPUR: Rajasthan CM Ashok Gehlot said Saturday his government will complete its five-year term, indicating he will continue at the helm after opting .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Rs 1.47 lakh crore, GST revenue up 26% in Sept]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/at-rs-1-47-lakh-crore-gst-revenue-up-26-in-september/articleshow/94591670.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/at-rs-1-47-lakh-crore-gst-revenue-up-26-in-september/articleshow/94591670.cms"/>
+        <updated>2022-10-01T22:12:47.000Z</updated>
+        <summary type="html"><![CDATA[The gross GST revenue collected in September totalled Rs 1.47 lakh crore, the seventh month in a row in which receipts have been more than Rs 1.4 lakh crore, data released by the finance ministry showed on Saturday. The September revenue was 26% higher than the GST receipts in the same month last year.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA’s Artemis I launch has officially been delayed until November]]></title>
         <id>https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november</id>
@@ -22,6 +102,16 @@ NASA’s Artemis I launch will send an uncrewed Orion capsule on a journey aroun
 Subsequent testing of the rocket’s fueling system showed that the leak was still present, but at a more “manageable” level. Now that the rocket’s back at the VAB, NASA says it will “prepare for additional inspections” and retest the Flight Termination System, which the Space Force uses to destroy the rocket if it goes off course.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanpur: 27 die, 22 injured as vehicle falls into pond]]></title>
+        <id>https://timesofindia.indiatimes.com/city/kanpur/kanpur-27-die-22-injured-as-vehicle-falls-into-up-pond/articleshow/94591653.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/kanpur/kanpur-27-die-22-injured-as-vehicle-falls-into-up-pond/articleshow/94591653.cms"/>
+        <updated>2022-10-01T22:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Five days after 10 people were killed when a tractor-trolley plunged into a pond on the outskirts of Lucknow, another one fell into a roadside pond in Kanpur on Saturday, killing 27 people travelling in the vehicle. According to police, one Raju Nishad had gone for the ‘mundan’ ceremony of his one-year-old son on Saturday with his family and about 50 people from the village to the popular Chandrika Devi shrine at Buxar Ghat. They were returning when the accident happened.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +133,16 @@ Subsequent testing of the rocket’s fueling system showed that the leak was sti
 Telegram cuts subscription fee by more than half in India by Manish Singh originally published on TechCrunch]]></summary>
         <author>
             <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No PUC, no fuel at pumps in city from Oct 25: Delhi govt]]></title>
+        <id>https://timesofindia.indiatimes.com/city/delhi/no-puc-no-fuel-at-pumps-in-city-from-october-25-delhi-government/articleshow/94591631.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/delhi/no-puc-no-fuel-at-pumps-in-city-from-october-25-delhi-government/articleshow/94591631.cms"/>
+        <updated>2022-10-01T21:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Vehicle owners in the city will have to produce a valid pollution under control (PUC) certificate to get fuel at filling stations in the city from October 25. Announcing this on Saturday, Delhi environment minister Gopal Rai said the transport department has been asked to issue a notification making a valid PUC certificate mandatory to get fuel at all pumps from that date.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -233,6 +333,16 @@ Our contract has expired with The Walt Disney Company.  Our goal and priority is
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Being a refugee in Sri Lanka amid a biting economic downturn]]></title>
+        <id>https://www.thehindu.com/news/international/being-a-refugee-in-crisis-hit-sri-lanka/article65960459.ece</id>
+        <link href="https://www.thehindu.com/news/international/being-a-refugee-in-crisis-hit-sri-lanka/article65960459.ece"/>
+        <updated>2022-10-01T19:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Except for some distance from threat and persecution, refugee life is far from easy]]></summary>
+        <author>
+            <name>Meera Srinivasan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Will Nostalgia Kill the British Right?]]></title>
         <id>https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html</id>
         <link href="https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html"/>
@@ -327,6 +437,16 @@ Lula has a clear lea…]]></summary>
 Welcome to spooky season in startups by Natasha Mascarenhas originally published on TechCrunch]]></summary>
         <author>
             <name>Natasha Mascarenhas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawmakers Confront a Rise in Threats and Intimidation, and Fear Worse]]></title>
+        <id>https://www.nytimes.com/2022/10/01/us/politics/violent-threats-lawmakers.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/us/politics/violent-threats-lawmakers.html"/>
+        <updated>2022-10-01T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Violent political speech has increasingly crossed into the realm of in-person confrontation for members of Congress in both parties, raising the prospect of a disastrous event.]]></summary>
+        <author>
+            <name>Stephanie Lai, Luke Broadwater and Carl Hulse</name>
         </author>
     </entry>
     <entry>
@@ -3033,6 +3153,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Lt. Alison Russo-Elling had served nearly 25 years, through Sept. 11 and the Covid pandemic. She loved a tough job enough to volunteer in her free time.]]></summary>
         <author>
             <name>Corey Kilgannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Optimistic Art of Mary Mattingly]]></title>
+        <id>https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/t-magazine/mary-mattingly-art-climate.html"/>
+        <updated>2022-09-30T21:54:42.000Z</updated>
+        <summary type="html"><![CDATA[The artist’s work addresses future climate crises while attempting to make the urban environment a better place to live right now.]]></summary>
+        <author>
+            <name>Zoë Lescaze</name>
         </author>
     </entry>
     <entry>
@@ -10963,6 +11093,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[India News: BHOPAL: After Rajasthan Chief Minister Ashok Gehlot announced on Thursday that he will not be contesting the Congress presidential election, political.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young and Homeless in Rural America]]></title>
+        <id>https://www.nytimes.com/2022/09/29/magazine/rural-homeless-students.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/magazine/rural-homeless-students.html"/>
+        <updated>2022-09-29T15:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Most social services come through the schools — but it can be impossible to get to them.]]></summary>
+        <author>
+            <name>Samantha M. Shapiro</name>
         </author>
     </entry>
     <entry>
