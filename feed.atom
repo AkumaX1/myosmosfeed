@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T11:08:40.385Z</updated>
+    <updated>2022-10-01T12:18:49.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Burkina Faso Coup Raises Question About Security]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html"/>
+        <updated>2022-10-01T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[A military officer removed another military leader who had seized power only eight months ago. Whether he can do better is another question.]]></summary>
+        <author>
+            <name>Elian Peltier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to Give Your Home a Rich and Worldly Vibe? Make a Gallery Wall]]></title>
+        <id>y3p5k5</id>
+        <link href="https://www.vice.com/en_us/article/y3p5k5/how-to-make-a-gallery-wall-at-home"/>
+        <updated>2022-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remix vintage tapestries, contemporary prints, and personal photos to make a gallery wall worthy of Art Basel.]]></summary>
+        <author>
+            <name>Becca Blasdel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suddenly, every fictional character is a podcaster. Why aren’t they doing it right?]]></title>
+        <id>https://www.vox.com/culture/2022/10/1/23376438/podcasting-pop-culture-and-just-like-that-only-murders</id>
+        <link href="https://www.vox.com/culture/2022/10/1/23376438/podcasting-pop-culture-and-just-like-that-only-murders"/>
+        <updated>2022-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carrie Bradshaw is a podcaster! | HBO Max/And Just Like That
+    
+
+  
+In shows like And Just Like That and Only Murders in the Building, main characters have become podcasters. But not every show gets it right. 
+ Welcome to Noticed, Vox’s cultural trend column. You know that thing you’ve been seeing all over the place? Allow us to explain it.
+What it is
+Main characters in television shows and movies who are podcast hosts or are part of a podcast, but the “podcasting” in question doesn’t resemble podcasting at all. Sometimes these podcasts are just radio shows. Sometimes these portrayals make podcasting look as simple as recording a voice note. 
+Where it is
+On the Sex and the City revival And Just Like That, the X, Y and Me podcast co-hosted by Che Diaz (Sara Ramirez) and Carrie Bradshaw (S…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 great movies new to streaming to watch in October 2022]]></title>
+        <id>https://www.polygon.com/what-to-watch/2022/10/1/23375583/best-new-movies-netflix-amazon-hbo-hulu-october-2022</id>
+        <link href="https://www.polygon.com/what-to-watch/2022/10/1/23375583/best-new-movies-netflix-amazon-hbo-hulu-october-2022"/>
+        <updated>2022-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Universal Pictures Home Entertainment
+    
+
+
+  
+Two of the funniest movies of the century and plenty of other hits
+ October! It’s a great time for movies. Many people spend the month watching horror (we do that kind of thing year-round), but there’s no wrong way to do it, and plenty of excellent movies new to streaming this month for your viewing pleasure.
+Two of the funniest American comedies of the century, Popstar: Never Stop Never Stopping and Spy, make their triumphant returns to streaming, as does the breakout 2022 showstopper Ambulance. The masterpiece romantic comedy La Ronde swings its way over to HBO Max, while the Ocean’s trilogy lands at Netflix for those looking for heist-y good times.
+That doesn’t even cover the outstanding collection of excellent ’80s horror being add…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dozens dead from Hurricane Ian, fourth costliest hurricane in U.S. history]]></title>
+        <id>https://www.thehindu.com/news/international/dozens-dead-from-hurricane-ian-fourth-costliest-hurricane-in-us-history/article65958817.ece</id>
+        <link href="https://www.thehindu.com/news/international/dozens-dead-from-hurricane-ian-fourth-costliest-hurricane-in-us-history/article65958817.ece"/>
+        <updated>2022-10-01T11:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Now weakened to a post-tropical cyclone, Ian was expected to move across central North Carolina on Saturday morning and reach south-central Virginia by the afternoon]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Bank announces $530 million in new funding for Ukraine]]></title>
+        <id>https://www.thehindu.com/news/international/world-bank-announces-530-million-in-new-funding-for-ukraine/article65958838.ece</id>
+        <link href="https://www.thehindu.com/news/international/world-bank-announces-530-million-in-new-funding-for-ukraine/article65958838.ece"/>
+        <updated>2022-10-01T11:55:10.000Z</updated>
+        <summary type="html"><![CDATA[The support, in the form of a new loan from the International Bank for Reconstruction and Development, is being guaranteed by Britain and Denmark.]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 killed in Russian shelling in Kharkiv region]]></title>
+        <id>https://www.thehindu.com/news/international/20-killed-in-russian-shelling-in-kharkiv-region/article65958766.ece</id>
+        <link href="https://www.thehindu.com/news/international/20-killed-in-russian-shelling-in-kharkiv-region/article65958766.ece"/>
+        <updated>2022-10-01T11:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Russian forces have retreated from much of the Kharkiv region after a successful Ukrainian counteroffensive last month but continued to shell the area.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefly Aerospace reaches orbit for the first time]]></title>
+        <id>https://techcrunch.com/?p=2415797</id>
+        <link href="https://techcrunch.com/2022/10/01/firefly-aerospace-reaches-orbit-for-the-first-time/"/>
+        <updated>2022-10-01T11:36:14.000Z</updated>
+        <summary type="html"><![CDATA[There’s another space-proven private launch company in the club — Firefly Aerospace. The company’s small payload Alpha rocket reached orbit successfully early on Saturday morning after taking of from Vandenberg Space Force Base in California. This is a major achievement for Firefly, which has been a lot to get here: The company originally began operations […]
+Firefly Aerospace reaches orbit for the first time by Darrell Etherington originally published on TechCrunch]]></summary>
+        <author>
+            <name>Darrell Etherington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s texts offer a rare glimpse at the billionaire boys’ club]]></title>
+        <id>https://www.vox.com/recode/2022/10/1/23381257/elon-musk-texts-twitter-billionaires</id>
+        <link href="https://www.vox.com/recode/2022/10/1/23381257/elon-musk-texts-twitter-billionaires"/>
+        <updated>2022-10-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla and SpaceX CEO Elon Musk at the 2022 Met Gala in New York City. | Dimitrios Kambouris/Getty Images for The Met Museum/Vogue
+    
+
+  
+Messages released in Twitter’s lawsuit against the Tesla founder show some of the nation’s wealthiest people offered support and even cash to buy the platform, as some users expressed dismay.
+ A trove of Elon Musk’s text messages was released this week as part of a lawsuit Twitter has filed against the billionaire, and it’s proving to be an illuminating look inside conversations between Musk and a who’s who of celebrities, journalists, Silicon Valley elites, and even politicians. 
+Among the very rich and very famous who have a direct line to the Tesla CEO are Twitter founder Jack Dorsey, Salesforce founder Marc Benioff, LinkedIn founder Reid Hoffman, po…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19 killed, including 3 elite Guard members, in Iran attack]]></title>
+        <id>https://www.thehindu.com/news/international/19-killed-including-3-elite-guard-members-in-iran-attack/article65958749.ece</id>
+        <link href="https://www.thehindu.com/news/international/19-killed-including-3-elite-guard-members-in-iran-attack/article65958749.ece"/>
+        <updated>2022-10-01T11:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Assailants hid among worshippers near a mosque in the city of Zahedan and attacked the nearby police station]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indore declared cleanest city for 6th consecutive time, NDMC slips to 9th position]]></title>
+        <id>https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms"/>
+        <updated>2022-10-01T11:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Indore emerged as the cleanest city of India for the 6th time in a row while Surat has scored a hat-trick as the second cleanest city since 2020. Navi Mumbai is the third cleanest city while NDMC, which houses the county's most powerful people, has slipped to 9th position in 2022 from being the fifth cleanest city last year and 8th in 2020.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indore declared cleanest city for 6th consecutive time, NDMC slips to 9th position]]></title>
+        <id>https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms"/>
+        <updated>2022-10-01T11:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Indore emerged as the cleanest city of India for the 6th time in a row while Surat has scored a hat-trick as the second cleanest city since 2020. Navi Mumbai is the third cleanest city while NDMC, which houses the county's most powerful people, has slipped to 9th position in 2022 from being the fifth cleanest city last year and 8th in 2020.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The UK’s growing economic crisis, explained]]></title>
         <id>https://www.vox.com/policy-and-politics/2022/10/1/23378515/uk-financial-crisis-pound-truss</id>
@@ -91,6 +235,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
  A new season of My Hero Academia brings a new opening and ending theme song videos, both of which were released shortly after the airing of the new episode without credits on Toho Animation's YouTube Channel. You can catch both of them past the jump!]]></summary>
         <author>
             <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU chief: New Greece-Bulgaria gas pipeline 'means freedom']]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/eu-chief-new-greece-bulgaria-gas-pipeline-means-freedom/articleshow/94582907.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/eu-chief-new-greece-bulgaria-gas-pipeline-means-freedom/articleshow/94582907.cms"/>
+        <updated>2022-10-01T10:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: SOFIA: The president of the European Union's (EU) executive arm traveled Saturday to Bulgaria for the opening of a natural gas link between the countr.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -201,6 +355,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[As programs expire, federal spending is returning to prior levels: $1 for every $6 spent on older adults.]]></summary>
         <author>
             <name>Claire Cain Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Michigan, Tudor Dixon Tests Whether Trump Is Help or Hindrance]]></title>
+        <id>https://www.nytimes.com/2022/10/01/us/politics/tudor-dixon-trump-michigan.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/us/politics/tudor-dixon-trump-michigan.html"/>
+        <updated>2022-10-01T09:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Tudor Dixon, the party’s nominee for governor, has ground to make up in her race against Gov. Gretchen Whitmer. She is hoping the former president can rally their party’s base.]]></summary>
+        <author>
+            <name>Jazmine Ulloa</name>
         </author>
     </entry>
     <entry>
