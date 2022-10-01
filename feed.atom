@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T17:19:10.316Z</updated>
+    <updated>2022-10-01T18:12:06.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monthly Horoscope: Capricorn, October 2022]]></title>
+        <id>qjkw8x</id>
+        <link href="https://www.vice.com/en_us/article/qjkw8x/monthly-horoscope-capricorn-october-2022"/>
+        <updated>2022-10-01T18:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Libra season, dear Capricorn!]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ‘Munch’ Became the Song of the Summer]]></title>
+        <id>https://www.rollingstone.com/?p=1234603316</id>
+        <link href="https://www.rollingstone.com/music/music-news/munch-artist-ice-spice-coolio-death-pearl-jam-1234603316/"/>
+        <updated>2022-10-01T18:02:09.000Z</updated>
+        <summary type="html"><![CDATA[We examine the rise of Ice Spice's 'Munch,' look back at Coolio's life and music, and dig into a new book on Pearl Jam – all in the new episode of Rolling Stone Music Now]]></summary>
+        <author>
+            <name>Brian Hiattt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to spooky season in startups]]></title>
+        <id>https://techcrunch.com/?p=2415221</id>
+        <link href="https://techcrunch.com/2022/10/01/welcome-to-spooky-season-in-startups/"/>
+        <updated>2022-10-01T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. A multibillion dollar acquisition, IPO projections and some good ol’ VC and billionaire drama? It would be unfair to say that this week in tech and startups felt like 2021’s boom cycle; especially […]
+Welcome to spooky season in startups by Natasha Mascarenhas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Mascarenhas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Apps: Google goes visual, Twitter copies TikTok, OG app drama]]></title>
+        <id>https://techcrunch.com/?p=2412744</id>
+        <link href="https://techcrunch.com/2022/10/01/this-week-in-apps-google-goes-visual-twitter-copies-tiktok-og-app-drama/"/>
+        <updated>2022-10-01T18:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. Global app spending reached $65 billion in the first half of 2022, up only slightly from the $64.4 billion during the same period in 2021, as hypergrowth fueled by […]
+This Week in Apps: Google goes visual, Twitter copies TikTok, OG app drama by Sarah Perez originally published on TechCrunch]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s unclear what will happen in VC in Q4, but it definitely won’t be boring]]></title>
+        <id>https://techcrunch.com/?p=2413548</id>
+        <link href="https://techcrunch.com/2022/10/01/its-unclear-what-will-happen-in-vc-in-q4-but-it-definitely-wont-be-boring/"/>
+        <updated>2022-10-01T18:00:33.000Z</updated>
+        <summary type="html"><![CDATA[After six months of a market slowdown, venture is seeing deals pick up and eye-popping acquisitions. What does it all mean for Q4?
+It’s unclear what will happen in VC in Q4, but it definitely won’t be boring by Rebecca Szkutak originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Szkutak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRPF, ITBP get new chiefs]]></title>
+        <id>https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590243.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590243.cms"/>
+        <updated>2022-10-01T17:40:31.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Centre on Saturday appointed S L Thaosen, a 1988 batch IPS officer of Madhya Pradesh cadre and currently DG, Sashastra Seema Bal with a.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G services will bring fundamental change in several sectors: Ashwini Vaishnaw]]></title>
+        <id>https://timesofindia.indiatimes.com/india/5g-services-will-bring-fundamental-change-in-several-sectors-ashwini-vaishnaw/articleshow/94590153.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/5g-services-will-bring-fundamental-change-in-several-sectors-ashwini-vaishnaw/articleshow/94590153.cms"/>
+        <updated>2022-10-01T17:34:25.000Z</updated>
+        <summary type="html"><![CDATA[The next generation high-speed 5G services will bring fundamental changes across several sectors, including education, health, agriculture and banking, telecom minister Ashwini Vaishnaw said on Saturday.The minister also said that 5G will create new services with digital capabilities at the centre. The 5G service was launched by Prime Minister Narendra Modi at India Mobile Congress on Saturday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRPF, ITBP get new chiefs]]></title>
+        <id>https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590126.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590126.cms"/>
+        <updated>2022-10-01T17:29:10.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Senior Indian Police Service (IPS) officers Sujoy Lal Thaosen and Anish Dayal Singh have been appointed as the new directors general of the.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The latest Pixel Watch leak shows band styles, watch faces, and more]]></title>
+        <id>https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit</id>
+        <link href="https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit"/>
+        <updated>2022-10-01T17:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Braided, silicone, and leather Pixel Watch band styles. | Image: Slashleaks via OnLeaks
+    
+
+  
+As if the launch of the Pixel Watch hasn’t been spoiled by enough leaks already, a new set of images shared with Slashleaks by reliable leaker OnLeaks (via 9to5Google), show the smartwatch in even more detail just days ahead of Google’s launch event. This expands on what we’ve already seen in a brief ad from Google released last week, revealing an array of band styles, more watch faces, as well as some other features the watch could come with.
+For starters, the Pixel Watch could offer silicone band styles in black, eggshell, dark gray, and silver, as well as three braided options in orange, green, and black. It also looks like Google’s planning to offer two different leather band styles, includ…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rise of product-led growth is creating opportunities for startups]]></title>
         <id>https://techcrunch.com/?p=2413242</id>
@@ -84,6 +182,16 @@ Stadia died because no one trusts Google by Devin Coldewey originally published 
 Build for the future now with Mammoth Biosciences and Mayfield by Matt Burns originally published on TechCrunch]]></summary>
         <author>
             <name>Matt Burns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Washington, Putin’s Nuclear Threats Stir Growing Alarm]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html"/>
+        <updated>2022-10-01T16:30:21.000Z</updated>
+        <summary type="html"><![CDATA[In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.]]></summary>
+        <author>
+            <name>David E. Sanger, Anton Troianovski and Julian E. Barnes</name>
         </author>
     </entry>
     <entry>
@@ -493,6 +601,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Inflation in Pakistan reaches 27%]]></summary>
         <author>
             <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Naked Fear’: A Pipeline Attack Fans Anxiety in a German Village, and Beyond]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html"/>
+        <updated>2022-10-01T13:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The act of sabotage has brought the Ukraine war closer, raising anxiety levels and threatening to undermine the Europeans’ resolve to help Ukraine fight on.]]></summary>
+        <author>
+            <name>Katrin Bennhold</name>
         </author>
     </entry>
     <entry>
@@ -991,6 +1109,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[Europe News: SOFIA: The president of the European Union's (EU) executive arm traveled Saturday to Bulgaria for the opening of a natural gas link between the countr.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Updates: Bigg Boss 16 Premiere]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-premiere-live-updates-bigg-boss-16-contestants/liveblog/94582700.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-premiere-live-updates-bigg-boss-16-contestants/liveblog/94582700.cms"/>
+        <updated>2022-10-01T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Bollywood superstar Salman Khan has kickstarted a brand new season of Bigg Boss. With contestants finally entering the house, fun and frenzy is about to begin. Bigg Boss 16 has some exciting twists this time and it includes the shift in Weekend Ka Vaar days from Sat-Sun to Fri-Sat. The house is circus-themed and looks stunning. This time there are extra features in the house including 4 bedroom, captain's room with jacuzzi and more. The contestants will stay here for more than 100 days. Popular names being locked inside BB 16 include Nimrit Kaur Ahluwalia, Sajid Khan, Tina Datta, Sreejita De, Ankit Gupta, Gautam Vig, Adu Rozik among others. The performances, conversations of contestants with Salman Khan and the new look of the house are going to keep you hooked. Stay tuned here to catch all the action...]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
