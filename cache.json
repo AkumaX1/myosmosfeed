@@ -13368,6 +13368,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "k7bnyz",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season!",
+          "link": "https://www.vice.com/en_us/article/k7bnyz/your-monthly-horoscope-october-2022",
+          "publishedOn": "2022-10-01T18:39:48.000Z",
+          "wordCount": 3408,
+          "title": "Your Monthly Horoscope: October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63372f40ac70f9009bb6ca0f/lede/1664561057160-7librascorpiomonthly41920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63372f40ac70f9009bb6ca0f/lede/1664561057160-7librascorpiomonthly41920x1080.jpeg"
+        },
+        {
+          "id": "aken3k",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Pisces!",
+          "link": "https://www.vice.com/en_us/article/aken3k/monthly-horoscope-pisces-october-2022",
+          "publishedOn": "2022-10-01T18:39:13.000Z",
+          "wordCount": 6152,
+          "title": "Monthly Horoscope: Pisces, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63335642f5756300963039a4/lede/1664585640285-7librascorpiomonthly71920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63335642f5756300963039a4/lede/1664585640285-7librascorpiomonthly71920x1080.jpeg"
+        },
+        {
+          "id": "4axq3g",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Aquarius!",
+          "link": "https://www.vice.com/en_us/article/4axq3g/monthly-horoscope-aquarius-october-2022",
+          "publishedOn": "2022-10-01T18:24:26.000Z",
+          "wordCount": 6487,
+          "title": "Monthly Horoscope: Aquarius, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633331a40b7b1a0094aef6f8/lede/1664585642798-7librascorpiomonthly61920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633331a40b7b1a0094aef6f8/lede/1664585642798-7librascorpiomonthly61920x1080.jpeg"
+        },
+        {
           "id": "qjkw8x",
           "author": "Annabel Gat",
           "description": "Welcome to Libra season, dear Capricorn!",
@@ -15549,6 +15594,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/2022/10/1/23380820/brazil-election-bolsonaro-lula-results",
+          "author": null,
+          "description": "Current president of Brazil and candidate for re-election Jair Bolsonaro (center) greets supporters during a campaign rally on September 07, 2022 in Rio de Janeiro, Brazil. | Wagner Meier/Getty Images\n    \n\n  \nA loss by President Jair Bolsanaro could cause chaos. But experts say a coup is unlikely. \n The first round of Brazil’s presidential election is set to take place on Sunday, with current far-right President Jair Bolsonaro and the center-left former president Luiz Inacio Lula da Silva, or Lula as he’s commonly known, as the frontrunners of 11 candidates. The campaign has mimicked the 2020 US election in some crucial ways, with Bolsonaro claiming that the election is rigged and that the only way his opposition can keep him out of power is by stealing the election. \nLula has a clear lea…",
+          "link": "https://www.vox.com/2022/10/1/23380820/brazil-election-bolsonaro-lula-results",
+          "publishedOn": "2022-10-01T18:47:13.000Z",
+          "wordCount": 3953,
+          "title": "How the Brazilian election could destabilize a divided country",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/_7682W-_OK70PcFQJvU2d25cx7s=/0x297:4136x2462/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24071605/1421689091.jpg"
+        },
         {
           "id": "https://www.vox.com/policy-and-politics/2022/10/1/23380326/future-ukraine-russia-war",
           "author": null,
@@ -20889,6 +20944,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/01-1/feature-a-brief-history-of-superhero-anime-from-astro-boy-to-my-hero-academia",
+          "author": "Sean Aitchison",
+          "description": "How Japanese theater, Shotaro Ishinomori, and magical girls defined Japan's superhero media \n\n\nThough superheroes are more often associated with western comics and, these days, multibillion-dollar movies, they also have a long, rich history in Japan. Superheroes have thrived in Japanese media for decades, so let’s take a deep dive to see how we got from 17th-century Japanese theater to Dragon Ball Super: SUPER HERO.",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/01-1/feature-a-brief-history-of-superhero-anime-from-astro-boy-to-my-hero-academia",
+          "publishedOn": "2022-10-01T18:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: A Brief History of Superhero Anime, From Astro Boy to My Hero Academia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01/spy-x-family-crunchyroll-fall-2022-spotlight",
+          "author": "Joseph Luster",
+          "description": "The Forgers are back, and they brought a new friend along for the Operation!\n\n\nWe'll find out how the operation goes when SPY x FAMILY continues today as part of the Crunchyroll Fall 2022 Spotlight, and you can read all about the show in our spotlight after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01/spy-x-family-crunchyroll-fall-2022-spotlight",
+          "publishedOn": "2022-10-01T17:00:00.000Z",
+          "wordCount": 6394,
+          "title": "SPY x FAMILY - Crunchyroll Fall 2022 Spotlight",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/c583fa41e0bddcb84d3f70f87f5528b81663340095_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/kingdom-season-5-continues-the-epic-battle-in-january-2024",
           "author": "Joseph Luster",
           "description": "The fourth season came to a close with a big announcement\n\n\nWhile the final episode of the Kingdom TV anime's fourth season had to be postponed by 45 minutes to make way for earthquake coverage, that didn't stop it from closing things out with a big announcement. Read on for more.",
@@ -24392,6 +24467,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-journalist-held-for-alleged-rape/articleshow/94590987.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: J&K police said Saturday that “journalist” Nadeem Ahmad Ganie, who reportedly worked for a Valley-based news agency, was arrested Friday fol.",
+          "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-journalist-held-for-alleged-rape/articleshow/94590987.cms",
+          "publishedOn": "2022-10-01T18:52:29.000Z",
+          "wordCount": 5244,
+          "title": "Jammu and Kashmir 'journalist' held for alleged rape",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/crpf-itbp-get-new-chiefs/articleshow/94590243.cms",
           "author": null,
