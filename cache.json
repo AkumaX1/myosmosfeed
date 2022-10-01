@@ -2209,6 +2209,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/inflation-consumption-tax-rich.html",
+          "author": "Ezra Klein",
+          "description": "The case for a progressive levy on consumption.",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/inflation-consumption-tax-rich.html",
+          "publishedOn": "2022-10-01T15:00:05.000Z",
+          "wordCount": null,
+          "title": "There Is a Tax That Could Help With Inflation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html",
+          "author": "The Editorial Board",
+          "description": "A court that does not keep the public’s trust cannot perform its critical role in American government.",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html",
+          "publishedOn": "2022-10-01T15:00:05.000Z",
+          "wordCount": null,
+          "title": "The Supreme Court Has a Crisis of Trust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/school-private-college.html",
+          "author": "Sophie Callcott",
+          "description": "And it can be yours for just four yearly payments of $50,000!",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/school-private-college.html",
+          "publishedOn": "2022-10-01T15:00:05.000Z",
+          "wordCount": null,
+          "title": "How Private High Schools Keep the College Pay-to-Win Game Going",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html",
           "author": "Alexander Baunov",
           "description": "Amid the bluster and veiled threats, the president made three distinct points that form a blueprint for war and peace.",
@@ -2716,6 +2746,16 @@
           "publishedOn": "2022-09-30T14:56:43.000Z",
           "wordCount": null,
           "title": "How Hard Should Your Workout Be?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/well/live/hair-loss-covid.html",
+          "author": "Knvul Sheikh",
+          "description": "Increased shedding after illness is not unusual. The good news is that it’s most likely temporary.",
+          "link": "https://www.nytimes.com/2022/09/30/well/live/hair-loss-covid.html",
+          "publishedOn": "2022-09-30T14:40:19.000Z",
+          "wordCount": null,
+          "title": "Hair Loss After Covid: What to Know",
           "imageUrl": null
         },
         {
@@ -8327,6 +8367,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234603626",
+          "author": "Daniel Kreps",
+          "description": "Singers stage surprise collaboration at Pearl Jam frontman's Dana Point, California fest",
+          "link": "https://www.rollingstone.com/music/music-news/stevie-nicks-eddie-vedder-duet-stop-draggin-my-heart-around-ohana-1234603626/",
+          "publishedOn": "2022-10-01T16:49:37.000Z",
+          "wordCount": 7040,
+          "title": "See Stevie Nicks, Eddie Vedder Duet ‘Stop Draggin’ My Heart Around’ at Ohana Festival",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/nicksvedder.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234599685",
           "author": "Althea Legaspi",
           "description": "Country singer previously covered the band’s single for 2021’s Blacklist tribute LP",
@@ -10050,6 +10100,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2413242",
+          "author": "Anna Heim",
+          "description": "More companies are adopting product-led growth (PLG) and usage-based pricing (UBP) than ever before. And a new wave of startups is helping them succeed at it.\nThe rise of product-led growth is creating opportunities for startups by Anna Heim originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/the-rise-of-product-led-growth-is-creating-opportunities-for-startups/",
+          "publishedOn": "2022-10-01T17:00:05.000Z",
+          "wordCount": 6863,
+          "title": "The rise of product-led growth is creating opportunities for startups",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2415222",
+          "author": "Devin Coldewey",
+          "description": "There’s a lot of chatter right now about the “surprise” shutdown of Stadia, Google’s game-streaming service. While it’s true that rivals like Geforce Now and Xbox Cloud Gaming presented entrenched competition, and that Google knows next to nothing about gaming, the main trouble — as with most of its products these days — is that […]\nStadia died because no one trusts Google by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/",
+          "publishedOn": "2022-10-01T16:45:56.000Z",
+          "wordCount": 9352,
+          "title": "Stadia died because no one trusts Google",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/stadia-glitched.jpg?resize=1200,772"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2415997",
+          "author": "Matt Burns",
+          "description": "Trevor Martin’s Mammoth Biosciences aims to use CRISPR technology to democratize disease detection. Join this TechCrunch Live event to hear from Trevor Martin and Mayfield investor Ursheet Parikh on how Mammoth Biosciences positioned itself to achieve the lofty goal. Spoiler: Trevor Martin spent time putting the basics in place to ensure future success. This TechCrunch […]\nBuild for the future now with Mammoth Biosciences and Mayfield by Matt Burns originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/build-for-the-future-now-with-mammoth-biosciences-and-mayfield/",
+          "publishedOn": "2022-10-01T16:32:58.000Z",
+          "wordCount": 7172,
+          "title": "Build for the future now with Mammoth Biosciences and Mayfield",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/TCL-2022-10-05-featured-1920x1080-1.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2403653",
           "author": "Lucas Matney",
@@ -13217,6 +13297,36 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "k7bn8w",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Sagittarius!",
+          "link": "https://www.vice.com/en_us/article/k7bn8w/monthly-horoscope-sagittarius-october-2022",
+          "publishedOn": "2022-10-01T16:56:10.000Z",
+          "wordCount": 6820,
+          "title": "Monthly Horoscope: Sagittarius, October",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6331dafb112f84009b7d5731/lede/1664585602882-7librascorpiomonthly21920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6331dafb112f84009b7d5731/lede/1664585602882-7librascorpiomonthly21920x1080.jpeg"
+        },
+        {
+          "id": "pkgz4k",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Scorpio!",
+          "link": "https://www.vice.com/en_us/article/pkgz4k/monthly-horoscope-scorpio-october-2022",
+          "publishedOn": "2022-10-01T16:38:45.000Z",
+          "wordCount": 7322,
+          "title": "Monthly Horoscope: Scorpio, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/632b22610a2c8e00976ab158/lede/1664585648738-7librascorpiomonthly11920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/632b22610a2c8e00976ab158/lede/1664585648738-7librascorpiomonthly11920x1080.jpeg"
+        },
         {
           "id": "y3p5k5",
           "author": "Becca Blasdel",
@@ -17836,6 +17946,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman",
+          "author": null,
+          "description": "Image: 20th Century Fox\n    \n\n\n  \nRemember when they gave Deadpool laser vision? We remember\n On an evening that might have otherwise been dominated by some faintly alarming MCU developments, patient Ryan Reynolds fans received a delightful surprise: The star will be returning for the long-awaited Deadpool threequel, slated for release in 2024. But that was only half the bombshell dropped in Reynolds’ video tweet on Tuesday evening. Joining the titular Marvel antihero will be an even less expected, though perhaps even more highly anticipated, co-star: Hugh Jackman’s Wolverine.\nBut it won’t be the first time these two characters have gone face-to-face on the big screen. That extremely dubious honor belongs to what may still reign as the most detested and willfully forgotten installment of 2…",
+          "link": "https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman",
+          "publishedOn": "2022-10-01T17:00:00.000Z",
+          "wordCount": 2117,
+          "title": "Wolverine in Deadpool 3 sounds like an apology for the worst X-Men movie",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/foGNOi4ewBT_w5nXGE-Q6_gK2i0=/74x0:1633x816/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24068967/xmen_wolverine_movie_screencaps.com_10833.jpg"
+        },
+        {
           "id": "https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream",
           "author": null,
           "description": "Graphic: Pete Volk/Polygon | Image sources: Arrow Films\n    \n\n\n  \nA full month of spooky recommendations to stream, from horror movies to Halloween specials and everything in between\n Is there anything better than Halloween season?\nSure, here at Polygon we cover horror year-round. We have our rolling lists of the best horror movies you can watch at home and the best horror movies on Netflix that are updated every month of the year.\nBut even for year-round horror fans, Halloween is a special time of year.\nFor the past two years, Polygon has put together a Halloween Countdown calendar, offering a Halloween-friendly movie or TV show available to watch at home every day of October. We’re delighted to bring that back once again, with 31 spooky selections to keep the mood going all month long.\nE…",
@@ -18492,6 +18612,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "3f3693f3-af7d-4d76-828e-594b3c809fdf",
+          "author": "Chris Reed",
+          "description": "An updated list of release dates for PS5, PS4, Xbox One, Series X, and Nintendo Switch games.",
+          "link": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+          "publishedOn": "2022-10-01T14:56:02.000Z",
+          "wordCount": 18304,
+          "title": "Video Game Release Dates: Biggest Games of 2022 and Beyond",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/01/biggamereleases-oct2022-blogroll-1664571694935-1664636450051.jpg?width=1280"
+        },
         {
           "id": "e58405ad-a57e-4fca-a6d6-750ef284761b",
           "author": "Adam Bankhurst",
@@ -20673,6 +20803,36 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/kingdom-season-5-continues-the-epic-battle-in-january-2024",
+          "author": "Joseph Luster",
+          "description": "The fourth season came to a close with a big announcement\n\n\nWhile the final episode of the Kingdom TV anime's fourth season had to be postponed by 45 minutes to make way for earthquake coverage, that didn't stop it from closing things out with a big announcement. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01-1/kingdom-season-5-continues-the-epic-battle-in-january-2024",
+          "publishedOn": "2022-10-01T16:27:50.000Z",
+          "wordCount": 5953,
+          "title": "Kingdom Season 5 Continues the Epic Battle in January 2024",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/ab1cf45367cc2fe7e9064cc9bf4d1fcb1664641655_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/01/event-tokyo-game-show-2022-returns-for-this-seasons-biggest-games",
+          "author": "Daryl Harding",
+          "description": "Check out some impressions from the show floor, including the first preview of the PS VR2\n\n\nTokyo Game Show finally respawned this year after skipping a few in-person years due to the pandemic. While Japan’s borders were closed as of this writing, the show must go on, and boy did the Japanese game industry come out and show the world what it’s made of. Follow the journey past the jump!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/01/event-tokyo-game-show-2022-returns-for-this-seasons-biggest-games",
+          "publishedOn": "2022-10-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "EVENT: Tokyo Game Show 2022 Returns For This Season's Biggest Games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/my-hero-academia-season-6-crunchyroll-fall-2022-spotlight",
+          "author": "Joseph Luster",
+          "description": "Kohei Horikoshi's series finally returns to the screen today!\n\n\nThe time has finally come for the return of the My Hero Academia anime, which is officially back in action as part of the Crunchyroll Fall 2022 Lineup with season 6! Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01-1/my-hero-academia-season-6-crunchyroll-fall-2022-spotlight",
+          "publishedOn": "2022-10-01T16:00:00.000Z",
+          "wordCount": 6102,
+          "title": "My Hero Academia Season 6 - Crunchyroll Fall 2022 Spotlight",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/751b24b587a8035c19fc6bbca74259561663001471_main.png"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/the-forgers-daily-life-is-on-display-in-spy-x-family-tv-animes-2nd-ending-theme-song-video",
           "author": "Daryl Harding",
@@ -24147,6 +24307,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/thats-it-jaishankar-says-india-expert-in-it-pakistan-in-international-terrorism/articleshow/94589302.cms",
+          "author": null,
+          "description": "In a veiled reference to Pakistan, external affairs minister S Jaishankar said that while India is an expert in Information Technology, \"our neighbour is an expert in international terrorism\".",
+          "link": "https://timesofindia.indiatimes.com/india/thats-it-jaishankar-says-india-expert-in-it-pakistan-in-international-terrorism/articleshow/94589302.cms",
+          "publishedOn": "2022-10-01T15:57:16.000Z",
+          "wordCount": 6705,
+          "title": "IT vs IT: Jaishankar says India expert in IT, Pakistan in 'International Terror'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94589314,width-1070,height-580,imgsize-68726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/stalin-demands-review-of-constitution-to-make-it-truly-federal/articleshow/94589291.cms",
+          "author": null,
+          "description": "There is a need for review of the Constitution to make it truly federal, DMK president and Tamil Nadu Chief Minister MK Stalin said on Saturday. ​​Pitching for opposition unity across the nation to take on the BJP, Stalin said, \"Individual voices here and there are not much of use. It should be a united voice. It is not enough if we are together only in a few states. We should stand united in all states. We should be an all-India force.\"",
+          "link": "https://timesofindia.indiatimes.com/india/stalin-demands-review-of-constitution-to-make-it-truly-federal/articleshow/94589291.cms",
+          "publishedOn": "2022-10-01T15:55:39.000Z",
+          "wordCount": 7146,
+          "title": "Stalin demands review of Constitution to make it 'truly federal'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94589436,width-1070,height-580,imgsize-16464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/kodiyeri-balakrishnan-dies-in-chennai-hospital/articleshow/94588838.cms",
           "author": null,
@@ -28335,6 +28515,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/south-asia/un-raises-kabul-classroom-bombing-death-toll-to-35-as-women-protest-genocide/articleshow/94588859.cms",
+          "author": null,
+          "description": "The death toll of a suicide bombing on a Kabul classroom has risen to 35, the UN said Saturday, as Shiite Hazara women who bore the brunt of the attack staged a defiant protest against the \"genocide\" of their minority community.",
+          "link": "https://timesofindia.indiatimes.com/world/south-asia/un-raises-kabul-classroom-bombing-death-toll-to-35-as-women-protest-genocide/articleshow/94588859.cms",
+          "publishedOn": "2022-10-01T15:20:33.000Z",
+          "wordCount": 10482,
+          "title": "UN raises Kabul classroom bombing death toll to 35 as women protest",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94588989,width-1070,height-580,imgsize-96282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/kabul-blast-a-setback-for-afghan-women-seeking-education-against-the-odds/articleshow/94588321.cms",
           "author": null,
           "description": "South Asia News: KABUL: Raihana, 19, wanted to be a doctor, studying until midnight in recent weeks for Afghanistan's university entrance exam, a chance for women to a.",
@@ -30319,6 +30509,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/thats-it-jaishankar-says-india-expert-in-it-pakistan-in-international-terrorism/articleshow/94589302.cms",
+          "author": null,
+          "description": "In a veiled reference to Pakistan, external affairs minister S Jaishankar said that while India is an expert in Information Technology, \"our neighbour is an expert in international terrorism\".",
+          "link": "https://timesofindia.indiatimes.com/india/thats-it-jaishankar-says-india-expert-in-it-pakistan-in-international-terrorism/articleshow/94589302.cms",
+          "publishedOn": "2022-10-01T15:57:16.000Z",
+          "wordCount": 6705,
+          "title": "Jaishankar compares India's IT to Pakistan's 'IT', with a terror dig",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94589314,width-1070,height-580,imgsize-68726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/south-asia/chinas-failure-to-invest-in-afghanistan-is-frustrating-the-taliban/articleshow/94468965.cms",
           "author": null,
           "description": "The US withdrawal from Afghanistan after two decades of war opened up an opportunity for China to expand its influence and lock down access to the country's vast mineral deposits. It hasn't worked out that way. Over a year after US troops left, Afghanistan's economy is collapsing, 19 million people are at risk of acute hunger and the investment the Taliban were counting on from Beijing hasn't arrived.",
@@ -30337,6 +30537,16 @@
           "wordCount": 6495,
           "title": "India vs SA: Rain threat looms over sell-out 2nd T20I",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94588920,width-1070,height-580,imgsize-103764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/nuclear-escalation-a-sense-of-victory-why-putin-annexed-15-of-ukrainian-territory/articleshow/94588380.cms",
+          "author": null,
+          "description": "Europe News: NEW DELHI: Russian President Vladimir Putin on Friday signed decrees to declare four Ukrainian territories as part of Russia through a widely denounce.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/nuclear-escalation-a-sense-of-victory-why-putin-annexed-15-of-ukrainian-territory/articleshow/94588380.cms",
+          "publishedOn": "2022-10-01T14:50:38.000Z",
+          "wordCount": 12658,
+          "title": "Why Putin annexed 15% of Ukrainian territory?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94588475,width-1070,height-580,imgsize-35662,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/arrest-warrant-issued-against-former-pakistan-pm-imran-khan-over-remarks-against-female-judge/articleshow/94587955.cms",
@@ -30637,6 +30847,16 @@
           "wordCount": 6534,
           "title": "2nd T20I: Indian pacers look to impress in Bumrah's absence",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94574981,width-1070,height-580,imgsize-23284,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/durga-puja-rajasthan-politics-arvind-kejriwal-karnataka-bharat-jodo-yatra-1-october-2022/liveblog/94574402.cms",
+          "author": null,
+          "description": "At least 22 people were killed after a tractor-trolley in which they were travelling fell into a pond in Ghatampur area of Kanpur late on Saturday evening. The condition of several people is said to be critical. Stay with TOI for all the latest updates:",
+          "link": "https://timesofindia.indiatimes.com/city/durga-puja-rajasthan-politics-arvind-kejriwal-karnataka-bharat-jodo-yatra-1-october-2022/liveblog/94574402.cms",
+          "publishedOn": "2022-10-01T02:27:51.000Z",
+          "wordCount": 10517,
+          "title": "Live: 22 killed, several injured as tractor-trolley falls into pond in Kanpur",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94574402,width-1070,height-580,imgsize-736261,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-modi-shuns-mic-adheres-to-norms/articleshow/94573856.cms",
