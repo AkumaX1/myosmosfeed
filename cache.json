@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/1/23380726/eufy-dual-video-doorbell-ring-amazon-echo-show-5-fire-tv-cube-deal-sale",
+          "author": null,
+          "description": "The Eufy Dual utilizes a second lens, aimed downward, for watching over packages. | Photo by Jennifer Pattison Tuohy / The Verge\n    \n\n  \nIt’s the first of October, which means it’s officially Spooky Season. And while I’m sure all of us are excited to put up our fearsome 12-foot skeletons, there’s nothing fun about the fear of having a package stolen off your porch. A video doorbell is a good way to keep a watchful eye over your front stoop.\nThe wired version of the Eufy Dual video doorbell is on sale at Amazon or direct from Eufy for $149.99 ($50 off). Amazon requires you to click the $50 on-page coupon, while Eufy has a coupon code of WSCP856PGC to use at checkout for the discounted price. The appeal of the Eufy is that it has two separate lenses, one for seeing who is at your door and o…",
+          "link": "https://www.theverge.com/2022/10/1/23380726/eufy-dual-video-doorbell-ring-amazon-echo-show-5-fire-tv-cube-deal-sale",
+          "publishedOn": "2022-10-01T13:00:00.000Z",
+          "wordCount": 10538,
+          "title": "The package-tracking Eufy Dual video doorbell is $50 off and doesn’t require a monthly fee",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/W3pLa1tlkcEGpKfsL2EcLimm9QM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23242028/jtuohy_220209_5016_0013.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nTesla's Optimus robot prototype was not the only thing the company shared on Friday evening during its AI Day presentation. Autopilot director Ashok Elluswamy took the stage during Tesla's AI day to talk about how the company's Full Self Driving software has improved. He revealed that there are now 160,000 customers running the beta software, compared to 2,000 from this time last year. \nIn total, Tesla says there have been 35 software releases of FSD. In a Q&A at the end of the presentation, Musk made another prediction — he's made a few before — that the technology would be ready for a worldwide rollout by the end of this year but acknowledged the regulatory and testing hurdles that remained before that happens.\nImage: Tesla\n      Tesla lis…",
@@ -2178,6 +2188,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/putin-russia-ukraine-nuclear.html",
+          "author": "Maureen Dowd",
+          "description": "What does Vlad the Impaler have in store for the world?",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/putin-russia-ukraine-nuclear.html",
+          "publishedOn": "2022-10-01T13:11:42.000Z",
+          "wordCount": null,
+          "title": "Vladimir Putin’s ‘Medea’",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html",
           "author": "Elian Peltier",
@@ -9464,6 +9484,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/music/music-lists/50-greatest-comedies-of-the-21st-century-630244/",
+          "author": "Rolling Stone",
+          "description": "From rom-coms to raunch-coms, 'Anchorman' to 'Girls Trip' —our updated list of the funniest movies of the millennium so far",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/greatest-comedies-of-the-21st-century-630244/",
+          "publishedOn": "2022-10-01T13:00:00.000Z",
+          "wordCount": 15791,
+          "title": "70 Greatest Comedies of the 21st Century",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs_lead_50greatestcomediens-bd9f4b1d-ae37-47ce-b25d-3753b5378345.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600495",
           "author": "Alan Sepinwall",
           "description": "The Emmy-nominated showrunner brought his singular sense of humor to an extremely personal ballot for our list of the 100 greatest shows of all time. See what he voted for — and why",
@@ -9960,6 +9990,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2415827",
+          "author": "Manish Singh",
+          "description": "Juno, a startup that provides checking accounts to crypto enthusiasts and allows them to take their paychecks in digital tokens, has raised a new funding round as it expands its offerings to include a tokenized loyalty program. The one-and-a-half-year old startup has amassed over 75,000 customers in the U.S. who take their salaries (some in […]\nWeb3 banking platform Juno raises $18 million, launches tokenized loyalty program by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/01/crypto-native-banking-platform-juno-raises-18-million-launches-tokenized-loyalty-program/",
+          "publishedOn": "2022-10-01T13:00:19.000Z",
+          "wordCount": 8000,
+          "title": "Web3 banking platform Juno raises $18 million, launches tokenized loyalty program",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/juno-founders.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2415797",
           "author": "Darrell Etherington",
@@ -15245,6 +15285,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/10/1/23380326/future-ukraine-russia-war",
+          "author": null,
+          "description": "A Ukrainian serviceman is seen through a window of a door with a “Z” spray-painted on it as he inspects a kindergarten classroom that was used by Russian forces in Kapitolivka, Ukraine, on September 25. | Evgeniy Maloletka/AP\n    \n\n  \nThe underdog made a comeback. Now, here’s what Ukraine needs to sustain its victories.\n Ukraine’s counteroffensive against Russia is defying the odds, and it has sent Russian President Vladimir Putin to a new point of desperation: On Friday, he announced that Russia had, in an illegal move, annexed four occupied regions in Ukraine.\nEarlier in the week he mobilized hundreds of thousands of Russians, as just as many Russians seem to be fleeing the country to avoid fighting in the conflict.  \nBut there are still big questions about where the war goes from here a…",
+          "link": "https://www.vox.com/policy-and-politics/2022/10/1/23380326/future-ukraine-russia-war",
+          "publishedOn": "2022-10-01T13:00:00.000Z",
+          "wordCount": 4556,
+          "title": "3 questions that will determine the future of Ukraine’s fight against Russia",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/b8TZsapTo8Wd5i1CYb5a8pXDwc8=/0x348:4200x2547/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069592/AP22268767574855a.jpg"
+        },
+        {
           "id": "https://www.vox.com/culture/2022/10/1/23376438/podcasting-pop-culture-and-just-like-that-only-murders",
           "author": null,
           "description": "Carrie Bradshaw is a podcaster! | HBO Max/And Just Like That\n    \n\n  \nIn shows like And Just Like That and Only Murders in the Building, main characters have become podcasters. But not every show gets it right. \n Welcome to Noticed, Vox’s cultural trend column. You know that thing you’ve been seeing all over the place? Allow us to explain it.\nWhat it is\nMain characters in television shows and movies who are podcast hosts or are part of a podcast, but the “podcasting” in question doesn’t resemble podcasting at all. Sometimes these podcasts are just radio shows. Sometimes these portrayals make podcasting look as simple as recording a voice note. \nWhere it is\nOn the Sex and the City revival And Just Like That, the X, Y and Me podcast co-hosted by Che Diaz (Sara Ramirez) and Carrie Bradshaw (S…",
@@ -17038,6 +17088,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox",
+          "author": null,
+          "description": "Illustration: James Bareham/Polygon\n    \n\n\n  \nHere’s what you should be playing on Xbox and PC\n Xbox’s Game Pass service is having another strong year. From new titles like Nobody Saves the World to legacy juggernauts like Halo: The Master Chief Collection, it’s still the easiest way to keep up with gaming without breaking the bank. And the service is always evolving, adding new games each month, with many of the titles available across multiple Xbox consoles and PC through Xbox Game Pass Ultimate.\nMicrosoft’s Bethesda acquisition saw great titles like Skyrim and Fallout 3 come to Game Pass. And many expect similar moves to come for games like Overwatch 2, Diablo 3, and maybe even World of Warcraft, with Microsoft’s acquisition of Activision Blizzard still churning in the background.\nPast …",
+          "link": "https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox",
+          "publishedOn": "2022-10-01T13:01:00.000Z",
+          "wordCount": 6428,
+          "title": "The 29 best games on Game Pass",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Gp-2AtZcFQ23rCuz0ZjOrRfsBBY=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23179061/jbareham_220118_ecl1087_stock_xbox_one_pass.jpg"
+        },
         {
           "id": "https://www.polygon.com/23380306/overwatch-2-pre-download-release-time-early-access-launch",
           "author": null,
@@ -20494,6 +20554,26 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/sword-art-online-takes-on-the-stage-in-new-live-entertainment-show",
+          "author": "Daryl Harding",
+          "description": "Sword Art Online - Dive to Stage - starts up in Tokyo this November\n\n\nSword Art Online has conquered the big and small screen, video games, light novels, manga and even prop sword makers, but now thanks to the 10th anniversary of the anime franchise, it's time for SAO to take on the final level – the stage. Press start to learn more after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01-1/sword-art-online-takes-on-the-stage-in-new-live-entertainment-show",
+          "publishedOn": "2022-10-01T12:56:04.000Z",
+          "wordCount": 5935,
+          "title": "Sword Art Online Takes on the Stage in New Live Entertainment Show",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/bc1c5d61dfddbb98632548df1f92742e1664628947_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/next-granblue-fantasy-fes-event-locked-in-for-january-20-22",
+          "author": "Joseph Luster",
+          "description": "Advance tickets are now available for the event, which will be held at Tokyo Big Sight\n\n\nIt's almost time once again to celebrate all things Granblue Fantasy, because dates are officially in place for Granblue Fantasy Fes 2022-2023. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/01-1/next-granblue-fantasy-fes-event-locked-in-for-january-20-22",
+          "publishedOn": "2022-10-01T11:45:45.000Z",
+          "wordCount": 5888,
+          "title": "Next Granblue Fantasy Fes Event Locked in for January 20-22",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/58e9ea4b8e02046847897f51ed6762c81664624718_main.jpg"
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/10/01-1/my-hero-academia-tv-anime-leans-into-its-comic-roots-in-season-6-opening-theme-song-video",
           "author": "Daryl Harding",
           "description": "Both the opening and ending for season six have been released creditless\n\n\n A new season of My Hero Academia brings a new opening and ending theme song videos, both of which were released shortly after the airing of the new episode without credits on Toho Animation's YouTube Channel. You can catch both of them past the jump!",
@@ -22231,6 +22311,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/turkey-renews-threat-to-block-swedish-finnish-nato-bids/article65959235.ece",
+          "author": "AFP",
+          "description": "President Erdogan has accused both countries of being havens for Kurdish militants, specifically highlighting the outlawed Kurdistan Workers' Party (PKK), and for promoting \"terrorism\".",
+          "link": "https://www.thehindu.com/news/international/turkey-renews-threat-to-block-swedish-finnish-nato-bids/article65959235.ece",
+          "publishedOn": "2022-10-01T13:27:19.000Z",
+          "wordCount": 6174,
+          "title": "Turkey renews threat to block Swedish, Finnish NATO bids",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/kn9fa1/article65959264.ece/alternates/LANDSCAPE_615/AFP_32K73E7.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/russian-troops-encircled-near-key-ukraine-town-in-annexed-region/article65959113.ece",
+          "author": "AFP",
+          "description": "Ukrainian forces were on the doorstep of Lyman town in Donetsk, which Moscow's forces pummelled for weeks to capture this spring.",
+          "link": "https://www.thehindu.com/news/international/russian-troops-encircled-near-key-ukraine-town-in-annexed-region/article65959113.ece",
+          "publishedOn": "2022-10-01T13:06:16.000Z",
+          "wordCount": 6577,
+          "title": "Russian troops &#039;encircled&#039; near key Ukraine town in annexed region",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/xbdyvq/article65959158.ece/alternates/LANDSCAPE_615/2022-10-01T112043Z_2060083981_RC28WT9JO5LG_RTRMADP_3_UKRAINE-CRISIS-LYMAN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/dozens-dead-from-hurricane-ian-fourth-costliest-hurricane-in-us-history/article65958817.ece",
           "author": "AP",
           "description": "Now weakened to a post-tropical cyclone, Ian was expected to move across central North Carolina on Saturday morning and reach south-central Virginia by the afternoon",
@@ -23887,6 +23987,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/s-p-dharkar-new-chief-of-iaf-eastern-air-command/articleshow/94586051.cms",
+          "author": null,
+          "description": "India News: Shillong, Air Marshal S P Dharkar on Saturday took charge as Air Officer Commanding-in-Chief of the Indian Air Force's Eastern Air Command, officials .",
+          "link": "https://timesofindia.indiatimes.com/india/s-p-dharkar-new-chief-of-iaf-eastern-air-command/articleshow/94586051.cms",
+          "publishedOn": "2022-10-01T12:29:50.000Z",
+          "wordCount": 5410,
+          "title": "S P Dharkar new chief of IAF Eastern Air Command",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94586058,width-1070,height-580,imgsize-106790,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms",
           "author": null,
@@ -28025,6 +28135,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-faces-fresh-uncertainty-after-latest-coup/articleshow/94584172.cms",
+          "author": null,
+          "description": "Rest of World News: OUAGADOUGOU: Burkina Faso awoke to fresh uncertainty Saturday after its second coup this year when junior officers toppled a junta leader, saying he h.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-faces-fresh-uncertainty-after-latest-coup/articleshow/94584172.cms",
+          "publishedOn": "2022-10-01T11:09:40.000Z",
+          "wordCount": 10071,
+          "title": "Burkina Faso faces fresh uncertainty after latest coup",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94585504,width-1070,height-580,imgsize-43838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/eu-chief-new-greece-bulgaria-gas-pipeline-means-freedom/articleshow/94582907.cms",
           "author": null,
           "description": "Europe News: SOFIA: The president of the European Union's (EU) executive arm traveled Saturday to Bulgaria for the opening of a natural gas link between the countr.",
@@ -29939,6 +30059,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indiat20-world-cup/wont-go-deep-in-medical-reports-will-wait-for-official-confirmation-rahul-dravid-on-jasprit-bumrah/articleshow/94587100.cms",
+          "author": null,
+          "description": "Pace spearhead Jasprit Bumrah is set to miss the T20 World Cup due to an injury but head coach Rahul Dravid on Saturday said he won't go deep into his medical reports and will wait for an official confirmation regarding his availability for the showpiece in Australia.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indiat20-world-cup/wont-go-deep-in-medical-reports-will-wait-for-official-confirmation-rahul-dravid-on-jasprit-bumrah/articleshow/94587100.cms",
+          "publishedOn": "2022-10-01T13:23:50.000Z",
+          "wordCount": 7982,
+          "title": "Will wait for official confirmation: Dravid on Bumrah",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94587106,width-1070,height-580,imgsize-72784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/woman-touches-feet-of-ramayan-fame-arun-govil-at-the-airport-netizens-say-people-still-see-lord-ram-in-him/articleshow/94586772.cms",
+          "author": null,
+          "description": "Arun Govil, who played Lord Ram in Ramanand Sagar's television series Ramayan, continues to be revered and hailed as God by the audience. A recent viral video sees a woman touching his feet out of respect and getting emotional on meeting the actor at the airport.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/woman-touches-feet-of-ramayan-fame-arun-govil-at-the-airport-netizens-say-people-still-see-lord-ram-in-him/articleshow/94586772.cms",
+          "publishedOn": "2022-10-01T13:09:40.000Z",
+          "wordCount": 9284,
+          "title": "Woman touches feet of Ramayan fame Arun Govil at airport",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94586711,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75/94586711.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russian-troops-encircled-near-key-ukraine-town-in-annexed-region/articleshow/94585817.cms",
+          "author": null,
+          "description": "Ukraine said Saturday it encircled several thousand Russian troops near a key town in one of the four Moscow-held territories that President Vladimir Putin annexed a day earlier despite condemnation from Kyiv and the West.Putin staged a grand ceremony in the Kremlin on Friday to celebrate the annexations of four territories controlled by his army.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russian-troops-encircled-near-key-ukraine-town-in-annexed-region/articleshow/94585817.cms",
+          "publishedOn": "2022-10-01T12:18:12.000Z",
+          "wordCount": 9834,
+          "title": "Russian troops 'encircled' near key Ukraine town in annexed region",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94585864,width-1070,height-580,imgsize-71054,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/indore-declared-cleanest-city-for-6th-consecutive-time-ndmc-slips-to-9th-position/articleshow/94584360.cms",
           "author": null,
           "description": "Indore emerged as the cleanest city of India for the 6th time in a row while Surat has scored a hat-trick as the second cleanest city since 2020. Navi Mumbai is the third cleanest city while NDMC, which houses the county's most powerful people, has slipped to 9th position in 2022 from being the fifth cleanest city last year and 8th in 2020.",
@@ -29947,6 +30097,16 @@
           "wordCount": 6557,
           "title": "Indore declared cleanest city for 6th consecutive time, NDMC slips to 9th position",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94584380,width-1070,height-580,imgsize-37804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/cars/no-puc-certificate-no-petrol/-diesel-at-delhi-pumps-from-oct-25/articleshow/94583908.cms",
+          "author": null,
+          "description": "Delhi government will also launch 24x7 war room from October 3 to combat pollution and ensure effective and serious implementation of the amended Graded Response Action Plan (GRAP) - a set of anti-air pollution measures followed in the national capital and its vicinity according to the severity of the situation.",
+          "link": "https://timesofindia.indiatimes.com/auto/cars/no-puc-certificate-no-petrol/-diesel-at-delhi-pumps-from-oct-25/articleshow/94583908.cms",
+          "publishedOn": "2022-10-01T11:09:39.000Z",
+          "wordCount": 5946,
+          "title": "No PUC certificate? No petrol/diesel at Delhi pumps from Oct 25",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94583938,width-1070,height-580,imgsize-866380,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-pictures-from-richa-chadha-and-ali-fazals-phool-haldi-and-sangeet-ceremonies-go-viral-on-the-internet/articleshow/94583537.cms",
