@@ -6563,6 +6563,26 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
+          "author": "Kiersten White",
+          "description": "Kiersten White, the Bram Stoker Award-winning author of “The Dark Descent of Elizabeth Frankenstein,” “Hide” and more, recommends a few of her favorite horror novels.",
+          "link": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
+          "publishedOn": "2022-10-01T09:00:17.000Z",
+          "wordCount": null,
+          "title": "7 Terrifying Horror Novels Perfect for Young Adult Readers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html",
+          "author": "Michael Sims",
+          "description": "In “Breathless,” David Quammen explores the predictable lead-up to the global Covid pandemic, and the frantic, belated attempts to stop it.",
+          "link": "https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html",
+          "publishedOn": "2022-10-01T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Book Review: “Breathless,” by David Quammen",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/books/review/celeste-ng-on-race-class-and-suburbia.html",
           "author": null,
           "description": "Ng discusses her best-selling 2017 novel, “Little Fires Everywhere,” and Judy Blume discusses her adult novel “In the Unlikely Event,” from 2015.",
@@ -6989,6 +7009,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
+          "author": "Kiersten White",
+          "description": "Kiersten White, the Bram Stoker Award-winning author of “The Dark Descent of Elizabeth Frankenstein,” “Hide” and more, recommends a few of her favorite horror novels.",
+          "link": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
+          "publishedOn": "2022-10-01T09:00:17.000Z",
+          "wordCount": null,
+          "title": "7 Terrifying Horror Novels Perfect for Young Adult Readers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/30/movies/documentaries-streaming.html",
           "author": "Ben Kenigsberg",
@@ -21956,6 +21986,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece",
+          "author": "AP",
+          "description": "Ukraine’s nuclear power provider has accused Russia of “kidnapping” the head of a nuclear power plant occupied by Russian troops",
+          "link": "https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece",
+          "publishedOn": "2022-10-01T08:27:21.000Z",
+          "wordCount": 6652,
+          "title": "Russia accused of ‘kidnapping’ head of Ukraine’s Zaporizhzhia nuclear plant",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pcfpfs/article65878307.ece/alternates/LANDSCAPE_615/2022-09-11T055210Z_1045045483_RC2SEW95DO7E_RTRMADP_3_UKRAINE-CRISIS-ZAPORIZHZHIA.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/hong-kong-leader-john-lee-promises-revival-on-chinas-national-day/article65958299.ece",
+          "author": "AP",
+          "description": "Hong Kong Chief Executive John Lee warned in a speech that COVID-19 “still overshadows” the city of more than seven million people.",
+          "link": "https://www.thehindu.com/news/international/hong-kong-leader-john-lee-promises-revival-on-chinas-national-day/article65958299.ece",
+          "publishedOn": "2022-10-01T08:12:13.000Z",
+          "wordCount": 6616,
+          "title": "Hong Kong leader John Lee promises revival on China&#039;s National Day",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/kwf69w/article65958321.ece/alternates/LANDSCAPE_615/2022-10-01T011745Z_1429985383_RC20SW9JPL38_RTRMADP_3_CHINA-ANNIVERSARY-FLAG.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/one-dead-dozens-injured-after-earthquake-hits-indonesias-sumatra/article65958219.ece",
           "author": "AFP",
           "description": "A man in his 50s died from a heart attack triggered by the quake and at least 25 other people were injured, regional disaster mitigation agency official said.",
@@ -23542,6 +23592,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-polls-mallikarjun-kharge-resigns-as-lop-rajya-sabha/articleshow/94580114.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Senior Congress leader Mallikarjun Kharge on Friday tendered his resignation as the Leader of Opposition (LoP) in Rajya Sabha as he has fil.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-polls-mallikarjun-kharge-resigns-as-lop-rajya-sabha/articleshow/94580114.cms",
+          "publishedOn": "2022-10-01T07:49:12.000Z",
+          "wordCount": 6226,
+          "title": "Congress president polls: Mallikarjun Kharge resigns as LoP Rajya Sabha",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94580273,width-1070,height-580,imgsize-873080,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/rahul-gandhi-seeks-fair-compensation-for-families-of-covid-victims/articleshow/94579423.cms",
           "author": null,
@@ -27640,6 +27700,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms",
+          "author": null,
+          "description": "Europe News: KYIV: Ukraine’s nuclear power provider accused Russia on Saturday of “kidnapping” the head of Europe’s largest nuclear power plant, a facility now occ.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms",
+          "publishedOn": "2022-10-01T08:46:02.000Z",
+          "wordCount": 10195,
+          "title": "Russia accused of 'kidnapping' head of Ukraine nuclear plant",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94581284,width-1070,height-580,imgsize-37886,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/putin-slams-west-and-us-for-double-standards-cites-plundering-of-india-africa/articleshow/94576832.cms",
+          "author": null,
+          "description": "Europe News: MOSCOW: Russian President Vladimir Putin has reminded the world of the West's colonial policy, plundering of India and Africa, slave trade, and the us.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/putin-slams-west-and-us-for-double-standards-cites-plundering-of-india-africa/articleshow/94576832.cms",
+          "publishedOn": "2022-10-01T06:45:26.000Z",
+          "wordCount": 10638,
+          "title": "Putin slams West and US for 'double standards'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94579000,width-1070,height-580,imgsize-20998,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-fourth-round-of-missile-tests-in-one-week/articleshow/94574216.cms",
           "author": null,
           "description": "North Korea on Saturday fired two short-range ballistic missiles toward its eastern waters, South Korean and Japanese officials said, making it the North's fourth round of weapons launches this week that are seen as a response to military drills among its rivals.",
@@ -29552,6 +29632,16 @@
           "wordCount": 7986,
           "title": "2nd T20I: Team India chases rare series win vs SA",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94579191,width-1070,height-580,imgsize-95692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/mukesh-ambani-promises-5g-across-india-by-december-2023/articleshow/94576215.cms",
+          "author": null,
+          "description": "Reliance Jio, the nation's biggest telecom firm, will expand 5G telephony services offering ultra high-speed internet connectivity to every part of the country by December 2023, its chairman Mukesh Ambani said on Saturday. Jio had in September 2016 made an entry into the telecom sector, offering free voice calls and dirt-cheap data, forcing the competition to either match or fold up/consolidate.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/mukesh-ambani-promises-5g-across-india-by-december-2023/articleshow/94576215.cms",
+          "publishedOn": "2022-10-01T06:55:55.000Z",
+          "wordCount": 6723,
+          "title": "Mukesh Ambani promises 5G across India by Dec 2023",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94579264,width-1070,height-580,imgsize-19684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms",

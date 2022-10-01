@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T08:13:53.367Z</updated>
+    <updated>2022-10-01T09:14:50.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Terrifying Horror Novels Perfect for Young Adult Readers]]></title>
+        <id>https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html"/>
+        <updated>2022-10-01T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Kiersten White, the Bram Stoker Award-winning author of “The Dark Descent of Elizabeth Frankenstein,” “Hide” and more, recommends a few of her favorite horror novels.]]></summary>
+        <author>
+            <name>Kiersten White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Terrifying Horror Novels Perfect for Young Adult Readers]]></title>
+        <id>https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html"/>
+        <updated>2022-10-01T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Kiersten White, the Bram Stoker Award-winning author of “The Dark Descent of Elizabeth Frankenstein,” “Hide” and more, recommends a few of her favorite horror novels.]]></summary>
+        <author>
+            <name>Kiersten White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: “Breathless,” by David Quammen]]></title>
+        <id>https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html"/>
+        <updated>2022-10-01T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[In “Breathless,” David Quammen explores the predictable lead-up to the global Covid pandemic, and the frantic, belated attempts to stop it.]]></summary>
+        <author>
+            <name>Michael Sims</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia accused of 'kidnapping' head of Ukraine nuclear plant]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms"/>
+        <updated>2022-10-01T08:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: KYIV: Ukraine’s nuclear power provider accused Russia on Saturday of “kidnapping” the head of Europe’s largest nuclear power plant, a facility now occ.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia accused of ‘kidnapping’ head of Ukraine’s Zaporizhzhia nuclear plant]]></title>
+        <id>https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece</id>
+        <link href="https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece"/>
+        <updated>2022-10-01T08:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s nuclear power provider has accused Russia of “kidnapping” the head of a nuclear power plant occupied by Russian troops]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong leader John Lee promises revival on China&#039;s National Day]]></title>
+        <id>https://www.thehindu.com/news/international/hong-kong-leader-john-lee-promises-revival-on-chinas-national-day/article65958299.ece</id>
+        <link href="https://www.thehindu.com/news/international/hong-kong-leader-john-lee-promises-revival-on-chinas-national-day/article65958299.ece"/>
+        <updated>2022-10-01T08:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong Chief Executive John Lee warned in a speech that COVID-19 “still overshadows” the city of more than seven million people.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First woman to head ONGC- Read the Story #TheTimesofaBetterIndia]]></title>
         <id>https://bit.ly/3rmD693</id>
@@ -14,6 +74,16 @@
         <summary type="html"><![CDATA[First woman to head ONGC – another glass ceiling broken]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress president polls: Mallikarjun Kharge resigns as LoP Rajya Sabha]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-president-polls-mallikarjun-kharge-resigns-as-lop-rajya-sabha/articleshow/94580114.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-president-polls-mallikarjun-kharge-resigns-as-lop-rajya-sabha/articleshow/94580114.cms"/>
+        <updated>2022-10-01T07:49:12.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Senior Congress leader Mallikarjun Kharge on Friday tendered his resignation as the Leader of Opposition (LoP) in Rajya Sabha as he has fil.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +167,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mukesh Ambani promises 5G across India by Dec 2023]]></title>
+        <id>https://timesofindia.indiatimes.com/gadgets-news/mukesh-ambani-promises-5g-across-india-by-december-2023/articleshow/94576215.cms</id>
+        <link href="https://timesofindia.indiatimes.com/gadgets-news/mukesh-ambani-promises-5g-across-india-by-december-2023/articleshow/94576215.cms"/>
+        <updated>2022-10-01T06:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Reliance Jio, the nation's biggest telecom firm, will expand 5G telephony services offering ultra high-speed internet connectivity to every part of the country by December 2023, its chairman Mukesh Ambani said on Saturday. Jio had in September 2016 made an entry into the telecom sector, offering free voice calls and dirt-cheap data, forcing the competition to either match or fold up/consolidate.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Northeast Diary: ‘Dry’ Manipur brews up a row with new liquor policy]]></title>
         <id>https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms"/>
@@ -114,6 +194,16 @@
         <summary type="html"><![CDATA[India News: The Manipur government’s decision to partially lift alcohol prohibition is facing stiff resistance from local organisations such as the Coalition Agai.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin slams West and US for 'double standards']]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/putin-slams-west-and-us-for-double-standards-cites-plundering-of-india-africa/articleshow/94576832.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/putin-slams-west-and-us-for-double-standards-cites-plundering-of-india-africa/articleshow/94576832.cms"/>
+        <updated>2022-10-01T06:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: MOSCOW: Russian President Vladimir Putin has reminded the world of the West's colonial policy, plundering of India and Africa, slave trade, and the us.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
