@@ -2179,6 +2179,86 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html",
+          "author": "Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri",
+          "description": "The recent flooding has plunged small farmers in sharecropping arrangements further into debt with their landlords — a cycle that has worsened as extreme weather events become increasingly common.",
+          "link": "https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html",
+          "publishedOn": "2022-10-01T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Battered by Floods and Trapped in Debt, Pakistani Farmers Struggle to Survive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/nyregion/the-great-guinea-pig-giveaway-has-begun.html",
+          "author": "Sarah Maslin Nir",
+          "description": "From geckos to chinchillas, small pets were a pandemic balm. Now shelters across the country say they are being surrendered.",
+          "link": "https://www.nytimes.com/2022/10/01/nyregion/the-great-guinea-pig-giveaway-has-begun.html",
+          "publishedOn": "2022-10-01T09:00:29.000Z",
+          "wordCount": null,
+          "title": "The Great Guinea Pig Giveaway Has Begun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html",
+          "author": "Jack Nicas",
+          "description": "Brazilians voting for president on Sunday will choose between two political titans in a contest seen as a major test for one of the world’s largest democracies.",
+          "link": "https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html",
+          "publishedOn": "2022-10-01T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Brazil Faces Big Vote in Presidential Election: Bolsonaro vs. Lula.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/business/instagram-suicide-ruling-britain.html",
+          "author": "Adam Satariano",
+          "description": "The internet, according to the ruling, “affected her mental health in a negative way and contributed to her death in a more than minimal way.”",
+          "link": "https://www.nytimes.com/2022/10/01/business/instagram-suicide-ruling-britain.html",
+          "publishedOn": "2022-10-01T09:00:29.000Z",
+          "wordCount": null,
+          "title": "British Ruling Pins Blame on Social Media for Teenager’s Suicide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html",
+          "author": "Vivian Wang",
+          "description": "The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.",
+          "link": "https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html",
+          "publishedOn": "2022-10-01T09:00:26.000Z",
+          "wordCount": null,
+          "title": "In China, Living Not ‘With Covid,’ but With ‘Zero Covid’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/health/fantanyl-test-strips.html",
+          "author": "Jan Hoffman and Desiree Rios",
+          "description": "Proponents say the ability to check drugs for the presence of lethal fentanyl may save lives. But critics say the strips enable drug use.",
+          "link": "https://www.nytimes.com/2022/10/01/health/fantanyl-test-strips.html",
+          "publishedOn": "2022-10-01T09:00:25.000Z",
+          "wordCount": null,
+          "title": "Fentanyl Test Strips Highlight Rift in Nation’s Struggle to Combat Drug Deaths",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/upshot/children-pandemic-spending.html",
+          "author": "Claire Cain Miller",
+          "description": "As programs expire, federal spending is returning to prior levels: $1 for every $6 spent on older adults.",
+          "link": "https://www.nytimes.com/2022/10/01/upshot/children-pandemic-spending.html",
+          "publishedOn": "2022-10-01T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Spending on Children Surged During the Pandemic. It Didn’t Last.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html",
+          "author": "Ksenia Ivanova and Catherine Porter",
+          "description": "A mountain pass into Georgia has become a choke point for Russians fleeing the country, many of them men who faced being drafted and sent to fight in Ukraine.",
+          "link": "https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html",
+          "publishedOn": "2022-10-01T05:51:09.000Z",
+          "wordCount": null,
+          "title": "Panic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/sports/baseball/hector-lopez-dead.html",
           "author": "Bruce Weber",
           "description": "A utility player for the powerhouse Yankees of the 1960s, he was named manager of the Triple-A Buffalo Bisons, becoming the first Black manager at minor league baseball’s highest level.",
@@ -2236,6 +2316,16 @@
           "publishedOn": "2022-09-30T23:35:08.000Z",
           "wordCount": null,
           "title": "Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/nyregion/eric-adams-pearson-salary-nyc.html",
+          "author": "Michael Rothfeld, Dana Rubinstein and William K. Rashbaum",
+          "description": "The city had initially declined to reveal the salary of Timothy Pearson, who left a second job at a casino over the summer.",
+          "link": "https://www.nytimes.com/2022/09/30/nyregion/eric-adams-pearson-salary-nyc.html",
+          "publishedOn": "2022-09-30T23:31:59.000Z",
+          "wordCount": null,
+          "title": "Eric Adams Confidant Is Among New York’s Highest Paid Public Employees",
           "imageUrl": null
         },
         {
@@ -2336,6 +2426,16 @@
           "publishedOn": "2022-09-30T21:08:55.000Z",
           "wordCount": null,
           "title": "A Couple Tried to Flee Fort Myers Beach. One Didn’t Make It.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/health/omicron-booster-covid.html",
+          "author": "Jan Hoffman",
+          "description": "The latest shots, which target Omicron and its subvariants, could offer protection against a winter surge in cases. But many people are unsure if they’re eligible.",
+          "link": "https://www.nytimes.com/2022/09/30/health/omicron-booster-covid.html",
+          "publishedOn": "2022-09-30T20:49:38.000Z",
+          "wordCount": null,
+          "title": "Half of Adults Have Heard Little or Nothing About New Covid Boosters, Survey Finds",
           "imageUrl": null
         },
         {
@@ -2506,6 +2606,16 @@
           "publishedOn": "2022-09-30T15:13:19.000Z",
           "wordCount": null,
           "title": "U.K. Borrowers React to Soaring Interest Rates in Mortgage Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html",
+          "author": "Alex Hutchinson",
+          "description": "Every strenuous exercise involves some mixture of suffering and pleasure. The key to sticking with it is getting the balance right.",
+          "link": "https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html",
+          "publishedOn": "2022-09-30T14:56:43.000Z",
+          "wordCount": null,
+          "title": "How Hard Should Your Workout Be?",
           "imageUrl": null
         },
         {
@@ -23593,6 +23703,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/cong-prez-poll-k-n-tripathis-nomination-rejected-its-kharge-vs-tharoor/articleshow/94582388.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Former Jharkhand minister K N Tripathi's nomination for the Congress presidential poll was rejected on Saturday, setting up a contest betwe.",
+          "link": "https://timesofindia.indiatimes.com/india/cong-prez-poll-k-n-tripathis-nomination-rejected-its-kharge-vs-tharoor/articleshow/94582388.cms",
+          "publishedOn": "2022-10-01T09:45:28.000Z",
+          "wordCount": 5272,
+          "title": "Congress president poll: K N Tripathi's nomination rejected, it's Mallikarjun Kharge vs Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94582423,width-1070,height-580,imgsize-44814,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms",
+          "author": null,
+          "description": "India News: BENGALURU: Senior Congress leader Salman Khurshid on Saturday joined issue with Shashi Tharoor, who has said his electoral competitor in the AICC pres.",
+          "link": "https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms",
+          "publishedOn": "2022-10-01T09:13:53.000Z",
+          "wordCount": 5879,
+          "title": "'Continuity with change,' Salman Khurshid joins issue with Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94581718,width-1070,height-580,imgsize-22476,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/congress-president-polls-mallikarjun-kharge-resigns-as-lop-rajya-sabha/articleshow/94580114.cms",
           "author": null,
           "description": "India News: NEW DELHI: Senior Congress leader Mallikarjun Kharge on Friday tendered his resignation as the Leader of Opposition (LoP) in Rajya Sabha as he has fil.",
@@ -27700,6 +27830,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-encircles-thousands-of-russian-troops-at-lyman-stronghold/articleshow/94580656.cms",
+          "author": null,
+          "description": "Rest of World News: KYIV: Ukraine has encircled thousands of Russian troops at the eastern town of Lyman, a bastion that is critical for Moscow, in an operation that is s.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-encircles-thousands-of-russian-troops-at-lyman-stronghold/articleshow/94580656.cms",
+          "publishedOn": "2022-10-01T09:03:43.000Z",
+          "wordCount": 6401,
+          "title": "Ukraine encircles thousands of Russian troops at Lyman stronghold",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94581527,width-1070,height-580,imgsize-1664141,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms",
           "author": null,
           "description": "Europe News: KYIV: Ukraine’s nuclear power provider accused Russia on Saturday of “kidnapping” the head of Europe’s largest nuclear power plant, a facility now occ.",
@@ -29086,6 +29226,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedmostread.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com//articleshow/.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com//articleshow/.cms",
+          "publishedOn": "2022-10-01T10:10:46.731Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-confirmed-list-of-contestants-on-salman-khans-reality-show/articleshow/94570574.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-confirmed-list-of-contestants-on-salman-khans-reality-show/articleshow/94570574.cms",
+          "publishedOn": "2022-10-01T07:30:00.000Z",
+          "wordCount": null,
+          "title": "Bigg Boss 16: Confirmed list of contestants on Salman Khan's reality show",
+          "imageUrl": null
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/race-for-congress-president-open-party-yet-to-settle-rajasthan-cm-question-top-developments/articleshow/94547613.cms",
           "author": null,

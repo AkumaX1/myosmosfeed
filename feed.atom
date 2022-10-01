@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T09:14:50.735Z</updated>
+    <updated>2022-10-01T10:10:52.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://timesofindia.indiatimes.com//articleshow/.cms</id>
+        <link href="https://timesofindia.indiatimes.com//articleshow/.cms"/>
+        <updated>2022-10-01T10:10:46.731Z</updated>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress president poll: K N Tripathi's nomination rejected, it's Mallikarjun Kharge vs Shashi Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/cong-prez-poll-k-n-tripathis-nomination-rejected-its-kharge-vs-tharoor/articleshow/94582388.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/cong-prez-poll-k-n-tripathis-nomination-rejected-its-kharge-vs-tharoor/articleshow/94582388.cms"/>
+        <updated>2022-10-01T09:45:28.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Former Jharkhand minister K N Tripathi's nomination for the Congress presidential poll was rejected on Saturday, setting up a contest betwe.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Continuity with change,' Salman Khurshid joins issue with Shashi Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/continuity-with-change-salman-khurshid-joins-issue-with-shashi-tharoor/articleshow/94581658.cms"/>
+        <updated>2022-10-01T09:13:53.000Z</updated>
+        <summary type="html"><![CDATA[India News: BENGALURU: Senior Congress leader Salman Khurshid on Saturday joined issue with Shashi Tharoor, who has said his electoral competitor in the AICC pres.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine encircles thousands of Russian troops at Lyman stronghold]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-encircles-thousands-of-russian-troops-at-lyman-stronghold/articleshow/94580656.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/ukraine-encircles-thousands-of-russian-troops-at-lyman-stronghold/articleshow/94580656.cms"/>
+        <updated>2022-10-01T09:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: KYIV: Ukraine has encircled thousands of Russian troops at the eastern town of Lyman, a bastion that is critical for Moscow, in an operation that is s.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battered by Floods and Trapped in Debt, Pakistani Farmers Struggle to Survive]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html"/>
+        <updated>2022-10-01T09:00:34.000Z</updated>
+        <summary type="html"><![CDATA[The recent flooding has plunged small farmers in sharecropping arrangements further into debt with their landlords — a cycle that has worsened as extreme weather events become increasingly common.]]></summary>
+        <author>
+            <name>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Guinea Pig Giveaway Has Begun]]></title>
+        <id>https://www.nytimes.com/2022/10/01/nyregion/the-great-guinea-pig-giveaway-has-begun.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/nyregion/the-great-guinea-pig-giveaway-has-begun.html"/>
+        <updated>2022-10-01T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[From geckos to chinchillas, small pets were a pandemic balm. Now shelters across the country say they are being surrendered.]]></summary>
+        <author>
+            <name>Sarah Maslin Nir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil Faces Big Vote in Presidential Election: Bolsonaro vs. Lula.]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html"/>
+        <updated>2022-10-01T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Brazilians voting for president on Sunday will choose between two political titans in a contest seen as a major test for one of the world’s largest democracies.]]></summary>
+        <author>
+            <name>Jack Nicas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British Ruling Pins Blame on Social Media for Teenager’s Suicide]]></title>
+        <id>https://www.nytimes.com/2022/10/01/business/instagram-suicide-ruling-britain.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/business/instagram-suicide-ruling-britain.html"/>
+        <updated>2022-10-01T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[The internet, according to the ruling, “affected her mental health in a negative way and contributed to her death in a more than minimal way.”]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In China, Living Not ‘With Covid,’ but With ‘Zero Covid’]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html"/>
+        <updated>2022-10-01T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.]]></summary>
+        <author>
+            <name>Vivian Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fentanyl Test Strips Highlight Rift in Nation’s Struggle to Combat Drug Deaths]]></title>
+        <id>https://www.nytimes.com/2022/10/01/health/fantanyl-test-strips.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/health/fantanyl-test-strips.html"/>
+        <updated>2022-10-01T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Proponents say the ability to check drugs for the presence of lethal fentanyl may save lives. But critics say the strips enable drug use.]]></summary>
+        <author>
+            <name>Jan Hoffman and Desiree Rios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spending on Children Surged During the Pandemic. It Didn’t Last.]]></title>
+        <id>https://www.nytimes.com/2022/10/01/upshot/children-pandemic-spending.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/upshot/children-pandemic-spending.html"/>
+        <updated>2022-10-01T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[As programs expire, federal spending is returning to prior levels: $1 for every $6 spent on older adults.]]></summary>
+        <author>
+            <name>Claire Cain Miller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Terrifying Horror Novels Perfect for Young Adult Readers]]></title>
         <id>https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html</id>
@@ -114,6 +223,15 @@
         <summary type="html"><![CDATA[A man in his 50s died from a heart attack triggered by the quake and at least 25 other people were injured, regional disaster mitigation agency official said.]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16: Confirmed list of contestants on Salman Khan's reality show]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-confirmed-list-of-contestants-on-salman-khans-reality-show/articleshow/94570574.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-confirmed-list-of-contestants-on-salman-khans-reality-show/articleshow/94570574.cms"/>
+        <updated>2022-10-01T07:30:00.000Z</updated>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +372,16 @@
         <summary type="html"><![CDATA["I want to say this to the Kyiv regime and its masters in the West: People living in Lugansk, Donetsk, Kherson and Zaporizhzhia are becoming our citizens forever," Russian President Vladimir Putin said.]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panic]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/europe/escape-from-russia.html"/>
+        <updated>2022-10-01T05:51:09.000Z</updated>
+        <summary type="html"><![CDATA[A mountain pass into Georgia has become a choke point for Russians fleeing the country, many of them men who faced being drafted and sent to fight in Ukraine.]]></summary>
+        <author>
+            <name>Ksenia Ivanova and Catherine Porter</name>
         </author>
     </entry>
     <entry>
@@ -943,6 +1071,16 @@ But Smile takes an unusual tack at the end, with Finn’s script going in direct
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eric Adams Confidant Is Among New York’s Highest Paid Public Employees]]></title>
+        <id>https://www.nytimes.com/2022/09/30/nyregion/eric-adams-pearson-salary-nyc.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/nyregion/eric-adams-pearson-salary-nyc.html"/>
+        <updated>2022-09-30T23:31:59.000Z</updated>
+        <summary type="html"><![CDATA[The city had initially declined to reveal the salary of Timothy Pearson, who left a second job at a casino over the summer.]]></summary>
+        <author>
+            <name>Michael Rothfeld, Dana Rubinstein and William K. Rashbaum</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monthly Horoscope: Cancer, October 2022]]></title>
         <id>k7bnpz</id>
         <link href="https://www.vice.com/en_us/article/k7bnpz/monthly-horoscope-cancer-october-2022"/>
@@ -1475,6 +1613,16 @@ Here’s a l…]]></summary>
         <summary type="html"><![CDATA[Fieri also revealed the "best concerts I've ever seen in my life." Hint: he loves to Rage]]></summary>
         <author>
             <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half of Adults Have Heard Little or Nothing About New Covid Boosters, Survey Finds]]></title>
+        <id>https://www.nytimes.com/2022/09/30/health/omicron-booster-covid.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/health/omicron-booster-covid.html"/>
+        <updated>2022-09-30T20:49:38.000Z</updated>
+        <summary type="html"><![CDATA[The latest shots, which target Omicron and its subvariants, could offer protection against a winter surge in cases. But many people are unsure if they’re eligible.]]></summary>
+        <author>
+            <name>Jan Hoffman</name>
         </author>
     </entry>
     <entry>
@@ -3240,6 +3388,16 @@ The hotly-anticipated My Hero Academia season 6 is almost upon us, and the My He
         <summary type="html"><![CDATA[Kuwait has never had more than four women MPs]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hard Should Your Workout Be?]]></title>
+        <id>https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html"/>
+        <updated>2022-09-30T14:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Every strenuous exercise involves some mixture of suffering and pleasure. The key to sticking with it is getting the balance right.]]></summary>
+        <author>
+            <name>Alex Hutchinson</name>
         </author>
     </entry>
     <entry>
