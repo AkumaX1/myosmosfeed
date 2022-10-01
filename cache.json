@@ -2159,6 +2159,56 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/09/30/us/south-carolina-hurricane-ian.html",
+          "author": "Eliza Fawcett, Kellen Browning and Rick Rojas",
+          "description": "The storm, which had pummeled Florida, made landfall again in South Carolina, but with less fury than it had earlier in the week.",
+          "link": "https://www.nytimes.com/2022/09/30/us/south-carolina-hurricane-ian.html",
+          "publishedOn": "2022-10-01T00:49:59.000Z",
+          "wordCount": null,
+          "title": "Hurricane Ian Descends on South Carolina, Swamping Beachside Towns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/us/hurricane-ian-lee-county-fort-myers-delay.html",
+          "author": "Frances Robles, Mike Baker, Serge F. Kovaleski and Lazaro Gamio",
+          "description": "A day of hesitation in Lee County came despite warnings that the Fort Myers and Cape Coral area could see mass flooding. Now authorities are encountering mass death.",
+          "link": "https://www.nytimes.com/2022/09/30/us/hurricane-ian-lee-county-fort-myers-delay.html",
+          "publishedOn": "2022-10-01T00:36:29.000Z",
+          "wordCount": null,
+          "title": "Facing a Dire Storm Forecast in Florida, Officials Delayed Evacuation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/putin-russia-ukraine.html",
+          "author": "Thomas L. Friedman",
+          "description": "He has set in motion forces that are turning Russia into a giant North Korea.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/putin-russia-ukraine.html",
+          "publishedOn": "2022-10-01T00:29:19.000Z",
+          "wordCount": null,
+          "title": "Putin Is Turning Russia Into a Giant North Korea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html",
+          "author": "Michael Crowley and Edward Wong",
+          "description": "The U.S. imposed new sanctions on Russian officials and companies, and penalized foreign businesses aiding the Russian military. But officials are holding back on energy sanctions.",
+          "link": "https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html",
+          "publishedOn": "2022-09-30T23:35:08.000Z",
+          "wordCount": null,
+          "title": "Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html",
+          "author": "Anton Troianovski and Valerie Hopkins",
+          "description": "Declaring that Russia would annex four regions of Ukraine, which the West rejects as illegal, the Russian president accused the U.S. and its allies of “despotism’’ and “Satanism.’’",
+          "link": "https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html",
+          "publishedOn": "2022-09-30T23:03:12.000Z",
+          "wordCount": null,
+          "title": "Putin Announces Ukraine Annexation, Calling West the Enemy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html",
           "author": "Matthew Cullen and Lauren Hard",
           "description": "Here’s what you need to know at the end of the day.",
@@ -2249,6 +2299,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html",
+          "author": "Peter Coy",
+          "description": "Experts disagree.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html",
+          "publishedOn": "2022-09-30T19:00:05.000Z",
+          "wordCount": null,
+          "title": "A Strong Dollar Is Hurting Other Countries. Should the Fed Care?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/us/politics/stock-trading-vote-congress.html",
           "author": "Stephanie Lai and Kate Kelly",
           "description": "The majority leader’s announcement that the House would not vote this week on a bill to curb trading by members of Congress punted the issue until after the midterm elections and reflected a rough road ahead.",
@@ -2296,6 +2356,16 @@
           "publishedOn": "2022-09-30T17:04:03.000Z",
           "wordCount": null,
           "title": "Ukraine Submits Application to Join NATO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/opinion/remote-work-housing-prices-covid.html",
+          "author": "Paul Krugman",
+          "description": "How the affordability crisis got even worse.",
+          "link": "https://www.nytimes.com/2022/09/30/opinion/remote-work-housing-prices-covid.html",
+          "publishedOn": "2022-09-30T16:14:28.000Z",
+          "wordCount": null,
+          "title": "How the Remote Work Craze Made Housing Affordability Worse",
           "imageUrl": null
         },
         {
@@ -2406,6 +2476,16 @@
           "publishedOn": "2022-09-30T14:30:08.000Z",
           "wordCount": null,
           "title": "New U.S. sanctions on Russia hit defense and technology sectors and top officials.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/arts/television/jeffrey-dean-morgan-lauren-cohan-walking-dead.html",
+          "author": "Calum Marsh",
+          "description": "As the zombie drama rounds out its final season, the longtime co-stars Jeffrey Dean Morgan and Lauren Cohan will reunite for the spinoff “Dead City.”",
+          "link": "https://www.nytimes.com/2022/09/30/arts/television/jeffrey-dean-morgan-lauren-cohan-walking-dead.html",
+          "publishedOn": "2022-09-30T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Why Negan and Maggie Aren’t Ready to Leave ‘The Walking Dead’",
           "imageUrl": null
         },
         {
@@ -7907,6 +7987,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234603174",
+          "author": "Joseph Hudak",
+          "description": "After singer Gord Downie's death in 2017, his bandmates have rarely appeared together in public; they performed for Buffy Sainte-Marie earlier this month",
+          "link": "https://www.rollingstone.com/music/music-features/tragically-hip-reunion-documentary-1234603174/",
+          "publishedOn": "2022-10-01T01:00:12.000Z",
+          "wordCount": 8842,
+          "title": "The Tragically Hip’s Surviving Members Reunite to Pay Tribute to a Canadian Icon, Tease New Projects",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/Final-Show-Photo-Scan-from-DB-copy-2.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603284",
           "author": "Tomás Mier",
           "description": "Fieri also revealed the \"best concerts I've ever seen in my life.\" Hint: he loves to Rage",
@@ -9590,6 +9680,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2415158",
+          "author": "Rita Liao",
+          "description": "When ByteDance bought the Chinese VR headset maker Pico a year ago, the message it sent was clear: it was betting that the immersive device would be where future generations spend most of their time consuming digital content. It’s a marriage reminiscent of Meta’s acquisition of Oculus back in 2014, except the world is now […]\nByteDance’s Pico debuts its Quest rival, but challenges remain by Rita Liao originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/09/30/bytedance-vr-pico-meta-quest/",
+          "publishedOn": "2022-10-01T01:00:36.000Z",
+          "wordCount": 6396,
+          "title": "ByteDance’s Pico debuts its Quest rival, but challenges remain",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/pico.jpeg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2415063",
           "author": "Christine Hall",
@@ -12697,6 +12797,51 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "jgpvky",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Virgo!",
+          "link": "https://www.vice.com/en_us/article/jgpvky/monthly-horoscope-virgo-october-2022",
+          "publishedOn": "2022-10-01T00:50:23.000Z",
+          "wordCount": 6699,
+          "title": "Monthly Horoscope: Virgo, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633717252ccb7900951575ff/lede/1664561558138-7librascorpiomonthly81920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633717252ccb7900951575ff/lede/1664561558138-7librascorpiomonthly81920x1080.jpeg"
+        },
+        {
+          "id": "3ad543",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Leo!",
+          "link": "https://www.vice.com/en_us/article/3ad543/monthly-horoscope-leo-october-2022",
+          "publishedOn": "2022-10-01T00:33:03.000Z",
+          "wordCount": 6495,
+          "title": "Monthly Horoscope: Leo, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63370b54417523009274287a/lede/1664561555886-7librascorpiomonthly71920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63370b54417523009274287a/lede/1664561555886-7librascorpiomonthly71920x1080.jpeg"
+        },
+        {
+          "id": "k7bnpz",
+          "author": "Annabel Gat",
+          "description": "Welcome to Libra season, dear Cancer!",
+          "link": "https://www.vice.com/en_us/article/k7bnpz/monthly-horoscope-cancer-october-2022",
+          "publishedOn": "2022-09-30T23:24:08.000Z",
+          "wordCount": 6457,
+          "title": "Monthly Horoscope: Cancer, October 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335d4bd112f84009b7eeb14/lede/1664561530123-7librascorpiomonthly61920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335d4bd112f84009b7eeb14/lede/1664561530123-7librascorpiomonthly61920x1080.jpeg"
+        },
         {
           "id": "g5vw8b",
           "author": "Annabel Gat",
@@ -17141,6 +17286,26 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash",
+          "author": null,
+          "description": "Image: Prime Video\n    \n\n  \nRIP to a real one\n The Lord of the Rings: The Rings of Power’s sixth episode is its most action-packed yet, depicting a siege on Ostirith by Adar and his merry band of orcs. Among the flurry of violence and mayhem, one figure in particular stood out: That Big Orc.\nYou know the one. Arondir the elf is doing his thing, slaying orc after orc with his bow before falling off the roof of a building. Once on the ground, he stabs an orc in the chest and, clearly winded, slowly backs away. Suddenly, he backs into an orc that seems twice his size, turning around in sheer surprise.\nImage: Prime Video\n  \nIt’s a golden moment — there are few better action-comedy beats in this world than “our hero, moments after doing some extremely cool stuff, accidentally bumps into an extr…",
+          "link": "https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash",
+          "publishedOn": "2022-10-01T01:00:00.000Z",
+          "wordCount": 2681,
+          "title": "The Rings of Power’s best character showed up, kicked ass, and died",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/RPSEyhzYtJjdnGQbZV58A2FY2dY=/521x0:2823x1205/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24068499/orc_big_boi.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23374118/smile-ending-meaning-director-interview",
+          "author": null,
+          "description": "Image: Paramount Pictures\n    \n\n  \n‘Horror audiences have gotten so savvy, so I tried to put myself in their shoes’\n In some ways, Parker Finn’s feature debut Smile is a standard horror movie, where a central character (hospital therapist Rose, played by Sosie Bacon) falls prey to a supernatural phenomenon and spends most of the movie dealing with the increasingly terrifying battle to understand, resist, and survive what’s happening to her. \nBut Smile takes an unusual tack at the end, with Finn’s script going in directions designed to shake off horror fans who think they can see the twists coming. After the movie’s world premiere at Austin’s Fantastic Fest, Polygon sat down with Finn and asked him to walk through the movie’s ending: What went into it on a practical level, how to interpret …",
+          "link": "https://www.polygon.com/23374118/smile-ending-meaning-director-interview",
+          "publishedOn": "2022-09-30T23:34:00.000Z",
+          "wordCount": 3992,
+          "title": "Smile director Parker Finn unpacks the movie’s many endings",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/iX-gqC1v1WI4I9uhjpCLlouxtBI=/508x0:2557x1073/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24064567/smilefp01.jpg"
+        },
+        {
           "id": "https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix",
           "author": null,
           "description": "Photo: Matt Kennedy/Disney\n    \n\n  \nLet the bodies (bodies bodies) hit the floor\n This weekend Hocus Pocus 2, the long-awaited sequel to the classic 1993 fantasy comedy starring Bette Midler, Sarah Jessica Parker, and Kathy Najimy finally premieres on Disney Plus. If that doesn’t sound like your particular bag of trick-or-treat candy, not to worry — there’s plenty more spooky (and non-spooky) good movies to rent or stream this weekend.\nWe’ve got The Munsters, the new Rob Zombie comedy film (yes — I’m as surprised at that description as you are) based on the classic 1960s horror sitcom, Andrew Dominik’s biographical drama of Marilyn Monroe starring Ana de Armas, and the adult animated special Entergalactic starring Scott “Kid Cudi” Mescudi and Jessica Williams (Love Life) all premiering on …",
@@ -17757,6 +17922,16 @@
       "feedUrl": "https://feeds.feedburner.com/ign/pc-articles",
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
+        {
+          "id": "f8940a6c-e9f9-4b6b-bcbc-9f382e2740cc",
+          "author": "JMBurge$$",
+          "description": "",
+          "link": "https://www.ign.com/articles/fifa-23-review",
+          "publishedOn": "2022-09-30T21:59:37.000Z",
+          "wordCount": 17289,
+          "title": "FIFA 23 Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/09/30/fifa23-blogroll-1664575011028.jpg?width=1280"
+        },
         {
           "id": "0e7c11f6-c292-47da-aea8-624cd4e0d334",
           "author": "George Yang",
@@ -23072,6 +23247,86 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "author": null,
+          "description": "The Allahabad HC on Friday refused to set aside the decision of a lower court in Shahjahanpur, which had declined to grant permission to the state government for the withdrawal of alleged rape case pending against ex-Union minister Swami Chinmayanand Saraswati.",
+          "link": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "publishedOn": "2022-10-01T00:56:13.000Z",
+          "wordCount": 5302,
+          "title": "No HC relief for ex-Union mantri Chinmayanand Saraswati in rape case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573591,width-1070,height-580,imgsize-27764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/us-sanctions-indian-firm-for-iran-oil-trade/articleshow/94573560.cms",
+          "author": null,
+          "description": "Indian company Tibalaji Petrochem was among several sanctioned by US for facilitating sale and shipping of Iranian petroleum products to end users.",
+          "link": "https://timesofindia.indiatimes.com/india/us-sanctions-indian-firm-for-iran-oil-trade/articleshow/94573560.cms",
+          "publishedOn": "2022-10-01T00:54:39.000Z",
+          "wordCount": 5242,
+          "title": "US sanctions Indian firm for Iran oil trade",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-be-second-dalit-congress-chief-after-jagjivan-ram/articleshow/94573181.cms",
+          "author": null,
+          "description": "‘Warrior who knows no defeat’ has served both at Centre and in Karnataka",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-be-second-dalit-congress-chief-after-jagjivan-ram/articleshow/94573181.cms",
+          "publishedOn": "2022-09-30T23:54:27.000Z",
+          "wordCount": 6719,
+          "title": "Mallikarjun Kharge set to be second Dalit Congress chief after Jagjivan Ram",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573210,width-1070,height-580,imgsize-92474,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cds-signals-integrated-war-machinery/articleshow/94573147.cms",
+          "author": null,
+          "description": "All security challenges confronting the nation will be tackled jointly by the armed forces, chief of defence staff (CDS) General Anil Chauhan said on Friday, signalling his intent to work towards building an integrated war-fighting machinery.",
+          "link": "https://timesofindia.indiatimes.com/india/cds-signals-integrated-war-machinery/articleshow/94573147.cms",
+          "publishedOn": "2022-09-30T23:47:14.000Z",
+          "wordCount": 5520,
+          "title": "CDS signals integrated war machinery",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573157,width-1070,height-580,imgsize-69008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/right-to-privacy-does-not-end-with-ones-death-calcutta-hc/articleshow/94573135.cms",
+          "author": null,
+          "description": "Right to privacy doesn't end with a person's death and private chats and pictures of a deceased person cannot be disclosed under the RTI Act, the Calcutta high court has ruled.",
+          "link": "https://timesofindia.indiatimes.com/india/right-to-privacy-does-not-end-with-ones-death-calcutta-hc/articleshow/94573135.cms",
+          "publishedOn": "2022-09-30T23:43:29.000Z",
+          "wordCount": 5908,
+          "title": "Right to privacy does not end with one's death: Calcutta HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573143,width-1070,height-580,imgsize-630986,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/16cr-boosters-given-during-75-day-special-drive/articleshow/94573111.cms",
+          "author": null,
+          "description": "The booster dose coverage in the eligible population in the country has gone up to 27%. According to the health ministry, nearly 16 crore precautionary doses were administered during the 75-day-long 'Covid Vaccination Amrit Mahotsav' that helped achieve this target.",
+          "link": "https://timesofindia.indiatimes.com/india/16cr-boosters-given-during-75-day-special-drive/articleshow/94573111.cms",
+          "publishedOn": "2022-09-30T23:38:48.000Z",
+          "wordCount": 5249,
+          "title": "16cr boosters given during 75-day special drive",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoors-erroneous-map-draws-bjp-attack-congress-distances-itself/articleshow/94573024.cms",
+          "author": null,
+          "description": "Shashi Tharoor's election campaign ran into rough weather no sooner than it was launched on Friday after the manifesto he released contained a map of India with parts of J&K and Ladakh missing.",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoors-erroneous-map-draws-bjp-attack-congress-distances-itself/articleshow/94573024.cms",
+          "publishedOn": "2022-09-30T23:23:19.000Z",
+          "wordCount": 5667,
+          "title": "Shashi Tharoor's erroneous map draws BJP attack, Congress distances itself",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573053,width-1070,height-580,imgsize-80716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-helps-foil-china-resolution-against-aukus/articleshow/94573011.cms",
+          "author": null,
+          "description": "India's \"deft and impactful diplomacy\" at the recent IAEA general conference in Vienna was one of the reasons that forced China to withdraw a resolution against Aukus, a security-focused Australia, UK and US initiative that seeks to arm Australia with N-powered submarines. \"India's considered role helped many smaller countries take a clear stand on the Chinese proposal,\" said a source.",
+          "link": "https://timesofindia.indiatimes.com/india/india-helps-foil-china-resolution-against-aukus/articleshow/94573011.cms",
+          "publishedOn": "2022-09-30T23:09:57.000Z",
+          "wordCount": 5351,
+          "title": "India helps foil China resolution against Aukus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573005,width-1070,height-580,imgsize-33188,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms",
           "author": null,
@@ -28783,6 +29038,76 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "author": null,
+          "description": "The Allahabad HC on Friday refused to set aside the decision of a lower court in Shahjahanpur, which had declined to grant permission to the state government for the withdrawal of alleged rape case pending against ex-Union minister Swami Chinmayanand Saraswati.",
+          "link": "https://timesofindia.indiatimes.com/india/no-hc-relief-for-ex-union-mantri-chinmayanand-saraswati-in-rape-case/articleshow/94573571.cms",
+          "publishedOn": "2022-10-01T00:56:13.000Z",
+          "wordCount": 5302,
+          "title": "No HC relief for ex-Union mantri in rape case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573591,width-1070,height-580,imgsize-27764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-be-second-dalit-congress-chief-after-jagjivan-ram/articleshow/94573181.cms",
+          "author": null,
+          "description": "‘Warrior who knows no defeat’ has served both at Centre and in Karnataka",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-be-second-dalit-congress-chief-after-jagjivan-ram/articleshow/94573181.cms",
+          "publishedOn": "2022-09-30T23:54:27.000Z",
+          "wordCount": 6719,
+          "title": "Kharge set to be second Dalit Congress chief",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573210,width-1070,height-580,imgsize-92474,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cds-signals-integrated-war-machinery/articleshow/94573147.cms",
+          "author": null,
+          "description": "All security challenges confronting the nation will be tackled jointly by the armed forces, chief of defence staff (CDS) General Anil Chauhan said on Friday, signalling his intent to work towards building an integrated war-fighting machinery.",
+          "link": "https://timesofindia.indiatimes.com/india/cds-signals-integrated-war-machinery/articleshow/94573147.cms",
+          "publishedOn": "2022-09-30T23:47:14.000Z",
+          "wordCount": 5520,
+          "title": "CDS signals integrated war machinery",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573157,width-1070,height-580,imgsize-69008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/right-to-privacy-does-not-end-with-ones-death-calcutta-hc/articleshow/94573135.cms",
+          "author": null,
+          "description": "Right to privacy doesn't end with a person's death and private chats and pictures of a deceased person cannot be disclosed under the RTI Act, the Calcutta high court has ruled.",
+          "link": "https://timesofindia.indiatimes.com/india/right-to-privacy-does-not-end-with-ones-death-calcutta-hc/articleshow/94573135.cms",
+          "publishedOn": "2022-09-30T23:43:29.000Z",
+          "wordCount": 5908,
+          "title": "Right to privacy does not end with one's death: HC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573143,width-1070,height-580,imgsize-630986,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/16cr-boosters-given-during-75-day-special-drive/articleshow/94573111.cms",
+          "author": null,
+          "description": "The booster dose coverage in the eligible population in the country has gone up to 27%. According to the health ministry, nearly 16 crore precautionary doses were administered during the 75-day-long 'Covid Vaccination Amrit Mahotsav' that helped achieve this target.",
+          "link": "https://timesofindia.indiatimes.com/india/16cr-boosters-given-during-75-day-special-drive/articleshow/94573111.cms",
+          "publishedOn": "2022-09-30T23:38:48.000Z",
+          "wordCount": 5249,
+          "title": "16cr boosters given during 75-day special drive",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoors-erroneous-map-draws-bjp-attack-congress-distances-itself/articleshow/94573024.cms",
+          "author": null,
+          "description": "Shashi Tharoor's election campaign ran into rough weather no sooner than it was launched on Friday after the manifesto he released contained a map of India with parts of J&K and Ladakh missing.",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoors-erroneous-map-draws-bjp-attack-congress-distances-itself/articleshow/94573024.cms",
+          "publishedOn": "2022-09-30T23:23:19.000Z",
+          "wordCount": 5667,
+          "title": "Shashi Tharoor's erroneous map draws BJP attack",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573053,width-1070,height-580,imgsize-80716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/india-helps-foil-china-resolution-against-aukus/articleshow/94572950.cms",
+          "author": null,
+          "description": "India's \"deft and impactful diplomacy\" at the recent IAEA general conference in Vienna was one of the reasons that forced China to withdraw a resolution against Aukus, a security-focused Australia, UK and US initiative that seeks to arm Australia with N-powered submarines. \"India's considered role helped many smaller countries take a clear stand on the Chinese proposal,\" said a source.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/india-helps-foil-china-resolution-against-aukus/articleshow/94572950.cms",
+          "publishedOn": "2022-09-30T23:09:57.000Z",
+          "wordCount": 5780,
+          "title": "India helps foil China resolution against Aukus",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94573005,width-1070,height-580,imgsize-33188,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/supreme-court-preventive-detention-invalid-if-order-is-delayed/articleshow/94572851.cms",
           "author": null,
