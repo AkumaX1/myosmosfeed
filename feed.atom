@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T06:28:53.737Z</updated>
+    <updated>2022-10-01T07:17:31.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2nd T20I: Team India chases rare series win vs SA]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-team-india-grapple-with-jasprit-bumrah-riddle-as-it-chases-rare-series-win-against-south-africa/articleshow/94579101.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-team-india-grapple-with-jasprit-bumrah-riddle-as-it-chases-rare-series-win-against-south-africa/articleshow/94579101.cms"/>
+        <updated>2022-10-01T07:00:55.000Z</updated>
+        <summary type="html"><![CDATA[It may be unsettled after an unexpected injury to Jasprit Bumrah but the Indian team would aim to continue its winning run and complete a rare home-series win against South Africa when the two sides clash in the second T20 International on Sunday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northeast Diary: ‘Dry’ Manipur brews up a row with new liquor policy]]></title>
+        <id>https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms"/>
+        <updated>2022-10-01T06:55:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: The Manipur government’s decision to partially lift alcohol prohibition is facing stiff resistance from local organisations such as the Coalition Agai.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Dry’ Manipur brews up a row with new liquor policy]]></title>
+        <id>https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/northeast-diary-dry-manipur-brews-up-a-row-with-new-liquor-policy/articleshow/94579107.cms"/>
+        <updated>2022-10-01T06:55:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: The Manipur government’s decision to partially lift alcohol prohibition is facing stiff resistance from local organisations such as the Coalition Agai.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bar codes could come soon to plug menace of sub-standard drugs]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bar-codes-could-come-soon-to-plug-menace-of-sub-standard-drugs/articleshow/94578672.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bar-codes-could-come-soon-to-plug-menace-of-sub-standard-drugs/articleshow/94578672.cms"/>
+        <updated>2022-10-01T06:36:36.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Now you will soon be able to check if the medicine you are popping is safe, and not spurious.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maradona 'Hand of God' shirt to go on display during WC]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/football/top-stories/diego-maradona-hand-of-god-shirt-to-go-on-display-during-world-cup/articleshow/94578472.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/football/top-stories/diego-maradona-hand-of-god-shirt-to-go-on-display-during-world-cup/articleshow/94578472.cms"/>
+        <updated>2022-10-01T06:20:04.000Z</updated>
+        <summary type="html"><![CDATA[The shirt that Diego Maradona wore when he scored his infamous 'Hand of God' goal against England in 1986 will go on display in Qatar during the World Cup just five months after it set a record price at auction, a top official said Saturday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pakistan government's Twitter account withheld in India, again]]></title>
         <id>https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-account-withheld-in-india-again/articleshow/94578094.cms</id>
