@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T05:54:42.875Z</updated>
+    <updated>2022-10-01T06:28:53.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pakistan government's Twitter account withheld in India, again]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-account-withheld-in-india-again/articleshow/94578094.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-account-withheld-in-india-again/articleshow/94578094.cms"/>
+        <updated>2022-10-01T06:01:47.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea conducts 4th round of missile tests in 1 week]]></title>
+        <id>https://www.thehindu.com/news/international/north-korea-conducts-4th-round-of-missile-tests-in-1-week/article65958086.ece</id>
+        <link href="https://www.thehindu.com/news/international/north-korea-conducts-4th-round-of-missile-tests-in-1-week/article65958086.ece"/>
+        <updated>2022-10-01T05:54:27.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has fired two short-range ballistic missiles Saturday, prompting quick, strong condemnation from its rivals]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian President Vladimir Putin annexes Ukraine territories; Kyiv vows to fight back]]></title>
         <id>https://www.thehindu.com/news/international/russian-president-vladimir-putin-annexes-ukraine-territories-kyiv-vows-to-fight-back/article65958042.ece</id>
@@ -54,6 +74,16 @@
         <summary type="html"><![CDATA[After a long-lasting drama and several twists and turns, the battlelines for the election to the Congress president’s post have finally been drawn. Leader of opposition in the Rajya Sabha Mallikarjun Kharge seems to have a clear advantage over Lok Sabha MP Shashi Tharoor in the election to be held on October 17.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 reasons why Kharge may pip Tharoor at Congress president’s post]]></title>
+        <id>https://timesofindia.indiatimes.com/india/4-reasons-why-mallikarjun-kharge-may-pip-shashi-tharoor-at-congress-presidents-post/articleshow/94576664.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/4-reasons-why-mallikarjun-kharge-may-pip-shashi-tharoor-at-congress-presidents-post/articleshow/94576664.cms"/>
+        <updated>2022-10-01T05:12:04.000Z</updated>
+        <summary type="html"><![CDATA[After a long-lasting drama and several twists and turns, the battlelines for the election to the Congress president’s post have finally been drawn. Leader of opposition in the Rajya Sabha Mallikarjun Kharge seems to have a clear advantage over Lok Sabha MP Shashi Tharoor in the election to be held on October 17.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
