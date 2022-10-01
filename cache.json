@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming",
+          "author": null,
+          "description": "Alex Castro / The Verge\n    \n\n  \nDish and its Sling TV streaming service have dropped Disney’s package of channels after the companies couldn’t come to a contract agreement (via Deadline). In an announcement on its site, Dish says the Disney Channel, ESPN, FX, Freeform, National Geographic, and some local ABC networks are no longer available on its services after its contract expired early this morning.\nDish blames the dispute on Disney, claiming the company demanded a $1 billion fee increase and “walked away from the negotiation table.” The satellite provider adds that Disney wanted Dish to include ESPN, ESPN2, and local ABC channels at an added cost in packages that don’t carry them.\nOur contract has expired with The Walt Disney Company.  Our goal and priority is to reach a fair agreemen…",
+          "link": "https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming",
+          "publishedOn": "2022-10-01T19:47:15.000Z",
+          "wordCount": 7602,
+          "title": "Dish and Sling TV drop Disney, ESPN, and others due to contract dispute",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/O7sD7_mqptTCgaboAXJc59lwiFo=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951205/acastro_STK052_01.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit",
           "author": null,
           "description": "Braided, silicone, and leather Pixel Watch band styles. | Image: Slashleaks via OnLeaks\n    \n\n  \nAs if the launch of the Pixel Watch hasn’t been spoiled by enough leaks already, a new set of images shared with Slashleaks by reliable leaker OnLeaks (via 9to5Google), show the smartwatch in even more detail just days ahead of Google’s launch event. This expands on what we’ve already seen in a brief ad from Google released last week, revealing an array of band styles, more watch faces, as well as some other features the watch could come with.\nFor starters, the Pixel Watch could offer silicone band styles in black, eggshell, dark gray, and silver, as well as three braided options in orange, green, and black. It also looks like Google’s planning to offer two different leather band styles, includ…",
@@ -2219,6 +2229,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html",
+          "author": "Camila Falquez and Isvett Verde",
+          "description": "It’s time for Indigenous voices to lead the climate fight.",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html",
+          "publishedOn": "2022-10-01T19:49:22.000Z",
+          "wordCount": null,
+          "title": "The Global Indigenous Movement to Fight Climate Change",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html",
+          "author": "Ross Douthat",
+          "description": "A yearning for the 1980s meets a very 21st century kind of European crisis.",
+          "link": "https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html",
+          "publishedOn": "2022-10-01T19:00:05.000Z",
+          "wordCount": null,
+          "title": "Will Nostalgia Kill the British Right?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html",
           "author": "David E. Sanger, Anton Troianovski and Julian E. Barnes",
           "description": "In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.",
@@ -2226,6 +2256,16 @@
           "publishedOn": "2022-10-01T16:30:21.000Z",
           "wordCount": null,
           "title": "In Washington, Putin’s Nuclear Threats Stir Growing Alarm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html",
+          "author": "Abdi Latif Dahir",
+          "description": "The outbreak was caused by the Sudan strain of the virus, which has no approved vaccine or drug treatment. Scientists are now rushing to begin clinical trials in the coming weeks.",
+          "link": "https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html",
+          "publishedOn": "2022-10-01T16:27:24.000Z",
+          "wordCount": null,
+          "title": "Uganda Races to Contain a Deadly Ebola Outbreak",
           "imageUrl": null
         },
         {
@@ -2286,6 +2326,16 @@
           "publishedOn": "2022-10-01T13:11:42.000Z",
           "wordCount": null,
           "title": "Vladimir Putin’s ‘Medea’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html",
+          "author": "Michael Levenson",
+          "description": "With Easter still far away, there are none to melt down. But the decision opened a door on the bunny-eat-bunny world of European chocolatiers.",
+          "link": "https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html",
+          "publishedOn": "2022-10-01T13:00:05.000Z",
+          "wordCount": null,
+          "title": "Backing Lindt, Swiss Court Orders Lidl to ‘Destroy’ Its Chocolate Bunnies",
           "imageUrl": null
         },
         {
@@ -2956,6 +3006,16 @@
           "publishedOn": "2022-09-30T09:00:22.000Z",
           "wordCount": null,
           "title": "Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/business/health-insurance-obamacare-young-adults.html",
+          "author": "Isabella Simonetti",
+          "description": "Whether you’re turning 26 and about to age out of a parent’s plan or just landing a job with benefits, finding coverage is a tricky task.",
+          "link": "https://www.nytimes.com/2022/09/30/business/health-insurance-obamacare-young-adults.html",
+          "publishedOn": "2022-09-30T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Health Insurance Guide: Navigating Coverage in Your 20s",
           "imageUrl": null
         },
         {
@@ -19687,6 +19747,216 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190413",
+          "author": null,
+          "description": "Gackt slowly recovering from immunodeficiency, autoimmune condition, other side effects",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/live-action-fly-me-to-saitama-sequel-resumes-filming-after-gackt-return/.190413",
+          "publishedOn": "2022-10-01T15:30:23.000Z",
+          "wordCount": 3408,
+          "title": "Live-Action Fly Me to Saitama Sequel Resumes Filming After Gackt's Return",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/news.4/176134/tondesaitama2_202108_01.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190412",
+          "author": null,
+          "description": "'Shikisai' song debuts with anime's second half on Saturday",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/spy-family-anime-2nd-half-streams-clean-ending-sequence-with-yama-ending-song/.190412",
+          "publishedOn": "2022-10-01T15:07:09.000Z",
+          "wordCount": 3238,
+          "title": "Spy×Family Anime's 2nd Half Streams Clean Ending Sequence with yama's Ending Song",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/youtube/4kNt62PptEQ.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190281",
+          "author": null,
+          "description": "Ichijinsha published prologue chapter on Wednesday",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/utako-yukihiro-kare-ni-irai-shite-wa-ikemasen-manga-2nd-part-starts-in-november/.190281",
+          "publishedOn": "2022-10-01T09:00:05.000Z",
+          "wordCount": 3120,
+          "title": "Utako Yukihiro's Kare ni Irai Shite wa Ikemasen Manga's 2nd Part Starts in November",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM3/cms/news.5/190281/kare.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190252",
+          "author": null,
+          "description": "Seven Seas releases romantic comedy manga in English",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/seiichi-kinoue-no-matter-what-you-say-furi-san-is-scary-manga-ends-in-next-chapter/.190252",
+          "publishedOn": "2022-10-01T08:39:01.000Z",
+          "wordCount": 3124,
+          "title": "Seiichi Kinoue's 'No Matter What You Say, Furi-san is Scary!' Manga Ends in Next Chapter",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY8/cms/news.4/173035/furi-san.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190257",
+          "author": null,
+          "description": "Manga's 3rd volume releases on October 27",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/shin-yamamoto-sekai-wa-are-de-dekiteiru-manga-ends/.190257",
+          "publishedOn": "2022-10-01T08:25:48.000Z",
+          "wordCount": 3092,
+          "title": "Shin Yamamoto's Sekai wa Are de Dekiteiru Manga Ends",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP2/cms/news.5/190257/sekai.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190324",
+          "author": null,
+          "description": "Artists Chanmina, NAQT VANE perform opening, ending theme songs",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/live-action-yakuza-lover-series-reveals-opening-ending-song-artists/.190324",
+          "publishedOn": "2022-10-01T08:16:45.000Z",
+          "wordCount": 3281,
+          "title": "Live-Action Yakuza Lover Series Reveals Opening, Ending Song Artists",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM6/cms/news.5/190324/koi-to-dangan-poster.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190402",
+          "author": null,
+          "description": "Streaming service also streams anime's English dub",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/retrocrush-streams-cyber-city-oedo-808-ova/.190402",
+          "publishedOn": "2022-10-01T07:50:10.000Z",
+          "wordCount": 3160,
+          "title": "RetroCrush Streams Cyber City Oedo 808 OVA",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/cms/news.5/190402/fdceto4xkamfqwr.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190321",
+          "author": null,
+          "description": "Uso ka Makoto ka Yume ka Koi manga by Kazune Kawahara, Aruko launches on October 28",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/my-love-story-manga-duo-reunite-for-new-2-chapter-manga/.190321",
+          "publishedOn": "2022-10-01T06:41:05.000Z",
+          "wordCount": 3201,
+          "title": "My Love Story!! Manga Duo Reunite for New 2-Chapter Manga",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.5/190321/kawahara-aruko.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190355",
+          "author": null,
+          "description": "Game launched in March 2020 after original Show By Rock!! app ended service in December 2019",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/show-by-rock-fes-a-live-smartphone-game-ends-service-on-november-30/.190355",
+          "publishedOn": "2022-10-01T06:17:36.000Z",
+          "wordCount": 3134,
+          "title": "Show By Rock!! Fes A Live Smartphone Game Ends Service on November 30",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/cms/news.5/190355/showbyrockfes.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190359",
+          "author": null,
+          "description": "Mamoru Hosoda's Belle film earns 7.5% rating",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/japanese-animation-tv-ranking-september-19-25/.190359",
+          "publishedOn": "2022-10-01T06:10:07.000Z",
+          "wordCount": 3104,
+          "title": "Japanese Animation TV Ranking, September 19-25",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.4/175304/belle.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190362",
+          "author": null,
+          "description": "Splatoon 3 at #1 for 3rd consecutive week",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/japan-video-game-rankings-september-19-25/.190362",
+          "publishedOn": "2022-10-01T05:57:00.000Z",
+          "wordCount": 3161,
+          "title": "Japan's Video Game Rankings, September 19-25",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.5/190362/splatoon.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190356",
+          "author": null,
+          "description": "Google to refund all purchases made through Google Store",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/google-shuts-down-stadia-cloud-based-gaming-platform-on-january-18/.190356",
+          "publishedOn": "2022-10-01T05:35:29.000Z",
+          "wordCount": 3106,
+          "title": "Google Shuts Down Stadia Cloud-Based Gaming Platform on January 18",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/cms/news.5/190356/stadia.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190377",
+          "author": null,
+          "description": "More cast, main staff, teaser visual also revealed",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/level-1-demon-lord-and-one-room-hero-tv-anime-teaser-video-reveals-2023-debut/.190377",
+          "publishedOn": "2022-10-01T03:00:00.000Z",
+          "wordCount": 3173,
+          "title": "Level 1 Demon Lord and One Room Hero TV Anime's Teaser Video Reveals 2023 Debut",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g2I/cms/news.5/190377/teaser-visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190395",
+          "author": null,
+          "description": "7 performances were canceled in January due to cast member getting COVID-19",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/2nd-sk8-the-infinity-stage-play-delayed-to-january-2023/.190395",
+          "publishedOn": "2022-09-30T21:00:00.000Z",
+          "wordCount": 3146,
+          "title": "2nd Sk8 the Infinity Stage Play Delayed to January 2023",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/cms/news.5/181529/sk8-visual.jpeg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190396",
+          "author": null,
+          "description": "Also: 1st episode of Mobile Suit Gundam: The Witch From Mercury delayed on Gundam.info site",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/hidive-delays-1st-episode-simulcast-for-ive-somehow-gotten-stronger-when-i-improved-my-farm-related-/.190396",
+          "publishedOn": "2022-09-30T19:50:37.000Z",
+          "wordCount": 3528,
+          "title": "HIDIVE Delays 1st Episode Simulcast for I've Somehow Gotten Stronger When I Improved My Farm-Related Skills. Anime",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.5/188943/visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190392",
+          "author": null,
+          "description": "Ichiri Seto's \"Sono Ato no Hero\" debuted on Friday",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/lucifer-and-the-biscuit-hammer-manga-gets-spinoff/.190392",
+          "publishedOn": "2022-09-30T18:15:00.000Z",
+          "wordCount": 3278,
+          "title": "Lucifer and the Biscuit Hammer Manga Gets Spinoff",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ3/cms/news.5/190392/lucifer-biscuit-hammer-manga-spinoff.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190384",
+          "author": null,
+          "description": "Cast, character visuals revealed for Astraea Familia",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-season-4-anime-continues-in-new-arc-on-january-5/.190384",
+          "publishedOn": "2022-09-30T17:00:00.000Z",
+          "wordCount": 3301,
+          "title": "'Is It Wrong to Try to Pick Up Girls in a Dungeon?' Season 4 Anime Continues in New Arc on January 5",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYJ/cms/news.5/190384/danmachi-disaster-visual.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190391",
+          "author": null,
+          "description": "Saku Mizuno plays Ryо̄ in anime premiering on October 8",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/bocchi-the-rock-anime-character-promo-video-highlights-ry-yamada/.190391",
+          "publishedOn": "2022-09-30T16:00:00.000Z",
+          "wordCount": 3151,
+          "title": "Bocchi the Rock! Anime's Character Promo Video Highlights Ryо̄ Yamada",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g6D/youtube/zT9O8cJ_hjY.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190390",
+          "author": null,
+          "description": "Anime premieres on October 10",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/bleach-thousand-year-blood-war-anime-new-short-trailer-previews-stern-ritter/.190390",
+          "publishedOn": "2022-09-30T15:20:30.000Z",
+          "wordCount": 3518,
+          "title": "Bleach: Thousand-Year Blood War Anime's New Short Trailer Previews Stern Ritter (Updated)",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/tRyaW17nEos.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190389",
+          "author": null,
+          "description": "1st episode preview video streamed ahead of Saturday premiere",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/uzaki-chan-wants-to-hang-out-season-2-anime-streams-creditless-opening-theme-song/.190389",
+          "publishedOn": "2022-09-30T15:01:28.000Z",
+          "wordCount": 3305,
+          "title": "Uzaki-chan Wants to Hang Out! Season 2 Anime Streams Creditless Opening Theme Song",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7C/youtube/kfQAR_BcD4k.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190388",
+          "author": null,
+          "description": "Hoshiki plays Riamu Yumemi in THE IDOLM@STER Cinderella Girls",
+          "link": "https://www.animenewsnetwork.com/news/2022-09-30/voice-actress-singer-seena-hoshiki-goes-on-hiatus-due-to-acute-lymphocytic-leukemia/.190388",
+          "publishedOn": "2022-09-30T14:32:04.000Z",
+          "wordCount": 3077,
+          "title": "Voice Actress/Singer Seena Hoshiki Goes on Hiatus Due to Acute Lymphocytic Leukemia",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI1/cms/news.5/190388/seena-hoshiki.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190385",
           "author": null,
           "description": "Teaser video, teaser visual revealed for new project",
@@ -24467,6 +24737,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/10-lesser-known-facts-about-lal-bahadur-shastri/articleshow/94590486.cms",
+          "author": null,
+          "description": "On October 2, the nation celebrates Gandhi Jayanti on account of Mahatma Gandhi's birthday. But the father of the nation shares his birthday with another man who contributed immensely towards the growth of India. He was the country’s second Prime Minister, Lal Bahadur Shastri.",
+          "link": "https://timesofindia.indiatimes.com/india/10-lesser-known-facts-about-lal-bahadur-shastri/articleshow/94590486.cms",
+          "publishedOn": "2022-10-01T19:45:44.000Z",
+          "wordCount": 6055,
+          "title": "10 lesser known facts about Lal Bahadur Shastri",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591282,width-1070,height-580,imgsize-17066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/10-watershed-moments-in-mahatma-gandhis-fight-for-freedom/articleshow/94591112.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Mohandas Karamchand Gandhi, the father of our nation, was born on October 2, 1869.",
+          "link": "https://timesofindia.indiatimes.com/india/10-watershed-moments-in-mahatma-gandhis-fight-for-freedom/articleshow/94591112.cms",
+          "publishedOn": "2022-10-01T19:21:25.000Z",
+          "wordCount": 8880,
+          "title": "10 watershed moments in Mahatma Gandhi's fight for freedom",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591151,width-1070,height-580,imgsize-12972,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/5-ways-mahatma-gandhi-has-been-honored-by-india-and-the-world/articleshow/94591093.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Mohandas Karamchand Gandhi or Mahatma Gandhi was born on October 2, 1869, in Porbandar, Gujarat.",
+          "link": "https://timesofindia.indiatimes.com/india/5-ways-mahatma-gandhi-has-been-honored-by-india-and-the-world/articleshow/94591093.cms",
+          "publishedOn": "2022-10-01T19:09:23.000Z",
+          "wordCount": 6183,
+          "title": "5 ways  Mahatma Gandhi has been honored by India and the world",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591096,width-1070,height-580,imgsize-21576,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-journalist-held-for-alleged-rape/articleshow/94590987.cms",
           "author": null,
@@ -30708,6 +31008,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms",
+          "author": null,
+          "description": "Mani Ratnam’s Ponniyin Selvan-I released yesterday and has recorded the biggest ever opening day for Tamil cinema worldwide. The film collected 80 crore at the ticket window. Interestingly, the first-day global gross collection of the film is also higher than Ranbir Kapoor and Alia Bhatt’s Brahmastra: Part One - Shiva. The Ayan Mukerji’s directorial had collected Rs 75 crore gross worldwide on Day 1.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms",
+          "publishedOn": "2022-10-01T17:35:04.000Z",
+          "wordCount": 8927,
+          "title": "‘Ponniyin Selvan’ records a bigger opening than Brahmastra",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94590169,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-146242/94590169.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/thats-it-jaishankar-says-india-expert-in-it-pakistan-in-international-terrorism/articleshow/94589302.cms",
           "author": null,

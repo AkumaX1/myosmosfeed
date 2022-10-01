@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T19:10:15.755Z</updated>
+    <updated>2022-10-01T20:10:51.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Global Indigenous Movement to Fight Climate Change]]></title>
+        <id>https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html"/>
+        <updated>2022-10-01T19:49:22.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for Indigenous voices to lead the climate fight.]]></summary>
+        <author>
+            <name>Camila Falquez and Isvett Verde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish and Sling TV drop Disney, ESPN, and others due to contract dispute]]></title>
+        <id>https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming</id>
+        <link href="https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming"/>
+        <updated>2022-10-01T19:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Alex Castro / The Verge
+    
+
+  
+Dish and its Sling TV streaming service have dropped Disney’s package of channels after the companies couldn’t come to a contract agreement (via Deadline). In an announcement on its site, Dish says the Disney Channel, ESPN, FX, Freeform, National Geographic, and some local ABC networks are no longer available on its services after its contract expired early this morning.
+Dish blames the dispute on Disney, claiming the company demanded a $1 billion fee increase and “walked away from the negotiation table.” The satellite provider adds that Disney wanted Dish to include ESPN, ESPN2, and local ABC channels at an added cost in packages that don’t carry them.
+Our contract has expired with The Walt Disney Company.  Our goal and priority is to reach a fair agreemen…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 lesser known facts about Lal Bahadur Shastri]]></title>
+        <id>https://timesofindia.indiatimes.com/india/10-lesser-known-facts-about-lal-bahadur-shastri/articleshow/94590486.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/10-lesser-known-facts-about-lal-bahadur-shastri/articleshow/94590486.cms"/>
+        <updated>2022-10-01T19:45:44.000Z</updated>
+        <summary type="html"><![CDATA[On October 2, the nation celebrates Gandhi Jayanti on account of Mahatma Gandhi's birthday. But the father of the nation shares his birthday with another man who contributed immensely towards the growth of India. He was the country’s second Prime Minister, Lal Bahadur Shastri.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 watershed moments in Mahatma Gandhi's fight for freedom]]></title>
+        <id>https://timesofindia.indiatimes.com/india/10-watershed-moments-in-mahatma-gandhis-fight-for-freedom/articleshow/94591112.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/10-watershed-moments-in-mahatma-gandhis-fight-for-freedom/articleshow/94591112.cms"/>
+        <updated>2022-10-01T19:21:25.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Mohandas Karamchand Gandhi, the father of our nation, was born on October 2, 1869.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ways  Mahatma Gandhi has been honored by India and the world]]></title>
+        <id>https://timesofindia.indiatimes.com/india/5-ways-mahatma-gandhi-has-been-honored-by-india-and-the-world/articleshow/94591093.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/5-ways-mahatma-gandhi-has-been-honored-by-india-and-the-world/articleshow/94591093.cms"/>
+        <updated>2022-10-01T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Mohandas Karamchand Gandhi or Mahatma Gandhi was born on October 2, 1869, in Porbandar, Gujarat.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Nostalgia Kill the British Right?]]></title>
+        <id>https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html"/>
+        <updated>2022-10-01T19:00:05.000Z</updated>
+        <summary type="html"><![CDATA[A yearning for the 1980s meets a very 21st century kind of European crisis.]]></summary>
+        <author>
+            <name>Ross Douthat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jammu and Kashmir 'journalist' held for alleged rape]]></title>
         <id>https://timesofindia.indiatimes.com/india/jammu-and-kashmir-journalist-held-for-alleged-rape/articleshow/94590987.cms</id>
@@ -136,6 +202,16 @@ Though superheroes are more often associated with western comics and, these days
         <summary type="html"><![CDATA[India News: NEW DELHI: The Centre on Saturday appointed S L Thaosen, a 1988 batch IPS officer of Madhya Pradesh cadre and currently DG, Sashastra Seema Bal with a.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Ponniyin Selvan’ records a bigger opening than Brahmastra]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms"/>
+        <updated>2022-10-01T17:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Mani Ratnam’s Ponniyin Selvan-I released yesterday and has recorded the biggest ever opening day for Tamil cinema worldwide. The film collected 80 crore at the ticket window. Interestingly, the first-day global gross collection of the film is also higher than Ranbir Kapoor and Alia Bhatt’s Brahmastra: Part One - Shiva. The Ayan Mukerji’s directorial had collected Rs 75 crore gross worldwide on Day 1.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -290,6 +366,16 @@ While the final episode of the Kingdom TV anime's fourth season had to be postpo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Uganda Races to Contain a Deadly Ebola Outbreak]]></title>
+        <id>https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html"/>
+        <updated>2022-10-01T16:27:24.000Z</updated>
+        <summary type="html"><![CDATA[The outbreak was caused by the Sudan strain of the virus, which has no approved vaccine or drug treatment. Scientists are now rushing to begin clinical trials in the coming weeks.]]></summary>
+        <author>
+            <name>Abdi Latif Dahir</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Halloween Countdown: 31 days of horror to watch]]></title>
         <id>https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream</id>
         <link href="https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream"/>
@@ -393,6 +479,16 @@ Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live-Action Fly Me to Saitama Sequel Resumes Filming After Gackt's Return]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190413</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/live-action-fly-me-to-saitama-sequel-resumes-filming-after-gackt-return/.190413"/>
+        <updated>2022-10-01T15:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Gackt slowly recovering from immunodeficiency, autoimmune condition, other side effects]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['Not even a penny': Why is Taliban getting frustrated with China]]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/chinas-failure-to-invest-in-afghanistan-is-frustrating-the-taliban/articleshow/94468965.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/south-asia/chinas-failure-to-invest-in-afghanistan-is-frustrating-the-taliban/articleshow/94468965.cms"/>
@@ -440,6 +536,16 @@ Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities 
         <summary type="html"><![CDATA[With the move, the price of diesel for the first time in Sri Lanka is more than the price of petrol]]></summary>
         <author>
             <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spy×Family Anime's 2nd Half Streams Clean Ending Sequence with yama's Ending Song]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190412</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/spy-family-anime-2nd-half-streams-clean-ending-sequence-with-yama-ending-song/.190412"/>
+        <updated>2022-10-01T15:07:09.000Z</updated>
+        <summary type="html"><![CDATA['Shikisai' song debuts with anime's second half on Saturday]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -822,6 +928,16 @@ Past …]]></summary>
 Web3 banking platform Juno raises $18 million, launches tokenized loyalty program by Manish Singh originally published on TechCrunch]]></summary>
         <author>
             <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backing Lindt, Swiss Court Orders Lidl to ‘Destroy’ Its Chocolate Bunnies]]></title>
+        <id>https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html"/>
+        <updated>2022-10-01T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[With Easter still far away, there are none to melt down. But the decision opened a door on the bunny-eat-bunny world of European chocolatiers.]]></summary>
+        <author>
+            <name>Michael Levenson</name>
         </author>
     </entry>
     <entry>
@@ -1364,6 +1480,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Utako Yukihiro's Kare ni Irai Shite wa Ikemasen Manga's 2nd Part Starts in November]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190281</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/utako-yukihiro-kare-ni-irai-shite-wa-ikemasen-manga-2nd-part-starts-in-november/.190281"/>
+        <updated>2022-10-01T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Ichijinsha published prologue chapter on Wednesday]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russia accused of 'kidnapping' head of Ukraine nuclear plant]]></title>
         <id>https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/europe/russia-accused-of-kidnapping-head-of-ukraine-nuclear-plant/articleshow/94579494.cms"/>
@@ -1374,6 +1500,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Seiichi Kinoue's 'No Matter What You Say, Furi-san is Scary!' Manga Ends in Next Chapter]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190252</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/seiichi-kinoue-no-matter-what-you-say-furi-san-is-scary-manga-ends-in-next-chapter/.190252"/>
+        <updated>2022-10-01T08:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Seven Seas releases romantic comedy manga in English]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russia accused of ‘kidnapping’ head of Ukraine’s Zaporizhzhia nuclear plant]]></title>
         <id>https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece</id>
         <link href="https://www.thehindu.com/news/international/russia-accused-of-kidnapping-head-of-ukraines-zaporizhzhia-nuclear-plant/article65958348.ece"/>
@@ -1381,6 +1517,26 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[Ukraine’s nuclear power provider has accused Russia of “kidnapping” the head of a nuclear power plant occupied by Russian troops]]></summary>
         <author>
             <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shin Yamamoto's Sekai wa Are de Dekiteiru Manga Ends]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190257</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/shin-yamamoto-sekai-wa-are-de-dekiteiru-manga-ends/.190257"/>
+        <updated>2022-10-01T08:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Manga's 3rd volume releases on October 27]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live-Action Yakuza Lover Series Reveals Opening, Ending Song Artists]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190324</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/live-action-yakuza-lover-series-reveals-opening-ending-song-artists/.190324"/>
+        <updated>2022-10-01T08:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Artists Chanmina, NAQT VANE perform opening, ending theme songs]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1401,6 +1557,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[First woman to head ONGC – another glass ceiling broken]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RetroCrush Streams Cyber City Oedo 808 OVA]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190402</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/retrocrush-streams-cyber-city-oedo-808-ova/.190402"/>
+        <updated>2022-10-01T07:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Streaming service also streams anime's English dub]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1543,6 +1709,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Love Story!! Manga Duo Reunite for New 2-Chapter Manga]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190321</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/my-love-story-manga-duo-reunite-for-new-2-chapter-manga/.190321"/>
+        <updated>2022-10-01T06:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Uso ka Makoto ka Yume ka Koi manga by Kazune Kawahara, Aruko launches on October 28]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bar codes could come soon to plug menace of sub-standard drugs]]></title>
         <id>https://timesofindia.indiatimes.com/india/bar-codes-could-come-soon-to-plug-menace-of-sub-standard-drugs/articleshow/94578672.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/bar-codes-could-come-soon-to-plug-menace-of-sub-standard-drugs/articleshow/94578672.cms"/>
@@ -1563,6 +1739,26 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show By Rock!! Fes A Live Smartphone Game Ends Service on November 30]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190355</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/show-by-rock-fes-a-live-smartphone-game-ends-service-on-november-30/.190355"/>
+        <updated>2022-10-01T06:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Game launched in March 2020 after original Show By Rock!! app ended service in December 2019]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese Animation TV Ranking, September 19-25]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190359</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/japanese-animation-tv-ranking-september-19-25/.190359"/>
+        <updated>2022-10-01T06:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Mamoru Hosoda's Belle film earns 7.5% rating]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pakistan government's Twitter account withheld in India, again]]></title>
         <id>https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-account-withheld-in-india-again/articleshow/94578094.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-account-withheld-in-india-again/articleshow/94578094.cms"/>
@@ -1570,6 +1766,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Video Game Rankings, September 19-25]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190362</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/japan-video-game-rankings-september-19-25/.190362"/>
+        <updated>2022-10-01T05:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Splatoon 3 at #1 for 3rd consecutive week]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1600,6 +1806,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[A mountain pass into Georgia has become a choke point for Russians fleeing the country, many of them men who faced being drafted and sent to fight in Ukraine.]]></summary>
         <author>
             <name>Ksenia Ivanova and Catherine Porter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Shuts Down Stadia Cloud-Based Gaming Platform on January 18]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190356</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/google-shuts-down-stadia-cloud-based-gaming-platform-on-january-18/.190356"/>
+        <updated>2022-10-01T05:35:29.000Z</updated>
+        <summary type="html"><![CDATA[Google to refund all purchases made through Google Store]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -1803,6 +2019,16 @@ The official website for the forthcoming TV anime adaptation of toufu's fantasy 
         <summary type="html"><![CDATA[For the second month in a row, Vampire Survivors has risen above the likes of Elden Ring, Cyberpunk 2077, and Marvel's Spider-Man Remastered to become the most-played Steam Deck game in September 2022.]]></summary>
         <author>
             <name>Adam Bankhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level 1 Demon Lord and One Room Hero TV Anime's Teaser Video Reveals 2023 Debut]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190377</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/level-1-demon-lord-and-one-room-hero-tv-anime-teaser-video-reveals-2023-debut/.190377"/>
+        <updated>2022-10-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More cast, main staff, teaser visual also revealed]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -2787,6 +3013,16 @@ News that Google would be closing down Stadia was a big surprise for everyone, i
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2nd Sk8 the Infinity Stage Play Delayed to January 2023]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190395</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/2nd-sk8-the-infinity-stage-play-delayed-to-january-2023/.190395"/>
+        <updated>2022-09-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7 performances were canceled in January due to cast member getting COVID-19]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Backed Hard: The Best Stuff We (Actually) Bought in September]]></title>
         <id>pkgqwm</id>
         <link href="https://www.vice.com/en_us/article/pkgqwm/september-2022-editors-picks"/>
@@ -3045,6 +3281,16 @@ The conceit of a Tamagotchi is innocuous enough. It’s a teensy egg-shaped devi
         <summary type="html"><![CDATA[The airline said it was too small to compete at the airport and would cease flights there at the end of October.]]></summary>
         <author>
             <name>Niraj Chokshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIDIVE Delays 1st Episode Simulcast for I've Somehow Gotten Stronger When I Improved My Farm-Related Skills. Anime]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190396</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/hidive-delays-1st-episode-simulcast-for-ive-somehow-gotten-stronger-when-i-improved-my-farm-related-/.190396"/>
+        <updated>2022-09-30T19:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Also: 1st episode of Mobile Suit Gundam: The Witch From Mercury delayed on Gundam.info site]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -3400,6 +3646,16 @@ Teenage Engineering (TE) built the PO-80 to be portable, just like its calculato
 Indian market regulator tightens IPO disclosure norms by Manish Singh originally published on TechCrunch]]></summary>
         <author>
             <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucifer and the Biscuit Hammer Manga Gets Spinoff]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190392</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/lucifer-and-the-biscuit-hammer-manga-gets-spinoff/.190392"/>
+        <updated>2022-09-30T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ichiri Seto's "Sono Ato no Hero" debuted on Friday]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -3852,6 +4108,16 @@ TechCrunch+ roundup: Insurtech investor survey, H-1B red flags, SaaS sales coach
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Is It Wrong to Try to Pick Up Girls in a Dungeon?' Season 4 Anime Continues in New Arc on January 5]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190384</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-season-4-anime-continues-in-new-arc-on-january-5/.190384"/>
+        <updated>2022-09-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cast, character visuals revealed for Astraea Familia]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FEATURE: Waku Waku!! The 5 Most Exciting Moments in SPY x FAMILY So Far]]></title>
         <id>https://www.crunchyroll.com/anime-feature/2022/09/30-1/feature-waku-waku-the-5-most-exciting-moments-in-spy-x-family-so-far</id>
         <link href="https://www.crunchyroll.com/anime-feature/2022/09/30-1/feature-waku-waku-the-5-most-exciting-moments-in-spy-x-family-so-far"/>
@@ -4256,6 +4522,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bocchi the Rock! Anime's Character Promo Video Highlights Ryо̄ Yamada]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190391</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/bocchi-the-rock-anime-character-promo-video-highlights-ry-yamada/.190391"/>
+        <updated>2022-09-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Saku Mizuno plays Ryо̄ in anime premiering on October 8]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[QUIZ: What’s Your Rank in Welcome to Demon School! Iruma-kun?]]></title>
         <id>https://www.crunchyroll.com/anime-feature/2022/09/30-1/quiz-whats-your-rank-in-welcome-to-demon-school-iruma-kun</id>
         <link href="https://www.crunchyroll.com/anime-feature/2022/09/30-1/quiz-whats-your-rank-in-welcome-to-demon-school-iruma-kun"/>
@@ -4462,6 +4738,16 @@ If Overwatch 2 is a player’s first Overwatch, they’ll have access to a subse
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bleach: Thousand-Year Blood War Anime's New Short Trailer Previews Stern Ritter (Updated)]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190390</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/bleach-thousand-year-blood-war-anime-new-short-trailer-previews-stern-ritter/.190390"/>
+        <updated>2022-09-30T15:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Anime premieres on October 10]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In Unhinged Video, CEO Who Told Staff to Work Through Hurricane Also Scorned COVID Concerns]]></title>
         <id>m7gpkn</id>
         <link href="https://www.vice.com/en_us/article/m7gpkn/ceo-hurricane-florida-families-covid"/>
@@ -4539,6 +4825,16 @@ If Overwatch 2 is a player’s first Overwatch, they’ll have access to a subse
         <summary type="html"><![CDATA[The product appears to be the latest effort by gun enthusiasts to get around strict laws on fully automatic weapons.]]></summary>
         <author>
             <name>Keegan Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uzaki-chan Wants to Hang Out! Season 2 Anime Streams Creditless Opening Theme Song]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190389</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/uzaki-chan-wants-to-hang-out-season-2-anime-streams-creditless-opening-theme-song/.190389"/>
+        <updated>2022-09-30T15:01:28.000Z</updated>
+        <summary type="html"><![CDATA[1st episode preview video streamed ahead of Saturday premiere]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -4805,6 +5101,16 @@ YouTube TV users can now subscribe to standalone networks without a base plan by
         <summary type="html"><![CDATA[The 34-year-old suspect fled into his apartment and barricaded himself after killing Lt. Alison Russo-Elling, prosecutors said.]]></summary>
         <author>
             <name>Corey Kilgannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice Actress/Singer Seena Hoshiki Goes on Hiatus Due to Acute Lymphocytic Leukemia]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190388</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-09-30/voice-actress-singer-seena-hoshiki-goes-on-hiatus-due-to-acute-lymphocytic-leukemia/.190388"/>
+        <updated>2022-09-30T14:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Hoshiki plays Riamu Yumemi in THE IDOLM@STER Cinderella Girls]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -6515,6 +6821,16 @@ Adolescence can bring about some tough changes in the teenaged body such as horn
         <summary type="html"><![CDATA[Mass protests, once a grave threat to even the fiercest autocrat, have plummeted in effectiveness, a study shows. Factors appear to include polarization, social media and rising nationalist attitudes.]]></summary>
         <author>
             <name>Max Fisher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Insurance Guide: Navigating Coverage in Your 20s]]></title>
+        <id>https://www.nytimes.com/2022/09/30/business/health-insurance-obamacare-young-adults.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/business/health-insurance-obamacare-young-adults.html"/>
+        <updated>2022-09-30T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re turning 26 and about to age out of a parent’s plan or just landing a job with benefits, finding coverage is a tricky task.]]></summary>
+        <author>
+            <name>Isabella Simonetti</name>
         </author>
     </entry>
     <entry>
