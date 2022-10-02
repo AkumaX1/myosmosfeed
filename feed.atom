@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T15:10:30.642Z</updated>
+    <updated>2022-10-02T16:13:33.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama]]></title>
+        <id>https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures</id>
+        <link href="https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures"/>
+        <updated>2022-10-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Unknown Worlds/Krafton
+    
+
+  
+Subnautica dev’s new early access game is a curious combination
+ The new game from the developers behind Subnautica is not a lone, pelagic pilgrimage through the hostile waters of an alien planet, but a strategy game designed to integrate Warhammer-esque miniatures into a world penned by Mistborn author Brandon Sanderson.
+Moonbreaker, available now in early access on Mac and Windows PC via Steam, is therefore something of a surprising pivot from Unknown Worlds.
+“My pitch was always like, we’re making a digital miniatures game, full stop,” Unknown Worlds co-founder Charlie Cleveland told me during an interview for Moonbreaker at Gamescom 2022. “Think about it: Painting? Yes. Digital miniatures lore? Yes. Turn-based strategy? Yes. Sharing paint jobs… It…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rights group: Israel holding 800 Palestinians without trial]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/rights-group-israel-holding-800-palestinians-without-trial/articleshow/94604797.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/rights-group-israel-holding-800-palestinians-without-trial/articleshow/94604797.cms"/>
+        <updated>2022-10-02T15:59:52.000Z</updated>
+        <summary type="html"><![CDATA[The group, HaMoked, which regularly gathers figures from Israeli prison authorities, said that 798 Palestinians are currently being held in so-called administrative detention, a practice where the prisoners can be held for months, do not know the charges against them and are not granted access to the evidence against them.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress is neither Indian nor national anymore: J P Nadda]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-is-neither-indian-nor-national-anymore-j-p-nadda/articleshow/94604681.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-is-neither-indian-nor-national-anymore-j-p-nadda/articleshow/94604681.cms"/>
+        <updated>2022-10-02T15:51:24.000Z</updated>
+        <summary type="html"><![CDATA[BJP national president J P Nadda on Sunday said that Congress is neither Indian nor national anymore as it has become only a brother-sister party.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After speech in heavy rain, Rahul Gandhi sends clear message 'nothing can stop us']]></title>
+        <id>https://timesofindia.indiatimes.com/india/unfazed-rahul-gandhi-delivers-speech-amid-downpour-in-mysuru/articleshow/94604499.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/unfazed-rahul-gandhi-delivers-speech-amid-downpour-in-mysuru/articleshow/94604499.cms"/>
+        <updated>2022-10-02T15:47:34.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: "Nothing can stop us," declared Congress leader Rahul Gandhi on Sunday as he continued to deliver his speech in Karnataka's Mysuru amid a d.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pak Cabinet approves legal action against Imran Khan over leaked &#039;foreign conspiracy&#039; cypher audio tapes]]></title>
+        <id>https://www.thehindu.com/news/international/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audio-tapes/article65963101.ece</id>
+        <link href="https://www.thehindu.com/news/international/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audio-tapes/article65963101.ece"/>
+        <updated>2022-10-02T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Pak cabinet approves legal action against Imran Khan over leaked ‘foreign conspiracy’ cypher audios]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAF to formally induct indigenously-built Light Combat Helicopter on Monday]]></title>
+        <id>https://timesofindia.indiatimes.com/india/iaf-to-formally-induct-indigenously-built-light-combat-helicopter-on-monday/articleshow/94603606.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/iaf-to-formally-induct-indigenously-built-light-combat-helicopter-on-monday/articleshow/94603606.cms"/>
+        <updated>2022-10-02T15:29:19.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Indian Air Force (IAF) will induct on Monday the first batch of indigenously-developed Light Combat Helicopter (LCH), in a boost to its.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAF to formally induct indigenously-built LCH on Oct 3]]></title>
+        <id>https://timesofindia.indiatimes.com/india/iaf-to-formally-induct-indigenously-built-light-combat-helicopter-on-monday/articleshow/94603606.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/iaf-to-formally-induct-indigenously-built-light-combat-helicopter-on-monday/articleshow/94603606.cms"/>
+        <updated>2022-10-02T15:29:19.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Indian Air Force (IAF) will induct on Monday the first batch of indigenously-developed Light Combat Helicopter (LCH), in a boost to its.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch: Snake interrupts play during 2nd India-SA T20I]]></title>
         <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/watch-snake-interrupts-play-during-second-india-south-africa-t20i-match-resumes-after-few-minutes/articleshow/94603993.cms</id>
@@ -122,6 +199,16 @@ According to Bloomberg, Intel initially expected the IPO to value Mobileye at $5
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why the Music of Rich Mullins Endures, 25 Years After His Death]]></title>
+        <id>https://www.nytimes.com/2022/10/02/opinion/rich-mullins-death-anniversary.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/opinion/rich-mullins-death-anniversary.html"/>
+        <updated>2022-10-02T13:15:02.000Z</updated>
+        <summary type="html"><![CDATA[The Christian singer-songwriter, who died at age 41 in a car crash, has a legacy that lives on.]]></summary>
+        <author>
+            <name>Tish Harrison Warren</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mukesh Kumar, Rajat Patidar earn maiden India call-ups for SA ODIs]]></title>
         <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-mukesh-kumar-rajat-patidar-earn-maiden-india-call-ups-for-sa-odis/articleshow/94602555.cms</id>
         <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-mukesh-kumar-rajat-patidar-earn-maiden-india-call-ups-for-sa-odis/articleshow/94602555.cms"/>
@@ -226,6 +313,16 @@ From time to time you might come across a book that is too scary, and you have t
         <summary type="html"><![CDATA[Anime premierse on Tuesday]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['So terrifying': Witnesses recount 'domino effect' of tragic events at Indonesia football match]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/chaos-before-stampede-delivered-disaster-to-indonesia-football-fans/articleshow/94601542.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/chaos-before-stampede-delivered-disaster-to-indonesia-football-fans/articleshow/94601542.cms"/>
+        <updated>2022-10-02T12:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Sam Gilang rushed to the exit of the Indonesian football stadium with thousands of other terrified spectators as police fired tear gas and hit fans with batons, creating a stampede that claimed at least 125 lives."People were pushing each other and ... many were trampled on their way to the exit gate," the 22-year-old survivor told AFP.Spectators — including women and children — pushed and stepped on one another, scrambling through the packed terrace gasping for air, to reach any exit at Kanjuruhan stadium in the city of Malang, East Java.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -2102,6 +2199,16 @@ A loss by President Jair Bolsanaro could cause chaos. But experts say a coup is 
 Lula has a clear lea…]]></summary>
         <author>
             <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: Rahul Gandhi gives speech amid heavy rain in Mysuru]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-october-02/liveblog/94590889.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-bharat-jodo-yatra-live-updates-october-02/liveblog/94590889.cms"/>
+        <updated>2022-10-01T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Pushing forward Congress' Bharat Jodo Yatra in Karnataka on Saturday, Congress leader Rahul Gandhi discussed the prevailing situation in the country with intellectuals and prominent persons from the fields of culture and performing arts in the region. Saty with TOI for updates]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -12048,6 +12155,16 @@ Who’s in the group? That’s a very good question! It’s a mix of extremely o
         <summary type="html"><![CDATA[As the average 30-year mortgage rate eclipses 7 percent, home buyers and sellers are confronting sticker shock.]]></summary>
         <author>
             <name>Stefanos Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lesbian Perez Hilton of TikTok]]></title>
+        <id>https://www.nytimes.com/2022/09/29/style/kaelee-overfield-tiktok.html</id>
+        <link href="https://www.nytimes.com/2022/09/29/style/kaelee-overfield-tiktok.html"/>
+        <updated>2022-09-29T17:35:05.000Z</updated>
+        <summary type="html"><![CDATA[When relationship dramas heated up this summer, she saw an opportunity.]]></summary>
+        <author>
+            <name>Madison Malone Kircher</name>
         </author>
     </entry>
     <entry>
