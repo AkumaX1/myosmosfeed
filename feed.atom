@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T05:40:10.840Z</updated>
+    <updated>2022-10-02T06:20:27.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘SNL’: Watch Kendrick Lamar Perform ‘Father Time’]]></title>
+        <id>https://www.rollingstone.com/?p=1234603016</id>
+        <link href="https://www.rollingstone.com/music/music-news/snl-kendrick-lamar-perform-father-time-1234603016/"/>
+        <updated>2022-10-02T06:14:04.000Z</updated>
+        <summary type="html"><![CDATA[The single is from the artist's recently released album Mr. Morale & the Big Steppers.]]></summary>
+        <author>
+            <name>William Vaillancourt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘SNL’: Weekend Update Tackles Putin, Lizzo, Herschel Walker]]></title>
+        <id>https://www.rollingstone.com/?p=1234603667</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-putin-lizzo-herschel-walker-1234603667/"/>
+        <updated>2022-10-02T05:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Kenan Thompson portrayed the Georgia senate candidate alongside James Austin Johnson as Mitch McConnell.]]></summary>
+        <author>
+            <name>William Vaillancourt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil holds historic election with Lula against Bolsonaro]]></title>
+        <id>https://www.thehindu.com/news/international/brazil-holds-historic-election-with-lula-against-bolsonaro/article65961923.ece</id>
+        <link href="https://www.thehindu.com/news/international/brazil-holds-historic-election-with-lula-against-bolsonaro/article65961923.ece"/>
+        <updated>2022-10-02T05:52:49.000Z</updated>
+        <summary type="html"><![CDATA[The race pits incumbent President Jair Bolsonaro against his political nemesis, former President Luiz Inácio Lula da Silva]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1984 marks one of 'darkest' years in modern Indian history: US senator]]></title>
+        <id>https://timesofindia.indiatimes.com/india/1984-marks-one-of-darkest-years-in-modern-indian-history-us-senator/articleshow/94596091.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/1984-marks-one-of-darkest-years-in-modern-indian-history-us-senator/articleshow/94596091.cms"/>
+        <updated>2022-10-02T05:48:52.000Z</updated>
+        <summary type="html"><![CDATA[India News: WASHINGTON: The anti-Sikh riots of 1984 marks one of the “darkest” years in modern Indian history, a US senator has said, as he underlined the need to.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BJP first to recognise social media as the new electoral battlefield]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bjp-first-to-recognise-social-media-as-the-new-electoral-battlefield/articleshow/94596087.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bjp-first-to-recognise-social-media-as-the-new-electoral-battlefield/articleshow/94596087.cms"/>
+        <updated>2022-10-02T05:48:21.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Social media in past few years has emerged the new battlefield in electoral politics.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India reports 3,375 new Covid-19 cases and 18 deaths in last 24 hours]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-reports-3375-new-covid-19-cases-and-18-deaths-in-last-24-hours/articleshow/94595465.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-reports-3375-new-covid-19-cases-and-18-deaths-in-last-24-hours/articleshow/94595465.cms"/>
+        <updated>2022-10-02T05:46:45.000Z</updated>
+        <summary type="html"><![CDATA[The number of people who have recuperated from the disease surged to 4,40,28,370, while the case fatality rate was recorded at 1.19 per cent.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Ponniyin Selvan 1' box office collection day 2]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/ponniyin-selvan-1-box-office-collection-day-2-movie-mints-rs-150-crore-worldwide/articleshow/94595628.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/ponniyin-selvan-1-box-office-collection-day-2-movie-mints-rs-150-crore-worldwide/articleshow/94595628.cms"/>
+        <updated>2022-10-02T05:45:11.000Z</updated>
+        <summary type="html"><![CDATA[The Tamil historical epic drama, 'Ponniyin Selvan' directed by Mani Ratnam was released in theatres on September 30. Adapted from the novel, the movie featured Vikram, Jayam Ravi, Karthi, Trisha and Aishwarya Rai Bachchan in the lead roles. The movie has been critically acclaimed and has been receiving positive reviews from fans and movie critics.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three types of cancers that can cause back pain]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cancer-symptom-three-types-of-cancers-that-can-cause-back-pain-know-when-to-see-a-doctor/photostory/94551300.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cancer-symptom-three-types-of-cancers-that-can-cause-back-pain-know-when-to-see-a-doctor/photostory/94551300.cms"/>
+        <updated>2022-10-02T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Patients often ignore their back pain because they assume it to not be serious enough to visit a doctor.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cong a diminishing force in Assam with no bailout in sight]]></title>
         <id>https://timesofindia.indiatimes.com/india/cong-a-diminishing-force-in-assam-with-no-bailout-in-sight/articleshow/94595645.cms</id>
@@ -52,6 +132,16 @@
         <link href="https://timesofindia.indiatimes.com/india/encounter-under-way-in-jks-shopian/articleshow/94595274.cms"/>
         <updated>2022-10-02T04:55:08.000Z</updated>
         <summary type="html"><![CDATA[India News: SRINAGAR: An encounter broke out between security forces and terrorists in Shopian district of Jammu and Kashmir on Sunday, police said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16 highlights: Tina Datta and Sreejita De's cat-fight]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-highlights-from-tina-datta-and-sreejita-des-cat-fight-to-mc-stans-rs-80000-ke-joote-top-10-moments-from-the-premiere-episode/photostory/94595228.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-highlights-from-tina-datta-and-sreejita-des-cat-fight-to-mc-stans-rs-80000-ke-joote-top-10-moments-from-the-premiere-episode/photostory/94595228.cms"/>
+        <updated>2022-10-02T04:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Bigg Boss 16 had it grand premiere on Saturday (October 1). Host Salman Lhan introduces all the 16 contestants and interacted with them on the stage. Nimrit Kaur Ahluwalia was the first contestant to enter the show and to her surprise was also made the captain. Then came Priyanka Gautam who has also created quite a stir with her entry on premiere day itself. Sukbul Tauqeer, director Sajid Khan and others spoke about their struggles in life. A look at the main highlights of the premiere episode.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
