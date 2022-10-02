@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T22:10:22.110Z</updated>
+    <updated>2022-10-02T23:10:40.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telangana cleanest, Assam worst in rural area Swacchta survey]]></title>
+        <id>https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms"/>
+        <updated>2022-10-02T22:56:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Telangana, Haryana and Tamil Nadu emerged the cleanest among all large states on parameters of rural sanitation while Assam, Bihar and Jamm.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil counting votes in historic race of Lula vs. Bolsonaro]]></title>
+        <id>https://www.thehindu.com/news/international/brazil-election-result-voting-closes-lula-against-bolsonaro-for-new-president/article65964552.ece</id>
+        <link href="https://www.thehindu.com/news/international/brazil-election-result-voting-closes-lula-against-bolsonaro-for-new-president/article65964552.ece"/>
+        <updated>2022-10-02T22:52:14.000Z</updated>
+        <summary type="html"><![CDATA[With 52% of Brazil votes tallied, far-right incumbent Bolsonaro has a slight lead over ex-President Lula da Silva]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As mega festive month starts, Covid count continues to dip]]></title>
+        <id>https://timesofindia.indiatimes.com/india/as-mega-festive-month-starts-covid-count-continues-to-dip/articleshow/94607242.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/as-mega-festive-month-starts-covid-count-continues-to-dip/articleshow/94607242.cms"/>
+        <updated>2022-10-02T22:46:49.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: India entered the mega festive month of October with Covid-19 cases continuing to decline sharply.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free]]></title>
+        <id>https://techcrunch.com/?p=2416686</id>
+        <link href="https://techcrunch.com/2022/10/02/24-hours-left-to-volunteer-at-techcrunch-disrupt-and-attend-for-free/"/>
+        <updated>2022-10-02T22:45:52.000Z</updated>
+        <summary type="html"><![CDATA[It takes a veritable army to make TechCrunch Disrupt — which takes place October 18–20 in San Francisco — the well-oiled experience that savvy startuppers have come to know and love. And we couldn’t do it nearly as well without our incredible volunteers. If you’re looking for a no-budget way to experience Disrupt up close […]
+24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPEC Plus Considering Major Production Cut to Prop Up Oil Prices]]></title>
+        <id>https://www.nytimes.com/2022/10/02/business/opec-plus-production-cut.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/business/opec-plus-production-cut.html"/>
+        <updated>2022-10-02T22:35:17.000Z</updated>
+        <summary type="html"><![CDATA[The oil producers group, which meets on Wednesday, is worried about declining demand in a slowing global economy. Prices have dropped by 25 percent since June.]]></summary>
+        <author>
+            <name>Stanley Reed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 men chase, stab 19-year-oldto death in public in Delhi]]></title>
+        <id>https://timesofindia.indiatimes.com/city/delhi/3-men-chase-stab-19-year-oldto-death-in-public-in-delhi/articleshow/94607183.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/delhi/3-men-chase-stab-19-year-oldto-death-in-public-in-delhi/articleshow/94607183.cms"/>
+        <updated>2022-10-02T22:09:06.000Z</updated>
+        <summary type="html"><![CDATA[NEW DELHI: The teenager who was chased and knifed to death in public view on Saturday, had just stepped out of his house for a walk, his family said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new Facebook Marketplace rule could make it harder to find legit car listings]]></title>
         <id>https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta</id>
@@ -128,6 +189,16 @@ But starting January 30th, 2023, dealerships will run into a roadblock when tryi
         <link href="https://timesofindia.indiatimes.com/world/rest-of-world/in-2nd-worst-football-stadium-disaster-125-killed-in-indonesia/articleshow/94606837.cms"/>
         <updated>2022-10-02T20:34:28.000Z</updated>
         <summary type="html"><![CDATA[At least 125 people were killed and more than 320 injured in a stampede at a football stadium in Indonesia on Saturday as police sought to quell violence on the pitch with tear gas, making it one of the world’s worst stadium disasters. Fans of the losing home side invaded the pitch after the final whistle and clashed with police, until the tear gas sparked a chaotic scramble for the exits.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: 25% dip in India’s weekly Covid cases]]></title>
+        <id>https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-3-covid-19/liveblog/94606813.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-3-covid-19/liveblog/94606813.cms"/>
+        <updated>2022-10-02T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Going into the festive October month, India reported a 25% fall in fresh Covid cases in the week ending Sunday with the count likely to be less than 25,000. Deaths too are likely to dip below 150. Stay with TOI for more updates.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -260,6 +331,26 @@ But starting January 30th, 2023, dealerships will run into a roadblock when tryi
         <summary type="html"><![CDATA[Ahead of Union home minister Amit Shah’s two-day Kashmir visit starting October 4, the J&K Police cracked the twin Udhampur bus blasts case by arresting a Lashkar-e-Taiba terrorist along with IEDs, sticky bombs and other explosive materials. Udhampur was rocked by two blasts in as many parked buses within a gap of eight hours on September 28 and 29, injuring two people.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty minutes HIV self-test kit likely to be in India by December]]></title>
+        <id>https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms"/>
+        <updated>2022-10-02T18:43:38.000Z</updated>
+        <summary type="html"><![CDATA[MUMBAI: HIV diagnosis in India is set to take a big leap forward.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty minutes HIV self-test kit likely to be in India by December]]></title>
+        <id>https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms"/>
+        <updated>2022-10-02T18:43:38.000Z</updated>
+        <summary type="html"><![CDATA[MUMBAI: HIV diagnosis in India is set to take a big leap forward.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -1631,6 +1722,16 @@ Whether you've had a chance to watch the first episode of Pop Team Epic season 2
         <summary type="html"><![CDATA[One Piece Film Red panel takes place on October 8, Viz Media's Ultraman panel on October 7]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accused in Sidhu Moose Wala killing flees from custody]]></title>
+        <id>https://timesofindia.indiatimes.com/city/amritsar/accused-in-sidhu-moose-wala-killing-flees-from-custody/articleshow/94596572.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/amritsar/accused-in-sidhu-moose-wala-killing-flees-from-custody/articleshow/94596572.cms"/>
+        <updated>2022-10-02T06:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Gangster Lawrance Bishnoi's close associate Deepak Teenu fled away from Mansa police custody on Sunday.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -5211,6 +5312,16 @@ In the 249th episode of THE FIRST TAKE, a YouTube channel that delivers one-take
         <summary type="html"><![CDATA[He has set in motion forces that are turning Russia into a giant North Korea.]]></summary>
         <author>
             <name>Thomas L. Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At a Michelin-Starred Restaurant, the Ingredients for Romance]]></title>
+        <id>https://www.nytimes.com/2022/09/30/style/marley-brown-akeel-shah-wedding.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/style/marley-brown-akeel-shah-wedding.html"/>
+        <updated>2022-10-01T00:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Marley Brown had no appetite for dating when she met Akeel Shah, her colleague at the restaurant SingleThread. But after they bonded over passions for cooking and their careers, love was on the menu.]]></summary>
+        <author>
+            <name>Alix Wall</name>
         </author>
     </entry>
     <entry>

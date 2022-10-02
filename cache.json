@@ -2279,6 +2279,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/business/opec-plus-production-cut.html",
+          "author": "Stanley Reed",
+          "description": "The oil producers group, which meets on Wednesday, is worried about declining demand in a slowing global economy. Prices have dropped by 25 percent since June.",
+          "link": "https://www.nytimes.com/2022/10/02/business/opec-plus-production-cut.html",
+          "publishedOn": "2022-10-02T22:35:17.000Z",
+          "wordCount": null,
+          "title": "OPEC Plus Considering Major Production Cut to Prop Up Oil Prices",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/us/migrants-marthas-vineyard-desantis-texas.html",
           "author": "Edgar Sandoval, Miriam Jordan, Patricia Mazzei and J. David Goodman",
           "description": "Asylum seekers in Texas were recruited for the flights by a woman who appeared to be a former Army counterintelligence agent. “We were tricked,” one migrant said.",
@@ -2896,6 +2906,16 @@
           "publishedOn": "2022-10-01T00:29:19.000Z",
           "wordCount": null,
           "title": "Putin Is Turning Russia Into a Giant North Korea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/style/marley-brown-akeel-shah-wedding.html",
+          "author": "Alix Wall",
+          "description": "Marley Brown had no appetite for dating when she met Akeel Shah, her colleague at the restaurant SingleThread. But after they bonded over passions for cooking and their careers, love was on the menu.",
+          "link": "https://www.nytimes.com/2022/09/30/style/marley-brown-akeel-shah-wedding.html",
+          "publishedOn": "2022-10-01T00:03:23.000Z",
+          "wordCount": null,
+          "title": "At a Michelin-Starred Restaurant, the Ingredients for Romance",
           "imageUrl": null
         },
         {
@@ -10870,6 +10890,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2416686",
+          "author": "Lauren Simonds",
+          "description": "It takes a veritable army to make TechCrunch Disrupt — which takes place October 18–20 in San Francisco — the well-oiled experience that savvy startuppers have come to know and love. And we couldn’t do it nearly as well without our incredible volunteers. If you’re looking for a no-budget way to experience Disrupt up close […]\n24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/02/24-hours-left-to-volunteer-at-techcrunch-disrupt-and-attend-for-free/",
+          "publishedOn": "2022-10-02T22:45:52.000Z",
+          "wordCount": 12253,
+          "title": "24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/volunteer_header.jpg"
+        },
         {
           "id": "https://techcrunch.com/?p=2414708",
           "author": "Mary Ann Azevedo",
@@ -23936,6 +23966,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/brazil-election-result-voting-closes-lula-against-bolsonaro-for-new-president/article65964552.ece",
+          "author": "AP",
+          "description": "With 52% of Brazil votes tallied, far-right incumbent Bolsonaro has a slight lead over ex-President Lula da Silva",
+          "link": "https://www.thehindu.com/news/international/brazil-election-result-voting-closes-lula-against-bolsonaro-for-new-president/article65964552.ece",
+          "publishedOn": "2022-10-02T22:52:14.000Z",
+          "wordCount": 5947,
+          "title": "Brazil counting votes in historic race of Lula vs. Bolsonaro",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/80nof3/article65964554.ece/alternates/LANDSCAPE_615/2022-10-02T220141Z_87352664_RC26TW995T4Y_RTRMADP_3_BRAZIL-ELECTION.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/pakistan-court-grants-interim-bail-to-imran-khan/article65964174.ece",
           "author": "PTI",
           "description": "Hours after a speech, Imran Khan was booked for threatening police, judiciary and other state institutions at his rally",
@@ -25903,6 +25943,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/as-mega-festive-month-starts-covid-count-continues-to-dip/articleshow/94607242.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: India entered the mega festive month of October with Covid-19 cases continuing to decline sharply.",
+          "link": "https://timesofindia.indiatimes.com/india/as-mega-festive-month-starts-covid-count-continues-to-dip/articleshow/94607242.cms",
+          "publishedOn": "2022-10-02T22:46:49.000Z",
+          "wordCount": 5520,
+          "title": "As mega festive month starts, Covid count continues to dip",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607313,width-1070,height-580,imgsize-53996,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/rss-leader-flags-poverty-lack-of-jobs-inequality/articleshow/94606697.cms",
           "author": null,
           "description": "RSS general secretary Dattatreya Hosabale on Sunday said unemployment, poverty and economic inequality which have challenged India as demons for decades are persisting as problems despite the country having emerged as the sixth largest economy in the world.",
@@ -25991,6 +26041,16 @@
           "wordCount": 6927,
           "title": "Ahead of Amit Shah's visit, Jammu and Kashmir cops crack Udhampur twin blasts case, one terrorist held",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94606342,width-1070,height-580,imgsize-117496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms",
+          "author": null,
+          "description": "MUMBAI: HIV diagnosis in India is set to take a big leap forward.",
+          "link": "https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms",
+          "publishedOn": "2022-10-02T18:43:38.000Z",
+          "wordCount": 6891,
+          "title": "Twenty minutes HIV self-test kit likely to be in India by December",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606296,width-1070,height-580,imgsize-576135,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/opinion-poll-predicts-bjps-win-with-thumping-majority-in-gujarat-polls-aap-to-get-maximum-2-seats/articleshow/94605817.cms",
@@ -33094,6 +33154,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Telangana, Haryana and Tamil Nadu emerged the cleanest among all large states on parameters of rural sanitation while Assam, Bihar and Jamm.",
+          "link": "https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms",
+          "publishedOn": "2022-10-02T22:56:46.000Z",
+          "wordCount": 6224,
+          "title": "Telangana cleanest, Assam worst in rural area Swacchta survey",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607322,width-1070,height-580,imgsize-53532,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/3-men-chase-stab-19-year-oldto-death-in-public-in-delhi/articleshow/94607183.cms",
+          "author": null,
+          "description": "NEW DELHI: The teenager who was chased and knifed to death in public view on Saturday, had just stepped out of his house for a walk, his family said.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/3-men-chase-stab-19-year-oldto-death-in-public-in-delhi/articleshow/94607183.cms",
+          "publishedOn": "2022-10-02T22:09:06.000Z",
+          "wordCount": 6679,
+          "title": "3 men chase, stab 19-year-oldto death in public in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607230,width-1070,height-580,imgsize-60594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/patna/bihar-minister-who-hit-out-at-nitish-forced-to-resign/articleshow/94607005.cms",
           "author": null,
           "description": "Bihar agriculture minister Sudhakar Singh, whose pot-shots caused much embarrassment to the Grand Alliance (GA) government in general and CM Nitish Kumar in particular, resigned on Sunday, the second RJD minister to leave since September. Top sources said Sudhakar was forced to leave. “He didn’t resign on his own. Rather, he was forced to resign due to pressure from the chief minister,” said a source, requesting anonymity.",
@@ -33144,6 +33224,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94606906,width-1070,height-580,imgsize-74540,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-3-covid-19/liveblog/94606813.cms",
+          "author": null,
+          "description": "Going into the festive October month, India reported a 25% fall in fresh Covid cases in the week ending Sunday with the count likely to be less than 25,000. Deaths too are likely to dip below 150. Stay with TOI for more updates.",
+          "link": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-3-covid-19/liveblog/94606813.cms",
+          "publishedOn": "2022-10-02T20:20:00.000Z",
+          "wordCount": 5096,
+          "title": "Live: 25% dip in India’s weekly Covid cases",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606813,width-1070,height-580,imgsize-53996,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/congress-presidential-poll-wanted-consensus-shashi-tharoor-insisted-on-contest-says-mallikarjun-kharge/articleshow/94606698.cms",
           "author": null,
           "description": "As his underdog rival in the Congress presidential poll Shashi Tharoor sought a public debate on their visions, Mallikarjun Kharge, the frontrunner and putative successor to Sonia Gandhi, steered clear of the demand, saying the need of the hour is to fight RSS-BJP, and not each other.",
@@ -33162,6 +33252,16 @@
           "wordCount": 6367,
           "title": "PM to address UN World Geospatial Congress in Hyd on Oct 11",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94606503,width-1070,height-580,imgsize-61534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms",
+          "author": null,
+          "description": "MUMBAI: HIV diagnosis in India is set to take a big leap forward.",
+          "link": "https://timesofindia.indiatimes.com/india/twenty-minutes-hiv-self-test-kit-likely-to-be-in-india-by-december/articleshow/94606289.cms",
+          "publishedOn": "2022-10-02T18:43:38.000Z",
+          "wordCount": 6891,
+          "title": "Twenty minutes HIV self-test kit likely to be in India by December",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606296,width-1070,height-580,imgsize-576135,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms",
@@ -33432,6 +33532,16 @@
           "wordCount": 9537,
           "title": "Bigg Boss Marathi 4: Confirmed list of contestants",
           "imageUrl": "https://static.toiimg.com/photo/msid-94596379.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/amritsar/accused-in-sidhu-moose-wala-killing-flees-from-custody/articleshow/94596572.cms",
+          "author": null,
+          "description": "Gangster Lawrance Bishnoi's close associate Deepak Teenu fled away from Mansa police custody on Sunday.",
+          "link": "https://timesofindia.indiatimes.com/city/amritsar/accused-in-sidhu-moose-wala-killing-flees-from-custody/articleshow/94596572.cms",
+          "publishedOn": "2022-10-02T06:33:05.000Z",
+          "wordCount": 5645,
+          "title": "Accused in Sidhu Moose Wala killing flees from custody",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94596631,width-1070,height-580,imgsize-34068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/ponniyin-selvan-1-box-office-collection-day-2-movie-mints-rs-150-crore-worldwide/articleshow/94595628.cms",
