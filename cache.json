@@ -2239,6 +2239,66 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html",
+          "author": "Dera Menra Sijabat and Sui-Lee Wee",
+          "description": "One witness said most of the victims were people trapped in the stands, not those on the field. Without tear gas “there would have not been any casualties,” he said.",
+          "link": "https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html",
+          "publishedOn": "2022-10-02T09:31:14.000Z",
+          "wordCount": null,
+          "title": "Indonesian Fan Still Hears ‘Voices Screaming’ After Match",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html",
+          "author": "Megan Specia",
+          "description": "Violent confrontations in Leicester have prompted soul searching in an area long heralded as a success story of diversity and integration among its large Indian diaspora.",
+          "link": "https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html",
+          "publishedOn": "2022-10-02T09:30:08.000Z",
+          "wordCount": null,
+          "title": "Leicester Tensions Have Roots in India",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/us/conservative-supreme-court-legitimacy.html",
+          "author": "Adam Liptak",
+          "description": "The justices return to the bench on Monday to start a term that will include major cases on affirmative action, voting and discrimination against gay couples. Several will take on questions about race.",
+          "link": "https://www.nytimes.com/2022/10/02/us/conservative-supreme-court-legitimacy.html",
+          "publishedOn": "2022-10-02T09:00:20.000Z",
+          "wordCount": null,
+          "title": "As New Term Starts, Supreme Court Poised to Resume Rightward Push",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/us/covid-vaccine-marin-california.html",
+          "author": "Soumya Karlamangla",
+          "description": "The wealthy California county just north of San Francisco has one of the nation’s highest Covid-19 vaccination rates after years of being known for parents who opposed shots for childhood diseases.",
+          "link": "https://www.nytimes.com/2022/10/02/us/covid-vaccine-marin-california.html",
+          "publishedOn": "2022-10-02T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Anti-Vaccine Parents Go From Welcome to Ostracized in Marin County",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/us/sister-ian-rescue-brothers.html",
+          "author": "Corina Knoll",
+          "description": "Darcy Bishop for decades has cared for her two brothers, who have cerebral palsy. Hurricane Ian was her biggest test yet.",
+          "link": "https://www.nytimes.com/2022/10/02/us/sister-ian-rescue-brothers.html",
+          "publishedOn": "2022-10-02T09:00:17.000Z",
+          "wordCount": null,
+          "title": "‘I Did All I Could’: As Floodwaters Rose, She Fought to Save Her Disabled Brothers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/business/media/dateline-podcast-true-crime.html",
+          "author": "John Koblin",
+          "description": "The true crime storytelling that has done so well for so long on television seems to have met a moment in an entirely new medium.",
+          "link": "https://www.nytimes.com/2022/10/02/business/media/dateline-podcast-true-crime.html",
+          "publishedOn": "2022-10-02T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Mystery Solved: ‘Dateline’ Finds Path From TV to Podcast Stardom",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html",
           "author": "Austin Ramzy",
           "description": "These events have prompted major changes. But fatal tramplings still occur, with more than 150 killed in Indonesia on Saturday.",
@@ -2246,6 +2306,16 @@
           "publishedOn": "2022-10-02T08:29:49.000Z",
           "wordCount": null,
           "title": "Indonesian Soccer Tragedy Is Latest in History of Stadium Disasters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/us/politics/herschel-walker-georgia-senate-race.html",
+          "author": "John Branch",
+          "description": "As a teenage football prodigy, Mr. Walker was pressed to join a fight for civil rights in his hometown. His decision echoes decades later.",
+          "link": "https://www.nytimes.com/2022/10/02/us/politics/herschel-walker-georgia-senate-race.html",
+          "publishedOn": "2022-10-02T07:00:23.000Z",
+          "wordCount": null,
+          "title": "The Racial Divide Herschel Walker Couldn’t Outrun",
           "imageUrl": null
         },
         {
@@ -23386,6 +23456,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/unite-to-face-great-struggles-major-risks-xi-tells-communist-party-officials-ahead-of-its-key-congress/article65962320.ece",
+          "author": "PTI",
+          "description": "Xi Jinping said that the party members must demonstrate tenacity and persistence to complete the journey.",
+          "link": "https://www.thehindu.com/news/international/unite-to-face-great-struggles-major-risks-xi-tells-communist-party-officials-ahead-of-its-key-congress/article65962320.ece",
+          "publishedOn": "2022-10-02T09:58:33.000Z",
+          "wordCount": 6512,
+          "title": "Unite to face &#039;great struggles, major risks&#039;: Xi tells Communist Party officials ahead of its key Congress",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/1m4gj5/article65962328.ece/alternates/LANDSCAPE_615/AP09_30_2022_000022A.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/british-pm-liz-truss-says-she-should-have-laid-ground-better-for-economic-plan/article65962229.ece",
           "author": "Reuters",
           "description": "Liz Truss said her Cabinet of top ministers was not informed in advance that the government planned to abolish the top rate of tax",
@@ -25242,6 +25322,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/everyone-has-right-to-come-to-bihar-nitish-kumar-on-amit-shahs-visit-to-state-on-lok-nayak-birth-anniversary/articleshow/94599137.cms",
+          "author": null,
+          "description": "India News: PATNA: Bihar chief minister on Sunday while speaking on Union home minister Amit Shah's visit to the state, said that everyone has the right to visit .",
+          "link": "https://timesofindia.indiatimes.com/india/everyone-has-right-to-come-to-bihar-nitish-kumar-on-amit-shahs-visit-to-state-on-lok-nayak-birth-anniversary/articleshow/94599137.cms",
+          "publishedOn": "2022-10-02T09:45:12.000Z",
+          "wordCount": 6835,
+          "title": "Everyone has right to come to Bihar: Nitish Kumar on Amit Shah's visit to state on Lok Nayak birth anniversary",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599135,width-1070,height-580,imgsize-29542,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cong-polls-raj-cm-gehlot-throws-his-weight-behind-kharge-says-tharoor-belongs-to-elite-class/articleshow/94598649.cms",
+          "author": null,
+          "description": "India News: JAIPUR: Rajasthan Chief Minister Ashok Gehlot on Sunday said veteran party leader Mallikarjun Kharge has the experience to strengthen the Congress and.",
+          "link": "https://timesofindia.indiatimes.com/india/cong-polls-raj-cm-gehlot-throws-his-weight-behind-kharge-says-tharoor-belongs-to-elite-class/articleshow/94598649.cms",
+          "publishedOn": "2022-10-02T09:06:17.000Z",
+          "wordCount": 6097,
+          "title": "Congress polls: Rajasthan CM Ashok Gehlot throws his weight behind Mallikarjun Kharge, says Shashi Tharoor belongs to elite class",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598652,width-1070,height-580,imgsize-97836,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/convenient-for-those-in-power-to-appropriate-gandhis-legacy-but-difficult-to-walk-in-his-footsteps-rahul-gandhi/articleshow/94598431.cms",
           "author": null,
@@ -29810,6 +29910,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audios-report/articleshow/94598902.cms",
+          "author": null,
+          "description": "“This is a matter of national security, which has serious implications for national interests and a legal action in this regard is vital,” recommended the cabinet committee. The committee on Saturday recommended legal action over the audio leaks purportedly featuring Imran Khan and others.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audios-report/articleshow/94598902.cms",
+          "publishedOn": "2022-10-02T09:31:12.000Z",
+          "wordCount": 8850,
+          "title": "Pak approves legal action against Imran Khan over leaked audios",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598889,width-1070,height-580,imgsize-28358,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/explainer-what-is-at-stake-in-bosnias-general-election/articleshow/94598441.cms",
           "author": null,
           "description": "Europe News: SARAJEVO: Bosnia is holding presidential and parliamentary elections on Sunday amid its worst political crisis since the end of the 1992-95 war.",
@@ -31417,6 +31527,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "author": null,
+          "description": "Panic at an Indonesian soccer match Saturday left 174 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "publishedOn": "2022-10-02T08:12:47.000Z",
+          "wordCount": 19419,
+          "title": "Indonesia soccer tragedy: Death toll after riots climb to 174, with more than 100 injured",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/us-extends-green-card-validity-extension-to-24-months/articleshow/94583675.cms",
+          "author": null,
+          "description": "US News: MUMBAI: The US Citizenship and Immigration Services (USCIS) has extended the validity of green cards for its holders who file Form I-90 – which is the.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-extends-green-card-validity-extension-to-24-months/articleshow/94583675.cms",
+          "publishedOn": "2022-10-01T10:51:23.000Z",
+          "wordCount": 6860,
+          "title": "US extends green card validity extension to 24 months",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94583623,width-1070,height-580,imgsize-707679,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com//articleshow/.cms",
           "author": null,
           "description": "",
@@ -31974,6 +32104,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/in-pics-amdavadis-enjoy-first-day-ride-of-newly-inaugurated-metro/photostory/94598401.cms",
+          "author": null,
+          "description": "A huge rush was witnessed at metro stations as Amdavadis enjoyed their rides of newly inaugurated Metro train that started from Sunday.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/in-pics-amdavadis-enjoy-first-day-ride-of-newly-inaugurated-metro/photostory/94598401.cms",
+          "publishedOn": "2022-10-02T08:42:19.000Z",
+          "wordCount": 5379,
+          "title": "​In pics: Amdavadis enjoy their first metro ride",
+          "imageUrl": "https://static.toiimg.com/photo/94598481.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/this-is-the-third-time-i-have-been-robbed-annu-kapoor-who-was-cheated-of-rs-4-36-lakh-in-online-fraud/articleshow/94597661.cms",
+          "author": null,
+          "description": "The actor, who was recently cheated of Rs 4.36 lakh in online fraud, has fortunately recovered Rs 3.08 lakh",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/this-is-the-third-time-i-have-been-robbed-annu-kapoor-who-was-cheated-of-rs-4-36-lakh-in-online-fraud/articleshow/94597661.cms",
+          "publishedOn": "2022-10-02T08:30:00.000Z",
+          "wordCount": 9401,
+          "title": "3rd time I've been robbed: Annu Kapoor after losing Rs 4L",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94597713,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-42210/94597713.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ponniyin-selvan-i-hindi-box-office-collection-day-2-mani-ratnams-period-drama-records-a-huge-jump/articleshow/94598021.cms",
           "author": null,
           "description": "‘Ponniyin Selvan: I’ Hindi is off to a flying start at the box office. While the original Tamil epic is minting huge money, the dubbed Hindi version has also recorded a huge jump in collection.",
@@ -31982,6 +32132,16 @@
           "wordCount": 8750,
           "title": "‘Ponniyin Selvan: I’ Hindi box office collection day 2",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94598012,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-151538/94598012.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-tragedy-how-a-deadly-crush-erupted-at-football-match/articleshow/94596431.cms",
+          "author": null,
+          "description": "In what appears to be one of the world's worst stadium disasters, more than 300 people were rushed to nearby hospitals, but many died on the way or in treatment.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-tragedy-how-a-deadly-crush-erupted-at-football-match/articleshow/94596431.cms",
+          "publishedOn": "2022-10-02T08:01:14.000Z",
+          "wordCount": 10489,
+          "title": "Indonesia stadium tragedy: How a deadly 'crowd crush' unfolded after football match",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94597814,width-1070,height-580,imgsize-104482,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-a-deadly-crush-at-an-indonesia-football-match-unfolded/articleshow/94597117.cms",
