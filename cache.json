@@ -2239,6 +2239,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html",
+          "author": "Claire Moses",
+          "description": "Brazil votes for president today. Jack Nicas, the bureau chief there, explains what’s at stake.",
+          "link": "https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html",
+          "publishedOn": "2022-10-02T11:34:52.000Z",
+          "wordCount": null,
+          "title": "A choice between two heavyweights",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/podcasts/the-daily/the-sunday-read-the-safe-space-that-became-a-viral-nightmare.html",
+          "author": "Sarah Viren, Aaron Esposito, Jack D’Isidoro, John Woo, Sophia Lanman and Ted Blaisdell",
+          "description": "An argument at Arizona State’s multicultural center spiraled into a disaster for everyone involved. Who was to blame?",
+          "link": "https://www.nytimes.com/2022/10/02/podcasts/the-daily/the-sunday-read-the-safe-space-that-became-a-viral-nightmare.html",
+          "publishedOn": "2022-10-02T10:00:03.000Z",
+          "wordCount": null,
+          "title": "The Sunday Read: ‘The Safe Space That Became a Viral Nightmare’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html",
           "author": "Dera Menra Sijabat and Sui-Lee Wee",
           "description": "One witness said most of the victims were people trapped in the stands, not those on the field. Without tear gas “there would have not been any casualties,” he said.",
@@ -3009,6 +3029,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/30/climate/hurricane-ian-damage-cost.html",
+          "author": "Somini Sengupta",
+          "description": "Hurricane Ian is all but certain to join a growing list of very costly storms.",
+          "link": "https://www.nytimes.com/2022/09/30/climate/hurricane-ian-damage-cost.html",
+          "publishedOn": "2022-09-30T16:01:49.000Z",
+          "wordCount": null,
+          "title": "Billion-dollar disasters",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news/russian-forces-are-partly-encircled-in-the-town-of-lyman-a-pro-kremlin-proxy-leader-says",
           "author": "Matthew Mpoke Bigg",
           "description": "",
@@ -3136,6 +3166,16 @@
           "publishedOn": "2022-09-30T13:19:57.000Z",
           "wordCount": null,
           "title": "New Inflation Data Shows Prices Remain Stubbornly High",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/podcasts/corn-kid-constance-wu-narrated-articles.html",
+          "author": null,
+          "description": "Five articles from around The Times, narrated just for you.",
+          "link": "https://www.nytimes.com/2022/09/30/podcasts/corn-kid-constance-wu-narrated-articles.html",
+          "publishedOn": "2022-09-30T13:12:51.000Z",
+          "wordCount": null,
+          "title": "TikTok’s Corn Kid Is Doing Just Fine: The Week in Narrated Articles",
           "imageUrl": null
         },
         {
@@ -16060,6 +16100,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/future-perfect/2022/10/2/23380384/mancur-olson-rise-decline-nations-abundance-nimby",
+          "author": null,
+          "description": "Irvine, California City Council member Melissa Fox during a protest against a homeless shelter in the wealthy suburb. | Kevin Sullivan/Digital First Media/Orange County Register via Getty Images\n    \n\n  \nMancur Olson’s The Rise and Decline of Nations shows how small groups can undermine broader prosperity.\n In recent years, a broad sentiment has emerged that America needs to build more stuff. This conversation arguably began in housing, where intense shortages in economically important areas like the Bay Area or New York City have driven exploding rents. Pretty soon major economists and then activists hit on expanded housing construction as the key solution, and they’ve had remarkable success in states like Oregon and California despite the dedicated opposition of incumbent homeowners and …",
+          "link": "https://www.vox.com/future-perfect/2022/10/2/23380384/mancur-olson-rise-decline-nations-abundance-nimby",
+          "publishedOn": "2022-10-02T12:00:00.000Z",
+          "wordCount": 3350,
+          "title": "Did a 1982 book predict America’s decline?",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Cozo18e8mPtpx4ep9ZmGIJ_ZE70=/0x202:4507x2562/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069045/1031534740.jpg"
+        },
+        {
           "id": "https://www.vox.com/policy-and-politics/2022/10/2/23377432/supreme-court-alabama-merrill-milligan-racial-gerrymandering-voting-rights-act",
           "author": null,
           "description": "Demonstrators gather outside the US Supreme Court during oral arguments in Gill v. Whitford to call for an end to partisan gerrymandering on October 3, 2017, in Washington, DC. | Olivier Douliery/Getty Images\n    \n\n  \nMerrill v. Milligan could eliminate one of the few remaining nationwide safeguards against rigged legislative maps.\n Cases alleging racial gerrymandering are notoriously difficult to litigate, much less to win. And the path that brought Merrill v. Milligan to the Supreme Court — the justices will hear the case on Tuesday — shows why.\nThe lawsuit deals with Alabama’s congressional maps, which would give only one of the state’s seven congressional districts — 14 percent of the state’s total population — a real chance of electing a Black representative, even though African Ameri…",
@@ -20182,6 +20232,26 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190429",
+          "author": null,
+          "description": "Waccha PriMagi! arcade game launches  Waccha PriMagi! Studio project in November",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-02/pretty-series-franchise-ends-11.5-years-of-continuous-tv-anime-airings-with-waccha-primagi-finale/.190429",
+          "publishedOn": "2022-10-02T12:04:05.000Z",
+          "wordCount": 3297,
+          "title": "Pretty Series Franchise Ends 11.5 Years of Continuous TV Anime Airings With Waccha PriMagi! Finale",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.4/174384/kv-1.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190425",
+          "author": null,
+          "description": "Long-term goal will be to crowdfund 12 episodes to create 4th TV anime season",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-02/dropkick-on-my-devil-tv-anime-staff-plan-crowdfunding-campaign-for-ova-episodes/.190425",
+          "publishedOn": "2022-10-02T08:56:30.000Z",
+          "wordCount": 3336,
+          "title": "Dropkick on My Devil! TV Anime Staff Plan Crowdfunding Campaign for OVA Episodes",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.5/185420/dropkick-3-kv.jpeg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190406",
           "author": null,
           "description": "One Piece Film Red panel takes place on October 8, Viz Media's Ultraman panel on October 7",
@@ -21678,6 +21748,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/pop-team-epic-season-2s-amazing-non-credit-oped-showcased",
+          "author": "Joseph Luster",
+          "description": "Including Shouta Aoi's intense opening theme and two versions of the ending theme\n\n\nWhether you've had a chance to watch the first episode of Pop Team Epic season 2 yet or not, it's definitely worth taking a moment to watch clean versions of the OP and ED. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/pop-team-epic-season-2s-amazing-non-credit-oped-showcased",
+          "publishedOn": "2022-10-02T10:28:53.000Z",
+          "wordCount": 5977,
+          "title": "Pop Team Epic Season 2's Amazing Non-Credit OP/ED Showcased",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/524531803efe4acec8d32c6fa1c73c881664706491_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-feature/2022/10/01-1/feature-a-brief-history-of-superhero-anime-from-astro-boy-to-my-hero-academia",
           "author": "Sean Aitchison",
@@ -23495,6 +23575,16 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/at-least-92-people-killed-in-iran-crackdown-on-mahsa-amini-protests-ihr-ngo/article65962472.ece",
+          "author": "AFP",
+          "description": "Mahsa Amini had been arrested by Iran’s morality police for for allegedly violating the strict hijab rules which mandate loose-fitted clothes and covered hair",
+          "link": "https://www.thehindu.com/news/international/at-least-92-people-killed-in-iran-crackdown-on-mahsa-amini-protests-ihr-ngo/article65962472.ece",
+          "publishedOn": "2022-10-02T11:11:03.000Z",
+          "wordCount": 6067,
+          "title": "At least 92 killed in Iran crackdown on Mahsa Amini protests: IHR NGO",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/129b2q/article65962508.ece/alternates/LANDSCAPE_615/1427550918.jpg"
+        },
         {
           "id": "https://www.thehindu.com/news/international/ukraine-presses-counteroffensive-after-russias-setback/article65962440.ece",
           "author": "AP",
@@ -25382,6 +25472,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/designed-to-last-six-months-indias-mars-orbiter-bids-adieu-after-8-long-years/articleshow/94599977.cms",
+          "author": null,
+          "description": "India's Mars Orbiter Mission (MOM) spacecraft, which was designed to last for six months when launched on November 5, 2013, has lost communication with the ground stations, bringing an end to its life after eight long years.Isro is working out the details of whether the spacecraft ran out of fuel and battery power, or whether communication was lost because of an automated manoeuvre.",
+          "link": "https://timesofindia.indiatimes.com/india/designed-to-last-six-months-indias-mars-orbiter-bids-adieu-after-8-long-years/articleshow/94599977.cms",
+          "publishedOn": "2022-10-02T11:33:58.000Z",
+          "wordCount": 6623,
+          "title": "Designed to last six months, India's Mars Orbiter bids adieu after 8 long years",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94600729,width-1070,height-580,imgsize-38584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/up-cm-yogi-adityanath-pays-tributes-to-mahatma-gandhi-lal-bahadur-shastri/articleshow/94600186.cms",
+          "author": null,
+          "description": "India News: LUCKNOW: Uttar Pradesh chief minister Yogi Adityanath on Sunday paid tributes to Mahatma Gandhi and former Prime Minister Lal Bahadur Shastri on their.",
+          "link": "https://timesofindia.indiatimes.com/india/up-cm-yogi-adityanath-pays-tributes-to-mahatma-gandhi-lal-bahadur-shastri/articleshow/94600186.cms",
+          "publishedOn": "2022-10-02T11:03:20.000Z",
+          "wordCount": 6116,
+          "title": "UP CM Yogi Adityanath pays tributes to Mahatma Gandhi, Lal Bahadur Shastri",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94600188,width-1070,height-580,imgsize-21210,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-inaugurate-un-world-geospatial-information-congress-on-tuesday/articleshow/94600021.cms",
           "author": null,
@@ -32234,6 +32344,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/toisa/nominations?utm_source=TOI&utm_medium=Article_Unlock_hp_0210&utm_campaign=Referral_TOISA_Internal",
+          "author": null,
+          "description": "Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+          "link": "https://timesofindia.indiatimes.com/toisa/nominations?utm_source=TOI&utm_medium=Article_Unlock_hp_0210&utm_campaign=Referral_TOISA_Internal",
+          "publishedOn": "2022-10-02T12:06:22.000Z",
+          "wordCount": 1369,
+          "title": "TOISA 2021: Nominees for Athlete of the year (Women)",
+          "imageUrl": "https://static.toiimg.com/thumb/width-300,height-300,resizemode-75,msid-93903441.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/gurgaon/former-up-cm-mulayam-singh-yadav-shifted-to-icu-in-gurugram-hospital/articleshow/94601083.cms",
+          "author": null,
+          "description": "GURUGRAM: Former Uttar Pradesh chief minister and Samajwadi Party leader Mulayam Singh Yadav has been shifted to the Medanta hospital in Gurugram on S.",
+          "link": "https://timesofindia.indiatimes.com/city/gurgaon/former-up-cm-mulayam-singh-yadav-shifted-to-icu-in-gurugram-hospital/articleshow/94601083.cms",
+          "publishedOn": "2022-10-02T11:54:12.000Z",
+          "wordCount": 5160,
+          "title": "Mulayam Singh Yadav shifted to ICU in Gurugram",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94601085,width-1070,height-580,imgsize-16444,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/designed-to-last-six-months-indias-mars-orbiter-bids-adieu-after-8-long-years/articleshow/94599977.cms",
+          "author": null,
+          "description": "India's Mars Orbiter Mission (MOM) spacecraft, which was designed to last for six months when launched on November 5, 2013, has lost communication with the ground stations, bringing an end to its life after eight long years.Isro is working out the details of whether the spacecraft ran out of fuel and battery power, or whether communication was lost because of an automated manoeuvre.",
+          "link": "https://timesofindia.indiatimes.com/india/designed-to-last-six-months-indias-mars-orbiter-bids-adieu-after-8-long-years/articleshow/94599977.cms",
+          "publishedOn": "2022-10-02T11:33:58.000Z",
+          "wordCount": 6623,
+          "title": "India's Mars Orbiter bids adieu after 8 long years",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94600729,width-1070,height-580,imgsize-38584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-experts-claim-rise-in-sleep-disturbances-after-a-brush-with-omicron/photostory/94528930.cms",
           "author": null,
           "description": "While a COVID-19 infection is normally marked by fever, body aches, and loss of smell and taste, experts believe the evolving virus may lead to sleepless nights.",
@@ -32262,6 +32402,16 @@
           "wordCount": 7098,
           "title": "No more G23 camp in Congress, says Kharge",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94599514,width-1070,height-580,imgsize-30142,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/cars/top-5-things-to-know-about-the-first-made-in-india-luxury-ev-mercedes-benz-eqs580/articleshow/94583251.cms",
+          "author": null,
+          "description": "The EQS 580 will be the 14th ‘Made in India’ Mercedes-Benz model and this locally assembled model sits below the recently launched Mercedes-AMG EQS 53 S and is cheaper by Rs 90 lakh than the fully imported AMG version.",
+          "link": "https://timesofindia.indiatimes.com/auto/cars/top-5-things-to-know-about-the-first-made-in-india-luxury-ev-mercedes-benz-eqs580/articleshow/94583251.cms",
+          "publishedOn": "2022-10-02T10:06:27.000Z",
+          "wordCount": 7147,
+          "title": "‘Made in India’ luxury EV Mercedes-Benz EQS580: Key pts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94583277,width-1070,height-580,imgsize-1782058,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/in-pics-amdavadis-enjoy-first-day-ride-of-newly-inaugurated-metro/photostory/94598401.cms",
