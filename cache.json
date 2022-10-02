@@ -2299,6 +2299,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/10/02/opinion/moscow-rabbi-yom-kippur.html",
+          "author": "Pinchas Goldschmidt",
+          "description": "When it became clear that Vladimir Putin would require me to support his war in Ukraine, I had to leave.",
+          "link": "https://www.nytimes.com/2022/10/02/opinion/moscow-rabbi-yom-kippur.html",
+          "publishedOn": "2022-10-02T09:00:11.000Z",
+          "wordCount": null,
+          "title": "My First Yom Kippur in Exile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/opinion/video-game-addiction.html",
+          "author": "William Siu",
+          "description": "Parents aren’t doing enough to protect their kids from gaming addiction.",
+          "link": "https://www.nytimes.com/2022/10/02/opinion/video-game-addiction.html",
+          "publishedOn": "2022-10-02T09:00:09.000Z",
+          "wordCount": null,
+          "title": "I Make Video Games. I Won’t Let My Daughters Play Them.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html",
           "author": "Austin Ramzy",
           "description": "These events have prompted major changes. But fatal tramplings still occur, with more than 150 killed in Indonesia on Saturday.",
@@ -2936,6 +2956,16 @@
           "publishedOn": "2022-09-30T17:04:03.000Z",
           "wordCount": null,
           "title": "Ukraine Submits Application to Join NATO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/movies/bros-clip.html",
+          "author": "Mekado Murphy",
+          "description": "The director Nicholas Stoller narrates a sequence from the romantic comedy.",
+          "link": "https://www.nytimes.com/2022/09/30/movies/bros-clip.html",
+          "publishedOn": "2022-09-30T16:24:27.000Z",
+          "wordCount": null,
+          "title": "Watch Billy Eichner and Luke Macfarlane on an Awkward Date in ‘Bros’",
           "imageUrl": null
         },
         {
@@ -16030,6 +16060,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/10/2/23377432/supreme-court-alabama-merrill-milligan-racial-gerrymandering-voting-rights-act",
+          "author": null,
+          "description": "Demonstrators gather outside the US Supreme Court during oral arguments in Gill v. Whitford to call for an end to partisan gerrymandering on October 3, 2017, in Washington, DC. | Olivier Douliery/Getty Images\n    \n\n  \nMerrill v. Milligan could eliminate one of the few remaining nationwide safeguards against rigged legislative maps.\n Cases alleging racial gerrymandering are notoriously difficult to litigate, much less to win. And the path that brought Merrill v. Milligan to the Supreme Court — the justices will hear the case on Tuesday — shows why.\nThe lawsuit deals with Alabama’s congressional maps, which would give only one of the state’s seven congressional districts — 14 percent of the state’s total population — a real chance of electing a Black representative, even though African Ameri…",
+          "link": "https://www.vox.com/policy-and-politics/2022/10/2/23377432/supreme-court-alabama-merrill-milligan-racial-gerrymandering-voting-rights-act",
+          "publishedOn": "2022-10-02T11:00:00.000Z",
+          "wordCount": 4176,
+          "title": "Alabama’s high-stakes Supreme Court fight over racial gerrymandering, explained",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/st1rC1NGmjkRfQlUMTIvkj1G7ic=/0x254:4000x2348/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24062665/857076556.jpg"
+        },
+        {
           "id": "https://www.vox.com/2022/10/1/23380820/brazil-election-bolsonaro-lula-results",
           "author": null,
           "description": "Current president of Brazil and candidate for re-election Jair Bolsonaro (center) greets supporters during a campaign rally on September 07, 2022 in Rio de Janeiro, Brazil. | Wagner Meier/Getty Images\n    \n\n  \nA loss by President Jair Bolsanaro could cause chaos. But experts say a coup is unlikely. \n The first round of Brazil’s presidential election is set to take place on Sunday, with current far-right President Jair Bolsonaro and the center-left former president Luiz Inacio Lula da Silva, or Lula as he’s commonly known, as the frontrunners of 11 candidates. The campaign has mimicked the 2020 US election in some crucial ways, with Bolsonaro claiming that the election is rigged and that the only way his opposition can keep him out of power is by stealing the election. \nLula has a clear lea…",
@@ -23456,6 +23496,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/ukraine-presses-counteroffensive-after-russias-setback/article65962440.ece",
+          "author": "AP",
+          "description": "President Zelenskyy's hometown Krivyi Rih came under Russian attack by a suicide drone that struck a school early Sunday",
+          "link": "https://www.thehindu.com/news/international/ukraine-presses-counteroffensive-after-russias-setback/article65962440.ece",
+          "publishedOn": "2022-10-02T10:57:40.000Z",
+          "wordCount": 6405,
+          "title": "Ukraine presses counteroffensive after Russia’s setback",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/bq3sea/article65962482.ece/alternates/LANDSCAPE_615/2022-10-02T084258Z_1862207323_RC2WSW9KR399_RTRMADP_3_UKRAINE-CRISIS-LYMAN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/pope-appeals-to-putin-to-end-spiral-of-violence-in-ukraine/article65962439.ece",
+          "author": "AP",
+          "description": "The pontiff also called on Ukrainian President Volodymyr Zelenskyy to “be open” to serious peace proposals.",
+          "link": "https://www.thehindu.com/news/international/pope-appeals-to-putin-to-end-spiral-of-violence-in-ukraine/article65962439.ece",
+          "publishedOn": "2022-10-02T10:50:05.000Z",
+          "wordCount": 6022,
+          "title": "Pope appeals to Putin to end &#039;&#039;spiral of violence&#039;&#039; in Ukraine",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/f1flz/article65962456.ece/alternates/LANDSCAPE_615/Vatican_Pope_Russia_Ukraine_78192.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/unite-to-face-great-struggles-major-risks-xi-tells-communist-party-officials-ahead-of-its-key-congress/article65962320.ece",
           "author": "PTI",
           "description": "Xi Jinping said that the party members must demonstrate tenacity and persistence to complete the journey.",
@@ -25322,6 +25382,56 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-inaugurate-un-world-geospatial-information-congress-on-tuesday/articleshow/94600021.cms",
+          "author": null,
+          "description": "The five-day conference will see participation of over 550 delegates from 115 countries to discuss issues related to development and strengthening of integrated geospatial information management, its capacities and capabilities.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-to-inaugurate-un-world-geospatial-information-congress-on-tuesday/articleshow/94600021.cms",
+          "publishedOn": "2022-10-02T10:50:23.000Z",
+          "wordCount": 6355,
+          "title": "PM Narendra Modi to inaugurate UN World Geospatial Information Congress on Tuesday",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94600010,width-1070,height-580,imgsize-750030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/enough-food-grain-stock-available-in-country-to-meet-requirements-govt/articleshow/94599986.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The government said Sunday that there is sufficient food grain stock available in the country and the prices of wheat, atta and rice are un.",
+          "link": "https://timesofindia.indiatimes.com/india/enough-food-grain-stock-available-in-country-to-meet-requirements-govt/articleshow/94599986.cms",
+          "publishedOn": "2022-10-02T10:48:08.000Z",
+          "wordCount": 5832,
+          "title": "Enough food grain stock available in country to meet requirements: Govt",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-officially-starts-campaigning-for-top-post-in-congress/articleshow/94599669.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress leader Mallikarjun Kharge, who is one of the contenders for the party's top post, announced his \"official start\" to the election c.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-officially-starts-campaigning-for-top-post-in-congress/articleshow/94599669.cms",
+          "publishedOn": "2022-10-02T10:37:05.000Z",
+          "wordCount": 6909,
+          "title": "Mallikarjun Kharge 'officially starts' campaigning for top post in Congress",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599803,width-1070,height-580,imgsize-1620709,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cop-killed-crpf-personnel-injured-in-terrorist-attack-in-jks-pulwama/articleshow/94599621.cms",
+          "author": null,
+          "description": "A policeman was killed and a CRPF personnel injured when terrorists attacked a security forces team in Pulwama district of Jammu and Kashmir on Sunday, police said. The attack took place in Pinglana area of the south Kashmir district.",
+          "link": "https://timesofindia.indiatimes.com/india/cop-killed-crpf-personnel-injured-in-terrorist-attack-in-jks-pulwama/articleshow/94599621.cms",
+          "publishedOn": "2022-10-02T10:25:08.000Z",
+          "wordCount": 5761,
+          "title": "Cop killed, CRPF personnel injured in terrorist attack in J&K's Pulwama",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599640,width-1070,height-580,imgsize-114568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/there-is-no-g23-camp-now-all-leaders-united-to-fight-bjp-rss-congress-chief-candidate-mallikarjun-kharge/articleshow/94599075.cms",
+          "author": null,
+          "description": "Congress leader Mallikarjun Kharge on Sunday declared that there was no longer a G23 camp within the party, referring to a section of leaders seeking organisational overhaul. \"There is no G23 camp now. All leaders want to work together and fight the BJP-RSS,\" said Kharge, who is one of the candidates in the party's forthcoming president election.",
+          "link": "https://timesofindia.indiatimes.com/india/there-is-no-g23-camp-now-all-leaders-united-to-fight-bjp-rss-congress-chief-candidate-mallikarjun-kharge/articleshow/94599075.cms",
+          "publishedOn": "2022-10-02T10:17:08.000Z",
+          "wordCount": 7098,
+          "title": "No G23 camp now, says Mallikarjun Kharge as he begins 'campaign' for Congress president post",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599514,width-1070,height-580,imgsize-30142,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/everyone-has-right-to-come-to-bihar-nitish-kumar-on-amit-shahs-visit-to-state-on-lok-nayak-birth-anniversary/articleshow/94599137.cms",
           "author": null,
@@ -29910,6 +30020,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/pope-begs-putin-to-end-spiral-of-violence-and-death-cites-nuclear-threat/articleshow/94599900.cms",
+          "author": null,
+          "description": "Europe News: VATICAN CITY: Pope Francis made an impassioned appeal on Sunday to Russian President Vladimir Putin to stop \"this spiral of violence and death\" in Ukr.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/pope-begs-putin-to-end-spiral-of-violence-and-death-cites-nuclear-threat/articleshow/94599900.cms",
+          "publishedOn": "2022-10-02T10:50:19.000Z",
+          "wordCount": 5296,
+          "title": "Pope begs Putin to end 'spiral of violence and death'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599987,width-1070,height-580,imgsize-79948,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/iaea-head-seeks-release-of-ukrainian-nuclear-plant-head/articleshow/94599680.cms",
+          "author": null,
+          "description": "Europe News: ZURICH: The head of the UN nuclear watchdog called for the release of the director-general of Ukraine's Russian-occupied Zaporizhzhia nuclear power pl.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/iaea-head-seeks-release-of-ukrainian-nuclear-plant-head/articleshow/94599680.cms",
+          "publishedOn": "2022-10-02T10:30:47.000Z",
+          "wordCount": 6696,
+          "title": "IAEA head seeks release of Ukrainian nuclear plant head",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599658,width-1070,height-580,imgsize-1185769,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audios-report/articleshow/94598902.cms",
           "author": null,
           "description": "“This is a matter of national security, which has serious implications for national interests and a legal action in this regard is vital,” recommended the cabinet committee. The committee on Saturday recommended legal action over the audio leaks purportedly featuring Imran Khan and others.",
@@ -32103,6 +32233,36 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-experts-claim-rise-in-sleep-disturbances-after-a-brush-with-omicron/photostory/94528930.cms",
+          "author": null,
+          "description": "While a COVID-19 infection is normally marked by fever, body aches, and loss of smell and taste, experts believe the evolving virus may lead to sleepless nights.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-experts-claim-rise-in-sleep-disturbances-after-a-brush-with-omicron/photostory/94528930.cms",
+          "publishedOn": "2022-10-02T10:30:00.000Z",
+          "wordCount": 9795,
+          "title": "Experts claim rise in sleep disturbances after Omicron",
+          "imageUrl": "https://static.toiimg.com/photo/94528945.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cop-killed-crpf-personnel-injured-in-terrorist-attack-in-jks-pulwama/articleshow/94599621.cms",
+          "author": null,
+          "description": "A policeman was killed and a CRPF personnel injured when terrorists attacked a security forces team in Pulwama district of Jammu and Kashmir on Sunday, police said. The attack took place in Pinglana area of the south Kashmir district.",
+          "link": "https://timesofindia.indiatimes.com/india/cop-killed-crpf-personnel-injured-in-terrorist-attack-in-jks-pulwama/articleshow/94599621.cms",
+          "publishedOn": "2022-10-02T10:25:08.000Z",
+          "wordCount": 5761,
+          "title": "Cop killed in terrorist attack in J&K's Pulwama",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599640,width-1070,height-580,imgsize-114568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/there-is-no-g23-camp-now-all-leaders-united-to-fight-bjp-rss-congress-chief-candidate-mallikarjun-kharge/articleshow/94599075.cms",
+          "author": null,
+          "description": "Congress leader Mallikarjun Kharge on Sunday declared that there was no longer a G23 camp within the party, referring to a section of leaders seeking organisational overhaul. \"There is no G23 camp now. All leaders want to work together and fight the BJP-RSS,\" said Kharge, who is one of the candidates in the party's forthcoming president election.",
+          "link": "https://timesofindia.indiatimes.com/india/there-is-no-g23-camp-now-all-leaders-united-to-fight-bjp-rss-congress-chief-candidate-mallikarjun-kharge/articleshow/94599075.cms",
+          "publishedOn": "2022-10-02T10:17:08.000Z",
+          "wordCount": 7098,
+          "title": "No more G23 camp in Congress, says Kharge",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94599514,width-1070,height-580,imgsize-30142,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/in-pics-amdavadis-enjoy-first-day-ride-of-newly-inaugurated-metro/photostory/94598401.cms",
           "author": null,
