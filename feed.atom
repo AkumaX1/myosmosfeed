@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T23:11:49.916Z</updated>
+    <updated>2022-10-02T01:04:44.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Covid-19: Free booster window closes, <20% of eligible took 3rd shot]]></title>
+        <id>https://timesofindia.indiatimes.com/india/covid-19-free-booster-window-closes-lt20-of-eligible-took-3rd-shot/articleshow/94592343.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/covid-19-free-booster-window-closes-lt20-of-eligible-took-3rd-shot/articleshow/94592343.cms"/>
+        <updated>2022-10-02T00:50:10.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Centre’s 75-day window for free booster shots for those aged between 18 and 59 has ended, but less than a fifth of this age group acros.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: At least 127 dead after violence at football match in Indonesia]]></title>
+        <id>https://timesofindia.indiatimes.com/india/breaking-news-live-updates-02-10-2022/liveblog/94592173.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/breaking-news-live-updates-02-10-2022/liveblog/94592173.cms"/>
+        <updated>2022-10-02T00:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay here for real-time updates on breaking news from India and across the world that you can't miss]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actor Annu Kapoor conned of Rs 4.36 lakh in KYC fraud]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/actor-annu-kapoor-conned-of-rs-4-36-lakh-in-kyc-fraud/articleshow/94591779.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/actor-annu-kapoor-conned-of-rs-4-36-lakh-in-kyc-fraud/articleshow/94591779.cms"/>
+        <updated>2022-10-01T23:55:23.000Z</updated>
+        <summary type="html"><![CDATA[MUMBAI: Veteran actor Annu Kapoor became the latest target of cyber fraudsters after one of them convinced him to share his bank details on the pretex.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Who Examined Dolphins’ Tua Tagovailoa Is Dismissed]]></title>
+        <id>https://www.nytimes.com/2022/10/01/sports/football/tua-tagovailoa-doctor-fired.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/sports/football/tua-tagovailoa-doctor-fired.html"/>
+        <updated>2022-10-01T23:54:30.000Z</updated>
+        <summary type="html"><![CDATA[After Miami Dolphins quarterback Tua Tagovailoa sustained two head injuries in the last week, the players’ union removed a neurologist who was part of the process that allowed him to return to the field.]]></summary>
+        <author>
+            <name>Ken Belson, Jenny Vrentas and Emmanuel Morgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucknow Ramlila set to break 300-yr-old tradition on effigies]]></title>
+        <id>https://timesofindia.indiatimes.com/city/lucknow/lucknow-ramlila-set-to-break-300-year-old-tradition-on-effigies/articleshow/94591945.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/lucknow/lucknow-ramlila-set-to-break-300-year-old-tradition-on-effigies/articleshow/94591945.cms"/>
+        <updated>2022-10-01T23:43:53.000Z</updated>
+        <summary type="html"><![CDATA[LUCKNOW: It will be curtains on a historic tradition at the centuries-old Aishbagh Ramlila in Lucknow this year.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cameroon to Comoros, Venezuela to Vietnam, how world honoured Bapu]]></title>
+        <id>https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms"/>
+        <updated>2022-10-01T23:41:11.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Did you know that India commemorated Mahatma Gandhi’s return from South Africa in 1915, a century later in 2015, with, among other things, .]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cameroon to Comoros, Venezuela to Vietnam, how world honoured Bapu]]></title>
+        <id>https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms"/>
+        <updated>2022-10-01T23:41:11.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Did you know that India commemorated Mahatma Gandhi’s return from South Africa in 1915, a century later in 2015, with, among other things, .]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistan government’s Twitter a/c withheld in India due to ‘legal demand’]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms"/>
+        <updated>2022-10-01T23:38:53.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistan govt’s Twitter a/c withheld in India due to ‘legal demand’]]></title>
+        <id>https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms"/>
+        <updated>2022-10-01T23:38:53.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See Courtney Love Join the Lemonheads to Perform ‘Into Your Arms’]]></title>
+        <id>https://www.rollingstone.com/?p=1234603698</id>
+        <link href="https://www.rollingstone.com/music/music-news/courtney-love-the-lemonheads-into-your-arms-watch-1234603698/"/>
+        <updated>2022-10-01T23:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Singer was band’s surprise guest during their Friday set at Roundhouse in London]]></summary>
+        <author>
+            <name>Althea Legaspi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Anime Gets 5th TV Series in January 2024]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190421</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-01/kingdom-anime-gets-5th-tv-series-in-january-2024/.190421"/>
+        <updated>2022-10-01T23:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Announced on Sunday with teaser]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better than the best? NAAC’s grade discrepancies under lens]]></title>
+        <id>https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms</id>
+        <link href="https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms"/>
+        <updated>2022-10-01T23:04:23.000Z</updated>
+        <summary type="html"><![CDATA[A deemed university in Bhubaneshwar has pipped to the post the distinguished Indian Institute of Science in terms of its NAAC (National Assessment and Accreditation Council) score. It now beats not just the venerable Bengaluru varsity but also every other institution in the country, having bagged the highest score of 3.88, the best ever awarded to a higher education institute.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI seizes 200+kg drugs in Mumbai]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mumbai/207kg-drugs-worth-rs-1476-crore-hidden-in-cartons-of-oranges-seized-from-navi-mumbais-vashi/articleshow/94591791.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mumbai/207kg-drugs-worth-rs-1476-crore-hidden-in-cartons-of-oranges-seized-from-navi-mumbais-vashi/articleshow/94591791.cms"/>
+        <updated>2022-10-01T22:57:53.000Z</updated>
+        <summary type="html"><![CDATA[The Directorate of Revenue Intelligence (DRI), Mumbai, on Saturday seized 198 kg of 'high purity' crystal methamphetamine (ice) and 9 kg 'high purity' cocaine worth Rs 1,476 crore which had been smuggled by concealing the stuff among boxes of oranges.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat]]></title>
         <id>https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html</id>
@@ -3845,6 +3975,16 @@ Armor Wars stars Don Cheadle as James “Rhodey” Rhodes, aka War Machine, and 
         <summary type="html"><![CDATA[Hordes of wealthy and prominent figures acted like Musk's typical reply guys, all clamoring for the chance to get in on his Twitter deal]]></summary>
         <author>
             <name>Edward Ongweso Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid live: Free booster window closes, <20% of eligible took 3rd shot]]></title>
+        <id>https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-1-covid-19/liveblog/94571807.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-1-covid-19/liveblog/94571807.cms"/>
+        <updated>2022-09-30T18:42:56.000Z</updated>
+        <summary type="html"><![CDATA[The Centre’s 75-day window for free booster shots for those aged between 18 and 59 has ended, but less than a fifth of this age group across the country has taken the third shot and in no major state is the proportion even 40%, shows official data as of Saturday morning. Stay with TOI for latest updates --]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

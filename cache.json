@@ -2239,6 +2239,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/01/sports/football/tua-tagovailoa-doctor-fired.html",
+          "author": "Ken Belson, Jenny Vrentas and Emmanuel Morgan",
+          "description": "After Miami Dolphins quarterback Tua Tagovailoa sustained two head injuries in the last week, the players’ union removed a neurologist who was part of the process that allowed him to return to the field.",
+          "link": "https://www.nytimes.com/2022/10/01/sports/football/tua-tagovailoa-doctor-fired.html",
+          "publishedOn": "2022-10-01T23:54:30.000Z",
+          "wordCount": null,
+          "title": "Doctor Who Examined Dolphins’ Tua Tagovailoa Is Dismissed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/world/europe/lyman-ukraine-russia.html",
           "author": "Thomas Gibbons-Neff, Andrew E. Kramer, Anton Troianovski and Catherine Porter",
           "description": "Russia’s withdrawal from the city comes one day after Moscow illegally annexed the surrounding region.",
@@ -8536,6 +8546,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234603698",
+          "author": "Althea Legaspi",
+          "description": "Singer was band’s surprise guest during their Friday set at Roundhouse in London",
+          "link": "https://www.rollingstone.com/music/music-news/courtney-love-the-lemonheads-into-your-arms-watch-1234603698/",
+          "publishedOn": "2022-10-01T23:37:42.000Z",
+          "wordCount": 7061,
+          "title": "See Courtney Love Join the Lemonheads to Perform ‘Into Your Arms’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/LemonheadsCourtneyLove.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234603688",
           "author": "Althea Legaspi",
@@ -19882,6 +19902,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190421",
+          "author": null,
+          "description": "Announced on Sunday with teaser",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-01/kingdom-anime-gets-5th-tv-series-in-january-2024/.190421",
+          "publishedOn": "2022-10-01T23:12:56.000Z",
+          "wordCount": 3049,
+          "title": "Kingdom Anime Gets 5th TV Series in January 2024",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/youtube/i0SC2_vYaSU.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190413",
           "author": null,
           "description": "Gackt slowly recovering from immunodeficiency, autoimmune condition, other side effects",
@@ -24922,6 +24952,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/covid-19-free-booster-window-closes-lt20-of-eligible-took-3rd-shot/articleshow/94592343.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Centre’s 75-day window for free booster shots for those aged between 18 and 59 has ended, but less than a fifth of this age group acros.",
+          "link": "https://timesofindia.indiatimes.com/india/covid-19-free-booster-window-closes-lt20-of-eligible-took-3rd-shot/articleshow/94592343.cms",
+          "publishedOn": "2022-10-02T00:50:10.000Z",
+          "wordCount": 5509,
+          "title": "Covid-19: Free booster window closes, <20% of eligible took 3rd shot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592355,width-1070,height-580,imgsize-22794,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Did you know that India commemorated Mahatma Gandhi’s return from South Africa in 1915, a century later in 2015, with, among other things, .",
+          "link": "https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms",
+          "publishedOn": "2022-10-01T23:41:11.000Z",
+          "wordCount": 6185,
+          "title": "Cameroon to Comoros, Venezuela to Vietnam, how world honoured Bapu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591927,width-1070,height-580,imgsize-21576,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.",
+          "link": "https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms",
+          "publishedOn": "2022-10-01T23:38:53.000Z",
+          "wordCount": 5365,
+          "title": "Pakistan government’s Twitter a/c withheld in India due to ‘legal demand’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591902,width-1070,height-580,imgsize-37362,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
           "author": null,
@@ -31314,6 +31374,76 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-02-10-2022/liveblog/94592173.cms",
+          "author": null,
+          "description": "Stay here for real-time updates on breaking news from India and across the world that you can't miss",
+          "link": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-02-10-2022/liveblog/94592173.cms",
+          "publishedOn": "2022-10-02T00:18:00.000Z",
+          "wordCount": 4462,
+          "title": "Live: At least 127 dead after violence at football match in Indonesia",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94592173/94592173.jpg?37494"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/actor-annu-kapoor-conned-of-rs-4-36-lakh-in-kyc-fraud/articleshow/94591779.cms",
+          "author": null,
+          "description": "MUMBAI: Veteran actor Annu Kapoor became the latest target of cyber fraudsters after one of them convinced him to share his bank details on the pretex.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/actor-annu-kapoor-conned-of-rs-4-36-lakh-in-kyc-fraud/articleshow/94591779.cms",
+          "publishedOn": "2022-10-01T23:55:23.000Z",
+          "wordCount": 8216,
+          "title": "Actor Annu Kapoor conned of Rs 4.36 lakh in KYC fraud",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592054,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-1023423/94592054.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/lucknow/lucknow-ramlila-set-to-break-300-year-old-tradition-on-effigies/articleshow/94591945.cms",
+          "author": null,
+          "description": "LUCKNOW: It will be curtains on a historic tradition at the centuries-old Aishbagh Ramlila in Lucknow this year.",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/lucknow-ramlila-set-to-break-300-year-old-tradition-on-effigies/articleshow/94591945.cms",
+          "publishedOn": "2022-10-01T23:43:53.000Z",
+          "wordCount": 5803,
+          "title": "Lucknow Ramlila set to break 300-yr-old tradition on effigies",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591958,width-1070,height-580,imgsize-78914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Did you know that India commemorated Mahatma Gandhi’s return from South Africa in 1915, a century later in 2015, with, among other things, .",
+          "link": "https://timesofindia.indiatimes.com/india/cameroon-to-comoros-venezuela-to-vietnam-how-world-honoured-bapu/articleshow/94591926.cms",
+          "publishedOn": "2022-10-01T23:41:11.000Z",
+          "wordCount": 6185,
+          "title": "Cameroon to Comoros, Venezuela to Vietnam, how world honoured Bapu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591927,width-1070,height-580,imgsize-21576,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Twitter account of the Pakistan government has been withheld in India.",
+          "link": "https://timesofindia.indiatimes.com/india/pakistan-governments-twitter-a/c-withheld-in-india-due-to-legal-demand/articleshow/94591848.cms",
+          "publishedOn": "2022-10-01T23:38:53.000Z",
+          "wordCount": 5365,
+          "title": "Pakistan govt’s Twitter a/c withheld in India due to ‘legal demand’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591902,width-1070,height-580,imgsize-37362,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms",
+          "author": null,
+          "description": "A deemed university in Bhubaneshwar has pipped to the post the distinguished Indian Institute of Science in terms of its NAAC (National Assessment and Accreditation Council) score. It now beats not just the venerable Bengaluru varsity but also every other institution in the country, having bagged the highest score of 3.88, the best ever awarded to a higher education institute.",
+          "link": "https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms",
+          "publishedOn": "2022-10-01T23:04:23.000Z",
+          "wordCount": 6143,
+          "title": "Better than the best? NAAC’s grade discrepancies under lens",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591806,width-1070,height-580,imgsize-32202,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/207kg-drugs-worth-rs-1476-crore-hidden-in-cartons-of-oranges-seized-from-navi-mumbais-vashi/articleshow/94591791.cms",
+          "author": null,
+          "description": "The Directorate of Revenue Intelligence (DRI), Mumbai, on Saturday seized 198 kg of 'high purity' crystal methamphetamine (ice) and 9 kg 'high purity' cocaine worth Rs 1,476 crore which had been smuggled by concealing the stuff among boxes of oranges.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/207kg-drugs-worth-rs-1476-crore-hidden-in-cartons-of-oranges-seized-from-navi-mumbais-vashi/articleshow/94591791.cms",
+          "publishedOn": "2022-10-01T22:57:53.000Z",
+          "wordCount": 6326,
+          "title": "DRI seizes 200+kg drugs in Mumbai",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591834,width-1070,height-580,imgsize-1230570,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/pm-fought-back-pressure-on-where-to-buy-oil-from-eam-s-jaishankar/articleshow/94591710.cms",
           "author": null,
           "description": "External Affairs Minister S Jaishankar on Saturday said that Prime Minister Narendra Modi did not yield to the pressure amid the soaring oil prices and advised that India must do what is best for the nation and if pressure comes then face it head on.",
@@ -31942,6 +32072,16 @@
           "wordCount": 11048,
           "title": "Hurricane Ian makes landfall in South Carolina after Florida",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94572149,width-1070,height-580,imgsize-188122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-1-covid-19/liveblog/94571807.cms",
+          "author": null,
+          "description": "The Centre’s 75-day window for free booster shots for those aged between 18 and 59 has ended, but less than a fifth of this age group across the country has taken the third shot and in no major state is the proportion even 40%, shows official data as of Saturday morning. Stay with TOI for latest updates --",
+          "link": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-october-1-covid-19/liveblog/94571807.cms",
+          "publishedOn": "2022-09-30T18:42:56.000Z",
+          "wordCount": 9664,
+          "title": "Covid live: Free booster window closes, <20% of eligible took 3rd shot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94571807,width-1070,height-580,imgsize-124178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/patna/bihar-contingent-of-300-officials-fails-to-track-tiger-in-valmiki-tiger-reserve/articleshow/94571789.cms",
