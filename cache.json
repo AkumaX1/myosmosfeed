@@ -2239,6 +2239,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/live/2022/10/01/us/hurricane-ian-florida-south-carolina/biden-florida-puerto-rico",
+          "author": "Michael D. Shear",
+          "description": "Trips on Monday and Wednesday are planned to the sites of the natural disasters.",
+          "link": "https://www.nytimes.com/live/2022/10/01/us/hurricane-ian-florida-south-carolina/biden-florida-puerto-rico",
+          "publishedOn": "2022-10-02T06:42:31.000Z",
+          "wordCount": null,
+          "title": "Biden Will Visit Puerto Rico And Florida to Assess Storm Damage",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/us/biden-florida-puerto-rico.html",
           "author": "Michael D. Shear",
           "description": "Trips on Monday and Wednesday are planned to the sites of the natural disasters.",
@@ -2276,6 +2286,16 @@
           "publishedOn": "2022-10-01T22:40:42.000Z",
           "wordCount": null,
           "title": "Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/10/02/us/hurricane-ian-florida-south-carolina/port-charlotte-florida-gas-lines-ian",
+          "author": "Nicholas Bogel-Burroughs",
+          "description": "At one station, in Port Charlotte, cars stretched for over a mile, while hundreds of others in need carried cans. And lawn chairs.",
+          "link": "https://www.nytimes.com/live/2022/10/02/us/hurricane-ian-florida-south-carolina/port-charlotte-florida-gas-lines-ian",
+          "publishedOn": "2022-10-01T22:24:36.000Z",
+          "wordCount": null,
+          "title": "Some Florida Residents Face Long Gas Lines After Hurricane Ian",
           "imageUrl": null
         },
         {
@@ -7479,6 +7499,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/02/arts/television/snl-miles-teller-kendrick-lamar.html",
+          "author": "Dave Itzkoff",
+          "description": "The show kicked off its 48th year with a cold open that was also a commentary on the expectations it faces after big cast changes.",
+          "link": "https://www.nytimes.com/2022/10/02/arts/television/snl-miles-teller-kendrick-lamar.html",
+          "publishedOn": "2022-10-02T06:24:49.000Z",
+          "wordCount": null,
+          "title": "‘S.N.L.’ Season Premiere Weighs in on Its Own Trump Sketch",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
           "author": "Kiersten White",
@@ -19962,6 +19992,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190405",
+          "author": null,
+          "description": "Chaos;Head, Chaos;Child games launch for Switch in West on October 7",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-02/chaos-head-noah-game-steam-release-canceled/.190405",
+          "publishedOn": "2022-10-02T05:46:56.000Z",
+          "wordCount": 3243,
+          "title": "Chaos;Head Noah Game's Steam Release Canceled",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315g92/cms/news.5/190405/chn_1080x600.png.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190421",
           "author": null,
           "description": "Announced on Sunday with teaser",
@@ -25093,6 +25133,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-vice-president-jagdeep-dhankhar-pay-tributes-to-mahatma-gandhi-lal-bahadur-shastri/articleshow/94596987.cms",
+          "author": null,
+          "description": "Gandhi's birth anniversary is observed globally as the International Day of Non-Violence, underlining his philosophy of non-violence to achieve social or political change. Several events are held in India and worldwide to mark the occasion.",
+          "link": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-vice-president-jagdeep-dhankhar-pay-tributes-to-mahatma-gandhi-lal-bahadur-shastri/articleshow/94596987.cms",
+          "publishedOn": "2022-10-02T06:53:18.000Z",
+          "wordCount": 5632,
+          "title": "President Droupadi Murmu, Vice-President Jagdeep Dhankhar pay tributes to Mahatma Gandhi, Lal Bahadur Shastri",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94596986,width-1070,height-580,imgsize-83516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/open-to-public-debate-between-congress-prez-poll-candidates-will-evoke-peoples-interest-in-party-shashi-tharoor/articleshow/94596696.cms",
+          "author": null,
+          "description": "Set for an electoral face-off with Congress veteran Mallikarjun Kharge for the AICC chief's post, Lok Sabha MP Shashi Tharoor on Sunday said he would be open to the idea of a public debate between the candidates as it would evoke people's interest in the party in a manner similar to the recent British Conservative Party leadership race.",
+          "link": "https://timesofindia.indiatimes.com/india/open-to-public-debate-between-congress-prez-poll-candidates-will-evoke-peoples-interest-in-party-shashi-tharoor/articleshow/94596696.cms",
+          "publishedOn": "2022-10-02T06:42:59.000Z",
+          "wordCount": 8290,
+          "title": "Open to public debate between Congress prez poll candidates, will evoke people's interest in party: Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94596825,width-1070,height-580,imgsize-59890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/1984-marks-one-of-darkest-years-in-modern-indian-history-us-senator/articleshow/94596091.cms",
           "author": null,
           "description": "India News: WASHINGTON: The anti-Sikh riots of 1984 marks one of the “darkest” years in modern Indian history, a US senator has said, as he underlined the need to.",
@@ -29600,6 +29660,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/us/venezuela-frees-7-americans-in-swap-for-maduro-wifes-nephews/articleshow/94596227.cms",
+          "author": null,
+          "description": "President Joe Biden issued the announcement that the Americans were on their way home -- and a senior official in his administration confirmed shortly afterward that the US leader had made the \"painful decision\" to greenlight the prisoner swap to secure their freedom.",
+          "link": "https://timesofindia.indiatimes.com/world/us/venezuela-frees-7-americans-in-swap-for-maduro-wifes-nephews/articleshow/94596227.cms",
+          "publishedOn": "2022-10-02T05:59:11.000Z",
+          "wordCount": 10676,
+          "title": "Venezuela frees 7 Americans in swap for Maduro wife's nephews",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94596249,width-1070,height-580,imgsize-55166,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/israeli-forces-kill-palestinian-teen-after-alleged-firebomb/articleshow/94595623.cms",
           "author": null,
           "description": "In the Gaza Strip, meanwhile, thousands of supporters of the ruling Hamas militant group filled a soccer stadium in a demonstration they said was meant to show solidarity with the Al-Aqsa Mosque in Jerusalem during the Jewish high holiday season.",
@@ -31872,6 +31942,16 @@
           "wordCount": 5973,
           "title": "MP: Mom locked up, 15-yr-old raped at knifepoint",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94593252,width-1070,height-580,imgsize-35560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "author": null,
+          "description": "Panic at an Indonesian soccer match Saturday left 174 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "publishedOn": "2022-10-02T02:12:42.000Z",
+          "wordCount": 14989,
+          "title": "Indonesia soccer tragedy: Death toll rises to 174, league suspended",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-127-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
