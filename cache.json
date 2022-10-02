@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
+          "author": null,
+          "description": "A Mobileye self-driving vehicle. | Image: Mobileye, an Intel company\n    \n\n  \nIntel’s self-driving technology firm Mobileye has filed for an initial public offering (IPO), according to a filing with the Securities and Exchange Commission (via CNBC). The Israel-based company, which Intel acquired for $15.3 billion in 2017, specializes in making the chips and software that powers autonomous vehicles.\nAccording to Bloomberg, Intel initially expected the IPO to value Mobileye at $50 billion, but later lowered its expectations to around $30 billion. Mobileye’s SEC filing indicates steady revenue growth over the past few years, jumping from $879 million in 2019 to $967 million in 2020, and topping out at $1.4 billion in 2021. The filing doesn’t provide any information on how much a share could c…",
+          "link": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
+          "publishedOn": "2022-10-02T14:40:42.000Z",
+          "wordCount": 7143,
+          "title": "Intel’s self-driving company Mobileye files for an IPO",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ZP6HAeqrhGLnoxkXE1d0ttmop64=/0x0:1280x720/1200x628/filters:focal(494x418:495x419)/cdn.vox-cdn.com/uploads/chorus_asset/file/24073456/mobileye_intel_car.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november",
           "author": null,
           "description": "NASA called off last week’s Artemis I launch due to Hurricane Ian. | Photo by CHANDAN KHANNA/AFP via Getty Images\n    \n\n  \nThe long-anticipated launch of NASA’s Space Launch System (SLS) rocket has been pushed back to mid-November after NASA waved off its September 27th launch plans in the wake of Hurricane Ian (via Space.com). The space agency announced on Friday that it’s aiming to squeeze in the Artemis I launch between November 12th and November 27th.\nWhile there was initially a slight chance that NASA’s next launch attempt could take place in October, that was ultimately scrapped after NASA decided to roll the rocket back to the Vehicle Assembly Building (VAB) to shield it from the storm. NASA successfully secured the rocket on Tuesday after an hours-long trek to the VAB.\nHurricane Ian made landfall in Florida as a Category 4 hurricane, but weakened into a tropical storm by the time it reached the Kennedy Space Center on Thursday. NASA says “there was no damage to Artemis flight hardware,” and that its facilities only suffered “minor water intrusion.”\nNASA’s Artemis I launch will send an uncrewed Orion capsule on a journey around the Moon, paving the way for future missions that will bring the first woman and person of color to the lunar surface. The agency’s first launch attempt was cut short after the rocket experienced engine issues, while its second was marred by a “large” leak that occurred when engineers filled up the rocket with chilled liquid hydrogen fuel.\nSubsequent testing of the rocket’s fueling system showed that the leak was still present, but at a more “manageable” level. Now that the rocket’s back at the VAB, NASA says it will “prepare for additional inspections” and retest the Flight Termination System, which the Space Force uses to destroy the rocket if it goes off course.",
@@ -2238,6 +2248,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html",
+          "author": "Chang Che",
+          "description": "The case, involving a billionaire entrepreneur, riveted observers in China, where women alleging sexual wrongdoing by powerful men are often pilloried, silenced or both.",
+          "link": "https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html",
+          "publishedOn": "2022-10-02T14:46:41.000Z",
+          "wordCount": null,
+          "title": "Chinese #MeToo Case Settled in U.S. Court",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html",
           "author": "Claire Moses",
@@ -8806,6 +8826,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234603860",
+          "author": "Daniel Kreps",
+          "description": "Rapper makes runway debut as he leads charge down muddy path for Summer 2023 collection",
+          "link": "https://www.rollingstone.com/music/music-news/kanye-west-balenciaga-model-paris-fashion-week-show-1234603860/",
+          "publishedOn": "2022-10-02T14:36:14.000Z",
+          "wordCount": 7075,
+          "title": "Kanye West Models Ready-to-War Look at Balenciaga’s Paris Fashion Week Show",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/yeparis.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234602217",
           "author": "Lisa Tozzi",
@@ -23626,6 +23656,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/centrists-win-latvia-vote-russian-speaking-parties-on-back-foot/article65963128.ece",
+          "author": "AFP",
+          "description": "Prime Minister Krisjanis Karins's pro-Western centrist party has won elections in Latvia",
+          "link": "https://www.thehindu.com/news/international/centrists-win-latvia-vote-russian-speaking-parties-on-back-foot/article65963128.ece",
+          "publishedOn": "2022-10-02T14:42:30.000Z",
+          "wordCount": 6475,
+          "title": "Centrists win Latvia vote, Russian-speaking parties on back foot",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/soekfj/article65596550.ece/alternates/LANDSCAPE_615/Koreas_Tensions_41100.jpg-50141.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/in-brazilian-amazon-a-1000-mile-voyage-so-people-can-vote/article65962906.ece",
           "author": "AP",
           "description": "In most democracies, citizens go to the polls. But in Brazil’s sparsely populated Amazon region, the polls often go to the voters",
@@ -25542,6 +25582,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bjp-trying-to-pitch-gujjars-against-paharis-in-jammu-mehbooba/articleshow/94603955.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: PDP president Mehbooba Mufti alleged on Sunday that the BJP is trying to pitch Gujjars against Paharis in the Jammu region and appealed to t.",
+          "link": "https://timesofindia.indiatimes.com/india/bjp-trying-to-pitch-gujjars-against-paharis-in-jammu-mehbooba/articleshow/94603955.cms",
+          "publishedOn": "2022-10-02T14:48:14.000Z",
+          "wordCount": 5986,
+          "title": "BJP trying to pitch Gujjars against Paharis in Jammu: Mehbooba",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94603972,width-1070,height-580,imgsize-1144332,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sonia-gandhi-to-participate-in-bharat-jodo-yatra-on-october-6-in-karnataka-sources/articleshow/94602937.cms",
           "author": null,
@@ -30220,6 +30270,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/china/gandhi-jayanti-celebration-returns-to-chinas-picturesque-chaoyang-park-after-two-years-covid-induced-hiatus/articleshow/94603929.cms",
+          "author": null,
+          "description": "After a two-year Covid-induced hiatus, Gandhi Jayanti celebrations returned to China's sprawling Chaoyang Park here as it resonated with the recitation of his famous quotes by Chinese school children and his bhajans by members of the Indian diaspora.Gandhi Jayanti is celebrated every year at the picturesque Chaoyang Park in Beijing ever since the statue of Gandhi, sculpted by acclaimed sculptor Yuan Xikun, was installed in 2005.",
+          "link": "https://timesofindia.indiatimes.com/world/china/gandhi-jayanti-celebration-returns-to-chinas-picturesque-chaoyang-park-after-two-years-covid-induced-hiatus/articleshow/94603929.cms",
+          "publishedOn": "2022-10-02T14:46:55.000Z",
+          "wordCount": 9790,
+          "title": "Gandhi Jayanti celebration returns to China's Chaoyang park",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94603927,width-1070,height-580,imgsize-92580,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-presses-on-with-counteroffensive-russia-uses-drones/articleshow/94602841.cms",
           "author": null,
           "description": "Russia attacked the Ukrainian president's hometown and other targets on Sunday with suicide drones, and Ukraine took back full control of a strategic eastern city in a counteroffensive that has reshaped the war.Russia's loss of the eastern city of Lyman, which it had been using as a transport and logistics hub, is a new blow to the Kremlin as it seeks to escalate the war by illegally annexing four regions of Ukraine and heightening threats to use nuclear force.",
@@ -32454,6 +32514,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/watch-snake-interrupts-play-during-second-india-south-africa-t20i-match-resumes-after-few-minutes/articleshow/94603993.cms",
+          "author": null,
+          "description": "The second T20I between India and South Africa had to be stopped after a snake invaded the cricket field, however, the match was resumed after a couple of minutes.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/watch-snake-interrupts-play-during-second-india-south-africa-t20i-match-resumes-after-few-minutes/articleshow/94603993.cms",
+          "publishedOn": "2022-10-02T14:55:03.000Z",
+          "wordCount": 5496,
+          "title": "Watch: Snake interrupts play during 2nd India-SA T20I",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94603984,width-1070,height-580,imgsize-12972,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-presses-on-with-counteroffensive-russia-uses-drones/articleshow/94602841.cms",
           "author": null,
           "description": "Russia attacked the Ukrainian president's hometown and other targets on Sunday with suicide drones, and Ukraine took back full control of a strategic eastern city in a counteroffensive that has reshaped the war.Russia's loss of the eastern city of Lyman, which it had been using as a transport and logistics hub, is a new blow to the Kremlin as it seeks to escalate the war by illegally annexing four regions of Ukraine and heightening threats to use nuclear force.",
@@ -32462,6 +32532,16 @@
           "wordCount": 12208,
           "title": "Ukraine presses on with counteroffensive; Russia uses drones",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94602951,width-1070,height-580,imgsize-120938,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sonia-gandhi-to-participate-in-bharat-jodo-yatra-on-october-6-in-karnataka-sources/articleshow/94602937.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress president Sonia Gandhi will participate in the Bharat Jodo Yatra on October 6 in Karnataka, sources said on Sunday.",
+          "link": "https://timesofindia.indiatimes.com/india/sonia-gandhi-to-participate-in-bharat-jodo-yatra-on-october-6-in-karnataka-sources/articleshow/94602937.cms",
+          "publishedOn": "2022-10-02T13:38:34.000Z",
+          "wordCount": 5722,
+          "title": "Sonia Gandhi to take part in Bharat Jodo Yatra on Oct 6",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94602965,width-1070,height-580,imgsize-40192,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-mukesh-kumar-rajat-patidar-earn-maiden-india-call-ups-for-sa-odis/articleshow/94602555.cms",
