@@ -8807,6 +8807,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234602217",
+          "author": "Lisa Tozzi",
+          "description": "The agency tried — and failed — for decades to tie the Queen of Soul to \"extremists\"",
+          "link": "https://www.rollingstone.com/music/music-features/aretha-franklin-fbi-file-surveillance-1234602217/",
+          "publishedOn": "2022-10-02T13:09:00.000Z",
+          "wordCount": 7866,
+          "title": "Aretha Franklin Was Tracked By the FBI for 40 Years. Here’s What’s In her File",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/aretha-franklin-foia-docs.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234603818",
+          "author": "Daniel Kreps",
+          "description": "E Street legend makes surprise appearance to perform \"Born to Run,\" \"Badlands,\" and 2021 collaboration \"Dustland\" with Brandon Flowers and company",
+          "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-the-killers-madison-square-garden-1234603818/",
+          "publishedOn": "2022-10-02T13:01:07.000Z",
+          "wordCount": 7252,
+          "title": "See Bruce Springsteen Join the Killers for Three-Song Encore at Madison Square Garden",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/brucekillers.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603016",
           "author": "William Vaillancourt",
           "description": "The single is from the artist's recently released album Mr. Morale & the Big Steppers.",
@@ -10092,6 +10112,16 @@
           "wordCount": 7053,
           "title": "Miles Teller Self-Deprecates in ‘SNL’ Monologue",
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-02-at-12.55.13-AM.png?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234603665",
+          "author": "William Vaillancourt",
+          "description": "Host Miles Teller as Peyton Manning and Andrew Dismukes as Eli break down the show’s roster of new and returning cast members",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-premiere-cold-open-manningcast-miles-teller-jon-hamm-shaun-white-1234603665/",
+          "publishedOn": "2022-10-02T04:37:32.000Z",
+          "wordCount": 7251,
+          "title": "‘SNL’ Premiere Cold Open: Jon Hamm and Shaun White Join a ‘Manningcast’ Spoof",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-02-at-2.44.30-AM.png?w=1024"
         },
         {
           "id": "https://www.rollingstone.com/?p=1234603665",
@@ -18611,6 +18641,16 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/23351266/best-new-horror-books-read",
+          "author": null,
+          "description": "Graphic: Pete Volk/Polygon | Sources images: Tor, Flatiron Books, Image Comics, Penguin Random House, Simon and Schuster\n    \n\n\n  \nSnuggle up with a good scare this Halloween\n Dark times often call for some sort of escapism and, for many people (myself included), that escapism comes in the form of reading the most terrifying book you can get your hands on. Scary stories are a space where you can practice being brave and learn how to cope with internal and external worries and fears. \nFrom time to time you might come across a book that is too scary, and you have to put it in the freezer like Joey Tribbiani does with his copy of The Shining in that one episode of Friends (my freezer book is A Head Full of Ghosts by Paul Tremblay), but horror can be fun too! Shouting “you idiot” or “oh no” or…",
+          "link": "https://www.polygon.com/23351266/best-new-horror-books-read",
+          "publishedOn": "2022-10-02T13:00:00.000Z",
+          "wordCount": 2938,
+          "title": "10 spooky modern horror books to read this fall",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/RvRHL_VcoK2UEU-IqxTZY_Wtcss=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24065334/horrorbooks.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman",
           "author": null,
           "description": "Image: 20th Century Fox\n    \n\n\n  \nRemember when they gave Deadpool laser vision? We remember\n On an evening that might have otherwise been dominated by some faintly alarming MCU developments, patient Ryan Reynolds fans received a delightful surprise: The star will be returning for the long-awaited Deadpool threequel, slated for release in 2024. But that was only half the bombshell dropped in Reynolds’ video tweet on Tuesday evening. Joining the titular Marvel antihero will be an even less expected, though perhaps even more highly anticipated, co-star: Hugh Jackman’s Wolverine.\nBut it won’t be the first time these two characters have gone face-to-face on the big screen. That extremely dubious honor belongs to what may still reign as the most detested and willfully forgotten installment of 2…",
@@ -20231,6 +20271,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190432",
+          "author": null,
+          "description": "Anime premierse on Tuesday",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-02/encouragement-of-climb-next-summit-anime-gets-console-game/.190432",
+          "publishedOn": "2022-10-02T12:30:50.000Z",
+          "wordCount": 3359,
+          "title": "Encouragement of Climb: Next Summit Anime Gets Console Game",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/cms/news.5/188570/visual.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190429",
           "author": null,
@@ -23576,6 +23626,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/in-brazilian-amazon-a-1000-mile-voyage-so-people-can-vote/article65962906.ece",
+          "author": "AP",
+          "description": "In most democracies, citizens go to the polls. But in Brazil’s sparsely populated Amazon region, the polls often go to the voters",
+          "link": "https://www.thehindu.com/news/international/in-brazilian-amazon-a-1000-mile-voyage-so-people-can-vote/article65962906.ece",
+          "publishedOn": "2022-10-02T13:01:31.000Z",
+          "wordCount": 6488,
+          "title": "In Brazilian Amazon, a 1,000-mile voyage so people can vote",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/p9e34q/article65962919.ece/alternates/LANDSCAPE_615/1000.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/sri-lanka-cuts-tax-on-female-hygiene-products/article65962717.ece",
+          "author": "AFP",
+          "description": "A study showed that Sri Lanka's 5.3 million women of reproductive age were unable to afford sanitary products",
+          "link": "https://www.thehindu.com/news/international/sri-lanka-cuts-tax-on-female-hygiene-products/article65962717.ece",
+          "publishedOn": "2022-10-02T12:53:36.000Z",
+          "wordCount": 6195,
+          "title": "Sri Lanka cuts tax on female hygiene products",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/9gvq32/article65962879.ece/alternates/LANDSCAPE_615/00013W12Rjpg.jpeg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/at-least-92-people-killed-in-iran-crackdown-on-mahsa-amini-protests-ihr-ngo/article65962472.ece",
           "author": "AFP",
           "description": "Mahsa Amini had been arrested by Iran’s morality police for for allegedly violating the strict hijab rules which mandate loose-fitted clothes and covered hair",
@@ -25472,6 +25542,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/open-to-public-debate-between-congress-president-poll-candidates-will-evoke-peoples-interest-in-party-shashi-tharoor/articleshow/94602024.cms",
+          "author": null,
+          "description": "Set for an electoral face-off with Congress veteran Mallikarjun Kharge for the party president's post, Lok Sabha MP Shashi Tharoor on Sunday said he would be open to the idea of a public debate between the candidates as it would evoke people's interest in the party similar to the recent British Conservative Party leadership race.Asked about Tharoor's remarks on holding a debate, Kharge, however, did not appear inclined towards having such an engagement.",
+          "link": "https://timesofindia.indiatimes.com/india/open-to-public-debate-between-congress-president-poll-candidates-will-evoke-peoples-interest-in-party-shashi-tharoor/articleshow/94602024.cms",
+          "publishedOn": "2022-10-02T12:43:15.000Z",
+          "wordCount": 9042,
+          "title": "Open to public debate between Congress president poll candidates, will evoke people's interest in party: Shashi Tharoor",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94602036,width-1070,height-580,imgsize-36968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/designed-to-last-six-months-indias-mars-orbiter-bids-adieu-after-8-long-years/articleshow/94599977.cms",
           "author": null,
@@ -31767,6 +31847,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-125-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "author": null,
+          "description": "Panic at an Indonesian football match Saturday left 125 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-125-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "publishedOn": "2022-10-02T11:56:12.000Z",
+          "wordCount": 19419,
+          "title": "Indonesia football tragedy: Death toll after riots revised to 125, with more than 100 injured",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
           "author": null,
           "description": "Panic at an Indonesian soccer match Saturday left 174 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
@@ -32344,6 +32434,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-mukesh-kumar-rajat-patidar-earn-maiden-india-call-up-for-sa-odis/articleshow/94602555.cms",
+          "author": null,
+          "description": "Uncapped Bengal seamer Mukesh Kumar and prolific domestic performer Rajat Patidar on Sunday earned their maiden India call-up for the upcoming three match ODI series against South Africa, starting October 6 in Lucknow.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-mukesh-kumar-rajat-patidar-earn-maiden-india-call-up-for-sa-odis/articleshow/94602555.cms",
+          "publishedOn": "2022-10-02T13:13:51.000Z",
+          "wordCount": 5785,
+          "title": "Mukesh Kumar, Rajat Patidar earn maiden India call-up for SA ODIs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94602564,width-1070,height-580,imgsize-42300,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/toisa/nominations?utm_source=TOI&utm_medium=Article_Unlock_hp_0210&utm_campaign=Referral_TOISA_Internal",
           "author": null,
           "description": "Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -32372,6 +32472,16 @@
           "wordCount": 6623,
           "title": "India's Mars Orbiter bids adieu after 8 long years",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94600729,width-1070,height-580,imgsize-38584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-today-match-2022-live-cricket-score-updates/liveblog/94600150.cms",
+          "author": null,
+          "description": "South Africa skipper Temba Bavuma won the toss and elected to bowl against India in the second T20I tonight. South Africa made one change to their playing XI, bringing in pacer Lungi Ngidi in place of left-arm spinner Tabraiz Shamsi. India fielded an unchanged XI that won the series-opener by 8 wickets in Thiruvananthapuram. Get live cricket score updates of match between India vs South Africa. Check live scorecard, ball by ball commentary, cricket score online on Times of India.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-today-match-2022-live-cricket-score-updates/liveblog/94600150.cms",
+          "publishedOn": "2022-10-02T11:00:09.000Z",
+          "wordCount": 16706,
+          "title": "2nd T20I Live: South Africa opt to bowl against India",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94600150,width-1070,height-580,imgsize-48780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/covid-19-experts-claim-rise-in-sleep-disturbances-after-a-brush-with-omicron/photostory/94528930.cms",
@@ -32652,6 +32762,16 @@
           "wordCount": 6112,
           "title": "7 pvt university above IISc: Lens on NAAC grades",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94594193,width-1070,height-580,imgsize-1010066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-125-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "author": null,
+          "description": "Panic at an Indonesian football match Saturday left 125 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-125-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
+          "publishedOn": "2022-10-02T02:12:42.000Z",
+          "wordCount": 19419,
+          "title": "Indonesia football match stampede kill 125",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
