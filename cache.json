@@ -9824,6 +9824,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234603662",
+          "author": "William Vaillancourt",
+          "description": "The 'Top Gun' star joked that while Tom Cruise performed his own stunts, he grew his own mustache.",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/miles-teller-self-deprecates-snl-monologue-1234603662/",
+          "publishedOn": "2022-10-02T05:03:51.000Z",
+          "wordCount": 7053,
+          "title": "Miles Teller Self-Deprecates in ‘SNL’ Monologue",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-02-at-12.55.13-AM.png?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234603665",
+          "author": "William Vaillancourt",
+          "description": "Teller as Peyton Manning and Andrew Dismukes as brother Eli break down SNL's new cast of characters.",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-premiere-cold-open-miles-teller-and-manningcast-dissect-mar-a-lago-scen-1234603665/",
+          "publishedOn": "2022-10-02T04:37:32.000Z",
+          "wordCount": 7265,
+          "title": "‘SNL’ Premiere Cold Open: Miles Teller and ‘ManningCast’ Dissect Mar-a-Lago Scene",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-02-at-12.32.49-AM.png?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/music/music-lists/50-greatest-comedies-of-the-21st-century-630244/",
           "author": "Rolling Stone",
           "description": "From rom-coms to raunch-coms, 'Anchorman' to 'Girls Trip' —our updated list of the funniest movies of the millennium so far",
@@ -23216,6 +23236,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/venezuela-swaps-seven-jailed-americans-for-maduro-relatives/article65961854.ece",
+          "author": "AP",
+          "description": "Venezuela’s government has freed seven Americans imprisoned in the South American country in exchange for the release of two nephews of President Nicolás Maduro’s wife",
+          "link": "https://www.thehindu.com/news/international/venezuela-swaps-seven-jailed-americans-for-maduro-relatives/article65961854.ece",
+          "publishedOn": "2022-10-02T04:44:02.000Z",
+          "wordCount": 7248,
+          "title": "Venezuela swaps seven jailed Americans for Maduro relatives",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/jsgtfm/article65961874.ece/alternates/LANDSCAPE_615/US_Venezuela_Prisoner_Swap_90977.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/un-chief-guterres-urges-people-to-shun-violence-on-mahatma-gandhis-153rd-birth-anniversary/article65961778.ece",
           "author": "ANI",
           "description": "In June 2007, the United Nations General Assembly marked 2nd October as International Day of Non-violence",
@@ -25032,6 +25062,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cong-a-diminishing-force-in-assam-with-no-bailout-in-sight/articleshow/94595645.cms",
+          "author": null,
+          "description": "Just 10 years ago, it was almost impossible for any hardcore BJP supporter to think of Assam as a saffron party-dominated state. In the 2011 Assembly election, Congress was riding high with 78 seats in the 126-member assembly while the BJP was languishing at single digit with only five seats in their bag.",
+          "link": "https://timesofindia.indiatimes.com/india/cong-a-diminishing-force-in-assam-with-no-bailout-in-sight/articleshow/94595645.cms",
+          "publishedOn": "2022-10-02T05:19:49.000Z",
+          "wordCount": 7849,
+          "title": "Cong a diminishing force in Assam with no bailout in sight",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94595657,width-1070,height-580,imgsize-35354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/encounter-under-way-in-jks-shopian/articleshow/94595274.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: An encounter broke out between security forces and terrorists in Shopian district of Jammu and Kashmir on Sunday, police said.",
+          "link": "https://timesofindia.indiatimes.com/india/encounter-under-way-in-jks-shopian/articleshow/94595274.cms",
+          "publishedOn": "2022-10-02T04:55:08.000Z",
+          "wordCount": 5099,
+          "title": "Encounter under way in J&K's Shopian",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94595286,width-1070,height-580,imgsize-79132,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/government-to-add-coast-transport-and-health-missions-to-climate-plan/articleshow/94594546.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.",
+          "link": "https://timesofindia.indiatimes.com/india/government-to-add-coast-transport-and-health-missions-to-climate-plan/articleshow/94594546.cms",
+          "publishedOn": "2022-10-02T04:03:16.000Z",
+          "wordCount": 6060,
+          "title": "Government to add coast, transport and health missions to climate plan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594609,width-1070,height-580,imgsize-167946,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/we-pledge-to-unite-india-like-mahatma-gandhi-united-country-against-injustice-rahul/articleshow/94594360.cms",
           "author": null,
@@ -29480,6 +29540,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/israeli-forces-kill-palestinian-teen-after-alleged-firebomb/articleshow/94595623.cms",
+          "author": null,
+          "description": "In the Gaza Strip, meanwhile, thousands of supporters of the ruling Hamas militant group filled a soccer stadium in a demonstration they said was meant to show solidarity with the Al-Aqsa Mosque in Jerusalem during the Jewish high holiday season.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/israeli-forces-kill-palestinian-teen-after-alleged-firebomb/articleshow/94595623.cms",
+          "publishedOn": "2022-10-02T05:19:47.000Z",
+          "wordCount": 9222,
+          "title": "Israeli forces kill Palestinian teen after alleged firebomb",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94595639,width-1070,height-580,imgsize-62404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-look-at-some-of-the-worlds-major-crowd-disasters/articleshow/94594713.cms",
+          "author": null,
+          "description": "Rest of World News: MALANG, Indonesia: Police fired tear gas after riots broke out at an Indonesian soccer match in East Java province when Persebaya Surabaya beat Arema .",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-look-at-some-of-the-worlds-major-crowd-disasters/articleshow/94594713.cms",
+          "publishedOn": "2022-10-02T04:11:38.000Z",
+          "wordCount": 11341,
+          "title": "A look at some of the world's major crowd disasters",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594735,width-1070,height-580,imgsize-113036,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/us/death-toll-escalates-in-florida-to-47-from-hurricane-ian/articleshow/94593249.cms",
           "author": null,
           "description": "US News: FORT MYERS, Fla.",
@@ -31564,6 +31644,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/encounter-under-way-in-jks-shopian/articleshow/94595274.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: An encounter broke out between security forces and terrorists in Shopian district of Jammu and Kashmir on Sunday, police said.",
+          "link": "https://timesofindia.indiatimes.com/india/encounter-under-way-in-jks-shopian/articleshow/94595274.cms",
+          "publishedOn": "2022-10-02T04:55:08.000Z",
+          "wordCount": 5099,
+          "title": "Encounter under way in J&K's Shopian",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94595286,width-1070,height-580,imgsize-79132,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/suzlon-group-cmd-tulsi-tanti-dies-of-cardiac-arrest/articleshow/94594636.cms",
+          "author": null,
+          "description": "The 64-year-old entrepreneur from Rajkot is survived by his children, Nidhi Tanti, and Pranav Tanti. He operated his business from Ahmedabad and has settled in Pune since 2004.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/suzlon-group-cmd-tulsi-tanti-dies-of-cardiac-arrest/articleshow/94594636.cms",
+          "publishedOn": "2022-10-02T04:11:04.000Z",
+          "wordCount": 6218,
+          "title": "Suzlon Group CMD, Tulsi Tanti dies of cardiac arrest",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594661,width-1070,height-580,imgsize-60234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-delhi-reception-richa-alis-wedding-celebrations-to-move-to-lucknow-before-getting-to-mumbai/articleshow/94594791.cms",
+          "author": null,
+          "description": "Here’s how the wedding celebrations will continue  for the couple.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-delhi-reception-richa-alis-wedding-celebrations-to-move-to-lucknow-before-getting-to-mumbai/articleshow/94594791.cms",
+          "publishedOn": "2022-10-02T04:06:28.000Z",
+          "wordCount": 8806,
+          "title": "After Delhi, Richa-Ali’s wedding celebrations to move to Lucknow",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594791,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-234106/94594791.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-contestant-sajid-khan-reveals-success-and-his-arrogance-destroyed-him-says-my-credit-on-housefull-4-was-taken-away-from-me/photostory/94592872.cms",
           "author": null,
           "description": "Controversial reality show, Bigg Boss, welcomed 16 contestants on the premiere episode last night (October 1). One of them was filmmaker Sajid Khan, who has been away from work after he was accused of #metoo allegations by not just one but multiple women. The host-turned-filmmaker opened up about facing troubled times in life and not getting work for the last four years. During his conversation with host Salman Khan, Sajid talked about how success and his arrogance destroyed him and revealed that he was sacked from Housefull 4 overnight and his credit was taken away. Take a look at the things, Sajid Khan spoke about his downfall and his participation in Bigg Boss 16.",
@@ -31572,6 +31682,16 @@
           "wordCount": 10136,
           "title": "Sajid Khan reveals success and his arrogance destroyed him",
           "imageUrl": "https://static.toiimg.com/photo/msid-94592993.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/surat/surat-fake-notes-of-rs-90-crore-face-value-seized-3-arrested/articleshow/94594035.cms",
+          "author": null,
+          "description": "The seizure of fake Indian currency notes (FICN) of nearly Rs 100 crore face value made in Surat and Jamnagar since September 29 is one of the biggest in Gujarat in recent times. Kamrej police in Surat arrested three people including the alleged mastermind Hitesh Kotadiya, who had engineered the racket to dupe people through an NGO instead of directly circulating the bills in the market.",
+          "link": "https://timesofindia.indiatimes.com/city/surat/surat-fake-notes-of-rs-90-crore-face-value-seized-3-arrested/articleshow/94594035.cms",
+          "publishedOn": "2022-10-02T03:11:54.000Z",
+          "wordCount": 6471,
+          "title": "Fake notes of Rs 90 cr face value seized, 3 held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594096,width-1070,height-580,imgsize-1686891,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/travel/web-stories/from-mohandas-to-mahatma-places-crucial-in-mahatma-gandhis-journey/photostory/94592403.cms",
@@ -31594,6 +31714,46 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94593946,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-35738/94593946.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/bengaluru/row-over-rahul-gandhi-meeting-siddaramaiah-at-bandipur-tiger-reserve/articleshow/94593833.cms",
+          "author": null,
+          "description": "BJP on Saturday alleged that former Karnataka CM Siddaramaiah and his supporters had violated the Wildlife Protection Act by meeting Congress member Rahul Gandhi in Bandipur ahead of the yatra in Karnataka.",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/row-over-rahul-gandhi-meeting-siddaramaiah-at-bandipur-tiger-reserve/articleshow/94593833.cms",
+          "publishedOn": "2022-10-02T03:00:49.000Z",
+          "wordCount": 5080,
+          "title": "Row over Rahul meeting Sidda at tiger reserve",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94593817,width-1070,height-580,imgsize-1303057,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/jaipur/ashok-gehlots-notes-reveal-arsenal-against-sachin-pilot/articleshow/94593554.cms",
+          "author": null,
+          "description": "A photograph of Ashok Gehlot's notes clicked by a photographer working with the Malayala Manorama newspaper, when he was on his way to meet Congress president Sonia Gandhi last week revealed that the Rajasthan CM, though apologetic about the spectacle caused by Congress MLAs' refusal to show up for the CLP meeting in Jaipur, was in no mood to relent when it came to his stand on his bete noire Sachin Pilot.",
+          "link": "https://timesofindia.indiatimes.com/city/jaipur/ashok-gehlots-notes-reveal-arsenal-against-sachin-pilot/articleshow/94593554.cms",
+          "publishedOn": "2022-10-02T02:51:04.000Z",
+          "wordCount": 6053,
+          "title": "Gehlot's 'notes' reveal 'arsenal' against Pilot",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94593624,width-1070,height-580,imgsize-1112421,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/in-pics-over-100-people-killed-after-stampede-at-soccer-match/photostory/94593418.cms",
+          "author": null,
+          "description": "At least 129 people were killed and around 180 injured at a soccer match in Indonesia after a crowd stampede during a riot, police said, in what appears to be one of the world's worst stadium disasters. (AP Photo)",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-pics-over-100-people-killed-after-stampede-at-soccer-match/photostory/94593418.cms",
+          "publishedOn": "2022-10-02T02:46:05.000Z",
+          "wordCount": 5900,
+          "title": "In pics: Over 120 people killed after stampede at football match",
+          "imageUrl": "https://static.toiimg.com/photo/94593436.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-house-tour-blend-of-mumbais-chawl-system-and-luxurious-apartments-jungle-themed-bathroom-and-essence-of-marathi-culture-in-the-design-the-140000-sqft-house-is-a-pure-visual-treat/photostory/94593052.cms",
+          "author": null,
+          "description": "The entrance of Bigg Boss Marathi season 4 house has a special connection and feeling this year which will make the contestants as well as the viewers emotional. The entrance of the house has a theme of Mumbai's chawl system where two-storeyed buildings had 10x12 single occupancy rooms next to each other. The entrance will surely mesmerize the contestants.",
+          "link": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-house-tour-blend-of-mumbais-chawl-system-and-luxurious-apartments-jungle-themed-bathroom-and-essence-of-marathi-culture-in-the-design-the-140000-sqft-house-is-a-pure-visual-treat/photostory/94593052.cms",
+          "publishedOn": "2022-10-02T02:41:48.000Z",
+          "wordCount": 9775,
+          "title": "Bigg Boss Marathi 4 house is a pure visual treat",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94593569.cms"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-house-tour-blend-of-mumbais-chawl-system-and-luxurious-apartments-jungle-themed-bathroom-and-essence-of-marathi-culture-in-the-design-the-140000-sqft-house-is-a-pure-visual-treat/entrance-mumbais-chawl-vibes/photostory/94593293.cms",
           "author": null,
           "description": "The entrance of Bigg Boss Marathi season 4 house has a special connection and feeling this year which will make the contestants as well as the viewers emotional. The entrance of the house has a theme of Mumbai's chawl system where two-storeyed buildings had 10x12 single occupancy rooms next to each other. The entrance will surely mesmerize the contestants.",
@@ -31612,6 +31772,16 @@
           "wordCount": 6797,
           "title": "2nd T20I: Uncertainties galore for Team India",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94593154,width-1070,height-580,imgsize-87462,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bhopal/bhopal-mom-locked-up-15-year-old-raped-at-knifepoint/articleshow/94593158.cms",
+          "author": null,
+          "description": "A 19-year-old was arrested in Bhopal on Saturday for allegedly raping a minor at knifepoint at her home after locking her mother in a room.",
+          "link": "https://timesofindia.indiatimes.com/city/bhopal/bhopal-mom-locked-up-15-year-old-raped-at-knifepoint/articleshow/94593158.cms",
+          "publishedOn": "2022-10-02T02:35:30.000Z",
+          "wordCount": 5973,
+          "title": "MP: Mom locked up, 15-yr-old raped at knifepoint",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94593252,width-1070,height-580,imgsize-35560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-127-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
@@ -31702,6 +31872,16 @@
           "wordCount": 5365,
           "title": "Pakistan govt’s Twitter a/c withheld in India due to ‘legal demand’",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94591902,width-1070,height-580,imgsize-37362,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bengaluru/from-alaska-to-argentina-bengaluru-man-visits-16-nations-on-his-bike/articleshow/94591865.cms",
+          "author": null,
+          "description": "Suhas Shastry loved bike rides even after he moved continents. The Bengalurean traversed from the extreme north of the Americas to the far south on his two-wheeler. The 32-year-old, who moved to the US eight years ago for postgraduate studies, says his pre-pandemic trip was full of adventure and learning.",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/from-alaska-to-argentina-bengaluru-man-visits-16-nations-on-his-bike/articleshow/94591865.cms",
+          "publishedOn": "2022-10-01T23:14:16.000Z",
+          "wordCount": 6538,
+          "title": "Bengaluru man visits 16 nations on his bike",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94591881,width-1070,height-580,imgsize-1590921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms",
