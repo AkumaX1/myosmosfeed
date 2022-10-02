@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nCoinbase temporarily stopped transactions for users in the US due to an issue preventing the company from processing withdrawals or deposits involving bank accounts. Problems started around 7AM ET, but the company didn’t resolve the issue until around 12:40PM ET.\n“We are currently unable to take payments or make withdrawals involving US bank accounts. Our team is aware of this issue and is working on getting everything back to normal as soon as possible,” Coinbase explained on its status page, adding that users could still use a debit card or PayPal account to buy crypto.\nWe're currently experiencing technical issues creating ACH transfers. Rest assured, your funds are safe. Our team will provide an update here and on our Status Page when full functionality resumes: https://t.co/a3pl4WiDhZ\n— Coinbase Support (@CoinbaseSupport) October 2, 2022\n\n\n\nAt the time of the outage, Coinbase said on Twitter that users’ funds are “safe,” before announcing that transactions have been restored about three hours later. The Verge reached out to Coinbase with a request for comment, but didn’t immediately hear back. \nFor the past couple of days, Coinbase users also had to deal with delayed transactions with Solana after its network suffered an outage on Friday. This has been a rough year for Coinbase and crypto in general, as the value of cryptocurrency has taken a nosedive. Coinbase laid off over 1,000 employees in June and is reportedly facing an investigation from the Securities and Exchange Commission.\nUpdate October 2nd, 12:49PM ET: Updated to add that Coinbase has fixed the issue.",
+          "link": "https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues",
+          "publishedOn": "2022-10-02T16:49:51.000Z",
+          "wordCount": 6669,
+          "title": "Coinbase paused transactions in US for hours to address bank transfer issues",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/MBXpNjrFITqIaZ9bILaR6okTgOk=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23630723/acastro_STK019_05.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
           "author": null,
           "description": "A Mobileye self-driving vehicle. | Image: Mobileye, an Intel company\n    \n\n  \nIntel’s self-driving technology firm Mobileye has filed for an initial public offering (IPO), according to a filing with the Securities and Exchange Commission (via CNBC). The Israel-based company, which Intel acquired for $15.3 billion in 2017, specializes in making the chips and software that powers autonomous vehicles.\nAccording to Bloomberg, Intel initially expected the IPO to value Mobileye at $50 billion, but later lowered its expectations to around $30 billion. Mobileye’s SEC filing indicates steady revenue growth over the past few years, jumping from $879 million in 2019 to $967 million in 2020, and topping out at $1.4 billion in 2021. The filing doesn’t provide any information on how much a share could c…",
@@ -2556,6 +2566,16 @@
           "publishedOn": "2022-10-01T15:00:05.000Z",
           "wordCount": null,
           "title": "How Private High Schools Keep the College Pay-to-Win Game Going",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/business/dealbook/supreme-court-business-cases.html",
+          "author": "Adam Liptak",
+          "description": "Upcoming Supreme Court cases could have big implications for businesses.",
+          "link": "https://www.nytimes.com/2022/10/01/business/dealbook/supreme-court-business-cases.html",
+          "publishedOn": "2022-10-01T14:49:45.000Z",
+          "wordCount": null,
+          "title": "The Supreme Court’s Business Docket",
           "imageUrl": null
         },
         {
@@ -7780,6 +7800,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html",
+          "author": "Jolie Ruben and Amanda Webster",
+          "description": "Here are four Instagram accounts to make you stop and look.",
+          "link": "https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html",
+          "publishedOn": "2022-09-30T20:39:59.000Z",
+          "wordCount": 7508,
+          "title": "Photography Our Photo Editors Are Following",
+          "imageUrl": "https://static01.nyt.com/images/2022/09/23/arts/focusing-burst-lead/focusing-burst-lead-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/arts/design/museum-leaders-vote-deaccessioning.html",
           "author": "Julia Jacobs",
           "description": "A policy of the Association of Art Museum Directors has been loosened to allow the limited use of funds from selling art to pay costs of preserving works.",
@@ -10144,6 +10174,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234603871",
+          "author": "Daniel Kreps",
+          "description": "\"Your body is makin’ my penis smile!\" Maroon 5 singer (played by Mikey Day) sexts on \"Send Something Normal\"",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-spoof-adam-levine-armie-hammer-dm-game-show-sketch-1234603871/",
+          "publishedOn": "2022-10-02T16:45:47.000Z",
+          "wordCount": 7071,
+          "title": "Watch ‘SNL’ Spoof Adam Levine’s Sext Scandal in Game Show Sketch",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/snllevine.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603667",
           "author": "William Vaillancourt",
           "description": "Kenan Thompson portrayed the Georgia senate candidate alongside James Austin Johnson as Mitch McConnell.",
@@ -10690,6 +10730,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2415038",
+          "author": "Rebecca Szkutak",
+          "description": "Form Bio was incubated within Colossal Biosciences and now is hoping to bring its workflow systems to other computational biology companies.\nForm Bio says now is the time to launch — despite cooling software sales by Rebecca Szkutak originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/02/form-bio-says-now-is-the-time-to-launch-despite-cooling-software-sales/",
+          "publishedOn": "2022-10-02T17:00:48.000Z",
+          "wordCount": 11829,
+          "title": "Form Bio says now is the time to launch — despite cooling software sales",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1362864834.jpg?resize=1200,840"
+        },
         {
           "id": "https://techcrunch.com/?p=2416156",
           "author": "Manish Singh",
@@ -23686,6 +23736,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/national/ahead-of-trade-deal-uk-firms-urge-india-to-unravel-frustrating-red-tape/article65962894.ece",
+          "author": "Vikas Dhoot",
+          "description": "Fixing legal, tax and regulatory complexities is as critical to boost economic ties as the trade pact, says U.K. India Business Council",
+          "link": "https://www.thehindu.com/news/national/ahead-of-trade-deal-uk-firms-urge-india-to-unravel-frustrating-red-tape/article65962894.ece",
+          "publishedOn": "2022-10-02T15:42:59.000Z",
+          "wordCount": 6673,
+          "title": "Ahead of trade deal, U.K. firms urge India to unravel ‘frustrating’ red tape",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/iy8gwn/article65963808.ece/alternates/LANDSCAPE_615/PTI01_13_2022_000087B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/pak-cabinet-approves-legal-action-against-imran-khan-over-leaked-foreign-conspiracy-cypher-audio-tapes/article65963101.ece",
           "author": "PTI",
           "description": "Pak cabinet approves legal action against Imran Khan over leaked ‘foreign conspiracy’ cypher audios",
@@ -25622,6 +25682,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms",
+          "author": null,
+          "description": "India on Sunday condemned the \"hate crime\" at a park in Canada named after the Bhagavad Gita and urged authorities to take prompt action. A sign with the park's name was allegedly vandalised and officials have ordered a probe, said city Mayor Patrick Brown who confirmed the incident on Twitter.",
+          "link": "https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms",
+          "publishedOn": "2022-10-02T16:48:57.000Z",
+          "wordCount": 6663,
+          "title": "India condemns hate crime at Shri Bhagavad Gita Park in Canada",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94605299,width-1070,height-580,imgsize-915256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rajnath-calls-up-sp-chief-akhilesh-yadav-inquires-about-his-father-mulayam-yadavs-health/articleshow/94605150.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Union minister Rajnath Singh on Sunday called up Samajwadi Party chief Akhilesh Yadav and inquired about his father and party patriarch Mul.",
+          "link": "https://timesofindia.indiatimes.com/india/rajnath-calls-up-sp-chief-akhilesh-yadav-inquires-about-his-father-mulayam-yadavs-health/articleshow/94605150.cms",
+          "publishedOn": "2022-10-02T16:32:46.000Z",
+          "wordCount": 5570,
+          "title": "Rajnath calls up SP chief Akhilesh Yadav, inquires about his father Mulayam Yadav's health",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94605146,width-1070,height-580,imgsize-15824,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: RSS general secretary Dattatreya Hosabale on Sunday expressed concern over unemployment and rising income inequality in the country, assert.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms",
+          "publishedOn": "2022-10-02T16:22:43.000Z",
+          "wordCount": 6095,
+          "title": "RSS expresses concern over unemployment, income inequality; terms poverty as 'demon-like challenge'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94605008,width-1070,height-580,imgsize-31754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/congress-is-neither-indian-nor-national-anymore-j-p-nadda/articleshow/94604681.cms",
           "author": null,
@@ -32593,6 +32683,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms",
+          "author": null,
+          "description": "India on Sunday condemned the \"hate crime\" at a park in Canada named after the Bhagavad Gita and urged authorities to take prompt action. A sign with the park's name was allegedly vandalised and officials have ordered a probe, said city Mayor Patrick Brown who confirmed the incident on Twitter.",
+          "link": "https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms",
+          "publishedOn": "2022-10-02T16:48:57.000Z",
+          "wordCount": 6663,
+          "title": "India condemns 'hate crime' at Bhagavad Gita Park in Canada",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94605299,width-1070,height-580,imgsize-915256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/iaf-to-formally-induct-indigenously-built-light-combat-helicopter-on-monday/articleshow/94603606.cms",
           "author": null,

@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T16:13:33.284Z</updated>
+    <updated>2022-10-02T17:18:51.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Form Bio says now is the time to launch — despite cooling software sales]]></title>
+        <id>https://techcrunch.com/?p=2415038</id>
+        <link href="https://techcrunch.com/2022/10/02/form-bio-says-now-is-the-time-to-launch-despite-cooling-software-sales/"/>
+        <updated>2022-10-02T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Form Bio was incubated within Colossal Biosciences and now is hoping to bring its workflow systems to other computational biology companies.
+Form Bio says now is the time to launch — despite cooling software sales by Rebecca Szkutak originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Szkutak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase paused transactions in US for hours to address bank transfer issues]]></title>
+        <id>https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues</id>
+        <link href="https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues"/>
+        <updated>2022-10-02T16:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Coinbase temporarily stopped transactions for users in the US due to an issue preventing the company from processing withdrawals or deposits involving bank accounts. Problems started around 7AM ET, but the company didn’t resolve the issue until around 12:40PM ET.
+“We are currently unable to take payments or make withdrawals involving US bank accounts. Our team is aware of this issue and is working on getting everything back to normal as soon as possible,” Coinbase explained on its status page, adding that users could still use a debit card or PayPal account to buy crypto.
+We're currently experiencing technical issues creating ACH transfers. Rest assured, your funds are safe. Our team will provide an update here and on our Status Page when full functionality resumes: https://t.co/a3pl4WiDhZ
+— Coinbase Support (@CoinbaseSupport) October 2, 2022
+
+
+
+At the time of the outage, Coinbase said on Twitter that users’ funds are “safe,” before announcing that transactions have been restored about three hours later. The Verge reached out to Coinbase with a request for comment, but didn’t immediately hear back. 
+For the past couple of days, Coinbase users also had to deal with delayed transactions with Solana after its network suffered an outage on Friday. This has been a rough year for Coinbase and crypto in general, as the value of cryptocurrency has taken a nosedive. Coinbase laid off over 1,000 employees in June and is reportedly facing an investigation from the Securities and Exchange Commission.
+Update October 2nd, 12:49PM ET: Updated to add that Coinbase has fixed the issue.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India condemns hate crime at Shri Bhagavad Gita Park in Canada]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms"/>
+        <updated>2022-10-02T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[India on Sunday condemned the "hate crime" at a park in Canada named after the Bhagavad Gita and urged authorities to take prompt action. A sign with the park's name was allegedly vandalised and officials have ordered a probe, said city Mayor Patrick Brown who confirmed the incident on Twitter.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India condemns 'hate crime' at Bhagavad Gita Park in Canada]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-condemns-hate-crime-at-shri-bhagavad-gita-park-in-canada/articleshow/94605222.cms"/>
+        <updated>2022-10-02T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[India on Sunday condemned the "hate crime" at a park in Canada named after the Bhagavad Gita and urged authorities to take prompt action. A sign with the park's name was allegedly vandalised and officials have ordered a probe, said city Mayor Patrick Brown who confirmed the incident on Twitter.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch ‘SNL’ Spoof Adam Levine’s Sext Scandal in Game Show Sketch]]></title>
+        <id>https://www.rollingstone.com/?p=1234603871</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/snl-spoof-adam-levine-armie-hammer-dm-game-show-sketch-1234603871/"/>
+        <updated>2022-10-02T16:45:47.000Z</updated>
+        <summary type="html"><![CDATA["Your body is makin’ my penis smile!" Maroon 5 singer (played by Mikey Day) sexts on "Send Something Normal"]]></summary>
+        <author>
+            <name>Daniel Kreps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajnath calls up SP chief Akhilesh Yadav, inquires about his father Mulayam Yadav's health]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rajnath-calls-up-sp-chief-akhilesh-yadav-inquires-about-his-father-mulayam-yadavs-health/articleshow/94605150.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rajnath-calls-up-sp-chief-akhilesh-yadav-inquires-about-his-father-mulayam-yadavs-health/articleshow/94605150.cms"/>
+        <updated>2022-10-02T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Union minister Rajnath Singh on Sunday called up Samajwadi Party chief Akhilesh Yadav and inquired about his father and party patriarch Mul.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS expresses concern over unemployment, income inequality; terms poverty as 'demon-like challenge']]></title>
+        <id>https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms"/>
+        <updated>2022-10-02T16:22:43.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: RSS general secretary Dattatreya Hosabale on Sunday expressed concern over unemployment and rising income inequality in the country, assert.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama]]></title>
         <id>https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures</id>
@@ -51,6 +135,16 @@ Moonbreaker, available now in early access on Mac and Windows PC via Steam, is t
         <summary type="html"><![CDATA[India News: NEW DELHI: "Nothing can stop us," declared Congress leader Rahul Gandhi on Sunday as he continued to deliver his speech in Karnataka's Mysuru amid a d.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahead of trade deal, U.K. firms urge India to unravel ‘frustrating’ red tape]]></title>
+        <id>https://www.thehindu.com/news/national/ahead-of-trade-deal-uk-firms-urge-india-to-unravel-frustrating-red-tape/article65962894.ece</id>
+        <link href="https://www.thehindu.com/news/national/ahead-of-trade-deal-uk-firms-urge-india-to-unravel-frustrating-red-tape/article65962894.ece"/>
+        <updated>2022-10-02T15:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Fixing legal, tax and regulatory complexities is as critical to boost economic ties as the trade pact, says U.K. India Business Council]]></summary>
+        <author>
+            <name>Vikas Dhoot</name>
         </author>
     </entry>
     <entry>
@@ -2809,6 +2903,16 @@ Shortly after the Japanese broadcast of the first episode of the second half of 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Supreme Court’s Business Docket]]></title>
+        <id>https://www.nytimes.com/2022/10/01/business/dealbook/supreme-court-business-cases.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/business/dealbook/supreme-court-business-cases.html"/>
+        <updated>2022-10-01T14:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Upcoming Supreme Court cases could have big implications for businesses.]]></summary>
+        <author>
+            <name>Adam Liptak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[India's cleanest city has no garbage bins, earns crores of rupees from its waste]]></title>
         <id>https://timesofindia.indiatimes.com/india/indias-cleanest-city-has-no-garbage-bins-earns-crores-of-rupees-from-its-waste/articleshow/94588470.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/indias-cleanest-city-has-no-garbage-bins-earns-crores-of-rupees-from-its-waste/articleshow/94588470.cms"/>
@@ -5302,6 +5406,16 @@ Here’s a l…]]></summary>
 Video game publisher Spike Chunsoft has released a statement to press announcing that its long-planned release of Chaos;Head Noah on Steam has been canceled. Read on for the details.]]></summary>
         <author>
             <name>Humberto Saabedra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photography Our Photo Editors Are Following]]></title>
+        <id>https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html</id>
+        <link href="https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html"/>
+        <updated>2022-09-30T20:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Here are four Instagram accounts to make you stop and look.]]></summary>
+        <author>
+            <name>Jolie Ruben and Amanda Webster</name>
         </author>
     </entry>
     <entry>
