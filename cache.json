@@ -2239,6 +2239,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html",
+          "author": "Austin Ramzy",
+          "description": "These events have prompted major changes. But fatal tramplings still occur, with more than 150 killed in Indonesia on Saturday.",
+          "link": "https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html",
+          "publishedOn": "2022-10-02T08:29:49.000Z",
+          "wordCount": null,
+          "title": "Indonesian Soccer Tragedy Is Latest in History of Stadium Disasters",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/live/2022/10/01/us/hurricane-ian-florida-south-carolina/biden-florida-puerto-rico",
           "author": "Michael D. Shear",
           "description": "Trips on Monday and Wednesday are planned to the sites of the natural disasters.",
@@ -6736,6 +6746,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
+          "author": "Kalley Huang",
+          "description": "Photographers and illustrators who once eagerly shared images of their work on Instagram are moving away from the site as it emphasizes video.",
+          "link": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
+          "publishedOn": "2022-10-02T09:00:16.000Z",
+          "wordCount": null,
+          "title": "A New Refrain From Artists: We ‘Almost Gave Up on Instagram’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/30/science/nick-holonyak-jr-dead.html",
           "author": "Sam Roberts",
           "description": "He invented a visible red-light diode. His 41 patents also included lasers that enabled DVD and CD players.",
@@ -7052,6 +7072,36 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/books/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/02/books/bully-market-jamie-fiore-higgins.html",
+          "author": "Alexandra Jacobs",
+          "description": "In “Bully Market,” Jamie Fiore Higgins describes being seduced, and ultimately repelled, by nearly two high-flying decades at Goldman Sachs.",
+          "link": "https://www.nytimes.com/2022/10/02/books/bully-market-jamie-fiore-higgins.html",
+          "publishedOn": "2022-10-02T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Bully Market:    My Story of Money and Misogyny at Goldman Sachs’ by Jamie Fiore Higgins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/books/review/the-hero-of-this-book-elizabeth-mccracken.html",
+          "author": "Janice Y.K. Lee",
+          "description": "In “The Hero of This Book,” Elizabeth McCracken plays with the usual novelistic conventions.",
+          "link": "https://www.nytimes.com/2022/10/02/books/review/the-hero-of-this-book-elizabeth-mccracken.html",
+          "publishedOn": "2022-10-02T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Book Review, “The Hero of This Book,” by Elizabeth McCracken",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/books/review/jenny-xie-rupture-tense-poems.html",
+          "author": "Srikanth Reddy",
+          "description": "In “The Rupture Tense,” Jenny Xie looks at silence surrounding the Cultural Revolution and explores its lasting impact on her own family.",
+          "link": "https://www.nytimes.com/2022/10/02/books/review/jenny-xie-rupture-tense-poems.html",
+          "publishedOn": "2022-10-02T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘The Rupture Tense,’ by Jenny Xie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
           "author": "Kiersten White",
@@ -7499,6 +7549,26 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
+          "author": "Kalley Huang",
+          "description": "Photographers and illustrators who once eagerly shared images of their work on Instagram are moving away from the site as it emphasizes video.",
+          "link": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
+          "publishedOn": "2022-10-02T09:00:16.000Z",
+          "wordCount": null,
+          "title": "A New Refrain From Artists: We ‘Almost Gave Up on Instagram’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/books/bully-market-jamie-fiore-higgins.html",
+          "author": "Alexandra Jacobs",
+          "description": "In “Bully Market,” Jamie Fiore Higgins describes being seduced, and ultimately repelled, by nearly two high-flying decades at Goldman Sachs.",
+          "link": "https://www.nytimes.com/2022/10/02/books/bully-market-jamie-fiore-higgins.html",
+          "publishedOn": "2022-10-02T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Bully Market:    My Story of Money and Misogyny at Goldman Sachs’ by Jamie Fiore Higgins",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/02/arts/television/snl-miles-teller-kendrick-lamar.html",
           "author": "Dave Itzkoff",
@@ -23316,6 +23386,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/british-pm-liz-truss-says-she-should-have-laid-ground-better-for-economic-plan/article65962229.ece",
+          "author": "Reuters",
+          "description": "Liz Truss said her Cabinet of top ministers was not informed in advance that the government planned to abolish the top rate of tax",
+          "link": "https://www.thehindu.com/news/international/british-pm-liz-truss-says-she-should-have-laid-ground-better-for-economic-plan/article65962229.ece",
+          "publishedOn": "2022-10-02T08:53:21.000Z",
+          "wordCount": 6248,
+          "title": "British PM Liz Truss says she should have laid ground better for economic plan",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/c4g85o/article65962238.ece/alternates/LANDSCAPE_615/2022-10-02T082145Z_653423332_RC2WSW9YTNDU_RTRMADP_3_BRITAIN-POLITICS-CONSERVATIVES.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/national/india-taiwan-need-to-join-hands-to-fend-off-expansion-of-autocracy-taiwanese-envoy/article65962151.ece",
+          "author": "PTI",
+          "description": "The de-facto ambassador said there is a \"gargantuan untapped well of potential\" for cooperation between Taiwan and India",
+          "link": "https://www.thehindu.com/news/national/india-taiwan-need-to-join-hands-to-fend-off-expansion-of-autocracy-taiwanese-envoy/article65962151.ece",
+          "publishedOn": "2022-10-02T08:29:22.000Z",
+          "wordCount": 7014,
+          "title": "India, Taiwan need to join hands to fend off &quot;expansion of autocracy&quot;: Taiwanese Envoy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/jvkitu/article65962180.ece/alternates/LANDSCAPE_615/PTI10_02_2022_000116B.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/brazil-holds-historic-election-with-lula-against-bolsonaro/article65961923.ece",
           "author": "AP",
           "description": "The race pits incumbent President Jair Bolsonaro against his political nemesis, former President Luiz Inácio Lula da Silva",
@@ -25152,6 +25242,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/convenient-for-those-in-power-to-appropriate-gandhis-legacy-but-difficult-to-walk-in-his-footsteps-rahul-gandhi/articleshow/94598431.cms",
+          "author": null,
+          "description": "India News: BADANAVALU: Congress leader Rahul Gandhi on Sunday paid tributes to Mahatma Gandhi on his birth anniversary and said while it is convenient for those .",
+          "link": "https://timesofindia.indiatimes.com/india/convenient-for-those-in-power-to-appropriate-gandhis-legacy-but-difficult-to-walk-in-his-footsteps-rahul-gandhi/articleshow/94598431.cms",
+          "publishedOn": "2022-10-02T08:48:01.000Z",
+          "wordCount": 6031,
+          "title": "Convenient for those in power to appropriate Gandhi's legacy but difficult to walk in his footsteps: Rahul Gandhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598474,width-1070,height-580,imgsize-45216,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/fraud-on-judiciary-in-custody-battle-sc-seeks-cbi-report-on-steps-taken-to-bring-back-kenyan-citizen/articleshow/94598355.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Taking serious note of the “fraud” played upon it by a Kenyan citizen of Indian origin in a custody battle, the Supreme Court has sought a .",
+          "link": "https://timesofindia.indiatimes.com/india/fraud-on-judiciary-in-custody-battle-sc-seeks-cbi-report-on-steps-taken-to-bring-back-kenyan-citizen/articleshow/94598355.cms",
+          "publishedOn": "2022-10-02T08:38:15.000Z",
+          "wordCount": 7039,
+          "title": "Fraud on judiciary in custody battle; SC seeks CBI report on steps taken to bring back Kenyan citizen",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598345,width-1070,height-580,imgsize-15598,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/entered-congress-president-poll-race-to-strengthen-party-mallikarjun-kharge/articleshow/94597995.cms",
+          "author": null,
+          "description": "Congress presidential polls candidate Mallikarjun Kharge on Sunday said he has not entered the polls to oppose anyone but to strengthen the party. He also rejected suggestions that the Gandhi family was backing him. Kharge said that in line with 'one person, one post' principle of the party, he resigned as leader of opposition in Rajya Sabha on the day he filed the nomination.",
+          "link": "https://timesofindia.indiatimes.com/india/entered-congress-president-poll-race-to-strengthen-party-mallikarjun-kharge/articleshow/94597995.cms",
+          "publishedOn": "2022-10-02T08:16:04.000Z",
+          "wordCount": 6261,
+          "title": "Entered Congress president poll race to strengthen party: Mallikarjun Kharge",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598035,width-1070,height-580,imgsize-23070,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-taiwan-need-to-join-hands-to-fend-off-expansion-of-autocracy-taiwanese-envoy/articleshow/94597220.cms",
           "author": null,
@@ -29690,6 +29810,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/explainer-what-is-at-stake-in-bosnias-general-election/articleshow/94598441.cms",
+          "author": null,
+          "description": "Europe News: SARAJEVO: Bosnia is holding presidential and parliamentary elections on Sunday amid its worst political crisis since the end of the 1992-95 war.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/explainer-what-is-at-stake-in-bosnias-general-election/articleshow/94598441.cms",
+          "publishedOn": "2022-10-02T08:45:52.000Z",
+          "wordCount": 9100,
+          "title": "Explainer: What is at stake in Bosnia's general election?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598433,width-1070,height-580,imgsize-53684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-awaits-unfreezing-of-7-bn-after-releasing-americans/articleshow/94598403.cms",
+          "author": null,
+          "description": "Middle East News: TEHRAN: Iran is awaiting the release of about $7 billion in funds frozen abroad, state media said Sunday, after it allowed an Iranian-American to leav.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-awaits-unfreezing-of-7-bn-after-releasing-americans/articleshow/94598403.cms",
+          "publishedOn": "2022-10-02T08:42:21.000Z",
+          "wordCount": 7256,
+          "title": "Iran says awaits unfreezing of $7 bn after releasing Americans",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598398,width-1070,height-580,imgsize-52366,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/uk/uk-pm-truss-says-cabinet-was-not-informed-of-plans-to-scrap-top-rate-of-tax/articleshow/94598284.cms",
+          "author": null,
+          "description": "On the first day of her governing Conservative Party's annual conference, Truss, in power for less than a month, adopted a softer tone by trying to reassure the public she would look after them during a difficult winter and beyond.",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-pm-truss-says-cabinet-was-not-informed-of-plans-to-scrap-top-rate-of-tax/articleshow/94598284.cms",
+          "publishedOn": "2022-10-02T08:32:56.000Z",
+          "wordCount": 6307,
+          "title": "Truss says she should have laid ground better for economic plan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598279,width-1070,height-580,imgsize-20692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-should-be-tried-under-official-secrets-act-maryam-nawaz/articleshow/94597859.cms",
           "author": null,
           "description": "Pakistan News: LAHORE: Pakistan Muslim League-Nawaz PML-N leaders said that PTI Chairman Imran Khan should be tried under the Official Secrets Act for stealing a cip.",
@@ -31824,6 +31974,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ponniyin-selvan-i-hindi-box-office-collection-day-2-mani-ratnams-period-drama-records-a-huge-jump/articleshow/94598021.cms",
+          "author": null,
+          "description": "‘Ponniyin Selvan: I’ Hindi is off to a flying start at the box office. While the original Tamil epic is minting huge money, the dubbed Hindi version has also recorded a huge jump in collection.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ponniyin-selvan-i-hindi-box-office-collection-day-2-mani-ratnams-period-drama-records-a-huge-jump/articleshow/94598021.cms",
+          "publishedOn": "2022-10-02T08:12:06.000Z",
+          "wordCount": 8750,
+          "title": "‘Ponniyin Selvan: I’ Hindi box office collection day 2",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94598012,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-151538/94598012.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-a-deadly-crush-at-an-indonesia-football-match-unfolded/articleshow/94597117.cms",
           "author": null,
           "description": "At least 174 people were killed and around 180 injured at a football match in Indonesia after panicked fans were trampled and crushed trying to flee during a riot, authorities said on Sunday.",
@@ -32242,6 +32402,16 @@
           "wordCount": 6014,
           "title": "Auto sales on fast track, hit record monthly high in Sept",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94591240,width-1070,height-580,imgsize-85606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-02-october-2022/liveblog/94590808.cms",
+          "author": null,
+          "description": "Shashi Tharoor has formalised his candidature for the Congress president election by filing his nomination. Digvijaya Singh has dropped out of the race and will be supporting Mallikarjun Kharge for the top post. However the chances of more party leaders joining the fray cannot be ruled out. Also, the party is yet to decisively settle the question of of leadership in Rajasthan. Stay with TOI for all updates",
+          "link": "https://timesofindia.indiatimes.com/india/congress-president-election-live-updates-02-october-2022/liveblog/94590808.cms",
+          "publishedOn": "2022-10-01T18:35:00.000Z",
+          "wordCount": 9174,
+          "title": "Live: 'Entered race to strengthen party', says Kharge",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94590808,width-1070,height-580,imgsize-1406328,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ponniyin-selvan-records-a-bigger-opening-at-the-ticket-window-than-brahmastra/articleshow/94590169.cms",
