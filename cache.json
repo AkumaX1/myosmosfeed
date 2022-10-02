@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta",
+          "author": null,
+          "description": "Nick Barclay / The Verge\n    \n\n  \nAs if buying a used car isn’t hard enough, the misleading dealership listings that clutter up selling platforms like Facebook Marketplace and OfferUp don’t make things any easier. In an update first spotted by a user on Reddit, Meta announced that it’s limiting dealerships’ ability to list cars on Marketplace, but this likely doesn’t mean those pesky listings will disappear for good (via Jalopnik).\nIf you’ve ever shopped for a used car online, you probably know the kinds of dealership listings I’m talking about. They often show only a car’s required down payment, or — even more annoyingly — list vehicles at $1 in an attempt to grab your attention.\nBut starting January 30th, 2023, dealerships will run into a roadblock when trying to post a used car for sale…",
+          "link": "https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta",
+          "publishedOn": "2022-10-02T21:45:36.000Z",
+          "wordCount": 7023,
+          "title": "A new Facebook Marketplace rule could make it harder to find legit car listings",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/xbusn2jobNBmab9ZjaKvMlVqaEU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951347/STK040_VRG_Illo_N_Barclay_1_facebook.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022",
           "author": null,
           "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nTesla delivered a record 343,830 vehicles in the third quarter of 2022, a sign that the Elon Musk-owned company has bounced back from a slower second quarter related to COVID-related factory shutdowns. \nIn a report on the automaker’s site, Tesla says the Model S and X made up 18,672 of its quarterly deliveries, while the Model 3 and Y accounted for 325,158. Tesla made a total of 365,923 cars during the quarter, leaving about 20,000 cars in its inventory.\nThe automaker clarifies that some of these electric vehicles (EVs) were “in transit at the end of the quarter,” adding that they “have been ordered and will be delivered to customers upon arrival at their destination.” Tesla also notes that it had been difficult to “secure vehicle transportation capacity and at a reasonable cost during these peak logistics weeks,” which is why some of the EVs still haven't been delivered. Last year, Musk told employees to stop rushing to increase quarterly deliveries and to instead focus on minimizing costs related to transit.\nTesla ended its two-year streak of record-breaking deliveries last quarter after its Shanghai factory suffered a series of closures stemming from the city’s COVID lockdown restrictions. At the time, the company delivered 254,695 vehicles, its lowest since the third quarter of 2021. Tesla was able to dial up production this quarter now that Shanghai is no longer under lockdown, and the new Gigafactories in Texas and Berlin have started production (despite a cardboard fire). \nDuring Tesla’s AI Day event last week, the company announced that 160,000 Tesla drivers now have access to its Full Self Driving beta, the driver-assist software that’s currently the center of two lawsuits. The California DMV and a Tesla owner both accuse the company of making misleading statements about the software’s self-driving capabilities.",
@@ -2269,6 +2279,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/us/migrants-marthas-vineyard-desantis-texas.html",
+          "author": "Edgar Sandoval, Miriam Jordan, Patricia Mazzei and J. David Goodman",
+          "description": "Asylum seekers in Texas were recruited for the flights by a woman who appeared to be a former Army counterintelligence agent. “We were tricked,” one migrant said.",
+          "link": "https://www.nytimes.com/2022/10/02/us/migrants-marthas-vineyard-desantis-texas.html",
+          "publishedOn": "2022-10-02T21:20:28.000Z",
+          "wordCount": null,
+          "title": "The Story Behind DeSantis’s Migrant Flights to Martha’s Vineyard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/opinion/ginni-clarence-thomas.html",
           "author": "Charles M. Blow",
           "description": "Clarence and Ginni Thomas are Mr. and Mrs. Mutiny.",
@@ -3176,6 +3196,16 @@
           "publishedOn": "2022-09-30T16:01:49.000Z",
           "wordCount": null,
           "title": "Billion-dollar disasters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/dining/fall-bean-soup.html",
+          "author": "David Tanis",
+          "description": "Packed with squash and greens, it anchors a menu from David Tanis that’s perfectly autumnal and best made in advance.",
+          "link": "https://www.nytimes.com/2022/09/30/dining/fall-bean-soup.html",
+          "publishedOn": "2022-09-30T15:56:39.000Z",
+          "wordCount": null,
+          "title": "This Hearty Bean Soup Gets Only Better With Time",
           "imageUrl": null
         },
         {
@@ -14118,6 +14148,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "v7vyj9",
+          "author": "Annabel Gat",
+          "description": "The moon is in Capricorn.",
+          "link": "https://www.vice.com/en_us/article/v7vyj9/daily-horoscope-october-3-2022",
+          "publishedOn": "2022-10-02T21:00:00.000Z",
+          "wordCount": 4808,
+          "title": "Daily Horoscope: October 3, 2022",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/63387d885d8eb6009b3873d1/lede/1664646548770-7libradaily71920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/63387d885d8eb6009b3873d1/lede/1664646548770-7libradaily71920x1080.jpeg"
+        },
+        {
+          "id": "v7vyp3",
+          "author": "Randon Rosenbohm",
+          "description": "The full moon in Aries is ready to rumble.",
+          "link": "https://www.vice.com/en_us/article/v7vyp3/weekly-horoscope-october-3-9",
+          "publishedOn": "2022-10-02T21:00:00.000Z",
+          "wordCount": 7711,
+          "title": "Weekly Horoscope: October 3 - 9",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/6335d72b6475d10095c177c4/lede/1664472890889-7libradaily11920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/6335d72b6475d10095c177c4/lede/1664472890889-7libradaily11920x1080.jpeg"
+        },
+        {
           "id": "akenqb",
           "author": "Annabel Gat",
           "description": "The moon enters Capricorn and Mercury retrograde ends.",
@@ -23876,6 +23936,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/pakistan-court-grants-interim-bail-to-imran-khan/article65964174.ece",
+          "author": "PTI",
+          "description": "Hours after a speech, Imran Khan was booked for threatening police, judiciary and other state institutions at his rally",
+          "link": "https://www.thehindu.com/news/international/pakistan-court-grants-interim-bail-to-imran-khan/article65964174.ece",
+          "publishedOn": "2022-10-02T19:03:02.000Z",
+          "wordCount": 5929,
+          "title": "Pakistan court grants interim bail to former PM Imran Khan",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/2girvv/article65964184.ece/alternates/LANDSCAPE_615/2022-09-22T121425Z_1899535102_RC29MW9I1YUK_RTRMADP_3_PAKISTAN-POLITICS-KHAN.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/explained-the-rise-of-the-far-right-in-italy/article65964161.ece",
           "author": "Padmashree  Anandan",
           "description": "How did the Brothers of Italy, a party formed only in 2012, gain such popular support? What are the factors which led to its rise to power? How is the European Union looking at the developments in the country, known for its political volatility?",
@@ -25833,6 +25903,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/rss-leader-flags-poverty-lack-of-jobs-inequality/articleshow/94606697.cms",
+          "author": null,
+          "description": "RSS general secretary Dattatreya Hosabale on Sunday said unemployment, poverty and economic inequality which have challenged India as demons for decades are persisting as problems despite the country having emerged as the sixth largest economy in the world.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-leader-flags-poverty-lack-of-jobs-inequality/articleshow/94606697.cms",
+          "publishedOn": "2022-10-02T21:23:38.000Z",
+          "wordCount": 6787,
+          "title": "RSS leader flags poverty, lack of jobs, inequality",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607001,width-1070,height-580,imgsize-24516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/3-let-men-plotting-to-attack-dussehra-rallies-saffron-leaders-held/articleshow/94606950.cms",
+          "author": null,
+          "description": "Telangana police arrested on Sunday three Hyderabad natives and suspected Lashkar-e-Taiba operatives who officers said had allegedly planned to bomb Dasara or Dussehra processions in the city, launch ISIS-inspired lone-wolf attacks this festive season, and “hurl grenades” at Sangh and BJP meetings.",
+          "link": "https://timesofindia.indiatimes.com/india/3-let-men-plotting-to-attack-dussehra-rallies-saffron-leaders-held/articleshow/94606950.cms",
+          "publishedOn": "2022-10-02T20:58:11.000Z",
+          "wordCount": 7053,
+          "title": "3 LeT men plotting to attack Dussehra rallies & saffron leaders held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606953,width-1070,height-580,imgsize-63340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/congress-presidential-poll-wanted-consensus-shashi-tharoor-insisted-on-contest-says-mallikarjun-kharge/articleshow/94606698.cms",
           "author": null,
           "description": "As his underdog rival in the Congress presidential poll Shashi Tharoor sought a public debate on their visions, Mallikarjun Kharge, the frontrunner and putative successor to Sonia Gandhi, steered clear of the demand, saying the need of the hour is to fight RSS-BJP, and not each other.",
@@ -25861,6 +25951,16 @@
           "wordCount": 5851,
           "title": "2 ex-ministers, 4 MPs & G23 neta among Shashi Tharoor backers",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94606768,width-1070,height-580,imgsize-56694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "author": null,
+          "description": "PM Modi will address on October 11 the second United Nations World Geospatial Information Congress (UNWGIC), which is scheduled to start in Hyderabad from October 10 and will go on till October 14. The international conference, convened by the UN committee of experts on global geospatial information management and hosted by the Department of Science & Technology, will be attended by over 2,000 delegates, including 700-plus delegates from about 120 countries.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "publishedOn": "2022-10-02T19:12:28.000Z",
+          "wordCount": 6367,
+          "title": "PM Modi to address UN World Geospatial Congress in Hyderabad on October 11",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606503,width-1070,height-580,imgsize-61534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
@@ -32357,6 +32457,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-contestants-list-with-photos-confirmed-list-of-contestants-of-bigg-boss-marathi-season-4/articleshow/94595845.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-contestants-list-with-photos-confirmed-list-of-contestants-of-bigg-boss-marathi-season-4/articleshow/94595845.cms",
+          "publishedOn": "2022-10-02T17:34:09.000Z",
+          "wordCount": null,
+          "title": "Bigg Boss Marathi 4 contestants list",
+          "imageUrl": null
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-125-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
           "author": null,
           "description": "Panic at an Indonesian football match Saturday left 125 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
@@ -32367,6 +32477,26 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-tragedy-how-a-deadly-crush-erupted-at-football-match/articleshow/94596431.cms",
+          "author": null,
+          "description": "In what appears to be one of the world's worst stadium disasters, more than 300 people were rushed to nearby hospitals, but many died on the way or in treatment.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-tragedy-how-a-deadly-crush-erupted-at-football-match/articleshow/94596431.cms",
+          "publishedOn": "2022-10-02T11:53:36.000Z",
+          "wordCount": 15996,
+          "title": "Indonesia stadium tragedy: How a deadly crush erupted at football match",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94597814,width-1070,height-580,imgsize-104482,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/suzlon-group-cmd-tulsi-tanti-dies-of-cardiac-arrest/articleshow/94594636.cms",
+          "author": null,
+          "description": "The 64-year-old entrepreneur from Rajkot is survived by his children, Nidhi Tanti, and Pranav Tanti. He operated his business from Ahmedabad and has settled in Pune since 2004.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/suzlon-group-cmd-tulsi-tanti-dies-of-cardiac-arrest/articleshow/94594636.cms",
+          "publishedOn": "2022-10-02T09:13:01.000Z",
+          "wordCount": 6406,
+          "title": "Suzlon Group CMD, Tulsi Tanti dies of cardiac arrest",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94594661,width-1070,height-580,imgsize-60234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-174-dead-after-riot-at-indonesia-football-match/articleshow/94592967.cms",
           "author": null,
           "description": "Panic at an Indonesian soccer match Saturday left 174 dead, most of whom were trampled to death after police fired tear gas to dispel riots, making it one of the deadliest sports events in the world. Riots broke out after the game ended Saturday evening with host Arema FC of East Java's Malang city losing to Persebaya of Surabaya 3-2.",
@@ -32375,6 +32505,16 @@
           "wordCount": 19419,
           "title": "Indonesia soccer tragedy: Death toll after riots climb to 174, with more than 100 injured",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94592960,width-1070,height-580,imgsize-84930,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-contestant-sajid-khan-reveals-success-and-his-arrogance-destroyed-him-says-my-credit-on-housefull-4-was-taken-away-from-me/articleshow/94592872.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-16-contestant-sajid-khan-reveals-success-and-his-arrogance-destroyed-him-says-my-credit-on-housefull-4-was-taken-away-from-me/articleshow/94592872.cms",
+          "publishedOn": "2022-10-02T03:30:00.000Z",
+          "wordCount": null,
+          "title": "Bigg Boss 16 contestant Sajid Khan reveals 'success and his arrogance destroyed him'; says 'My credit on Housefull 4 was taken away from me'",
+          "imageUrl": null
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/us-extends-green-card-validity-extension-to-24-months/articleshow/94583675.cms",
@@ -32687,6 +32827,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94452868,width-1070,height-580,imgsize-152908,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/spotlight/meet-the-drapers-season-5-begins-its-epic-hunt-for-the-next-global-unicorn-its-time-to-vote-for-your-favourites/articleshow/94397003.cms",
+          "author": null,
+          "description": "Meet the Drapers Season 5 begins its epic hunt for the next global unicorn! It’s time to vote for your favourites!",
+          "link": "https://timesofindia.indiatimes.com/spotlight/meet-the-drapers-season-5-begins-its-epic-hunt-for-the-next-global-unicorn-its-time-to-vote-for-your-favourites/articleshow/94397003.cms",
+          "publishedOn": "2022-09-27T05:33:19.000Z",
+          "wordCount": 4240,
+          "title": "Meet the Drapers Season 5 begins its epic hunt for the next global unicorn! It’s time to vote for your favourites!",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94397120,width-1070,height-580,imgsize-135022,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-27-september-2022-check-astrological-prediction-for-virgo-libra-scorpio-sagittarius-and-other-signs/articleshow/94419835.cms",
           "author": null,
           "description": "The daily horoscope is determined by the position of the moon and sun. A person’s personality is determined by the traits and characteristics given in his horoscope. How would you feel if you come to know what’s going to happen throughout the whole day before starting your day in the morning? Horoscopes give us a hint about all the things that we are going to face for the entire day.",
@@ -32944,6 +33094,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/city/patna/bihar-minister-who-hit-out-at-nitish-forced-to-resign/articleshow/94607005.cms",
+          "author": null,
+          "description": "Bihar agriculture minister Sudhakar Singh, whose pot-shots caused much embarrassment to the Grand Alliance (GA) government in general and CM Nitish Kumar in particular, resigned on Sunday, the second RJD minister to leave since September. Top sources said Sudhakar was forced to leave. “He didn’t resign on his own. Rather, he was forced to resign due to pressure from the chief minister,” said a source, requesting anonymity.",
+          "link": "https://timesofindia.indiatimes.com/city/patna/bihar-minister-who-hit-out-at-nitish-forced-to-resign/articleshow/94607005.cms",
+          "publishedOn": "2022-10-02T21:30:15.000Z",
+          "wordCount": 6663,
+          "title": "Bihar minister who hit out at Nitish ‘forced to resign’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607007,width-1070,height-580,imgsize-45066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rss-leader-flags-poverty-lack-of-jobs-inequality/articleshow/94606697.cms",
+          "author": null,
+          "description": "RSS general secretary Dattatreya Hosabale on Sunday said unemployment, poverty and economic inequality which have challenged India as demons for decades are persisting as problems despite the country having emerged as the sixth largest economy in the world.",
+          "link": "https://timesofindia.indiatimes.com/india/rss-leader-flags-poverty-lack-of-jobs-inequality/articleshow/94606697.cms",
+          "publishedOn": "2022-10-02T21:23:38.000Z",
+          "wordCount": 6787,
+          "title": "RSS leader flags poverty, lack of jobs, inequality",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607001,width-1070,height-580,imgsize-24516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-qr-code-to-check-if-medicines-are-fake/articleshow/94606975.cms",
+          "author": null,
+          "description": "In the first phase, 300 top selling drugs will print or affix barcodes or quick response (QR) codes on their ‘primary’ packaging labels. Primary is the first-level product packaging, such as the bottle, can, jar or tube that contains the saleable items. Widely sold antibiotics, cardiac, pain-relief pills and anti-allergics with an MRP of over Rs 100 per strip are expected to be included.",
+          "link": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-qr-code-to-check-if-medicines-are-fake/articleshow/94606975.cms",
+          "publishedOn": "2022-10-02T21:15:03.000Z",
+          "wordCount": 6310,
+          "title": "Coming soon: QR code to check if medicines are fake",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606990,width-1070,height-580,imgsize-30016,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/3-let-men-plotting-to-attack-dussehra-rallies-saffron-leaders-held/articleshow/94606950.cms",
+          "author": null,
+          "description": "Telangana police arrested on Sunday three Hyderabad natives and suspected Lashkar-e-Taiba operatives who officers said had allegedly planned to bomb Dasara or Dussehra processions in the city, launch ISIS-inspired lone-wolf attacks this festive season, and “hurl grenades” at Sangh and BJP meetings.",
+          "link": "https://timesofindia.indiatimes.com/india/3-let-men-plotting-to-attack-dussehra-rallies-saffron-leaders-held/articleshow/94606950.cms",
+          "publishedOn": "2022-10-02T20:58:11.000Z",
+          "wordCount": 7053,
+          "title": "3 LeT men plotting to attack Dussehra rallies & saffron leaders held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606953,width-1070,height-580,imgsize-63340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2nd-worst-football-stadium-disaster-125-killed-in-indonesia/articleshow/94606837.cms",
           "author": null,
           "description": "At least 125 people were killed and more than 320 injured in a stampede at a football stadium in Indonesia on Saturday as police sought to quell violence on the pitch with tear gas, making it one of the world’s worst stadium disasters. Fans of the losing home side invaded the pitch after the final whistle and clashed with police, until the tear gas sparked a chaotic scramble for the exits.",
@@ -32962,6 +33152,16 @@
           "wordCount": 7167,
           "title": "Congress prez poll: Wanted consensus, Tharoor insisted on contest, says Kharge",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94606742,width-1070,height-580,imgsize-46916,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "author": null,
+          "description": "PM Modi will address on October 11 the second United Nations World Geospatial Information Congress (UNWGIC), which is scheduled to start in Hyderabad from October 10 and will go on till October 14. The international conference, convened by the UN committee of experts on global geospatial information management and hosted by the Department of Science & Technology, will be attended by over 2,000 delegates, including 700-plus delegates from about 120 countries.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "publishedOn": "2022-10-02T19:12:28.000Z",
+          "wordCount": 6367,
+          "title": "PM to address UN World Geospatial Congress in Hyd on Oct 11",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606503,width-1070,height-580,imgsize-61534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms",
