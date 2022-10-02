@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T18:12:21.044Z</updated>
+    <updated>2022-10-02T19:10:36.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Bros’ Fails at the Box Office, as ‘Smile’ Arrives at No. 1]]></title>
+        <id>https://www.nytimes.com/2022/10/02/movies/bros-smile-box-office.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/movies/bros-smile-box-office.html"/>
+        <updated>2022-10-02T19:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Promoted as the first gay romantic comedy from a major studio, “Bros” sold $4.8 million in tickets, about 40 percent less than expected.]]></summary>
+        <author>
+            <name>Brooks Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahead of Amit Shah's visit, Jammu and Kashmir cops crack Udhampur twin blasts case, one terrorist held]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-jammu-and-kashmir-cops-crack-udhampur-twin-blasts-case-one-terrorist-held/articleshow/94606319.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-jammu-and-kashmir-cops-crack-udhampur-twin-blasts-case-one-terrorist-held/articleshow/94606319.cms"/>
+        <updated>2022-10-02T18:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of Union home minister Amit Shah’s two-day Kashmir visit starting October 4, the J&K Police cracked the twin Udhampur bus blasts case by arresting a Lashkar-e-Taiba terrorist along with IEDs, sticky bombs and other explosive materials. Udhampur was rocked by two blasts in as many parked buses within a gap of eight hours on September 28 and 29, injuring two people.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2nd T20I: David Miller ton in vain as India clinch series against South Africa]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms"/>
+        <updated>2022-10-02T18:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Indian batters were at their ruthless best with Suryakumar and opener Rahul leading the charge as they defeated South Africa by 16 runs despite David Miller's unbeaten century in the second T20I to clinch the 3-match series. Rahul (57 off 28) and Surya toyed (61 off 22) the Proteas attack with sensational fifties as the Indian top-four batters once again put up a superlative display to post 237/3. Chasing a massive target, the South Africans finished at 237 for 3 in their 20 overs.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Despite the venture slowdown, fintech startups are still hiring]]></title>
         <id>https://techcrunch.com/?p=2414708</id>
@@ -15,6 +45,15 @@
 Despite the venture slowdown, fintech startups are still hiring by Mary Ann Azevedo originally published on TechCrunch]]></summary>
         <author>
             <name>Mary Ann Azevedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida Residents Pick Up The Pieces After Hurricane Ian]]></title>
+        <id>https://www.nytimes.com/2022/10/02/us/florida-home-damage-hurricane-ian.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/us/florida-home-damage-hurricane-ian.html"/>
+        <updated>2022-10-02T18:05:49.000Z</updated>
+        <author>
+            <name>Nicholas Bogel-Burroughs</name>
         </author>
     </entry>
     <entry>
@@ -621,6 +660,16 @@ Mancur Olson’s The Rise and Decline of Nations shows how small groups can unde
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How the U.K. Finance Minister Came to Ignore Finance Experts]]></title>
+        <id>https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html"/>
+        <updated>2022-10-02T11:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Kwasi Kwarteng, the chancellor of the Exchequer, faces widespread anger over the tax cuts he and Liz Truss have pushed, but their history of dismissing the economic establishment goes back years.]]></summary>
+        <author>
+            <name>Stephen Castle</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A choice between two heavyweights]]></title>
         <id>https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html</id>
         <link href="https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html"/>
@@ -1020,6 +1069,16 @@ Whether you've had a chance to watch the first episode of Pop Team Epic season 2
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eliud Kipchoge Had an Unexpected Hand in His Record-Setting Runs]]></title>
+        <id>https://www.nytimes.com/2022/10/02/sports/eliud-kipchoge-bottle-claus.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/sports/eliud-kipchoge-bottle-claus.html"/>
+        <updated>2022-10-02T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Eliud Kipchoge, the world’s greatest marathoner, has an unlikely partner in his world-record-setting marathon runs: a course volunteer who is responsible for handing him nutrition.]]></summary>
+        <author>
+            <name>Austin Meyer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Book Review, “The Hero of This Book,” by Elizabeth McCracken]]></title>
         <id>https://www.nytimes.com/2022/10/02/books/review/the-hero-of-this-book-elizabeth-mccracken.html</id>
         <link href="https://www.nytimes.com/2022/10/02/books/review/the-hero-of-this-book-elizabeth-mccracken.html"/>
@@ -1237,6 +1296,16 @@ Whether you've had a chance to watch the first episode of Pop Team Epic season 2
         <summary type="html"><![CDATA[As a teenage football prodigy, Mr. Walker was pressed to join a fight for civil rights in his hometown. His decision echoes decades later.]]></summary>
         <author>
             <name>John Branch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Protests Fueled by Sickly Economy]]></title>
+        <id>https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html"/>
+        <updated>2022-10-02T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.]]></summary>
+        <author>
+            <name>Vivian Yee and Farnaz Fassihi</name>
         </author>
     </entry>
     <entry>

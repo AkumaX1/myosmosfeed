@@ -2269,6 +2269,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/us/florida-home-damage-hurricane-ian.html",
+          "author": "Nicholas Bogel-Burroughs",
+          "description": "",
+          "link": "https://www.nytimes.com/2022/10/02/us/florida-home-damage-hurricane-ian.html",
+          "publishedOn": "2022-10-02T18:05:49.000Z",
+          "wordCount": null,
+          "title": "Florida Residents Pick Up The Pieces After Hurricane Ian",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/live/2022/10/02/us/hurricane-ian-florida-south-carolina/florida-home-damage-hurricane-ian",
           "author": "Nicholas Bogel-Burroughs",
           "description": "",
@@ -2306,6 +2316,16 @@
           "publishedOn": "2022-10-02T13:15:02.000Z",
           "wordCount": null,
           "title": "Why the Music of Rich Mullins Endures, 25 Years After His Death",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html",
+          "author": "Stephen Castle",
+          "description": "Kwasi Kwarteng, the chancellor of the Exchequer, faces widespread anger over the tax cuts he and Liz Truss have pushed, but their history of dismissing the economic establishment goes back years.",
+          "link": "https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html",
+          "publishedOn": "2022-10-02T11:42:03.000Z",
+          "wordCount": null,
+          "title": "How the U.K. Finance Minister Came to Ignore Finance Experts",
           "imageUrl": null
         },
         {
@@ -2409,6 +2429,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/10/02/sports/eliud-kipchoge-bottle-claus.html",
+          "author": "Austin Meyer",
+          "description": "Eliud Kipchoge, the world’s greatest marathoner, has an unlikely partner in his world-record-setting marathon runs: a course volunteer who is responsible for handing him nutrition.",
+          "link": "https://www.nytimes.com/2022/10/02/sports/eliud-kipchoge-bottle-claus.html",
+          "publishedOn": "2022-10-02T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Eliud Kipchoge Had an Unexpected Hand in His Record-Setting Runs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/world/asia/worst-soccer-deaths.html",
           "author": "Austin Ramzy",
           "description": "These events have prompted major changes. But fatal tramplings still occur, with more than 150 killed in Indonesia on Saturday.",
@@ -2426,6 +2456,16 @@
           "publishedOn": "2022-10-02T07:00:23.000Z",
           "wordCount": null,
           "title": "The Racial Divide Herschel Walker Couldn’t Outrun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html",
+          "author": "Vivian Yee and Farnaz Fassihi",
+          "description": "The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.",
+          "link": "https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html",
+          "publishedOn": "2022-10-02T07:00:13.000Z",
+          "wordCount": null,
+          "title": "Iran Protests Fueled by Sickly Economy",
           "imageUrl": null
         },
         {
@@ -7779,6 +7819,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/02/movies/bros-smile-box-office.html",
+          "author": "Brooks Barnes",
+          "description": "Promoted as the first gay romantic comedy from a major studio, “Bros” sold $4.8 million in tickets, about 40 percent less than expected.",
+          "link": "https://www.nytimes.com/2022/10/02/movies/bros-smile-box-office.html",
+          "publishedOn": "2022-10-02T19:02:19.000Z",
+          "wordCount": null,
+          "title": "‘Bros’ Fails at the Box Office, as ‘Smile’ Arrives at No. 1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
           "author": "Kalley Huang",
@@ -25763,6 +25813,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-jammu-and-kashmir-cops-crack-udhampur-twin-blasts-case-one-terrorist-held/articleshow/94606319.cms",
+          "author": null,
+          "description": "Ahead of Union home minister Amit Shah’s two-day Kashmir visit starting October 4, the J&K Police cracked the twin Udhampur bus blasts case by arresting a Lashkar-e-Taiba terrorist along with IEDs, sticky bombs and other explosive materials. Udhampur was rocked by two blasts in as many parked buses within a gap of eight hours on September 28 and 29, injuring two people.",
+          "link": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-jammu-and-kashmir-cops-crack-udhampur-twin-blasts-case-one-terrorist-held/articleshow/94606319.cms",
+          "publishedOn": "2022-10-02T18:52:35.000Z",
+          "wordCount": 6927,
+          "title": "Ahead of Amit Shah's visit, Jammu and Kashmir cops crack Udhampur twin blasts case, one terrorist held",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606342,width-1070,height-580,imgsize-117496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/opinion-poll-predicts-bjps-win-with-thumping-majority-in-gujarat-polls-aap-to-get-maximum-2-seats/articleshow/94605817.cms",
           "author": null,
           "description": "An opinion poll released on Sunday predicted the Bharatiya Janata Party's victory with a thumping majority in the Gujarat Assembly polls, due later this year, for a record seventh time by bagging 135-143 seats.According to the opinion poll conducted by ABP News-CVoter, the vote share of BJP and Congress will decrease. The Aam Aadmi Party (AAP) can gain a significant vote share but it will hardly get one or two seats in the 182-member House.",
@@ -32793,6 +32853,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms",
+          "author": null,
+          "description": "Indian batters were at their ruthless best with Suryakumar and opener Rahul leading the charge as they defeated South Africa by 16 runs despite David Miller's unbeaten century in the second T20I to clinch the 3-match series. Rahul (57 off 28) and Surya toyed (61 off 22) the Proteas attack with sensational fifties as the Indian top-four batters once again put up a superlative display to post 237/3. Chasing a massive target, the South Africans finished at 237 for 3 in their 20 overs.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-2nd-t20i-highlights-david-miller-ton-in-vain-as-india-clinch-t20i-series-against-south-africa/articleshow/94606057.cms",
+          "publishedOn": "2022-10-02T18:09:48.000Z",
+          "wordCount": 6579,
+          "title": "2nd T20I: David Miller ton in vain as India clinch series against South Africa",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606077,width-1070,height-580,imgsize-68504,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://photogallery.indiatimes.com/fashion/indian-shows/bombay-times-fashion-week-2022-day-3-streax-professional-times-india-hair-style-icon-finale-collection-by-abhishek-sharma/articleshow/94605373.cms?ref=toi",
           "author": null,
