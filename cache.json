@@ -2269,6 +2269,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/opinion/ginni-clarence-thomas.html",
+          "author": "Charles M. Blow",
+          "description": "Clarence and Ginni Thomas are Mr. and Mrs. Mutiny.",
+          "link": "https://www.nytimes.com/2022/10/02/opinion/ginni-clarence-thomas.html",
+          "publishedOn": "2022-10-02T19:00:05.000Z",
+          "wordCount": null,
+          "title": "America Has a Ginni Thomas Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/us/florida-home-damage-hurricane-ian.html",
           "author": "Nicholas Bogel-Burroughs",
           "description": "",
@@ -2296,6 +2306,16 @@
           "publishedOn": "2022-10-02T17:20:46.000Z",
           "wordCount": null,
           "title": "Fans Focus on Police After More Than 100 Die at Indonesian Soccer Match",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/us/politics/congress-stock-trading.html",
+          "author": "Blake Hounshell and Kate Kelly",
+          "description": "The perception that lawmakers are cashing in on their offices has fueled cynicism among voters. Some politicians want to take the current limits further.",
+          "link": "https://www.nytimes.com/2022/09/30/us/politics/congress-stock-trading.html",
+          "publishedOn": "2022-10-02T15:31:29.000Z",
+          "wordCount": null,
+          "title": "Democrats in Congress Point Fingers at Their Leaders Over Stock Trading Ban",
           "imageUrl": null
         },
         {
@@ -25813,6 +25833,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "author": null,
+          "description": "PM Modi will address on October 11 the second United Nations World Geospatial Information Congress (UNWGIC), which is scheduled to start in Hyderabad from October 10 and will go on till October 14. The international conference, convened by the UN committee of experts on global geospatial information management and hosted by the Department of Science & Technology, will be attended by over 2,000 delegates, including 700-plus delegates from about 120 countries.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms",
+          "publishedOn": "2022-10-02T19:12:28.000Z",
+          "wordCount": 6367,
+          "title": "PM Modi to address UN geospatial congress in Hyderabad on October 11",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606503,width-1070,height-580,imgsize-61534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shah-visit-terrorists-kill-jammu-and-kashmir-cop-wound-crpf-man/articleshow/94606443.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: A J&K policeman died and a CRPF trooper was wounded in a terrorist attack on a security checkpoint Sunday afternoon in Pulwama district, hou.",
+          "link": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shah-visit-terrorists-kill-jammu-and-kashmir-cop-wound-crpf-man/articleshow/94606443.cms",
+          "publishedOn": "2022-10-02T19:05:22.000Z",
+          "wordCount": 6503,
+          "title": "Ahead of Amit Shah visit, terrorists kill Jammu and Kashmir cop, wound CRPF man",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606438,width-1070,height-580,imgsize-52186,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/ahead-of-amit-shahs-visit-jammu-and-kashmir-cops-crack-udhampur-twin-blasts-case-one-terrorist-held/articleshow/94606319.cms",
           "author": null,
           "description": "Ahead of Union home minister Amit Shah’s two-day Kashmir visit starting October 4, the J&K Police cracked the twin Udhampur bus blasts case by arresting a Lashkar-e-Taiba terrorist along with IEDs, sticky bombs and other explosive materials. Udhampur was rocked by two blasts in as many parked buses within a gap of eight hours on September 28 and 29, injuring two people.",
@@ -30589,6 +30629,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-tehreek-e-insaf-chief-imran-khan-faces-legal-action-over-cipher-leaks/articleshow/94606390.cms",
+          "author": null,
+          "description": "Prime Minister Shehbaz Sharif’s cabinet on Sunday approved legal action against Pakistan Tehreek-e-Insaf (PTI) chief Imran Khan and some of his party leaders over audio leaks about a “US cipher” that the former cricketer had presented as proof of a “foreign conspiracy” to remove him as PM.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-tehreek-e-insaf-chief-imran-khan-faces-legal-action-over-cipher-leaks/articleshow/94606390.cms",
+          "publishedOn": "2022-10-02T18:59:43.000Z",
+          "wordCount": 7267,
+          "title": "Imran Khan faces legal action over ‘cipher’ leaks",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94606410,width-1070,height-580,imgsize-46078,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/us/florida-deaths-rise-to-47-amid-struggle-to-recover-from-ian/articleshow/94605569.cms",
           "author": null,
