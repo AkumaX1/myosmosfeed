@@ -2909,6 +2909,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html",
+          "author": "Siddhartha Mitter",
+          "description": "Marilyn Nance was 23 when she photographed FESTAC ’77, the immense gathering of Black artists in Nigeria. In ‘Last Day in Lagos,’ she shares her archive.",
+          "link": "https://www.nytimes.com/2022/09/30/arts/design/marilyn-nance-festac-last-day-in-lagos.html",
+          "publishedOn": "2022-10-01T17:33:01.000Z",
+          "wordCount": null,
+          "title": "A Shining Moment of Pan-African Promise in a New Book",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html",
           "author": "David E. Sanger, Anton Troianovski and Julian E. Barnes",
           "description": "In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.",
@@ -11321,6 +11331,16 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2416811",
+          "author": "Kirsten Korosec",
+          "description": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive the full edition of the newsletter every weekend in your inbox. This is a shorter version of The Station newsletter that is emailed to subscribers. Want all the deals, news roundups and commentary? Subscribe […]\nGeely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+          "publishedOn": "2022-10-03T11:00:52.000Z",
+          "wordCount": 14041,
+          "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744"
+        },
+        {
           "id": "https://techcrunch.com/?p=2416847",
           "author": "Annie Njanja",
           "description": "Months after the initial close of its seed round, Talk360, a South African Voice over Internet Protocol (VoIP) startup, has raised an additional $3 million, bringing the total investment raised in the round to $7 million. Talk360’s latest investors include Allan Gray E2 Ventures (AGEV), Kalon Venture Partners, E4E Africa, Endeavor, existing lead investor HAVAÍC, […]\nSouth African startup Talk360’s seed funding hits $7M after new backing by Annie Njanja originally published on TechCrunch",
@@ -16929,6 +16949,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/even-better/23380646/create-best-halloween-costume-cheap-diy",
+          "author": null,
+          "description": "Denis Novikov/Getty Images\n    \n\n\n  \nTap your creativity (and closet) for the best Halloween costume.\n With an October 30 birthday, it’s only natural that Kimberly Murphy takes Halloween extremely seriously. A natural redhead, Murphy has dressed up as iconic crimson-haired characters like the Wendy’s mascot and Chuckie from Rugrats, but once she started dating her now-fiancé, Brian, nearly a decade ago, Murphy’s costumes leveled up. A selection of Murphy and Brian’s greatest Halloween hits: Dexter and Dee Dee from Dexter’s Laboratory, Ms. Frizzle and the eponymous bus from The Magic School Bus, Jack and Sally from The Nightmare Before Christmas, Tormund and Brienne of Tarth from Game of Thrones, and Shaun White and a snowboard. \n“We put my snowboard on his back so I could actually ‘ride’ h…",
+          "link": "https://www.vox.com/even-better/23380646/create-best-halloween-costume-cheap-diy",
+          "publishedOn": "2022-10-03T11:00:00.000Z",
+          "wordCount": 2828,
+          "title": "How to come up with a unique Halloween costume without spending a ton of money",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/DIrbEarHsZmGBUcpoW057Xko3Qo=/0x176:2457x1462/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069011/GettyImages_1312003652.jpg"
+        },
         {
           "id": "https://www.vox.com/policy-and-politics/2022/10/3/23380800/abortion-midterms-governor-attorney-ballot",
           "author": null,
@@ -24586,6 +24616,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/irans-supreme-leader-ayatollah-ali-khamenei-breaks-silence-on-protests-blames-us/article65966312.ece",
+          "author": "AP",
+          "description": "His comments come as nationwide protests sparked by Amini's death entered a third week despite the government's efforts to crack down",
+          "link": "https://www.thehindu.com/news/international/irans-supreme-leader-ayatollah-ali-khamenei-breaks-silence-on-protests-blames-us/article65966312.ece",
+          "publishedOn": "2022-10-03T11:02:12.000Z",
+          "wordCount": 5582,
+          "title": "Iran&#039;s supreme leader Ayatollah Ali Khamenei breaks silence on protests, blames U.S.",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6l5tyy/article65690897.ece/alternates/LANDSCAPE_615/AFP_1WW6B0.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/were-with-you-us-president-joe-biden-tells-puerto-rico-ahead-of-visit/article65966250.ece",
+          "author": "AP",
+          "description": "The Category 1 hurricane knocked out electrical power to the U.S. territory of 3.2 million people, 44% of whom live below the poverty line.",
+          "link": "https://www.thehindu.com/news/international/were-with-you-us-president-joe-biden-tells-puerto-rico-ahead-of-visit/article65966250.ece",
+          "publishedOn": "2022-10-03T10:40:34.000Z",
+          "wordCount": 6256,
+          "title": "&#039;&#039;We&#039;re with you,&#039;&#039; U.S. President Joe Biden tells Puerto Rico ahead of visit",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/7bhyvx/article65966293.ece/alternates/LANDSCAPE_615/Tropical_Weather_Biden_Puerto_Rico_18341.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/nearly-57-million-pakistani-flood-victims-to-face-food-crisis-united-nations/article65966148.ece",
           "author": "AP",
           "description": "Pakistan's National Disaster Management Authority reported that floods fuelled by abnormally heavy monsoon rains have killed 1,695 people, affected 33 million, damaged more than two million homes and displaced hundreds of thousands now living in tents or makeshift homes.",
@@ -26752,6 +26802,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/sonia-gandhi-arrives-in-mysuru-for-bharat-jodo-yatras-karnataka-leg-to-join-march-on-october-6/articleshow/94619717.cms",
+          "author": null,
+          "description": "India News: MYSURU (KARNATAKA): All India Congress Committee interim president Sonia Gandhi arrived in Mysuru on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/sonia-gandhi-arrives-in-mysuru-for-bharat-jodo-yatras-karnataka-leg-to-join-march-on-october-6/articleshow/94619717.cms",
+          "publishedOn": "2022-10-03T10:43:02.000Z",
+          "wordCount": 6009,
+          "title": "Sonia Gandhi arrives in Mysuru for Bharat Jodo Yatra's Karnataka leg, to join march on October 6",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94619808,width-1070,height-580,imgsize-52180,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/shashi-tharoor-highlights-need-for-renewed-reinvigorated-congress-to-take-on-bjp/articleshow/94618774.cms",
+          "author": null,
+          "description": "India News: HYDERABAD (TELANGANA): Congress leader Shashi Tharoor on Monday said that with two consecutive losses in the Lok Sabha elections, there is a need for .",
+          "link": "https://timesofindia.indiatimes.com/india/shashi-tharoor-highlights-need-for-renewed-reinvigorated-congress-to-take-on-bjp/articleshow/94618774.cms",
+          "publishedOn": "2022-10-03T10:07:03.000Z",
+          "wordCount": 6929,
+          "title": "Shashi Tharoor highlights need for 'renewed, reinvigorated' Congress to take on BJP",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94618715,width-1070,height-580,imgsize-42562,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/no-proposal-to-scrap-minority-affairs-ministry-government/articleshow/94618495.cms",
           "author": null,
@@ -31890,6 +31960,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-breaks-silence-on-protests-blames-us/articleshow/94619438.cms",
+          "author": null,
+          "description": "Khamenei described the death of 22-year-old Mahsa Amini in the custody of Iran's morality police, which set off the nationwide protests, as \"a sad incident\" that \"left us heartbroken.\" However, he sharply condemned the protests as a foreign plot to destabilize Iran, echoing authorities' previous comments.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-breaks-silence-on-protests-blames-us/articleshow/94619438.cms",
+          "publishedOn": "2022-10-03T10:31:26.000Z",
+          "wordCount": 6092,
+          "title": "Iran's supreme leader breaks silence on protests, blames US",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94619479,width-1070,height-580,imgsize-33492,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukrainian-troops-continue-offensive-claim-new-gains/articleshow/94619198.cms",
+          "author": null,
+          "description": "Ukrainian troops continued to push forward Monday with their offensive that has embarrassed Moscow, with Kyiv officials and foreign observers hinting at new gains in the strategic southern region of Kherson. Kherson is one of the four regions illegally annexed by Moscow last week after a “referendum” orchestrated by the Kremlin.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukrainian-troops-continue-offensive-claim-new-gains/articleshow/94619198.cms",
+          "publishedOn": "2022-10-03T10:28:27.000Z",
+          "wordCount": 10118,
+          "title": "Ukrainian troops continue offensive, claim new gains",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94619382,width-1070,height-580,imgsize-120126,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-launches-first-english-tv-channel-as-china-pressure-grows/articleshow/94619025.cms",
+          "author": null,
+          "description": "Taiwan launched its first English-language TV channel on Monday in a bid to boost its international outreach against an intensified pressure campaign by Beijing. However, TaiwanPlus will only be available on the island for now, limiting its international reach. Self-ruled Taiwan lives under constant threat of an invasion by China.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-launches-first-english-tv-channel-as-china-pressure-grows/articleshow/94619025.cms",
+          "publishedOn": "2022-10-03T10:14:10.000Z",
+          "wordCount": 7333,
+          "title": "Taiwan launches first English TV channel as China pressure grows",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94619031,width-1070,height-580,imgsize-39758,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/yemens-fate-hangs-in-balance-as-truce-collapses/articleshow/94618307.cms",
           "author": null,
           "description": "The United Nations envoy scrambled to revive Yemen's six-month truce after a missed deadline raised fears of a return to war and prompted rebel threats against Saudi Arabia and the United Arab Emirates late Sunday.",
@@ -34353,6 +34453,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/toisa-2021-meet-the-nominees-kidambi-srikanth/articleshow/94619449.cms",
+          "author": null,
+          "description": "The Times of India Sports Awards (TOISA) 2021 awards ceremony will be held on October 14. Ahead of the ceremony the jury meet was held in the capital. Meet one of the big contenders for the TOISA 2021 Male Badminton Player of the Year award - Kidambi Srikanth, who recently won a bronze medal at the Commonwealth Games in Birmingham.",
+          "link": "https://timesofindia.indiatimes.com/toisa-2021-meet-the-nominees-kidambi-srikanth/articleshow/94619449.cms",
+          "publishedOn": "2022-10-03T10:31:54.000Z",
+          "wordCount": 5641,
+          "title": "TOISA 2021: Meet the nominees - Kidambi Srikanth",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94619490,width-1070,height-580,imgsize-32820,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/having-red-eyes-from-covid-19-to-allergies-5-common-causes-you-have-bloodshot-eyes/photostory/94618718.cms",
+          "author": null,
+          "description": "This could be perhaps if you are too tired and have not slept well, or it could even be one of the earliest signs of some health condition.",
+          "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/having-red-eyes-from-covid-19-to-allergies-5-common-causes-you-have-bloodshot-eyes/photostory/94618718.cms",
+          "publishedOn": "2022-10-03T10:30:00.000Z",
+          "wordCount": 9992,
+          "title": "Five common causes you have bloodshot eyes",
+          "imageUrl": "https://static.toiimg.com/photo/msid-94619224.cms"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/auto/bikes/royal-enfield-september-sales-up-145-hunter-350-gets-spectacular-response/articleshow/94617709.cms",
           "author": null,
@@ -40052,6 +40172,16 @@
           "wordCount": 10660,
           "title": "Live: 9 killed after shots fired at school in central Russia",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94426499,width-1070,height-580,imgsize-46960,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/education/online-schooling/is-online-learning-practical-on-a-long-term-scale/articleshow/94325684.cms",
+          "author": null,
+          "description": "On the question of \"Is online learning practical on a long-term scale?\" There are many different points of view. The benefits and drawbacks of online learning must be considered among many other factors if you want to come anywhere close to the conclusion. It works well when looking at the circumstances as it is right now, but it might not work so well when considering it in the long run.",
+          "link": "https://timesofindia.indiatimes.com/education/online-schooling/is-online-learning-practical-on-a-long-term-scale/articleshow/94325684.cms",
+          "publishedOn": "2022-09-24T10:00:00.000Z",
+          "wordCount": 6350,
+          "title": "Is online learning practical on a long-term scale?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94373632,width-1070,height-580,imgsize-40962,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/times-special/tigers-back-in-north-andhra-after-25-years-strike-fear/articleshow/94337898.cms",
