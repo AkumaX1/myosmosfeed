@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing",
+          "author": null,
+          "description": "Photo by Thierry Chesnot / Getty Images\n    \n\n  \nAt the Loewe fashion show at Paris Fashion Week this weekend, models stalked around an enormous model of an anthurium plant emerging from beneath bleach-white floors. As a whole, the show was largely what one would expect at one of fashion’s most high-profile events attended by industry people, celebrities, and influencers. But tucked between the diaphanous blouses and textured shoes were a few looks that made viewers do a double take: hoodies, T-shirts, and pants with jagged edges and smudgy shadows, like the clothes had just glitched mid-walk.\n\n\nThe Loewe brand presented clothes in the style of Minecraft - at Paris Fashion Week they showed a \"pixel\" collection.  #Minecraft #우리도_언제나_찬이를_지켜줄게 #Live #women pic.twitter.com/Kq1KMZplrA\n—        …",
+          "link": "https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing",
+          "publishedOn": "2022-10-03T19:02:12.000Z",
+          "wordCount": 6823,
+          "title": "Pixelated clothing at Paris Fashion Week is metaverse fashion flipped on its head",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/0zkBAgnRhX5ztGmds5UgoRCzHJQ=/0x0:3456x5184/1200x628/filters:focal(1674x1545:1675x1546)/cdn.vox-cdn.com/uploads/chorus_asset/file/24077994/1429034552.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385637/fcc-robocalls-block-traffic-spam-texts-jessica-rosenworcel",
+          "author": null,
+          "description": "Photo by Chris Welch / The Verge\n    \n\n  \nThe Federal Communications Commission is threatening to block calls from voice service providers that have yet to take meaningful action against illegal robocalls.\nOn Monday, the FCC announced that it was beginning the process to remove providers from the agency’s Robocall Mitigation Database for failing to fully implement STIR/SHAKEN anti-robocall protocols into their networks. If the companies fail to meet these requirements over the next two weeks, compliant providers will be forced to block their calls.\n“Fines alone aren’t enough”\n“This is a new era. If a provider doesn’t meet its obligations under the law, it now faces expulsion from America’s phone networks. Fines alone aren’t enough,” FCC Chairwoman Jessica Rosenworcel said in a statement on…",
+          "link": "https://www.theverge.com/2022/10/3/23385637/fcc-robocalls-block-traffic-spam-texts-jessica-rosenworcel",
+          "publishedOn": "2022-10-03T18:37:30.000Z",
+          "wordCount": 6592,
+          "title": "FCC threatens to block calls from carriers for letting robocalls run rampant",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ArHDDOSUAqoxcz-ev3oY8v6b5rc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10357163/DSCF2964.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue",
           "author": null,
           "description": "Get ready to start seeing edited tweets in the wild. | Illustration by Alex Castro / The Verge\n    \n\n  \nTwitter is rolling out the ability to edit tweets to Twitter Blue subscribers in Canada, Australia, and New Zealand. According to a tweet from the company, it’ll be coming to subscribers in the US “soon.” \nLast week, we got to see an example of what edited tweets would look like when the company made one of its own. The tweet will appear as normal, but there will be a pencil icon next to the date, along with text that lets readers know the last time the tweet was edited. Clicking on the icon shows you a page with the edited tweet, as well as a history of the edits. The person who tweeted will have up to 30 minutes to make changes and will only be able to make five edits, according to a Twitter support document.\nnow that Edit is rolling out in Twitter Blue Labs, here’s what you can expect \nsee that little icon? it’s there to let you know that the Tweet has been edited pic.twitter.com/Av6vZYuVeO\n— Twitter Blue (@TwitterBlue) October 3, 2022\n\n\n\nThe company has been promising this feature for a while — it announced that it was working on the ability to edit tweets in April, then said it would start rolling the feature out by the end of September. It did slightly miss that deadline, but given how big of a change editable tweets are for the platform, it’s probably best that the company’s taking its time.\nThe feature is currently still in testing right now, and it’s in the Labs section of Twitter Blue, Twitter’s $4.99 a month subscription service. You’re also only able to edit certain types of tweets; things like replies, threads, retweets, and pinned tweets (along with several others) can’t be edited, according to a support document.",
@@ -2548,6 +2568,66 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/world/asia/indonesia-soccer-stadium-stampede.html",
+          "author": "Sui-Lee Wee",
+          "description": "Experts say officers are almost never held accountable for their actions. And in a huge police budget, billions are spent on tear gas, batons and other devices deployed during protests.",
+          "link": "https://www.nytimes.com/2022/10/03/world/asia/indonesia-soccer-stadium-stampede.html",
+          "publishedOn": "2022-10-03T19:05:30.000Z",
+          "wordCount": null,
+          "title": "Deadly Soccer Clash in Indonesia Puts Police Tactics, and Impunity, in Spotlight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html",
+          "author": "Paul Mozur, Ana Swanson and Edward Wong",
+          "description": "The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.",
+          "link": "https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html",
+          "publishedOn": "2022-10-03T18:54:14.000Z",
+          "wordCount": null,
+          "title": "U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news/russia-strikes-another-hospital-in-ukraine-killing-at-least-one",
+          "author": "Carly Olson",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news/russia-strikes-another-hospital-in-ukraine-killing-at-least-one",
+          "publishedOn": "2022-10-03T18:39:56.000Z",
+          "wordCount": null,
+          "title": "Russia strikes another hospital in Ukraine, killing at least one.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/truss-britain-bonds-taxes.html",
+          "author": "Paul Krugman",
+          "description": "The new government squandered its credibility.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/truss-britain-bonds-taxes.html",
+          "publishedOn": "2022-10-03T18:30:01.000Z",
+          "wordCount": null,
+          "title": "Learning From the British Bond Debacle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
+          "author": "Cade Metz",
+          "description": "Uber does not inform the police of such incidents, citing advocacy group guidelines. But officials in Santa Clara County argue that it should.",
+          "link": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
+          "publishedOn": "2022-10-03T18:17:42.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley County Battles With Uber Over Reporting of Sexual Assault",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/jan-6-oath-keepers-trial.html",
+          "author": "Alan Feuer",
+          "description": "The Justice Department set out its opening arguments in the seditious conspiracy trial of Stewart Rhodes and four other members of the far-right group for their role in the Jan. 6 attack.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/jan-6-oath-keepers-trial.html",
+          "publishedOn": "2022-10-03T18:00:02.000Z",
+          "wordCount": null,
+          "title": "Prosecution Makes Opening Arguments in Oath Keepers Sedition Trial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html",
           "author": "Jackie Frere and Isaac Aronow",
@@ -8650,6 +8730,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/theater/mud-drowning-review.html",
+          "author": "Maya Phillips",
+          "description": "A new production of two of María Irene Fornés’s short plays, “Mud” and “Drowning,” tries to accentuate the weirdness of the playwright’s worlds but too often overreaches.",
+          "link": "https://www.nytimes.com/2022/10/03/theater/mud-drowning-review.html",
+          "publishedOn": "2022-10-03T18:38:46.000Z",
+          "wordCount": null,
+          "title": "‘Mud/Drowning’ Review: 3 Fools, 3 Kooks, 2 Bizarre Plays",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/arts/music/steve-lacy-bad-habit-billboard-chart.html",
           "author": "Ben Sisario",
           "description": "A left-field hit from a 24-year-old master of alternative R&B displaces Harry Styles’s “As It Was” as the top single, while Bad Bunny logs a 12th week atop the album chart.",
@@ -8697,6 +8787,16 @@
           "publishedOn": "2022-10-03T14:00:04.000Z",
           "wordCount": null,
           "title": "Andrew Lloyd Webber’s ‘Bad Cinderella’ to Open on Broadway in March",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/theater/leopoldstadt-review.html",
+          "author": "Jesse Green",
+          "description": "The Viennese Jewish family at the heart of this new Broadway production thinks it is too assimilated to be in danger when the Nazis arrive. They are wrong.",
+          "link": "https://www.nytimes.com/2022/10/02/theater/leopoldstadt-review.html",
+          "publishedOn": "2022-10-03T10:30:11.000Z",
+          "wordCount": null,
+          "title": "Review: In Stoppard’s ‘Leopoldstadt,’ a Memorial to a Lost World",
           "imageUrl": null
         },
         {
@@ -9906,6 +10006,36 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234600926",
+          "author": "Jon Dolan",
+          "description": "The heart-on-sleeve rapper's latest is about the simple joys of love",
+          "link": "https://www.rollingstone.com/music/music-album-reviews/kid-cudi-entergalactic-review-1234600926/",
+          "publishedOn": "2022-10-03T18:47:49.000Z",
+          "wordCount": 7552,
+          "title": "Kid Cudi Sounds Pretty Happy on ‘Entergalactic’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/kid-cudi-norman-jean-roy.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234604315",
+          "author": "Tomás Mier",
+          "description": "Candace Ownes matched racist shirts with trapper",
+          "link": "https://www.rollingstone.com/music/music-news/kanye-west-wears-white-lives-matter-shirt-1234604315/",
+          "publishedOn": "2022-10-03T18:45:55.000Z",
+          "wordCount": 7330,
+          "title": "From the Trump Supporter Who Called Slavery a Choice: Kanye West Wears ‘White Lives Matter’ T-Shirt",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/kanye-ysy-white-lives-matter-shirt.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234604269",
+          "author": "Larisha Paul",
+          "description": "The singer also shared the live performance of \"I Didn't Change My Number\"",
+          "link": "https://www.rollingstone.com/music/music-news/watch-billie-eilish-perform-therefore-i-am-apple-musics-livestream-concert-1234604269/",
+          "publishedOn": "2022-10-03T18:21:54.000Z",
+          "wordCount": 7096,
+          "title": "Watch Billie Eilish Perform ‘Therefore I Am’ From Apple Music’s ‘Happier Than Ever’ World Tour Livestream Concert",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/billie-eilish-02-london.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234604206",
           "author": "Larisha Paul",
@@ -15548,6 +15678,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "bvmy4q",
+          "author": "Gita Jackson",
+          "description": "Last night's House of the Dragon had viewers squinting at the night time scenes, just like old times.",
+          "link": "https://www.vice.com/en_us/article/bvmy4q/game-of-thrones-fans-still-think-its-too-dark-to-see-anything",
+          "publishedOn": "2022-10-03T18:45:56.000Z",
+          "wordCount": 4031,
+          "title": "“Game of Thrones” Fans Still Think It's Too Dark to See Anything",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b2d30edd9480094cf7e58/lede/1664822694887-emma-d-arcy-matt-smith.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b2d30edd9480094cf7e58/lede/1664822694887-emma-d-arcy-matt-smith.jpeg"
+        },
+        {
           "id": "xgy493",
           "author": "Trone Dowd",
           "description": "The agency spent decades tracking the legendary singer’s movements—and repeatedly found nothing incriminating.",
@@ -18074,6 +18219,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/policy-and-politics/2022/10/3/23385006/supreme-court-sackett-epa-clean-water-act",
+          "author": null,
+          "description": "Jaime Sigaran, right, of American Rivers, and his sister Bethsaida attend a rally to call for protection of the Clean Water Act outside of the US Supreme Court as the Court heard arguments in the case of Sackett v. Environmental Protection Agency on October 3, the first day of the new term. | Tom Williams/CQ-Roll Call, Inc via Getty Images\n    \n\n  \nBut it isn’t sure how.\n Sackett v. Environmental Protection Agency, which the Supreme Court heard on Monday, is a devilishly difficult case. It involves the proper meaning of a vague phrase in the Clean Water Act, the principal law protecting America’s waters from a wide range of foreign substances. \nThat 1972 act prohibits “discharge of pollutants” into “navigable waters.” But it also defines the term “navigable waters” vaguely and counterintui…",
+          "link": "https://www.vox.com/policy-and-politics/2022/10/3/23385006/supreme-court-sackett-epa-clean-water-act",
+          "publishedOn": "2022-10-03T18:20:00.000Z",
+          "wordCount": 3054,
+          "title": "The Supreme Court appears determined to shrink the Clean Water Act",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/VkbQ1nFTH_Zm0mP8apAPMpDZ3Q8=/0x15:3900x2057/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24078475/GettyImages_1243698547a.jpg"
+        },
         {
           "id": "https://www.vox.com/recode/2022/10/3/23384955/kim-kardashian-crypto-ethereum-max-emax-sec",
           "author": null,
@@ -28317,6 +28472,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms",
+          "author": null,
+          "description": "A Grameen Bank branch manager from Dehradun survived a terrorist shooting in north Kashmir’s Baramulla district on Monday, triggering a scramble to catch the gunmen as the attack happened amid a multi-layer security net laid out for Union home minister Amit Shah three-day J&K visit that began in the evening.",
+          "link": "https://timesofindia.indiatimes.com/india/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms",
+          "publishedOn": "2022-10-03T19:01:43.000Z",
+          "wordCount": 6424,
+          "title": "Bank manager from Dehradun attacked in Jammu & Kashmir ahead of Amit Shah’s visit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94628548,width-1070,height-580,imgsize-62204,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/dhankhar-hosts-dinner-for-leaders-seeks-suggestions-for-smooth-functioning-of-house-sources/articleshow/94627709.cms",
           "author": null,
