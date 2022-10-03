@@ -2,10 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T22:11:12.288Z</updated>
+    <updated>2022-10-03T23:12:33.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tove Lo Details North American ‘Dirt Femme’ Tour]]></title>
+        <id>https://www.rollingstone.com/?p=1234604540</id>
+        <link href="https://www.rollingstone.com/music/music-news/tove-lo-dirt-femme-tour-dates-1234604540/"/>
+        <updated>2022-10-03T23:07:01.000Z</updated>
+        <summary type="html"><![CDATA["It’s going to be magic, so you know, mandatory presence," Swedish singer says]]></summary>
+        <author>
+            <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Takes Up Challenge to Social Media Platforms’ Shield]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html"/>
+        <updated>2022-10-03T23:05:52.000Z</updated>
+        <summary type="html"><![CDATA[The family of a student killed in terrorist attacks challenged a 1996 law that gives websites immunity for suits based on their users’ posts.]]></summary>
+        <author>
+            <name>Adam Liptak and David McCabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government set to add 3 ‘missions’ to tackle climate change impact]]></title>
+        <id>https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms"/>
+        <updated>2022-10-03T22:55:20.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grenades seized in Hyderabad raid airdropped by Pakistani drones]]></title>
+        <id>https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms"/>
+        <updated>2022-10-03T22:46:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: HYDERABAD: The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani dron.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Republican Pledges to Make House Intelligence Committee Less Partisan]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/politics/turner-house-intelligence-committee.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/politics/turner-house-intelligence-committee.html"/>
+        <updated>2022-10-03T22:45:38.000Z</updated>
+        <summary type="html"><![CDATA[If Republicans take Congress, Representative Michael R. Turner says, he wants to focus on oversight and national security issues. But he is likely to face pressure from his own party.]]></summary>
+        <author>
+            <name>Julian E. Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brittney Griner’s Appeal Hearing Set for Oct. 25, Russian Court Says]]></title>
+        <id>https://www.nytimes.com/2022/10/03/world/europe/brittney-griner-appeal-hearing-russia.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/world/europe/brittney-griner-appeal-hearing-russia.html"/>
+        <updated>2022-10-03T22:36:13.000Z</updated>
+        <summary type="html"><![CDATA[The United States has sought the release of the W.N.B.A. star, who pleaded guilty to drug possession and was sentenced to nine years.]]></summary>
+        <author>
+            <name>Dan Bilefsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ED raids Chinese app platform in Bengaluru, seizes Rs 6 crore]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms"/>
+        <updated>2022-10-03T22:35:04.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Enforcement Directorate on Monday said it has conducted raids against another Chinese app operating platform from Bengaluru offering pa.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Call The Cops!' Fishing Competition Turns Into Frenzy After Cheater Caught Stuffing Fish]]></title>
+        <id>1849611715</id>
+        <link href="https://kotaku.com/walleye-trail-fishing-tournament-ohio-cheating-lead-bal-1849611715"/>
+        <updated>2022-10-03T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you thought last month’s chess grandmaster anal bead conspiracy saga was the worst thing that could happen to a competitive sporting event, I’ve got some bad news for you. The rollicking world of competitive sports fishing now has an oh-fish-ial controversy of its own after competitors at a tournament in Ohio were…
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s why you couldn’t see anything on House of the Dragon]]></title>
+        <id>https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes</id>
+        <link href="https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes"/>
+        <updated>2022-10-03T22:27:04.000Z</updated>
+        <summary type="html"><![CDATA[This still is not from last night’s episode, which is one reason you can see what is happening. | Image: HBO
+    
+
+  
+Things got dark on House of the Dragon last night as characters stole dragons and other characters made super incestuous life choices. And all of it was done under the cover of darkness, leading many viewers wondering if their TVs were busted. 
+But your TV is not busted. Your TV is a victim of the episode’s director, Miguel Sapochnik. The man can presumably see in the dark because this is the second time he’s directed an episode in the Game of Thrones franchise cast in such darkness people questioned their own eyes.
+Back in 2019, Sapochnik directed “The Long Night,” a harrowing hour of TV where the many characters of Game of Thrones gathered to finally end the Night King’s …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Few Customers Get Refunds for ‘Rampant’ Zelle Fraud, Senator’s Report Says]]></title>
+        <id>https://www.nytimes.com/2022/10/03/business/zelle-fraud-warren.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/business/zelle-fraud-warren.html"/>
+        <updated>2022-10-03T22:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Elizabeth Warren’s analysis of fraud and scam complaints on the payment network found that banks at times violate a federal consumer protection law.]]></summary>
+        <author>
+            <name>Stacy Cowley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What VICE Readers Bought This Month: Pumpkin Spice CBD and Super-Comfy Sofas]]></title>
+        <id>epz53p</id>
+        <link href="https://www.vice.com/en_us/article/epz53p/what-vice-readers-bought-september-2022"/>
+        <updated>2022-10-03T22:22:46.000Z</updated>
+        <summary type="html"><![CDATA[An affordable Vitamix dupe, Hoka’s new hiking boots, and hangover-curing hydration powder all flew off the shelves and into your carts.]]></summary>
+        <author>
+            <name>Rec Room Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Crunch: Vice Society hackers post 500GB of data stolen from LA school district to dark web]]></title>
         <id>https://techcrunch.com/?p=2417530</id>
@@ -29,6 +146,26 @@ Max Q: Hubble hubble, toil and trouble by Aria Alamalhodaei originally published
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Study nails genetic region linked to strokes in Indians]]></title>
+        <id>https://timesofindia.indiatimes.com/home/science/study-nails-genetic-region-linked-to-strokes-in-indians/articleshow/94629538.cms</id>
+        <link href="https://timesofindia.indiatimes.com/home/science/study-nails-genetic-region-linked-to-strokes-in-indians/articleshow/94629538.cms"/>
+        <updated>2022-10-03T22:00:49.000Z</updated>
+        <summary type="html"><![CDATA[A genetic region previously known to increase the risk of Alzheimer’s disease in African Americans, has been linked to an increased risk of stroke. Also, a new study published in the journal Nature suggests, the frequency of this genetic region called COBL is higher in persons suffering from the neurological disease in south Asians, including Indian patients.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Monday Evening Briefing]]></title>
+        <id>https://www.nytimes.com/2022/10/03/briefing/ukraine-russia-reclaim-britain-tax-cuts.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/briefing/ukraine-russia-reclaim-britain-tax-cuts.html"/>
+        <updated>2022-10-03T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Here’s what you need to know at the end of the day.]]></summary>
+        <author>
+            <name>Matthew Cullen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russian hacker, ‘mastermind of JEE(M) leak’, held in Delhi]]></title>
         <id>https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms"/>
@@ -36,6 +173,26 @@ Max Q: Hubble hubble, toil and trouble by Aria Alamalhodaei originally published
         <summary type="html"><![CDATA[The CBI on Monday apprehended an expert Russian hacker who is supposedly the mastermind of the JEE (Mains) paper leak reported last year. Mikhail Shargin had a look-out circular against him and was detained at Delhi airport immigration upon arrival from Kazakhstan.  He was brought for questioning to the agency’s headquarters and was likely to be arrested later in the night, sources said.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian hacker, ‘mastermind of JEE(M) leak’, held in Delhi]]></title>
+        <id>https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms"/>
+        <updated>2022-10-03T21:51:33.000Z</updated>
+        <summary type="html"><![CDATA[The CBI on Monday apprehended an expert Russian hacker who is supposedly the mastermind of the JEE (Mains) paper leak reported last year. Mikhail Shargin had a look-out circular against him and was detained at Delhi airport immigration upon arrival from Kazakhstan.  He was brought for questioning to the agency’s headquarters and was likely to be arrested later in the night, sources said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airtel 5G won’t work on some devices for now]]></title>
+        <id>https://timesofindia.indiatimes.com/gadgets-news/airtel-5g-wont-work-on-some-devices-for-now/articleshow/94629347.cms</id>
+        <link href="https://timesofindia.indiatimes.com/gadgets-news/airtel-5g-wont-work-on-some-devices-for-now/articleshow/94629347.cms"/>
+        <updated>2022-10-03T21:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Airtel may have launched 5G across eight cities, but users of Apple’s iPhone and a large device eco-system of Samsung and other companies such as OnePlus will not be able to access the high-speed services immediately as the smartphone companies need to carry out testing and a software upgrade.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +204,26 @@ Max Q: Hubble hubble, toil and trouble by Aria Alamalhodaei originally published
 The Supreme Court takes on Section 230 by Devin Coldewey originally published on TechCrunch]]></summary>
         <author>
             <name>Devin Coldewey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicine Nobel goes to Neanderthal researcher]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/medicine-nobel-goes-to-neanderthal-researcher/articleshow/94629274.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/medicine-nobel-goes-to-neanderthal-researcher/articleshow/94629274.cms"/>
+        <updated>2022-10-03T21:27:40.000Z</updated>
+        <summary type="html"><![CDATA[The Nobel Prize in physiology or medicine was awarded on Monday to Svante Paabo, a Swedish-born scientist who spent decades trying to extract DNA from 40,000-year-old bones, culminating in the unveiling of the Neanderthal genome in 2010..]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicine Nobel goes to Neanderthal researcher]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/medicine-nobel-goes-to-neanderthal-researcher/articleshow/94629274.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/medicine-nobel-goes-to-neanderthal-researcher/articleshow/94629274.cms"/>
+        <updated>2022-10-03T21:27:40.000Z</updated>
+        <summary type="html"><![CDATA[The Nobel Prize in physiology or medicine was awarded on Monday to Svante Paabo, a Swedish-born scientist who spent decades trying to extract DNA from 40,000-year-old bones, culminating in the unveiling of the Neanderthal genome in 2010..]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +270,16 @@ The end of Overwatch is bittersweet, as the original game, which itself has evol
         <summary type="html"><![CDATA[India, which had the ignominious reputation of being the only country in the world where a larger proportion of girls below the age of one died than boys, finally saw its male and female infant mortality rate (IMR) equalise in 2020. In 16 states, IMR remained higher for female babies than males, but the gap had reduced since 2011.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India’s female IMR drops to same level as males’]]></title>
+        <id>https://timesofindia.indiatimes.com/india/indias-female-imr-drops-to-same-level-as-males/articleshow/94629223.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/indias-female-imr-drops-to-same-level-as-males/articleshow/94629223.cms"/>
+        <updated>2022-10-03T21:11:31.000Z</updated>
+        <summary type="html"><![CDATA[India, which had the ignominious reputation of being the only country in the world where a larger proportion of girls below the age of one died than boys, finally saw its male and female infant mortality rate (IMR) equalise in 2020. In 16 states, IMR remained higher for female babies than males, but the gap had reduced since 2011.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +355,16 @@ What else is happening in the pages of our favorite comics? We’ll tell you. We
         <summary type="html"><![CDATA[India’s first indigenous light combat helicopter, capable of offensive operations in high-altitude areas like Siachen Glacier and eastern Ladakh, was inducted into the IAF on Monday. Defence minister Rajnath Singh flew a sortie in the helicopter, which is armed with 20mm turret guns, 70mm rocket systems and air-to-air missiles, after naming it ‘Prachanda’ at the Jodhpur airbase in the morning.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAF gets its first home-made light combat helicopter]]></title>
+        <id>https://timesofindia.indiatimes.com/india/indian-air-force-gets-its-first-home-made-light-combat-helicopter/articleshow/94629008.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/indian-air-force-gets-its-first-home-made-light-combat-helicopter/articleshow/94629008.cms"/>
+        <updated>2022-10-03T20:56:34.000Z</updated>
+        <summary type="html"><![CDATA[India’s first indigenous light combat helicopter, capable of offensive operations in high-altitude areas like Siachen Glacier and eastern Ladakh, was inducted into the IAF on Monday. Defence minister Rajnath Singh flew a sortie in the helicopter, which is armed with 20mm turret guns, 70mm rocket systems and air-to-air missiles, after naming it ‘Prachanda’ at the Jodhpur airbase in the morning.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -9327,6 +9524,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Book Review: “Breathless,” by David Quammen]]></title>
+        <id>https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/books/review/breathless-david-quammen.html"/>
+        <updated>2022-10-01T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[In “Breathless,” David Quammen explores the predictable lead-up to the global Covid pandemic, and the frantic, belated attempts to stop it.]]></summary>
+        <author>
+            <name>Michael Sims</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Utako Yukihiro's Kare ni Irai Shite wa Ikemasen Manga's 2nd Part Starts in November]]></title>
         <id>https://www.animenewsnetwork.com/cms/.190281</id>
         <link href="https://www.animenewsnetwork.com/news/2022-10-01/utako-yukihiro-kare-ni-irai-shite-wa-ikemasen-manga-2nd-part-starts-in-november/.190281"/>
@@ -11219,6 +11426,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The president also said that Mr. Putin should not dare to take his fight into NATO territory, underscoring the unity among the alliance.]]></summary>
         <author>
             <name>Alan Rappeport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celeste Ng on Race, Class and Suburbia]]></title>
+        <id>https://www.nytimes.com/2022/09/30/books/review/celeste-ng-on-race-class-and-suburbia.html</id>
+        <link href="https://www.nytimes.com/2022/09/30/books/review/celeste-ng-on-race-class-and-suburbia.html"/>
+        <updated>2022-09-30T19:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Ng discusses her best-selling 2017 novel, “Little Fires Everywhere,” and Judy Blume discusses her adult novel “In the Unlikely Event,” from 2015.]]></summary>
+        <author>
+            <name>NYT &gt; Top Stories</name>
         </author>
     </entry>
     <entry>
