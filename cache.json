@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23385622/google-pixel-4-xl-security-patch-october-2022-software-update",
+          "author": null,
+          "description": "The Google Pixel 4 and 4 XL have reached the end of their three years of guaranteed software support. | Photo by Vjeran Pavic / The Verge\n    \n\n  \nGoogle has released this month’s Pixel security patch, and as Android Police points out, it’s the last one that the Pixel 4 and 4 XL are scheduled to receive. By no coincidence, the Pixel 7 and 7 Pro are set to be announced later this week. (When one device’s software support window closes, another one opens.)\nWhile the more recent Pixel 6, 6 Pro, and 6A all come with a promised five years of security updates, the Google Pixel 4 and 4 XL launched in 2019 with three years of guaranteed security updates. This isn’t necessarily the very end of the road for the Pixel 4 since Google tends to issue one final security patch for end-of-life devices a bit after the official support window has closed. More than anything, it’s kind of symbolic: closing one chapter for an earlier Pixel device as a new one arrives.\n\n\nThe Pixel 4 was the first in the series to offer two rear cameras rather than one, which Google stuck with even after two or three rear cameras started to become the norm. It added a modest 2x telephoto camera that it paired with its Super Res Zoom technology to reach beyond that limited focal length. It wasn’t (and still isn’t, tbh) as good as optical zoom, but the Pixel 4’s overall camera capabilities were competitive with one of the best dedicated point-and-shoot cameras of the time. \nAside from its significance for the Pixel 4, the October security patch is available starting today and provides minor bug fixes related to audio playback and controls along with UI and connectivity hiccups.",
+          "link": "https://www.theverge.com/2022/10/3/23385622/google-pixel-4-xl-security-patch-october-2022-software-update",
+          "publishedOn": "2022-10-03T19:47:50.000Z",
+          "wordCount": 7429,
+          "title": "The Pixel 4 and 4 XL’s last guaranteed software update has arrived",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/DQaCPBrCTKNMf4z3uhVQ3tnnr1c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19302278/vpavic_191018_3725_0244.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385710/valve-october-2022-steam-next-fest-demos-interviews-livestreams",
+          "author": null,
+          "description": "One game you can try is Soulstone Survivors, which looks to take some inspiration from games like Vampire Survivors and Diablo. | Image: Game Smithing Limited\n    \n\n  \nValve has just kicked off another Steam Next Fest, where you can check out hundreds of free demos for upcoming games.\nWith so many games to potentially check out, it can be a little overwhelming to know where to start, but Valve has a few tools to make it easier to find something you might like. Right from the Steam Next Fest homepage, you can see a list of popular demos, most wishlisted games, and which demos have the most active players as well as filter each of those lists by things like genre and specific features. One that has already caught my eye is Soulstone Survivors, which looks like an interesting spin on whatever genre Vampire Survivors is. \nDevelopers will also be hosting livestreams throughout the week to show off their games, and there’s a detailed schedule available so you can get an idea of what’s on the docket. This October edition of Steam Next Fest lasts from now until October 10th, and you can check out what’s on offer on Valve’s Steam Next Fest page.",
+          "link": "https://www.theverge.com/2022/10/3/23385710/valve-october-2022-steam-next-fest-demos-interviews-livestreams",
+          "publishedOn": "2022-10-03T19:35:16.000Z",
+          "wordCount": 6723,
+          "title": "Valve’s next Steam Next Fest is live now with hundreds of demos to try",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/M2Bn6rGnzxbLsiOv_tMzBWQ2RnM=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24078794/ss_550b1b89aac8ac9b786f77bc1fc5d8efdc0faa0a.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/23385320/how-to-turn-your-mac-desktop-folder-icons-into-emoji",
+          "author": null,
+          "description": "Why have boring blue folder icons on your desktop when you can turn them into cats? Well, cat emoji at least. As CNET first pointed out, it turns out you can quickly customize your Mac desktop folders with emoji of your choice. It’s a fun, amusing trick that’s also useful if you’re looking for a visual way to organize the folders on your laptop or PC. You can, for instance, choose a briefcase emoji so you can more easily identify work files or organize travel documents with a plane emoji. \nHere, we’ll guide you through the quick process step by step so you can start transforming your blue folder icons into whatever your heart desires, whether it’s Halloween pumpkins, hearts, or even poop — we’re not judging.\nHow to turn your desktop folder icons into emoji\nFirst, you may need to create a new folder if you’re not using an existing one. To do that, right-click on your homepage and click on New folder. \nAfter that, find the emoji you want to use. For example, you can head over to Google and do an image search for the emoji you want, like “cat emoji.”\n\nLook for an image, ideally one with a checkered background so you’ll still have the blue background behind the image visible. \nAfter finding the image, right-click and select Copy Image.\nAlternatively, if you wish to save the image for any reason, drag it to your Desktop or Documents folder to save it. You can then open the emoji image in Preview by double-clicking on it. Click Edit and then Copy. \nGo back to the folder you created. Right-click on it and click Get Info.\nClick the blue folder icon in the top left, and then type Command + V. \nAnd voilà! You’re done, and your fun new cat or smiley face emoji should now be where the plain blue folder once was.",
+          "link": "https://www.theverge.com/23385320/how-to-turn-your-mac-desktop-folder-icons-into-emoji",
+          "publishedOn": "2022-10-03T19:14:30.000Z",
+          "wordCount": 7450,
+          "title": "How to turn your Mac desktop folder icons into emoji",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/boG29geNNiL4faOgeqMM2NrYLDc=/0x0:2040x1360/1200x628/filters:focal(1048x707:1049x708)/cdn.vox-cdn.com/uploads/chorus_asset/file/24078634/how_to_mac_desktop_emoji_folder.jpeg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing",
           "author": null,
           "description": "Photo by Thierry Chesnot / Getty Images\n    \n\n  \nAt the Loewe fashion show at Paris Fashion Week this weekend, models stalked around an enormous model of an anthurium plant emerging from beneath bleach-white floors. As a whole, the show was largely what one would expect at one of fashion’s most high-profile events attended by industry people, celebrities, and influencers. But tucked between the diaphanous blouses and textured shoes were a few looks that made viewers do a double take: hoodies, T-shirts, and pants with jagged edges and smudgy shadows, like the clothes had just glitched mid-walk.\n\n\nThe Loewe brand presented clothes in the style of Minecraft - at Paris Fashion Week they showed a \"pixel\" collection.  #Minecraft #우리도_언제나_찬이를_지켜줄게 #Live #women pic.twitter.com/Kq1KMZplrA\n—        …",
@@ -2568,6 +2598,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/house-democrats-abortion-midterms.html",
+          "author": "Catie Edmondson",
+          "description": "Vulnerable Democrats in competitive districts have leaned into preserving abortion rights as a closing argument for their campaigns, buoyed by internal polls that show it has moved voters their way.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/house-democrats-abortion-midterms.html",
+          "publishedOn": "2022-10-03T19:57:50.000Z",
+          "wordCount": null,
+          "title": "Ahead of Midterms, Democrats Bet on Abortion Rights",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/world/asia/indonesia-soccer-stadium-stampede.html",
           "author": "Sui-Lee Wee",
@@ -11484,6 +11524,16 @@
           "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/PRO3280_TRL_comp_ILM_v0005.1042_Rc.jpg?w=1024"
         },
         {
+          "id": "https://www.rollingstone.com/?p=1063798",
+          "author": "Tim Chan",
+          "description": "All six seasons of the Emmy-winning comedy series moved from Netflix to Hulu this month. Here's how you can watch them all for free",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-schitts-creek-online-stream-1063798/",
+          "publishedOn": "2022-10-03T10:00:00.000Z",
+          "wordCount": 7750,
+          "title": "How to Stream ‘Schitt’s Creek’ Online",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2020/09/AP_18015321762769.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603924",
           "author": "Ky.henderson",
           "description": "Western museums are full of antiquities stolen from other countries by colonialists, and those museums really don't want to give any of it back.",
@@ -12070,6 +12120,56 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2415264",
+          "author": "Kirsten Korosec",
+          "description": "Spin, which was acquired by Tier Mobility earlier this year, has laid off about 10% of its staff and is exiting Canada and Seattle.\nTier Mobility-owned Spin lays off about 10% of workforce, exits two markets by Kirsten Korosec originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/tier-mobility-owned-spin-lays-off-about-10-of-workforce-exits-two-markets/",
+          "publishedOn": "2022-10-03T19:39:43.000Z",
+          "wordCount": 6675,
+          "title": "Tier Mobility-owned Spin lays off about 10% of workforce, exits two markets",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/scooter.jpg?resize=1200,900"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417291",
+          "author": "Rita Liao",
+          "description": "One of the highest-profile sexual assault allegations against Chinese business tycoons ended abruptly this past weekend. Liu Qiangdong, the founder of Chinese ecommerce giant JD.com, also known as Richard Liu, has reached a settlement with Liu Jingyao, a former University of Minnesota student who alleged that the billionaire raped her in her apartment in 2018. […]\nWhat tech tycoon Richard Liu’s sexual misconduct case means for China’s #MeToo by Rita Liao originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/richard-liu-jd-com-sexual-assault-case-settlement-metoo/",
+          "publishedOn": "2022-10-03T19:34:30.000Z",
+          "wordCount": 7464,
+          "title": "What tech tycoon Richard Liu’s sexual misconduct case means for China’s #MeToo",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-615755534-e1555465381854.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417083",
+          "author": "Sarah Perez",
+          "description": "Facebook parent Meta has settled a lawsuit in the U.S. against two companies that had engaged in data scraping operations, which had seen them gathering data from Facebook and Instagram users for marketing intelligence purposes, according to the original complaint filed in October 2020. The companies named in the suit, Israeli-based BrandTotal Ltd. and Delaware-incorporated […]\nMeta settles lawsuit for ‘significant’ sum against businesses scraping Facebook and Instagram data by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/meta-settles-lawsuit-for-significant-sum-against-businesses-scraping-facebook-and-instagram-data/",
+          "publishedOn": "2022-10-03T19:22:37.000Z",
+          "wordCount": 7118,
+          "title": "Meta settles lawsuit for ‘significant’ sum against businesses scraping Facebook and Instagram data",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1228003986.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417441",
+          "author": "Haje Jan Kamps",
+          "description": "I’ve long been super against edited tweets, mostly for technical reasons. The core issue is that Twitter isn’t like other social media sites; unlike, say Instagram and Facebook posts, embedded tweets drive the news in many ways. Republishing and retweeting of tweets is the main risk around allowing users to edit it. Let me break […]\nEdited tweets is still a minefield, but Twitter’s solution just might work by Haje Jan Kamps originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/edited-tweets-is-a-minefield/",
+          "publishedOn": "2022-10-03T19:13:49.000Z",
+          "wordCount": 8009,
+          "title": "Edited tweets is still a minefield, but Twitter’s solution just might work",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/01/gettyimages-503572710.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417245",
+          "author": "Anita Ramaswamy",
+          "description": "Rather than an unfairly targeted outlier, count Kim Kardashian as the first of many celebrities who should start facing the consequences of their actions.\nLet’s not defend Kim Kardashian for shilling crypto by Anita Ramaswamy originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/lets-not-defend-kim-kardashian-for-shilling-crypto/",
+          "publishedOn": "2022-10-03T19:00:08.000Z",
+          "wordCount": 6586,
+          "title": "Let’s not defend Kim Kardashian for shilling crypto",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-610799068.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2417320",
           "author": "Alex Wilhelm",
@@ -15678,6 +15778,36 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "n7z4g8",
+          "author": "Becky Ferreira",
+          "description": "A new study shows that ingredients for life can form from non-living chemicals on any given beach, and it could help develop new drugs and search for alien life.",
+          "link": "https://www.vice.com/en_us/article/n7z4g8/scientists-breakthrough-origin-life-could-change-everything",
+          "publishedOn": "2022-10-03T19:39:39.000Z",
+          "wordCount": 5432,
+          "title": "Scientists Made a Breakthrough on Life’s Origin and It Could Change Everything",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b385eedd9480094cf7ef5/lede/1664825773211-gettyimages-184827569.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b385eedd9480094cf7ef5/lede/1664825773211-gettyimages-184827569.jpeg"
+        },
+        {
+          "id": "y3p57m",
+          "author": "Edward Ongweso Jr",
+          "description": "Investors and traders have pushed down share prices and pushed up credit default swap prices over the past few days.",
+          "link": "https://www.vice.com/en_us/article/y3p57m/reddit-thinks-credit-suisse-is-about-to-collapse-and-trigger-a-financial-crisis-like-2008",
+          "publishedOn": "2022-10-03T19:38:30.000Z",
+          "wordCount": 5747,
+          "title": "Reddit Thinks Credit Suisse Is About to Collapse and Trigger a Financial Crisis Like 2008",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b386232d7fd0093ab5611/lede/1664825735613-gettyimages-83936273-1.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b386232d7fd0093ab5611/lede/1664825735613-gettyimages-83936273-1.jpeg"
+        },
+        {
           "id": "bvmy4q",
           "author": "Gita Jackson",
           "description": "Last night's House of the Dragon had viewers squinting at the night time scenes, just like old times.",
@@ -18907,6 +19037,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849610731",
+          "author": "Isaiah Colbert",
+          "description": "For any bystander looking at the worlds of professional wrestling and video games from the outside, what’s happening inside can look like a veritable circus. In 2022, each has had more than its fair share of ongoing legal litigation and backstage drama. Now, however, a new lawsuit has seen the two worlds and all their…\nRead more...",
+          "link": "https://kotaku.com/randy-orton-lawsuit-tattoo-wwe-2k-take-two-1849610731",
+          "publishedOn": "2022-10-03T20:05:00.000Z",
+          "wordCount": 6003,
+          "title": "Tattoo Artist Wins Lawsuit Over Her Art Appearing On Randy Orton In WWE 2K",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/763cc9f050171501abe231a2275741e5.jpg"
+        },
+        {
           "id": "1849609699",
           "author": "Ashley Bardhan",
           "description": "The 23-year-old Minecraft streamer and YouTuber with over 30 million subscribers, Dream, has only ever appeared to the public wearing a smooth, egg-colored smiley face mask. Other than some blowout cheating allegations that begrudgingly subsided after he admitted wrongdoing, Dream’s three-year-old career has…\nRead more...",
@@ -20203,6 +20343,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement",
+          "author": null,
+          "description": "Image: Wizards of the Coast/Hasbro\n    \n\n  \nA combination for the ages\n Look, Hasbro owns both Magic: The Gathering and the Transformers franchise. Why not put them together?\nHasbro announced the Transformers-themed cards on Friday, with IGN officially revealing six of the new cards. Hasbro showed the nine other cards on social media and as part of its Magic: The Gathering panel at PulseCon, which is basically a hype show for new Hasbro stuff. \nThis series is part of Magic: The Gathering’s Universes Beyond series, which has previously added Fortnite and Street Fighter to the card game. Both Optimus Prime and Starscream will get their own cards — double-sided, so there are both transformations shown — alongside 13 other cards. Each of the Transformers has two versions of their cards, regular and Shattered Glass, except for Arcee. \nHere’s the full list:\nOptimus Prime\nStarscream\nSoundwave\nSlicer\nGoldbug\nFlamewar\nUltra Magnus\nMegatron\nJetfire\nBlitzwing\nRachet\nCyclonus\nProwl\nBlaster\nArcee\nToday's #HasbroPulseCon Magic panel revealed the remaining nine Transformers cards in #MTGBRO! You can find them in Set & Collector boosters, but also each #MTGBRO Bundle will have one!\nFirst up: Ultra Magnus & Megatron pic.twitter.com/k8isZoWMmB\n— Magic: The Gathering (@wizards_magic) October 1, 2022\n\n\n\nThe cards are valid in Commander, Legacy, and Vintage formats, and they’ll be slipped into sets for Magic: The Gathering’s The Brothers’ Arms expansion. IGN asked if these cards would ever get a Standard format version, and Hasbro said no — not right now, but they have the technology.\nThe Brothers’ War expansion is expected to be released on Nov. 18.",
+          "link": "https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement",
+          "publishedOn": "2022-10-03T20:01:12.000Z",
+          "wordCount": 2259,
+          "title": "Transformers officially enter Magic: The Gathering with 15 sick double-sided cards",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/AyE6nzz85ShlWUzqaCXuQa0DJgM=/0x0:1500x785/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24078819/Fd6_oLuWQAAJaHq.jpg"
+        },
         {
           "id": "https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem",
           "author": null,
@@ -22721,6 +22871,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190460",
+          "author": null,
+          "description": "Shiori Mikami, Daisuke Kishio voice characters for ad based on Fuyu Azuma's manga",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/seven-arcs-animates-kao-ni-denai-kashiwada-san-to-kao-ni-deru-ta-kun-manga-ad/.190460",
+          "publishedOn": "2022-10-03T19:35:44.000Z",
+          "wordCount": 3035,
+          "title": "Seven Arcs Animates Kao ni Denai Kashiwada-san to Kao ni Deru О̄ta-kun Manga's Ad",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDF/youtube/vT2IAA23ZHc.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190458",
           "author": null,
@@ -33809,6 +33969,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/uk/uk-tax-sop-for-rich-rolled-back/articleshow/94628579.cms",
+          "author": null,
+          "description": "On Monday, an embattled Kwarteng announced he would not go ahead with plans to abolish the 45p additional tax for those who earn above £150,000 (Rs 1.3 crore) annually in the UK following a growing backlash from the members of his own Conservative party and the public who had branded the move as a tax cut for the rich.",
+          "link": "https://timesofindia.indiatimes.com/world/uk/uk-tax-sop-for-rich-rolled-back/articleshow/94628579.cms",
+          "publishedOn": "2022-10-03T19:09:47.000Z",
+          "wordCount": 9327,
+          "title": "UK ‘tax sop for rich’ rolled back",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94628597,width-1070,height-580,imgsize-62708,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/al-shabab-attack-kills-20-wounds-36-in-town-in-somalia/articleshow/94627800.cms",
           "author": null,
