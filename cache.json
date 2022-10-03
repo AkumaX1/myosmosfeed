@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue",
+          "author": null,
+          "description": "Get ready to start seeing edited tweets in the wild. | Illustration by Alex Castro / The Verge\n    \n\n  \nTwitter is rolling out the ability to edit tweets to Twitter Blue subscribers in Canada, Australia, and New Zealand. According to a tweet from the company, it’ll be coming to subscribers in the US “soon.” \nLast week, we got to see an example of what edited tweets would look like when the company made one of its own. The tweet will appear as normal, but there will be a pencil icon next to the date, along with text that lets readers know the last time the tweet was edited. Clicking on the icon shows you a page with the edited tweet, as well as a history of the edits. The person who tweeted will have up to 30 minutes to make changes and will only be able to make five edits, according to a Twitter support document.\nnow that Edit is rolling out in Twitter Blue Labs, here’s what you can expect \nsee that little icon? it’s there to let you know that the Tweet has been edited pic.twitter.com/Av6vZYuVeO\n— Twitter Blue (@TwitterBlue) October 3, 2022\n\n\n\nThe company has been promising this feature for a while — it announced that it was working on the ability to edit tweets in April, then said it would start rolling the feature out by the end of September. It did slightly miss that deadline, but given how big of a change editable tweets are for the platform, it’s probably best that the company’s taking its time.\nThe feature is currently still in testing right now, and it’s in the Labs section of Twitter Blue, Twitter’s $4.99 a month subscription service. You’re also only able to edit certain types of tweets; things like replies, threads, retweets, and pinned tweets (along with several others) can’t be edited, according to a support document.",
+          "link": "https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue",
+          "publishedOn": "2022-10-03T18:13:29.000Z",
+          "wordCount": 6307,
+          "title": "Twitter’s actually rolling out editable tweets",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/tyspQVYGEzyJMK79FNP_3OQJaB4=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951436/acastro_STK050_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap",
+          "author": null,
+          "description": "Image: Apple\n    \n\n  \nDespite Will Smith’s Oscars slap, Apple will be releasing an upcoming film starring the actor this year. Emancipation, which stars Smith as Peter, a man who has escaped slavery and is on the run to try and return to his family, will debut in theaters on December 2nd and on Apple TV Plus on December 9th, according to Deadline. Apple has also released a teaser trailer.\nApple landed the rights to Emancipation, from director Antoine Fuqua, in a huge deal in 2020, and it’s expected to be an Oscars contender. Smith’s performance is “volcanic,” according to The New York Times’ sources. But the company was put in a tricky position after Smith slapped Chris Rock onstage at this year’s show (where he also won the award for best actor), which led to his resignation from the Academy of Motion Pictures Arts & Sciences and being barred from attending the Oscars for 10 years.\nVariety reported in May that Emancipation was going to be delayed to 2023, but we now know that’s not the case: you’ll be able to watch the film this December.",
+          "link": "https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap",
+          "publishedOn": "2022-10-03T17:34:02.000Z",
+          "wordCount": 6134,
+          "title": "Apple hopes you’ll forgive Will Smith by Christmas",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ksO89X94-Cx80k8Nwh8-gPR6rC0=/0x0:1199x795/1200x628/filters:focal(600x398:601x399)/cdn.vox-cdn.com/uploads/chorus_asset/file/24078003/Emancipation___Official_Teaser___Apple_TV__0_33_screenshot.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23384988/nasa-usgs-map-critical-minerals-southwest-us-clean-energy",
           "author": null,
           "description": "A photo of a NASA ER-2 high-altitude aircraft with the AVIRIS instrument installed. | Image: NASA\n    \n\n  \nNASA and the US Geological Survey plan to deploy aircraft to spot critical minerals buried across the southwest US. They’ll take to the skies to map the minerals, which are crucial to the Biden administration’s plans to build up American clean energy industries. \nGEMx is the name of the joint research effort, which will launch with $16 million in funding made possible through the bipartisan infrastructure law, which passed last year. Over the next five years, NASA’s ER-2 and Gulfstream V aircraft will fly over parts of California, Nevada, Arizona, and New Mexico to collect data that could point to where critical mineral resources are most abundant.\nBoth aircraft will carry a powerful …",
@@ -2528,6 +2548,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html",
+          "author": "Jackie Frere and Isaac Aronow",
+          "description": "Friday, Saturday and Sunday bring some of the hardest puzzles of the week.",
+          "link": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html",
+          "publishedOn": "2022-10-03T17:30:44.000Z",
+          "wordCount": null,
+          "title": "How to Solve Hard Crosswords",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/sports/soccer/us-soccer-abuse-nwsl.html",
           "author": "Kevin Draper",
@@ -7736,6 +7766,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html",
+          "author": "Paul Mozur, Ana Swanson and Edward Wong",
+          "description": "The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.",
+          "link": "https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html",
+          "publishedOn": "2022-10-03T18:01:43.000Z",
+          "wordCount": null,
+          "title": "U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
           "author": "Cade Metz",
           "description": "Uber does not inform the police of such incidents, citing advocacy group guidelines. But officials in a California district argue that it should.",
@@ -8610,6 +8650,26 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/arts/music/steve-lacy-bad-habit-billboard-chart.html",
+          "author": "Ben Sisario",
+          "description": "A left-field hit from a 24-year-old master of alternative R&B displaces Harry Styles’s “As It Was” as the top single, while Bad Bunny logs a 12th week atop the album chart.",
+          "link": "https://www.nytimes.com/2022/10/03/arts/music/steve-lacy-bad-habit-billboard-chart.html",
+          "publishedOn": "2022-10-03T18:02:44.000Z",
+          "wordCount": null,
+          "title": "Steve Lacy’s Streaming Smash ‘Bad Habit’ Climbs to No. 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/arts/music/met-opera-simulcasts-streaming-at-home.html",
+          "author": "Javier C. Hernández",
+          "description": "The company said it would begin offering live simulcasts this month on its website — but only for some customers.",
+          "link": "https://www.nytimes.com/2022/10/03/arts/music/met-opera-simulcasts-streaming-at-home.html",
+          "publishedOn": "2022-10-03T18:00:04.000Z",
+          "wordCount": null,
+          "title": "Coming Soon: Met Operas Streamed Live Into Your Living Room",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/business/media/will-smith-emancipation-release-date.html",
           "author": "Nicole Sperling",
           "description": "Apple said the movie, Mr. Smith’s first since his infamous slap at the Oscars, would be in theaters on Dec. 2 and begin streaming on Dec. 9.",
@@ -8697,6 +8757,16 @@
           "publishedOn": "2022-10-02T19:02:19.000Z",
           "wordCount": null,
           "title": "‘Bros’ Fails at the Box Office, as ‘Smile’ Arrives at No. 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/arts/music/lukas-foss-carnegie-hall.html",
+          "author": "Zachary Woolfe",
+          "description": "Lukas Foss would have turned 100 this year. Here is a selection of key works from a long and varied (and now largely overlooked) career.",
+          "link": "https://www.nytimes.com/2022/10/02/arts/music/lukas-foss-carnegie-hall.html",
+          "publishedOn": "2022-10-02T16:40:46.000Z",
+          "wordCount": null,
+          "title": "Eight Ways of Looking at a Singular Composer",
           "imageUrl": null
         },
         {
@@ -9836,6 +9906,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234604206",
+          "author": "Larisha Paul",
+          "description": "YG Entertainment said it has also filed a lawsuit after personal photos of Jennie and BTS’ member V surfaced online",
+          "link": "https://www.rollingstone.com/music/music-news/blackpink-yg-entertainment-police-investigation-leaked-photos-1234604206/",
+          "publishedOn": "2022-10-03T17:50:50.000Z",
+          "wordCount": 7261,
+          "title": "Blackpink’s Management Asks Police to Investigate After Photo Leak",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/blackpink-video-leak.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234604119",
           "author": "Larisha Paul",
@@ -11860,6 +11940,26 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417320",
+          "author": "Alex Wilhelm",
+          "description": "Liquid Death is more than simply bougie water. It comes with built-in liquidity, ensuring that its investors won't be parched on the deal.\nI will defend the $700M fizzy water by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/i-will-defend-the-700m-fizzy-water/",
+          "publishedOn": "2022-10-03T18:00:49.000Z",
+          "wordCount": 6268,
+          "title": "I will defend the $700M fizzy water",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1326175745.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2414527",
+          "author": "Lauren Simonds",
+          "description": "Golden State Warrior and four-time NBA champion Draymond Green will take the stage at TechCrunch Disrupt on October 18–20 in San Francisco — and get ready for a plot twist. He will bring his popular podcast, “The Draymond Green Show,” to the Disrupt stage with a very special guest — himself. Turning the tables, Green […]\nDraymond Green will flip the script at TechCrunch Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/draymond-green-will-flip-the-script-at-techcrunch-disrupt/",
+          "publishedOn": "2022-10-03T18:00:20.000Z",
+          "wordCount": 6674,
+          "title": "Draymond Green will flip the script at TechCrunch Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/draymond_green-2.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2417348",
           "author": "Aisha Malik",
@@ -18652,6 +18752,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849609699",
+          "author": "Ashley Bardhan",
+          "description": "The 23-year-old Minecraft streamer and YouTuber with over 30 million subscribers, Dream, has only ever appeared to the public wearing a smooth, egg-colored smiley face mask. Other than some blowout cheating allegations that begrudgingly subsided after he admitted wrongdoing, Dream’s three-year-old career has…\nRead more...",
+          "link": "https://kotaku.com/dream-face-reveal-minecraft-youtube-twitch-twitter-1849609699",
+          "publishedOn": "2022-10-03T17:30:00.000Z",
+          "wordCount": 5896,
+          "title": "Big Minecraft YouTuber Dream Reveals Face After Three Years, Gets Bullied For It",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/94bff8034afa8984164d8ae692954c0a.jpg"
+        },
+        {
           "id": "1849609475",
           "author": "Isaiah Colbert",
           "description": "Rumors of a PlayStation 5 remaster for Horizon Zero Dawn percolating online quickly became yet another thorn in the side of Bloodborne players who’ve been desperately wondering when it’s going to be their turn for Papa Sony to acknowledge their favorite game.\nRead more...",
@@ -19939,6 +20049,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem",
+          "author": null,
+          "description": "Image: FromSoftware/Bandai Namco via Polygon\n    \n\n\n  \nThe game’s strongest boss betrays the developer’s biggest weakness\n She lies there, deep in the belly of the Haligtree, as if she had merely dozed off in the shafts of lights that filter down. Malenia the Severed (defender of Miquella!) has fallen to pieces, her one good arm resting at the feet of the whorls and gnarls that held her childlike brother. This enigmatic warrior captured the audience from the moment she appeared, and she featured prominently in the rest of the game’s marketing materials. But instead of becoming an uncontested favorite, she frustrated fans and revealed the limitations of FromSoftware’s imagination.\nMalenia is a hard-as-nails endgame encounter, and while optional, she is a brick wall for a lot of players. Rem…",
+          "link": "https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem",
+          "publishedOn": "2022-10-03T18:05:00.000Z",
+          "wordCount": 2786,
+          "title": "Elden Ring’s Malenia embodies FromSoftware’s problems with women",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/CYbEiPdnfJSrMUYzWqe0x8TpBBg=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23438269/Elden_Ring_Remembrances_boss_items_rewards_guide___14.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23381079/league-of-legends-preseason-patch-2022-chemtech-drake-jungle-pets-overview",
           "author": null,
           "description": "Image: Riot Games\n    \n\n  \nPlus, the most controversial dragon returns\n League of Legends’ preseason patch will hit Riot’s test realm starting Tuesday, and it brings some big changes to the map and jungle. The controversial chemtech drake is returning to the dragon rotation, and junglers will be joined on their route by an elemental pal with added stats.\nRiot traditionally uses preseason as a time for radical changes and big experiments, as it comes after the annual Worlds esports tournament. Some of these changes are reverted or further iterated on. Others, like utility fruit around the map, become mainstays on Summoner’s Rift. \nThe chemtech drake was one of those experiments, and in its original form, it would grant champions a second chance at life after they died in combat. The new dra…",
@@ -20685,6 +20805,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23385017/black-panther-wakanda-forever-namor",
+          "author": null,
+          "description": "Image: Disney\n    \n\n  \nNamor? Nay, more!\n The latest trailer for Black Panther: Wakanda Forever makes it clear war is coming. Namor (Tenoch Huerta), the film’s antagonist, is rushing in like a tidal wave at Wakanda’s darkest hour. It’s an echo of a long-lived comic book rivalry between Black Panther and Namor, and while the shape of the story will be necessarily different, the reasons for a Black Panther sequel featuring Namor remain just as compelling: He’s not just a villain. He’s something more.\nIn an interview with Entertainment Weekly, director Ryan Coogler explains the MCU version of Namor is a little different from his comics counterpart. His kingdom is not Atlantis, but Talocan, a creation original to Wakanda Forever, inspired by Mayan culture and intended to be similar to Wakanda;…",
+          "link": "https://www.polygon.com/23385017/black-panther-wakanda-forever-namor",
+          "publishedOn": "2022-10-03T18:00:00.000Z",
+          "wordCount": 2548,
+          "title": "Namor is more than just Black Panther’s villain",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/UXtlS-N5kZYy9G56Q1-jXNxuAko=/82x0:1213x592/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24077768/namor_black_panterh_wakanda_forever.jpg"
+        },
         {
           "id": "https://www.polygon.com/23378979/smile-2022-horror-about-mental-illness",
           "author": null,
@@ -22436,6 +22566,26 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190458",
+          "author": null,
+          "description": "Game launches on February 17 in Europe",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/labyrinth-of-galleria-the-moon-society-game-story-trailer-reveals-february-14-launch-in-n-america/.190458",
+          "publishedOn": "2022-10-03T17:32:33.000Z",
+          "wordCount": 2989,
+          "title": "Labyrinth of Galleria: The Moon Society Game's Story Trailer Reveals February 14 Launch in N. America",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE0/youtube/w1ja_bf-3yI.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190457",
+          "author": null,
+          "description": "English-dubbed trailer streamed",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/gkids-releases-goodbye-don-glees-anime-film-digitally-on-december-13-bd-dvd-on-december-27/.190457",
+          "publishedOn": "2022-10-03T16:55:48.000Z",
+          "wordCount": 3046,
+          "title": "GKIDS Releases 'Goodbye, Don Glees!' Anime Film Digitally on December 13, BD/DVD on December 27",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/youtube/3NUmAY-jm8E.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.187306",
           "author": null,
@@ -25941,6 +26091,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/chinas-passenger-jet-moves-step-closer-to-take-off/article65967095.ece",
+          "author": "Ananth Krishnan",
+          "description": "Xi calls for more ‘breakthroughs’ in self-sufficiency in critical sectors",
+          "link": "https://www.thehindu.com/news/international/chinas-passenger-jet-moves-step-closer-to-take-off/article65967095.ece",
+          "publishedOn": "2022-10-03T17:50:02.000Z",
+          "wordCount": 6238,
+          "title": "China’s passenger jet moves step closer to take off",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/v6opzl/article65968081.ece/alternates/LANDSCAPE_615/AZKREYAA3RJ45OKAR7SQ2E22XI.jpeg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/pound-jumps-against-dollar-on-uk-tax-u-turn-weak-us-data/article65967840.ece",
+          "author": "AFP",
+          "description": "A week after hitting an all-time low against the US unit, sterling was up 1.1 percent at $1.1301 around 1530 GMT, for a fifth straight day",
+          "link": "https://www.thehindu.com/news/international/pound-jumps-against-dollar-on-uk-tax-u-turn-weak-us-data/article65967840.ece",
+          "publishedOn": "2022-10-03T16:20:12.000Z",
+          "wordCount": 6346,
+          "title": "Pound jumps against dollar on UK tax U-turn, weak US data",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3da6d7/article65553348.ece/alternates/LANDSCAPE_615/2022-06-20T140628Z_414865626_RC2PVU9EE5AP_RTRMADP_3_BRITAIN-STERLING.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/watch-what-is-a-storm-surge/article65967561.ece",
           "author": "The Hindu Bureau",
           "description": "A video on Hurricane Ian",
@@ -28147,6 +28317,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/dhankhar-hosts-dinner-for-leaders-seeks-suggestions-for-smooth-functioning-of-house-sources/articleshow/94627709.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Vice President Jagdeep Dhankhar on Monday sought suggestions from Rajya Sabha floor leaders for a smooth functioning of the House as he hos.",
+          "link": "https://timesofindia.indiatimes.com/india/dhankhar-hosts-dinner-for-leaders-seeks-suggestions-for-smooth-functioning-of-house-sources/articleshow/94627709.cms",
+          "publishedOn": "2022-10-03T17:45:43.000Z",
+          "wordCount": 5758,
+          "title": "Dhankhar hosts dinner for leaders, seeks suggestions for smooth functioning of House: Sources",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627788,width-1070,height-580,imgsize-14556,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/rahul-gandhi-turns-heat-on-bjp-govt-in-karnataka-yatra-gets-festive-response-in-mysuru/articleshow/94627536.cms",
+          "author": null,
+          "description": "Gandhi started the 26th day of his Bharat Jodo Yatra at the crack of dawn and walked through the streets of the old Mysuru town, which was decked up for the famous 10-day Dasara celebrations, and reached Mandya.",
+          "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-turns-heat-on-bjp-govt-in-karnataka-yatra-gets-festive-response-in-mysuru/articleshow/94627536.cms",
+          "publishedOn": "2022-10-03T17:27:43.000Z",
+          "wordCount": 7174,
+          "title": "Rahul Gandhi turns heat on BJP govt in Karnataka, yatra gets festive response in Mysuru",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627661,width-1070,height-580,imgsize-53822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/national-conferences-fight-against-abrogation-of-article-370-still-on-says-farooq-abdullah/articleshow/94627429.cms",
           "author": null,
@@ -33455,6 +33645,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/al-shabab-attack-kills-20-wounds-36-in-town-in-somalia/articleshow/94627800.cms",
+          "author": null,
+          "description": "The Somalia-based al-Shabab claimed responsibility for the attack in Beledweyne, a town more than 300 kilometers (186 miles) north of Somalia's capital, Mogadishu.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/al-shabab-attack-kills-20-wounds-36-in-town-in-somalia/articleshow/94627800.cms",
+          "publishedOn": "2022-10-03T17:45:36.000Z",
+          "wordCount": 7707,
+          "title": "Al-Shabab attack kills 20, wounds 36 in town in Somalia",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627862,width-1070,height-580,imgsize-85550,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-coup-leader-says-vote-still-expected-by-2024/articleshow/94626428.cms",
           "author": null,
           "description": "Burkina Faso's new junta leader Capt. Ibrahim Traore said the West African nation would still aim to hold elections by 2024 or even earlier, as regional mediators headed to the country after its second coup this year.",
@@ -36018,6 +36218,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/city/patna/prashant-kishor-has-undertaken-his-padyatra-as-a-part-of-bjps-agenda-in-bihar-jdu-chief-lalan-singh/articleshow/94627520.cms",
+          "author": null,
+          "description": "Janata Dal (United) national president Rajiv Ranjan Singh alias Lalan Singh on Monday slammed political strategist Prashant Kishor for the latter’s remark that 'there were no development works in the last 30 years in Bihar', and further alleged that Kishor has undertaken his 'Jan Suraj Padyatra' as a \"part of the Bharatiya Janata Party (BJP) agenda\" as he (PK) has been working on behalf of the BJP in the state.",
+          "link": "https://timesofindia.indiatimes.com/city/patna/prashant-kishor-has-undertaken-his-padyatra-as-a-part-of-bjps-agenda-in-bihar-jdu-chief-lalan-singh/articleshow/94627520.cms",
+          "publishedOn": "2022-10-03T17:26:38.000Z",
+          "wordCount": 6492,
+          "title": "'PK has undertaken padyatra as part of BJP's agenda in Bihar'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627514,width-1070,height-580,imgsize-1073999,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/home/science/mars-orbiter-craft-non-recoverable-mangalyaan-mission-over-confirms-isro/articleshow/94627138.cms",
           "author": null,

@@ -2,10 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T17:32:03.917Z</updated>
+    <updated>2022-10-03T18:18:49.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter’s actually rolling out editable tweets]]></title>
+        <id>https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue</id>
+        <link href="https://www.theverge.com/2022/10/3/23385513/twitter-edit-tweets-roll-out-blue"/>
+        <updated>2022-10-03T18:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Get ready to start seeing edited tweets in the wild. | Illustration by Alex Castro / The Verge
+    
+
+  
+Twitter is rolling out the ability to edit tweets to Twitter Blue subscribers in Canada, Australia, and New Zealand. According to a tweet from the company, it’ll be coming to subscribers in the US “soon.” 
+Last week, we got to see an example of what edited tweets would look like when the company made one of its own. The tweet will appear as normal, but there will be a pencil icon next to the date, along with text that lets readers know the last time the tweet was edited. Clicking on the icon shows you a page with the edited tweet, as well as a history of the edits. The person who tweeted will have up to 30 minutes to make changes and will only be able to make five edits, according to a Twitter support document.
+now that Edit is rolling out in Twitter Blue Labs, here’s what you can expect 
+see that little icon? it’s there to let you know that the Tweet has been edited pic.twitter.com/Av6vZYuVeO
+— Twitter Blue (@TwitterBlue) October 3, 2022
+
+
+
+The company has been promising this feature for a while — it announced that it was working on the ability to edit tweets in April, then said it would start rolling the feature out by the end of September. It did slightly miss that deadline, but given how big of a change editable tweets are for the platform, it’s probably best that the company’s taking its time.
+The feature is currently still in testing right now, and it’s in the Labs section of Twitter Blue, Twitter’s $4.99 a month subscription service. You’re also only able to edit certain types of tweets; things like replies, threads, retweets, and pinned tweets (along with several others) can’t be edited, according to a support document.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring’s Malenia embodies FromSoftware’s problems with women]]></title>
+        <id>https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem</id>
+        <link href="https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem"/>
+        <updated>2022-10-03T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: FromSoftware/Bandai Namco via Polygon
+    
+
+
+  
+The game’s strongest boss betrays the developer’s biggest weakness
+ She lies there, deep in the belly of the Haligtree, as if she had merely dozed off in the shafts of lights that filter down. Malenia the Severed (defender of Miquella!) has fallen to pieces, her one good arm resting at the feet of the whorls and gnarls that held her childlike brother. This enigmatic warrior captured the audience from the moment she appeared, and she featured prominently in the rest of the game’s marketing materials. But instead of becoming an uncontested favorite, she frustrated fans and revealed the limitations of FromSoftware’s imagination.
+Malenia is a hard-as-nails endgame encounter, and while optional, she is a brick wall for a lot of players. Rem…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Lacy’s Streaming Smash ‘Bad Habit’ Climbs to No. 1]]></title>
+        <id>https://www.nytimes.com/2022/10/03/arts/music/steve-lacy-bad-habit-billboard-chart.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/arts/music/steve-lacy-bad-habit-billboard-chart.html"/>
+        <updated>2022-10-03T18:02:44.000Z</updated>
+        <summary type="html"><![CDATA[A left-field hit from a 24-year-old master of alternative R&B displaces Harry Styles’s “As It Was” as the top single, while Bad Bunny logs a 12th week atop the album chart.]]></summary>
+        <author>
+            <name>Ben Sisario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms]]></title>
+        <id>https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html"/>
+        <updated>2022-10-03T18:01:43.000Z</updated>
+        <summary type="html"><![CDATA[The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.]]></summary>
+        <author>
+            <name>Paul Mozur, Ana Swanson and Edward Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I will defend the $700M fizzy water]]></title>
+        <id>https://techcrunch.com/?p=2417320</id>
+        <link href="https://techcrunch.com/2022/10/03/i-will-defend-the-700m-fizzy-water/"/>
+        <updated>2022-10-03T18:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Liquid Death is more than simply bougie water. It comes with built-in liquidity, ensuring that its investors won't be parched on the deal.
+I will defend the $700M fizzy water by Alex Wilhelm originally published on TechCrunch]]></summary>
+        <author>
+            <name>Alex Wilhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draymond Green will flip the script at TechCrunch Disrupt]]></title>
+        <id>https://techcrunch.com/?p=2414527</id>
+        <link href="https://techcrunch.com/2022/10/03/draymond-green-will-flip-the-script-at-techcrunch-disrupt/"/>
+        <updated>2022-10-03T18:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Golden State Warrior and four-time NBA champion Draymond Green will take the stage at TechCrunch Disrupt on October 18–20 in San Francisco — and get ready for a plot twist. He will bring his popular podcast, “The Draymond Green Show,” to the Disrupt stage with a very special guest — himself. Turning the tables, Green […]
+Draymond Green will flip the script at TechCrunch Disrupt by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon: Met Operas Streamed Live Into Your Living Room]]></title>
+        <id>https://www.nytimes.com/2022/10/03/arts/music/met-opera-simulcasts-streaming-at-home.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/arts/music/met-opera-simulcasts-streaming-at-home.html"/>
+        <updated>2022-10-03T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The company said it would begin offering live simulcasts this month on its website — but only for some customers.]]></summary>
+        <author>
+            <name>Javier C. Hernández</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namor is more than just Black Panther’s villain]]></title>
+        <id>https://www.polygon.com/23385017/black-panther-wakanda-forever-namor</id>
+        <link href="https://www.polygon.com/23385017/black-panther-wakanda-forever-namor"/>
+        <updated>2022-10-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Disney
+    
+
+  
+Namor? Nay, more!
+ The latest trailer for Black Panther: Wakanda Forever makes it clear war is coming. Namor (Tenoch Huerta), the film’s antagonist, is rushing in like a tidal wave at Wakanda’s darkest hour. It’s an echo of a long-lived comic book rivalry between Black Panther and Namor, and while the shape of the story will be necessarily different, the reasons for a Black Panther sequel featuring Namor remain just as compelling: He’s not just a villain. He’s something more.
+In an interview with Entertainment Weekly, director Ryan Coogler explains the MCU version of Namor is a little different from his comics counterpart. His kingdom is not Atlantis, but Talocan, a creation original to Wakanda Forever, inspired by Mayan culture and intended to be similar to Wakanda;…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackpink’s Management Asks Police to Investigate After Photo Leak]]></title>
+        <id>https://www.rollingstone.com/?p=1234604206</id>
+        <link href="https://www.rollingstone.com/music/music-news/blackpink-yg-entertainment-police-investigation-leaked-photos-1234604206/"/>
+        <updated>2022-10-03T17:50:50.000Z</updated>
+        <summary type="html"><![CDATA[YG Entertainment said it has also filed a lawsuit after personal photos of Jennie and BTS’ member V surfaced online]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s passenger jet moves step closer to take off]]></title>
+        <id>https://www.thehindu.com/news/international/chinas-passenger-jet-moves-step-closer-to-take-off/article65967095.ece</id>
+        <link href="https://www.thehindu.com/news/international/chinas-passenger-jet-moves-step-closer-to-take-off/article65967095.ece"/>
+        <updated>2022-10-03T17:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Xi calls for more ‘breakthroughs’ in self-sufficiency in critical sectors]]></summary>
+        <author>
+            <name>Ananth Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhankhar hosts dinner for leaders, seeks suggestions for smooth functioning of House: Sources]]></title>
+        <id>https://timesofindia.indiatimes.com/india/dhankhar-hosts-dinner-for-leaders-seeks-suggestions-for-smooth-functioning-of-house-sources/articleshow/94627709.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/dhankhar-hosts-dinner-for-leaders-seeks-suggestions-for-smooth-functioning-of-house-sources/articleshow/94627709.cms"/>
+        <updated>2022-10-03T17:45:43.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Vice President Jagdeep Dhankhar on Monday sought suggestions from Rajya Sabha floor leaders for a smooth functioning of the House as he hos.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al-Shabab attack kills 20, wounds 36 in town in Somalia]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/al-shabab-attack-kills-20-wounds-36-in-town-in-somalia/articleshow/94627800.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/al-shabab-attack-kills-20-wounds-36-in-town-in-somalia/articleshow/94627800.cms"/>
+        <updated>2022-10-03T17:45:36.000Z</updated>
+        <summary type="html"><![CDATA[The Somalia-based al-Shabab claimed responsibility for the attack in Beledweyne, a town more than 300 kilometers (186 miles) north of Somalia's capital, Mogadishu.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple hopes you’ll forgive Will Smith by Christmas]]></title>
+        <id>https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap</id>
+        <link href="https://www.theverge.com/2022/10/3/23385304/emancipation-will-smith-apple-tv-plus-release-date-theaters-slap"/>
+        <updated>2022-10-03T17:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Image: Apple
+    
+
+  
+Despite Will Smith’s Oscars slap, Apple will be releasing an upcoming film starring the actor this year. Emancipation, which stars Smith as Peter, a man who has escaped slavery and is on the run to try and return to his family, will debut in theaters on December 2nd and on Apple TV Plus on December 9th, according to Deadline. Apple has also released a teaser trailer.
+Apple landed the rights to Emancipation, from director Antoine Fuqua, in a huge deal in 2020, and it’s expected to be an Oscars contender. Smith’s performance is “volcanic,” according to The New York Times’ sources. But the company was put in a tricky position after Smith slapped Chris Rock onstage at this year’s show (where he also won the award for best actor), which led to his resignation from the Academy of Motion Pictures Arts & Sciences and being barred from attending the Oscars for 10 years.
+Variety reported in May that Emancipation was going to be delayed to 2023, but we now know that’s not the case: you’ll be able to watch the film this December.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labyrinth of Galleria: The Moon Society Game's Story Trailer Reveals February 14 Launch in N. America]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190458</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-03/labyrinth-of-galleria-the-moon-society-game-story-trailer-reveals-february-14-launch-in-n-america/.190458"/>
+        <updated>2022-10-03T17:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Game launches on February 17 in Europe]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Hard Crosswords]]></title>
+        <id>https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html</id>
+        <link href="https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-3.html"/>
+        <updated>2022-10-03T17:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Friday, Saturday and Sunday bring some of the hardest puzzles of the week.]]></summary>
+        <author>
+            <name>Jackie Frere and Isaac Aronow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter’s edit button is rolling out to Blue subscribers in Canada, Australia and New Zealand]]></title>
         <id>https://techcrunch.com/?p=2417348</id>
@@ -15,6 +199,17 @@
 Twitter’s edit button is rolling out to Blue subscribers in Canada, Australia and New Zealand by Aisha Malik originally published on TechCrunch]]></summary>
         <author>
             <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Minecraft YouTuber Dream Reveals Face After Three Years, Gets Bullied For It]]></title>
+        <id>1849609699</id>
+        <link href="https://kotaku.com/dream-face-reveal-minecraft-youtube-twitch-twitter-1849609699"/>
+        <updated>2022-10-03T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 23-year-old Minecraft streamer and YouTuber with over 30 million subscribers, Dream, has only ever appeared to the public wearing a smooth, egg-colored smiley face mask. Other than some blowout cheating allegations that begrudgingly subsided after he admitted wrongdoing, Dream’s three-year-old career has…
+Read more...]]></summary>
+        <author>
+            <name>Ashley Bardhan</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +230,16 @@ The chemtech drake was one of those experiments, and in its original form, it wo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rahul Gandhi turns heat on BJP govt in Karnataka, yatra gets festive response in Mysuru]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rahul-gandhi-turns-heat-on-bjp-govt-in-karnataka-yatra-gets-festive-response-in-mysuru/articleshow/94627536.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rahul-gandhi-turns-heat-on-bjp-govt-in-karnataka-yatra-gets-festive-response-in-mysuru/articleshow/94627536.cms"/>
+        <updated>2022-10-03T17:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Gandhi started the 26th day of his Bharat Jodo Yatra at the crack of dawn and walked through the streets of the old Mysuru town, which was decked up for the famous 10-day Dasara celebrations, and reached Mandya.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Silicon Valley County Battles With Uber Over Reporting of Sexual Assault]]></title>
         <id>https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html</id>
         <link href="https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html"/>
@@ -52,6 +257,16 @@ The chemtech drake was one of those experiments, and in its original form, it wo
         <summary type="html"><![CDATA[A yearlong investigation found U.S. Soccer executives, N.W.S.L. owners and coaches at all levels of American soccer had turned a blind eye toward years of reports of abuse from players.]]></summary>
         <author>
             <name>Kevin Draper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['PK has undertaken padyatra as part of BJP's agenda in Bihar']]></title>
+        <id>https://timesofindia.indiatimes.com/city/patna/prashant-kishor-has-undertaken-his-padyatra-as-a-part-of-bjps-agenda-in-bihar-jdu-chief-lalan-singh/articleshow/94627520.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/patna/prashant-kishor-has-undertaken-his-padyatra-as-a-part-of-bjps-agenda-in-bihar-jdu-chief-lalan-singh/articleshow/94627520.cms"/>
+        <updated>2022-10-03T17:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Janata Dal (United) national president Rajiv Ranjan Singh alias Lalan Singh on Monday slammed political strategist Prashant Kishor for the latter’s remark that 'there were no development works in the last 30 years in Bihar', and further alleged that Kishor has undertaken his 'Jan Suraj Padyatra' as a "part of the Bharatiya Janata Party (BJP) agenda" as he (PK) has been working on behalf of the BJP in the state.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -188,6 +403,16 @@ While this may sound like the trappings of a bustling homebrew scene and fertile
         <summary type="html"><![CDATA[Want to get your paws on the 1970s’ sexiest couch? We found the best deals, dupes, and alternatives for Michel Ducaroy’s iconic Togo sofa.]]></summary>
         <author>
             <name>Mary Frances "Francky" Knapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GKIDS Releases 'Goodbye, Don Glees!' Anime Film Digitally on December 13, BD/DVD on December 27]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190457</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-03/gkids-releases-goodbye-don-glees-anime-film-digitally-on-december-13-bd-dvd-on-december-27/.190457"/>
+        <updated>2022-10-03T16:55:48.000Z</updated>
+        <summary type="html"><![CDATA[English-dubbed trailer streamed]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -461,6 +686,16 @@ Image: Marvel Studios
 Let’s get the obvious one on the table first. In Marvel Comics lore, Shuri has stepped into the boots of the Black Panther before, when supervillains trapped T’Challa in a state between life and death. She earned Bast’s blessing and un…]]></summary>
         <author>
             <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pound jumps against dollar on UK tax U-turn, weak US data]]></title>
+        <id>https://www.thehindu.com/news/international/pound-jumps-against-dollar-on-uk-tax-u-turn-weak-us-data/article65967840.ece</id>
+        <link href="https://www.thehindu.com/news/international/pound-jumps-against-dollar-on-uk-tax-u-turn-weak-us-data/article65967840.ece"/>
+        <updated>2022-10-03T16:20:12.000Z</updated>
+        <summary type="html"><![CDATA[A week after hitting an all-time low against the US unit, sterling was up 1.1 percent at $1.1301 around 1530 GMT, for a fifth straight day]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -4438,6 +4673,16 @@ Update October 2nd, 12:49PM ET: Updated to add that Coinbase has fixed the issue
         <summary type="html"><![CDATA[Trust Assam Cricket Association (ACA) to mess it up every time. Chaos once again reigned supreme at the ACA Barsapara Stadium here during the India-South Africa second T20I on Sunday.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight Ways of Looking at a Singular Composer]]></title>
+        <id>https://www.nytimes.com/2022/10/02/arts/music/lukas-foss-carnegie-hall.html</id>
+        <link href="https://www.nytimes.com/2022/10/02/arts/music/lukas-foss-carnegie-hall.html"/>
+        <updated>2022-10-02T16:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Lukas Foss would have turned 100 this year. Here is a selection of key works from a long and varied (and now largely overlooked) career.]]></summary>
+        <author>
+            <name>Zachary Woolfe</name>
         </author>
     </entry>
     <entry>
