@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23384764/apple-sim-stops-activation-mobile-internet-data",
+          "author": null,
+          "description": "Support for new cellular plan activation using Apple’s own SIM was removed on October 1st. | Image: MacRumors\n    \n\n  \nApple SIM technology is no longer available to activate new cellular data plans on iPads. The Apple SIM, first introduced by Apple in 2014, is a programmable SIM card that could be configured with different operator profiles, eliminating the need to buy a physical SIM from the carrier itself. The change was first spotted by MacRumors. \nApple quietly made the announcement via its cellular data support page, which says that support for new activations using both the standard Apple SIM and embedded Apple SIM would stop from October 1st, 2022. Apple recommends that anyone affected by the change should contact their carrier for details on how to activate a cellular data plan on their iPad.\nThe Apple SIM always seemed like a temporary solution \nThe Apple SIM first appeared as a physical nano-SIM card in the GPS + Cellular versions of the iPad Air 2 and iPad mini 3, and went on to be supported by additional iPad models since its release, including as an embedded SIM in later iPad Pro models. Supported carriers include AT&T, Sprint, and T-Mobile in the US, with additional carriers offered in other regions. You can check if your iPad supports Apple SIM by looking up the technical specifications of your iPad model on the Apple website. MacRumors notes that all models of the iPad Pro, iPad Air, iPad mini, and iPad released since October 2018 support eSIMs — so, no Apple SIM required.\nAs we wrote back in 2014, the Apple SIM seemed to be a temporary measure until Apple could rid the world of SIM cards completely, punctuated by the recent launch of the iPhone 14 in the US with no physical SIM tray at all.",
+          "link": "https://www.theverge.com/2022/10/3/23384764/apple-sim-stops-activation-mobile-internet-data",
+          "publishedOn": "2022-10-03T12:11:22.000Z",
+          "wordCount": 6567,
+          "title": "Apple SIM can no longer activate new cellular data plans on iPads",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/fENzwSoS-rqvqIAfQfbkSppxqLM=/0x0:1600x1200/1200x628/filters:focal(800x600:801x601)/cdn.vox-cdn.com/uploads/chorus_asset/file/24076294/apple_sim_iphone__2_.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23380518/wisk-aero-air-taxi-electric-autonomous-boeing-faa",
           "author": null,
           "description": "Air taxi startup Wisk Aero unveiled its sixth-generation aircraft, an all-electric four-seater that can fly without a human pilot. The Boeing-backed company said it will seek approval from the Federal Aviation Administration to carry passengers as part of a commercial air taxi service. \nWisk, which was formed in 2019 as a joint venture between Boeing and Kitty Hawk, the flying taxi company bankrolled by Google co-founder Larry Page that recently shut down, is in a race to become the first so-called Advanced Air Mobility company to get the green light from the FAA for passenger testing. Wisk claims that its sixth-generation aircraft is the first electric vertical takeoff and landing (eVTOL) candidate for type certification. \nUnder FAA rules, aviation companies need to receive three types of…",
@@ -2318,6 +2328,26 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/briefing/donald-trump-maggie-haberman-book.html",
+          "author": "David Leonhardt",
+          "description": "His speaking style is more strategic than it sometimes seems. Listen for the first time to audio clips from an interview with Maggie Haberman.",
+          "link": "https://www.nytimes.com/2022/10/03/briefing/donald-trump-maggie-haberman-book.html",
+          "publishedOn": "2022-10-03T10:44:49.000Z",
+          "wordCount": null,
+          "title": "Maggie Haberman Talks About Reporting on Donald Trump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/podcasts/the-daily/latino-voters-midterm-elections-polling.html",
+          "author": "Michael Barbaro, Diana Nguyen, Asthaa Chaturvedi, Nina Feldman, Rachel Quester, Paige Cowett, Marion Lozano, Dan Powell and Chris Wood",
+          "description": "What a Times poll revealed about how a key voting bloc sees both parties ahead of November’s elections.",
+          "link": "https://www.nytimes.com/2022/10/03/podcasts/the-daily/latino-voters-midterm-elections-polling.html",
+          "publishedOn": "2022-10-03T10:00:09.000Z",
+          "wordCount": null,
+          "title": "The Latino Voters Who Could Decide the Midterms",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/business/these-job-training-programs-work-and-may-show-others-the-way.html",
           "author": "Steve Lohr",
@@ -11331,6 +11361,46 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=2414689",
+          "author": "Haje Jan Kamps",
+          "description": "Electric cars are great and all, but internal combustion engines (ICE) have one thing going for them: comprehensive, well-oiled infrastructure that means you can add 300 miles of range to your car, in 5 minutes, at any of 65,000 or so gas stations. Compare that with the one-hour stop at only about 6,000 high-speed charging […]\nLoop raises $60M to send EV charging infrastructure for a Loop by Haje Jan Kamps originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/loop-ev-charging-series-a/",
+          "publishedOn": "2022-10-03T12:00:24.000Z",
+          "wordCount": 8316,
+          "title": "Loop raises $60M to send EV charging infrastructure for a Loop",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/Loop-7-Large.jpeg?resize=1200,822"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417025",
+          "author": "Darrell Etherington",
+          "description": "The U.S. Securities and Exchange Commission (SEC) is charging Kim Kardashian for “unlawfully touting” a “crypto security,” the agency announced on Monday morning. The SEC says that Kardashian was in violation of its rules when she promoted a “crypto asset security offered and sold by EthereumMax” without the necessary disclosure that she was paid to […]\nKim Kardashian charged by SEC for pushing crypto, reaches $1.26M settlement by Darrell Etherington originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/kim-kardashian-charged-by-sec-for-pushing-crypto-reaches-1-26m-settlement/",
+          "publishedOn": "2022-10-03T11:41:40.000Z",
+          "wordCount": 6251,
+          "title": "Kim Kardashian charged by SEC for pushing crypto, reaches $1.26M settlement",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241465546.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2416969",
+          "author": "Natasha Lomas",
+          "description": "In the latest quick commerce headspinner, Deliveroo is experimenting with expanding its rapid grocery business by opening a new type of ‘dark store’ in Central London. As well as functioning as a mini warehouse where Deliveroo staff pick orders for couriers operating on its platform to collect and deliver locally to app users, the new […]\nDeliveroo tweaks ‘dark store’ model to let grocery shoppers in the door by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/deliveroo-hop-store/",
+          "publishedOn": "2022-10-03T11:35:42.000Z",
+          "wordCount": 8056,
+          "title": "Deliveroo tweaks ‘dark store’ model to let grocery shoppers in the door",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/Deliveroo_HOP_0861.jpg?resize=1200,801"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2409461",
+          "author": "Kyle Wiggers",
+          "description": "In 2011, the Apache Software Foundation released Flink, a high-throughput, low-latency engine for streaming various data types. A decade later, a startup called Immerok — founded by David Moravek, Holger Temme, Johannes Moser, Konstantin Knauf, Piotr Nowojski and Timo Walther — has developed an Apache Flink cloud service called Immerok Cloud, which is serverless — […]\nWith $17M in funding, Immerok launches cloud service for real-time streaming data by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/with-17m-in-funding-immerok-launches-cloud-service-for-real-time-streaming-data/",
+          "publishedOn": "2022-10-03T11:30:58.000Z",
+          "wordCount": 7031,
+          "title": "With $17M in funding, Immerok launches cloud service for real-time streaming data",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-588253904.jpg?resize=1200,849"
+        },
+        {
           "id": "https://techcrunch.com/?p=2416811",
           "author": "Kirsten Korosec",
           "description": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive the full edition of the newsletter every weekend in your inbox. This is a shorter version of The Station newsletter that is emailed to subscribers. Want all the deals, news roundups and commentary? Subscribe […]\nGeely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways by Kirsten Korosec originally published on TechCrunch",
@@ -14678,6 +14748,21 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "epz59p",
+          "author": "Koh Ewe",
+          "description": "At least 125 people have died, 32 of them children, with the youngest victim said to be only five years old.",
+          "link": "https://www.vice.com/en_us/article/epz59p/indonesia-deadly-soccer-stadium-crush",
+          "publishedOn": "2022-10-03T11:47:56.000Z",
+          "wordCount": 13270,
+          "title": "‘I Found My Brother, His Face Had Turned Blue’: Inside Indonesia’s Deadly Stadium Crush",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633ac30d32d7fd0093ab1938/lede/1664795433095-gettyimages-1243656568.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633ac30d32d7fd0093ab1938/lede/1664795433095-gettyimages-1243656568.jpeg"
+        },
+        {
           "id": "v7vyj9",
           "author": "Annabel Gat",
           "description": "The moon is in Capricorn.",
@@ -16949,6 +17034,16 @@
       "feedUrl": "https://www.vox.com/rss/index.xml",
       "siteUrl": "https://www.vox.com/",
       "articles": [
+        {
+          "id": "https://www.vox.com/world/2022/10/3/23380680/global-elite-have-forgotten-jamal-khashoggis-murder-mbs-new-york-investment-conference",
+          "author": null,
+          "description": "Saudi Crown Prince Mohammed bin Salman attends the Future Investment Initiative (FII) conference in Riyadh on October 24, 2017.  | Fayez Nureldine/AFP via Getty Images\n    \n\n  \nFour years later, the Saudi crown prince is back in the fold.\n Jared Kushner did not want to talk about Jamal Khashoggi.\nI spotted him in the audience in late September at a conference hosted by an offshoot of Saudi Arabia’s sovereign wealth fund, the Future Investment Initiative Institute. \nIt was at a boutique hotel on the Upper East Side of Manhattan, filled with investors, nonprofit leaders, and thought leaders. When I asked Kushner to comment about Khashoggi — the journalist whom the CIA determined that Saudi agents had tortured and killed while Kushner was serving in his father-in-law’s White House — he walked…",
+          "link": "https://www.vox.com/world/2022/10/3/23380680/global-elite-have-forgotten-jamal-khashoggis-murder-mbs-new-york-investment-conference",
+          "publishedOn": "2022-10-03T12:00:00.000Z",
+          "wordCount": 3522,
+          "title": "The global elite have forgotten Jamal Khashoggi’s murder",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LdYei_WdrETk6SbkucHIvEFqd3k=/0x0:3333x1745/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069858/865819290.jpg"
+        },
         {
           "id": "https://www.vox.com/even-better/23380646/create-best-halloween-costume-cheap-diy",
           "author": null,
@@ -19510,6 +19605,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23377427/new-netflix-movies-tv-shows-watch-october-2022",
+          "author": null,
+          "description": "Image: Netflix\n    \n\n  \nA spooktacular selection of horror fantasy TV and film, plus much more\n Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming and going difficult to parse.\nWendell & Wild, the long awaited stop motion horror comedy film from The Nightmare Before Christmas and Coraline director Henry Selick, finally arrives on Netflix. Other titles coming to the streaming service this month include the horror anthology series Guillermo del Toro’s Cabinet of Curiosities, the fantasy drama The School for Good and Evil starring Kerry Washington and Charlize Theron, Midnight Mass creator Mike Flanagan’s new horror series The Midnight Club…",
+          "link": "https://www.polygon.com/23377427/new-netflix-movies-tv-shows-watch-october-2022",
+          "publishedOn": "2022-10-03T12:00:00.000Z",
+          "wordCount": 6073,
+          "title": "Every movie and show coming to Netflix in October",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EBkGOtKRyVX9NJoFmVA0a14pqb0=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069640/0600_KPNK.0330.fin.v01.jpg"
+        },
         {
           "id": "https://www.polygon.com/23383650/house-dragon-episode-7-review-laenor",
           "author": null,
@@ -24616,6 +24721,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/gazprom-nord-stream-leaks-stop-gas-supply-could-resume-on-single-line/article65966507.ece",
+          "author": "Reuters",
+          "description": "Gazprom said Nord Stream 2's 'B' line could still export gas to Europe, if a decision were made to start deliveries.",
+          "link": "https://www.thehindu.com/news/international/gazprom-nord-stream-leaks-stop-gas-supply-could-resume-on-single-line/article65966507.ece",
+          "publishedOn": "2022-10-03T11:45:31.000Z",
+          "wordCount": 5708,
+          "title": "Gazprom | Nord Stream leaks stop, gas supply could resume on single line",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pkskbw/article65943384.ece/alternates/LANDSCAPE_615/2022-09-27T160139Z_1456304715_LYNXMPEI8Q0IU_RTRMADP_3_UKRAINE-CRISIS-CLIMATE-METHANE.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/irans-supreme-leader-ayatollah-ali-khamenei-breaks-silence-on-protests-blames-us/article65966312.ece",
           "author": "AP",
           "description": "His comments come as nationwide protests sparked by Amini's death entered a third week despite the government's efforts to crack down",
@@ -26802,6 +26917,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaishankars-international-terrorism-remarks-irk-pakistan/articleshow/94622113.cms",
+          "author": null,
+          "description": "Pakistan on Monday rejected comments made by External Affairs Minister S Jaishankar, during his Vadodara address, where he drew a comparison between India's IT (Information Technology) industry with that of the IT (international terrorism) industry of the \"neighbouring\" country.",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankars-international-terrorism-remarks-irk-pakistan/articleshow/94622113.cms",
+          "publishedOn": "2022-10-03T12:00:38.000Z",
+          "wordCount": 6264,
+          "title": "Jaishankar's 'international terrorism' remarks irk Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94622157,width-1070,height-580,imgsize-654301,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/government-wants-fertilizer-firms-negotiate-prices-of-phosphoric-acid-below-1100-per-tonne/articleshow/94620688.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Indian fertilizer companies are likely to import phosphoric acid in the range of $1,000-1,050 per tonne, around 40% cheaper than the price .",
+          "link": "https://timesofindia.indiatimes.com/india/government-wants-fertilizer-firms-negotiate-prices-of-phosphoric-acid-below-1100-per-tonne/articleshow/94620688.cms",
+          "publishedOn": "2022-10-03T11:12:47.000Z",
+          "wordCount": 5931,
+          "title": "Government wants fertilizer firms to negotiate prices of phosphoric acid below $1,100 per tonne",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/kcrs-talks-about-national-party-to-strengthen-aimim-says-union-minister-kishan-reddy/articleshow/94620452.cms",
+          "author": null,
+          "description": "India News: HYDERABAD: Telangana chief minister K Chandrashekhar Rao is mooting the idea of a national party in order to strengthen his only political ally, the A.",
+          "link": "https://timesofindia.indiatimes.com/india/kcrs-talks-about-national-party-to-strengthen-aimim-says-union-minister-kishan-reddy/articleshow/94620452.cms",
+          "publishedOn": "2022-10-03T11:08:05.000Z",
+          "wordCount": 5735,
+          "title": "KCR's talks about national party to strengthen AIMIM, says Union minister Kishan Reddy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620524,width-1070,height-580,imgsize-43916,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-in-critical-care-unit-medanta-hospital/articleshow/94620212.cms",
+          "author": null,
+          "description": "Former Uttar Pradesh chief minister Mulayam Singh Yadav is admitted to the 'critical care unit' of Medanta Hospital in Gurugram and is being treated by a 'comprehensive team of specialists', the hospital said on Monday. Mulayam Singh Yadav has been under treatment at the hospital since August 22. He was admitted to the hospital in July as well, sources said.",
+          "link": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-in-critical-care-unit-medanta-hospital/articleshow/94620212.cms",
+          "publishedOn": "2022-10-03T10:58:59.000Z",
+          "wordCount": 5980,
+          "title": "Mulayam Singh Yadav in critical care unit: Medanta Hospital",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620234,width-1070,height-580,imgsize-30950,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/sonia-gandhi-arrives-in-mysuru-for-bharat-jodo-yatras-karnataka-leg-to-join-march-on-october-6/articleshow/94619717.cms",
           "author": null,
@@ -31960,6 +32115,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukrainian-forces-burst-through-russian-lines-in-major-advance-in-south/articleshow/94620655.cms",
+          "author": null,
+          "description": "Ukrainian forces achieved their biggest breakthrough in the south of the country since the war began, bursting through the front and advancing rapidly along the Dnipro River on Monday, threatening to encircle thousands of Russian troops.Kyiv gave no official confirmation of the gains, but Russian sources acknowledged that a Ukrainian tank offensive had advanced dozens of kilometers (miles) along the river's west bank, recapturing a number of villages along the way.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukrainian-forces-burst-through-russian-lines-in-major-advance-in-south/articleshow/94620655.cms",
+          "publishedOn": "2022-10-03T11:13:41.000Z",
+          "wordCount": 11869,
+          "title": "Ukrainian forces burst through Russian lines in major advance in south",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620701,width-1070,height-580,imgsize-107256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-breaks-silence-on-protests-blames-us/articleshow/94619438.cms",
           "author": null,
           "description": "Khamenei described the death of 22-year-old Mahsa Amini in the custody of Iran's morality police, which set off the nationwide protests, as \"a sad incident\" that \"left us heartbroken.\" However, he sharply condemned the protests as a foreign plot to destabilize Iran, echoing authorities' previous comments.",
@@ -34454,6 +34619,66 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/blogs/toi-editorials/what-laureate-svante-paabo-has-taught-us-our-living-relationship-with-extinct-species/",
+          "author": null,
+          "description": "If the science of human evolution has seen multiple revolutions over the last two decades, a lot of the credit for this goes to the man who has just won the Nobel Prize in Physiology...",
+          "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/what-laureate-svante-paabo-has-taught-us-our-living-relationship-with-extinct-species/",
+          "publishedOn": "2022-10-03T12:11:19.000Z",
+          "wordCount": 2737,
+          "title": "Quick Edit: What Laureate Svante Paabo has taught us",
+          "imageUrl": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2018/04/100x100-Quick-Edit-1.png"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/jaishankars-international-terrorism-remarks-irk-pakistan/articleshow/94622113.cms",
+          "author": null,
+          "description": "Pakistan on Monday rejected comments made by External Affairs Minister S Jaishankar, during his Vadodara address, where he drew a comparison between India's IT (Information Technology) industry with that of the IT (international terrorism) industry of the \"neighbouring\" country.",
+          "link": "https://timesofindia.indiatimes.com/india/jaishankars-international-terrorism-remarks-irk-pakistan/articleshow/94622113.cms",
+          "publishedOn": "2022-10-03T12:00:38.000Z",
+          "wordCount": 6264,
+          "title": "Jaishankar's 'international terrorism' remarks irk Pakistan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94622157,width-1070,height-580,imgsize-654301,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-india-rest-virat-kohli-kl-rahul-but-another-stern-test-awaits-bowling-unit/articleshow/94621884.cms",
+          "author": null,
+          "description": "It may be an inconsequential game on paper but Indian bowlers await another tough test against South Africa ahead of the T20 World Cup when the two teams meet in the final game of the three-match series here on Tuesday. Having sealed their first-ever series against South Africa at home, Indian team management has decided to rest its premier batter Virat Kohli and vice-captain KL Rahul for the final game.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-india-rest-virat-kohli-kl-rahul-but-another-stern-test-awaits-bowling-unit/articleshow/94621884.cms",
+          "publishedOn": "2022-10-03T11:55:00.000Z",
+          "wordCount": 8005,
+          "title": "India rest Kohli, Rahul for final T20I vs South Africa",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94621868,width-1070,height-580,imgsize-59346,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kolkata/mahisasura-idol-resembling-mahatma-gandhi-at-kolkata-durga-puja-pandal-sparks-row/articleshow/94620961.cms",
+          "author": null,
+          "description": "Organisers at a Durga Puja pandal in Kolkata had to change the look of a 'Mahishasura' idol with a wig and a moustache, which bore an uncanny resemblance to Mahatma Gandhi and stoked a controversy.",
+          "link": "https://timesofindia.indiatimes.com/city/kolkata/mahisasura-idol-resembling-mahatma-gandhi-at-kolkata-durga-puja-pandal-sparks-row/articleshow/94620961.cms",
+          "publishedOn": "2022-10-03T11:29:54.000Z",
+          "wordCount": 6392,
+          "title": "'Mahishasura' idol resembling Bapu at Puja pandal sparks row",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620961,width-1070,height-580,imgsize-1120011,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-in-critical-care-unit-medanta-hospital/articleshow/94620212.cms",
+          "author": null,
+          "description": "Former Uttar Pradesh chief minister Mulayam Singh Yadav is admitted to the 'critical care unit' of Medanta Hospital in Gurugram and is being treated by a 'comprehensive team of specialists', the hospital said on Monday. Mulayam Singh Yadav has been under treatment at the hospital since August 22. He was admitted to the hospital in July as well, sources said.",
+          "link": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-in-critical-care-unit-medanta-hospital/articleshow/94620212.cms",
+          "publishedOn": "2022-10-03T10:58:59.000Z",
+          "wordCount": 5980,
+          "title": "Mulayam Singh Yadav in critical care unit: Medanta Hospital",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620234,width-1070,height-580,imgsize-30950,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/toisa-2021-meet-the-nominees-achinta-sheuli/articleshow/94620130.cms",
+          "author": null,
+          "description": "The Times of India Sports Awards (TOISA) 2021 awards ceremony will be held on October 14. Ahead of the ceremony the jury meet was held in the capital. Meet one of the big contenders for the TOISA 2021 Male Weightlifter of the Year award - Achinta Sheuli, who recently won a gold medal at the Commonwealth Games in Birmingham.",
+          "link": "https://timesofindia.indiatimes.com/toisa-2021-meet-the-nominees-achinta-sheuli/articleshow/94620130.cms",
+          "publishedOn": "2022-10-03T10:55:36.000Z",
+          "wordCount": 5493,
+          "title": "TOISA 2021: Meet the nominees - Achinta Sheuli",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94620143,width-1070,height-580,imgsize-46646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/toisa-2021-meet-the-nominees-kidambi-srikanth/articleshow/94619449.cms",
           "author": null,
           "description": "The Times of India Sports Awards (TOISA) 2021 awards ceremony will be held on October 14. Ahead of the ceremony the jury meet was held in the capital. Meet one of the big contenders for the TOISA 2021 Male Badminton Player of the Year award - Kidambi Srikanth, who recently won a bronze medal at the Commonwealth Games in Birmingham.",
@@ -34654,6 +34879,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94610160,width-1070,height-580,imgsize-69516,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/lucknow/the-soldier-who-won-mahavir-chakra-twice/articleshow/94609800.cms",
+          "author": null,
+          "description": "Fiercely patriotic, a great leader and soldier is how Phunsog Angmo, the eldest daughter of Col Chewang Rinchen, the youngest to be conferred with Mahavir Chakra, remembered her father.",
+          "link": "https://timesofindia.indiatimes.com/city/lucknow/the-soldier-who-won-mahavir-chakra-twice/articleshow/94609800.cms",
+          "publishedOn": "2022-10-03T03:04:06.000Z",
+          "wordCount": 6216,
+          "title": "The soldier who won Mahavir Chakra twice",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94614956,width-1070,height-580,imgsize-56880,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/timestopten/msid-94604337.cms?utm_source=newsletter&utm_medium=email&utm_campaign=timestop10_daily_newsletter",
           "author": null,
           "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
@@ -34844,6 +35079,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94607438,width-1070,height-580,imgsize-557513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabads-terror-trio-sharpens-claws-back-to-haunt-cops/articleshow/94607388.cms",
+          "author": null,
+          "description": "Mohammed Abdul Zahed's arrest in the latest conspiracy case has once again highlighted the involvement of three alleged ISI handlers of Hyderabad origin - Farhathullah Ghori, Siddiq bin Osman, and Abdul Majeed - for carrying out terror-related activities.",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabads-terror-trio-sharpens-claws-back-to-haunt-cops/articleshow/94607388.cms",
+          "publishedOn": "2022-10-02T23:14:04.000Z",
+          "wordCount": 6383,
+          "title": "Hyderabad's terror trio sharpens claws, back to haunt cops",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607863,width-1070,height-580,imgsize-1701689,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/mumbai/hordes-of-shiv-sena-workers-from-aaditya-thackerays-turf-join-maharashtra-cm-eknath-shinde/articleshow/94607379.cms",
           "author": null,
           "description": "In a setback for Worli MLA and Shiv Sena leader Aaditya Thackeray, 100s of Sena workers from Worli joined CM Eknath Shinde on Sunday, reports Chaitanya Marpakwar. Amid the mass exodus, the Sena took a dig at Shinde saying his \"Dussehra rally will turn out to be a gathering of thieves\".",
@@ -35032,6 +35277,16 @@
           "wordCount": 8635,
           "title": "Mouni Roy walks the ramp in style at Bombay TFW",
           "imageUrl": "https://static.toiimg.com/photo/94605457.cms"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/opinion-poll-predicts-bjps-win-with-thumping-majority-in-gujarat-polls-aap-to-get-maximum-2-seats/articleshow/94605817.cms",
+          "author": null,
+          "description": "An opinion poll released on Sunday predicted the Bharatiya Janata Party's victory with a thumping majority in the Gujarat Assembly polls, due later this year, for a record seventh time by bagging 135-143 seats.According to the opinion poll conducted by ABP News-CVoter, the vote share of BJP and Congress will decrease. The Aam Aadmi Party (AAP) can gain a significant vote share but it will hardly get one or two seats in the 182-member House.",
+          "link": "https://timesofindia.indiatimes.com/india/opinion-poll-predicts-bjps-win-with-thumping-majority-in-gujarat-polls-aap-to-get-maximum-2-seats/articleshow/94605817.cms",
+          "publishedOn": "2022-10-02T17:39:55.000Z",
+          "wordCount": 6489,
+          "title": "Gujarat: Opinion poll predicts landslide BJP win, 2 seats for AAP",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94605808,width-1070,height-580,imgsize-77028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/varanasi/up-over-40-people-suffer-burn-injuries-as-durga-puja-pandal-catches-fire-in-bhadohi/articleshow/94605692.cms",
