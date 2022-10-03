@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T05:36:24.984Z</updated>
+    <updated>2022-10-03T06:23:01.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Europe faces &#039;unprecedented risk&#039; of gas shortage: International Energy Agency]]></title>
+        <id>https://www.thehindu.com/news/international/europe-faces-unprecedented-risk-of-gas-shortage-international-energy-agency/article65965555.ece</id>
+        <link href="https://www.thehindu.com/news/international/europe-faces-unprecedented-risk-of-gas-shortage-international-energy-agency/article65965555.ece"/>
+        <updated>2022-10-03T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The Paris-based IEA said in its quarterly gas report that European Union countries would need to reduce use by 13% over the winter in case of a complete Russian cut-off amid the war in Ukraine.]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S., Philippine forces hold combat drills to brace for crisis]]></title>
+        <id>https://www.thehindu.com/news/international/us-philippine-forces-hold-combat-drills-to-brace-for-crisis/article65965624.ece</id>
+        <link href="https://www.thehindu.com/news/international/us-philippine-forces-hold-combat-drills-to-brace-for-crisis/article65965624.ece"/>
+        <updated>2022-10-03T06:13:12.000Z</updated>
+        <summary type="html"><![CDATA[More than 2,500 U.S. and Philippine marines are participating in combat exercises to be able to respond to any sudden crisis in the region]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian authorities deny vandalism at Shri Bhagavad Gita Park in Brampton city]]></title>
+        <id>https://www.thehindu.com/news/international/canadian-authorities-deny-vandalism-at-shri-bhagavad-gita-park-in-brampton-city/article65965616.ece</id>
+        <link href="https://www.thehindu.com/news/international/canadian-authorities-deny-vandalism-at-shri-bhagavad-gita-park-in-brampton-city/article65965616.ece"/>
+        <updated>2022-10-03T05:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Brampton Mayor Patrick Brown on Sunday night took to Twitter to clarify the matter.]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At least 92 killed in Iran's Mahsa Amini protests: Rights group]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/at-least-92-killed-in-irans-mahsa-amini-protests-rights-group/articleshow/94613030.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/at-least-92-killed-in-irans-mahsa-amini-protests-rights-group/articleshow/94613030.cms"/>
+        <updated>2022-10-03T05:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Middle East News: PARIS: At least 92 people have been killed as Iran has cracked down on women-led protests sparked by the death of Mahsa Amini after her arrest by the .]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bigg Boss 16's Sumbul Touqeer on dealing with fights]]></title>
+        <id>https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-16s-sumbul-touqeer-on-dealing-with-fights-ive-faced-many-challenges-as-a-kid-and-reacted-in-a-wrong-way-but-not-anymore/photostory/94612326.cms</id>
+        <link href="https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-16s-sumbul-touqeer-on-dealing-with-fights-ive-faced-many-challenges-as-a-kid-and-reacted-in-a-wrong-way-but-not-anymore/photostory/94612326.cms"/>
+        <updated>2022-10-03T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[After entertaining everyone with her acting skills in Imlie, Sumbul Touqeer recently made a smashing entry in the Bigg Boss 16 house. Before going inside, Sumbul caught up exclusively with ETimes TV and talked about her decision to do the reality show. From dealing with fights inside, performing tasks to her favourite contestant from the previous seasons, Sumbul spilled the beans about everything. The actress also revealed that her co-star from Imlie, Fahmaan Khan calls her Cheetah and has high hopes from her.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relatives mourn those crushed at Indonesia soccer match]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/relatives-mourn-those-crushed-at-indonesia-soccer-match/articleshow/94612912.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/relatives-mourn-those-crushed-at-indonesia-soccer-match/articleshow/94612912.cms"/>
+        <updated>2022-10-03T05:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Rest of World News: JEMBER, Indonesia: Families and friends of some of the 125 people who died in a deadly crush after an Indonesia soccer match wailed in grief as the bo.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long and healthy life is possible with diabetes: Expert]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/long-and-healthy-life-is-possible-with-diabetes-expert-shares-tips-for-elderly-people-to-manage-chronic-diabetes/photostory/94611964.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/long-and-healthy-life-is-possible-with-diabetes-expert-shares-tips-for-elderly-people-to-manage-chronic-diabetes/photostory/94611964.cms"/>
+        <updated>2022-10-03T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[​"Diabetes is extremely common in elderly people," says Dr V Mohan. Citing a research study done at the Madras Diabetes Research Foundation Dr Mohan says the study found that in Chennai, at age 55 almost 50% of the population have diabetes and another 25-30% have prediabetes. ​]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sidhu Moose Wala murder accused flees from custody]]></title>
+        <id>https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/sidhu-moose-wala-murder-case-accused-gangster-deepak-tinu-escapes-from-police-custody/articleshow/94612328.cms</id>
+        <link href="https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/sidhu-moose-wala-murder-case-accused-gangster-deepak-tinu-escapes-from-police-custody/articleshow/94612328.cms"/>
+        <updated>2022-10-03T05:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Gangster Deepak Tinu, one of the accused in the Sidhu Moose Wala murder case, escaped from police custody in Punjab's Mansa district, official sources said on Sunday. They said a manhunt has been launched to nab Tinu, who escaped on Saturday night when he was brought on a production warrant from Goindwal Sahib jail in another case by the Mansa police, they said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indonesia orders stadium disaster ‘perpetrators’ punished]]></title>
         <id>https://www.thehindu.com/news/international/indonesia-orders-stadium-disaster-perpetrators-punished/article65965530.ece</id>
@@ -109,6 +189,16 @@ Dish and Sling TV subscribers have now regained access to ESPN (and its related 
         <summary type="html"><![CDATA[India News: NEW DELHI: The Indian Air Force (IAF) is set to induct its first batch of indigenously-developed Light Combat Helicopter (LCH) in a major boost to its.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAF inducts first made-in-India light combat helicopters: 5 points]]></title>
+        <id>https://timesofindia.indiatimes.com/india/iaf-to-induct-first-made-in-india-light-combat-helicopters-5-points/articleshow/94611191.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/iaf-to-induct-first-made-in-india-light-combat-helicopters-5-points/articleshow/94611191.cms"/>
+        <updated>2022-10-03T04:36:47.000Z</updated>
+        <summary type="html"><![CDATA[The Indian Air Force (IAF) on Monday inducted its first batch of indigenously-developed Light Combat Helicopter (LCH) in a major boost to its combat prowess. The 5.8-tonne twin-engine LCH is equipped with Shakti engine developed by Hindustan Aeronautics Ltd (HAL) in collaboration with French engine-maker Safran. The LCH has been primarily designed for deployment in high-altitude regions.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
