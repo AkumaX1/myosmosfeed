@@ -2289,6 +2289,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html",
+          "author": "Mark Landler",
+          "description": "The announcement was a major capitulation by the government after tax cuts it announced roiled financial markets and drew widespread criticism.",
+          "link": "https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html",
+          "publishedOn": "2022-10-03T07:43:12.000Z",
+          "wordCount": null,
+          "title": "Truss, in Reversal, Drops Plan to Cut U.K. Tax Rate on High Earners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/world/americas/brazil-elections-runoff-bolsonaro-lula.html",
           "author": "Jack Nicas",
           "description": "The two political titans will face off again later this month in a race widely seen as a major test for one of the world’s largest democracies.",
@@ -24226,6 +24236,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/uk-scraps-tax-cut-for-wealthy-that-sparked-market-turmoil/article65965714.ece",
+          "author": "AP",
+          "description": "The decision to reverse course is likely to put U.K. PM Liz Truss and Finance Minister Kwasi Kwarteng under huge pressure, less than four weeks after they came to power",
+          "link": "https://www.thehindu.com/news/international/uk-scraps-tax-cut-for-wealthy-that-sparked-market-turmoil/article65965714.ece",
+          "publishedOn": "2022-10-03T08:11:08.000Z",
+          "wordCount": 6003,
+          "title": "U.K. scraps tax cut for wealthy that sparked market turmoil",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/88gt8k/article65965966.ece/alternates/LANDSCAPE_615/vbk-kwasi-truss-afp.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/japan-pm-fumio-kishida-vows-to-regain-trust-in-unification-church-controversy/article65965777.ece",
+          "author": "AP",
+          "description": "“I squarely face the people’s voices regarding our relationship with the Unification Church,” Mr. Kishida said in his speech opening the 69-day Parliamentary session.",
+          "link": "https://www.thehindu.com/news/international/japan-pm-fumio-kishida-vows-to-regain-trust-in-unification-church-controversy/article65965777.ece",
+          "publishedOn": "2022-10-03T07:49:00.000Z",
+          "wordCount": 6127,
+          "title": "Japan PM Fumio Kishida vows to regain trust in Unification Church controversy",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/t2qb3f/article65965841.ece/alternates/LANDSCAPE_615/2022-10-03T052804Z_158027837_RC2HTW9NDW9M_RTRMADP_3_JAPAN-POLITICS.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/explained-the-nord-stream-pipeline-leaks-what-happened-and-what-is-at-stake/article65950516.ece",
           "author": "Diksha Munjal",
           "description": "Europe looks at a harsh winter as hopes that Nord Stream pipelines would open up in the next few months are dampened due to extensive damage to the pipelines caused by four successive leaks",
@@ -26332,6 +26362,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/made-in-india-light-combat-helicopters-prachand-inducted-into-iaf/articleshow/94615917.cms",
+          "author": null,
+          "description": "\"For a long time, there was a need for attack helicopters and during the 1999 Kargil war, its need was felt seriously. The LCH is a result of research and development for two decades and its induction into IAF is an important milestone in defence production,\" Singh further said.",
+          "link": "https://timesofindia.indiatimes.com/india/made-in-india-light-combat-helicopters-prachand-inducted-into-iaf/articleshow/94615917.cms",
+          "publishedOn": "2022-10-03T07:54:21.000Z",
+          "wordCount": 7867,
+          "title": "Made-in-India light combat helicopters 'Prachand' inducted into IAF",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94615941,width-1070,height-580,imgsize-28124,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms",
+          "author": null,
+          "description": "Bypolls will be held on two seats - Mokama and Gopalganj - of Bihar , Andheri (East) of Maharashtra, Adampur of Haryana, Munugode of Telangana, Gola Gorakhnath of Uttar Pradesh, and Dhamnagar of Odisha.",
+          "link": "https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms",
+          "publishedOn": "2022-10-03T07:21:21.000Z",
+          "wordCount": 5325,
+          "title": "Seven assembly bypolls in six states on November 3: Election Commission",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94615179,width-1070,height-580,imgsize-40414,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/india-reports-3011-new-coronavirus-infections-and-28-deaths-in-last-24-hours/articleshow/94613252.cms",
           "author": null,
@@ -33814,6 +33864,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/brahmastra-part-1-shiva-box-office-collection-ranbir-kapoors-sci-fi-drama-inches-closer-to-rs-250-crore-nett/articleshow/94616068.cms",
+          "author": null,
+          "description": "‘Brahmastra: Part 1 – Shiva’ Hindi is enjoying a glorious run at the box office. The film is inching closer to Rs 250 crore nett.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/brahmastra-part-1-shiva-box-office-collection-ranbir-kapoors-sci-fi-drama-inches-closer-to-rs-250-crore-nett/articleshow/94616068.cms",
+          "publishedOn": "2022-10-03T07:59:44.000Z",
+          "wordCount": 8743,
+          "title": "‘Brahmastra: Part 1 – Shiva’ box office collection",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94616046,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-51748/94616046.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms",
+          "author": null,
+          "description": "Bypolls will be held on two seats - Mokama and Gopalganj - of Bihar , Andheri (East) of Maharashtra, Adampur of Haryana, Munugode of Telangana, Gola Gorakhnath of Uttar Pradesh, and Dhamnagar of Odisha.",
+          "link": "https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms",
+          "publishedOn": "2022-10-03T07:21:21.000Z",
+          "wordCount": 5325,
+          "title": "Seven assembly bypolls in six states on November 3: EC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94615179,width-1070,height-580,imgsize-40414,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/auto/electric-bikes/hero-vida-electric-scooter-launch-date-price-features-what-to-expect/articleshow/94614014.cms",
           "author": null,
           "description": "The Vida EV will get a swappable battery pack, which comes from Hero MotoCorp's strategic partnership with Gogoro, a Taiwan-based company with expertise in swappable battery tech. Hero MotoCorp also has a partnership with Ather Energy which could offer its charging network and equipment.",
@@ -34052,6 +34122,16 @@
           "wordCount": 5730,
           "title": "Sena workers from Aaditya's turf join Shinde",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94607394,width-1070,height-580,imgsize-27344,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-cm-k-chandrasekhar-rao-to-announce-name-of-national-party-on-dasara/articleshow/94607361.cms",
+          "author": null,
+          "description": "To bolster his national ambition in the run-up to 2024 parliamentary election, Telangana Rashtra Samithi (TRS) boss and CM K Chandrasekhar Rao will formally announce the name of his national party on auspicious Dasara day (Oct 5), exactly at 1:19pm, as per cosmic calculations. Also, KCR is likely to unveil his \"agenda for nation\" at a public meet in Delhi on December 9.",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-cm-k-chandrasekhar-rao-to-announce-name-of-national-party-on-dasara/articleshow/94607361.cms",
+          "publishedOn": "2022-10-02T23:07:41.000Z",
+          "wordCount": 6399,
+          "title": "KCR to announce name of national party on Dasara",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607437,width-1070,height-580,imgsize-1750787,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-war-news-live-updates-october-3/liveblog/94607356.cms",
