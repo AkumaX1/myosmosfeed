@@ -12,6 +12,66 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23384988/nasa-usgs-map-critical-minerals-southwest-us-clean-energy",
+          "author": null,
+          "description": "A photo of a NASA ER-2 high-altitude aircraft with the AVIRIS instrument installed. | Image: NASA\n    \n\n  \nNASA and the US Geological Survey plan to deploy aircraft to spot critical minerals buried across the southwest US. They’ll take to the skies to map the minerals, which are crucial to the Biden administration’s plans to build up American clean energy industries. \nGEMx is the name of the joint research effort, which will launch with $16 million in funding made possible through the bipartisan infrastructure law, which passed last year. Over the next five years, NASA’s ER-2 and Gulfstream V aircraft will fly over parts of California, Nevada, Arizona, and New Mexico to collect data that could point to where critical mineral resources are most abundant.\nBoth aircraft will carry a powerful …",
+          "link": "https://www.theverge.com/2022/10/3/23384988/nasa-usgs-map-critical-minerals-southwest-us-clean-energy",
+          "publishedOn": "2022-10-03T17:11:31.000Z",
+          "wordCount": 7457,
+          "title": "NASA’s aircraft will elevate the hunt for critical minerals in the US",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WbGPCDDS2sBURyzmedCHt1FWdtQ=/0x0:985x739/1200x628/filters:focal(493x370:494x371)/cdn.vox-cdn.com/uploads/chorus_asset/file/24077495/high_altitude_aircraft.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/23385079/apple-airpods-pro-2-disable-case-sounds-how-to",
+          "author": null,
+          "description": "Samar Haddad / The Verge\n    \n\n  \nApple’s second-generation AirPods Pro have more powerful noise cancellation and better sound quality than the original pair, but the company has also made significant improvements to the charging case. Aside from the new lanyard loop, the case itself now contains a speaker that can emit sounds when you’re trying to track it down using Apple’s Find My app.\n\n\nBy default, the case also plays sound effects when you plug it in for charging. Inevitably, some people won’t be a fan of that feature, but thankfully it’s fairly easy to turn off the extra sounds and use the speaker purely for location tracking purposes. \nHow to disable charging sounds\nWith your AirPods Pro connected to your iPhone, open the Settings app.\nTap on the AirPods shortcut near the top of the next screen. Here, you should see whatever name you’ve assigned to your AirPods Pro.\nImage: Chris Welch / The Verge\n      AirPods settings are easier to access as of iOS 16.\n  \n\nOn the AirPods summary page, you’ll see the current battery percentage for your earbuds and case plus settings for noise control, adaptive transparency, ear detection, and more.\nScroll down past all of this until you reach the toggle for Enable Charging Case Sounds.\nTurn off this setting to get rid of the charging sound effects.\n  \n        \n      Image: Chris Welch / The Verge\n      You can turn off the case’s sound effects with a quick flip of a toggle.\n  \n\nIf you find yourself wanting to enable the sounds later on, just return to the same menu and flip the toggle back to green. Again, turning this option off won’t prevent the case from playing sounds if you’re trying to locate it with the Find My app; this only silences the other sounds.",
+          "link": "https://www.theverge.com/23385079/apple-airpods-pro-2-disable-case-sounds-how-to",
+          "publishedOn": "2022-10-03T17:06:36.000Z",
+          "wordCount": 6843,
+          "title": "How to turn off case sound effects on Apple’s second-gen AirPods Pro",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/RB_EJBTaXuNWZ1glIRC1rFfw--k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24077734/HT015_S_Haddad_airpods_pro.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23384999/sony-playstation-5-ps5-jailbreak-kernel-exploit-firmware-403",
+          "author": null,
+          "description": "Sony is likely not pleased. | Illustration by Alex Castro / The Verge\n    \n\n  \nWhile it’s thankfully getting much easier to buy a PlayStation 5, the nearly two-year-old console has had enough time with modders to slowly (very slowly) get picked apart. Now, hackers have demonstrated how a recent IPV6 kernel exploit utilizing a Webkit vulnerability can allow users access to a Debug Settings Menu in the PS5’s dashboard. This menu allows a user to poke and prod around settings usually reserved for developers, including a package installer that can install PKG files for PS4 and PS5 games. \nWhile this may sound like the trappings of a bustling homebrew scene and fertile ground for pirates, the use cases are still fairly limited at this time. In addition to the usual risks of getting your PSN acc…",
+          "link": "https://www.theverge.com/2022/10/3/23384999/sony-playstation-5-ps5-jailbreak-kernel-exploit-firmware-403",
+          "publishedOn": "2022-10-03T16:59:12.000Z",
+          "wordCount": 6300,
+          "title": "Modders have jailbroken the PlayStation 5 on year-old firmware",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/tyK6y0BwTvw_c3Aeyl_rKzvqILM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385024/trevor-project-gaggle-lgbtq-youth-student-surveillance-software-privacy",
+          "author": null,
+          "description": "Gaggle monitors students’ work on school-owned accounts for potentially “harmful” keywords. | Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nThe Trevor Project, a nonprofit that provides crisis support to LGBTQ-plus youth, will cut ties with student-focused monitoring software company Gaggle after the partnership sparked backlash from activists. \nThe organization began listing Gaggle as a “corporate partner” on its website in May, according to a report from The 74, and took what it’s since confirmed to be a $25,000 donation. Gaggle still has The Trevor Project listed as a resource for LGBTQ students in multiple areas of its website.\nGaggle makes and markets software products purporting to review students’ online behavior in school-issued accounts and, using machine learning technolog…",
+          "link": "https://www.theverge.com/2022/10/3/23385024/trevor-project-gaggle-lgbtq-youth-student-surveillance-software-privacy",
+          "publishedOn": "2022-10-03T16:47:28.000Z",
+          "wordCount": 7205,
+          "title": "The Trevor Project cuts ties with student surveillance software after online backlash",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/wiBS1bjJK1ij4Z1gyO2DdjrPpFk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23312847/akrales_220311_5058_0058.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385213/twitter-status-test-update-badges",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nTwitter’s Status feature seemed a bit strange at first. When it first came out that the company was testing a way to attach Status badges to your tweets, Twitter explained it as a way “to provide more context for your followers.” \nContext is all well and good, but Twitter’s uneditable list of choices didn’t make much sense. Adding a “Traveling” status might have made sense in the original what-you-had-for-lunch conception of Twitter, but no longer. And is there anything more cringe than tweeting your grumpiness with a “Case of the Mondays” badge?\nNow, it appears Twitter’s statuses are becoming much more... Twitter-y. Jane Manchun Wong, an engineer and a notable internet sleuth, recently found a bunch of new Status options that make a lot mor…",
+          "link": "https://www.theverge.com/2022/10/3/23385213/twitter-status-test-update-badges",
+          "publishedOn": "2022-10-03T16:45:55.000Z",
+          "wordCount": 6693,
+          "title": "To whom it may concern: Twitter’s Status feature is starting to look like a good idea",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/SK_7etK6np97thvuSx8H4jmYXJI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926011/acastro_STK050_02.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385147/firefly-alpha-rocket-launch-mission-success-orbit-nasa-satellite-deployed",
+          "author": null,
+          "description": "Firefly Aerospace’s Alpha rocket has successfully reached orbit, achieving its objectives and deploying three satellite payloads on board. | Image: Everyday Astronaut\n    \n\n  \nFirefly Aerospace’s Alpha rocket successfully reached orbit following its launch from California’s Vandenberg Space Force Base on Saturday. The launch was announced as a “100% Mission success” while deploying three satellite payloads on board, which according to Firefly, makes it “the first company to launch and reach orbit from US soil in only its second attempt.”\nFirefly Aerospace is a private spaceflight company that develops launch systems for commercial customers. The first unsuccessful Alpha test flight containing its own payload of teeny satellites exploded midflight back in September 2021. The string of bad l…",
+          "link": "https://www.theverge.com/2022/10/3/23385147/firefly-alpha-rocket-launch-mission-success-orbit-nasa-satellite-deployed",
+          "publishedOn": "2022-10-03T16:22:06.000Z",
+          "wordCount": 6637,
+          "title": "Firefly’s Alpha rocket has reached orbit for the first time",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/B8RUvuh1P68DxfCdU-cnQcAb6LQ=/0x0:2160x1208/1200x628/filters:focal(1080x604:1081x605)/cdn.vox-cdn.com/uploads/chorus_asset/file/24077333/20221001080549_842485.png"
+        },
+        {
           "id": "https://www.theverge.com/23381096/mr-harrigans-phone-review-netflix-stephen-king",
           "author": null,
           "description": "Jaeden Martell and Donald Sutherland in Mr. Harrigan’s Phone. | Image: Netflix\n    \n\n\n  \nMr. Harrigan’s Phone is a thriller with an iPhone as the villain and the rare King adaptation that truly captures the entirety of the source material\n Stephen King’s works are full of all kinds of memorable monsters and villains. The likes of the man in black, Pennywise the clown, and Jack Torrance are ingrained in pop culture. In the latest cinematic adaptation, though, the bad guy isn’t a guy at all: it’s an object. Mr. Harrigan’s Phone is a horror story all about being addicted to your smartphone.\nThis review contains spoilers for Mr. Harrigan’s Phone (the book and the movie).\nBased on the short story of the same name from King’s 2020 collection If It Bleeds, Mr. Harrigan’s Phone (written and direct…",
@@ -2469,6 +2529,36 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/sports/soccer/us-soccer-abuse-nwsl.html",
+          "author": "Kevin Draper",
+          "description": "A yearlong investigation found U.S. Soccer executives, N.W.S.L. owners and coaches at all levels of American soccer had turned a blind eye toward years of reports of abuse from players.",
+          "link": "https://www.nytimes.com/2022/10/03/sports/soccer/us-soccer-abuse-nwsl.html",
+          "publishedOn": "2022-10-03T17:27:14.000Z",
+          "wordCount": 6620,
+          "title": "Report Details ‘Systemic’ Abuse of Players in Women’s Soccer",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/03/sports/03USSOCCER-REPORT/03USSOCCER-REPORT-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/hurricane-ian-ring-doorbell-camera.html",
+          "author": "Rebecca Halleck and Audra D. S. Burch",
+          "description": "Many people saw glimpses of the storm’s impact on their homes through their phones.",
+          "link": "https://www.nytimes.com/2022/10/03/us/hurricane-ian-ring-doorbell-camera.html",
+          "publishedOn": "2022-10-03T16:21:47.000Z",
+          "wordCount": null,
+          "title": "Strange Scenes of Ian: From a Doorbell Camera",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/nevada-elections-democrats-republicans.html",
+          "author": "Jennifer Medina and Jonathan Weisman",
+          "description": "Inflation and a rocky economy are bolstering Republicans in their races against incumbent Democrats, motivating “an electorate that simply wants change,” as one G.O.P. consultant says.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/nevada-elections-democrats-republicans.html",
+          "publishedOn": "2022-10-03T16:11:11.000Z",
+          "wordCount": 16974,
+          "title": "Democrats’ Troubles in Nevada Are a Microcosm of Nationwide Headwinds",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/01/multimedia/01pol-nevada-header-1-c9c6/01pol-nevada-header-1-c9c6-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html",
           "author": "Stephanie Saul",
           "description": "Maitland Jones Jr., a respected professor, defended his standards. But students started a petition, and the university dismissed him.",
@@ -4556,6 +4646,16 @@
           "publishedOn": "2022-09-29T15:50:17.000Z",
           "wordCount": null,
           "title": "Zelensky’s Answer to Escalating Russian Threats: Defiance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/29/arts/music/bjork-fossora-review.html",
+          "author": "Jon Pareles",
+          "description": "The Icelandic visionary’s 10th studio album can be thorny and intense, but it finds hope across generations.",
+          "link": "https://www.nytimes.com/2022/09/29/arts/music/bjork-fossora-review.html",
+          "publishedOn": "2022-09-29T15:48:17.000Z",
+          "wordCount": null,
+          "title": "On ‘Fossora,’ Björk Is a Daughter, a Mother and a Universe",
           "imageUrl": null
         },
         {
@@ -7599,6 +7699,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/08/15/well/move/exercise-dementia-risk.html",
+          "author": "Rachel Fairbank",
+          "description": "Several large studies have confirmed that vigorous exercise, walking and even doing household chores can greatly benefit the brain.",
+          "link": "https://www.nytimes.com/2022/08/15/well/move/exercise-dementia-risk.html",
+          "publishedOn": "2022-09-15T02:32:21.000Z",
+          "wordCount": null,
+          "title": "What Types of Exercise Reduce Dementia Risk?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/article/best-judy-blume-books.html",
           "author": "Elisabeth Egan",
           "description": "For 50 years, her books have educated, entertained and connected young readers. Whether you want to revisit a classic or inspire a new fan, here’s what to read.",
@@ -7625,6 +7735,26 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/technology/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
+          "author": "Cade Metz",
+          "description": "Uber does not inform the police of such incidents, citing advocacy group guidelines. But officials in a California district argue that it should.",
+          "link": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
+          "publishedOn": "2022-10-03T17:27:24.000Z",
+          "wordCount": 5537,
+          "title": "A Silicon Valley County Battles With Uber Over Reporting of Sexual Assault",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/01/business/UBER-SANJOSE-01/merlin_214098741_065dcf0a-342a-49d4-8a50-ad032f77d3a0-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/business/media/will-smith-emancipation-release-date.html",
+          "author": "Nicole Sperling",
+          "description": "Apple said the movie, Mr. Smith’s first since his infamous slap at the Oscars, would be in theaters on Dec. 2 and begin streaming on Dec. 9.",
+          "link": "https://www.nytimes.com/2022/10/03/business/media/will-smith-emancipation-release-date.html",
+          "publishedOn": "2022-10-03T16:55:02.000Z",
+          "wordCount": null,
+          "title": "Will Smith Film ‘Emancipation’ Will Be Released in December",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/technology/konnech-election-conspiracy-theories.html",
           "author": "Stuart A. Thompson",
@@ -8479,6 +8609,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/business/media/will-smith-emancipation-release-date.html",
+          "author": "Nicole Sperling",
+          "description": "Apple said the movie, Mr. Smith’s first since his infamous slap at the Oscars, would be in theaters on Dec. 2 and begin streaming on Dec. 9.",
+          "link": "https://www.nytimes.com/2022/10/03/business/media/will-smith-emancipation-release-date.html",
+          "publishedOn": "2022-10-03T16:55:02.000Z",
+          "wordCount": 3006,
+          "title": "Will Smith Film ‘Emancipation’ Will Be Released in December",
+          "imageUrl": "https://static01.nyt.com/images/2022/10/03/business/03apple-willsmith/03apple-willsmith-facebookJumbo.jpg"
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/arts/television/cops-tv-show-history.html",
           "author": "Marc Tracy",
@@ -11104,6 +11244,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234604182",
+          "author": "Tomás Mier",
+          "description": "\"Throughout my career, I've turned down many films that were set in slavery. I never wanted to show us like that. And then this picture came along,\" Smith said over the weekend",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/will-smith-emancipation-trailer-1234604182/",
+          "publishedOn": "2022-10-03T17:16:13.000Z",
+          "wordCount": 7399,
+          "title": "Will Smith Returns to Film After Oscars Slap With Intense ‘Emancipation’ Trailer",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/emancipation-movie-will-smith.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1396641",
+          "author": "Angie Martoccio",
+          "description": "In a wide-ranging interview the actress reflects on her nearly 50-year career and her secrets to a life well lived",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/jamie-lee-curtis-halloween-ends-freaky-friday-christopher-guest-interview-1396641/",
+          "publishedOn": "2022-10-03T17:11:12.000Z",
+          "wordCount": 9749,
+          "title": "Jamie Lee Curtis Talks the End of ‘Halloween,’ Her Number One Piece of Advice, and Rapping With Lindsay Lohan",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/09/last-word-jamie-lee-curtis.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234604009",
           "author": "Larisha Paul",
           "description": "For the first time, the new Black Panther is revealed in full form",
@@ -11700,6 +11860,56 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417348",
+          "author": "Aisha Malik",
+          "description": "Twitter is rolling out the ability to edit tweets to Blue subscribers in Canada, Australia and New Zealand, the social network announced on Monday. The company says the edit tweet button will roll out to Blue subscribers in the U.S. soon, but didn’t provide a specific launch date. With the edit button, users will be […]\nTwitter’s edit button is rolling out to Blue subscribers in Canada, Australia and New Zealand by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/twitters-edit-button-is-rolling-out-to-blue-subscribers-in-canada-australia-and-new-zealand/",
+          "publishedOn": "2022-10-03T17:30:08.000Z",
+          "wordCount": 6432,
+          "title": "Twitter’s edit button is rolling out to Blue subscribers in Canada, Australia and New Zealand",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/twitter-edit-button.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417057",
+          "author": "Ron Miller",
+          "description": "With public stock valuations way down, it's surprising we aren't seeing more aggressive M&A activity from acquisitive companies and private equity alike.\nWhy aren’t we seeing more aggressive SaaS M&A? by Ron Miller originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/why-arent-we-seeing-more-aggressive-saas-ma/",
+          "publishedOn": "2022-10-03T17:01:42.000Z",
+          "wordCount": 6255,
+          "title": "Why aren’t we seeing more aggressive SaaS M&A?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1139390295.jpg?resize=1200,768"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417262",
+          "author": "Lucas Matney",
+          "description": "While the broader virtual reality industry earnestly waits for Meta’s next announcements around new VR products at its Connect event next week, Google’s venture arm GV is placing an interesting bet in a startup building up an ecosystem around some of Meta’s hardware. GV has led a $12 million Series A investment in SideQuest, the […]\nGoogle’s GV backs SideQuest, an unofficial Meta Quest app store by Lucas Matney originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/googles-gv-backs-sidequest-an-unofficial-meta-quest-app-store/",
+          "publishedOn": "2022-10-03T16:46:02.000Z",
+          "wordCount": 7477,
+          "title": "Google’s GV backs SideQuest, an unofficial Meta Quest app store",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1239009531.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417204",
+          "author": "Sarah Perez",
+          "description": "Dating app Bumble has been experimenting with a new way for its users to connect. The company has been quietly testing a speed dating feature in its U.K. market, which allows users to join the app on a designated night and time to engage in brief chats with other members before they’ve seen their photo […]\nBumble is testing a speed dating feature where users chat before matching by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/bumble-is-testing-a-speed-dating-feature-where-users-chat-before-matching/",
+          "publishedOn": "2022-10-03T16:43:10.000Z",
+          "wordCount": 7204,
+          "title": "Bumble is testing a speed dating feature where users chat before matching",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/11/bumble-app-screen-ios.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417239",
+          "author": "Ivan Mehta",
+          "description": "YouTube’s Premium paid subscription includes benefits like ad-free viewing, video and song downloads for offline consumption, and background plays. Now, it might also be shifting video streaming in 4K resolution (currently free for all users) to the premium tier. Over the weekend, users across Reddit and Twitter noted that YouTube had been asking them to […]\nYouTube is asking some users to purchase a Premium subscription to watch in 4K by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/youtube-is-asking-some-users-to-purchase-a-premium-subscription-to-watch-in-4k/",
+          "publishedOn": "2022-10-03T16:40:28.000Z",
+          "wordCount": 6297,
+          "title": "YouTube is asking some users to purchase a Premium subscription to watch in 4K",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?resize=1200,674"
+        },
         {
           "id": "https://techcrunch.com/?p=2417195",
           "author": "Natasha Lomas",
@@ -15238,6 +15448,66 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "xgy493",
+          "author": "Trone Dowd",
+          "description": "The agency spent decades tracking the legendary singer’s movements—and repeatedly found nothing incriminating.",
+          "link": "https://www.vice.com/en_us/article/xgy493/fbi-aretha-franklin-investigation",
+          "publishedOn": "2022-10-03T17:19:36.000Z",
+          "wordCount": 5686,
+          "title": "All the Wildest Things From the FBI’s 40 Year Aretha Franklin Investigation",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b1357ac70f9009bb75cac/lede/1664816114856-gettyimages-137029356.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b1357ac70f9009bb75cac/lede/1664816114856-gettyimages-137029356.jpeg"
+        },
+        {
+          "id": "88gymz",
+          "author": "Mary Frances \"Francky\" Knapp",
+          "description": "Want to get your paws on the 1970s’ sexiest couch? We found the best deals, dupes, and alternatives for Michel Ducaroy’s iconic Togo sofa.",
+          "link": "https://www.vice.com/en_us/article/88gymz/togo-sofa-replica-alternative",
+          "publishedOn": "2022-10-03T16:57:08.000Z",
+          "wordCount": 10434,
+          "title": "Where to Buy Togo Sofas (and Equally Cool Affordable Dupes)",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/62757b66bcca36009c68f22a/lede/1651869852210-togosofa.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/62757b66bcca36009c68f22a/lede/1651869852210-togosofa.jpeg"
+        },
+        {
+          "id": "dy74qk",
+          "author": "Suzy Katz",
+          "description": "For most people, simply logging off isn’t an option. So what can you do to protect your well-being?",
+          "link": "https://www.vice.com/en_us/article/dy74qk/trauma-therapy-for-online-harrassment",
+          "publishedOn": "2022-10-03T16:33:05.000Z",
+          "wordCount": 22209,
+          "title": "When Online Harassment Is So Awful You Need Trauma Therapy",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b04bd856cce009acd8341/lede/1664812223794-blaneasratonlinetraumatherapysitelede.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b04bd856cce009acd8341/lede/1664812223794-blaneasratonlinetraumatherapysitelede.png"
+        },
+        {
+          "id": "z34q95",
+          "author": "Carter Sherman",
+          "description": "She's not the only person to say Walgreens delayed or denied a prescription for needed medication.",
+          "link": "https://www.vice.com/en_us/article/z34q95/arizona-teen-denied-arthritis-medication-abortion",
+          "publishedOn": "2022-10-03T16:25:27.000Z",
+          "wordCount": 4965,
+          "title": "Teen Couldn’t Get Arthritis Meds After Abortion Ban. She Wasn’t Even Pregnant.",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b0a102ccb790095160d04/lede/1664814129041-gettyimages-1239619280.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b0a102ccb790095160d04/lede/1664814129041-gettyimages-1239619280.jpeg"
+        },
+        {
           "id": "qjkw9b",
           "author": "Greg Walters",
           "description": "Donald Trump was inspired by James Brown and pro wrestling and wanted to make a big scene when he left the hospital, according to a new book.",
@@ -18382,6 +18652,36 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849609475",
+          "author": "Isaiah Colbert",
+          "description": "Rumors of a PlayStation 5 remaster for Horizon Zero Dawn percolating online quickly became yet another thorn in the side of Bloodborne players who’ve been desperately wondering when it’s going to be their turn for Papa Sony to acknowledge their favorite game.\nRead more...",
+          "link": "https://kotaku.com/horizon-zero-dawn-remaster-ps5-rumor-sony-bloodborne-1849609475",
+          "publishedOn": "2022-10-03T16:55:00.000Z",
+          "wordCount": 5883,
+          "title": "Rumored Horizon Zero Dawn Remaster Reports Have Bloodborne Fans Fuming",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6517c6ad09c53f07aff7427c173bc789.jpg"
+        },
+        {
+          "id": "1849609372",
+          "author": "Ethan Gach",
+          "description": "Hackers have been circling the PS5 for almost a year now, and it appears they may have finally managed to jailbreak the 2020 hardware with a new kernel-level exploit first discovered on the PS4. While it doesn’t allow access to execute certain types of code, the exploit has made it possible for at least one person to…\nRead more...",
+          "link": "https://kotaku.com/ps5-jailbreak-hack-kernel-exploit-p-t-kojima-ps4-1849609372",
+          "publishedOn": "2022-10-03T16:37:07.000Z",
+          "wordCount": 5690,
+          "title": "PS5 Seemingly Jailbroken Using PS4 Exploit, Can Now Run Kojima’s P.T.",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3e25c1b4488d6b5a3e51eda1b44f7cd.jpg"
+        },
+        {
+          "id": "1849609027",
+          "author": "John Walker",
+          "description": "Accusations of cheating in live games are quite the thing at the moment. While chess is embroiled in the most peculiar of cheating allegations, it now seems the world of poker is having a turn. After an extraordinary moment in a live-broadcast high-stakes cash game, people are accusing poker pro Robbi Jade Lew of…\nRead more...",
+          "link": "https://kotaku.com/poker-2022-cheat-adelstein-robbi-jade-lew-instagram-1849609027",
+          "publishedOn": "2022-10-03T16:25:00.000Z",
+          "wordCount": 7742,
+          "title": "Pro Poker Rocked By Cheating Scandal Where Winner Repaid $269K To Loser",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/560636a5fc373ea4b25f6799f90750ae.jpg"
+        },
+        {
           "id": "1849608540",
           "author": "Ethan Gach",
           "description": "Some of the core developers behind beloved 2019 indie RPG Disco Elysium, including the author of the novel it’s based on, are no longer working at the studio that created it. The news was revealed in a blog post written by an editor on the game, Martin Luiga, who claims studio leadership at ZA/UM forced out the lead…\nRead more...",
@@ -19639,6 +19939,26 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23381079/league-of-legends-preseason-patch-2022-chemtech-drake-jungle-pets-overview",
+          "author": null,
+          "description": "Image: Riot Games\n    \n\n  \nPlus, the most controversial dragon returns\n League of Legends’ preseason patch will hit Riot’s test realm starting Tuesday, and it brings some big changes to the map and jungle. The controversial chemtech drake is returning to the dragon rotation, and junglers will be joined on their route by an elemental pal with added stats.\nRiot traditionally uses preseason as a time for radical changes and big experiments, as it comes after the annual Worlds esports tournament. Some of these changes are reverted or further iterated on. Others, like utility fruit around the map, become mainstays on Summoner’s Rift. \nThe chemtech drake was one of those experiments, and in its original form, it would grant champions a second chance at life after they died in combat. The new dra…",
+          "link": "https://www.polygon.com/23381079/league-of-legends-preseason-patch-2022-chemtech-drake-jungle-pets-overview",
+          "publishedOn": "2022-10-03T17:28:13.000Z",
+          "wordCount": 2547,
+          "title": "League of Legends’ preseason patch adds Pokémon-like pals",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/jKIXCsP0zWb5D65xSCU3prerTOU=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24077786/100322_Preseason_Preview_2023_Banner.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23385273/google-stadia-shut-down-ubisoft-cyberpunk-2077-game-saves-hitman-destiny-2",
+          "author": null,
+          "description": "Image: Ubisoft Quebec/Ubisoft\n    \n\n  \nNothing definite, but ‘we’re working to bring the games’ to another platform, says Ubi\n Some major publishers who took a gamble on Google’s soon-to-be-defunct Stadia have sent signs to players that they’re trying to bring the games, or at least their game saves, to other platforms.\nOver the weekend, Ubisoft customer support’s official Twitter account said “we’re working to bring the games you own on Stadia to PC through Ubisoft Connect,” the publisher’s first-party games launcher. Io Interactive, makers of the Hitman franchise, say they’re also “looking for ways to continue your Hitman experience on other platforms.”\nUbisoft has 38 games, the most of any publisher, available on Google Stadia. When Stadia’s servers go offline Jan. 18, 2023, players los…",
+          "link": "https://www.polygon.com/23385273/google-stadia-shut-down-ubisoft-cyberpunk-2077-game-saves-hitman-destiny-2",
+          "publishedOn": "2022-10-03T16:29:06.000Z",
+          "wordCount": 2274,
+          "title": "Ubisoft, Cyberpunk, and Destiny 2 players await ‘next steps’ with Stadia shutdown",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/aFfZKFYtTRMABMAnudvB5eTGiQU=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11519145/vlcsnap_2018_06_11_17h24m01s509.jpg"
+        },
+        {
           "id": "https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company",
           "author": null,
           "description": "Photo: Drew Angerer/Getty Images\n    \n\n  \nFran Townsend will still act as senior counsel to CEO Bobby Kotick\n Activision Blizzard’s executive vice president for corporate affairs, Fran Townsend, is leaving her executive role at the company, Activision Blizzard CEO Bobby Kotick announced Thursday in an email to staff. A Wall Street Journal report published Friday first reported the news.\nTownsend, who is a former homeland security advisor under President George W. Bush, is not moving far away from Activision Blizzard; she’ll now act as “senior counsel” to Kotick and Activision Blizzard’s board of directors, according to an email from Kotick obtained by Kotaku. Two other executives, Jen Brewer and Luci Altman, will also move into new roles — chief ethics and compliance officer and corporate …",
@@ -20365,6 +20685,36 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23378979/smile-2022-horror-about-mental-illness",
+          "author": null,
+          "description": "Image: Paramount Pictures\n    \n\n  \nWriter-director Parker Finn loves provoking an audience, even in a sensitive story  \n Audiences may relate to the deeply creepy horror movie Smile differently based on whether they’ve had any experience with navigating mental illness, in themselves or in someone close to them. Smile is frightening in some pretty standard creature-feature ways, with a ton of jump-scares and disturbing imagery designed to give people nightmares. But it’s also in large part about what it’s like to carry the weight of anxiety, trauma, or other mental pain, and about how difficult it can be to convey that weight to other people.\n“I think it’s so relatable,” writer-director Parker Finn told Polygon at Fantastic Fest, where the movie first premiered. “Everybody walks around carr…",
+          "link": "https://www.polygon.com/23378979/smile-2022-horror-about-mental-illness",
+          "publishedOn": "2022-10-03T16:55:00.000Z",
+          "wordCount": 3028,
+          "title": "Smile’s take on mental illness was designed to be messy and complicated",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6kJ-UrUiLY9ovD8yIuEsX2naXtA=/84x0:3037x1546/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24068491/smileff80__1_.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23380782/mcdonalds-adult-happy-meals-toys",
+          "author": null,
+          "description": "Image: McDonald’s USA\n    \n\n  \nWe can drag the fast food chain all we want, but the idea will work\n The massive fast-food chain McDonald’s announced on Thursday that it would be releasing special Happy Meals for adults as part of a collaboration with the fashion streetwear brand Cactus Plant Flea Market (CPFM). Once it launches Monday, people will have a chance to get one of four collectible figurines of McDonald’s mascots — Grimace, the Hamburglar, Birdie, and a new friend named Cactus Buddy — all packaged in a special edition Happy Meal box. \nCPFM is a high-end fashion brand known for its eccentric and playful graphic imagery. The figurines that will come with this meal look like cursed, distorted versions of the McDonald’s mascots. Grimace, for example, has four eyes and looks like he w…",
+          "link": "https://www.polygon.com/23380782/mcdonalds-adult-happy-meals-toys",
+          "publishedOn": "2022-10-03T16:35:50.000Z",
+          "wordCount": 2422,
+          "title": "McDonald’s Happy Meals for adults make sense in a Funko-obsessed world",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TPRzi6li90zawWrkcyP82Quugrg=/0x28:1440x782/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069713/newsroom_1920x1080_2_1664489234466.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23384982/who-is-new-black-panther-wakanda-forever-shuri",
+          "author": null,
+          "description": "Image: Marvel Studios\n    \n\n  \nIt SURE looks like it’s SHURi\n The first teaser for Black Panther: Wakanda Forever confirmed what many fans had suspected — someone else would take up the mantle of the Black Panther after T’Challa’s (and star Chadwick Boseman’s) death. \nAnd with Monday’s full trailer, Marvel has finally hinted at who might take over. In a continuing trend of the Marvel’s recent Phases, a woman will step into the role of Wakanda’s protector. \nThe question is, who? Let’s explore the possibilities. \nShuri as Black Panther\nImage: Marvel Studios\n  \nLet’s get the obvious one on the table first. In Marvel Comics lore, Shuri has stepped into the boots of the Black Panther before, when supervillains trapped T’Challa in a state between life and death. She earned Bast’s blessing and un…",
+          "link": "https://www.polygon.com/23384982/who-is-new-black-panther-wakanda-forever-shuri",
+          "publishedOn": "2022-10-03T16:21:20.000Z",
+          "wordCount": 2848,
+          "title": "The new Black Panther trailer has basically revealed who the new Black Panther is",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/gooNetrJXSTaI-tdPiZgXCpePSU=/62x0:3263x1676/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24077744/BPL1160_comp_DDO_v0237.1180_R2.jpg"
+        },
         {
           "id": "https://www.polygon.com/23379127/house-dragon-kids-are-screwed",
           "author": null,
@@ -27798,6 +28148,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/national-conferences-fight-against-abrogation-of-article-370-still-on-says-farooq-abdullah/articleshow/94627429.cms",
+          "author": null,
+          "description": "India News: SRINAGAR: National Conference (NC) president Farooq Abdullah Monday said the party is fighting a legal and a political battle against the abrogation o.",
+          "link": "https://timesofindia.indiatimes.com/india/national-conferences-fight-against-abrogation-of-article-370-still-on-says-farooq-abdullah/articleshow/94627429.cms",
+          "publishedOn": "2022-10-03T17:19:04.000Z",
+          "wordCount": 5653,
+          "title": "National Conference's fight against abrogation of Article 370 still on, says Farooq Abdullah",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627460,width-1070,height-580,imgsize-33118,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/eviction-residents-allege-water-supply-and-other-services-stopped-at-ai-vasant-vihar-colony/articleshow/94626966.cms",
+          "author": null,
+          "description": "Water supply and several other basic facilities at Air India’s posh Vasant Vihar colony were discontinued on Monday evening, in a bid to get employees to vacate the same. The government had asked close to 2,000 Air India employees living in the airline’s staff colonies to vacate their official accommodation latest by July 26, 2022 — six months after AI's divestment.",
+          "link": "https://timesofindia.indiatimes.com/india/eviction-residents-allege-water-supply-and-other-services-stopped-at-ai-vasant-vihar-colony/articleshow/94626966.cms",
+          "publishedOn": "2022-10-03T16:44:18.000Z",
+          "wordCount": 6526,
+          "title": "Eviction: Residents allege ‘water supply and other services stopped’ at AI Vasant Vihar colony",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626991,width-1070,height-580,imgsize-1368494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-shifted-to-ccu-as-condition-doesnt-show-desired-result/articleshow/94626787.cms",
+          "author": null,
+          "description": "Prayers Across State For His Speedy Recovery.",
+          "link": "https://timesofindia.indiatimes.com/india/mulayam-singh-yadav-shifted-to-ccu-as-condition-doesnt-show-desired-result/articleshow/94626787.cms",
+          "publishedOn": "2022-10-03T16:38:41.000Z",
+          "wordCount": 6126,
+          "title": "Mulayam Singh Yadav shifted to CCU as condition doesn't show 'desired result'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626899,width-1070,height-580,imgsize-24058,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms",
+          "author": null,
+          "description": "The CBI has apprehended a Russian hacker who is supposedly the mastermind behind the JEE mains paper leak case reported last year. The suspect had a look out circular issued against him and was detained at immigration at the Delhi airport upon arrival from Kazakhstan. The suspect has been identified as Mikhail Shargin, officials said.",
+          "link": "https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms",
+          "publishedOn": "2022-10-03T16:29:15.000Z",
+          "wordCount": 6161,
+          "title": "Russian hacker apprehended by CBI for JEE 2021 paper leak",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626781,width-1070,height-580,imgsize-31732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/cbi-detains-russian-national-in-jee-mains-exam-manipulation-case/articleshow/94625119.cms",
           "author": null,
           "description": "The CBI has detained a Russian national at Indira Gandhi International Airport in connection with its probe into alleged manipulation of JEE (Mains) examination last year, officials said Monday. The central agency had issued a 'Look Out Circular' against the foreign national, suspected to be main hacker, for alleged manipulation of the prestigious examination, they said.",
@@ -33065,6 +33455,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-coup-leader-says-vote-still-expected-by-2024/articleshow/94626428.cms",
+          "author": null,
+          "description": "Burkina Faso's new junta leader Capt. Ibrahim Traore said the West African nation would still aim to hold elections by 2024 or even earlier, as regional mediators headed to the country after its second coup this year.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/burkina-faso-coup-leader-says-vote-still-expected-by-2024/articleshow/94626428.cms",
+          "publishedOn": "2022-10-03T16:01:44.000Z",
+          "wordCount": 9171,
+          "title": "Burkina Faso coup leader says vote still expected by 2024",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626474,width-1070,height-580,imgsize-140448,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/head-of-russian-held-ukrainian-nuclear-plant-freed-un-watchdog/articleshow/94626313.cms",
           "author": null,
           "description": "The detained chief of Ukraine's Russian-held nuclear power plant has been released, the head of the UN nuclear watchdog said Monday. Zaporizhzhia -- Europe's largest nuclear energy facility -- has been at the centre of recent tensions after Moscow and Kyiv accused each other of strikes on and near the plant, raising fears of an atomic disaster.",
@@ -35619,6 +36019,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/home/science/mars-orbiter-craft-non-recoverable-mangalyaan-mission-over-confirms-isro/articleshow/94627138.cms",
+          "author": null,
+          "description": "The Indian Space Research Organisation confirmed on Monday that the Mars Orbiter craft has lost communication with ground station, it's non-recoverable and the Mangalyaan mission has attained end-of-life.",
+          "link": "https://timesofindia.indiatimes.com/home/science/mars-orbiter-craft-non-recoverable-mangalyaan-mission-over-confirms-isro/articleshow/94627138.cms",
+          "publishedOn": "2022-10-03T16:59:21.000Z",
+          "wordCount": 5511,
+          "title": "Mangalyaan mission over, confirms Isro",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627211,width-1070,height-580,imgsize-58810,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms",
+          "author": null,
+          "description": "The CBI has apprehended a Russian hacker who is supposedly the mastermind behind the JEE mains paper leak case reported last year. The suspect had a look out circular issued against him and was detained at immigration at the Delhi airport upon arrival from Kazakhstan. The suspect has been identified as Mikhail Shargin, officials said.",
+          "link": "https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms",
+          "publishedOn": "2022-10-03T16:29:15.000Z",
+          "wordCount": 6161,
+          "title": "Russian hacker held by CBI for JEE 2021 paper leak",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626781,width-1070,height-580,imgsize-31732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-icc-mens-t20-world-cup-bcci/articleshow/94625625.cms",
           "author": null,
           "description": "The BCCI on Monday officially ruled out ace India pacer Jasprit Bumrah from the upcoming ICC Men's T20 World Cup in Australia due to back injury. \"The BCCI will be naming a replacement for Jasprit Bumrah in the squad for the marquee tournament soon,\" the statement further added.",
@@ -35997,6 +36417,16 @@
           "wordCount": 6612,
           "title": "IAF inducts first made-in-India light combat helicopters: 5 points",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94611285,width-1070,height-580,imgsize-41500,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/another-defeat-in-ukraine-undermines-vladimir-putins-forever-goals/articleshow/94610184.cms",
+          "author": null,
+          "description": "Outnumbered and increasingly encircled by Kyiv’s forces, several thousand Russian troops withdrew from Lyman in Donetsk province over the weekend. The fall of Lyman makes a mockery of Putin’s annexation move, showing he can’t hold what he now says is Russian land, according to Lawrence Freedman, a military historian and emeritus professor of War Studies at King’s College London.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/another-defeat-in-ukraine-undermines-vladimir-putins-forever-goals/articleshow/94610184.cms",
+          "publishedOn": "2022-10-03T03:37:48.000Z",
+          "wordCount": 10671,
+          "title": "Another defeat in Ukraine undermines Vladimir Putin's 'forever' goals",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94610197,width-1070,height-580,imgsize-23350,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/sports/football/top-stories/seventeen-children-among-the-dead-in-indonesian-football-stampede/articleshow/94610053.cms",
