@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23380518/wisk-aero-air-taxi-electric-autonomous-boeing-faa",
+          "author": null,
+          "description": "Air taxi startup Wisk Aero unveiled its sixth-generation aircraft, an all-electric four-seater that can fly without a human pilot. The Boeing-backed company said it will seek approval from the Federal Aviation Administration to carry passengers as part of a commercial air taxi service. \nWisk, which was formed in 2019 as a joint venture between Boeing and Kitty Hawk, the flying taxi company bankrolled by Google co-founder Larry Page that recently shut down, is in a race to become the first so-called Advanced Air Mobility company to get the green light from the FAA for passenger testing. Wisk claims that its sixth-generation aircraft is the first electric vertical takeoff and landing (eVTOL) candidate for type certification. \nUnder FAA rules, aviation companies need to receive three types of…",
+          "link": "https://www.theverge.com/2022/10/3/23380518/wisk-aero-air-taxi-electric-autonomous-boeing-faa",
+          "publishedOn": "2022-10-03T10:00:00.000Z",
+          "wordCount": 7218,
+          "title": "Boeing-backed Wisk Aero reveals a four-seater autonomous air taxi",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/CL2VHBFht1J375Vnf7HAnKcgsx4=/0x0:4032x2268/1200x628/filters:focal(2016x1134:2017x1135)/cdn.vox-cdn.com/uploads/chorus_asset/file/24073372/Wisk_Gen6_BlueSky.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23384708/tim-cook-metaverse-skeptical-meta-ar-vr-headset",
+          "author": null,
+          "description": "Tim Cook at the recent iPhone 14 launch. | Photo by Kevin Mazur/Getty Images\n    \n\n  \nWhile Meta funnels billions into CEO Mark Zuckerberg’s pitch for the metaverse, Apple CEO Tim Cook thinks most people couldn’t even define the metaverse, let alone spend long periods of time living their lives inside of it.\n“I always think it’s important that people understand what something is,” Cook told Dutch publication Bright (via Google Translate). “And I’m really not sure the average person can tell you what the metaverse is.” In other words, despite persistent reports of Apple’s interest in building all manner of AR and VR hardware, Cook isn’t ready to claim that the company is working towards any so-called “metaverse.” \nMark Zuckerberg has a different view. Earlier this year, the Meta CEO told hi…",
+          "link": "https://www.theverge.com/2022/10/3/23384708/tim-cook-metaverse-skeptical-meta-ar-vr-headset",
+          "publishedOn": "2022-10-03T09:32:22.000Z",
+          "wordCount": 7194,
+          "title": "Tim Cook is latest CEO to question the ‘metaverse’",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/re2AxK7-eq7afjQ4PGDvShLSyxs=/0x0:5000x3333/1200x628/filters:focal(2249x1273:2250x1274)/cdn.vox-cdn.com/uploads/chorus_asset/file/24076196/1424300191.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23384565/maserati-granturismo-folgore-ev-reveal",
           "author": null,
           "description": "The Folgore EV is one of three GranTurismo models coming. | Image: Maserati\n    \n\n  \nMaserati is releasing new details on its redesigned GranTurismo luxury performance coupe, and offers some fresh tidbits on the upcoming all-electric version of it. Announced in March, The GranTurismo Folgore will be the automaker’s first EV, and will launch ahead of its Grecale electric crossover SUV announced earlier this year. It’s all part of the company’s plan to offer electric versions of every Maserati model by 2025 and shift to EV-only sales by 2030.\nToday we learn that the GranTurismo Folgore powertrain will be backed by three 300kW permanent magnet electric motors. It’s built on an 800-volt architecture that enables the car to fast charge at 270kW, similar to the Lucid Air and Porsche Taycan. Mase…",
@@ -2299,6 +2319,136 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/business/these-job-training-programs-work-and-may-show-others-the-way.html",
+          "author": "Steve Lohr",
+          "description": "A handful of innovators have developed successful programs to help lift low-income workers into the middle class. Can their model become the norm?",
+          "link": "https://www.nytimes.com/2022/10/03/business/these-job-training-programs-work-and-may-show-others-the-way.html",
+          "publishedOn": "2022-10-03T09:08:53.000Z",
+          "wordCount": null,
+          "title": "These Job-Training Programs Work, and May Show Others the Way",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/sports/soccer/indonesia-soccer-fan-deaths-police.html",
+          "author": "Rory Smith",
+          "description": "This is not the first time this year that the sport has had to confront the reality that tragedies often result from failures of security and crowd management.",
+          "link": "https://www.nytimes.com/2022/10/02/sports/soccer/indonesia-soccer-fan-deaths-police.html",
+          "publishedOn": "2022-10-03T09:04:14.000Z",
+          "wordCount": null,
+          "title": "Soccer’s Policing Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/hurricane-ian-search-fort-myers-beach.html",
+          "author": "Patricia Mazzei and Jason Andrew",
+          "description": "A search-and-rescue team set out to account for every person left on the hurricane-battered island — even if that meant breaking down doors.",
+          "link": "https://www.nytimes.com/2022/10/03/us/hurricane-ian-search-fort-myers-beach.html",
+          "publishedOn": "2022-10-03T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Knocking on Every Door, Rescuers Search Fort Myers Beach After Ian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/business/tiny-apartments-tokyo.html",
+          "author": "Hikari Hida",
+          "description": "Meet the young Japanese who have decided to live in a shoe box.",
+          "link": "https://www.nytimes.com/2022/10/03/business/tiny-apartments-tokyo.html",
+          "publishedOn": "2022-10-03T09:00:25.000Z",
+          "wordCount": null,
+          "title": "A 95-Square-Foot Tokyo Apartment: ‘I Wouldn’t Live Anywhere Else’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/technology/konnech-election-conspiracy-theories.html",
+          "author": "Stuart A. Thompson",
+          "description": "Election deniers catapulted a Michigan firm with just 21 U.S. employees to the center of unfounded voter fraud claims, exposing it to vicious threats.",
+          "link": "https://www.nytimes.com/2022/10/03/technology/konnech-election-conspiracy-theories.html",
+          "publishedOn": "2022-10-03T09:00:20.000Z",
+          "wordCount": null,
+          "title": "How a Tiny Elections Company Became a Conspiracy Theory Target",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/nyregion/polio-new-york-eradication.html",
+          "author": "Sharon Otterman",
+          "description": "Health officials are facing a number of obstacles to containing polio as it continues to circulate in New York State and threatens to become endemic.",
+          "link": "https://www.nytimes.com/2022/10/03/nyregion/polio-new-york-eradication.html",
+          "publishedOn": "2022-10-03T09:00:17.000Z",
+          "wordCount": null,
+          "title": "Why Polio, Once Eliminated, Is Testing N.Y. Health Officials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/trump-biden-desantis-pardon.html",
+          "author": "Gail Collins and Bret Stephens",
+          "description": "Pardon politics make for strange bedfellows.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/trump-biden-desantis-pardon.html",
+          "publishedOn": "2022-10-03T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Is There Anything That Will Make the ‘Former Guy’ Go Away?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/pony-boys-montreal-expo-67.html",
+          "author": null,
+          "description": "Two brothers from the Boston suburbs set out on an improbable journey to Montreal’s Expo 67 by hoof.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/pony-boys-montreal-expo-67.html",
+          "publishedOn": "2022-10-03T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Two Kids. One Pony. Hundreds of Miles to Montreal’s Expo 67.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/lights-out-america-songbirds-are-counting-on-us.html",
+          "author": "Margaret Renkl",
+          "description": "Up to a billion birds die in window strikes every year. But the best way to make the migration seasons safer overall is also the easiest.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/lights-out-america-songbirds-are-counting-on-us.html",
+          "publishedOn": "2022-10-03T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Lights Out, America! (Songbirds Are Counting on Us.)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/china-us-shipping-security.html",
+          "author": "Michael Roberts",
+          "description": "China’s shipping dominance could bring the U.S. to its knees in a conflict.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/china-us-shipping-security.html",
+          "publishedOn": "2022-10-03T09:00:13.000Z",
+          "wordCount": null,
+          "title": "A U.S. ‘Ships Act’ Would Break China’s Control of the Seas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/upshot/democrats-house-midterms-polling.html",
+          "author": "Nate Cohn",
+          "description": "No, they are not favored. But the notion of retaining the chamber is not as far-fetched as it once was.",
+          "link": "https://www.nytimes.com/2022/10/03/upshot/democrats-house-midterms-polling.html",
+          "publishedOn": "2022-10-03T09:00:11.000Z",
+          "wordCount": null,
+          "title": "It’s Time to Take Democrats’ Chances in the House Seriously",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/for-my-son-the-2022-mets-are-already-amazing.html",
+          "author": "Kathleen A. O’Brien",
+          "description": "My son has autism. He doesn’t have a sport he regularly watches, and I wanted to remedy that.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/for-my-son-the-2022-mets-are-already-amazing.html",
+          "publishedOn": "2022-10-03T09:00:04.000Z",
+          "wordCount": null,
+          "title": "These 2022 Mets Are Already Amazing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/republican-election-objectors.html",
+          "author": "Steve Eder, David D. Kirkpatrick and Mike McIntire",
+          "description": "On the day the Capitol was attacked, 139 Republicans in the House voted to dispute the Electoral College count. This is how they got there.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/republican-election-objectors.html",
+          "publishedOn": "2022-10-03T08:45:15.000Z",
+          "wordCount": null,
+          "title": "They Legitimized the Myth of a Stolen Election — and Reaped the Rewards",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/health/nobel-prize-medicine-physiology-winner.html",
           "author": "Benjamin Mueller",
           "description": "It will be the first Nobel Prize awarded this year, with more announcements being made over the coming week.",
@@ -2336,6 +2486,26 @@
           "publishedOn": "2022-10-03T04:35:57.000Z",
           "wordCount": null,
           "title": "Bolsonaro Outperforms Polls and Forces Runoff Against Lula in Brazil’s Presidential Election",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html",
+          "author": "Andrew E. Kramer and Nicole Tung",
+          "description": "Without access to electricity, radios or the internet, residents of Lyman said they were unaware of President Vladimir V. Putin’s grandiose celebration of an illegal land grab.",
+          "link": "https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html",
+          "publishedOn": "2022-10-03T04:01:14.000Z",
+          "wordCount": null,
+          "title": "Russia’s Annexation Claim Is News to Residents of Lyman, Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/sports/football/nfl-week-4-takeaways.html",
+          "author": "Derrik Klassen",
+          "description": "The Steelers are testing out a new quarterback, Baker Mayfield is struggling to hit an already low bar, and Geno Smith is cooking in the new-look Seahawks offense.",
+          "link": "https://www.nytimes.com/2022/10/02/sports/football/nfl-week-4-takeaways.html",
+          "publishedOn": "2022-10-03T03:43:57.000Z",
+          "wordCount": null,
+          "title": "What We Learned From Week 4 in the N.F.L.",
           "imageUrl": null
         },
         {
@@ -2976,6 +3146,16 @@
           "publishedOn": "2022-10-01T04:01:09.000Z",
           "wordCount": null,
           "title": "Safety Concerns Overshadow Europe’s First New Gas Link in Decades",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/30/world/europe/delphine-horvilleur-rabbi-judaism.html",
+          "author": "Julia Lieblich",
+          "description": "With Paris locked down over Passover, a rabbi started holding weekly talks over Zoom about Jewish texts. Thousands have tuned in to hear her reflections on death. “She is my rabbi,” said an atheist.",
+          "link": "https://www.nytimes.com/2022/09/30/world/europe/delphine-horvilleur-rabbi-judaism.html",
+          "publishedOn": "2022-10-01T03:51:46.000Z",
+          "wordCount": null,
+          "title": "French Feminist Rabbi Captivates Multifaith Crowds With Musings on Mortality",
           "imageUrl": null
         },
         {
@@ -16750,6 +16930,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/policy-and-politics/2022/10/3/23380800/abortion-midterms-governor-attorney-ballot",
+          "author": null,
+          "description": "Amanda Northrop/Vox\n    \n\n\n  \nRepublicans are laying a path to gut abortion rights after Election Day.\n Earlier this year, five people altered the landscape of reproductive rights in more than a dozen states across the country when the Supreme Court overturned Roe v. Wade. In November, millions of voters will weigh in, casting votes in dozens of races and ballot measures that will determine how restrictive their state can be.\nBallot initiatives in three states could determine abortion access for millions of women and what kind of reproductive health care is available to them. Abortion has also become a key issue in races for governor and state attorneys general, who have direct control over their states’ abortion laws and how they are enforced.\nDemocratic candidates for governor want to ga…",
+          "link": "https://www.vox.com/policy-and-politics/2022/10/3/23380800/abortion-midterms-governor-attorney-ballot",
+          "publishedOn": "2022-10-03T10:00:00.000Z",
+          "wordCount": 3644,
+          "title": "The states where the midterms will directly decide the future of abortion access",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/k-YqWCwWAU5mPZtVZpcXFe5CYAQ=/0x236:3000x1807/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069509/09_30.jpg"
+        },
+        {
           "id": "https://www.vox.com/culture/23380498/house-of-the-dragon-episode-7-driftmark-review-recap-hightower",
           "author": null,
           "description": "Rhaenyra comforts her children, Jacaerys and Lucerys, in a tense moment on HBO’s House of the Dragon. | Ollie Upton/HBO\n    \n\n  \nThe in-fights between Alicent and Rhaenyra have just become their children’s war.\n All season long on House of the Dragon, we’ve watched the adults of the Targaryen clan slowly circle into two factions — the Greens, led by Alicent, and what will eventually become the Blacks, led by Rhaenyra. We only just met their children properly in the previous episode, halfway through the season — but in this episode, “Driftmark,” the younger generation abruptly takes center stage.\nThis episode gives us a pivotal moment in our build-up to what already feels like an inevitable civil war — and one twist involving a fake-out and a surprising fate for one minor character. But it …",
@@ -19290,6 +19480,16 @@
       "feedUrl": "https://www.polygon.com/rss/entertainment/index.xml",
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
+        {
+          "id": "https://www.polygon.com/23383650/house-dragon-episode-7-review-laenor",
+          "author": null,
+          "description": "Photo: Ollie Upton/HBO\n    \n\n\n  \nThree funerals and a wedding\n Laena Velaryon, her brother Laenor, and a man whose name we never learn. While House of the Dragon’s seventh episode does a great deal to show Westeros sliding uncontrollably toward what will surely prove a calamitously bloody war, its own body count is comparatively modest by the series’ standards.\nIts single on-screen death, that of the nameless man whose neck is broken as part of a complicated gambit to fake Ser Laenor’s (John Macmillan) death, is a case study in the episode’s preoccupation with social rituals as a means of concealing and revealing truth. Laena’s funeral provides her uncle with a chance to launch a veiled barb at Rhaenyra (Emma D’Arcy) over the parentage of her sons. Rhaenyra’s secret marriage to her uncle D…",
+          "link": "https://www.polygon.com/23383650/house-dragon-episode-7-review-laenor",
+          "publishedOn": "2022-10-03T10:03:10.000Z",
+          "wordCount": 1929,
+          "title": "House of the Dragon episode 7 masks its true violence behind royal rituals",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Tibrj6p8Shr_Eo1tcJStgHf57O0=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24074230/olivia_cooke_paddy_considine_evie_allen_steve_toussaint_eve_best_shani_smethurst.jpg"
+        },
         {
           "id": "https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar",
           "author": null,
@@ -24386,6 +24586,36 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/nearly-57-million-pakistani-flood-victims-to-face-food-crisis-united-nations/article65966148.ece",
+          "author": "AP",
+          "description": "Pakistan's National Disaster Management Authority reported that floods fuelled by abnormally heavy monsoon rains have killed 1,695 people, affected 33 million, damaged more than two million homes and displaced hundreds of thousands now living in tents or makeshift homes.",
+          "link": "https://www.thehindu.com/news/international/nearly-57-million-pakistani-flood-victims-to-face-food-crisis-united-nations/article65966148.ece",
+          "publishedOn": "2022-10-03T10:05:22.000Z",
+          "wordCount": 5952,
+          "title": "Nearly 5.7 million Pakistani flood victims to face food crisis: United Nations",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/xgvajv/article65966228.ece/alternates/LANDSCAPE_615/2022-10-03T020926Z_2074581380_RC2KRW9K3WCK_RTRMADP_3_PAKISTAN-WEATHER-FLOODS-HEALTH.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/ukraine-has-made-breakthroughs-in-kherson-region-russian-installed-official-says/article65966226.ece",
+          "author": "Reuters",
+          "description": "Russia formally moved to annex four Ukrainian territories last week, including Kherson region",
+          "link": "https://www.thehindu.com/news/international/ukraine-has-made-breakthroughs-in-kherson-region-russian-installed-official-says/article65966226.ece",
+          "publishedOn": "2022-10-03T10:04:05.000Z",
+          "wordCount": 5520,
+          "title": "Ukraine has made &#039;breakthroughs&#039; in Kherson region, Russian-installed official says",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/d51nyj/article65966234.ece/alternates/LANDSCAPE_615/AFP_32K996Z.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/foreign-secretary-vinay-kwatra-maldives-defence-minister-discuss-ways-to-bolster-defence-cooperation/article65966085.ece",
+          "author": "PTI",
+          "description": "Vinay Kwatra, who is on a three-day official visit to the Maldives, held talks with Defence Minister Mariya Didi on the last day of his visit to the strategically-located archipelagic state located in the Indian Ocean.",
+          "link": "https://www.thehindu.com/news/international/foreign-secretary-vinay-kwatra-maldives-defence-minister-discuss-ways-to-bolster-defence-cooperation/article65966085.ece",
+          "publishedOn": "2022-10-03T09:25:28.000Z",
+          "wordCount": 5697,
+          "title": "Foreign Secretary Vinay Kwatra, Maldives Defence Minister discuss ways to bolster defence cooperation",
+          "imageUrl": "https://th-i.thgim.com/public/opinion/op-ed/5a94cx/article65966135.ece/alternates/LANDSCAPE_615/Vinay%20Kwatra%20thvli%20twitter.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/explained-highlights-of-the-2022-cuba-family-code/article65950530.ece",
           "author": "Priyali Prakash",
           "description": "The new Family Code was accepted by a majority of two-thirds of voters.",
@@ -26522,6 +26752,46 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/no-proposal-to-scrap-minority-affairs-ministry-government/articleshow/94618495.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The government on Monday clarified that there is no proposal under consideration to scrap the ministry of minority affairs.",
+          "link": "https://timesofindia.indiatimes.com/india/no-proposal-to-scrap-minority-affairs-ministry-government/articleshow/94618495.cms",
+          "publishedOn": "2022-10-03T09:54:12.000Z",
+          "wordCount": 5202,
+          "title": "No proposal to scrap minority affairs ministry: Government",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94618482,width-1070,height-580,imgsize-29664,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/gujarat-bjp-suspends-ex-spokesperson-after-he-shared-selfie-with-punjab-cm-mann/articleshow/94617867.cms",
+          "author": null,
+          "description": "The BJP on Monday suspended its former spokesperson Kishansinh Solanki for \"anti-party activities\", hours after he shared a selfie with Punjab Chief Minister and AAP leader Bhagwant Mann on social media.",
+          "link": "https://timesofindia.indiatimes.com/india/gujarat-bjp-suspends-ex-spokesperson-after-he-shared-selfie-with-punjab-cm-mann/articleshow/94617867.cms",
+          "publishedOn": "2022-10-03T09:27:15.000Z",
+          "wordCount": 5818,
+          "title": "BJP suspends ex-spokesperson Kishansinh Solanki after 'selfie' with Punjab CM Bhagwant Mann",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94618154,width-1070,height-580,imgsize-31682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-presidential-race-is-election-process-rigged-against-shashi-tharoor/articleshow/94617580.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Congress is set to witness a \"free and fair\" election for its coveted presidential post this month after a long gap of over two decades.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-presidential-race-is-election-process-rigged-against-shashi-tharoor/articleshow/94617580.cms",
+          "publishedOn": "2022-10-03T09:25:31.000Z",
+          "wordCount": 7330,
+          "title": "Congress presidential race: Is election process 'rigged' against Shashi Tharoor?",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94617695,width-1070,height-580,imgsize-126992,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-releases-guidelines-for-presidential-poll-party-office-bearers-cannot-campaign-for-candidates/articleshow/94617243.cms",
+          "author": null,
+          "description": "Ahead of its presidential poll, the Congress on Monday issued a set of guidelines for the election, debarring party office-bearers from campaigning for candidates. Those who wish to support any candidate will have to first resign from their organisational post, stated the guidelines issued by the Congress' central election authority.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-releases-guidelines-for-presidential-poll-party-office-bearers-cannot-campaign-for-candidates/articleshow/94617243.cms",
+          "publishedOn": "2022-10-03T09:09:00.000Z",
+          "wordCount": 6527,
+          "title": "Congress releases guidelines for presidential poll, party office-bearers cannot campaign for candidates",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94617464,width-1070,height-580,imgsize-27658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-rahul-gandhi-offers-prayer-at-chamundeshwari-temple-in-mysuru/articleshow/94617159.cms",
           "author": null,
@@ -31620,6 +31890,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/middle-east/yemens-fate-hangs-in-balance-as-truce-collapses/articleshow/94618307.cms",
+          "author": null,
+          "description": "The United Nations envoy scrambled to revive Yemen's six-month truce after a missed deadline raised fears of a return to war and prompted rebel threats against Saudi Arabia and the United Arab Emirates late Sunday.",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/yemens-fate-hangs-in-balance-as-truce-collapses/articleshow/94618307.cms",
+          "publishedOn": "2022-10-03T09:47:02.000Z",
+          "wordCount": 9055,
+          "title": "Yemen's fate hangs in balance as truce collapses",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94618472,width-1070,height-580,imgsize-127328,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/uk/uk-scraps-tax-cut-for-wealthy-that-sparked-market-turmoil/articleshow/94614519.cms",
           "author": null,
           "description": "Treasury chief Kwasi Kwarteng said on Monday that he will not scrap the top 45 per cent rate of income tax paid on earnings above 150,000 pounds ($167,000) a year. “We get it, and we have listened,” he said in a statement.",
@@ -34047,6 +34327,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-shweta-tiwari-my-house-is-called-sita-ka-ghar-by-neighbours-as-we-have-majority-women-living-there/articleshow/94322723.cms",
+          "author": null,
+          "description": "",
+          "link": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-shweta-tiwari-my-house-is-called-sita-ka-ghar-by-neighbours-as-we-have-majority-women-living-there/articleshow/94322723.cms",
+          "publishedOn": "2022-09-20T08:49:40.000Z",
+          "wordCount": null,
+          "title": "Exclusive - Shweta Tiwari: My house is called 'Sita Ka Ghar' by neighbours as we have majority women living there",
+          "imageUrl": null
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/from-owning-luxurious-cars-to-building-her-dream-house-at-the-age-of-21-a-look-at-jannat-zubairs-luxurious-possessions/articleshow/94279073.cms",
           "author": null,
           "description": "",
@@ -34063,6 +34353,46 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/auto/bikes/royal-enfield-september-sales-up-145-hunter-350-gets-spectacular-response/articleshow/94617709.cms",
+          "author": null,
+          "description": "In related news, Royal Enfield announced the launch of its NFTs featuring ten winning artworks from its ‘Art Of Motorcycling’ (AOM) programme. Ten exclusive NFTs of the winning designs from the last two seasons are being introduced as NFTs to further encourage the riding community to express their art globally through a digital medium.",
+          "link": "https://timesofindia.indiatimes.com/auto/bikes/royal-enfield-september-sales-up-145-hunter-350-gets-spectacular-response/articleshow/94617709.cms",
+          "publishedOn": "2022-10-03T09:40:32.000Z",
+          "wordCount": 6012,
+          "title": "Royal Enfield September sales up 145%",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94617787,width-1070,height-580,imgsize-510904,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/svante-pbo-awarded-nobel-prize-in-medicine/articleshow/94616968.cms",
+          "author": null,
+          "description": "The 2022 Nobel Prize in Physiology or Medicine has been awarded to Svante Pääbo “for his discoveries concerning the genomes of extinct hominins and human evolution\" at the Karolinska Institute in Stockholm on Monday.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/svante-pbo-awarded-nobel-prize-in-medicine/articleshow/94616968.cms",
+          "publishedOn": "2022-10-03T09:40:19.000Z",
+          "wordCount": 6614,
+          "title": "Svante Pääbo gets Nobel prize in medicine for research on human evolution",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94617750,width-1070,height-580,imgsize-910832,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://beautypageants.indiatimes.com/miss-world/manushi-chhillar-on-her-journey-as-an-actress-i-love-how-differently-i-get-to-showcase-myself-as-an-actor/articleshow/94570847.cms",
+          "author": null,
+          "description": "",
+          "link": "https://beautypageants.indiatimes.com/miss-world/manushi-chhillar-on-her-journey-as-an-actress-i-love-how-differently-i-get-to-showcase-myself-as-an-actor/articleshow/94570847.cms",
+          "publishedOn": "2022-10-03T09:22:20.000Z",
+          "wordCount": 5675,
+          "title": "'I love how differently I get to showcase myself as an actor'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94572050,width-1070,height-580,resizemode-75,imgsize-57920,pt-32,y_pad-40/94572050.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ponniyin-selvan-i-telugu-day-3-box-office-collections-the-film-has-minted-over-rs-12-crores-in-telugu-states-in-the-first-3-days/articleshow/94617477.cms",
+          "author": null,
+          "description": "Director Maniratnam’s recent Tamil film ‘Ponniyin Selvan: 1’ is based on the popular Tamil classic novel of the same name written by Kalki Krishnamurthy hit the theatres last Friday (September 30th), the film that is made with a whopping budget of Rs 500 crore has reportedly minted over Rs 230 crores in first three days of its release from across all the languages so far.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ponniyin-selvan-i-telugu-day-3-box-office-collections-the-film-has-minted-over-rs-12-crores-in-telugu-states-in-the-first-3-days/articleshow/94617477.cms",
+          "publishedOn": "2022-10-03T09:14:22.000Z",
+          "wordCount": 9080,
+          "title": "‘Ponniyin Selvan’ I (Telugu) Day 3 box-office collections",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94617577,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-171788/94617577.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-links-personality-changes-in-young-adults-to-covid-19/photostory/94615467.cms",
           "author": null,
