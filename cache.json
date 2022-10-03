@@ -12,6 +12,36 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5",
+          "author": null,
+          "description": "The original Horizon Zero Dawn released on the PS4 just five years ago. | Image: Sony\n    \n\n  \nNext up on the list of remasters that nobody really asked for, Sony Interactive Entertainment might be working on a remastered version of Horizon Zero Dawn for the PlayStation 5. An unnamed source within Sony cited by MP1ST and VideoGamesChronicle pointed to a remastered version of the open-world PlayStation 4 title. \nDetails on the remaster are scarce at the moment but reportedly include new character models, lighting, and animations. It’s also likely that it will incorporate new accessibility features, quality of life improvements, and compatibility with the DualSense controller, mirroring some of the improvements we saw with the remastered version of The Last of Us, which came out in early Sep…",
+          "link": "https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5",
+          "publishedOn": "2022-10-03T20:48:23.000Z",
+          "wordCount": 7687,
+          "title": "Zero Dawn remaster on the horizon",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/TNuJ3AwZ0EmPH-pVmaNRchNVDzg=/0x0:1920x1080/1200x628/filters:focal(586x418:587x419)/cdn.vox-cdn.com/uploads/chorus_asset/file/24078778/03_horizon_zero_dawn.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385032/hulu-price-increase-reminder-disney",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nHulu’s raising its prices on October 10th. First announced in August, the price increase means you’ll have to pay $7.99 / month instead of $6.99 / month (or $79.99 / year) for the ad-supported version of Hulu and $14.99 / month instead of $12.99 / month for the ad-free plan.\nThe prices for Hulu’s bundled plans with ESPN Plus and Disney Plus aren’t changing just yet, but Hulu has a price hike planned for later this year. Once Disney Plus rolls out its ad-supported tier on December 8th, the bundle with ad-free Disney Plus, Hulu with ads, and ESPN Plus will cost $14.99 / month instead of $13.99 / month, while the price for ad-free Disney Plus, Hulu, and ESPN Plus will stay at $19.99 / month. Disney, Hulu’s parent company, is also rolling out two new cheaper ad-supported plans: $9.99 / month for Disney Plus and Hulu; and $12.99 / month for Disney Plus, Hulu, and ESPN Plus.\nAnd if you’re already subscribed to Hulu’s live TV bundle, the price for that will stay the same for the (hopefully) foreseeable future. It’ll still cost $74.99 for live TV, Hulu and ESPN Plus with ads, and Disney Plus without ads for existing subscribers. The other two plans, which offer live TV with ad-supported versions of Hulu, ESPN Plus, and Disney Plus (once it comes out), cost $69.99, while the live TV bundle with ad-free Hulu and ad-supported Disney Plus and ESPN Plus is priced at $75.99. Hulu is also introducing a premium ad-free live TV bundle that includes all three services with no ads in December, which will cost $82.99.\nDisney has issued price hikes across all three of its streaming services this year, including Hulu, Disney Plus, and ESPN Plus. Hulu’s prices increased around the same time last year, and so did the price of its live TV offering. You can view the whole rundown of price changes on Disney’s website.",
+          "link": "https://www.theverge.com/2022/10/3/23385032/hulu-price-increase-reminder-disney",
+          "publishedOn": "2022-10-03T20:44:30.000Z",
+          "wordCount": 7080,
+          "title": "Reminder: Hulu’s going up in price next week",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2KdS-yi1tsNJ5z4pzLaEGxNElxk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954840/acastro_STK061_hulu_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385183/smart-home-controller-ava-remote-cedia-2022",
+          "author": null,
+          "description": "The Ava Remote smart home controller | Photo by Jennifer Pattison Tuohy / The Verge\n    \n\n  \nLast week, I visited the world of the professionally installed smart home. This is the promised land. Everything just works, your voice assistant doesn’t try to sell you toilet paper, and you can control your whole home with just one app. Of course, you pay a hefty price and have to give up lots of control for the privilege.\nThe Ava smart remote could be the love child of an iPhone and a Logitech Harmony remote\nI was at CEDIA Expo 2022, the annual trade show of the Custom Electronics Design and Installation Association (think CES, but less weird stuff and more stuff you — or someone with more money than you — can actually buy). \nHere, I got to hold the almost perfect smart home controller: a sleek …",
+          "link": "https://www.theverge.com/2022/10/3/23385183/smart-home-controller-ava-remote-cedia-2022",
+          "publishedOn": "2022-10-03T20:30:00.000Z",
+          "wordCount": 9602,
+          "title": "The perfect smart home controller exists — but you probably can’t buy it",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6xaFyrpPPNQmf7Hf_kwQg58FLKE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24078801/226332_Ava_smart_home_controller_JTuohy_0001.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23385622/google-pixel-4-xl-security-patch-october-2022-software-update",
           "author": null,
           "description": "The Google Pixel 4 and 4 XL have reached the end of their three years of guaranteed software support. | Photo by Vjeran Pavic / The Verge\n    \n\n  \nGoogle has released this month’s Pixel security patch, and as Android Police points out, it’s the last one that the Pixel 4 and 4 XL are scheduled to receive. By no coincidence, the Pixel 7 and 7 Pro are set to be announced later this week. (When one device’s software support window closes, another one opens.)\nWhile the more recent Pixel 6, 6 Pro, and 6A all come with a promised five years of security updates, the Google Pixel 4 and 4 XL launched in 2019 with three years of guaranteed security updates. This isn’t necessarily the very end of the road for the Pixel 4 since Google tends to issue one final security patch for end-of-life devices a bit after the official support window has closed. More than anything, it’s kind of symbolic: closing one chapter for an earlier Pixel device as a new one arrives.\n\n\nThe Pixel 4 was the first in the series to offer two rear cameras rather than one, which Google stuck with even after two or three rear cameras started to become the norm. It added a modest 2x telephoto camera that it paired with its Super Res Zoom technology to reach beyond that limited focal length. It wasn’t (and still isn’t, tbh) as good as optical zoom, but the Pixel 4’s overall camera capabilities were competitive with one of the best dedicated point-and-shoot cameras of the time. \nAside from its significance for the Pixel 4, the October security patch is available starting today and provides minor bug fixes related to audio playback and controls along with UI and connectivity hiccups.",
@@ -2599,6 +2629,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news/brittney-griner-appeal-hearing-russia",
+          "author": "Dan Bilefsky",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news/brittney-griner-appeal-hearing-russia",
+          "publishedOn": "2022-10-03T20:29:59.000Z",
+          "wordCount": null,
+          "title": "Brittney Griner’s Appeal Hearing Set for Oct. 25, Russian Court Says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html",
+          "author": "Jack Nicas, Flávia Milhorance and André Spigariol",
+          "description": "President Jair Bolsonaro had once looked doomed in the country’s high-stakes election. But now, in a runoff, the right-wing incumbent has a path to re-election.",
+          "link": "https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html",
+          "publishedOn": "2022-10-03T20:18:57.000Z",
+          "wordCount": null,
+          "title": "Brazil Braces for ‘White-Knuckle Race’ Between Bolsonaro and Lula",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/us/politics/house-democrats-abortion-midterms.html",
           "author": "Catie Edmondson",
           "description": "Vulnerable Democrats in competitive districts have leaned into preserving abortion rights as a closing argument for their campaigns, buoyed by internal polls that show it has moved voters their way.",
@@ -2616,6 +2666,16 @@
           "publishedOn": "2022-10-03T19:05:30.000Z",
           "wordCount": null,
           "title": "Deadly Soccer Clash in Indonesia Puts Police Tactics, and Impunity, in Spotlight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/recession-hurricane.html",
+          "author": "Peter Coy",
+          "description": "The similarities are instructive.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/recession-hurricane.html",
+          "publishedOn": "2022-10-03T19:00:03.000Z",
+          "wordCount": null,
+          "title": "Recessions Can Be Like Hurricanes, and Vice Versa",
           "imageUrl": null
         },
         {
@@ -10047,6 +10107,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234604431",
+          "author": "Larisha Paul",
+          "description": "“I don’t even know what this album is about and what it sounds like,\" says SZA",
+          "link": "https://www.rollingstone.com/music/music-news/sza-new-album-has-no-deadline-1234604431/",
+          "publishedOn": "2022-10-03T20:48:37.000Z",
+          "wordCount": 7335,
+          "title": "SZA Says Her New Album Is ‘All Over The Place,’ But She’s Not Rushing to Release It: ‘I Don’t Have Any Deadlines’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/sza-on-new-album.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234600926",
           "author": "Jon Dolan",
           "description": "The heart-on-sleeve rapper's latest is about the simple joys of love",
@@ -12120,6 +12190,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417520",
+          "author": "Sarah Perez",
+          "description": "Twitter’s throwback feature, Twitter Status, is today expanding its list of potential status updates to choose from, in a continuation of tests that began this July. The feature, which is something of a cross between MySpace moods and a Facebook status, allows users to tag posts with an additional expression beyond the tweet itself — […]\nTwitter expands access to its experimental Status feature…but not to its paid subscribers by Sarah Perez originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/twitter-expands-access-to-its-experimental-status-feature-but-not-to-its-paid-subscribers/",
+          "publishedOn": "2022-10-03T21:08:10.000Z",
+          "wordCount": 7561,
+          "title": "Twitter expands access to its experimental Status feature…but not to its paid subscribers",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1055352580.jpg?resize=1200,799"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417589",
+          "author": "Darrell Etherington",
+          "description": "Electric vehicle maker Rivian announced its Q3 production and delivery numbers on Monday, revealing it made 7,363 of its R1T pickup truck and R1S SUV during the three month period that ended on September 30. Rivian also said it delivered 6,584 vehicles during the same span. The automaker is still backing its target of delivering […]\nRivian made 7.363 of its EV pickups and SUVs in Q3 by Darrell Etherington originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/rivian-production-delivery-numbers-q3-2022/",
+          "publishedOn": "2022-10-03T21:06:11.000Z",
+          "wordCount": 6629,
+          "title": "Rivian made 7.363 of its EV pickups and SUVs in Q3",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2290.jpeg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417544",
+          "author": "Lauren Forristal",
+          "description": "Today, Spotify released the first two episodes of the new original podcast “Kim Kardashian’s The System: The Case of Kevin Keith,” narrated by reality TV star Kim K and true-crime producer Lori Rothschild Ansaldi. The series will be available worldwide and is free for all Spotify listeners. The podcast will have eight episodes in total […]\nSpotify releases a new exclusive podcast hosted by Kim Kardashian by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/spotify-kim-kardashian-podcast/",
+          "publishedOn": "2022-10-03T20:49:20.000Z",
+          "wordCount": 6473,
+          "title": "Spotify releases a new exclusive podcast hosted by Kim Kardashian",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/Kim-Kardashian-Headshot-e1664829054322.jpeg?resize=1200,847"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417560",
+          "author": "Christine Hall",
+          "description": "The company said the health and wellness industry was a natural next step for it and instant delivery overall.\nGopuff delivers on Goodnow, its new health, wellness private label offering by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/gopuff-delivers-goodnow-health-wellness-private-label/",
+          "publishedOn": "2022-10-03T20:48:03.000Z",
+          "wordCount": 6813,
+          "title": "Gopuff delivers on Goodnow, its new health, wellness private label offering",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/image002.jpg?resize=1200,676"
+        },
         {
           "id": "https://techcrunch.com/?p=2415264",
           "author": "Kirsten Korosec",
@@ -15778,6 +15888,51 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "k7bnjv",
+          "author": "Mary Frances Knapp",
+          "description": "All hot, lazy, horny people deserve thrusting vibrators, butt plugs, and inflatable sex machines that do their dirty work for them.",
+          "link": "https://www.vice.com/en_us/article/k7bnjv/thrusting-vibrators-sex-machines",
+          "publishedOn": "2022-10-03T20:41:25.000Z",
+          "wordCount": 8196,
+          "title": "The Best Thrusting Vibrators, Butt Plugs, and Dildos That Will Fuck YOU!",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b28f5ac70f9009bb76072/lede/1664828962321-sex-machines.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b28f5ac70f9009bb76072/lede/1664828962321-sex-machines.jpeg"
+        },
+        {
+          "id": "pkgq5y",
+          "author": "Greg Walters",
+          "description": "The Oath Keepers’ trial for Jan. 6 just started, and it’s already getting weird.",
+          "link": "https://www.vice.com/en_us/article/pkgq5y/oath-keepers-trial-thomas-caldwell",
+          "publishedOn": "2022-10-03T20:30:02.000Z",
+          "wordCount": 4309,
+          "title": "Oath Keepers’ Jan. 6 Recon Guy Says He Was Just Looking for Port-a-Potties",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b42352ccb790095161950/lede/1664828231478-untitled-design-1.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b42352ccb790095161950/lede/1664828231478-untitled-design-1.png"
+        },
+        {
+          "id": "4axq9d",
+          "author": "Matthew Gault",
+          "description": "Even Ukrainian President Volodymyr Zelenskyy made fun of the billionaire.",
+          "link": "https://www.vice.com/en_us/article/4axq9d/ukrainian-diplomat-tells-elon-musk-to-fuck-off-with-terrible-idea-to-end-war",
+          "publishedOn": "2022-10-03T20:21:47.000Z",
+          "wordCount": 4721,
+          "title": "Ukrainian Diplomat Tells Elon Musk to ‘Fuck Off’ With Terrible Idea to End War",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633b42d1ac70f9009bb7629c/lede/1664828486888-gettyimages-12427983331.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633b42d1ac70f9009bb7629c/lede/1664828486888-gettyimages-12427983331.jpeg"
+        },
+        {
           "id": "n7z4g8",
           "author": "Becky Ferreira",
           "description": "A new study shows that ingredients for life can form from non-living chemicals on any given beach, and it could help develop new drugs and search for alien life.",
@@ -19037,6 +19192,36 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849611127",
+          "author": "Claire Jackson",
+          "description": "An admin on the official Discord servers for Kinetic Games’ extremely popular indie horror game Phasmophobia was recently removed after a Twitter user issued a public condemnation of the studio for not keeping its community safe from sexual harassment and racism.\nRead more...",
+          "link": "https://kotaku.com/phasmophobia-discord-harassment-banned-co-op-horror-1849611127",
+          "publishedOn": "2022-10-03T20:55:00.000Z",
+          "wordCount": 5515,
+          "title": "Phasmophobia Dev Kicks Alleged Racist, 'Sex Pest' Admin From Its Official Discord Server",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ea0e8e513101380b60e869d597d39952.jpg"
+        },
+        {
+          "id": "1849610970",
+          "author": "Sisi Jiang",
+          "description": "I am now convinced that “female Call of Duty streamer” is the hardest job in the world. Nadia Amine is one of the fastest growing Call of Duty: Warzone streamers on Twitch, and there’s been a ton of controversy on social media about her meteoric rise. If you search her name on YouTube or Tiktok, the videos are filled…\nRead more...",
+          "link": "https://kotaku.com/call-of-duty-doug-censor-nadia-amine-warzone-1849610970",
+          "publishedOn": "2022-10-03T20:30:00.000Z",
+          "wordCount": 6445,
+          "title": "The Entire Call Of Duty Community Just Got Punked",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9d7a3ecf049b8a8fdd8ab7612025e500.png"
+        },
+        {
+          "id": "1849611025",
+          "author": "Ethan Gach",
+          "description": "I love almost everything about the Shovel Knight games. The retro-inspiration, bespoke pixel art animations, and pitch-perfect platforming—they are perfectly calibrated to make me go, “Yes, YES, more please!” Not so with Shovel Knight Dig, unfortunately. It’s the first release in Yacht Club’s lineup to leave me…\nRead more...",
+          "link": "https://kotaku.com/review-shovel-knight-dig-roguelite-nintendo-switch-1849611025",
+          "publishedOn": "2022-10-03T20:25:00.000Z",
+          "wordCount": 6227,
+          "title": "Dig Is My Least Favorite Shovel Knight Game Yet",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/55a0d4309f6b9e3a40e568ff97e17c77.jpg"
+        },
+        {
           "id": "1849610731",
           "author": "Isaiah Colbert",
           "description": "For any bystander looking at the worlds of professional wrestling and video games from the outside, what’s happening inside can look like a veritable circus. In 2022, each has had more than its fair share of ongoing legal litigation and backstage drama. Now, however, a new lawsuit has seen the two worlds and all their…\nRead more...",
@@ -21111,6 +21296,26 @@
       "siteUrl": "https://www.polygon.com/entertainment",
       "articles": [
         {
+          "id": "https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day",
+          "author": null,
+          "description": "Image: Zeb Wells, Nick Dragotta/Marvel Comics\n    \n\n\n  \nSorry, Spider-Man\n You may be aware that the big event of Marvel Comics at the moment is that the Avengers, X-Men, and Eternals accidentally created a god with the power to destroy all life on Earth, and the mandate to do so if humanity is not judged favorably enough. “You will be judged individually. You will be judged as a collective,” said the Progenitor Celestial. Last week, it came for Hawkeye in the form of Black Widow, and this week, its roving eye finally arrived on our friendly neighborhood Spider-Man. \nAnd naturally, it took the form of Gwen Stacy, his worst failure. So, how did the luckless, flawed, eternally struggling Peter Parker measure up? \nWhat else is happening in the pages of our favorite comics? We’ll tell you. Wel…",
+          "link": "https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day",
+          "publishedOn": "2022-10-03T21:03:08.000Z",
+          "wordCount": 1751,
+          "title": "Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/7Pot4rlfhI1MJNBRAhxbDqV4CA4=/0x50:1988x1091/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24078825/RCO004_1664382963.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23385648/bleach-new-season-where-to-stream-hulu",
+          "author": null,
+          "description": "Image: Studio Pierrot\n    \n\n  \nWe finally know where to stream Bleach: Thousand-Year Blood War\n Bleach’s real final season is almost here with the upcoming anime adaptation of the Thousand-Year Blood War arc, and we finally know where it can be streamed. The new season will stream on Hulu when Thousand-Year Blood War begins on Oct. 11. \nThe series was previously streamable on Crunchyroll, which is where many expected the newest season to arrive as well, but it seems that Disney has snatched up to the rights to the classic anime. The series will be simulcast on Hulu the same day it airs in Japan, and for much of the rest of the world, it will be available on Disney Plus. For now it seems that the Hulu version of the show will only include the subtitled version. \nBleach: Thousand-Year Blood War is animated by Pierrot, the same studio that animated the series’ original run from 2004 to 2012. One open question for the new arc is just how long it might be. While we know there’s one season at the moment, the arc in the manga is quite long and could certainly take up multiple seasons, even if they haven’t been announced yet.",
+          "link": "https://www.polygon.com/23385648/bleach-new-season-where-to-stream-hulu",
+          "publishedOn": "2022-10-03T20:26:02.000Z",
+          "wordCount": 2080,
+          "title": "Bleach: Thousand-Year Blood War finally has a streaming service thanks to Disney",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/YYzfLxEQKEr2NElYNKSQ3z15Das=/0x0:5760x3016/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23110144/BLEACH__teaserPV_7.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23385017/black-panther-wakanda-forever-namor",
           "author": null,
           "description": "Image: Disney\n    \n\n  \nNamor? Nay, more!\n The latest trailer for Black Panther: Wakanda Forever makes it clear war is coming. Namor (Tenoch Huerta), the film’s antagonist, is rushing in like a tidal wave at Wakanda’s darkest hour. It’s an echo of a long-lived comic book rivalry between Black Panther and Namor, and while the shape of the story will be necessarily different, the reasons for a Black Panther sequel featuring Namor remain just as compelling: He’s not just a villain. He’s something more.\nIn an interview with Entertainment Weekly, director Ryan Coogler explains the MCU version of Namor is a little different from his comics counterpart. His kingdom is not Atlantis, but Talocan, a creation original to Wakanda Forever, inspired by Mayan culture and intended to be similar to Wakanda;…",
@@ -22871,6 +23076,16 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190463",
+          "author": null,
+          "description": "Apply TV+ series expands Godzilla vs. Kong's Monsterverse",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/legendary-entertainment-live-action-godzilla-series-casts-anders-holm/.190463",
+          "publishedOn": "2022-10-03T20:30:00.000Z",
+          "wordCount": 3068,
+          "title": "Legendary Entertainment's Live-Action Godzilla Series Casts Anders Holm",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC0/cms/news.2/140620/godzilla.jpg_large.jpeg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190460",
           "author": null,
@@ -28632,6 +28847,16 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms",
+          "author": null,
+          "description": "Stating that the matter was discussed during the recent national meet on eight years of MOM, an Isro statement read: “...Despite being designed for a life-span of six months as a technology demonstrator, MOM has lived for about eight years in the Martian orbit with a gamut of significant scientific results on Mars as well as on the Solar corona, before losing communication with the ground station, as a result of a long eclipse in April 2022.”",
+          "link": "https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms",
+          "publishedOn": "2022-10-03T20:09:05.000Z",
+          "wordCount": 5620,
+          "title": "Mars orbiter mission is over, rover now non-recoverable: Isro",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94628962,width-1070,height-580,imgsize-39068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms",
           "author": null,
@@ -36553,6 +36778,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/police-detain-filmmaker-kamaleshwar-mukhopadhyay-amid-protest-kicks-up-a-social-media-storm/articleshow/94627649.cms",
+          "author": null,
+          "description": "In a shocking turn of events filmmaker Kamaleshwar Mukhopadhyay and several other CPI(M) workers were detained by Kolkata Police while they were staging a protest near the Rashbehari crossing. It all started after an alleged attack on a Left party bookstall. The critically acclaimed filmmaker and the others were first taken to Lalbazar, but later in the evening they were released.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/police-detain-filmmaker-kamaleshwar-mukhopadhyay-amid-protest-kicks-up-a-social-media-storm/articleshow/94627649.cms",
+          "publishedOn": "2022-10-03T17:38:52.000Z",
+          "wordCount": 9185,
+          "title": "Police detain filmmaker Kamaleshwar Mukhopadhyay",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94627689,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-67310/94627689.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/city/patna/prashant-kishor-has-undertaken-his-padyatra-as-a-part-of-bjps-agenda-in-bihar-jdu-chief-lalan-singh/articleshow/94627520.cms",
           "author": null,
