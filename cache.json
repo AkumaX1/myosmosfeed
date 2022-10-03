@@ -12,6 +12,56 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23381096/mr-harrigans-phone-review-netflix-stephen-king",
+          "author": null,
+          "description": "Jaeden Martell and Donald Sutherland in Mr. Harrigan’s Phone. | Image: Netflix\n    \n\n\n  \nMr. Harrigan’s Phone is a thriller with an iPhone as the villain and the rare King adaptation that truly captures the entirety of the source material\n Stephen King’s works are full of all kinds of memorable monsters and villains. The likes of the man in black, Pennywise the clown, and Jack Torrance are ingrained in pop culture. In the latest cinematic adaptation, though, the bad guy isn’t a guy at all: it’s an object. Mr. Harrigan’s Phone is a horror story all about being addicted to your smartphone.\nThis review contains spoilers for Mr. Harrigan’s Phone (the book and the movie).\nBased on the short story of the same name from King’s 2020 collection If It Bleeds, Mr. Harrigan’s Phone (written and direct…",
+          "link": "https://www.theverge.com/23381096/mr-harrigans-phone-review-netflix-stephen-king",
+          "publishedOn": "2022-10-03T16:14:24.000Z",
+          "wordCount": 8259,
+          "title": "Netflix’s latest Stephen King film is about the horrors of phone addiction",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/EAMTuTiY5SK5KlLpU8nxGIyGHlA=/0x0:3600x2400/1200x628/filters:focal(1800x1200:1801x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/24069902/MHP_20211104_Unit_11655r.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nIn California, DNA collected from sexual assault victims during an investigation can no longer be used for other purposes, including investigating other crimes. California Governor Gavin Newsom signed the bill into law Friday. \nThe bill was introduced in California after the district attorney’s office discovered that the San Francisco Police Department had used DNA collected from a victim during a sexual assault investigation to tie that victim to a property crime. In a sexual assault case, a  victim’s DNA is collected in order to exclude their genes from an investigation, but the district said the police department was adding that information to its general genetic database. \nThe victim whose arrest kicked off the revelations sued the city of San Francisco in September.\nThe Governor signed our bill to ban law enforcement from using DNA samples from sexual assault survivors for any purpose other than identifying & convicting perpetrators.\nSB 1228 sends a clear message to survivors that providing a DNA sample won’t lead to the survivor’s arrest.\n— Senator Scott Wiener (@Scott_Wiener) October 1, 2022\n\n\n\nThere are federal laws preventing victim DNA from being included in the Federal Bureau of Investigation’s DNA database. But state and local police departments have developed and maintained their own databases that aren’t subject to the same rules. “Police departments around the country have, over time, developed these separate databases that are largely unregulated,” Andrea Roth, a law professor at the University of California, Berkeley, told Wired. \nNew laws over the past few years have started to restrict police power to use DNA data that was not originally intended for criminal investigations. Maryland and Montana, for example, passed laws last year limiting police use of consumer DNA databases developed by genealogy companies (like GEDmatch, which was used to identify the Golden State Killer) to find suspects.",
+          "link": "https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california",
+          "publishedOn": "2022-10-03T16:05:49.000Z",
+          "wordCount": 6152,
+          "title": "Rape kit DNA protected under a new California law",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/JZbq9g0LFfTb3RsZIwPTn56TCuQ=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/8986113/acastro_170726_1777_0013_v2.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23384703/tesla-optimus-bot-elon-musk-specs-hype-reaction",
+          "author": null,
+          "description": "A “rough development” version of Optimus is unveiled at Tesla’s AI Day.  | Image: Tesla\n    \n\n  \nElon Musk has finally unveiled a prototype of the much-hyped Optimus robot — a bipedal machine that the Tesla CEO imagines will one day be sold as a “general purpose” bot that’s cheaper than a car and equally capable of working in factories and doing chores at home.\nThe presentation of Optimus at Tesla’s AI Day was laced with the usual Musk intoxicants of hype and misdirection. But it also offered roboticists an admirably detailed look at some of the machine’s actual capabilities. Their judgment? That Tesla’s engineers have done incredible work in such a short space of time but that Optimus is still more hype than reality: a research robot that will take many years to develop into anything mean…",
+          "link": "https://www.theverge.com/23384703/tesla-optimus-bot-elon-musk-specs-hype-reaction",
+          "publishedOn": "2022-10-03T15:55:23.000Z",
+          "wordCount": 10586,
+          "title": "Experts’ judgment on the much-hyped Tesla Bot: Elon Musk speedruns robotics 101",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/cPGJ0ahCff7f_5-U5S6jeyMCYB8=/0x0:1826x1028/1200x628/filters:focal(913x514:914x515)/cdn.vox-cdn.com/uploads/chorus_asset/file/24076794/Screenshot_2022_10_03_at_14.55.59.png"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23385019/supreme-court-grants-petitions-google-twitter-section-230-terrorism",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nThe Supreme Court will take up two cases testing legal protections for apps and websites, according to a newly released list of orders. The first case is Gonzalez v. Google, a dispute over whether sites’ recommendation systems are covered by Section 230 of the Communications Decency Act. The second is Twitter v. Taamneh, which covers the standard for finding a site illegally supporting terrorists.\nThe cases will offer the Supreme Court a chance to dramatically reshape the online legal landscape — not only for huge companies like Twitter and Google but also smaller web services that are protected by laws like Section 230. They may soon be joined by a case covering sites’ right to moderate objectionable user posts. Petitioners will argue in fr…",
+          "link": "https://www.theverge.com/2022/10/3/23385019/supreme-court-grants-petitions-google-twitter-section-230-terrorism",
+          "publishedOn": "2022-10-03T15:45:45.000Z",
+          "wordCount": 6492,
+          "title": "The Supreme Court will determine whether you can sue platforms for hosting terrorists",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/kSc1MrTy-5jpSGwFwD8Mi2k0Pok=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986639/acastro_STK092_03.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2022/10/3/23384970/ikea-dirigera-smart-home-hub-price-release-date",
+          "author": null,
+          "description": "Ikea’s new Dirigera hub is coming soon. | Image: Ikea\n    \n\n  \nIt looks like Ikea’s new Dirigera smart home hub is coming this November for €59.99 (around $59), twice as much as the existing Trådfri gateway sells for in Europe and a month later than promised. \nTech Gaming Report spotted a sales page for the Dirigera hub, which replaces the gateway for Ikea’s smart home ecosystem, on the German Ikea site. We then found pages for the hub on Spanish and Norwegian Ikea websites, too. A note on the Norwegian site that it’s a “new and better replacement for TRÅDFRI gateway. Sales start in November.” \nWhen The Verge spoke to Ikea about the new hub earlier this summer, pricing was still TBD, but we knew it would cost more than the Trådfri gateway, which currently sells for €29 (about $29). “It is a little bit more expensive since it also has more capabilities and more functionality,” said Rebecca Töreman, business leader at Ikea.\nAccording to Ikea, the Dirigera hub will be Matter-ready, so its release is a good sign that Matter — which was promised in the fall of 2022 — is not far behind. Matter is a new smart home interoperability standard that promises to make devices communicate with each other, regardless of manufacturer or ecosystem.  \nThe Norwegian sales page for the new Dirigera hub.\n  \nWith support for Matter, any Ikea product connected to the hub should be controllable through any Matter-enabled ecosystem. Apple, Google, Amazon, and many more have all committed to supporting Matter. However, Ikea hasn’t stated which existing products might be upgraded to support the new standard. The company already has integrations with Amazon Alexa, Google Assistant, and Apple Home. \nThe Dirigera hub has Wi-Fi, Zigbee, and Thread radios on board, and the latter allows it to act as a Thread border router, which is a primary protocol used by Matter. It is slightly slimmer than the Trådfri gateway and has an ethernet port and a USB-C jack for power.\nIkea also said a new Home Smart app would arrive with the new hub.",
+          "link": "https://www.theverge.com/2022/10/3/23384970/ikea-dirigera-smart-home-hub-price-release-date",
+          "publishedOn": "2022-10-03T15:45:10.000Z",
+          "wordCount": 6616,
+          "title": "Ikea’s new Dirigera smart home hub is twice the price of the old gateway",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4nZKNTh_B4HFuUn_AgxLSTbBcaM=/0x0:1080x720/1200x628/filters:focal(433x501:434x502)/cdn.vox-cdn.com/uploads/chorus_asset/file/24076825/Dirigera_3b_highres.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time",
           "author": null,
           "description": "Illustration: The Verge\n    \n\n  \nLast May, at Google’s annual developer conference, Google I/O 2022, there were hints about the company’s upcoming Pixel 7 and 7 Pro phones. Now, five months later, at Google’s Pixel launch event this coming Thursday, we are finally going to be introduced to them. Of course, there won’t be all that many surprises; there have been quite a few hints floating around about their cameras, displays, size, and price. But it will be interesting to see how many of these rumors are correct.\nPerhaps more interesting is the new Pixel Watch, which is also expected to be introduced and which may mean that Google is finally offering a smartwatch that could be a real contender. Other announcements may include a new Tensor G2 chip, an improved tablet, some new Nest devices, and maybe — just maybe — even a foldable. We’ll just have to wait and see. \n\n\nSo, if you’re curious about what’s coming in the Google ecosystem — or if you’re in mourning for the Stadia and need some cheering up — why not take a look.\nWhat time does Google’s Pixel event start?  \nGoogle’s Pixel launch event will be streamed on Thursday, October 6th, at 7AM PT / 10AM ET. \nWhere can I watch the Google Pixel event live stream?\nYou can stream the Google event on Google’s YouTube channel. We’ll also be embedding the stream above to watch live and after the event. \nAs always, The Verge will be live blogging the main keynote, and you can follow along with us here. Be sure to follow @verge on Twitter and @verge on Instagram.",
@@ -2419,6 +2469,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html",
+          "author": "Stephanie Saul",
+          "description": "Maitland Jones Jr., a respected professor, defended his standards. But students started a petition, and the university dismissed him.",
+          "link": "https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html",
+          "publishedOn": "2022-10-03T16:00:25.000Z",
+          "wordCount": null,
+          "title": "At NYU, Students Were Failing Organic Chemistry. Whose Fault Was It?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/us/politics/biden-puerto-rico-hurricane-fiona.html",
           "author": "Katie Rogers",
           "description": "Utility companies are still working to restore power to thousands of customers on the island nearly two weeks after Hurricane Fiona made landfall.",
@@ -2436,6 +2496,16 @@
           "publishedOn": "2022-10-03T14:12:07.000Z",
           "wordCount": null,
           "title": "Less Turnover, Smaller Raises: Hot Job Market May Be Losing Its Sizzle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html",
+          "author": "Ben Sisario",
+          "description": "The Japanese band that emerged in the late 1960s was known for its rumbling rhythms and ear-shredding feedback — but almost nothing was known about its leader, Takashi Mizutani.",
+          "link": "https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html",
+          "publishedOn": "2022-10-03T13:46:51.000Z",
+          "wordCount": null,
+          "title": "Les Rallizes Dénudés: Unraveling One of Rock’s Deep Mysteries",
           "imageUrl": null
         },
         {
@@ -2516,6 +2586,16 @@
           "publishedOn": "2022-10-03T09:00:25.000Z",
           "wordCount": null,
           "title": "A 95-Square-Foot Tokyo Apartment: ‘I Wouldn’t Live Anywhere Else’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/dining/west-african-restaurants.html",
+          "author": "Kayla Stewart",
+          "description": "For these second-generation business owners, the familiar format offers a gatewayto a wider audience.",
+          "link": "https://www.nytimes.com/2022/10/03/dining/west-african-restaurants.html",
+          "publishedOn": "2022-10-03T09:00:22.000Z",
+          "wordCount": null,
+          "title": "West African Fast-Casual Restaurants Are Finding Wider Audiences",
           "imageUrl": null
         },
         {
@@ -8400,6 +8480,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/arts/television/cops-tv-show-history.html",
+          "author": "Marc Tracy",
+          "description": "The genre dates back to the dawn of television, but it has evolved over the years.",
+          "link": "https://www.nytimes.com/2022/10/03/arts/television/cops-tv-show-history.html",
+          "publishedOn": "2022-10-03T15:30:24.000Z",
+          "wordCount": null,
+          "title": "Cop TV Shows: A Brief History of the Police Procedural",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/theater/bad-cinderella-broadway.html",
           "author": "Michael Paulson",
           "description": "The musical, which was known simply as “Cinderella” during a previous run in London, is a new adaptation of the classic fairy tale.",
@@ -9606,6 +9696,46 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234604119",
+          "author": "Larisha Paul",
+          "description": "The Mark Romanek-directed visual arrives as part of the singer's partnership with Tiffany & Co. for the company's \"Lose Yourself in Love\" campaign",
+          "link": "https://www.rollingstone.com/music/music-news/beyonce-summer-renaissance-visual-1234604119/",
+          "publishedOn": "2022-10-03T16:06:02.000Z",
+          "wordCount": 7084,
+          "title": "Beyoncé Leaves Studio 54-Inspired Club in a Trance in ‘Summer Renaissance’ Visual",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/beyonce-summer-of-renissance.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234603903",
+          "author": "Althea Legaspi",
+          "description": "Legendary Beatles drummer postponed weekend shows before diagnosis was confirmed on Monday",
+          "link": "https://www.rollingstone.com/music/music-news/ringo-starr-postpones-two-shows-sick-1234603903/",
+          "publishedOn": "2022-10-03T15:57:52.000Z",
+          "wordCount": 7178,
+          "title": "Ringo Starr Puts Tour on Hold Due to Covid Diagnosis",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/RingoStarr.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234604064",
+          "author": "Angie Martoccio",
+          "description": "Band will spend next fall touring in support of new album The Car",
+          "link": "https://www.rollingstone.com/music/music-news/arctic-monkeys-north-american-tour-dates-1234604064/",
+          "publishedOn": "2022-10-03T15:36:10.000Z",
+          "wordCount": 7378,
+          "title": "‘There’d Better Be a Mirrorball’ on Arctic Monkey’s 2023 North American Fall Tour",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/arctic-monkeys-tour.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234604083",
+          "author": "Christopher Cruz",
+          "description": "Live coverage of the first weekend of ACL (Oct. 7th - 9th) will air exclusively on our Twitch channel",
+          "link": "https://www.rollingstone.com/music/music-news/rs-twitch-austin-city-limits-2022-1234604083/",
+          "publishedOn": "2022-10-03T15:18:48.000Z",
+          "wordCount": 7102,
+          "title": "Go Behind-the-Scenes from Austin City Limits Music Festival",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/RS_ARTICLE_ACL_IMAGE.png?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234604033",
           "author": "CT Jones",
@@ -11570,6 +11700,56 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417195",
+          "author": "Natasha Lomas",
+          "description": "An antitrust win for Amazon and Apple in Italy where an appeals court has cancelled a multimillion dollar penalty the pair were hit with last year for alleged collusion following an investigation into the reselling of Apple and (Apple-owned) Beats kit on Amazon’s Italian e-commerce marketplace. The original €203M (total) penalty had already been reduced […]\nBeats: Italian antitrust fine for Apple and Amazon cancelled on appeal by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/italy-antitrust-amazon-apple-beats-fine-cancelled/",
+          "publishedOn": "2022-10-03T16:16:56.000Z",
+          "wordCount": 6632,
+          "title": "Beats: Italian antitrust fine for Apple and Amazon cancelled on appeal",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0664.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2414574",
+          "author": "Christine Hall",
+          "description": "Kahani’s first product is a “Stories-like” feature, for example, with a clothes model actively turning around to show how it fits.\nKahani wants to turn your e-commerce website into an interactive experience by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/kahani-e-commerce-interactive-mobile/",
+          "publishedOn": "2022-10-03T16:01:53.000Z",
+          "wordCount": 6644,
+          "title": "Kahani wants to turn your e-commerce website into an interactive experience",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Kahani-e1664551414816.jpg?resize=1200,696"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2414867",
+          "author": "Lauren Simonds",
+          "description": "We’re just a few short weeks away from the first in-person TechCrunch Disrupt in three years. The agenda is absolutely bursting with expert insight and information from the leading voices in the early-stage startup universe. We want to take a moment to highlight a session led by our title sponsor, AT&T, who helps more than […]\nAT&T talks driving innovation through collaboration at Disrupt by Lauren Simonds originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/att-drives-innovation-through-collaboration-at-disrupt/",
+          "publishedOn": "2022-10-03T16:00:24.000Z",
+          "wordCount": 6999,
+          "title": "AT&T talks driving innovation through collaboration at Disrupt",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/ATT_post_header.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417084",
+          "author": "Rebecca Bellan",
+          "description": "EVTOL company Wisk Aero will put forward its Generation 6 four-passenger autonomous air taxi for FAA certification.\nWisk Aero reveals its market-ready, self-flying air taxi by Rebecca Bellan originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/wisk-aero-reveals-its-market-ready-self-flying-air-taxi/",
+          "publishedOn": "2022-10-03T15:24:54.000Z",
+          "wordCount": 6366,
+          "title": "Wisk Aero reveals its market-ready, self-flying air taxi",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/20221003-WiskAero-Gen6-PhotoGallery-1.jpeg?resize=1200,598"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417155",
+          "author": "Lauren Forristal",
+          "description": "Entertainment platform Fandom announced today its acquisition of seven entertainment and gaming brands from media company Red Ventures, including online publications Comic Vine, Cord Cutters News, GameFAQs, GameSpot, Giant Bomb, Metacritic, and TV Guide. While the financials of the deal were not disclosed in the official announcement, Fandom told TechCrunch that the deal cost somewhere […]\nFandom acquires Metacritic, GameSpot, TV Guide and other entertainment brands in deal worth around $55M by Lauren Forristal originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/fandom-acquires-seven-brands-from-red-ventures-gamespot-tv-guide/",
+          "publishedOn": "2022-10-03T15:24:51.000Z",
+          "wordCount": 6393,
+          "title": "Fandom acquires Metacritic, GameSpot, TV Guide and other entertainment brands in deal worth around $55M",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/Fandom_acq_announce_2022_full_02-1.png?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2380918",
           "author": "Anita Ramaswamy",
@@ -17525,6 +17705,16 @@
       "siteUrl": "https://www.vox.com/",
       "articles": [
         {
+          "id": "https://www.vox.com/recode/2022/10/3/23384955/kim-kardashian-crypto-ethereum-max-emax-sec",
+          "author": null,
+          "description": "Kim Kardashian’s crypto token ad didn’t follow the rules. | Nathan Congleton/NBC via Getty Images\n    \n\n  \nThe Securities and Exchange Commission kept up with the Kardashians.\n The crypto crackdown has come for Kim Kardashian.\nThe Securities and Exchange Commission (SEC) announced on Monday that the queen of influencers did a little too much influencing when it came to the EthereumMax (EMAX) token, which Kardashian promoted on her Instagram in June 2021. She’s agreed to pay $1.26 million and not promote crypto securities for the next three years.\nThe settlement shows that the SEC is ready, willing, and able to go after celebrity crypto endorsers. Many of them made plenty of money promoting what ended up being shady crypto schemes that quickly collapsed, leaving investors (often their own f…",
+          "link": "https://www.vox.com/recode/2022/10/3/23384955/kim-kardashian-crypto-ethereum-max-emax-sec",
+          "publishedOn": "2022-10-03T15:50:00.000Z",
+          "wordCount": 2173,
+          "title": "Kim Kardashian’s Instagram story just cost her $1.26 million",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/mFAMocqs8tVh0Sx9ahwxLoBPDH4=/0x255:3000x1826/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24077395/GettyImages_1241465546.jpg"
+        },
+        {
           "id": "https://www.vox.com/world/2022/10/3/23380680/global-elite-have-forgotten-jamal-khashoggis-murder-mbs-new-york-investment-conference",
           "author": null,
           "description": "Saudi Crown Prince Mohammed bin Salman attends the Future Investment Initiative (FII) conference in Riyadh on October 24, 2017.  | Fayez Nureldine/AFP via Getty Images\n    \n\n  \nFour years later, the Saudi crown prince is back in the fold.\n Jared Kushner did not want to talk about Jamal Khashoggi.\nI spotted him in the audience in late September at a conference hosted by an offshoot of Saudi Arabia’s sovereign wealth fund, the Future Investment Initiative Institute. \nIt was at a boutique hotel on the Upper East Side of Manhattan, filled with investors, nonprofit leaders, and thought leaders. When I asked Kushner to comment about Khashoggi — the journalist whom the CIA determined that Saudi agents had tortured and killed while Kushner was serving in his father-in-law’s White House — he walked…",
@@ -19448,6 +19638,16 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company",
+          "author": null,
+          "description": "Photo: Drew Angerer/Getty Images\n    \n\n  \nFran Townsend will still act as senior counsel to CEO Bobby Kotick\n Activision Blizzard’s executive vice president for corporate affairs, Fran Townsend, is leaving her executive role at the company, Activision Blizzard CEO Bobby Kotick announced Thursday in an email to staff. A Wall Street Journal report published Friday first reported the news.\nTownsend, who is a former homeland security advisor under President George W. Bush, is not moving far away from Activision Blizzard; she’ll now act as “senior counsel” to Kotick and Activision Blizzard’s board of directors, according to an email from Kotick obtained by Kotaku. Two other executives, Jen Brewer and Luci Altman, will also move into new roles — chief ethics and compliance officer and corporate …",
+          "link": "https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company",
+          "publishedOn": "2022-10-03T15:44:13.000Z",
+          "wordCount": 2320,
+          "title": "Activision exec that called sexism lawsuit ‘meritless’ exits executive role",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/csdovNqEbm5WYegRBW96IoEMF_A=/0x43:4029x2152/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22760963/626300460.jpg"
+        },
         {
           "id": "https://www.polygon.com/what-to-play/22956981/best-games-2022",
           "author": null,
@@ -21886,6 +22086,76 @@
       "feedUrl": "https://www.animenewsnetwork.com/news/rss.xml",
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.187306",
+          "author": null,
+          "description": "Series covering final 20 volumes of manga premieres in October",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/bleach-thousand-year-blood-war-anime-streams-on-hulu-in-u.s-disney-internationally/.187306",
+          "publishedOn": "2022-10-03T16:02:06.000Z",
+          "wordCount": 3400,
+          "title": "Bleach: Thousand-Year Blood War Anime Streams on Hulu in U.S., Disney+ Internationally",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDA/cms/news.5/187306/bleach-thousand-year-blood-war-on-hulu.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190455",
+          "author": null,
+          "description": "Raon, Sano ibuki perform theme songs for 2nd part",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/lucifer-and-the-biscuit-hammer-anime-video-previews-2nd-part-new-theme-songs/.190455",
+          "publishedOn": "2022-10-03T15:49:06.000Z",
+          "wordCount": 3162,
+          "title": "Lucifer and the Biscuit Hammer Anime's Video Previews 2nd Part, New Theme Songs",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYC/youtube/iYMzjLbRLfI.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190454",
+          "author": null,
+          "description": "Companies aim to create original works that combine CG/hand-drawn animation",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/bandai-namco-filmworks-invests-in-cg-studio-anima/.190454",
+          "publishedOn": "2022-10-03T15:00:00.000Z",
+          "wordCount": 2936,
+          "title": "Bandai Namco Filmworks Invests in CG Studio Anima",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB5/cms/news.5/182390/bandai-namco.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190426",
+          "author": null,
+          "description": "Yoko Kuno, Nobuhiro Yamashita direct film based on manga by Takashi Imashiro",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/shin-ei-animation-partners-with-french-studio-for-ghost-cat-anzu-film/.190426",
+          "publishedOn": "2022-10-03T13:00:00.000Z",
+          "wordCount": 3007,
+          "title": "Shin-ei Animation Partners with French Studio for Ghost Cat Anzu Film",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHQ/cms/news.5/190426/anzu-03.png.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190434",
+          "author": null,
+          "description": "Atsushi Wada's \"Bird in the Peninsula\" short screens in International Competition",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/the-girl-from-the-other-side-more-compete-at-new-chitose-airport-intl-animation-fest/.190434",
+          "publishedOn": "2022-10-03T12:00:00.000Z",
+          "wordCount": 3000,
+          "title": "The Girl from the Other Side, More Compete at New Chitose Airport Int'l Animation Fest",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.2/144340/girlanime.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190447",
+          "author": null,
+          "description": "Visual novel from CIRCUS launches on PC in 2023",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/da-capo-5-visual-novel-opening-video-streamed/.190447",
+          "publishedOn": "2022-10-03T10:50:05.000Z",
+          "wordCount": 3005,
+          "title": "Da Capo 5 Visual Novel's Opening Video Streamed",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/youtube/1UwmdF9MPSs.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190427",
+          "author": null,
+          "description": "Also: service launches new manga by Abyss Rage's Nariaki Narita",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-03/shonen-jump-details-8-new-manga-for-october-november-including-2-naruto-spinoffs-hololive-manga/.190427",
+          "publishedOn": "2022-10-03T09:18:05.000Z",
+          "wordCount": 3112,
+          "title": "Shonen Jump+ Details 8 New Manga for October-November Including 2 Naruto Spinoffs, Hololive Manga",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC4/cms/news.5/190427/rensai.jpg"
+        },
         {
           "id": "https://www.animenewsnetwork.com/cms/.190430",
           "author": null,
@@ -25320,6 +25590,16 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/watch-what-is-a-storm-surge/article65967561.ece",
+          "author": "The Hindu Bureau",
+          "description": "A video on Hurricane Ian",
+          "link": "https://www.thehindu.com/news/international/watch-what-is-a-storm-surge/article65967561.ece",
+          "publishedOn": "2022-10-03T15:12:59.000Z",
+          "wordCount": 6112,
+          "title": "Watch | What is a storm surge?",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6mnt47/article65967555.ece/alternates/LANDSCAPE_615/CORRECTION_Tropical_Weather_44680.jpg"
+        },
         {
           "id": "https://www.thehindu.com/news/international/gazprom-nord-stream-leaks-stop-gas-supply-could-resume-on-single-line/article65966507.ece",
           "author": "Reuters",
@@ -32785,6 +33065,16 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/head-of-russian-held-ukrainian-nuclear-plant-freed-un-watchdog/articleshow/94626313.cms",
+          "author": null,
+          "description": "The detained chief of Ukraine's Russian-held nuclear power plant has been released, the head of the UN nuclear watchdog said Monday. Zaporizhzhia -- Europe's largest nuclear energy facility -- has been at the centre of recent tensions after Moscow and Kyiv accused each other of strikes on and near the plant, raising fears of an atomic disaster.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/head-of-russian-held-ukrainian-nuclear-plant-freed-un-watchdog/articleshow/94626313.cms",
+          "publishedOn": "2022-10-03T15:50:42.000Z",
+          "wordCount": 7398,
+          "title": "Head of Russian-held Ukrainian nuclear plant freed: UN watchdog",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94626348,width-1070,height-580,imgsize-40552,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/32-children-died-in-indonesia-stadium-disaster-police-chief-sacked/articleshow/94625483.cms",
           "author": null,
           "description": "At least 32 children died in Indonesia's stadium crush, an official said Monday as police moved to punish those responsible for one of the deadliest disasters in football history. As anger mounted against police, Indonesia's chief security minister Mahfud MD announced a task force had been formed to investigate and called for those responsible to be punished.",
@@ -35339,6 +35629,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94625667,width-1070,height-580,imgsize-61536,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/india-jobless-rate-drops-to-four-year-low-before-festival-season/articleshow/94625480.cms",
+          "author": null,
+          "description": "India’s unemployment rate dropped to the lowest in more than four years in September, buoyed by a strong rise in new jobs, according to a private research firm. The jobless rate sharply fell to 6.43%, data from the Centre for Monitoring Indian Economy Pvt. showed. The reading is the lowest since August 2018 and compares with a one-year high of 8.3% in August.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/india-jobless-rate-drops-to-four-year-low-before-festival-season/articleshow/94625480.cms",
+          "publishedOn": "2022-10-03T14:58:50.000Z",
+          "wordCount": 5598,
+          "title": "India jobless rate drops to four-year low before festival season",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625521,width-1070,height-580,imgsize-1477328,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/toisa/nominations?badminton&utm_source=TOI&utm_medium=Article_Unlock_HP_0310&utm_campaign=Referral_TOISA_Internal#Nominations2",
           "author": null,
           "description": "Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -35657,6 +35957,16 @@
           "wordCount": 9966,
           "title": "Sidhu Moose Wala murder accused flees from custody",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94612436,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-101056/94612436.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/india-has-a-1-2-trillion-plan-to-snatch-factories-from-china/articleshow/94611535.cms",
+          "author": null,
+          "description": "Under a 100-trillion-rupee ($1.2 trillion) mega project called PM Gati Shakti -- Hindi for strength of speed -- Modi’s administration is creating a digital platform that combines 16 ministries. The portal will offer investors and companies a one-stop solution for design of projects, seamless approvals and easier estimation of costs.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/india-has-a-1-2-trillion-plan-to-snatch-factories-from-china/articleshow/94611535.cms",
+          "publishedOn": "2022-10-03T05:00:26.000Z",
+          "wordCount": 7290,
+          "title": "India has a $1.2 trillion plan to snatch factories from China",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94611751,width-1070,height-580,imgsize-69646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-16s-priyanka-chahar-choudhary-people-feel-their-image-will-get-destroyed-if-they-do-bigg-boss-why-dont-they-believe-in-their-talent/articleshow/94611294.cms",
