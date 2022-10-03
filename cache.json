@@ -2279,6 +2279,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html",
+          "author": "Carly Olson",
+          "description": "Both European and Russian leaders have said that ruptures discovered undersea were an act of sabotage.",
+          "link": "https://www.nytimes.com/2022/10/02/world/europe/nord-stream-pipeline-damage-russia.html",
+          "publishedOn": "2022-10-02T23:37:12.000Z",
+          "wordCount": null,
+          "title": "Nord Stream Pipelines Have Stopped Leaking After Earlier Damage",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/business/opec-plus-production-cut.html",
           "author": "Stanley Reed",
           "description": "The oil producers group, which meets on Wednesday, is worried about declining demand in a slowing global economy. Prices have dropped by 25 percent since June.",
@@ -2286,6 +2296,16 @@
           "publishedOn": "2022-10-02T22:35:17.000Z",
           "wordCount": null,
           "title": "OPEC Plus Considering Major Production Cut to Prop Up Oil Prices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html",
+          "author": null,
+          "description": "A major Russian newspaper said the Russian troops, facing defeat in Lyman, had fled with “empty eyes” after barely escaping with their lives.",
+          "link": "https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html",
+          "publishedOn": "2022-10-02T22:00:07.000Z",
+          "wordCount": null,
+          "title": "Ukrainian Troops Hunt Demoralized Russian Stragglers in Seized City",
           "imageUrl": null
         },
         {
@@ -25943,6 +25963,76 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/tractor-crashes-killed-10-a-day-in-2021/articleshow/94607689.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Last year 3,899 people travelling in tractors and attached trolleys died in road crashes, which translates to a loss of 10 lives per day, d.",
+          "link": "https://timesofindia.indiatimes.com/india/tractor-crashes-killed-10-a-day-in-2021/articleshow/94607689.cms",
+          "publishedOn": "2022-10-03T00:25:46.000Z",
+          "wordCount": 5934,
+          "title": "Tractor crashes killed 10 a day in 2021",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607696,width-1070,height-580,imgsize-26300,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/resort-owner-had-lied-about-his-phone-police/articleshow/94607659.cms",
+          "author": null,
+          "description": "India News: DEHRADUN: During investigation in the Ankita Bhandari case, the Special Investigation Team (SIT) found out that accused Pulkit Arya had earlier lied t.",
+          "link": "https://timesofindia.indiatimes.com/india/resort-owner-had-lied-about-his-phone-police/articleshow/94607659.cms",
+          "publishedOn": "2022-10-03T00:17:35.000Z",
+          "wordCount": 5457,
+          "title": "Resort owner had lied about his phone: Police",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/4-lakh-crore-loss-due-to-rains-floods-in-65-years-report/articleshow/94607586.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: A home ministry study, conducted by its think tank National Institute of Disaster Management (NIDM), has assessed economic damages due to f.",
+          "link": "https://timesofindia.indiatimes.com/india/4-lakh-crore-loss-due-to-rains-floods-in-65-years-report/articleshow/94607586.cms",
+          "publishedOn": "2022-10-03T00:15:01.000Z",
+          "wordCount": 5649,
+          "title": "₹4 lakh crore loss due to rains, floods in 65 years: Report",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607635,width-1070,height-580,imgsize-87980,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/one-dead-50-injured-as-puja-pandal-catches-fire-in-ups-bhadohi/articleshow/94607619.cms",
+          "author": null,
+          "description": "One minor boy died and at least 50 people, mainly women and children, suffered burn injuries when a crowded Durga Puja Pandal caught fire at Ekta Club on Bhadohi-Aurai Road in Bhadohi district, 40 km from Varanasi, on Sunday night, reports Rajiv Dikshit.",
+          "link": "https://timesofindia.indiatimes.com/india/one-dead-50-injured-as-puja-pandal-catches-fire-in-ups-bhadohi/articleshow/94607619.cms",
+          "publishedOn": "2022-10-03T00:10:25.000Z",
+          "wordCount": 6184,
+          "title": "One dead, 50 injured as puja pandal catches fire in UP's Bhadohi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607654,width-1070,height-580,imgsize-53628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tap-water-connections-in-38-of-rural-houses-facing-woes/articleshow/94607120.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Only 62% rural households in the country were found to have functional tap water connections with 38% of the total assessed households unab.",
+          "link": "https://timesofindia.indiatimes.com/india/tap-water-connections-in-38-of-rural-houses-facing-woes/articleshow/94607120.cms",
+          "publishedOn": "2022-10-02T23:44:45.000Z",
+          "wordCount": 5990,
+          "title": "Tap water connections in 38% of rural houses facing woes: Report",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607501,width-1070,height-580,imgsize-20850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/4-italians-booked-for-graffiti-on-ahmedabad-metro/articleshow/94607342.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: The city crime branch on Saturday booked four Italian nationals who painted graffiti on a Metro train at Apparel Park on Friday, hours befo.",
+          "link": "https://timesofindia.indiatimes.com/india/4-italians-booked-for-graffiti-on-ahmedabad-metro/articleshow/94607342.cms",
+          "publishedOn": "2022-10-02T23:28:41.000Z",
+          "wordCount": 5934,
+          "title": "4 Italians booked for graffiti on Ahmedabad Metro",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607433,width-1070,height-580,imgsize-1629208,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Telangana, Haryana and Tamil Nadu emerged the cleanest among all large states on parameters of rural sanitation while Assam, Bihar and Jamm.",
+          "link": "https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms",
+          "publishedOn": "2022-10-02T22:56:46.000Z",
+          "wordCount": 6224,
+          "title": "Telangana cleanest, Assam worst in rural area Swacchta survey",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607322,width-1070,height-580,imgsize-53532,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/as-mega-festive-month-starts-covid-count-continues-to-dip/articleshow/94607242.cms",
           "author": null,
           "description": "India News: NEW DELHI: India entered the mega festive month of October with Covid-19 cases continuing to decline sharply.",
@@ -33153,6 +33243,56 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/government-may-include-services-in-wholesale-price-index/articleshow/94607813.cms",
+          "author": null,
+          "description": "India Business News: NEW DELHI: The government is looking to capture the services sector’s price movement in the wholesale price index as it finalises the new series to in.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/government-may-include-services-in-wholesale-price-index/articleshow/94607813.cms",
+          "publishedOn": "2022-10-03T00:46:44.000Z",
+          "wordCount": 5865,
+          "title": "Government may include services in wholesale price index",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607832,width-1070,height-580,imgsize-53384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/one-dead-50-injured-as-puja-pandal-catches-fire-in-ups-bhadohi/articleshow/94607619.cms",
+          "author": null,
+          "description": "One minor boy died and at least 50 people, mainly women and children, suffered burn injuries when a crowded Durga Puja Pandal caught fire at Ekta Club on Bhadohi-Aurai Road in Bhadohi district, 40 km from Varanasi, on Sunday night, reports Rajiv Dikshit.",
+          "link": "https://timesofindia.indiatimes.com/india/one-dead-50-injured-as-puja-pandal-catches-fire-in-ups-bhadohi/articleshow/94607619.cms",
+          "publishedOn": "2022-10-03T00:10:25.000Z",
+          "wordCount": 6184,
+          "title": "One dead, 50 injured as puja pandal catches fire in Bhadohi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607654,width-1070,height-580,imgsize-53628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tap-water-connections-in-38-of-rural-houses-facing-woes/articleshow/94607120.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Only 62% rural households in the country were found to have functional tap water connections with 38% of the total assessed households unab.",
+          "link": "https://timesofindia.indiatimes.com/india/tap-water-connections-in-38-of-rural-houses-facing-woes/articleshow/94607120.cms",
+          "publishedOn": "2022-10-02T23:44:45.000Z",
+          "wordCount": 5990,
+          "title": "'Tap water connections in 38% of rural houses facing woes'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607501,width-1070,height-580,imgsize-20850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/4-italians-booked-for-graffiti-on-ahmedabad-metro/articleshow/94607342.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: The city crime branch on Saturday booked four Italian nationals who painted graffiti on a Metro train at Apparel Park on Friday, hours befo.",
+          "link": "https://timesofindia.indiatimes.com/india/4-italians-booked-for-graffiti-on-ahmedabad-metro/articleshow/94607342.cms",
+          "publishedOn": "2022-10-02T23:28:41.000Z",
+          "wordCount": 5934,
+          "title": "4 Italians booked for graffiti on Ahmedabad Metro",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607433,width-1070,height-580,imgsize-1629208,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-war-news-live-updates-october-3/liveblog/94607356.cms",
+          "author": null,
+          "description": "Russia attacked the Ukrainian president’s hometown and other targets on Sunday with suicide drones, and Ukraine took back full control of a strategic eastern city in a counteroffensive that has reshaped the war. Stay with TOI for more updates.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-war-news-live-updates-october-3/liveblog/94607356.cms",
+          "publishedOn": "2022-10-02T23:06:00.000Z",
+          "wordCount": 5438,
+          "title": "Live: Ukraine presses on with counteroffensive",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94607356,width-1070,height-580,imgsize-106748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/telangana-cleanest-assam-worst-in-rural-area-swacchta-survey/articleshow/94607317.cms",
           "author": null,
