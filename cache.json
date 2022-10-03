@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time",
+          "author": null,
+          "description": "Illustration: The Verge\n    \n\n  \nLast May, at Google’s annual developer conference, Google I/O 2022, there were hints about the company’s upcoming Pixel 7 and 7 Pro phones. Now, five months later, at Google’s Pixel launch event this coming Thursday, we are finally going to be introduced to them. Of course, there won’t be all that many surprises; there have been quite a few hints floating around about their cameras, displays, size, and price. But it will be interesting to see how many of these rumors are correct.\nPerhaps more interesting is the new Pixel Watch, which is also expected to be introduced and which may mean that Google is finally offering a smartwatch that could be a real contender. Other announcements may include a new Tensor G2 chip, an improved tablet, some new Nest devices, and maybe — just maybe — even a foldable. We’ll just have to wait and see. \n\n\nSo, if you’re curious about what’s coming in the Google ecosystem — or if you’re in mourning for the Stadia and need some cheering up — why not take a look.\nWhat time does Google’s Pixel event start?  \nGoogle’s Pixel launch event will be streamed on Thursday, October 6th, at 7AM PT / 10AM ET. \nWhere can I watch the Google Pixel event live stream?\nYou can stream the Google event on Google’s YouTube channel. We’ll also be embedding the stream above to watch live and after the event. \nAs always, The Verge will be live blogging the main keynote, and you can follow along with us here. Be sure to follow @verge on Twitter and @verge on Instagram.",
+          "link": "https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time",
+          "publishedOn": "2022-10-03T15:03:00.000Z",
+          "wordCount": 6802,
+          "title": "How to watch the Google Pixel launch event",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23384883/concerts-metaverse-travis-scott-charlie-puth-iheartland",
           "author": null,
           "description": "Illustration by Samar Haddad / The Verge\n    \n\n  \nA few weeks ago, I went to a Charlie Puth concert from my computer. The concert was in Fortnite, in the new State Farm Park arena in the iHeartland area of the game’s island. For a half hour or so, I watched and listened to Puth play the hits, as I also flew and parkour’d around the island playing the iHeartLand mini games.\nThis is the concert, or at least a concert, of the future: more interactive, more immersive, and taking place in purely digital spaces. For artists of all genres and statures, “What’s up, Roblox!” is the new “What’s up, Cleveland!” \nDigital concerts are nothing new, of course. But starting with Travis Scott’s Fortnite show in 2020, the music industry has taken new notice of platforms like Fortnite, Roblox, and Minecraft.…",
@@ -2408,6 +2418,16 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "siteUrl": "https://www.nytimes.com",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/biden-puerto-rico-hurricane-fiona.html",
+          "author": "Katie Rogers",
+          "description": "Utility companies are still working to restore power to thousands of customers on the island nearly two weeks after Hurricane Fiona made landfall.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/biden-puerto-rico-hurricane-fiona.html",
+          "publishedOn": "2022-10-03T14:52:42.000Z",
+          "wordCount": null,
+          "title": "Biden Will Visit Puerto Rico to Survey Storm Damage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/business/economy/job-market-recession.html",
           "author": "Sydney Ember and Ben Casselman",
@@ -9587,6 +9607,26 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234604033",
+          "author": "CT Jones",
+          "description": "\"Lindsey sends his deepest apologies to all his fans who were planning to attend and hopes to return to Europe in the future,\" his team said in a statement",
+          "link": "https://www.rollingstone.com/music/music-news/lindsey-buckingham-cancels-european-tour-dates-health-1234604033/",
+          "publishedOn": "2022-10-03T15:00:04.000Z",
+          "wordCount": 7098,
+          "title": "Lindsey Buckingham Cancels Remaining European Tour Dates Over Health Concerns",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Lindsey-Buckingham-tour.jpg?w=1024"
+        },
+        {
+          "id": "https://www.rollingstone.com/?p=1234604061",
+          "author": "Andy Greene",
+          "description": "They played \"Room at the Top\" and \"The Waiting\" at the Ohana Festival",
+          "link": "https://www.rollingstone.com/music/music-news/eddie-vedder-mike-campbell-honor-tom-petty-5th-anniversary-of-death-1234604061/",
+          "publishedOn": "2022-10-03T14:50:35.000Z",
+          "wordCount": 7254,
+          "title": "Watch Eddie Vedder and Mike Campbell Honor Tom Petty on 5th Anniversary of Death",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Eddie-Vedder-and-Mike-Campbell.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603935",
           "author": "Althea Legaspi",
           "description": "21-date trek marks the musician’s first stateside concerts in nearly five years",
@@ -10934,6 +10974,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234604009",
+          "author": "Larisha Paul",
+          "description": "For the first time, the new Black Panther is revealed in full form",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/black-panther-wakanda-forever-trailer-2-1234604009/",
+          "publishedOn": "2022-10-03T14:36:22.000Z",
+          "wordCount": 7310,
+          "title": "‘Only the Most Broken People Can Be Great Leaders’: A New Hero Emerges in ‘Black Panther: Wakanda Forever’ Trailer",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/PRO3280_TRL_comp_ILM_v0005.1042_Rc.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234603924",
           "author": "Ky.henderson",
           "description": "Western museums are full of antiquities stolen from other countries by colonialists, and those museums really don't want to give any of it back.",
@@ -11520,6 +11570,46 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2380918",
+          "author": "Anita Ramaswamy",
+          "description": "If crypto is going to reach “mass adoption,” the industry still has a lot of people it needs to bring on board. Approximately 83% of U.S. adults haven’t ever invested in, traded or used cryptocurrency, according to a Pew Research Center survey conducted this summer. While many builders and investors agree that it’s still relatively […]\nMad Realities’ Devin Lewtan talks onboarding new crypto users through content at TC Sessions: Crypto by Anita Ramaswamy originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/mad-realities-devin-lewtan-talks-onboarding-new-crypto-users-through-content-at-tc-sessions-crypto/",
+          "publishedOn": "2022-10-03T15:00:34.000Z",
+          "wordCount": 6916,
+          "title": "Mad Realities’ Devin Lewtan talks onboarding new crypto users through content at TC Sessions: Crypto",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/TC22_Sessions_Crypto_1200x628-lewtan.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417095",
+          "author": "Amanda Silberling",
+          "description": "At this point in the BeReal hype cycle, you might’ve seen some wild things in your friends’ once-per-day snaps (personally, I’ve seen a couple of “sitting on the toilet” posts, and I am grateful it hasn’t been worse). In the “Saturday Night Live” season premiere, the sketch comedy writers ask: what if the BeReal goes […]\nBeReal gets its own Saturday Night Live skit by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/bereal-saturday-night-live-snl-skit/",
+          "publishedOn": "2022-10-03T14:53:45.000Z",
+          "wordCount": 6308,
+          "title": "BeReal gets its own Saturday Night Live skit",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/bereal.webp?resize=1200,648"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417121",
+          "author": "Aisha Malik",
+          "description": "Venmo is launching a new feature called “Charity Profiles” that will allow charities to raise funds and receive donations directly within its app, the Pay-Pal-owned company announced on Monday. The new profiles will be available to charities that have received confirmed charity status from PayPal. The new profile option will allow charities to reach more […]\nVenmo rolls out ‘Charity Profiles’ to allow charities to raise funds directly within its app by Aisha Malik originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/venmo-charity-profiles-raise-funds-directly-within-app/",
+          "publishedOn": "2022-10-03T14:46:10.000Z",
+          "wordCount": 6489,
+          "title": "Venmo rolls out ‘Charity Profiles’ to allow charities to raise funds directly within its app",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/venmo-app.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417087",
+          "author": "Alex Wilhelm",
+          "description": "If unicorns are not able to raise as much this year as they did in, say, 2019, how many of the billion-dollar-plus startups are going to survive?\nThe unicorn funding slump is worse than you thought by Alex Wilhelm originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/the-unicorn-funding-slump-is-worse-than-you-thought/",
+          "publishedOn": "2022-10-03T14:36:58.000Z",
+          "wordCount": 5948,
+          "title": "The unicorn funding slump is worse than you thought",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-GRN.jpg?resize=1200,900"
+        },
         {
           "id": "https://techcrunch.com/?p=2417080",
           "author": "Ingrid Lunden",
@@ -14968,6 +15058,96 @@
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
         {
+          "id": "qjkw9b",
+          "author": "Greg Walters",
+          "description": "Donald Trump was inspired by James Brown and pro wrestling and wanted to make a big scene when he left the hospital, according to a new book.",
+          "link": "https://www.vice.com/en_us/article/qjkw9b/trump-superman-covid",
+          "publishedOn": "2022-10-03T15:00:06.000Z",
+          "wordCount": 6742,
+          "title": "Trump Ordered Superman Shirt to Bust Out of Hospital Post-COVID",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633af257856cce009acd77eb/lede/1664809055770-trump-superman-covid.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633af257856cce009acd77eb/lede/1664809055770-trump-superman-covid.png"
+        },
+        {
+          "id": "akenpj",
+          "author": "Matthew Gault",
+          "description": "A suspicious tournament official cut open the winning fish and discovered they were full of weights.",
+          "link": "https://www.vice.com/en_us/article/akenpj/weighted-fish-cheating-scandal-rocks-the-world-of-fishing-competitions",
+          "publishedOn": "2022-10-03T14:56:03.000Z",
+          "wordCount": 4334,
+          "title": "Weighted Fish Cheating Scandal Rocks the World of Fishing Competitions",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633af6866d475c0099185d4c/lede/1664808815225-3104732966066942179104975542998196493065119n.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633af6866d475c0099185d4c/lede/1664808815225-3104732966066942179104975542998196493065119n.jpeg"
+        },
+        {
+          "id": "epz5wp",
+          "author": "Aaron Gordon",
+          "description": "“Until we have confirmation from the experts the slope movement has stopped, we will not resume Metrolink service,” the commuter rail line that runs on the same tracks said.",
+          "link": "https://www.vice.com/en_us/article/epz5wp/amtrak-shuts-down-its-second-busiest-corridor-due-to-coastal-erosion-again",
+          "publishedOn": "2022-10-03T14:50:08.000Z",
+          "wordCount": 4291,
+          "title": "Amtrak Shuts Down Its Second-Busiest Corridor Due to Coastal Erosion, Again",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633af584edd9480094cf6b8b/lede/1664808486388-gettyimages-616274762.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633af584edd9480094cf6b8b/lede/1664808486388-gettyimages-616274762.jpeg"
+        },
+        {
+          "id": "4axqed",
+          "author": "Lorenzo  Franceschi-Bicchierai",
+          "description": "A group of criminal hackers have started leaking data containing personal information online, after the victim school publicly announced it wasn’t going to pay the ransom.",
+          "link": "https://www.vice.com/en_us/article/4axqed/cybercriminals-leak-la-school-data-after-it-refuses-to-ransom",
+          "publishedOn": "2022-10-03T14:49:53.000Z",
+          "wordCount": 4572,
+          "title": "Cybercriminals Leak LA School Data After It Refuses to Ransom",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633ae9ff417523009274b6de/lede/1664805591816-lausd.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633ae9ff417523009274b6de/lede/1664805591816-lausd.jpeg"
+        },
+        {
+          "id": "m7gpdb",
+          "author": "Renata Price",
+          "description": "In 'The Fridge is Red' puzzle and chase mechanics consistently interfere with the mundane and powerful horror of dream logic",
+          "link": "https://www.vice.com/en_us/article/m7gpdb/the-fridge-is-red-is-almost-a-great-horror-game",
+          "publishedOn": "2022-10-03T14:48:22.000Z",
+          "wordCount": 5293,
+          "title": "‘The Fridge is Red’ Is Almost a Great Horror Game",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633af4dd8349520093d988a0/lede/1664808287067-fridge-is-red-header.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633af4dd8349520093d988a0/lede/1664808287067-fridge-is-red-header.jpeg"
+        },
+        {
+          "id": "wxnp9n",
+          "author": "Jordan Pearson",
+          "description": "The pop culture icon is paying a price to settle charges relating to telling her millions of followers to purchase a bizarre cryptocurrency.",
+          "link": "https://www.vice.com/en_us/article/wxnp9n/kim-kardashian-is-paying-the-sec-dollar126-million-after-being-charged-with-illegal-crypto-promotion",
+          "publishedOn": "2022-10-03T14:48:16.000Z",
+          "wordCount": 3973,
+          "title": "Kim Kardashian Is Paying the SEC $1.26 Million After Being Charged With Illegal Crypto Promotion",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633af4c6417523009274baf9/lede/1664808381540-gettyimages-1425655415.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633af4c6417523009274baf9/lede/1664808381540-gettyimages-1425655415.jpeg"
+        },
+        {
           "id": "v7vy89",
           "author": "Tess Owen",
           "description": "The Jan. 6 defendants wrote a letter demanding to be transferred to Gitmo, which they said provides “nutritional meals.”",
@@ -18012,6 +18192,16 @@
       "siteUrl": "https://kotaku.com",
       "articles": [
         {
+          "id": "1849608540",
+          "author": "Ethan Gach",
+          "description": "Some of the core developers behind beloved 2019 indie RPG Disco Elysium, including the author of the novel it’s based on, are no longer working at the studio that created it. The news was revealed in a blog post written by an editor on the game, Martin Luiga, who claims studio leadership at ZA/UM forced out the lead…\nRead more...",
+          "link": "https://kotaku.com/disco-elysium-2-zaum-amazon-allegations-narrative-rpg-1849608540",
+          "publishedOn": "2022-10-03T14:33:46.000Z",
+          "wordCount": 6462,
+          "title": "Disco Elysium Studio Accused Of Ousting Creators, Dev Says It's 'Bad News' For Sequel",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/853c0eb488f975ab531d30886a53ad18.jpg"
+        },
+        {
           "id": "1847969414",
           "author": "Zack Zwiezen",
           "description": "A good scary game is often a thrilling experience. And if you are currently a Game Pass subscriber and in the mood to play something terrifying, creepy, or just downright spooky you already have access to some fantastic horror games for no additional cost. This is nice, because the only thing scarier than deadly…\nRead more...",
@@ -19258,6 +19448,26 @@
       "feedUrl": "https://www.polygon.com/rss/gaming/index.xml",
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
+        {
+          "id": "https://www.polygon.com/what-to-play/22956981/best-games-2022",
+          "author": null,
+          "description": "Image: Massive Monster/Devolver Digital\n    \n\n\n  \nA running list of standout games from an already impressive year\n It’s that time of the year again — a period of backlog-perusing indecision as to what game to cross off our list before the rush of fall releases. Gotham Knights is just around the corner. So are Bayonetta 3, Mario + Rabbids: Sparks of Hope, and Resident Evil Village Winters’ Expansion. Before we know it, we’ll be staring down the barrel of God of War Ragnarok, Pokémon Scarlet and Violet, and Warhammer 40,000: Darktide. If ever there was a time to try out that hidden gem we’ve kept on the back burner, this is probably it. \nEven so: It’s weird to even be preparing for a busy release season. Whether because of shifting release calendars, less reliance on the retail sphere, or d…",
+          "link": "https://www.polygon.com/what-to-play/22956981/best-games-2022",
+          "publishedOn": "2022-10-03T15:05:47.000Z",
+          "wordCount": 7853,
+          "title": "The best video games of 2022, so far",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/D2kuQUp2L7IIPfQ0p_qUcTMKZbA=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069623/cotl.jpg"
+        },
+        {
+          "id": "https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer",
+          "author": null,
+          "description": "Image: Guerrilla Games/Sony Interactive Entertainment\n    \n\n  \nThe remaster will reportedly focus on graphical, accessibility, and quality of life improvements\n If you’ve been dying to revisit Horizon Zero Dawn, but can’t be bothered to play the original PlayStation 4 version on your PlayStation 5, you may be in luck. Eight months after the launch of Horizon Forbidden West, multiple reports say that the original game is getting a PS5 remaster. \nMP1st reported on Sunday, citing sources, that a new version of the 2017 Guerrilla Games open-world game is being built for PS5. MP1st’s reporting was uncertain if this is just a remaster — à la The Last of Us Remastered on PS4 — or if it’s a built-from-the-ground-up remake, à la The Last of Us Part 1.\nEither way, the PS5 version of Zero Dawn will a…",
+          "link": "https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer",
+          "publishedOn": "2022-10-03T14:59:56.000Z",
+          "wordCount": 2185,
+          "title": "Horizon Zero Dawn remaster reportedly coming to PS5",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/kYvjgDPUsxIQMK_quldevcmsHxg=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7695993/horizon_zero_dawn.jpg"
+        },
         {
           "id": "https://www.polygon.com/23384913/disco-elysium-za-um-writer-artist-designer-departures",
           "author": null,
@@ -27308,6 +27518,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/cbi-detains-russian-national-in-jee-mains-exam-manipulation-case/articleshow/94625119.cms",
+          "author": null,
+          "description": "The CBI has detained a Russian national at Indira Gandhi International Airport in connection with its probe into alleged manipulation of JEE (Mains) examination last year, officials said Monday. The central agency had issued a 'Look Out Circular' against the foreign national, suspected to be main hacker, for alleged manipulation of the prestigious examination, they said.",
+          "link": "https://timesofindia.indiatimes.com/india/cbi-detains-russian-national-in-jee-mains-exam-manipulation-case/articleshow/94625119.cms",
+          "publishedOn": "2022-10-03T14:24:14.000Z",
+          "wordCount": 5818,
+          "title": "CBI detains Russian national in JEE-Mains exam manipulation case",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625175,width-1070,height-580,imgsize-35478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-rahul-gandhi-slams-bjp-calls-karnataka-govt-most-corrupt/articleshow/94625019.cms",
+          "author": null,
+          "description": "India News: MANDYA: Congress leader Rahul Gandhi slammed the BJP-led Karnataka government on Monday and called it the most \"corrupt\" government.",
+          "link": "https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-rahul-gandhi-slams-bjp-calls-karnataka-govt-most-corrupt/articleshow/94625019.cms",
+          "publishedOn": "2022-10-03T14:18:23.000Z",
+          "wordCount": 6127,
+          "title": "Bharat Jodo Yatra: Rahul Gandhi slams BJP, calls Karnataka govt 'most corrupt'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625031,width-1070,height-580,imgsize-97112,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/centre-asks-news-websites-tv-channels-to-refrain-from-carrying-advertisements-of-betting-sites/articleshow/94624490.cms",
           "author": null,
           "description": "India News: NEW DELHI: The Centre on Monday issued advisories to news websites, OTT platforms and private satellite channels asking them to refrain from carrying .",
@@ -32555,6 +32785,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/32-children-died-in-indonesia-stadium-disaster-police-chief-sacked/articleshow/94625483.cms",
+          "author": null,
+          "description": "At least 32 children died in Indonesia's stadium crush, an official said Monday as police moved to punish those responsible for one of the deadliest disasters in football history. As anger mounted against police, Indonesia's chief security minister Mahfud MD announced a task force had been formed to investigate and called for those responsible to be punished.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/32-children-died-in-indonesia-stadium-disaster-police-chief-sacked/articleshow/94625483.cms",
+          "publishedOn": "2022-10-03T14:49:19.000Z",
+          "wordCount": 11620,
+          "title": "32 children died in Indonesia stadium disaster, police chief sacked",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625491,width-1070,height-580,imgsize-124298,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-orlene-roars-toward-mexicos-pacific-coast/articleshow/94625472.cms",
+          "author": null,
+          "description": "Orlene lost some strength after roaring over the Islas Maria, a former prison colony being developed as a tourist draw. The main island is sparsely populated, mainly by government employees, and most buildings there are made of brick or concrete.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-orlene-roars-toward-mexicos-pacific-coast/articleshow/94625472.cms",
+          "publishedOn": "2022-10-03T14:46:28.000Z",
+          "wordCount": 7249,
+          "title": "Hurricane Orlene roars toward Mexico's Pacific coast",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625496,width-1070,height-580,imgsize-57382,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/russian-parliament-backs-putins-annexation-bill/articleshow/94623542.cms",
           "author": null,
           "description": "Members of the Kremlin-loyal lower house of parliament voted to incorporate Donetsk, Lugansk, Kherson and Zaporizhzhia with no abstentions or votes against the annexation, its website showed. Russian President Vladimir Putin last Friday presided over a ceremony at the Kremlin during which he signed agreements with the Moscow-installed leaders of the four regions to become subjects of the Russian Federation.",
@@ -35078,6 +35328,16 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-icc-mens-t20-world-cup-bcci/articleshow/94625625.cms",
+          "author": null,
+          "description": "The BCCI on Monday officially ruled out ace India pacer Jasprit Bumrah from the upcoming ICC Men's T20 World Cup in Australia due to back injury. \"The BCCI will be naming a replacement for Jasprit Bumrah in the squad for the marquee tournament soon,\" the statement further added.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-ruled-out-of-icc-mens-t20-world-cup-bcci/articleshow/94625625.cms",
+          "publishedOn": "2022-10-03T15:03:36.000Z",
+          "wordCount": 5407,
+          "title": "Jasprit Bumrah ruled out of T20 World Cup: BCCI",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94625667,width-1070,height-580,imgsize-61536,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/toisa/nominations?badminton&utm_source=TOI&utm_medium=Article_Unlock_HP_0310&utm_campaign=Referral_TOISA_Internal#Nominations2",
           "author": null,
