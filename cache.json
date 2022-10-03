@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2022/10/3/23385911/overwatch-2-launches-times-by-region",
+          "author": null,
+          "description": "Blizzard\n    \n\n  \nAs the servers for Overwatch prime sunset sometime around 12PM ET today, heroes old and new are now looking forward to when we can officially welcome Overwatch 2. \nImage: Blizzard\n  \nDepending on where you are in the world, your Overwatch 2 launch time may vary from the 12PM PT / 3PM ET start time. London and Paris will get their game late on October 4th, while Seoul and Sydney will get access early on October 5th. If you’re an Overwatch prime player or purchased an Overwatch 2 Watchpoint Pack, you have the ability to preload Overwatch 2 on your PC right now. Unfortunately, console players will have to wait until 9AM PT on October 4th for that privilege.  \nDevelopers, Overwatch League pros, and Overwatch prime diehards took the opportunity of the game’s official end to reminisce about the last six years of Overwatch history. If you’re a fan of OG competitive Overwatch, a group of old Apex tournament pros featuring Geguri, Jjonak, Bumper, Fury, Slime, and more, streamed one final 6v6 match on the soon-to-be-defunct assault map Horizon Lunar Colony. (Playing the dreaded GOATS composition no less!) Fans also posted clips of their favorite in-game moments or memes commemorating the noble end to what was for a lot of people (including me) a formative gaming experience.\nThe end of Overwatch 1. pic.twitter.com/IhHjmVPZiW\n— Frogger (@FroggerOW) October 3, 2022\n\n\n\nTo mark the game’s final passage, Blizzard sent this message to all players left on the server before it shut down for good:\n“Even the best journey’s end, but a new one is right around the corner. Thank you, heroes! See you October 4th.”",
+          "link": "https://www.theverge.com/2022/10/3/23385911/overwatch-2-launches-times-by-region",
+          "publishedOn": "2022-10-03T21:10:55.000Z",
+          "wordCount": 7487,
+          "title": "Here’s when Overwatch 2 launches in your region",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/J9fe54f5aMCLFQXMQGfnAMEBvL4=/0x0:1177x663/1200x628/filters:focal(589x332:590x333)/cdn.vox-cdn.com/uploads/chorus_asset/file/24079071/Launch_Key_Art.png"
+        },
+        {
           "id": "https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5",
           "author": null,
           "description": "The original Horizon Zero Dawn released on the PS4 just five years ago. | Image: Sony\n    \n\n  \nNext up on the list of remasters that nobody really asked for, Sony Interactive Entertainment might be working on a remastered version of Horizon Zero Dawn for the PlayStation 5. An unnamed source within Sony cited by MP1ST and VideoGamesChronicle pointed to a remastered version of the open-world PlayStation 4 title. \nDetails on the remaster are scarce at the moment but reportedly include new character models, lighting, and animations. It’s also likely that it will incorporate new accessibility features, quality of life improvements, and compatibility with the DualSense controller, mirroring some of the improvements we saw with the remastered version of The Last of Us, which came out in early Sep…",
@@ -2629,6 +2639,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/climate/hurricane-ian-rebuilding.html",
+          "author": "Elena Shao",
+          "description": "Big storms more becoming more common. That makes it crucial to take climate change into account when rebuilding.",
+          "link": "https://www.nytimes.com/2022/10/03/climate/hurricane-ian-rebuilding.html",
+          "publishedOn": "2022-10-03T21:23:34.000Z",
+          "wordCount": null,
+          "title": "Three Ways to Build Back Smarter After Hurricane Ian",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news/brittney-griner-appeal-hearing-russia",
           "author": "Dan Bilefsky",
           "description": "",
@@ -2646,6 +2666,16 @@
           "publishedOn": "2022-10-03T20:18:57.000Z",
           "wordCount": null,
           "title": "Brazil Braces for ‘White-Knuckle Race’ Between Bolsonaro and Lula",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/01/nyregion/nyc-trivia-league-kings-cup.html",
+          "author": "Brittany Loggins",
+          "description": "The team sport, more brain than brawn, is played in bars throughout the city and culminates in the King’s Cup.",
+          "link": "https://www.nytimes.com/2022/10/01/nyregion/nyc-trivia-league-kings-cup.html",
+          "publishedOn": "2022-10-03T20:13:07.000Z",
+          "wordCount": null,
+          "title": "New York City Is a Trivia Town",
           "imageUrl": null
         },
         {
@@ -8940,6 +8970,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/10/02/arts/television/house-of-the-dragon-season-1-episode-7-recap.html",
+          "author": "Jeremy Egner",
+          "description": "This week’s episode wove an enormous amount of objectively bonkers goings-on into a mostly credible hour of drama, with one big exception.",
+          "link": "https://www.nytimes.com/2022/10/02/arts/television/house-of-the-dragon-season-1-episode-7-recap.html",
+          "publishedOn": "2022-10-03T02:05:03.000Z",
+          "wordCount": null,
+          "title": "‘House of the Dragon’ Season 1, Episode 7 Recap: An Ugly Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/02/theater/baldwin-buckley-at-cambridge-review.html",
           "author": "Alexis Soloski",
           "description": "Elevator Repair Service, the experimental theater company, brings to life the 1965 debate between James Baldwin and William F. Buckley Jr.",
@@ -10106,6 +10146,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234604449",
+          "author": "Jon Freeman",
+          "description": "The bluegrass star and his dad Terry Barber drop \"Long Journey Home\" and \"Life to Go\" from the upcoming project",
+          "link": "https://www.rollingstone.com/music/music-country/billy-strings-me-and-dad-new-album-1234604449/",
+          "publishedOn": "2022-10-03T21:24:24.000Z",
+          "wordCount": 7263,
+          "title": "Billy Strings Picks and Sings With His Father on New Album ‘Me/And/Dad’",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/billystrings-dad.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234604431",
           "author": "Larisha Paul",
@@ -12190,6 +12240,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417530",
+          "author": "Christine Hall",
+          "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.\nDaily Crunch: Vice Society hackers post 500GB of data stolen from LA school district to dark web by Christine Hall originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/daily-crunch-vice-society-hackers-post-500gb-of-data-stolen-from-la-school-district-to-dark-web/",
+          "publishedOn": "2022-10-03T22:05:39.000Z",
+          "wordCount": 8452,
+          "title": "Daily Crunch: Vice Society hackers post 500GB of data stolen from LA school district to dark web",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1243081226-1.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2413090",
+          "author": "Aria Alamalhodaei",
+          "description": "In this issue: How the Space Coast braced for the storm; Humans: 1, Asteroids: 0; News from Astra, Firehawk Aerospace and more\nMax Q: Hubble hubble, toil and trouble by Aria Alamalhodaei originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/max-q-hubble-hubble-toil-and-trouble/",
+          "publishedOn": "2022-10-03T22:00:59.000Z",
+          "wordCount": 7992,
+          "title": "Max Q: Hubble hubble, toil and trouble",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-stars.gif"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417468",
+          "author": "Devin Coldewey",
+          "description": "Section 230 of the Communications Act, which prevents online platforms from being liable for the content posted by their users, will be evaluated by the Supreme Court in the coming season. It’s anyone’s guess how it may be affected, but we can be sure that the regulatory landscape for tech will look rather different this […]\nThe Supreme Court takes on Section 230 by Devin Coldewey originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/the-supreme-court-takes-on-section-230/",
+          "publishedOn": "2022-10-03T21:31:47.000Z",
+          "wordCount": 7792,
+          "title": "The Supreme Court takes on Section 230",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-959323052.jpg?resize=1200,744"
+        },
         {
           "id": "https://techcrunch.com/?p=2417520",
           "author": "Sarah Perez",
@@ -20529,6 +20609,16 @@
       "siteUrl": "https://www.polygon.com/gaming",
       "articles": [
         {
+          "id": "https://www.polygon.com/23385405/overwatch-down-blizzard-ow2-launch",
+          "author": null,
+          "description": "Image: Blizzard Entertainment\n    \n\n  \nPlayers say goodbye to the original Overwatch\n The original Overwatch is offline. That’s as expected, because Blizzard Entertainment plans to launch the semi-sequel, Overwatch 2, on Tuesday. Overwatch players will be without the game for a 27-hour period, when Blizzard will kick off the free-to-play era of Overwatch 2.\nThe end of Overwatch is bittersweet, as the original game, which itself has evolved dramatically over the years, effectively disappears. Once Overwatch 2 takes over, many heroes will play differently than they have for the past few years. Familiar, well-worn maps like Hanamura and Temple of Anubis will all but disappear, as the game mode that uses them is no longer part of sequel’s game rotation. Six-hero teams will give way to five-her…",
+          "link": "https://www.polygon.com/23385405/overwatch-down-blizzard-ow2-launch",
+          "publishedOn": "2022-10-03T21:26:22.000Z",
+          "wordCount": 2506,
+          "title": "Overwatch is down as Blizzard preps for Overwatch 2",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/vByIoKvtEAFxI6Z0qtZzUa4k-JI=/290x0:2582x1200/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7736661/OW840_Tracer.jpg"
+        },
+        {
           "id": "https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement",
           "author": null,
           "description": "Image: Wizards of the Coast/Hasbro\n    \n\n  \nA combination for the ages\n Look, Hasbro owns both Magic: The Gathering and the Transformers franchise. Why not put them together?\nHasbro announced the Transformers-themed cards on Friday, with IGN officially revealing six of the new cards. Hasbro showed the nine other cards on social media and as part of its Magic: The Gathering panel at PulseCon, which is basically a hype show for new Hasbro stuff. \nThis series is part of Magic: The Gathering’s Universes Beyond series, which has previously added Fortnite and Street Fighter to the card game. Both Optimus Prime and Starscream will get their own cards — double-sided, so there are both transformations shown — alongside 13 other cards. Each of the Transformers has two versions of their cards, regular and Shattered Glass, except for Arcee. \nHere’s the full list:\nOptimus Prime\nStarscream\nSoundwave\nSlicer\nGoldbug\nFlamewar\nUltra Magnus\nMegatron\nJetfire\nBlitzwing\nRachet\nCyclonus\nProwl\nBlaster\nArcee\nToday's #HasbroPulseCon Magic panel revealed the remaining nine Transformers cards in #MTGBRO! You can find them in Set & Collector boosters, but also each #MTGBRO Bundle will have one!\nFirst up: Ultra Magnus & Megatron pic.twitter.com/k8isZoWMmB\n— Magic: The Gathering (@wizards_magic) October 1, 2022\n\n\n\nThe cards are valid in Commander, Legacy, and Vintage formats, and they’ll be slipped into sets for Magic: The Gathering’s The Brothers’ Arms expansion. IGN asked if these cards would ever get a Standard format version, and Hasbro said no — not right now, but they have the technology.\nThe Brothers’ War expansion is expected to be released on Nov. 18.",
@@ -28848,6 +28938,46 @@
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms",
+          "author": null,
+          "description": "The CBI on Monday apprehended an expert Russian hacker who is supposedly the mastermind of the JEE (Mains) paper leak reported last year. Mikhail Shargin had a look-out circular against him and was detained at Delhi airport immigration upon arrival from Kazakhstan.  He was brought for questioning to the agency’s headquarters and was likely to be arrested later in the night, sources said.",
+          "link": "https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms",
+          "publishedOn": "2022-10-03T21:51:33.000Z",
+          "wordCount": 6112,
+          "title": "Russian hacker, ‘mastermind of JEE(M) leak’, held in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629524,width-1070,height-580,imgsize-23348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/indias-female-imr-drops-to-same-level-as-males/articleshow/94629223.cms",
+          "author": null,
+          "description": "India, which had the ignominious reputation of being the only country in the world where a larger proportion of girls below the age of one died than boys, finally saw its male and female infant mortality rate (IMR) equalise in 2020. In 16 states, IMR remained higher for female babies than males, but the gap had reduced since 2011.",
+          "link": "https://timesofindia.indiatimes.com/india/indias-female-imr-drops-to-same-level-as-males/articleshow/94629223.cms",
+          "publishedOn": "2022-10-03T21:11:31.000Z",
+          "wordCount": 6056,
+          "title": "India’s female IMR drops to same level as males’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629253,width-1070,height-580,imgsize-14092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/indian-air-force-gets-its-first-home-made-light-combat-helicopter/articleshow/94629008.cms",
+          "author": null,
+          "description": "India’s first indigenous light combat helicopter, capable of offensive operations in high-altitude areas like Siachen Glacier and eastern Ladakh, was inducted into the IAF on Monday. Defence minister Rajnath Singh flew a sortie in the helicopter, which is armed with 20mm turret guns, 70mm rocket systems and air-to-air missiles, after naming it ‘Prachanda’ at the Jodhpur airbase in the morning.",
+          "link": "https://timesofindia.indiatimes.com/india/indian-air-force-gets-its-first-home-made-light-combat-helicopter/articleshow/94629008.cms",
+          "publishedOn": "2022-10-03T20:56:34.000Z",
+          "wordCount": 6521,
+          "title": "Indian Air Force gets its first home-made light combat helicopter",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629008,width-1070,height-580,imgsize-46190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/prachand-reflects-resolve-to-make-india-self-reliant-pm-modi/articleshow/94629120.cms",
+          "author": null,
+          "description": "Prime Minister Narendra Modi on Monday said that the formal induction of the light combat helicopter (LCH), designed and developed by Hindustan Aeronautics Limited (HAL), into the Indian Air Force (IAF) in Jodhpur, reflected the collective resolve of all Indians to make the country self-reliant in the defence sector.",
+          "link": "https://timesofindia.indiatimes.com/india/prachand-reflects-resolve-to-make-india-self-reliant-pm-modi/articleshow/94629120.cms",
+          "publishedOn": "2022-10-03T20:55:08.000Z",
+          "wordCount": 5217,
+          "title": "Prachand reflects resolve to make India self-reliant: PM Modi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629118,width-1070,height-580,imgsize-46190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms",
           "author": null,
           "description": "Stating that the matter was discussed during the recent national meet on eight years of MOM, an Isro statement read: “...Despite being designed for a life-span of six months as a technology demonstrator, MOM has lived for about eight years in the Martian orbit with a gamut of significant scientific results on Mars as well as on the Solar corona, before losing communication with the ground station, as a result of a long eclipse in April 2022.”",
@@ -36122,6 +36252,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/iaf-to-induct-first-made-in-india-light-combat-helicopters-5-points/articleshow/94611191.cms",
+          "author": null,
+          "description": "The Indian Air Force (IAF) on Monday inducted its first batch of indigenously-developed Light Combat Helicopter (LCH) in a major boost to its combat prowess. The 5.8-tonne twin-engine LCH is equipped with Shakti engine developed by Hindustan Aeronautics Ltd (HAL) in collaboration with French engine-maker Safran. The LCH has been primarily designed for deployment in high-altitude regions.",
+          "link": "https://timesofindia.indiatimes.com/india/iaf-to-induct-first-made-in-india-light-combat-helicopters-5-points/articleshow/94611191.cms",
+          "publishedOn": "2022-10-03T10:52:15.000Z",
+          "wordCount": 7287,
+          "title": "IAF inducts first made-in-India light combat helicopters: 5 points",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94611285,width-1070,height-580,imgsize-41500,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/iaf-scrambles-jets-after-bomb-scare-onboard-iranian-plane-over-indian-airspace/articleshow/94613572.cms",
+          "author": null,
+          "description": "The Indian Air Force on Monday scrambled fighter jets to intercept an Iranian passenger flight headed for Guangzhou in China after a bomb threat, people familiar with the development said.According to sources, inputs were received by security agencies in Delhi about the possibility of a bomb on board a civilian Mahan Air flight, which triggered an alert.",
+          "link": "https://timesofindia.indiatimes.com/india/iaf-scrambles-jets-after-bomb-scare-onboard-iranian-plane-over-indian-airspace/articleshow/94613572.cms",
+          "publishedOn": "2022-10-03T08:49:54.000Z",
+          "wordCount": 5451,
+          "title": "IAF scrambles jets after 'bomb scare' onboard Iranian plane over Indian airspace",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kolhapur/bring-even-1-liquor-bottle-from-goa-will-slap-mcoca/articleshow/94615687.cms",
+          "author": null,
+          "description": "People bringing liquor from Goa into Maharashtra will henceforth face stringent action under various sections of the Maharashtra Control Of Organised Crime Act (MCOCA), which is usually invoked in cases of serious crime by groups of criminals on record.",
+          "link": "https://timesofindia.indiatimes.com/city/kolhapur/bring-even-1-liquor-bottle-from-goa-will-slap-mcoca/articleshow/94615687.cms",
+          "publishedOn": "2022-10-03T07:42:54.000Z",
+          "wordCount": 6333,
+          "title": "‘Bring even 1 liquor bottle from Goa, will slap MCOCA’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94615675,width-1070,height-580,imgsize-44488,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-4-full-and-final-list-of-contestants/articleshow/94595845.cms",
           "author": null,
           "description": "",
@@ -36410,6 +36570,16 @@
           "wordCount": 6929,
           "title": "Ankita Bhandari murder case: How Meerut couple escaped infamous Rishikesh resort",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94492527,width-1070,height-580,imgsize-49490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/spotlight/manipals-aua-announces-a-new-batch-for-its-us-based-medical-program-from-oct-10th-in-manipal/articleshow/94501542.cms",
+          "author": null,
+          "description": "Manipal’s American University of Antigua College of Medicine (AUA) offers a medical program where students start their medical education journey in India, continue pre-clinical sciences in its Antigua campus, and clinical rotations in affiliated teaching hospitals in the US and graduate with Doctor of Medicine degree on successfully passing licensing exams. Manipal’s AUA now announces the start of the new batch of this 6.5-year pre-med to MD program on the campus of Manipal Academy of Higher Education, Karnataka, India, from 10th October 2022.",
+          "link": "https://timesofindia.indiatimes.com/spotlight/manipals-aua-announces-a-new-batch-for-its-us-based-medical-program-from-oct-10th-in-manipal/articleshow/94501542.cms",
+          "publishedOn": "2022-09-28T12:44:13.000Z",
+          "wordCount": 4640,
+          "title": "Manipal’s AUA announces a new batch for its US-based medical program from Oct 10th in Manipal",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94501948,width-1070,height-580,imgsize-11588598,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-and-anil-kapoor-share-new-pictures-of-vayu-kapoor-ahuja-as-they-wish-nirmal-kapoor-on-her-88th-birthday/articleshow/94478837.cms",
