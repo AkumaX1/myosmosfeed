@@ -12541,6 +12541,16 @@
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-stars.gif"
         },
         {
+          "id": "https://techcrunch.com/?p=2416865",
+          "author": "Manish Singh",
+          "description": "Prosus has scrapped the $4.7 billion acquisition of BillDesk it announced last year, once stated to be the European technology giant’s largest, saying “certain conditions” were unfulfilled in a surprising move a month after the proposed acquisition received from the local antitrust watchdog the approval to proceed. “Certain conditions precedent were not fulfilled by the […]\nProsus cancels $4.7 billion acquisition of India’s BillDesk by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/payu-calls-off-4-7-billion-billdesk-acquisition-deal/",
+          "publishedOn": "2022-10-03T22:00:10.000Z",
+          "wordCount": 7498,
+          "title": "Prosus cancels $4.7 billion acquisition of India’s BillDesk",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/prosus-flag.jpeg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=2417468",
           "author": "Devin Coldewey",
           "description": "Section 230 of the Communications Act, which prevents online platforms from being liable for the content posted by their users, will be evaluated by the Supreme Court in the coming season. It’s anyone’s guess how it may be affected, but we can be sure that the regulatory landscape for tech will look rather different this […]\nThe Supreme Court takes on Section 230 by Devin Coldewey originally published on TechCrunch",
@@ -22528,6 +22538,86 @@
       "siteUrl": "https://www.ign.com/articles",
       "articles": [
         {
+          "id": "14a1f900-f603-46d0-9dea-722bebdbe5a6",
+          "author": "Adam Mathew",
+          "description": "Spin dash into some serious deals and a choice bit of in-game content for Sonic Frontiers.",
+          "link": "https://www.ign.com/articles/aussie-deals-free-sonic-frontiers-dlc-and-up-to-90-off-in-a-warner-bros-publisher-sale",
+          "publishedOn": "2022-10-04T00:53:37.000Z",
+          "wordCount": 9009,
+          "title": "Aussie Deals: Free Sonic Frontiers DLC and Up to 90% off in a Warner Bros. Publisher Sale!",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/04/thisaonnnnne-1664844678467.jpg?width=1280"
+        },
+        {
+          "id": "9097cd18-4325-4dda-901c-40a680e947c4",
+          "author": "Tom Marks",
+          "description": "Tinykin mixes Pikmin’s army of followers with the spirit of an N64-era 3D platformer.",
+          "link": "https://www.ign.com/articles/tinykin-review",
+          "publishedOn": "2022-10-03T23:24:37.000Z",
+          "wordCount": 12291,
+          "title": "Tinykin Review",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/03/tinykin-thumb-1664838630024.jpg?width=1280"
+        },
+        {
+          "id": "ef85e5f3-1519-4dae-a543-a06024e9e18f",
+          "author": "Kat Bailey",
+          "description": "Mortal Kombat Nitro was meant to be a faster, bloodier version of the censored SNES version, but it was canceled before it could happen. The developer who conceived the project explains Mortal Kombat Nitro was lost forever.",
+          "link": "https://www.ign.com/articles/mortal-kombat-nitro-retrospective",
+          "publishedOn": "2022-10-03T18:53:48.000Z",
+          "wordCount": 16600,
+          "title": "Mortal Kombat Nitro Developer Remembers the Faster, Bloodier SNES Version That Never Was",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/03/mortalkombatnitro-blogroll-1664823054589.jpg?width=1280"
+        },
+        {
+          "id": "deaa0d52-2a5a-432e-ab70-94afc00ce598",
+          "author": "Ryan Dinsdale",
+          "description": "An Elden Ring streamer has managed to defeat the game's toughest boss, Malenia, Blade of Miquella, using a dance mat... at level one.",
+          "link": "https://www.ign.com/articles/elden-ring-streamer-beats-malenia-using-a-dance-mat-at-level-1",
+          "publishedOn": "2022-10-03T16:27:44.000Z",
+          "wordCount": 12284,
+          "title": "Elden Ring Streamer Beats Malenia Using a Dance Mat at Level 1",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/04/27/maleniaer-1651056062753.jpg?width=1280"
+        },
+        {
+          "id": "3c68eb26-1569-4634-a1e6-861e65b00bb9",
+          "author": "Ryan Dinsdale",
+          "description": "Crystal Dynamics has released a survey asking fans if they'd like to see a return of the Legacy of Kain franchise, and asked what kind of project they'd like to see.",
+          "link": "https://www.ign.com/articles/crystal-dynamics-asking-fans-new-legacy-of-kain-game",
+          "publishedOn": "2022-10-03T15:40:28.000Z",
+          "wordCount": 10036,
+          "title": "Crystal Dynamics Is Asking Fans If They'd Like a New Legacy of Kain Game",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/03/legacyofkain-1664807471619.jpg?width=1280"
+        },
+        {
+          "id": "ee72f97f-eef6-4e97-915e-97eefcb32222",
+          "author": "Ryan Dinsdale",
+          "description": "Vampire Survivors is leaving Early Access, with a major update on October 20 that marks the game's official launch.",
+          "link": "https://www.ign.com/articles/vampire-survivors-gets-full-release-with-major-update-later-this-month",
+          "publishedOn": "2022-10-03T11:51:10.000Z",
+          "wordCount": 8998,
+          "title": "Vampire Survivors Gets Full Release With Major Update Later This Month",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/02/10/vampiresurvivors-blogroll-1644536392171.jpg?width=1280"
+        },
+        {
+          "id": "948458ac-83ef-4ddf-b2bf-3e33d7a5d4da",
+          "author": "Adam Bankhurst",
+          "description": "A remaster of 2017's Horizon Zero Dawn is reportedly in the works for PS5 alongside a brand-new multiplayer game for PS5 and PC.",
+          "link": "https://www.ign.com/articles/horizon-zero-dawn-ps5-remaster-reportedly-in-the-works-alongside-a-multiplayer-game",
+          "publishedOn": "2022-10-03T00:49:18.000Z",
+          "wordCount": 9445,
+          "title": "Horizon Zero Dawn PS5 Remaster Reportedly In the Works Alongside a Multiplayer Game",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/03/horizon-zdjpg-6dae42-1664757699437.jpg?width=1280"
+        },
+        {
+          "id": "fc6b0bfa-32e1-435a-b106-9ae1df99fc52",
+          "author": "Adam Bankhurst",
+          "description": "Developer ZA/UM has responded to the news that key members of the Disco Elysium team have departed the studio involuntarily.",
+          "link": "https://www.ign.com/articles/disco-elysium-developers-involuntarily-left-zaum-responds",
+          "publishedOn": "2022-10-02T06:27:23.000Z",
+          "wordCount": 13222,
+          "title": "Key Disco Elysium Developers Have 'Involuntarily' Left the Company [Update: ZA/UM Responds]",
+          "imageUrl": "https://assets-prd.ignimgs.com/2022/10/02/disco-elysium-final-cut-1612872686961-1664691564834.jpg?width=1280"
+        },
+        {
           "id": "fc6b0bfa-32e1-435a-b106-9ae1df99fc52",
           "author": "Adam Bankhurst",
           "description": "According to Martin Luiga, an editor on ZA/UM's Disco Elysium, key members of the company, including lead writer and designer Robert Kurvitz, writer Helen Hindpere, and lead of art and design Aleksander Rostov, have left the company in an \"involuntary\" manner.",
@@ -22566,6 +22656,16 @@
           "wordCount": 10457,
           "title": "Vampire Survivors Is Once Again the Most-Played Steam Deck Game in September 2022",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/10/01/steam-deck-1659557947156-1664593039070.jpeg?width=1280"
+        },
+        {
+          "id": "f87e3dd1-6227-4cc0-8c30-534c6be210ce",
+          "author": null,
+          "description": "IGN's picks for the 25 best Xbox One games to play right now.",
+          "link": "https://www.ign.com/articles/best-xbox-one-games-2",
+          "publishedOn": "2022-09-30T22:35:00.000Z",
+          "wordCount": 23605,
+          "title": "The Best Xbox One Games",
+          "imageUrl": "https://assets1.ignimgs.com/2020/09/24/top25xboxgamesblogroll-1600888492386-1600985582303_160w.jpg?width=1280"
         },
         {
           "id": "f8940a6c-e9f9-4b6b-bcbc-9f382e2740cc",
@@ -25199,6 +25299,396 @@
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
         {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/watch-madkids-cool-performance-in-fall-2022-tv-anime-beast-tamer-opening-theme-mv",
+          "author": "Mikikazu Komatsu",
+          "description": "EMT Squared-animated fantasy is simulcast on Crunchyroll\n\n\nThe official YouTube channel for five-member Japanese dance and vocal unit MADKID has started streaming a full music video for their seventh single song \"Change The World,\" which is now featured as the opening theme for the fall 2022 TV anime Beast Tamer. Watch their cool performance after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/watch-madkids-cool-performance-in-fall-2022-tv-anime-beast-tamer-opening-theme-mv",
+          "publishedOn": "2022-10-04T02:43:00.000Z",
+          "wordCount": 5937,
+          "title": "Watch MADKID's Cool Performance in Fall 2022 TV Anime Beast Tamer Opening Theme MV",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/498f3f90a27e94a69d7feca2b9db3a4e1664851097_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/golden-kamuy-season-4-goes-for-gold-with-opening-and-ending-theme-song-videos",
+          "author": "Liam Dempsey",
+          "description": "Crunchyroll is now simulcasting the latest season\n\n\nWith rock band THE SPELLBOUND making their anime debut for the ending theme and Anime Award-winning ALI on the opening, the fourth season of Golden Kamuy is already off to an incredibly hot start. Both sequences were officially uploaded to YouTube, so hit the jump to watch!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/golden-kamuy-season-4-goes-for-gold-with-opening-and-ending-theme-song-videos",
+          "publishedOn": "2022-10-04T02:40:00.000Z",
+          "wordCount": 6037,
+          "title": "Golden Kamuy Season 4 Goes for Gold with Opening and Ending Theme Song Videos",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/cbc57d768f4b8541db42e4990adfac061664850666_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/chainsaw-man-manga-slices-past-16-million-copies-released-in-japan",
+          "author": "Daryl Harding",
+          "description": "The TV anime adaptation premieres in a week!\n\n\nEven though the Chainsaw Man TV anime isn't set to premiere for another week, the manga series continues to do incredibly well, with editor Shihei Lin confirming today that the series has printed (physically) and sold (digitally) over 16 million copies. More after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/chainsaw-man-manga-slices-past-16-million-copies-released-in-japan",
+          "publishedOn": "2022-10-04T02:36:47.000Z",
+          "wordCount": 6007,
+          "title": "Chainsaw Man Manga Slices Past 16 Million Copies Released in Japan",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/b2adbd70844b34e10e1f21c9b3506ee51664850977_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/idol-anime-shinepost-warms-up-for-its-final-show-with-climax-visual",
+          "author": "Liam Dempsey",
+          "description": "Three episodes still remain due to previous delay\n\n\nThe Summer 2022 anime season is still shining bright even as we head into Fall 2022, as SHINEPOST headed into its tenth episode with the release of a climax visual depicting the journey so far. Hit the jump for the full picture!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/idol-anime-shinepost-warms-up-for-its-final-show-with-climax-visual",
+          "publishedOn": "2022-10-04T02:13:00.000Z",
+          "wordCount": 5949,
+          "title": "Idol Anime SHINEPOST Warms Up for Its Final Show with Climax Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/95d14c3e901e26a0406d89a9baee264a1664849512_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/japan-box-office-delicious-party-pretty-cure-film-surpasses-500-million-yen-in-10-days",
+          "author": "Mikikazu Komatsu",
+          "description": "\"Uta no Prince-sama\" 2nd concert film resurfaces in fifth place\n\n\nThe cumulative total domestic gross of Delicious Party Pretty Cure the Movie: Dreamy Children's Lunch!, the 31st feature film in Toei Animation's long-running magical girl anime franchise, has surpassed 500 million yen (3.45 million USD) on 460,000 admissions in ten days since its release. Hit the jump for more details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/japan-box-office-delicious-party-pretty-cure-film-surpasses-500-million-yen-in-10-days",
+          "publishedOn": "2022-10-04T02:12:25.000Z",
+          "wordCount": 6255,
+          "title": "Japan Box Office: Delicious Party Pretty Cure Film Surpasses 500 Million Yen in 10 Days",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/4c21e370f7d34d00f860b281aadde7611664849264_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/spy-x-family-manga-continues-dominating-with-265-million-copies-released-in-japan",
+          "author": "Daryl Harding",
+          "description": "That's 9.5 million copies since May!\n\n\nThis is a big week for the SPY x FAMILY franchise. Saturday saw the release of the first episode of the second part of the series, a special chapter was released and the tenth volume was released today in Japan. To celebrate the release, editor Shihei Lin revealed the updated numbers for how many copies of the collected volumes have been released in Japan.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/spy-x-family-manga-continues-dominating-with-265-million-copies-released-in-japan",
+          "publishedOn": "2022-10-04T01:29:22.000Z",
+          "wordCount": 6101,
+          "title": "SPY x FAMILY Manga Continues Dominating With 26.5 Million Copies Released in Japan",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/70fdb36199ee3ecd404ddfd52355294e1664846904_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/singer-yama-shows-off-hisher-first-dance-performance-in-spy-x-family-cour-2-ending-theme-mv",
+          "author": "Mikikazu Komatsu",
+          "description": "\"I am so happy to be involved in this wonderful series, SPY x FAMILY.\"\n\n\nyama, a Japanese singer who attracts attention especially on social networking services, has posted a music video for his/her latest song \"Shikisai\" (Colors), which is now featured as the ending theme for the second cour of the SPY x FAMILY TV anime. Watch the video of him/her performing his/her first dance after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/singer-yama-shows-off-hisher-first-dance-performance-in-spy-x-family-cour-2-ending-theme-mv",
+          "publishedOn": "2022-10-04T00:54:01.000Z",
+          "wordCount": 6047,
+          "title": "Singer yama Shows Off His/Her First Dance Performance in SPY x FAMILY Cour 2 Ending Theme MV",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/6d71ffdc1b979e71e09e9f1cea5595dc1664844503_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/listen-to-rezero-heroine-ram-rems-dramatic-character-song-two-colors",
+          "author": "Mikikazu Komatsu",
+          "description": "The new mobile game will start its service in Japan on October 13\n\n\nFollowing \"my proof\" by Emilia (CV: Rie Takahashi), a music video for \"Two Colors,\" another character song sung by Ram (Rie Murakawa) and Rem (Inori Minase) for the forthcoming mobile game Re:ZERO − Starting Life in Another World: INFINITY, is now streamed on YouTube. Listen to the twin's dramatic singing voice after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/listen-to-rezero-heroine-ram-rems-dramatic-character-song-two-colors",
+          "publishedOn": "2022-10-04T00:01:09.000Z",
+          "wordCount": 5969,
+          "title": "Listen to Re:ZERO Heroine Ram & Rem's Dramatic Character Song \"Two Colors\"",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/660f5988668a79469d6cc302f10f938a1664841352_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/gkids-announces-home-video-details-for-goodbye-don-glees-anime-film",
+          "author": "Humberto Saabedra",
+          "description": "BD/DVD Combo slated for 12/27, Digital 12/13\n\n\nGKIDS has announced home video release details for the anime film Goodbye, Don Glees! Read on for the details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/gkids-announces-home-video-details-for-goodbye-don-glees-anime-film",
+          "publishedOn": "2022-10-03T20:37:56.000Z",
+          "wordCount": 5861,
+          "title": "GKIDS Announces Home Video Details For Goodbye, Don Glees! Anime Film",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/7e3af9374c6bb2d5cb77fca12fcb984f1664829388_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/fuuto-pi-the-stage-declassifies-character-photos-9-new-cast-members",
+          "author": "Kara Dennison",
+          "description": "The Kamen Rider W sequel takes the stage starting in December\n\n\nFrom tokusatsu to manga to anime to stage... Shotaro and Philip are on the case! FUUTO PI the STAGE has just released nine new casting announcements, plus glamorous photos of the lead cast in costume. Have a look after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/fuuto-pi-the-stage-declassifies-character-photos-9-new-cast-members",
+          "publishedOn": "2022-10-03T20:16:58.000Z",
+          "wordCount": 6026,
+          "title": "FUUTO PI The STAGE Declassifies Character Photos, 9 New Cast Members",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/186cb8d262a86eb93dda84bd98bcbbeb1664821428_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-2/golden-kamuy-season-4-crunchyroll-fall-2022-spotlight",
+          "author": "Joseph Luster",
+          "description": "The battle for survival continues!\n\n\nThe anime adaptation of Satoru Noda's Golden Kamuy manga is finally ready to return with season 4, and you'll be able to get in on the action once again as part of Crunchyroll's Fall 2022 Lineup. Read on for the full spotlight!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-2/golden-kamuy-season-4-crunchyroll-fall-2022-spotlight",
+          "publishedOn": "2022-10-03T19:00:00.000Z",
+          "wordCount": 6128,
+          "title": "Golden Kamuy Season 4 - Crunchyroll Fall 2022 Spotlight",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/5f64515e39f0eae92ed2645f0623e0031663604527_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/labyrinth-of-galleria-the-moon-society-dated-for-consoles-and-pc",
+          "author": "Joseph Luster",
+          "description": "NISA locks PS4, PS5, Switch and Steam release for February\n\n\nWestern dates have been revealed for Labyrinth of Galleria: The Moon Society, which NIS America is bringing to PlayStation 4, PlayStation 5, Nintendo Switch and PC (Steam). Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/labyrinth-of-galleria-the-moon-society-dated-for-consoles-and-pc",
+          "publishedOn": "2022-10-03T18:58:10.000Z",
+          "wordCount": 6047,
+          "title": "Labyrinth of Galleria: The Moon Society Dated for Consoles and PC",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/5709a897e029e439ecb4ba570ecb8f8c1664823451_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/03/feature-much-like-spy-x-family-these-anime-series-understand-the-significance-of-found-family",
+          "author": "Nick Creamer",
+          "description": "Let's highlight some shows that explore the power of chosen families!\n\n\nOne of my favorite aspects of SPY x FAMILY is how well it articulates the power of families we choose for ourselves. Today, let's highlight some more great anime that celebrate the unique bonds of found families!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/03/feature-much-like-spy-x-family-these-anime-series-understand-the-significance-of-found-family",
+          "publishedOn": "2022-10-03T18:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: Much Like SPY x FAMILY These Anime Series Understand the Significance of Found Family",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/exclusive-oh-my-goddess-omnibus-7-launches-on-may-17-2023",
+          "author": "Joseph Luster",
+          "description": "Kosuke Fujishima's romcom returns courtesy of Dark Horse!\n\n\nKosuke Fujishima's classic romcom manga Oh My Goddess! is about to come back for more, as Dark Horse has exclusive revealed plans with Crunchyroll News for the next omnibus collection. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/exclusive-oh-my-goddess-omnibus-7-launches-on-may-17-2023",
+          "publishedOn": "2022-10-03T17:10:02.000Z",
+          "wordCount": 5970,
+          "title": "EXCLUSIVE: Oh My Goddess! Omnibus 7 Launches on May 17, 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/68c685102f68218fccb6600b2eb537551664816978_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/video-celebrate-narutos-20th-anime-anniversary-with-1-second-from-every-episode",
+          "author": "Kyle Cardine",
+          "description": "Take a ninja run down memory lane with Crunchyroll!\n\n\nOctober 3, 2022 marks the 20th anniversary of the Naruto anime, and Crunchyroll is celebrating with a very special video! Hit the jump and watch one second from every episode of Naruto!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/video-celebrate-narutos-20th-anime-anniversary-with-1-second-from-every-episode",
+          "publishedOn": "2022-10-03T17:00:59.000Z",
+          "wordCount": 5791,
+          "title": "VIDEO: Celebrate Naruto's 20th Anime Anniversary with 1 Second from Every Episode!",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/45b4c9b985c6d068c73211e0e52093551664816486_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/03/feature-crunchyroll-editorial-staff-shows-love-to-their-favorite-moments-from-naruto",
+          "author": "Nada Ali",
+          "description": "Check out the staff's favorite moments in celebration of Naruto's 20th anniversary!\n\n\nThe anime adaptation of Masashi Kishimoto's Naruto is celebrating its 20th anniversary today and it's not an overstatement to say that it's one of the most beloved Shonen anime of all time. Hit the jump to read Crunchyroll Editorial Staff's favorite moments of the popular series!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/03/feature-crunchyroll-editorial-staff-shows-love-to-their-favorite-moments-from-naruto",
+          "publishedOn": "2022-10-03T17:00:00.000Z",
+          "wordCount": null,
+          "title": "FEATURE: Crunchyroll Editorial Staff Shows Love to their Favorite Moments from Naruto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/mobile-suit-gundam-the-witch-from-mercury-debuts-full-length-music-video-of-opening-theme-shukufuku-by-yoasobi",
+          "author": "Kara Dennison",
+          "description": "New Gundam series kicks off today on Crunchyroll!\n\n\nIf you're in love with YOIASOBI's theme song for Mobile Suit Gundam: The Witch from Mercury, read on! The duo has launched a full-length animated music video for \"Shukufuku,\" featuring the life and times of Suletta Mercury as she approaches her destiny. Watch it after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/mobile-suit-gundam-the-witch-from-mercury-debuts-full-length-music-video-of-opening-theme-shukufuku-by-yoasobi",
+          "publishedOn": "2022-10-03T16:32:24.000Z",
+          "wordCount": 6006,
+          "title": "Mobile Suit Gundam: The Witch from Mercury Debuts Full-Length Music Video of Opening Theme \"Shukufuku\" by YOASOBI",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/399fcf87c119b98a6dac015ab88d5f3d1664808653_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/bleach-thousand-year-blood-war-anime-to-stream-on-hulu-disney",
+          "author": "Joseph Luster",
+          "description": "U.S. Hulu premiere locked in for October 10 at 8:30am PT\n\n\nVIZ Media revealed streaming plans for the Bleach: Thousand-Year Blood War anime, which continues the adaptation of Tite Kubo's manga in just one week. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/bleach-thousand-year-blood-war-anime-to-stream-on-hulu-disney",
+          "publishedOn": "2022-10-03T16:18:57.000Z",
+          "wordCount": 6116,
+          "title": "Bleach: Thousand-Year Blood War Anime to Stream on Hulu, Disney+",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/5365b9eb44e295dd74cd50ec237d0e701664813921_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/03-1/interview-narutos-20-year-journey-with-maile-flanagan",
+          "author": "Briana Lawrence",
+          "description": "We speak with the voice of Naruto about the 20 year legacy of Naruto Uzumaki!\n\n\nOur next installment of the My Favorite Naruto Arc series speaks with Maile Flanagan, the English voice of Naruto! We speak with Flanagan about how Naruto's journey has changed her life, the lessons she's learned and the amazing stories of fans around the world. Hit the jump to read the interview!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/03-1/interview-narutos-20-year-journey-with-maile-flanagan",
+          "publishedOn": "2022-10-03T16:00:00.000Z",
+          "wordCount": null,
+          "title": "INTERVIEW: Naruto's 20 Year Journey with Maile Flanagan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/03-1/quiz-the-ultimate-naruto-quiz-part-1-genin-rank",
+          "author": "A. Trejo Mosquera",
+          "description": "Believe it! \n\n\nDo you have what it takes to become a Genin? Earn your headband with the first part of our Ultimate Naruto Quiz!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/03-1/quiz-the-ultimate-naruto-quiz-part-1-genin-rank",
+          "publishedOn": "2022-10-03T15:00:00.000Z",
+          "wordCount": null,
+          "title": "QUIZ: The Ultimate Naruto Quiz Part 1! (Genin Rank)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/one-piece-film-red-anime-film-stays-at-1st-place-in-japan-box-office-for-9th-week",
+          "author": "Daryl Harding",
+          "description": "Film Red is over a billion yen away from the top ten of all time\n\n\nAs One Piece Film Red continues its voyage at the Japanese box office, it continues its streak at the top with its ninth week in a row at number one. The updated box office numbers for the anime film were also announced, confirming that the Toei Animation-produced film is close to entering the top ten films of all time in Japan. Sail past the jump for more!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/one-piece-film-red-anime-film-stays-at-1st-place-in-japan-box-office-for-9th-week",
+          "publishedOn": "2022-10-03T11:47:17.000Z",
+          "wordCount": 6173,
+          "title": "One Piece Film Red Anime Film Stays at 1st Place in Japan Box Office for 9th Week",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/7a5f55aa8274af87fe0bfad8d4302f5b1664797528_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03-1/reincarnated-as-a-sword-novel-series-celebrates-anime-adaptation-with-tv-cm",
+          "author": "Paul Chapman",
+          "description": "Isekai fantasy series will broadcast in Japan and stream on HIDIVE beginning on October 05, 2022\n\n\nThe release of the Reincarnated as a Sword TV anime is just around the corner, and to celebrate, a new 30 second TV spot featuring narration by the heroine Fran (CV: Ai Kakuma) has been published for the original isekai fantasy light novel series. Hit the jump to learn more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03-1/reincarnated-as-a-sword-novel-series-celebrates-anime-adaptation-with-tv-cm",
+          "publishedOn": "2022-10-03T11:05:11.000Z",
+          "wordCount": 6042,
+          "title": "Reincarnated as a Sword Novel Series Celebrates Anime Adaptation with TV CM",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/f3d49d840bfe8e3382bd65b09a7d6d5a1664794534_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/overlord-hands-the-keys-to-the-kingdom-to-the-eminence-in-shadow-in-anime-collab-visual",
+          "author": "Liam Dempsey",
+          "description": "The latter is set to begin airing on October 5\n\n\nFor publisher Kadokawa, the season of Overlord is over and the season of The Eminence of Shadow is officially about to begin, completing a handoff between the two by having Ainz and Cid talk over a visual. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/overlord-hands-the-keys-to-the-kingdom-to-the-eminence-in-shadow-in-anime-collab-visual",
+          "publishedOn": "2022-10-03T10:55:00.000Z",
+          "wordCount": 6075,
+          "title": "Overlord Hands the Keys to the Kingdom to The Eminence in Shadow in Anime Collab Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/f2921a07f90834927c3d36f1546bf3561664794244_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/03/a-silent-voice-director-naoko-yamada-returns-with-another-adorable-kit-kat-anime-commercial",
+          "author": "Daryl Harding",
+          "description": "The video is being screened across Japan\n\n\nAs a sweet treat for the first Monday of October, Kit Kat Japan has released a heartwarming new animated commercial helmed by A Silent Voice and K-ON! director Naoko Yamada alongside singer AI makes up their second Kit Kat anime ad as part of the company's \"inspiring others to take their first steps towards their dreams\" campaign. Take a break after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/03/a-silent-voice-director-naoko-yamada-returns-with-another-adorable-kit-kat-anime-commercial",
+          "publishedOn": "2022-10-03T07:31:45.000Z",
+          "wordCount": 5946,
+          "title": "A Silent Voice Director Naoko Yamada Returns With Another Adorable Kit Kat Anime Commercial",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/8b6ad08b70f89b5eedcc9d3a82a0469b1664782242_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/animejapan-2023-set-to-be-held-at-tokyo-big-sight-in-march-2023",
+          "author": "Mikikazu Komatsu",
+          "description": "One of the world's largest anime events will celebrate its 10th anniversary\n\n\nAnimeJapan 2023, one of the largest anime events in Japan and abroad, will be held at Tokyo Big Sight in March 2023. March 25 and 26 will be its Public Day, and March 27 and 28 will be its Business Day. The Business Day will be held online only. Hit the jump for more details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/animejapan-2023-set-to-be-held-at-tokyo-big-sight-in-march-2023",
+          "publishedOn": "2022-10-03T06:52:00.000Z",
+          "wordCount": 5945,
+          "title": "AnimeJapan 2023 to be Held at Tokyo Big Sight in March 2023",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/ce2795b79bba699e7658ed6d6dbe11441664779412_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/jump-festa-2023-details-manga-event-offerings",
+          "author": "Daryl Harding",
+          "description": "The event released this year's visual\n\n\nJump Festa returns this year for the 24th outing, bringing together all the Shueisha and Jump brands under one roof for a full weekend of manga fun. The event revealed its 2023 visual today alongside details on when it'll be in December as well as how to get tickets for the event. Catch it all after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/jump-festa-2023-details-manga-event-offerings",
+          "publishedOn": "2022-10-03T05:42:25.000Z",
+          "wordCount": 5977,
+          "title": "Jump Festa 2023 Details Manga Event Offerings",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/08bcc5ce4ee21b6ce1cb617f2897fc831664775734_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/waccha-primagi-ends-next-week-no-new-tv-anime-from-pretty-series-planned-for-now",
+          "author": "Mikikazu Komatsu",
+          "description": "The arcade game will continue its service\n\n\nAfter the broadcast of the latest 50th episode of the TV anime Waccha PriMagi! in Japan on Sunday, it was confirmed that the anime will end its TV broadcast with its next 51st episode on October 9. The Pretty Series TV anime series, which has been running for 11 and a half years since April 2011, will come to a temporary end. Hit the jump for more details.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/waccha-primagi-ends-next-week-no-new-tv-anime-from-pretty-series-planned-for-now",
+          "publishedOn": "2022-10-03T05:41:02.000Z",
+          "wordCount": 5967,
+          "title": "Waccha PriMagi! Ends Next Week, No New TV Anime from Pretty Series Planned for Now",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/31a7923cd41423653831714482a2fccd1664775386_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/energize-your-soul-with-coca-colas-official-bleach-variety",
+          "author": "Liam Dempsey",
+          "description": "If only it was strawberry flavored...\n\n\nCoca-Cola's popular culture collab brand \"Creations\" is partnering with the new Bleach anime just in time for its much-anticipated premiere to release a limited-edition flavor with Ichigo on the can. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/energize-your-soul-with-coca-colas-official-bleach-variety",
+          "publishedOn": "2022-10-03T05:14:00.000Z",
+          "wordCount": 5947,
+          "title": "Energize Your Soul with Coca-Cola's Official Bleach Variety",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire2/825a545c9b84cd3e5d607e929c22e6f51664773928_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/kancolle-itsuka-ano-umi-de-anime-onboards-theme-song-artist-with-new-trailer",
+          "author": "Liam Dempsey",
+          "description": "The long-awaited sequel sets sail on November 3\n\n\nThe open sea awaits in the long-awaited new KanColle anime series, which unveiled a new trailer and main theme song info ahead of a November 3 premiere date. Hit the jump for a full mission debrief!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/kancolle-itsuka-ano-umi-de-anime-onboards-theme-song-artist-with-new-trailer",
+          "publishedOn": "2022-10-03T03:46:00.000Z",
+          "wordCount": 5978,
+          "title": "KanColle: ITSUKA ANO UMI DE Anime Onboards Theme Song Artist with New Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/e6358c55a1965e19cac6d01ff96b3e231664768539_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/naruto-celebrates-20-years-with-three-new-anime-visuals",
+          "author": "Daryl Harding",
+          "description": "Creator Masashi Kishimoto also released a special illustration \n\n\nOctober 3 marks 20 years since the first Naruto TV anime episode premiered on Japanese TV, starting the long-running franchise that continues to this day. To celebrate the occasion, the anime team has released three new visuals that encompass Naruto's life, as well as an illustration from Kishimoto himself. Sneak past the jump to check them out!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/naruto-celebrates-20-years-with-three-new-anime-visuals",
+          "publishedOn": "2022-10-03T03:30:29.000Z",
+          "wordCount": 6058,
+          "title": "Naruto Celebrates 20 Years With Three New Anime Visuals [UPDATED]",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/f416f9df7cc20542132d27e07e707a061664767724_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/comedy-anime-me-roboco-outputs-designs-for-five-main-characters",
+          "author": "Liam Dempsey",
+          "description": "Akitaro Daichi helms short anime series at Studio Gallop\n\n\nCharacter design sheets are an essential blueprint for building an anime, and we've just been let in on the process for upcoming comedy anime Me & Roboco ahead of the series' December premiere. Hit the jump for the full picture!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/comedy-anime-me-roboco-outputs-designs-for-five-main-characters",
+          "publishedOn": "2022-10-03T03:17:00.000Z",
+          "wordCount": 5914,
+          "title": "Comedy Anime Me & Roboco Outputs Designs for Five Main Characters",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/c8faff1cf92ef2467394446cace899301664766784_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/lucifer-and-the-biscuit-hammer-tv-anime-prepares-for-its-2nd-part-in-new-trailer",
+          "author": "Daryl Harding",
+          "description": "Crunchyroll streams the series both dubbed and subbed\n\n\nThe first part of the Lucifer and the Biscuit Hammer TV anime finished airing the other day but with news that the series will be continuing on in the fall 2022 anime season. To get hyped for the next part, a new trailer was released this morning revealing the new opening and ending theme songs. Check it out after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/lucifer-and-the-biscuit-hammer-tv-anime-prepares-for-its-2nd-part-in-new-trailer",
+          "publishedOn": "2022-10-03T03:02:41.000Z",
+          "wordCount": 6038,
+          "title": "Lucifer and the Biscuit Hammer TV Anime Prepares for Its 2nd Part in New Trailer",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/3eb5152b02b46aeec4bd806c420600011664766120_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/black-clover-anime-celebrates-5th-anniversary-with-special-illustration",
+          "author": "Liam Dempsey",
+          "description": "New anime film information will be released within a week\n\n\nFive whole years have passed since Asta set out on his journey to become the Wizard King in Black Clover, and to celebrate, the official Twitter account released a special illustration by the series director. More info about the upcoming anime film is coming soon, so hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/black-clover-anime-celebrates-5th-anniversary-with-special-illustration",
+          "publishedOn": "2022-10-03T02:47:00.000Z",
+          "wordCount": 5990,
+          "title": "Black Clover Anime Celebrates 5th Anniversary with Special Illustration",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire3/ae97ccbc701d22b03243a12069c897cf1664765006_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/bibliophile-princess-anime-prepares-for-its-first-chapter-with-new-key-visual",
+          "author": "Liam Dempsey",
+          "description": "Romantic drama anime premieres on October 6\n\n\nStudio MADHOUSE's anime adaptation of Bibliophile Princess is just three days away from making its enchanting debut, and it's looking to charm more viewers into watching with the release of a rosy new key visual. Hit the jump for the full picture!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/bibliophile-princess-anime-prepares-for-its-first-chapter-with-new-key-visual",
+          "publishedOn": "2022-10-03T02:14:00.000Z",
+          "wordCount": 5967,
+          "title": "Bibliophile Princess Anime Prepares for Its First Chapter with New Key Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/a88b06b99b3dc7529d6d076a355596461664763172_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/the-ice-guy-and-his-cool-female-colleague-anime-sets-january-2023-broadcast-op-artist",
+          "author": "Liam Dempsey",
+          "description": "ZERO-G and Liber produce the romantic-comedy series\n\n\nWinter is coming… and it's bringing a perfectly themed workplace romcom series with The Ice Guy and His Cool Female Colleague, which announced its release window and opening theme song artist over the weekend. Hit the jump for all the details!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/the-ice-guy-and-his-cool-female-colleague-anime-sets-january-2023-broadcast-op-artist",
+          "publishedOn": "2022-10-03T01:54:00.000Z",
+          "wordCount": 6106,
+          "title": "The Ice Guy and His Cool Female Colleague Anime Sets January 2023 Broadcast, OP Artist",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/433f7b060a58789e1f76bfcd88d8583e1664761898_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/zool-to-perform-new-ending-theme-for-idolish7-third-beat-anime",
+          "author": "Kara Dennison",
+          "description": "The fictional idol group also has a live show in the works\n\n\nThere is no IDOLiSH7... only ZOOL! The fictional four-member group, part of the broader IDOLiSH7 media mix universe, will be performing the new ending theme for the ongoing Third BEAT! Plus, there are plans afoot for their first live show this coming winter. Find out more after the jump!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02-1/zool-to-perform-new-ending-theme-for-idolish7-third-beat-anime",
+          "publishedOn": "2022-10-02T19:55:43.000Z",
+          "wordCount": 5958,
+          "title": "ZOOL to Perform New Ending Theme for IDOLiSH7 Third BEAT! Anime",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire4/780ad3eeecae5374082b4996803f6cd31664739611_main.png"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/02/encouragement-of-climb-next-summit-anime-has-game-in-the-works",
+          "author": "Joseph Luster",
+          "description": "Console game has no date but is currently in production\n\n\nThe new anime based on Shiro's Encouragement of Climb manga is set to premiere on October 4, and there's also a game in the works. Read on for more.",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/02/encouragement-of-climb-next-summit-anime-has-game-in-the-works",
+          "publishedOn": "2022-10-02T16:27:50.000Z",
+          "wordCount": 6039,
+          "title": "Encouragement of Climb: Next Summit Anime Has Game in the Works",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/c7db5360f2e9c82343b2206d7e50a89b1664728006_main.jpg"
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/02-1/interview-sasukes-20-year-journey-with-yuri-lowenthal",
+          "author": "Kyle Cardine",
+          "description": "We speak with the English voice of Sasuke about the legacy of the legendary Uchiha!\n\n\nThe next installment features the English voice of Sasuke Uchiha himself, Yuri Lowenthal! We speak with him about what it's like going through Sasuke's journey, the special hip-hop album he helped make and much more after the jump!",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/02-1/interview-sasukes-20-year-journey-with-yuri-lowenthal",
+          "publishedOn": "2022-10-02T16:00:00.000Z",
+          "wordCount": null,
+          "title": "INTERVIEW: Sasuke's 20 Year Journey with Yuri Lowenthal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crunchyroll.com/anime-feature/2022/10/02/poll-which-of-these-5-anime-are-you-most-excited-for-this-fall-season",
+          "author": "Daniel Dockery",
+          "description": "It's a truly stacked season!\n\n\nThis fall season is packed to the brim with great anime. Which of these five shows are you most excited to see?",
+          "link": "https://www.crunchyroll.com/anime-feature/2022/10/02/poll-which-of-these-5-anime-are-you-most-excited-for-this-fall-season",
+          "publishedOn": "2022-10-02T16:00:00.000Z",
+          "wordCount": null,
+          "title": "POLL: Which of These 5 Anime Are You Most Excited For This Fall Season?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.crunchyroll.com/anime-news/2022/10/02-1/pop-team-epic-season-2s-amazing-non-credit-oped-showcased",
           "author": "Joseph Luster",
           "description": "Including Shouta Aoi's intense opening theme and two versions of the ending theme\n\n\nWhether you've had a chance to watch the first episode of Pop Team Epic season 2 yet or not, it's definitely worth taking a moment to watch clean versions of the OP and ED. Read on for more.",
@@ -27025,6 +27515,36 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/data/data-irans-performance-in-key-socioeconomic-indicators-and-immediate-causes-for-protests/article65967096.ece",
+          "author": "Rebecca Rose Varghese",
+          "description": "The lack of adequate political freedoms, the absence of gender equality, and recurrent economic crises have frequently triggered protests",
+          "link": "https://www.thehindu.com/data/data-irans-performance-in-key-socioeconomic-indicators-and-immediate-causes-for-protests/article65967096.ece",
+          "publishedOn": "2022-10-04T04:45:03.000Z",
+          "wordCount": 6683,
+          "title": "Data | Iran’s performance in key socioeconomic indicators and immediate causes of protests",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3zy0ve/article65967204.ece/alternates/LANDSCAPE_615/1429710463.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/ecuador-prison-clash-many-dead/article65969251.ece",
+          "author": "AP",
+          "description": "Officials attributed the fighting to national and international drug trafficking groups",
+          "link": "https://www.thehindu.com/news/international/ecuador-prison-clash-many-dead/article65969251.ece",
+          "publishedOn": "2022-10-04T04:31:32.000Z",
+          "wordCount": 6121,
+          "title": "Ecuador prison clash leaves at least 15 dead, 20 injured",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3dhuws/article65969281.ece/alternates/LANDSCAPE_615/2022-10-04T032709Z_1264376710_RC2WTW9PYNZ4_RTRMADP_3_ECUADOR-PRISON.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece",
+          "author": "Ananth Krishnan",
+          "description": "Understand international affairs from the Indian perspective with View from India",
+          "link": "https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece",
+          "publishedOn": "2022-10-04T04:09:58.000Z",
+          "wordCount": 6979,
+          "title": "The View from India | India’s stand on the Ukraine conflict",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/b3tctg/article65958703.ece/alternates/LANDSCAPE_615/1429181092.jpg"
+        },
         {
           "id": "https://www.thehindu.com/news/morning-digest-october-4-2022/article65967944.ece",
           "author": "The Hindu Bureau",
@@ -29332,6 +29852,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/prashant-kishor-working-on-behalf-of-bjp-jdu/articleshow/94632591.cms",
+          "author": null,
+          "description": "India News: PATNA: Bihar Chief Minister Nitish Kumar's JD(U) alleged that its former national vice president Prashant Kishor was working \"on behalf of the BJP\" an.",
+          "link": "https://timesofindia.indiatimes.com/india/prashant-kishor-working-on-behalf-of-bjp-jdu/articleshow/94632591.cms",
+          "publishedOn": "2022-10-04T04:00:10.000Z",
+          "wordCount": 5825,
+          "title": "Prashant Kishor working on behalf of BJP: JD(U)",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632843,width-1070,height-580,imgsize-53234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-to-launch-start-up-platform-for-women-entrepreneurs/articleshow/94632750.cms",
+          "author": null,
+          "description": "On the second day of her two-day visit to Gujarat, the President will also inaugurate or lay foundation stones of various projects related to education and tribal development at a function at Gujarat University. `Her Start' is an initiative of the varsity for women entrepreneurs.",
+          "link": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-to-launch-start-up-platform-for-women-entrepreneurs/articleshow/94632750.cms",
+          "publishedOn": "2022-10-04T03:35:03.000Z",
+          "wordCount": 5256,
+          "title": "President Droupadi Murmu to launch start-up platform for women entrepreneurs",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632745,width-1070,height-580,imgsize-44672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ec-launches-radio-series-to-fight-urban-voter-apathy/articleshow/94632552.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Keen to utilise the extensive reach of radio to connect with the ‘grassroots’ masses, the Election Commission on Monday launched a year-lon.",
+          "link": "https://timesofindia.indiatimes.com/india/ec-launches-radio-series-to-fight-urban-voter-apathy/articleshow/94632552.cms",
+          "publishedOn": "2022-10-04T03:22:01.000Z",
+          "wordCount": 5708,
+          "title": "EC launches radio series to fight urban voter apathy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/ott-platforms-portals-asked-not-to-carry-e-betting-ads/articleshow/94632354.cms",
           "author": null,
@@ -34870,6 +35420,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/china/china-since-the-founding-of-the-communist-party/articleshow/94633355.cms",
+          "author": null,
+          "description": "China News: BEIJING: Here are the key dates in China since the founding of the Communist Party (CCP) which has grown into one of the world's most powerful politic.",
+          "link": "https://timesofindia.indiatimes.com/world/china/china-since-the-founding-of-the-communist-party/articleshow/94633355.cms",
+          "publishedOn": "2022-10-04T04:19:05.000Z",
+          "wordCount": 10408,
+          "title": "China since the founding of the Communist Party",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94633415,width-1070,height-580,imgsize-45424,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/china/china-reports-1038-new-covid-cases-for-october-3-versus-810-a-day-earlier/articleshow/94632626.cms",
+          "author": null,
+          "description": "As of October 3, mainland China had confirmed 2,51,347 cases with symptoms. Capital city Beijing reported one new local symptomatic case, compared with two a day earlier, and one new local asymptomatic case, the same as the previous day.",
+          "link": "https://timesofindia.indiatimes.com/world/china/china-reports-1038-new-covid-cases-for-october-3-versus-810-a-day-earlier/articleshow/94632626.cms",
+          "publishedOn": "2022-10-04T03:27:43.000Z",
+          "wordCount": 5826,
+          "title": "China reports 1,038 new Covid cases for October 3 versus 810 a day earlier",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632618,width-1070,height-580,imgsize-55642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-forces-push-forward-on-2-fronts/articleshow/94632204.cms",
           "author": null,
           "description": "Europe News: IZIUM: The Ukrainian army was on the move Monday in two theatres, as Kyiv’s forces chased retreating Russian troops outside the reclaimed city of Lyma.",
@@ -37564,6 +38134,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/3rd-t20i-india-target-clean-sweep-against-south-africa/articleshow/94632529.cms",
+          "author": null,
+          "description": "Just a few hours after recording their maiden T20I series win at home against South Africa in Guwahati, India will look to achieve their first-ever clean sweep against the Proteas in the inconsequential third and final T20I at the Holkar Cricket Stadium on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/3rd-t20i-india-target-clean-sweep-against-south-africa/articleshow/94632529.cms",
+          "publishedOn": "2022-10-04T03:22:53.000Z",
+          "wordCount": 7139,
+          "title": "3rd T20I: India target clean sweep against South Africa",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632498,width-1070,height-580,imgsize-38260,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms",
+          "author": null,
+          "description": "Musk, the world's richest person, proposed UN-supervised elections in four occupied regions that Moscow last week moved to annex after what it called referendums. The votes were denounced by Kyiv and Western governments as illegal and coercive.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms",
+          "publishedOn": "2022-10-04T02:50:55.000Z",
+          "wordCount": 8305,
+          "title": "Musk, Zelenskyy in Twitter showdown over Ukraine",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631659,width-1070,height-580,imgsize-13494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://m.timesofindia.com/apptimestopten",
           "author": null,
           "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
@@ -37592,6 +38182,26 @@
           "wordCount": 5351,
           "title": "Missed flight costs WI player Hetmyer his place in T20 WC",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94631155,width-1070,height-580,imgsize-46994,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mysuru/in-support-of-religious-harmony-rahul-gandhi-pays-visit-to-temple-mosque-church/articleshow/94630826.cms",
+          "author": null,
+          "description": "enior Congress functionary Rahul Gandhi visited a temple, a mosque, and a church, all in Mysuru district, on the fourth day of the Karnataka leg of his Bharat Jodo Yatra and later declared in a tweet: “Religious harmony is the foundation of India’s peaceful and progressive future.”",
+          "link": "https://timesofindia.indiatimes.com/city/mysuru/in-support-of-religious-harmony-rahul-gandhi-pays-visit-to-temple-mosque-church/articleshow/94630826.cms",
+          "publishedOn": "2022-10-04T02:07:14.000Z",
+          "wordCount": 6389,
+          "title": "Rahul pays visit to temple, mosque & church",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94630863,width-1070,height-580,imgsize-440400,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/kanpur/uttar-pradesh-8-students-of-jhansi-government-polytechnic-get-life-for-minors-rape/articleshow/94630460.cms",
+          "author": null,
+          "description": "Eight students of the Jhansi Government Polytechnic were awarded life imprisonment here on Monday for raping a minor girl almost 24 months ago. Besides imprisonment, the special court for rape and POCSO Act also slapped a total fine of Rs 30,000 on other counts on each of the accused, half of which will be given to the rape survior.",
+          "link": "https://timesofindia.indiatimes.com/city/kanpur/uttar-pradesh-8-students-of-jhansi-government-polytechnic-get-life-for-minors-rape/articleshow/94630460.cms",
+          "publishedOn": "2022-10-04T01:21:12.000Z",
+          "wordCount": 6076,
+          "title": "8 Jhansi students get jail for raping a minor girl",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94630500,width-1070,height-580,imgsize-26732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
@@ -37624,6 +38234,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629956,width-1070,height-580,imgsize-25404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/cow-on-road-to-err-fatally-is-human-so-forgive-bovine/articleshow/94629825.cms",
+          "author": null,
+          "description": "The Gujarat high court wants the cattle menace off the roads but a Kheda man has taken the high road by blaming himself for his pillion rider's death after a running cow made their bike swerve.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/cow-on-road-to-err-fatally-is-human-so-forgive-bovine/articleshow/94629825.cms",
+          "publishedOn": "2022-10-03T23:32:43.000Z",
+          "wordCount": 5950,
+          "title": "Ahd man blames self, not cow, for fatal bike crash",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629857,width-1070,height-580,imgsize-710679,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/ahmedabad/man-files-police-complaint-against-himself/articleshow/94629663.cms",
           "author": null,
           "description": "AHMEDABAD: Stray cattle is one of the biggest killers on roads and only last month, the Gujarat high court had directed the authorities to take more s.",
@@ -37644,6 +38264,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629758,width-1070,height-580,imgsize-28874,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-anti-hindi-protests-set-to-intensify/articleshow/94629750.cms",
+          "author": null,
+          "description": "Anti-Hindi agitations are picking up pace again in Tamil Nadu with political parties escalating their opposition to what they call \"imposition of Hindi\" in any form, including the National Education Policy and All India Radio broadcasts.",
+          "link": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-anti-hindi-protests-set-to-intensify/articleshow/94629750.cms",
+          "publishedOn": "2022-10-03T23:14:10.000Z",
+          "wordCount": 5877,
+          "title": "TN parties decry centre’s ‘Hindi imposition’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629750,width-1070,height-580,imgsize-295166,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms",
           "author": null,
           "description": "India News: NEW DELHI: The average prices of 11 essential food items declined 2-11% in the last one month, the government said on Monday.",
@@ -37654,6 +38284,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629728,width-1070,height-580,imgsize-53740,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-35-year-old-dies-after-garba-shock-kills-dad/articleshow/94629692.cms",
+          "author": null,
+          "description": "A 35-year-old Virar jeweller who was rushed to hospital by his father and brother in an autorickshaw after feeling uneasy while playing garba in their housing society on Saturday night, collapsed on the hospital premises and died. His 65-year-old father who tried to revive him suffered a cardiac arrest and died on the same spot.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-35-year-old-dies-after-garba-shock-kills-dad/articleshow/94629692.cms",
+          "publishedOn": "2022-10-03T22:59:44.000Z",
+          "wordCount": 6540,
+          "title": "Maha: 35-yr-old dies after garba, shock kills dad",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629724,width-1070,height-580,imgsize-1075467,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms",
           "author": null,
           "description": "India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.",
@@ -37662,6 +38302,16 @@
           "wordCount": 5732,
           "title": "Govt set to add 3 ‘missions’ to tackle climate change impact",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629682,width-1070,height-580,imgsize-45348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/bengaluru/in-3-months-60-girls-aged-10-19-years-sought-abortion-counselling-from-karnataka-government/articleshow/94629683.cms",
+          "author": null,
+          "description": "From April to June this year, 60 girls sought abortion counselling from the state health department and about half of them are married. Eight of the girls are in the 10-14 age group, and the rest in the 15-19 category.",
+          "link": "https://timesofindia.indiatimes.com/city/bengaluru/in-3-months-60-girls-aged-10-19-years-sought-abortion-counselling-from-karnataka-government/articleshow/94629683.cms",
+          "publishedOn": "2022-10-03T22:54:00.000Z",
+          "wordCount": 6212,
+          "title": "K'taka: 60 girls aged 10-19 years sought abortion counselling",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629695,width-1070,height-580,imgsize-871560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/hyderabad/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
@@ -37772,6 +38422,16 @@
           "wordCount": 5442,
           "title": "Mars orbiter mission is over, rover now non-recoverable: Isro",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94628962,width-1070,height-580,imgsize-39068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/srinagar/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms",
+          "author": null,
+          "description": "A Grameen Bank branch manager from Dehradun survived a terrorist shooting in north Kashmir’s Baramulla district on Monday, triggering a scramble to catch the gunmen as the attack happened amid a multi-layer security net laid out for Union home minister Amit Shah three-day J&K visit that began in the evening.",
+          "link": "https://timesofindia.indiatimes.com/city/srinagar/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms",
+          "publishedOn": "2022-10-03T19:01:43.000Z",
+          "wordCount": 6424,
+          "title": "Bank manager attacked in J&K ahead of Shah’s visit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94628548,width-1070,height-580,imgsize-62204,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/police-detain-filmmaker-kamaleshwar-mukhopadhyay-amid-protest-kicks-up-a-social-media-storm/articleshow/94627649.cms",
@@ -38282,6 +38942,16 @@
           "wordCount": 7085,
           "title": "We need to pick ourselves: Rohit on death-overs bowling",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94609066,width-1070,height-580,imgsize-37360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94608880.cms",
+          "author": null,
+          "description": "Stock Market LIVE Updates: Indian shares rose 2% on Tuesday, led by gains in banks and metal companies, as an attempted bounce in global equities and upbeat quarterly updates from companies lifted sentiment ahead of the corporate earnings season. Stay with TOI for all latest updates.",
+          "link": "https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94608880.cms",
+          "publishedOn": "2022-10-03T02:34:00.000Z",
+          "wordCount": 13083,
+          "title": "LIVE: Sensex surges 1,100 pts amid positive global cues",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94608880,width-1070,height-580,imgsize-75438,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/bengaluru/ed-summons-karnataka-congress-chief-d-k-shivakumar-in-herald-case/articleshow/94608792.cms",

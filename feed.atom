@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T03:28:55.915Z</updated>
+    <updated>2022-10-04T04:50:43.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data | Iran’s performance in key socioeconomic indicators and immediate causes of protests]]></title>
+        <id>https://www.thehindu.com/data/data-irans-performance-in-key-socioeconomic-indicators-and-immediate-causes-for-protests/article65967096.ece</id>
+        <link href="https://www.thehindu.com/data/data-irans-performance-in-key-socioeconomic-indicators-and-immediate-causes-for-protests/article65967096.ece"/>
+        <updated>2022-10-04T04:45:03.000Z</updated>
+        <summary type="html"><![CDATA[The lack of adequate political freedoms, the absence of gender equality, and recurrent economic crises have frequently triggered protests]]></summary>
+        <author>
+            <name>Rebecca Rose Varghese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecuador prison clash leaves at least 15 dead, 20 injured]]></title>
+        <id>https://www.thehindu.com/news/international/ecuador-prison-clash-many-dead/article65969251.ece</id>
+        <link href="https://www.thehindu.com/news/international/ecuador-prison-clash-many-dead/article65969251.ece"/>
+        <updated>2022-10-04T04:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Officials attributed the fighting to national and international drug trafficking groups]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China since the founding of the Communist Party]]></title>
+        <id>https://timesofindia.indiatimes.com/world/china/china-since-the-founding-of-the-communist-party/articleshow/94633355.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/china/china-since-the-founding-of-the-communist-party/articleshow/94633355.cms"/>
+        <updated>2022-10-04T04:19:05.000Z</updated>
+        <summary type="html"><![CDATA[China News: BEIJING: Here are the key dates in China since the founding of the Communist Party (CCP) which has grown into one of the world's most powerful politic.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The View from India | India’s stand on the Ukraine conflict]]></title>
+        <id>https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece</id>
+        <link href="https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece"/>
+        <updated>2022-10-04T04:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Understand international affairs from the Indian perspective with View from India]]></summary>
+        <author>
+            <name>Ananth Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prashant Kishor working on behalf of BJP: JD(U)]]></title>
+        <id>https://timesofindia.indiatimes.com/india/prashant-kishor-working-on-behalf-of-bjp-jdu/articleshow/94632591.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/prashant-kishor-working-on-behalf-of-bjp-jdu/articleshow/94632591.cms"/>
+        <updated>2022-10-04T04:00:10.000Z</updated>
+        <summary type="html"><![CDATA[India News: PATNA: Bihar Chief Minister Nitish Kumar's JD(U) alleged that its former national vice president Prashant Kishor was working "on behalf of the BJP" an.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[President Droupadi Murmu to launch start-up platform for women entrepreneurs]]></title>
+        <id>https://timesofindia.indiatimes.com/india/president-droupadi-murmu-to-launch-start-up-platform-for-women-entrepreneurs/articleshow/94632750.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/president-droupadi-murmu-to-launch-start-up-platform-for-women-entrepreneurs/articleshow/94632750.cms"/>
+        <updated>2022-10-04T03:35:03.000Z</updated>
+        <summary type="html"><![CDATA[On the second day of her two-day visit to Gujarat, the President will also inaugurate or lay foundation stones of various projects related to education and tribal development at a function at Gujarat University. `Her Start' is an initiative of the varsity for women entrepreneurs.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China reports 1,038 new Covid cases for October 3 versus 810 a day earlier]]></title>
+        <id>https://timesofindia.indiatimes.com/world/china/china-reports-1038-new-covid-cases-for-october-3-versus-810-a-day-earlier/articleshow/94632626.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/china/china-reports-1038-new-covid-cases-for-october-3-versus-810-a-day-earlier/articleshow/94632626.cms"/>
+        <updated>2022-10-04T03:27:43.000Z</updated>
+        <summary type="html"><![CDATA[As of October 3, mainland China had confirmed 2,51,347 cases with symptoms. Capital city Beijing reported one new local symptomatic case, compared with two a day earlier, and one new local asymptomatic case, the same as the previous day.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3rd T20I: India target clean sweep against South Africa]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/3rd-t20i-india-target-clean-sweep-against-south-africa/articleshow/94632529.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/3rd-t20i-india-target-clean-sweep-against-south-africa/articleshow/94632529.cms"/>
+        <updated>2022-10-04T03:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Just a few hours after recording their maiden T20I series win at home against South Africa in Guwahati, India will look to achieve their first-ever clean sweep against the Proteas in the inconsequential third and final T20I at the Holkar Cricket Stadium on Tuesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC launches radio series to fight urban voter apathy]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ec-launches-radio-series-to-fight-urban-voter-apathy/articleshow/94632552.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ec-launches-radio-series-to-fight-urban-voter-apathy/articleshow/94632552.cms"/>
+        <updated>2022-10-04T03:22:01.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Keen to utilise the extensive reach of radio to connect with the ‘grassroots’ masses, the Election Commission on Monday launched a year-lon.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT platforms, portals asked not to carry e-betting ads]]></title>
         <id>https://timesofindia.indiatimes.com/india/ott-platforms-portals-asked-not-to-carry-e-betting-ads/articleshow/94632354.cms</id>
@@ -97,6 +187,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Musk, Zelenskyy in Twitter showdown over Ukraine]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms"/>
+        <updated>2022-10-04T02:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Musk, the world's richest person, proposed UN-supervised elections in four occupied regions that Moscow last week moved to annex after what it called referendums. The votes were denounced by Kyiv and Western governments as illegal and coercive.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top10: Who are majority govts proving their majority to?]]></title>
         <id>https://m.timesofindia.com/apptimestopten</id>
         <link href="https://m.timesofindia.com/apptimestopten"/>
@@ -127,6 +227,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch MADKID's Cool Performance in Fall 2022 TV Anime Beast Tamer Opening Theme MV]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/watch-madkids-cool-performance-in-fall-2022-tv-anime-beast-tamer-opening-theme-mv</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/watch-madkids-cool-performance-in-fall-2022-tv-anime-beast-tamer-opening-theme-mv"/>
+        <updated>2022-10-04T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[EMT Squared-animated fantasy is simulcast on Crunchyroll
+
+
+The official YouTube channel for five-member Japanese dance and vocal unit MADKID has started streaming a full music video for their seventh single song "Change The World," which is now featured as the opening theme for the fall 2022 TV anime Beast Tamer. Watch their cool performance after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Karnataka BJP plans big OBC rally to counter Congress yatra]]></title>
         <id>https://timesofindia.indiatimes.com/india/karnataka-bjp-plans-big-obc-rally-to-counter-congress-yatra/articleshow/94631349.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/karnataka-bjp-plans-big-obc-rally-to-counter-congress-yatra/articleshow/94631349.cms"/>
@@ -154,6 +267,32 @@
         <summary type="html"><![CDATA[The Japanese government warned citizens to take cover as the missile appeared to have flown over and past its territory before falling into the Pacific Ocean. It said it did not use any defence measures to destroy the missile, which was the first to fly over or past Japan from North Korea since 2017.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Kamuy Season 4 Goes for Gold with Opening and Ending Theme Song Videos]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/golden-kamuy-season-4-goes-for-gold-with-opening-and-ending-theme-song-videos</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/golden-kamuy-season-4-goes-for-gold-with-opening-and-ending-theme-song-videos"/>
+        <updated>2022-10-04T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Crunchyroll is now simulcasting the latest season
+
+
+With rock band THE SPELLBOUND making their anime debut for the ending theme and Anime Award-winning ALI on the opening, the fourth season of Golden Kamuy is already off to an incredibly hot start. Both sequences were officially uploaded to YouTube, so hit the jump to watch!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainsaw Man Manga Slices Past 16 Million Copies Released in Japan]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/chainsaw-man-manga-slices-past-16-million-copies-released-in-japan</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/chainsaw-man-manga-slices-past-16-million-copies-released-in-japan"/>
+        <updated>2022-10-04T02:36:47.000Z</updated>
+        <summary type="html"><![CDATA[The TV anime adaptation premieres in a week!
+
+
+Even though the Chainsaw Man TV anime isn't set to premiere for another week, the manga series continues to do incredibly well, with editor Shihei Lin confirming today that the series has printed (physically) and sold (digitally) over 16 million copies. More after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -217,6 +356,42 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Idol Anime SHINEPOST Warms Up for Its Final Show with Climax Visual]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/idol-anime-shinepost-warms-up-for-its-final-show-with-climax-visual</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/idol-anime-shinepost-warms-up-for-its-final-show-with-climax-visual"/>
+        <updated>2022-10-04T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Three episodes still remain due to previous delay
+
+
+The Summer 2022 anime season is still shining bright even as we head into Fall 2022, as SHINEPOST headed into its tenth episode with the release of a climax visual depicting the journey so far. Hit the jump for the full picture!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan Box Office: Delicious Party Pretty Cure Film Surpasses 500 Million Yen in 10 Days]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/japan-box-office-delicious-party-pretty-cure-film-surpasses-500-million-yen-in-10-days</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/japan-box-office-delicious-party-pretty-cure-film-surpasses-500-million-yen-in-10-days"/>
+        <updated>2022-10-04T02:12:25.000Z</updated>
+        <summary type="html"><![CDATA["Uta no Prince-sama" 2nd concert film resurfaces in fifth place
+
+
+The cumulative total domestic gross of Delicious Party Pretty Cure the Movie: Dreamy Children's Lunch!, the 31st feature film in Toei Animation's long-running magical girl anime franchise, has surpassed 500 million yen (3.45 million USD) on 460,000 admissions in ten days since its release. Hit the jump for more details!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rahul pays visit to temple, mosque & church]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mysuru/in-support-of-religious-harmony-rahul-gandhi-pays-visit-to-temple-mosque-church/articleshow/94630826.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mysuru/in-support-of-religious-harmony-rahul-gandhi-pays-visit-to-temple-mosque-church/articleshow/94630826.cms"/>
+        <updated>2022-10-04T02:07:14.000Z</updated>
+        <summary type="html"><![CDATA[enior Congress functionary Rahul Gandhi visited a temple, a mosque, and a church, all in Mysuru district, on the fourth day of the Karnataka leg of his Bharat Jodo Yatra and later declared in a tweet: “Religious harmony is the foundation of India’s peaceful and progressive future.”]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[N.L.R.B. Rules Activision Withheld Raises Because of Union Activity]]></title>
         <id>https://www.nytimes.com/2022/10/03/technology/activision-nlrb-ruling.html</id>
         <link href="https://www.nytimes.com/2022/10/03/technology/activision-nlrb-ruling.html"/>
@@ -224,6 +399,19 @@
         <summary type="html"><![CDATA[The embattled video game company is in union negotiations with workers at its subsidiary Raven Software.]]></summary>
         <author>
             <name>Cade Metz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPY x FAMILY Manga Continues Dominating With 26.5 Million Copies Released in Japan]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/spy-x-family-manga-continues-dominating-with-265-million-copies-released-in-japan</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/spy-x-family-manga-continues-dominating-with-265-million-copies-released-in-japan"/>
+        <updated>2022-10-04T01:29:22.000Z</updated>
+        <summary type="html"><![CDATA[That's 9.5 million copies since May!
+
+
+This is a big week for the SPY x FAMILY franchise. Saturday saw the release of the first episode of the second part of the series, a special chapter was released and the tenth volume was released today in Japan. To celebrate the release, editor Shihei Lin revealed the updated numbers for how many copies of the collected volumes have been released in Japan.]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +442,16 @@
         <summary type="html"><![CDATA[India News: NEW DELHI: In its new train timetable effective October 1, the railway ministry said that 500 mail express trains have been speeded up and 130 service.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Jhansi students get jail for raping a minor girl]]></title>
+        <id>https://timesofindia.indiatimes.com/city/kanpur/uttar-pradesh-8-students-of-jhansi-government-polytechnic-get-life-for-minors-rape/articleshow/94630460.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/kanpur/uttar-pradesh-8-students-of-jhansi-government-polytechnic-get-life-for-minors-rape/articleshow/94630460.cms"/>
+        <updated>2022-10-04T01:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Eight students of the Jhansi Government Polytechnic were awarded life imprisonment here on Monday for raping a minor girl almost 24 months ago. Besides imprisonment, the special court for rape and POCSO Act also slapped a total fine of Rs 30,000 on other counts on each of the accused, half of which will be given to the rape survior.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -331,6 +529,29 @@ Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Singer yama Shows Off His/Her First Dance Performance in SPY x FAMILY Cour 2 Ending Theme MV]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/singer-yama-shows-off-hisher-first-dance-performance-in-spy-x-family-cour-2-ending-theme-mv</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/singer-yama-shows-off-hisher-first-dance-performance-in-spy-x-family-cour-2-ending-theme-mv"/>
+        <updated>2022-10-04T00:54:01.000Z</updated>
+        <summary type="html"><![CDATA["I am so happy to be involved in this wonderful series, SPY x FAMILY."
+
+
+yama, a Japanese singer who attracts attention especially on social networking services, has posted a music video for his/her latest song "Shikisai" (Colors), which is now featured as the ending theme for the second cour of the SPY x FAMILY TV anime. Watch the video of him/her performing his/her first dance after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aussie Deals: Free Sonic Frontiers DLC and Up to 90% off in a Warner Bros. Publisher Sale!]]></title>
+        <id>14a1f900-f603-46d0-9dea-722bebdbe5a6</id>
+        <link href="https://www.ign.com/articles/aussie-deals-free-sonic-frontiers-dlc-and-up-to-90-off-in-a-warner-bros-publisher-sale"/>
+        <updated>2022-10-04T00:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Spin dash into some serious deals and a choice bit of in-game content for Sonic Frontiers.]]></summary>
+        <author>
+            <name>Adam Mathew</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UK pauses data reform bill to rethink how to replace GDPR]]></title>
         <id>https://techcrunch.com/?p=2417515</id>
         <link href="https://techcrunch.com/2022/10/03/uk-data-reform-bill-replace-gdpr/"/>
@@ -402,6 +623,19 @@ UK pauses data reform bill to rethink how to replace GDPR by Natasha Lomas origi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Listen to Re:ZERO Heroine Ram & Rem's Dramatic Character Song "Two Colors"]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/listen-to-rezero-heroine-ram-rems-dramatic-character-song-two-colors</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/listen-to-rezero-heroine-ram-rems-dramatic-character-song-two-colors"/>
+        <updated>2022-10-04T00:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The new mobile game will start its service in Japan on October 13
+
+
+Following "my proof" by Emilia (CV: Rie Takahashi), a music video for "Two Colors," another character song sung by Ram (Rie Murakawa) and Rem (Inori Minase) for the forthcoming mobile game Re:ZERO − Starting Life in Another World: INFINITY, is now streamed on YouTube. Listen to the twin's dramatic singing voice after the jump!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Korea fires missile over Japan, some residents warned to take cover]]></title>
         <id>https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece</id>
         <link href="https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece"/>
@@ -432,6 +666,16 @@ UK pauses data reform bill to rethink how to replace GDPR by Natasha Lomas origi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ahd man blames self, not cow, for fatal bike crash]]></title>
+        <id>https://timesofindia.indiatimes.com/city/ahmedabad/cow-on-road-to-err-fatally-is-human-so-forgive-bovine/articleshow/94629825.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/ahmedabad/cow-on-road-to-err-fatally-is-human-so-forgive-bovine/articleshow/94629825.cms"/>
+        <updated>2022-10-03T23:32:43.000Z</updated>
+        <summary type="html"><![CDATA[The Gujarat high court wants the cattle menace off the roads but a Kheda man has taken the high road by blaming himself for his pillion rider's death after a running cow made their bike swerve.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Naver agrees to acquire fashion marketplace Poshmark for $1.2B]]></title>
         <id>https://techcrunch.com/?p=2417730</id>
         <link href="https://techcrunch.com/2022/10/03/naver-agrees-to-acquire-fashion-marketplace-poshmark-for-1-2b/"/>
@@ -450,6 +694,16 @@ Naver agrees to acquire fashion marketplace Poshmark for $1.2B by Kyle Wiggers o
         <summary type="html"><![CDATA[AHMEDABAD: Stray cattle is one of the biggest killers on roads and only last month, the Gujarat high court had directed the authorities to take more s.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinykin Review]]></title>
+        <id>9097cd18-4325-4dda-901c-40a680e947c4</id>
+        <link href="https://www.ign.com/articles/tinykin-review"/>
+        <updated>2022-10-03T23:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Tinykin mixes Pikmin’s army of followers with the spirit of an N64-era 3D platformer.]]></summary>
+        <author>
+            <name>Tom Marks</name>
         </author>
     </entry>
     <entry>
@@ -478,6 +732,16 @@ Naver agrees to acquire fashion marketplace Poshmark for $1.2B by Kyle Wiggers o
         <link href="https://timesofindia.indiatimes.com/business/india-business/in-a-first-rbi-to-tell-government-why-inflation-target-is-breached/articleshow/94629589.cms"/>
         <updated>2022-10-03T23:19:30.000Z</updated>
         <summary type="html"><![CDATA[India Business News: NEW DELHI: The government and the Reserve Bank of India (RBI) are vowing to do “whatever it takes” to bring retail inflation within the 6% tolerance l.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TN parties decry centre’s ‘Hindi imposition’]]></title>
+        <id>https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-anti-hindi-protests-set-to-intensify/articleshow/94629750.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-anti-hindi-protests-set-to-intensify/articleshow/94629750.cms"/>
+        <updated>2022-10-03T23:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Anti-Hindi agitations are picking up pace again in Tamil Nadu with political parties escalating their opposition to what they call "imposition of Hindi" in any form, including the National Education Policy and All India Radio broadcasts.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -544,6 +808,16 @@ John Curtius is leaving Tiger Global to start his own venture fund by Ingrid Lun
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maha: 35-yr-old dies after garba, shock kills dad]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mumbai/maharashtra-35-year-old-dies-after-garba-shock-kills-dad/articleshow/94629692.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mumbai/maharashtra-35-year-old-dies-after-garba-shock-kills-dad/articleshow/94629692.cms"/>
+        <updated>2022-10-03T22:59:44.000Z</updated>
+        <summary type="html"><![CDATA[A 35-year-old Virar jeweller who was rushed to hospital by his father and brother in an autorickshaw after feeling uneasy while playing garba in their housing society on Saturday night, collapsed on the hospital premises and died. His 65-year-old father who tried to revive him suffered a cardiac arrest and died on the same spot.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Government set to add 3 ‘missions’ to tackle climate change impact]]></title>
         <id>https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms"/>
@@ -559,6 +833,16 @@ John Curtius is leaving Tiger Global to start his own venture fund by Ingrid Lun
         <link href="https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms"/>
         <updated>2022-10-03T22:55:20.000Z</updated>
         <summary type="html"><![CDATA[India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K'taka: 60 girls aged 10-19 years sought abortion counselling]]></title>
+        <id>https://timesofindia.indiatimes.com/city/bengaluru/in-3-months-60-girls-aged-10-19-years-sought-abortion-counselling-from-karnataka-government/articleshow/94629683.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/bengaluru/in-3-months-60-girls-aged-10-19-years-sought-abortion-counselling-from-karnataka-government/articleshow/94629683.cms"/>
+        <updated>2022-10-03T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[From April to June this year, 60 girls sought abortion counselling from the state health department and about half of them are married. Eight of the girls are in the 10-14 age group, and the rest in the 15-19 category.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -730,6 +1014,17 @@ Max Q: Hubble hubble, toil and trouble by Aria Alamalhodaei originally published
         <summary type="html"><![CDATA[A genetic region previously known to increase the risk of Alzheimer’s disease in African Americans, has been linked to an increased risk of stroke. Also, a new study published in the journal Nature suggests, the frequency of this genetic region called COBL is higher in persons suffering from the neurological disease in south Asians, including Indian patients.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosus cancels $4.7 billion acquisition of India’s BillDesk]]></title>
+        <id>https://techcrunch.com/?p=2416865</id>
+        <link href="https://techcrunch.com/2022/10/03/payu-calls-off-4-7-billion-billdesk-acquisition-deal/"/>
+        <updated>2022-10-03T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Prosus has scrapped the $4.7 billion acquisition of BillDesk it announced last year, once stated to be the European technology giant’s largest, saying “certain conditions” were unfulfilled in a surprising move a month after the proposed acquisition received from the local antitrust watchdog the approval to proceed. “Certain conditions precedent were not fulfilled by the […]
+Prosus cancels $4.7 billion acquisition of India’s BillDesk by Manish Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Manish Singh</name>
         </author>
     </entry>
     <entry>
@@ -1060,6 +1355,19 @@ Disney has issued price hikes across all three of its streaming services this ye
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GKIDS Announces Home Video Details For Goodbye, Don Glees! Anime Film]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/gkids-announces-home-video-details-for-goodbye-don-glees-anime-film</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/gkids-announces-home-video-details-for-goodbye-don-glees-anime-film"/>
+        <updated>2022-10-03T20:37:56.000Z</updated>
+        <summary type="html"><![CDATA[BD/DVD Combo slated for 12/27, Digital 12/13
+
+
+GKIDS has announced home video release details for the anime film Goodbye, Don Glees! Read on for the details.]]></summary>
+        <author>
+            <name>Humberto Saabedra</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oath Keepers’ Jan. 6 Recon Guy Says He Was Just Looking for Port-a-Potties]]></title>
         <id>pkgq5y</id>
         <link href="https://www.vice.com/en_us/article/pkgq5y/oath-keepers-trial-thomas-caldwell"/>
@@ -1162,6 +1470,19 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[President Jair Bolsonaro had once looked doomed in the country’s high-stakes election. But now, in a runoff, the right-wing incumbent has a path to re-election.]]></summary>
         <author>
             <name>Jack Nicas, Flávia Milhorance and André Spigariol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUUTO PI The STAGE Declassifies Character Photos, 9 New Cast Members]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/fuuto-pi-the-stage-declassifies-character-photos-9-new-cast-members</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/fuuto-pi-the-stage-declassifies-character-photos-9-new-cast-members"/>
+        <updated>2022-10-03T20:16:58.000Z</updated>
+        <summary type="html"><![CDATA[The Kamen Rider W sequel takes the stage starting in December
+
+
+From tokusatsu to manga to anime to stage... Shotaro and Philip are on the case! FUUTO PI the STAGE has just released nine new casting announcements, plus glamorous photos of the lead cast in costume. Have a look after the jump!]]></summary>
+        <author>
+            <name>Kara Dennison</name>
         </author>
     </entry>
     <entry>
@@ -1445,6 +1766,16 @@ The Loewe brand presented clothes in the style of Minecraft - at Paris Fashion W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bank manager attacked in J&K ahead of Shah’s visit]]></title>
+        <id>https://timesofindia.indiatimes.com/city/srinagar/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/srinagar/bank-manager-from-dehradun-attacked-in-jammu-kashmir-ahead-of-amit-shahs-visit/articleshow/94628541.cms"/>
+        <updated>2022-10-03T19:01:43.000Z</updated>
+        <summary type="html"><![CDATA[A Grameen Bank branch manager from Dehradun survived a terrorist shooting in north Kashmir’s Baramulla district on Monday, triggering a scramble to catch the gunmen as the attack happened amid a multi-layer security net laid out for Union home minister Amit Shah three-day J&K visit that began in the evening.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Let’s not defend Kim Kardashian for shilling crypto]]></title>
         <id>https://techcrunch.com/?p=2417245</id>
         <link href="https://techcrunch.com/2022/10/03/lets-not-defend-kim-kardashian-for-shilling-crypto/"/>
@@ -1466,6 +1797,32 @@ Let’s not defend Kim Kardashian for shilling crypto by Anita Ramaswamy origina
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Golden Kamuy Season 4 - Crunchyroll Fall 2022 Spotlight]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-2/golden-kamuy-season-4-crunchyroll-fall-2022-spotlight</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-2/golden-kamuy-season-4-crunchyroll-fall-2022-spotlight"/>
+        <updated>2022-10-03T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The battle for survival continues!
+
+
+The anime adaptation of Satoru Noda's Golden Kamuy manga is finally ready to return with season 4, and you'll be able to get in on the action once again as part of Crunchyroll's Fall 2022 Lineup. Read on for the full spotlight!]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labyrinth of Galleria: The Moon Society Dated for Consoles and PC]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/labyrinth-of-galleria-the-moon-society-dated-for-consoles-and-pc</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/labyrinth-of-galleria-the-moon-society-dated-for-consoles-and-pc"/>
+        <updated>2022-10-03T18:58:10.000Z</updated>
+        <summary type="html"><![CDATA[NISA locks PS4, PS5, Switch and Steam release for February
+
+
+Western dates have been revealed for Labyrinth of Galleria: The Moon Society, which NIS America is bringing to PlayStation 4, PlayStation 5, Nintendo Switch and PC (Steam). Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms]]></title>
         <id>https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html</id>
         <link href="https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html"/>
@@ -1473,6 +1830,16 @@ Let’s not defend Kim Kardashian for shilling crypto by Anita Ramaswamy origina
         <summary type="html"><![CDATA[The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.]]></summary>
         <author>
             <name>Paul Mozur, Ana Swanson and Edward Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortal Kombat Nitro Developer Remembers the Faster, Bloodier SNES Version That Never Was]]></title>
+        <id>ef85e5f3-1519-4dae-a543-a06024e9e18f</id>
+        <link href="https://www.ign.com/articles/mortal-kombat-nitro-retrospective"/>
+        <updated>2022-10-03T18:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Mortal Kombat Nitro was meant to be a faster, bloodier version of the censored SNES version, but it was canceled before it could happen. The developer who conceived the project explains Mortal Kombat Nitro was lost forever.]]></summary>
+        <author>
+            <name>Kat Bailey</name>
         </author>
     </entry>
     <entry>
@@ -1706,6 +2073,19 @@ In an interview with Entertainment Weekly, director Ryan Coogler explains the MC
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FEATURE: Much Like SPY x FAMILY These Anime Series Understand the Significance of Found Family]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/03/feature-much-like-spy-x-family-these-anime-series-understand-the-significance-of-found-family</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/03/feature-much-like-spy-x-family-these-anime-series-understand-the-significance-of-found-family"/>
+        <updated>2022-10-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's highlight some shows that explore the power of chosen families!
+
+
+One of my favorite aspects of SPY x FAMILY is how well it articulates the power of families we choose for ourselves. Today, let's highlight some more great anime that celebrate the unique bonds of found families!]]></summary>
+        <author>
+            <name>Nick Creamer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blackpink’s Management Asks Police to Investigate After Photo Leak]]></title>
         <id>https://www.rollingstone.com/?p=1234604206</id>
         <link href="https://www.rollingstone.com/music/music-news/blackpink-yg-entertainment-police-investigation-leaked-photos-1234604206/"/>
@@ -1927,6 +2307,19 @@ Both aircraft will carry a powerful …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EXCLUSIVE: Oh My Goddess! Omnibus 7 Launches on May 17, 2023]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/exclusive-oh-my-goddess-omnibus-7-launches-on-may-17-2023</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/exclusive-oh-my-goddess-omnibus-7-launches-on-may-17-2023"/>
+        <updated>2022-10-03T17:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Kosuke Fujishima's romcom returns courtesy of Dark Horse!
+
+
+Kosuke Fujishima's classic romcom manga Oh My Goddess! is about to come back for more, as Dark Horse has exclusive revealed plans with Crunchyroll News for the next omnibus collection. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to turn off case sound effects on Apple’s second-gen AirPods Pro]]></title>
         <id>https://www.theverge.com/23385079/apple-airpods-pro-2-disable-case-sounds-how-to</id>
         <link href="https://www.theverge.com/23385079/apple-airpods-pro-2-disable-case-sounds-how-to"/>
@@ -1969,6 +2362,32 @@ If you find yourself wanting to enable the sounds later on, just return to the s
 Why aren’t we seeing more aggressive SaaS M&A? by Ron Miller originally published on TechCrunch]]></summary>
         <author>
             <name>Ron Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIDEO: Celebrate Naruto's 20th Anime Anniversary with 1 Second from Every Episode!]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/video-celebrate-narutos-20th-anime-anniversary-with-1-second-from-every-episode</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/video-celebrate-narutos-20th-anime-anniversary-with-1-second-from-every-episode"/>
+        <updated>2022-10-03T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Take a ninja run down memory lane with Crunchyroll!
+
+
+October 3, 2022 marks the 20th anniversary of the Naruto anime, and Crunchyroll is celebrating with a very special video! Hit the jump and watch one second from every episode of Naruto!]]></summary>
+        <author>
+            <name>Kyle Cardine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FEATURE: Crunchyroll Editorial Staff Shows Love to their Favorite Moments from Naruto]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/03/feature-crunchyroll-editorial-staff-shows-love-to-their-favorite-moments-from-naruto</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/03/feature-crunchyroll-editorial-staff-shows-love-to-their-favorite-moments-from-naruto"/>
+        <updated>2022-10-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the staff's favorite moments in celebration of Naruto's 20th anniversary!
+
+
+The anime adaptation of Masashi Kishimoto's Naruto is celebrating its 20th anniversary today and it's not an overstatement to say that it's one of the most beloved Shonen anime of all time. Hit the jump to read Crunchyroll Editorial Staff's favorite moments of the popular series!]]></summary>
+        <author>
+            <name>Nada Ali</name>
         </author>
     </entry>
     <entry>
@@ -2186,6 +2605,19 @@ CPFM is a high-end fashion brand known for its eccentric and playful graphic ima
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mobile Suit Gundam: The Witch from Mercury Debuts Full-Length Music Video of Opening Theme "Shukufuku" by YOASOBI]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/mobile-suit-gundam-the-witch-from-mercury-debuts-full-length-music-video-of-opening-theme-shukufuku-by-yoasobi</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/mobile-suit-gundam-the-witch-from-mercury-debuts-full-length-music-video-of-opening-theme-shukufuku-by-yoasobi"/>
+        <updated>2022-10-03T16:32:24.000Z</updated>
+        <summary type="html"><![CDATA[New Gundam series kicks off today on Crunchyroll!
+
+
+If you're in love with YOIASOBI's theme song for Mobile Suit Gundam: The Witch from Mercury, read on! The duo has launched a full-length animated music video for "Shukufuku," featuring the life and times of Suletta Mercury as she approaches her destiny. Watch it after the jump!]]></summary>
+        <author>
+            <name>Kara Dennison</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russian hacker apprehended by CBI for JEE 2021 paper leak]]></title>
         <id>https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/russian-hacker-apprehended-by-cbi-for-jee-2021-paper-leak/articleshow/94626792.cms"/>
@@ -2220,6 +2652,16 @@ Over the weekend, Ubisoft customer support’s official Twitter account said “
 Ubisoft has 38 games, the most of any publisher, available on Google Stadia. When Stadia’s servers go offline Jan. 18, 2023, players los…]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring Streamer Beats Malenia Using a Dance Mat at Level 1]]></title>
+        <id>deaa0d52-2a5a-432e-ab70-94afc00ce598</id>
+        <link href="https://www.ign.com/articles/elden-ring-streamer-beats-malenia-using-a-dance-mat-at-level-1"/>
+        <updated>2022-10-03T16:27:44.000Z</updated>
+        <summary type="html"><![CDATA[An Elden Ring streamer has managed to defeat the game's toughest boss, Malenia, Blade of Miquella, using a dance mat... at level one.]]></summary>
+        <author>
+            <name>Ryan Dinsdale</name>
         </author>
     </entry>
     <entry>
@@ -2297,6 +2739,19 @@ Let’s get the obvious one on the table first. In Marvel Comics lore, Shuri has
         <summary type="html"><![CDATA[A week after hitting an all-time low against the US unit, sterling was up 1.1 percent at $1.1301 around 1530 GMT, for a fifth straight day]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bleach: Thousand-Year Blood War Anime to Stream on Hulu, Disney+]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/bleach-thousand-year-blood-war-anime-to-stream-on-hulu-disney</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/bleach-thousand-year-blood-war-anime-to-stream-on-hulu-disney"/>
+        <updated>2022-10-03T16:18:57.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Hulu premiere locked in for October 10 at 8:30am PT
+
+
+VIZ Media revealed streaming plans for the Bleach: Thousand-Year Blood War anime, which continues the adaptation of Tite Kubo's manga in just one week. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
         </author>
     </entry>
     <entry>
@@ -2425,6 +2880,19 @@ AT&T talks driving innovation through collaboration at Disrupt by Lauren Simonds
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[INTERVIEW: Naruto's 20 Year Journey with Maile Flanagan]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/03-1/interview-narutos-20-year-journey-with-maile-flanagan</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/03-1/interview-narutos-20-year-journey-with-maile-flanagan"/>
+        <updated>2022-10-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We speak with the voice of Naruto about the 20 year legacy of Naruto Uzumaki!
+
+
+Our next installment of the My Favorite Naruto Arc series speaks with Maile Flanagan, the English voice of Naruto! We speak with Flanagan about how Naruto's journey has changed her life, the lessons she's learned and the amazing stories of fans around the world. Hit the jump to read the interview!]]></summary>
+        <author>
+            <name>Briana Lawrence</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ringo Starr Puts Tour on Hold Due to Covid Diagnosis]]></title>
         <id>https://www.rollingstone.com/?p=1234603903</id>
         <link href="https://www.rollingstone.com/music/music-news/ringo-starr-postpones-two-shows-sick-1234603903/"/>
@@ -2537,6 +3005,16 @@ Fran Townsend will still act as senior counsel to CEO Bobby Kotick
 Townsend, who is a former homeland security advisor under President George W. Bush, is not moving far away from Activision Blizzard; she’ll now act as “senior counsel” to Kotick and Activision Blizzard’s board of directors, according to an email from Kotick obtained by Kotaku. Two other executives, Jen Brewer and Luci Altman, will also move into new roles — chief ethics and compliance officer and corporate …]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crystal Dynamics Is Asking Fans If They'd Like a New Legacy of Kain Game]]></title>
+        <id>3c68eb26-1569-4634-a1e6-861e65b00bb9</id>
+        <link href="https://www.ign.com/articles/crystal-dynamics-asking-fans-new-legacy-of-kain-game"/>
+        <updated>2022-10-03T15:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Crystal Dynamics has released a survey asking fans if they'd like to see a return of the Legacy of Kain franchise, and asked what kind of project they'd like to see.]]></summary>
+        <author>
+            <name>Ryan Dinsdale</name>
         </author>
     </entry>
     <entry>
@@ -2690,6 +3168,19 @@ Mad Realities’ Devin Lewtan talks onboarding new crypto users through content 
         <summary type="html"><![CDATA[Companies aim to create original works that combine CG/hand-drawn animation]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUIZ: The Ultimate Naruto Quiz Part 1! (Genin Rank)]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/03-1/quiz-the-ultimate-naruto-quiz-part-1-genin-rank</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/03-1/quiz-the-ultimate-naruto-quiz-part-1-genin-rank"/>
+        <updated>2022-10-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Believe it! 
+
+
+Do you have what it takes to become a Genin? Earn your headband with the first part of our Ultimate Naruto Quiz!]]></summary>
+        <author>
+            <name>A. Trejo Mosquera</name>
         </author>
     </entry>
     <entry>
@@ -3623,6 +4114,16 @@ Wendell & Wild, the long awaited stop motion horror comedy film from The Nightma
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vampire Survivors Gets Full Release With Major Update Later This Month]]></title>
+        <id>ee72f97f-eef6-4e97-915e-97eefcb32222</id>
+        <link href="https://www.ign.com/articles/vampire-survivors-gets-full-release-with-major-update-later-this-month"/>
+        <updated>2022-10-03T11:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Vampire Survivors is leaving Early Access, with a major update on October 20 that marks the game's official launch.]]></summary>
+        <author>
+            <name>Ryan Dinsdale</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘I Found My Brother, His Face Had Turned Blue’: Inside Indonesia’s Deadly Stadium Crush]]></title>
         <id>epz59p</id>
         <link href="https://www.vice.com/en_us/article/epz59p/indonesia-deadly-soccer-stadium-crush"/>
@@ -3630,6 +4131,19 @@ Wendell & Wild, the long awaited stop motion horror comedy film from The Nightma
         <summary type="html"><![CDATA[At least 125 people have died, 32 of them children, with the youngest victim said to be only five years old.]]></summary>
         <author>
             <name>Koh Ewe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Piece Film Red Anime Film Stays at 1st Place in Japan Box Office for 9th Week]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/one-piece-film-red-anime-film-stays-at-1st-place-in-japan-box-office-for-9th-week</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/one-piece-film-red-anime-film-stays-at-1st-place-in-japan-box-office-for-9th-week"/>
+        <updated>2022-10-03T11:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Film Red is over a billion yen away from the top ten of all time
+
+
+As One Piece Film Red continues its voyage at the Japanese box office, it continues its streak at the top with its ninth week in a row at number one. The updated box office numbers for the anime film were also announced, confirming that the Toei Animation-produced film is close to entering the top ten films of all time in Japan. Sail past the jump for more!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -3726,6 +4240,19 @@ With $17M in funding, Immerok launches cloud service for real-time streaming dat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reincarnated as a Sword Novel Series Celebrates Anime Adaptation with TV CM]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/reincarnated-as-a-sword-novel-series-celebrates-anime-adaptation-with-tv-cm</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/reincarnated-as-a-sword-novel-series-celebrates-anime-adaptation-with-tv-cm"/>
+        <updated>2022-10-03T11:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Isekai fantasy series will broadcast in Japan and stream on HIDIVE beginning on October 05, 2022
+
+
+The release of the Reincarnated as a Sword TV anime is just around the corner, and to celebrate, a new 30 second TV spot featuring narration by the heroine Fran (CV: Ai Kakuma) has been published for the original isekai fantasy light novel series. Hit the jump to learn more.]]></summary>
+        <author>
+            <name>Paul Chapman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Iran&#039;s supreme leader Ayatollah Ali Khamenei breaks silence on protests, blames U.S.]]></title>
         <id>https://www.thehindu.com/news/international/irans-supreme-leader-ayatollah-ali-khamenei-breaks-silence-on-protests-blames-us/article65966312.ece</id>
         <link href="https://www.thehindu.com/news/international/irans-supreme-leader-ayatollah-ali-khamenei-breaks-silence-on-protests-blames-us/article65966312.ece"/>
@@ -3791,6 +4318,19 @@ Tap your creativity (and closet) for the best Halloween costume.
         <summary type="html"><![CDATA[The Times of India Sports Awards (TOISA) 2021 awards ceremony will be held on October 14. Ahead of the ceremony the jury meet was held in the capital. Meet one of the big contenders for the TOISA 2021 Male Weightlifter of the Year award - Achinta Sheuli, who recently won a gold medal at the Commonwealth Games in Birmingham.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overlord Hands the Keys to the Kingdom to The Eminence in Shadow in Anime Collab Visual]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/overlord-hands-the-keys-to-the-kingdom-to-the-eminence-in-shadow-in-anime-collab-visual</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/overlord-hands-the-keys-to-the-kingdom-to-the-eminence-in-shadow-in-anime-collab-visual"/>
+        <updated>2022-10-03T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The latter is set to begin airing on October 5
+
+
+For publisher Kadokawa, the season of Overlord is over and the season of The Eminence of Shadow is officially about to begin, completing a handoff between the two by having Ainz and Cid talk over a visual. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -4583,6 +5123,19 @@ TikTok said to be launching live shopping in the US by Ivan Mehta originally pub
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Silent Voice Director Naoko Yamada Returns With Another Adorable Kit Kat Anime Commercial]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/a-silent-voice-director-naoko-yamada-returns-with-another-adorable-kit-kat-anime-commercial</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/a-silent-voice-director-naoko-yamada-returns-with-another-adorable-kit-kat-anime-commercial"/>
+        <updated>2022-10-03T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[The video is being screened across Japan
+
+
+As a sweet treat for the first Monday of October, Kit Kat Japan has released a heartwarming new animated commercial helmed by A Silent Voice and K-ON! director Naoko Yamada alongside singer AI makes up their second Kit Kat anime ad as part of the company's "inspiring others to take their first steps towards their dreams" campaign. Take a break after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seven assembly bypolls in six states on November 3: Election Commission]]></title>
         <id>https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/seven-assembly-bypolls-in-six-states-on-november-3-election-commission/articleshow/94615199.cms"/>
@@ -4641,6 +5194,19 @@ Prosus calls off $4.7 billion BillDesk acquisition deal by Manish Singh original
         <summary type="html"><![CDATA[Treasury chief Kwasi Kwarteng said on Monday that he will not scrap the top 45 per cent rate of income tax paid on earnings above 150,000 pounds ($167,000) a year. “We get it, and we have listened,” he said in a statement.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnimeJapan 2023 to be Held at Tokyo Big Sight in March 2023]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/animejapan-2023-set-to-be-held-at-tokyo-big-sight-in-march-2023</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/animejapan-2023-set-to-be-held-at-tokyo-big-sight-in-march-2023"/>
+        <updated>2022-10-03T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the world's largest anime events will celebrate its 10th anniversary
+
+
+AnimeJapan 2023, one of the largest anime events in Japan and abroad, will be held at Tokyo Big Sight in March 2023. March 25 and 26 will be its Public Day, and March 27 and 28 will be its Business Day. The Business Day will be held online only. Hit the jump for more details!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
         </author>
     </entry>
     <entry>
@@ -4824,6 +5390,32 @@ Prosus calls off $4.7 billion BillDesk acquisition deal by Manish Singh original
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jump Festa 2023 Details Manga Event Offerings]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/jump-festa-2023-details-manga-event-offerings</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/jump-festa-2023-details-manga-event-offerings"/>
+        <updated>2022-10-03T05:42:25.000Z</updated>
+        <summary type="html"><![CDATA[The event released this year's visual
+
+
+Jump Festa returns this year for the 24th outing, bringing together all the Shueisha and Jump brands under one roof for a full weekend of manga fun. The event revealed its 2023 visual today alongside details on when it'll be in December as well as how to get tickets for the event. Catch it all after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waccha PriMagi! Ends Next Week, No New TV Anime from Pretty Series Planned for Now]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/waccha-primagi-ends-next-week-no-new-tv-anime-from-pretty-series-planned-for-now</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/waccha-primagi-ends-next-week-no-new-tv-anime-from-pretty-series-planned-for-now"/>
+        <updated>2022-10-03T05:41:02.000Z</updated>
+        <summary type="html"><![CDATA[The arcade game will continue its service
+
+
+After the broadcast of the latest 50th episode of the TV anime Waccha PriMagi! in Japan on Sunday, it was confirmed that the anime will end its TV broadcast with its next 51st episode on October 9. The Pretty Series TV anime series, which has been running for 11 and a half years since April 2011, will come to a temporary end. Hit the jump for more details.]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KanColle: Itsuka Ano Umi de Anime's Promo Video Reveals November 3 Debut]]></title>
         <id>https://www.animenewsnetwork.com/cms/.190441</id>
         <link href="https://www.animenewsnetwork.com/news/2022-10-03/kancolle-itsuka-ano-umi-de-anime-promo-video-reveals-november-3-debut/.190441"/>
@@ -4861,6 +5453,19 @@ Prosus calls off $4.7 billion BillDesk acquisition deal by Manish Singh original
         <summary type="html"><![CDATA[Indonesian President Joko Widodo announced a probe into the incident.]]></summary>
         <author>
             <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energize Your Soul with Coca-Cola's Official Bleach Variety]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/energize-your-soul-with-coca-colas-official-bleach-variety</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/energize-your-soul-with-coca-colas-official-bleach-variety"/>
+        <updated>2022-10-03T05:14:00.000Z</updated>
+        <summary type="html"><![CDATA[If only it was strawberry flavored...
+
+
+Coca-Cola's popular culture collab brand "Creations" is partnering with the new Bleach anime just in time for its much-anticipated premiere to release a limited-edition flavor with Ichigo on the can. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -5060,6 +5665,19 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KanColle: ITSUKA ANO UMI DE Anime Onboards Theme Song Artist with New Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/kancolle-itsuka-ano-umi-de-anime-onboards-theme-song-artist-with-new-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/kancolle-itsuka-ano-umi-de-anime-onboards-theme-song-artist-with-new-trailer"/>
+        <updated>2022-10-03T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The long-awaited sequel sets sail on November 3
+
+
+The open sea awaits in the long-awaited new KanColle anime series, which unveiled a new trailer and main theme song info ahead of a November 3 premiere date. Hit the jump for a full mission debrief!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What We Learned From Week 4 in the N.F.L.]]></title>
         <id>https://www.nytimes.com/2022/10/02/sports/football/nfl-week-4-takeaways.html</id>
         <link href="https://www.nytimes.com/2022/10/02/sports/football/nfl-week-4-takeaways.html"/>
@@ -5100,6 +5718,19 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Naruto Celebrates 20 Years With Three New Anime Visuals [UPDATED]]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/naruto-celebrates-20-years-with-three-new-anime-visuals</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/naruto-celebrates-20-years-with-three-new-anime-visuals"/>
+        <updated>2022-10-03T03:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Creator Masashi Kishimoto also released a special illustration 
+
+
+October 3 marks 20 years since the first Naruto TV anime episode premiered on Japanese TV, starting the long-running franchise that continues to this day. To celebrate the occasion, the anime team has released three new visuals that encompass Naruto's life, as well as an illustration from Kishimoto himself. Sneak past the jump to check them out!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[17 children among the dead in Indonesian football stampede]]></title>
         <id>https://timesofindia.indiatimes.com/sports/football/top-stories/seventeen-children-among-the-dead-in-indonesian-football-stampede/articleshow/94610053.cms</id>
         <link href="https://timesofindia.indiatimes.com/sports/football/top-stories/seventeen-children-among-the-dead-in-indonesian-football-stampede/articleshow/94610053.cms"/>
@@ -5107,6 +5738,19 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         <summary type="html"><![CDATA[Seventeen children were among at least 125 people killed in a football stampede in Indonesia at the weekend, officials said, as pressure builds on the Southeast Asian nation to explain how one of the world's worst stadium disasters unfolded.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comedy Anime Me & Roboco Outputs Designs for Five Main Characters]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/comedy-anime-me-roboco-outputs-designs-for-five-main-characters</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/comedy-anime-me-roboco-outputs-designs-for-five-main-characters"/>
+        <updated>2022-10-03T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Akitaro Daichi helms short anime series at Studio Gallop
+
+
+Character design sheets are an essential blueprint for building an anime, and we've just been let in on the process for upcoming comedy anime Me & Roboco ahead of the series' December premiere. Hit the jump for the full picture!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -5127,6 +5771,19 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         <summary type="html"><![CDATA[Fiercely patriotic, a great leader and soldier is how Phunsog Angmo, the eldest daughter of Col Chewang Rinchen, the youngest to be conferred with Mahavir Chakra, remembered her father.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucifer and the Biscuit Hammer TV Anime Prepares for Its 2nd Part in New Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/lucifer-and-the-biscuit-hammer-tv-anime-prepares-for-its-2nd-part-in-new-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/lucifer-and-the-biscuit-hammer-tv-anime-prepares-for-its-2nd-part-in-new-trailer"/>
+        <updated>2022-10-03T03:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Crunchyroll streams the series both dubbed and subbed
+
+
+The first part of the Lucifer and the Biscuit Hammer TV anime finished airing the other day but with news that the series will be continuing on in the fall 2022 anime season. To get hyped for the next part, a new trailer was released this morning revealing the new opening and ending theme songs. Check it out after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -5179,6 +5836,19 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Black Clover Anime Celebrates 5th Anniversary with Special Illustration]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/black-clover-anime-celebrates-5th-anniversary-with-special-illustration</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/black-clover-anime-celebrates-5th-anniversary-with-special-illustration"/>
+        <updated>2022-10-03T02:47:00.000Z</updated>
+        <summary type="html"><![CDATA[New anime film information will be released within a week
+
+
+Five whole years have passed since Asta set out on his journey to become the Wizard King in Black Clover, and to celebrate, the official Twitter account released a special illustration by the series director. More info about the upcoming anime film is coming soon, so hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Morning Digest | Sonia Gandhi to join Bharat Jodo Yatra in Karnataka on Oct 6; Bihar Minister Sudhakar Singh resigns, and more]]></title>
         <id>https://www.thehindu.com/news/morning-digest-october-3-2022/article65964052.ece</id>
         <link href="https://www.thehindu.com/news/morning-digest-october-3-2022/article65964052.ece"/>
@@ -5204,6 +5874,16 @@ Lemonade leans on Aviva to bring its next-gen insurance platform to the UK by Pa
         <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-it-is-not-concerning-but-we-need-to-pick-ourselves-says-rohit-sharma-on-death-overs-bowling/articleshow/94608886.cms"/>
         <updated>2022-10-03T02:41:04.000Z</updated>
         <summary type="html"><![CDATA[Invited to bat, India posted a massive 237 for 3 but South Africa recovered from a disastrous start to take the game deep before eventually falling short by 16 runs as the hosts claimed their first win over the Proteas in a T20 series at home.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Sensex surges 1,100 pts amid positive global cues]]></title>
+        <id>https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94608880.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/markets/stock-market-sensex-nifty-50-bse-live-updates/liveblog/94608880.cms"/>
+        <updated>2022-10-03T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Stock Market LIVE Updates: Indian shares rose 2% on Tuesday, led by gains in banks and metal companies, as an attempted bounce in global equities and upbeat quarterly updates from companies lifted sentiment ahead of the corporate earnings season. Stay with TOI for all latest updates.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -5278,6 +5958,19 @@ Riders: Laena (decea…]]></summary>
         <summary type="html"><![CDATA[The education department of Darul Uloom Deoband has issued an order prohibiting students of the Islamic seminary from carrying out part-time businesses or else "facilities such as education grants, free food and lodging will be immediately stopped and even expulsion from the seminary". In another order, scholarships of final year students found absent from their classes for three consecutive days will be "withdrawn".]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bibliophile Princess Anime Prepares for Its First Chapter with New Key Visual]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/bibliophile-princess-anime-prepares-for-its-first-chapter-with-new-key-visual</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/bibliophile-princess-anime-prepares-for-its-first-chapter-with-new-key-visual"/>
+        <updated>2022-10-03T02:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Romantic drama anime premieres on October 6
+
+
+Studio MADHOUSE's anime adaptation of Bibliophile Princess is just three days away from making its enchanting debut, and it's looking to charm more viewers into watching with the release of a rosy new key visual. Hit the jump for the full picture!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -5391,6 +6084,19 @@ After Rhaenyra propos…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ice Guy and His Cool Female Colleague Anime Sets January 2023 Broadcast, OP Artist]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/the-ice-guy-and-his-cool-female-colleague-anime-sets-january-2023-broadcast-op-artist</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/the-ice-guy-and-his-cool-female-colleague-anime-sets-january-2023-broadcast-op-artist"/>
+        <updated>2022-10-03T01:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ZERO-G and Liber produce the romantic-comedy series
+
+
+Winter is coming… and it's bringing a perfectly themed workplace romcom series with The Ice Guy and His Cool Female Colleague, which announced its release window and opening theme song artist over the weekend. Hit the jump for all the details!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KCR to declare name of national party on October 5]]></title>
         <id>https://timesofindia.indiatimes.com/india/kcr-to-declare-name-of-national-party-on-october-5/articleshow/94608345.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/kcr-to-declare-name-of-national-party-on-october-5/articleshow/94608345.cms"/>
@@ -5449,6 +6155,16 @@ Tesla delivered a record 343,830 vehicles in Q3, but still missed Wall Street’
         <summary type="html"><![CDATA[A class ninth student was left with a ruptured eardrum after his Sanskrit teacher allegedly slapped him suspecting him of making noise during his lecture.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon Zero Dawn PS5 Remaster Reportedly In the Works Alongside a Multiplayer Game]]></title>
+        <id>948458ac-83ef-4ddf-b2bf-3e33d7a5d4da</id>
+        <link href="https://www.ign.com/articles/horizon-zero-dawn-ps5-remaster-reportedly-in-the-works-alongside-a-multiplayer-game"/>
+        <updated>2022-10-03T00:49:18.000Z</updated>
+        <summary type="html"><![CDATA[A remaster of 2017's Horizon Zero Dawn is reportedly in the works for PS5 alongside a brand-new multiplayer game for PS5 and PC.]]></summary>
+        <author>
+            <name>Adam Bankhurst</name>
         </author>
     </entry>
     <entry>
@@ -5959,6 +6675,19 @@ But starting January 30th, 2023, dealerships will run into a roadblock when tryi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ZOOL to Perform New Ending Theme for IDOLiSH7 Third BEAT! Anime]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02-1/zool-to-perform-new-ending-theme-for-idolish7-third-beat-anime</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02-1/zool-to-perform-new-ending-theme-for-idolish7-third-beat-anime"/>
+        <updated>2022-10-02T19:55:43.000Z</updated>
+        <summary type="html"><![CDATA[The fictional idol group also has a live show in the works
+
+
+There is no IDOLiSH7... only ZOOL! The fictional four-member group, part of the broader IDOLiSH7 media mix universe, will be performing the new ending theme for the ongoing Third BEAT! Plus, there are plans afoot for their first live show this coming winter. Find out more after the jump!]]></summary>
+        <author>
+            <name>Kara Dennison</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PM Modi to address UN World Geospatial Congress in Hyderabad on October 11]]></title>
         <id>https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/pm-modi-to-address-un-world-geospatial-congress-in-hyderabad-on-october-11/articleshow/94606501.cms"/>
@@ -6357,6 +7086,19 @@ Update October 2nd, 12:49PM ET: Updated to add that Coinbase has fixed the issue
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Encouragement of Climb: Next Summit Anime Has Game in the Works]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/02/encouragement-of-climb-next-summit-anime-has-game-in-the-works</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/02/encouragement-of-climb-next-summit-anime-has-game-in-the-works"/>
+        <updated>2022-10-02T16:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Console game has no date but is currently in production
+
+
+The new anime based on Shiro's Encouragement of Climb manga is set to premiere on October 4, and there's also a game in the works. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RSS expresses concern over unemployment, income inequality; terms poverty as 'demon-like challenge']]></title>
         <id>https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/rss-expresses-concern-over-unemployment-income-inequality-terms-poverty-as-demon-like-challenge/articleshow/94605031.cms"/>
@@ -6381,6 +7123,32 @@ Moonbreaker, available now in early access on Mac and Windows PC via Steam, is t
 “My pitch was always like, we’re making a digital miniatures game, full stop,” Unknown Worlds co-founder Charlie Cleveland told me during an interview for Moonbreaker at Gamescom 2022. “Think about it: Painting? Yes. Digital miniatures lore? Yes. Turn-based strategy? Yes. Sharing paint jobs… It…]]></summary>
         <author>
             <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERVIEW: Sasuke's 20 Year Journey with Yuri Lowenthal]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/02-1/interview-sasukes-20-year-journey-with-yuri-lowenthal</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/02-1/interview-sasukes-20-year-journey-with-yuri-lowenthal"/>
+        <updated>2022-10-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We speak with the English voice of Sasuke about the legacy of the legendary Uchiha!
+
+
+The next installment features the English voice of Sasuke Uchiha himself, Yuri Lowenthal! We speak with him about what it's like going through Sasuke's journey, the special hip-hop album he helped make and much more after the jump!]]></summary>
+        <author>
+            <name>Kyle Cardine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POLL: Which of These 5 Anime Are You Most Excited For This Fall Season?]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/02/poll-which-of-these-5-anime-are-you-most-excited-for-this-fall-season</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/02/poll-which-of-these-5-anime-are-you-most-excited-for-this-fall-season"/>
+        <updated>2022-10-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a truly stacked season!
+
+
+This fall season is packed to the brim with great anime. Which of these five shows are you most excited to see?]]></summary>
+        <author>
+            <name>Daniel Dockery</name>
         </author>
     </entry>
     <entry>
@@ -7487,6 +8255,16 @@ Whether you've had a chance to watch the first episode of Pop Team Epic season 2
         <summary type="html"><![CDATA[Gangster Lawrance Bishnoi's close associate Deepak Teenu fled away from Mansa police custody on Sunday.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Disco Elysium Developers Have 'Involuntarily' Left the Company [Update: ZA/UM Responds]]]></title>
+        <id>fc6b0bfa-32e1-435a-b106-9ae1df99fc52</id>
+        <link href="https://www.ign.com/articles/disco-elysium-developers-involuntarily-left-zaum-responds"/>
+        <updated>2022-10-02T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Developer ZA/UM has responded to the news that key members of the Disco Elysium team have departed the studio involuntarily.]]></summary>
+        <author>
+            <name>Adam Bankhurst</name>
         </author>
     </entry>
     <entry>
@@ -11343,6 +12121,16 @@ But Smile takes an unusual tack at the end, with Finn’s script going in direct
         <summary type="html"><![CDATA[Welcome to Libra season, dear Taurus!]]></summary>
         <author>
             <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Xbox One Games]]></title>
+        <id>f87e3dd1-6227-4cc0-8c30-534c6be210ce</id>
+        <link href="https://www.ign.com/articles/best-xbox-one-games-2"/>
+        <updated>2022-09-30T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[IGN's picks for the 25 best Xbox One games to play right now.]]></summary>
+        <author>
+            <name>IGN PC Articles</name>
         </author>
     </entry>
     <entry>
