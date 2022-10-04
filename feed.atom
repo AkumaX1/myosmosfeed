@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T17:31:58.719Z</updated>
+    <updated>2022-10-04T18:21:28.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Grocery sharing’ app Recelery lets users resell food items to help minimize waste]]></title>
+        <id>https://techcrunch.com/?p=2418521</id>
+        <link href="https://techcrunch.com/2022/10/04/grocery-sharing-app-recelery-lets-users-resell-their-food-items/"/>
+        <updated>2022-10-04T18:19:42.000Z</updated>
+        <summary type="html"><![CDATA[It is typical for consumers to purchase more food items than they need and then throw them away because they either forgot about it or the food expired. It is estimated that 1.3 billion tons of food items are wasted yearly, an approximate $1 trillion loss. Recelery, a pantry tracker app and online marketplace, aims […]
+‘Grocery sharing’ app Recelery lets users resell food items to help minimize waste by Lauren Forristal originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto losses total $428M in Q3, down 36% from previous quarter]]></title>
+        <id>https://techcrunch.com/?p=2418550</id>
+        <link href="https://techcrunch.com/2022/10/04/crypto-losses-total-428m-in-q3-down-36-from-previous-quarter/"/>
+        <updated>2022-10-04T18:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Crypto "losses” from hacks and fraud continued to decline in the third quarter, Immunefi’s Crypto Losses Q3 report shows. 
+Crypto losses total $428M in Q3, down 36% from previous quarter by Jacquelyn Melinek originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jacquelyn Melinek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyped VR Game's Harrowing 'Noose' Sequence Ignites Debate Over Trigger Warnings]]></title>
+        <id>1849615037</id>
+        <link href="https://kotaku.com/bonelab-metal-quest-pc-vr-stress-level-zero-self-harm-1849615037"/>
+        <updated>2022-10-04T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Context is important. What happens in the lead-up to events provides insight into how and why they unfold as they do. But what if the context doesn’t come ‘til later? And what if there was zero warning for the traumatic event you were about to experience in a game? Questions like these, the line between artistic…
+Read more...]]></summary>
+        <author>
+            <name>Levi Winslow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Attacks Kurdish Positions Across the Border in Iraq]]></title>
+        <id>https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html"/>
+        <updated>2022-10-04T18:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Tehran has blamed Kurdish groups for fomenting some of the protests that have convulsed Iran for almost three weeks.]]></summary>
+        <author>
+            <name>Cora Engelbrecht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every new Overwatch 2 change, explained]]></title>
+        <id>https://www.polygon.com/overwatch-2-guide/23375907/ow2-new-skins-heroes-modes-maps-reworks-updates-battle-pass</id>
+        <link href="https://www.polygon.com/overwatch-2-guide/23375907/ow2-new-skins-heroes-modes-maps-reworks-updates-battle-pass"/>
+        <updated>2022-10-04T18:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Is Overwatch 2 a total overhaul? Or is it the most glorified patch in gaming history?
+ After years of waiting — not to mention an update cadence that’s slower than usual —  Overwatch 2 is finally here to replace the 2016 original. But what was all that waiting for? What changes has Blizzard made to help the series make the leap from Overwatch to Overwatch 2? 
+In this guide, we’ve listed out all of the most important changes in Overwatch 2 to help you jump back in without missing a beat.
+The free-to-play model
+The biggest and most notable change in Overwatch 2 is that it’s free-to-play. All you need to do if you want to jump in is go to your console store (or the Battle.net app on PC) and download the game. No more convincing your friends to buy Overwa…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roma Tell Their Stories in a Dance-Theater Work From Berlin]]></title>
+        <id>https://www.nytimes.com/2022/10/04/arts/dance/dorkypark-romani-open-for-everything.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/arts/dance/dorkypark-romani-open-for-everything.html"/>
+        <updated>2022-10-04T18:08:44.000Z</updated>
+        <summary type="html"><![CDATA[DorkyPark’s “Open for Everything,” coming to the Brooklyn Academy, is mostly light and playful, energized by Roma musicians.]]></summary>
+        <author>
+            <name>Brian Seibert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When will the iPhone be forced to use USB-C?]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387425/european-parliament-iphone-usb-type-c-radio-equipment-directive-lightning-rip</id>
+        <link href="https://www.theverge.com/2022/10/4/23387425/european-parliament-iphone-usb-type-c-radio-equipment-directive-lightning-rip"/>
+        <updated>2022-10-04T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+Today, the European Parliament voted overwhelmingly in favor of new legislation that would eventually require all mobile phones sold in the EU to use a USB-C port for wired charging. The proposed rules, which lawmakers reached an initial agreement on back in June, mean that Apple is likely to have to remove the decade-old Lightning connector from its phones and switch to USB-C if it wants to continue selling them in one of its most lucrative global markets. 
+The EU’s aim is to reduce e-waste. If more devices are interoperable with the same cables, then the EU thinks fewer electronic devices and chargers will get thrown away. According to its estimates, every year, 11,000 tonnes of disposed of and unused chargers end up in landfill, which…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk wants to buy Twitter again, spam bots and all]]></title>
+        <id>https://www.vox.com/recode/2022/10/4/23387396/musk-twitter-new-deal-44-billion</id>
+        <link href="https://www.vox.com/recode/2022/10/4/23387396/musk-twitter-new-deal-44-billion"/>
+        <updated>2022-10-04T17:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk at a Norwegian energy summit, August 2022. | Carina Johansen/NTB/AFP via Getty Images
+    
+
+  
+The world’s richest man has a $44 billion change of heart. (Maybe.)
+ Elon Musk wants to buy Twitter for $44 billion. Again.
+The world’s richest man has reportedly told Twitter that he’d like to move forward with the deal he first agreed to in April: He wants to pay $54.20 a share for the messaging service. 
+The difference between now and last spring, of course, is that in the interim Musk tried to walk away from his signed contract to buy Twitter. And that Twitter sued him to try to enforce that deal, and that the two sides are currently in court preparing for a trial that is scheduled to start October 17 — less than two weeks from now.
+What changed? We don’t know yet. We do know that M…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Polygon: Eep, I need an ominous horror movie that isn’t just about murder!]]></title>
+        <id>https://www.polygon.com/what-to-watch/2022/10/4/23378989/scary-horror-movies-to-watch-stream-possession-eyes-without-face-possessor</id>
+        <link href="https://www.polygon.com/what-to-watch/2022/10/4/23378989/scary-horror-movies-to-watch-stream-possession-eyes-without-face-possessor"/>
+        <updated>2022-10-04T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Gaumont
+    
+
+  
+Dear Polygon returns with personalized horror recommendations
+ In late September, we put out a call for readers looking for specific horror movie recommendations. It’s an offshoot of our Dear Polygon series, where we answer questions and give recs to readers like you. To our delight, hundreds of you responded. This is the first entry in what will be quite a few answering those requests, hand-picking a horror movie to watch, just for you.
+If you’d like to get in on the fun, you can still fill out our recommendation request form. 
+Let’s dig in.
+Dear Polygon,
+Being completely honest, my fave horror movies are the ones that have some descent into madness. So I’m looking for stuff like that! People going crazy, [...] characters going through harrowing events, body horror…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kidnapping of Indian-origin family in US: Relatives back home in Punjab village in state of shock]]></title>
+        <id>https://timesofindia.indiatimes.com/india/kidnapping-of-indian-origin-family-in-us-relatives-back-home-in-punjab-village-in-state-of-shock/articleshow/94650633.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/kidnapping-of-indian-origin-family-in-us-relatives-back-home-in-punjab-village-in-state-of-shock/articleshow/94650633.cms"/>
+        <updated>2022-10-04T17:49:29.000Z</updated>
+        <summary type="html"><![CDATA[India News: HOSHIARPUR: The news of kidnapping of an Indian-origin family of four, including an 8-month-old child, in the US state of California, has left their r.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weirdest Pumpkin Spice Products You Can Buy (Including Lube)]]></title>
+        <id>m7gp8y</id>
+        <link href="https://www.vice.com/en_us/article/m7gp8y/best-pumpkin-spice-products"/>
+        <updated>2022-10-04T17:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Pumpkin spice oil to rub down your one-night stand? Pumpkin spice CBD gummies? Seltzer? Deodorant??? Behold the best pumpkin spice products of 2022.]]></summary>
+        <author>
+            <name>Nicolette Accardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's A Canceled Zelda Tactics Game You Probably Don't Know About]]></title>
+        <id>1849614955</id>
+        <link href="https://kotaku.com/zelda-final-fantasy-tactics-nintendo-metroid-prime-1849614955"/>
+        <updated>2022-10-04T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently found out about a rejected pitch for a Zelda game inspired by Final Fantasy Tactics, and I find myself mourning for what could have been. Heroes of Hyrule was conceptualized as a DS game that combined tactical combat with puzzle-based exploration. Unfortunately, Nintendo scrapped Retro Studios’ idea before…
+Read more...]]></summary>
+        <author>
+            <name>Sisi Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s in Overwatch 2’s Watchpoint Pack?]]></title>
+        <id>https://www.polygon.com/23387127/overwatch-2-pre-order-do-you-have-to-buy-watchpoint-pack</id>
+        <link href="https://www.polygon.com/23387127/overwatch-2-pre-order-do-you-have-to-buy-watchpoint-pack"/>
+        <updated>2022-10-04T17:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Is Blizzard’s $39.99 starter pack worth it?
+ Blizzard Entertainment is rolling out Overwatch 2, a major update to the original game pitched as a sequel, and inviting everyone to play. Overwatch 2 is free-to-play, but that doesn’t mean there aren’t numerous ways to spend money on it. Take the Overwatch 2 Watchpoint Pack, a $39.99 starter kit that gives buyers a bunch of skins, in-game currency, and the season 1 premium battle pass.
+Forty bucks is a lot to spend on a free game, and Overwatch 2 players don’t need to buy the Watchpoint Pack to play. But for Overwatch players who care about skins — including two that appear to be exclusive (for now) to the Watchpoint Pack — and those who want in-game currency to spend on cosmetics, it might be a good deal.…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American utilities aren’t living up to their climate pledges, new report finds]]></title>
+        <id>https://www.theverge.com/2022/10/4/23386978/us-utilities-climate-change-pledges-greenwashing-report</id>
+        <link href="https://www.theverge.com/2022/10/4/23386978/us-utilities-climate-change-pledges-greenwashing-report"/>
+        <updated>2022-10-04T17:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Kingston Fossil Plant, a coal-fired power plant operated by the Tennessee Valley Authority | Photo by Paul Harris / Getty Images
+    
+
+  
+A damning new report gives American electric utilities failing grades on addressing climate change. Instead of transitioning quickly to clean energy, according to the report, many utilities in the US are propping up aging coal plants and expanding polluting gas infrastructure.  
+“These companies’ supposed climate commitments are mostly greenwashing,” says the report published yesterday by environmental group Sierra Club and University of California, Santa Barbara associate professor Leah Stokes. In other words, utilities are paying lip service to climate change without doing enough to actually tackle the crisis.
+“These companies’ supposed climate commitm…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmark for normalisation in Ladakh would be restoration of status quo ante: IAF chief tells China]]></title>
+        <id>https://timesofindia.indiatimes.com/india/benchmark-for-normalisation-in-ladakh-would-be-restoration-of-status-quo-ante-iaf-chief-tells-china/articleshow/94650458.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/benchmark-for-normalisation-in-ladakh-would-be-restoration-of-status-quo-ante-iaf-chief-tells-china/articleshow/94650458.cms"/>
+        <updated>2022-10-04T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Rejecting China’s recent claim that the border situation is now returning to a “normalised” state, IAF chief Air Chief Marshal V R Chaudhari on Tuesday said Beijing should first withdraw troops from all friction areas in eastern Ladakh and restore status quo ante along the Line of Actual Control.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping close eye on Chinese activity along LAC: IAF chief]]></title>
+        <id>https://timesofindia.indiatimes.com/india/benchmark-for-normalisation-in-ladakh-would-be-restoration-of-status-quo-ante-iaf-chief-tells-china/articleshow/94650458.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/benchmark-for-normalisation-in-ladakh-would-be-restoration-of-status-quo-ante-iaf-chief-tells-china/articleshow/94650458.cms"/>
+        <updated>2022-10-04T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Rejecting China’s recent claim that the border situation is now returning to a “normalised” state, IAF chief Air Chief Marshal V R Chaudhari on Tuesday said Beijing should first withdraw troops from all friction areas in eastern Ladakh and restore status quo ante along the Line of Actual Control.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paid to Fight, Even in Ancient Greece]]></title>
+        <id>https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html"/>
+        <updated>2022-10-04T17:33:25.000Z</updated>
+        <summary type="html"><![CDATA[DNA from a 2,500-year-old battlefield in Sicily reveals that mercenary soldiers were common, if not the Homeric ideal.]]></summary>
+        <author>
+            <name>Franz Lidz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Book Review: ‘LOOKING FOR THE HIDDEN FOLK,’ by Nancy Marie Brown]]></title>
         <id>https://www.nytimes.com/2022/10/04/books/review/looking-for-the-hidden-folk-nancy-marie-brown.html</id>
@@ -14,6 +230,16 @@
         <summary type="html"><![CDATA[In “Looking for the Hidden Folk,” Nancy Marie Brown makes a strong case for everyday wonder.]]></summary>
         <author>
             <name>Liesl Schillinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3rd T20I: SA deny India a clean sweep with 49-run win]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-highlights-rilee-rossouw-sets-up-big-win-for-sa-as-concerns-over-indian-bowling-grow/articleshow/94650228.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-highlights-rilee-rossouw-sets-up-big-win-for-sa-as-concerns-over-indian-bowling-grow/articleshow/94650228.cms"/>
+        <updated>2022-10-04T17:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Rilee Rossouw's stroke-filled 100 not out off 48 balls set up a morale boosting 49-run win for South Africa in the inconsequential third T20 International on Tuesday as concerns around a faltering Indian bowling attack grew ahead of the T20 World Cup. In a high scoring ground with small dimensions, no total is safe but India kept losing wickets regularly to end at 178 all out in 18.3 overs.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +345,16 @@ How CEO Pat Gelsinger changed the culture at Intel and bet big on the silicon he
 The Intel Pat took over was struggling and losing ground in a variety of markets. But in the past year and a half, Pat restructured the company, turned over almost all of its leadership positions, opened a new line of business that competes with Taiwan Semiconductor Manufacturing …]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crunchyroll Streams 'More than a Married Couple, but Not Lovers,' The Little Lies We All Tell, KanColle: Let's Meet at Sea, More Anime]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190499</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-04/crunchyroll-streams-more-than-a-married-couple-but-not-lovers-the-little-lies-we-all-tell-kancolle-/.190499"/>
+        <updated>2022-10-04T17:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Also: Yowamushi Pedal Limit Break, The Ancient Magus' Bride OAD 3]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
         </author>
     </entry>
     <entry>
@@ -358,6 +594,19 @@ Let’s start first with what was announced for The Witcher. CDPR announced what
 There are two other new Witcher games in the works, too. One, referred to as “Canis Majoris,” is a …]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainsaw Man's Karaoke Collaboration Confirms Kick-Ass Details]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04-1/chainsaw-mans-karaoke-collaboration-confirms-kick-ass-details</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04-1/chainsaw-mans-karaoke-collaboration-confirms-kick-ass-details"/>
+        <updated>2022-10-04T16:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Pictures of the karaoke booths were revealed
+
+
+About a week ago, Chainsaw Man and Japan's biggest karaoke vendor DAM as well as karaoke house Big Echo teased that all three are teaming up for a huge karaoke collaboration over the next few months. Well today, those details were announced, and are you ready for more than three months of Chainsaw Man musical goodness? More after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
         </author>
     </entry>
     <entry>
@@ -620,6 +869,29 @@ Read more...]]></summary>
 Matter’s Internet of Things standard, certification ready for developers by Christine Hall originally published on TechCrunch]]></summary>
         <author>
             <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2: How to add a phone number for Blizzard’s SMS Protect]]></title>
+        <id>https://www.polygon.com/23385894/overwatch-2-ow2-blizzard-sms-protect-add-phone-number</id>
+        <link href="https://www.polygon.com/23385894/overwatch-2-ow2-blizzard-sms-protect-add-phone-number"/>
+        <updated>2022-10-04T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Blizzard requires you to register a phone number if you want to play Overwatch 2
+ If you want to play Overwatch 2 when it’s released on Oct. 4, you’ll be required to enter your phone number as part of Activision Blizzard’s SMS Protect feature. The same goes for Call of Duty: Modern Warfare 2 when it’s released, and newly created Call of Duty: Modern Warfare accounts.
+It’s not hard to do if you’ve got an eligible phone number — some, like numbers on pre-paid plans, don’t qualify — but Activision Blizzard hasn’t offered clear messaging on how players can do it. Here’s how:
+Go to Battle.net and log in.
+On the site’s top navigation bar, click your account name. (If you aren’t already logged in, it’ll say My Account.) It’s all the way to the right.
+From the dropdown menu, click Account Settings.
+Click the three blue lines on the left side of the navigation bar.
+ From there, click Account Details.
+The third section down is where you’ll enter your phone number. If you’ve already got one there, you’re good to go. Otherwise, click on Add Phone Number and type yours in. Activision Blizzard will send you a security code that you’ll then have to enter on-screen.
+If you need to change your pone number, you’ll click Update inside the phone number box. The next page will make sure you want to, and if you do, follow the instructions from there — the same as adding your number for the first time.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
         </author>
     </entry>
     <entry>
@@ -5727,6 +5999,16 @@ One of my favorite aspects of SPY x FAMILY is how well it articulates the powe
         <summary type="html"><![CDATA[Xi calls for more ‘breakthroughs’ in self-sufficiency in critical sectors]]></summary>
         <author>
             <name>Ananth Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind Wilco’s ‘Yankee Hotel Foxtrot,’ a Band Breaking Its Heart]]></title>
+        <id>https://www.nytimes.com/2022/10/03/arts/music/wilco-yankee-hotel-foxtrot.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/arts/music/wilco-yankee-hotel-foxtrot.html"/>
+        <updated>2022-10-03T17:46:43.000Z</updated>
+        <summary type="html"><![CDATA[A 20th-anniversary boxed set and a documentary from last year focused on a former band member help explain the growing pains that plagued the rock band as it completed “Yankee Hotel Foxtrot.”]]></summary>
+        <author>
+            <name>Lindsay Zoladz</name>
         </author>
     </entry>
     <entry>
