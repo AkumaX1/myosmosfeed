@@ -2,10 +2,522 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T16:17:26.569Z</updated>
+    <updated>2022-10-04T17:31:58.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Book Review: ‘LOOKING FOR THE HIDDEN FOLK,’ by Nancy Marie Brown]]></title>
+        <id>https://www.nytimes.com/2022/10/04/books/review/looking-for-the-hidden-folk-nancy-marie-brown.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/books/review/looking-for-the-hidden-folk-nancy-marie-brown.html"/>
+        <updated>2022-10-04T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[In “Looking for the Hidden Folk,” Nancy Marie Brown makes a strong case for everyday wonder.]]></summary>
+        <author>
+            <name>Liesl Schillinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google debuts a new Nest Doorbell, faster Wi-Fi router and redesigned Home app]]></title>
+        <id>https://techcrunch.com/?p=2418495</id>
+        <link href="https://techcrunch.com/2022/10/04/google-home-nest-doorbell-wifi/"/>
+        <updated>2022-10-04T17:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Seems Google couldn’t wait until Thursday to announce all of its upcoming hardware. In a pair of blog posts this morning, the company announced two additions to its Nest line of smart home products: a new Nest Doorbell and the Nest WiFi Pro. The latter amps up the company’s dead-simple mesh Wi-Fi offering. The top-line […]
+Google debuts a new Nest Doorbell, faster Wi-Fi router and redesigned Home app by Brian Heater originally published on TechCrunch]]></summary>
+        <author>
+            <name>Brian Heater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch+ roundup: Edtech market map, robotics fundraising, getting started with FinOps]]></title>
+        <id>https://techcrunch.com/?p=2418439</id>
+        <link href="https://techcrunch.com/2022/10/04/techcrunch-roundup-edtech-market-map-robotics-fundraising-getting-started-with-finops/"/>
+        <updated>2022-10-04T17:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Clayton Bryan, head of 500 Global’s accelerator fund, says demo days are still key for founders and investors, even if they're held virtually.
+TechCrunch+ roundup: Edtech market map, robotics fundraising, getting started with FinOps by Walter Thompson originally published on TechCrunch]]></summary>
+        <author>
+            <name>Walter Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tragic: Nobody Can Find Mario's Ass In Our First Look At The Nintendo Movie]]></title>
+        <id>1849614795</id>
+        <link href="https://kotaku.com/mario-movie-ass-toad-nintendo-teaser-image-chris-pratt-1849614795"/>
+        <updated>2022-10-04T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, Nintendo revealed a first look at the upcoming Super Mario Bros. movie ahead of its official trailer release coming this week at New York Comic Con, and its glorious, save for the disenchanting washboard ass of its titular character, Mario. 
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida’s Leaders Opposed Climate Aid. Now They’re Depending on It.]]></title>
+        <id>https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html"/>
+        <updated>2022-10-04T17:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Before Hurricane Ian, the state’s Republican politicians have rejected federal action to cut greenhouse gas emissions and boost climate resilience.]]></summary>
+        <author>
+            <name>Christopher Flavelle and Jonathan Weisman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spark’s new app wants to fix how you email — even if it has to force you]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387221/spark-email-app-windows-mac-ios-android-system</id>
+        <link href="https://www.theverge.com/2022/10/4/23387221/spark-email-app-windows-mac-ios-android-system"/>
+        <updated>2022-10-04T17:19:28.000Z</updated>
+        <summary type="html"><![CDATA[The new Spark app wants you to spend way less time looking at your inbox. | Image: Readdle / David Pierce
+    
+
+  
+Spark has long been one of the best and most popular third-party email apps. Its developer, Readdle, managed to build a tool that is clean, fast, and simple in a market where very few apps check all three of those boxes. It works across multiple platforms, handles multiple accounts with ease, and is free for practically everyone.
+But Spark’s new app, which is available now for Mac (though the App Store version is still behind), Windows (for the first time), iOS, and Android, takes a completely different approach. It asks — and sometimes forces — you to be more thoughtful about how often you look at your inbox. The new desktop app no longer also includes a calendar view and foc…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pearl Jam, Wet Leg, Mac DeMarco Feature on Upcoming Abortion Rights Benefit Album]]></title>
+        <id>https://www.rollingstone.com/?p=1234604965</id>
+        <link href="https://www.rollingstone.com/music/music-news/pearl-jam-mac-demarco-david-byrne-abortion-rights-benefit-album-1234604965/"/>
+        <updated>2022-10-04T17:18:09.000Z</updated>
+        <summary type="html"><![CDATA[The LP, out Friday, will also feature Soccer Mommy, R.E.M., Bob Weir, David Byrne, and Devo along with dozens of other acts]]></summary>
+        <author>
+            <name>Ethan Millman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress loses chairmanship of parliamentary committee on IT, Home; 6 key panels with BJP, its allies now]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-loses-chairmanship-of-parliamentary-committee-on-it-home-6-key-panels-with-bjp-its-allies-now/articleshow/94650204.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-loses-chairmanship-of-parliamentary-committee-on-it-home-6-key-panels-with-bjp-its-allies-now/articleshow/94650204.cms"/>
+        <updated>2022-10-04T17:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Opposition parties have not been given the chairmanship of any of the four key parliamentary panels including the committee on Home Affairs and Information Technology, which were with the Congress, in the latest rejig announced on Tuesday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress loses chairmanship of parl panels on Home, IT]]></title>
+        <id>https://timesofindia.indiatimes.com/india/congress-loses-chairmanship-of-parliamentary-committee-on-it-home-6-key-panels-with-bjp-its-allies-now/articleshow/94650204.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/congress-loses-chairmanship-of-parliamentary-committee-on-it-home-6-key-panels-with-bjp-its-allies-now/articleshow/94650204.cms"/>
+        <updated>2022-10-04T17:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Opposition parties have not been given the chairmanship of any of the four key parliamentary panels including the committee on Home Affairs and Information Technology, which were with the Congress, in the latest rejig announced on Tuesday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pat Gelsinger came back to turn Intel around — here’s how it’s going]]></title>
+        <id>https://www.theverge.com/2022/10/4/23385652/pat-gelsinger-intel-chips-act-ohio-manufacturing-chip-shortage</id>
+        <link href="https://www.theverge.com/2022/10/4/23385652/pat-gelsinger-intel-chips-act-ohio-manufacturing-chip-shortage"/>
+        <updated>2022-10-04T17:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Photo illustration by William Joel / The Verge.
+    
+
+
+  
+How CEO Pat Gelsinger changed the culture at Intel and bet big on the silicon heartland
+ Pat Gelsinger is the CEO of Intel. I’ve been excited to have this conversation for a very long time — ever since Pat took over as CEO a little over a year and a half ago. Intel is a very important company with a huge series of challenges in front of it. It’s still the largest chip manufacturer by revenue and makes more chips than any other company in the United States.
+The Intel Pat took over was struggling and losing ground in a variety of markets. But in the past year and a half, Pat restructured the company, turned over almost all of its leadership positions, opened a new line of business that competes with Taiwan Semiconductor Manufacturing …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Winds Down Its Newsletter Service]]></title>
+        <id>https://www.nytimes.com/2022/10/04/business/media/facebook-ends-bulletin-newsletter.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/business/media/facebook-ends-bulletin-newsletter.html"/>
+        <updated>2022-10-04T17:03:48.000Z</updated>
+        <summary type="html"><![CDATA[The Bulletin platform, which featured writers like Malcolm Gladwell and Mitch Albom, will be closed early next year, the company said.]]></summary>
+        <author>
+            <name>Katie Robertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not directors, executives heading company units can now be held responsible for ‘weights & measures’ offences]]></title>
+        <id>https://timesofindia.indiatimes.com/india/not-directors-executives-heading-company-units-can-now-be-held-responsible-for-weights-measures-offences/articleshow/94650080.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/not-directors-executives-heading-company-units-can-now-be-held-responsible-for-weights-measures-offences/articleshow/94650080.cms"/>
+        <updated>2022-10-04T17:02:24.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: In yet another move to end ‘inspector raj’, the government has amended a key provision in the Legal Metrology Rules, which empowered office.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rage Against the Machine Cancel North American Tour]]></title>
+        <id>https://www.rollingstone.com/?p=1234605076</id>
+        <link href="https://www.rollingstone.com/music/music-news/rage-against-the-machine-cancels-north-american-tour-1234605076/"/>
+        <updated>2022-10-04T17:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Zach De La Rocha significantly injured his leg just two shows into the group's reunion tour]]></summary>
+        <author>
+            <name>Ethan Millman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung unveils ambitious five-year plan to manufacture advanced chips]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387226/samsung-foundry-1-4nm-transistors-chips-announcement-tsmc</id>
+        <link href="https://www.theverge.com/2022/10/4/23387226/samsung-foundry-1-4nm-transistors-chips-announcement-tsmc"/>
+        <updated>2022-10-04T17:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Samsung reminds us all that it still makes chips in recent announcement. | Image: Samsung
+    
+
+  
+Samsung has announced a five-year plan to expand its production capacity for advanced chips by 2027. The timeline could help the company regain ground from semiconductor giant TSMC.
+In its Tuesday press release, following an announcement at the annual Samsung Foundry Forum event, Samsung committed to expanding its production capacity for advanced nodes “by more than three times” by the year 2027. The company also plans to introduce a two-nanometer process in 2025 and a 1.4nm process by 2027.
+The company says it’s responding to “significant market growth in high-performance computing (HPC), artificial intelligence (AI), 5/6G connectivity and automotive applications,” which has made “innovation…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Startup Battlefield 200: Education, security and space edition]]></title>
+        <id>https://techcrunch.com/?p=2411059</id>
+        <link href="https://techcrunch.com/2022/10/04/the-startup-battlefield-200-education-security-and-space-edition/"/>
+        <updated>2022-10-04T17:00:23.000Z</updated>
+        <summary type="html"><![CDATA[The collective creativity, ingenuity and technical prowess of the Startup Battlefield 200 presented by Capital Connect by JP Morgan is nothing short of amazing. Out of thousands of applications, only 200 early-stage startups made the final cut, and you’ll find all of them — and only them — exhibiting on the TechCrunch Disrupt show floor […]
+The Startup Battlefield 200: Education, security and space edition by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge says Twitter can search Musk team’s texts for Twitter whistleblower details]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387286/twitter-musk-whistleblower-emails-text-messages-peiter-mudge-zatko</id>
+        <link href="https://www.theverge.com/2022/10/4/23387286/twitter-musk-whistleblower-emails-text-messages-peiter-mudge-zatko"/>
+        <updated>2022-10-04T16:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+The Delaware Court of Chancery says Twitter can proceed with a limited probe to figure out whether whistleblower Peiter “Mudge” Zatko contacted billionaire Elon Musk’s lawyers before he backed out of the deal. The decision was released shortly before Musk reportedly asked to close the deal on its original terms.
+Musk and Twitter contested how much information Twitter could seek about Zatko, who has alleged that Twitter concealed important information about its bot problem before Musk proposed acquiring it. Zatko revealed his claims publicly in August, and he’s denied contacting Musk or any of his representatives before that. But in court, Musk and Twitter have been fighting over an “unusual” email sent to Musk’s attorney Alex Spiro from an a…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Suggests Buying Twitter at His Original Price]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html"/>
+        <updated>2022-10-04T16:53:06.000Z</updated>
+        <summary type="html"><![CDATA[The billionaire’s surprise move came months after he tried to back out of a $44 billion deal to acquire the company.]]></summary>
+        <author>
+            <name>Kate Conger and Lauren Hirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Suggests Buying Twitter at His Original Price]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html"/>
+        <updated>2022-10-04T16:53:06.000Z</updated>
+        <summary type="html"><![CDATA[The billionaire’s surprise move came months after he tried to back out of a $44 billion deal to acquire the company.]]></summary>
+        <author>
+            <name>Kate Conger and Lauren Hirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florence Pugh Challenges Belief Systems in First Trailer for Psychological Period Drama ‘The Wonder’]]></title>
+        <id>https://www.rollingstone.com/?p=1234604979</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/florence-pugh-the-wonder-trailer-1234604979/"/>
+        <updated>2022-10-04T16:51:27.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix film will hit theaters on Nov. 2 before landing on the streaming service on Nov. 16]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Freezes Corporate Hiring in Its Retail Business]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html"/>
+        <updated>2022-10-04T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[It is the latest tech company to pump the brakes on hiring amid growing economic concerns.]]></summary>
+        <author>
+            <name>Karen Weise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Freezes Corporate Hiring in Its Retail Business]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html"/>
+        <updated>2022-10-04T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[It is the latest tech company to pump the brakes on hiring amid growing economic concerns.]]></summary>
+        <author>
+            <name>Karen Weise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free trade agreement with India won't be 'free-for-all deal', says UK minister]]></title>
+        <id>https://timesofindia.indiatimes.com/india/free-trade-agreement-with-india-wont-be-free-for-all-deal-says-uk-minister/articleshow/94649913.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/free-trade-agreement-with-india-wont-be-free-for-all-deal-says-uk-minister/articleshow/94649913.cms"/>
+        <updated>2022-10-04T16:49:33.000Z</updated>
+        <summary type="html"><![CDATA[The free trade agreement (FTA) being negotiated with India won't be a "free for all deal" but something that is good for both countries and not a particular sector, the UK government cautioned on Tuesday as a Diwali deadline set at the prime ministerial level for the pact approaches.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free trade agreement with India won't be 'free-for-all deal': UK]]></title>
+        <id>https://timesofindia.indiatimes.com/india/free-trade-agreement-with-india-wont-be-free-for-all-deal-says-uk-minister/articleshow/94649913.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/free-trade-agreement-with-india-wont-be-free-for-all-deal-says-uk-minister/articleshow/94649913.cms"/>
+        <updated>2022-10-04T16:49:33.000Z</updated>
+        <summary type="html"><![CDATA[The free trade agreement (FTA) being negotiated with India won't be a "free for all deal" but something that is good for both countries and not a particular sector, the UK government cautioned on Tuesday as a Diwali deadline set at the prime ministerial level for the pact approaches.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combination flu and COVID-19 tests are in the works for virus season]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387248/flu-covid-test-combo-fda-clue-lucira</id>
+        <link href="https://www.theverge.com/2022/10/4/23387248/flu-covid-test-combo-fda-clue-lucira"/>
+        <updated>2022-10-04T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Cue has a COVID-19 test and wants to add on a flu test. | Photo by Victoria Song / The Verge
+    
+
+  
+The past two years have seen relatively quiet flu seasons — a welcome development as hospitals and the public health system focused on managing waves of COVID-19. But experts are expecting flu to make a comeback this winter, and people will need to differentiate between the two illnesses with very similar symptoms. 
+At-home testing companies are asking the Food and Drug Administration to authorize combination tests that can scan for both COVID-19 and influenza in a single sample. Lucira Health asked the agency to sign off on its dual test in May, and Cue Health just submitted its request Tuesday. The FDA authorized a combination test made by Labcorp in May, but that test requires people to…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever]]></title>
+        <id>https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates</id>
+        <link href="https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates"/>
+        <updated>2022-10-04T16:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Kristen Radtke / The Verge; Getty Images
+    
+
+
+  
+Stay up to date with the latest in the Musk-Twitter saga
+ On Thursday, April 14th, Elon Musk announced an offer to buy Twitter for $54.20 a share. On April 25th, Twitter accepted the deal. By July 8th, Musk wanted out. Then, Twitter sued Musk. For a while, it appeared we were headed for Chancery Court in Delaware for a five-day trial in October that will determine who owns Twitter. Then, at the last moment, it appeared Musk might just buy Twitter and put an end to all this.
+This is a huge story with a lot of fast-moving parts to it. It’s also a story that will likely stretch out over the next few months, maybe even longer. So we thought we’d put together a guide for you, our readers, that can be updated as things continue to unfold. Becaus…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use the Apple Watch Ultra’s siren]]></title>
+        <id>https://www.theverge.com/23387063/apple-watch-ultra-siren-how-to</id>
+        <link href="https://www.theverge.com/23387063/apple-watch-ultra-siren-how-to"/>
+        <updated>2022-10-04T16:45:15.000Z</updated>
+        <summary type="html"><![CDATA[The Apple Watch Ultra introduces a siren for emergencies. | Illustration by Samar Haddad / The Verge
+    
+
+  
+Apple includes excellent safety features on all its Apple Watch models, but there’s one that's exclusive to the new Apple Watch Ultra: the siren. 
+The siren is designed to draw attention to yourself if you’re ever injured or lost when exploring. To do that, Apple included a second speaker on the Ultra that can emit an 86db sound with a range of up to 600 feet. When activated, the siren switches between two sound patterns that sound similar to distress and well-known SOS signals. 
+Photo by Amelia Holowaty Krales / The Verge
+      You’ll be able to see how much battery percentage you have left when you activate the siren.
+  
+Once you’ve turned the siren on, your watch screen will sho…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kim Kardashian knows when to drop a podcast]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387237/kim-kardashian-podcast-serial-audacy-cadence13-maddow-toast</id>
+        <link href="https://www.theverge.com/2022/10/4/23387237/kim-kardashian-podcast-serial-audacy-cadence13-maddow-toast"/>
+        <updated>2022-10-04T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by James Devaney / GC Images
+    
+
+  
+We have lots of juicy stuff to dig into today — Audacy is reportedly looking to sell Cadence13 to save its NYSE listing, The Morning Toast gets a new ad sales partner and a rebrand, and Rachel Maddow joins the growing list of talent ditching TV for podcasting. Oh, and Kim K dropped her podcast the same day the SEC dropped the news that she had agreed to a million-dollar settlement for charges that she illegally promoted crypto.
+But first, self-promotion!
+It’s the last day to enter the Hot Pod Summit lottery
+Quick reminder: today is the last day to put your name in the lottery for an invitation to Hot Pod Summit LA. The event is coming up soon, and I’m excited to see you all there.
+Report: Audacy is exploring the sale of Cadence13
+Audacy is in fin…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highnote launches a collaboration platform for musicians and podcasters offering voice notes, polls and more]]></title>
+        <id>https://techcrunch.com/?p=2418312</id>
+        <link href="https://techcrunch.com/2022/10/04/highnote-launches-a-collaboration-platform-for-musicians-and-podcasters-offering-voice-notes-polls-and-more/"/>
+        <updated>2022-10-04T16:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Highnote launched to the public today, allowing musicians, podcasters, and other creators to collaborate on audio files by recording voice notes directly over a track, making timestamped reactions, and creating polls to get opinions. Highnote also announced its pre-seed funding round of $1.7 million. The new platform aims to be a space for musicians, podcasters […]
+Highnote launches a collaboration platform for musicians and podcasters offering voice notes, polls and more by Lauren Forristal originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red is working on a new franchise and new Witcher and Cyberpunk games]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387206/cyberpunk-witcher-new-games-cd-projekt-red-cdpr-franchise-hadar-multiplayer</id>
+        <link href="https://www.theverge.com/2022/10/4/23387206/cyberpunk-witcher-new-games-cd-projekt-red-cdpr-franchise-hadar-multiplayer"/>
+        <updated>2022-10-04T16:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Johnny Silverhand in Cyberpunk 2077 | Image: CD Projekt Red
+    
+
+  
+CD Projekt Red (CDPR) is working on more games set in The Witcher and Cyberpunk universes, as well as a brand new franchise that’s being created entirely in-house, the studio announced in a strategy update on Tuesday.
+Let’s start first with what was announced for The Witcher. CDPR announced what it called a “new saga” in March, and we now know that the first game in what is planned to be a trilogy will be codenamed “Polaris.” The game is set to be developed using Unreal Engine 5. CDPR plans to deliver the games over a six-year period “starting from the release of Polaris,” Adam Kiciński, joint CEO of CDPR, said in a video. 
+There are two other new Witcher games in the works, too. One, referred to as “Canis Majoris,” is a …]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other Ever Afters makes fairy tales subversive, kinder, and a whole lot queerer]]></title>
+        <id>https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview</id>
+        <link href="https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview"/>
+        <updated>2022-10-04T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Mel Gillman/Random House
+    
+
+
+  
+Mel Gillman explains how a hit online series became a book to rival Grimms’ fairy tales
+ In Other Ever Afters, Melanie Gillman’s new graphic novel collection of fairy tales, queer people find happiness, community, and kindness. It feels almost revolutionary, updating fairy tales’ traditional mores, using fantasy and folklore as a space to imagine something better than the familiar good-versus-evil binary that often defines fairy tales as we know them today. Beautifully illustrated and wholly unique, Other Ever Afters feels like a heartfelt yet funny antidote to the usual straight, whitewashed happily ever afters. As Gillman told Polygon in an interview to celebrate the book’s release, that’s exactly the point. 
+Other Ever Afters began life in 2016,…]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Marilyn Monroe Movie Gets Basically Everything Wrong About Abortion]]></title>
+        <id>qjkw75</id>
+        <link href="https://www.vice.com/en_us/article/qjkw75/marilyn-monroe-movie-abortion"/>
+        <updated>2022-10-04T16:35:29.000Z</updated>
+        <summary type="html"><![CDATA[Netflix’s Blonde also features a talking CGI fetus. Yes, really.]]></summary>
+        <author>
+            <name>Anya Zoledziowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kremlin Really Loved Elon Musk's Plan to End the War in Ukraine by Ceding Territory]]></title>
+        <id>5d3w7a</id>
+        <link href="https://www.vice.com/en_us/article/5d3w7a/the-kremlin-really-loved-elon-musks-plan-to-end-the-war-in-ukraine-by-ceding-territory"/>
+        <updated>2022-10-04T16:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Musk floated the idea to give Crimea to Russia in a tweet that earned him a "fuck off" from a Ukrainian diplomat and praise from Putin's spokesperson.]]></summary>
+        <author>
+            <name>Edward Ongweso Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mulayam Singh Yadav’s health condition still ‘critical’, say doctors]]></title>
+        <id>https://timesofindia.indiatimes.com/city/lucknow/mulayam-singh-yadavs-health-condition-still-critical-say-doctors/articleshow/94649414.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/lucknow/mulayam-singh-yadavs-health-condition-still-critical-say-doctors/articleshow/94649414.cms"/>
+        <updated>2022-10-04T16:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Samajwadi Party patriarch Mulayam Singh Yadav’s health condition on Tuesday was described by the doctors attending him as “critical”. The 80-year-old veteran politician complained of breathlessness on October 2 after which he was put on ventilator support and diagnosed with kidney infection at Gurugram’s Medanta hospital.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Evangelion Film's Blu-ray Disc/DVD Tease New Prologue to Previous Film]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190492</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-04/final-evangelion-film-blu-ray-disc-dvd-tease-new-prologue-to-previous-film/.190492"/>
+        <updated>2022-10-04T16:32:45.000Z</updated>
+        <summary type="html"><![CDATA["Evangelion: 3.0 (-46h)" bonus video debuts on home video  on March 8]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk proposes to follow through on Twitter deal, reports say]]></title>
+        <id>https://techcrunch.com/?p=2418424</id>
+        <link href="https://techcrunch.com/2022/10/04/elon-musk-proposes-to-follow-through-on-twitter-deal-reports-say/"/>
+        <updated>2022-10-04T16:31:19.000Z</updated>
+        <summary type="html"><![CDATA[After doing whatever he could to back out of his bid to buy Twitter for $44 billion, Elon Musk proposed to move forward with his initial offer of buying Twitter at $54.20 per share, reports say. Musk proposed this in a letter sent to Twitter, according to Bloomberg’s report. The Tesla and SpaceX CEO was slated […]
+Elon Musk proposes to follow through on Twitter deal, reports say by Amanda Silberling originally published on TechCrunch]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney+ and Star+ relaunch as native apps on PlayStation 5 for users to stream in 4K]]></title>
+        <id>https://techcrunch.com/?p=2418405</id>
+        <link href="https://techcrunch.com/2022/10/04/disney-plus-native-app-on-playstation5-for-users-to-stream-in-4k/"/>
+        <updated>2022-10-04T16:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Disney+ today relaunched as a native app on PlayStation 5 (PS5) consoles, which now supports PS5 capabilities like 4K HDR (High-Dynamic Range) streaming. The company also relaunched Star+, Disney+’s streaming service for Latin American subscribers. PS5 users experienced various issues with the old Disney+ app, which was designed for PS4 compatibility. Subscribers reported crashes, log-in […]
+Disney+ and Star+ relaunch as native apps on PlayStation 5 for users to stream in 4K by Lauren Forristal originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time For A New Obsession: Official Pokémon Cards With Only Crochet Art]]></title>
+        <id>1849614423</id>
+        <link href="https://kotaku.com/pokemon-tcg-cards-asako-ito-nintendo-silver-tempest-1849614423"/>
+        <updated>2022-10-04T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently celebrated the extraordinary Pokémon TCG card art of Yuka Morii, and her immaculate clay models photographed in nature. But it would be remiss to stop there, and while pretty much every artist working on the cards deserves recognition, our attention is next drawn to Asako Ito and her 3D crochet Pokémon.…
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitman 3’s Freelancer mode delayed again, but you’ll have the chance to try it soon]]></title>
+        <id>https://www.polygon.com/23387160/hitman-3-freelance-mode-delay-technical-test</id>
+        <link href="https://www.polygon.com/23387160/hitman-3-freelance-mode-delay-technical-test"/>
+        <updated>2022-10-04T16:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Image: IO Interactive
+    
+
+  
+IO Interactive will host a closed technical test early next month
+ Those of you eagerly awaiting the launch of Hitman 3’s Freelancer mode will have to wait just a little bit longer. In a blog post published on Tuesday, developer IO Interactive announced that the launch of Freelancer, the upcoming rogue-like single-player mode for Hitman 3, will be pushed back from the “second half of 2022” to January 2023. 
+That’s the bad news. The good news is that next month, IO Interactive will select a handful of Hitman 3 players on Steam for a “Closed Technical Test” of the new mode, which will allow players to once again assume the role of master assassin Agent 47 as they build their own customizable safe house and tour across the world hunting down master criminals.
+“The Closed Technical Test is all about putting our servers under stress to prepare for launch,” the blog post states. “We also want to get an early idea of player behavior and do some economy / XP balancing in a real-life scenario on a big scale. These are the final checkboxes we need to tick off before we launch.”
+Freelancer mode was originally slated to be released in spring 2022 before being delayed to the “second half of 2022.” IO Interactive has released several free updates to Hitman 3 since it first launched in January 2021, including the game’s first post-launch map back in July.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norway pipeline to Poland temporarily taps gas from Germany]]></title>
+        <id>https://www.thehindu.com/news/international/norway-pipeline-to-poland-temporarily-taps-gas-from-germany/article65970336.ece</id>
+        <link href="https://www.thehindu.com/news/international/norway-pipeline-to-poland-temporarily-taps-gas-from-germany/article65970336.ece"/>
+        <updated>2022-10-04T16:22:58.000Z</updated>
+        <summary type="html"><![CDATA[Baltic Pipe is a joint project between Danish system operator Energinet and Poland's Gaz-System]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy casualties feared as bus falls into gorge in Uttarakhand's Pauri district]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bus-carrying-nearly-50-people-falls-into-gorge-in-uttarakhands-pauri-garhwal/articleshow/94649577.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bus-carrying-nearly-50-people-falls-into-gorge-in-uttarakhands-pauri-garhwal/articleshow/94649577.cms"/>
+        <updated>2022-10-04T16:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Heavy casualties were feared as a bus carrying around 45-50 members of a marriage party fell into a 500-metre-deep gorge in the Bironkhal area of Uttarakhand's Pauri district on Tuesday evening, the disaster control room here said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy casualties feared as bus falls into gorge in Uttarakhand]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bus-carrying-nearly-50-people-falls-into-gorge-in-uttarakhands-pauri-garhwal/articleshow/94649577.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bus-carrying-nearly-50-people-falls-into-gorge-in-uttarakhands-pauri-garhwal/articleshow/94649577.cms"/>
+        <updated>2022-10-04T16:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Heavy casualties were feared as a bus carrying around 45-50 members of a marriage party fell into a 500-metre-deep gorge in the Bironkhal area of Uttarakhand's Pauri district on Tuesday evening, the disaster control room here said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Musk to go ahead with $54.20 a share Twitter deal']]></title>
+        <id>https://timesofindia.indiatimes.com/business/international-business/musk-to-go-ahead-with-54-20-a-share-twitter-deal-bloomberg-reporter/articleshow/94649558.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/international-business/musk-to-go-ahead-with-54-20-a-share-twitter-deal-bloomberg-reporter/articleshow/94649558.cms"/>
+        <updated>2022-10-04T16:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Billionaire Elon Musk is expected to propose going ahead with his takeover of Twitter Inc at $54.20 per share, a Bloomberg news reporter tweeted on Tuesday. Musk agreed in April to buy Twitter for $44 billion, but within weeks said the number of bot accounts was much higher than Twitter's estimate of less than 5% of users.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hard Fork’: A New Technology Podcast from The New York Times]]></title>
+        <id>https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html"/>
+        <updated>2022-10-04T16:11:06.000Z</updated>
+        <summary type="html"><![CDATA[A weekly look at the future that’s already here. Listen to the trailer of our new tech podcast.]]></summary>
+        <author>
+            <name>The ‘Hard Fork’ Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaron Judge Home Run No. 62 Estimate: 22 Solid Pitches Left]]></title>
         <id>https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html</id>
@@ -25,6 +537,27 @@
 Zipline’s drones to deliver medicine in Salt Lake City area by Rebecca Bellan originally published on TechCrunch]]></summary>
         <author>
             <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four more Witcher games are in the works, CD Projekt says]]></title>
+        <id>https://www.polygon.com/23387244/the-witcher-new-trilogy-spinoffs-cd-projekt-red-games-announced</id>
+        <link href="https://www.polygon.com/23387244/the-witcher-new-trilogy-spinoffs-cd-projekt-red-games-announced"/>
+        <updated>2022-10-04T16:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Image: CD Projekt Red
+    
+
+  
+Wind’s howling... for more sequels  
+ CD Projekt Red announced Tuesday that, in addition to the previously announced Witcher sequel being developed via Unreal Engine 5, a total of four further Witcher games is set to released in the future. 
+The first post-The Witcher 3 game, now codenamed “Polaris,” will be followed by two more sequels as part of a trilogy. All three games will be delivered within a six-year period after the release of the first, according to a CDPR strategy document. Two additional Witcher games, codenamed “Sirius” and “Canis Majoris,” will be created by The Flame in the Flood developer The Molasses Flood and an unnamed external studio headed by “experienced developers who have worked on past Witcher games,” respectively.
+
+
+Not much is known about “Sirius” or “Canis Majoris” at this time. The former title is set in The Witcher universe and will feature multiplayer gameplay on top of a single-player experience, including a story-driven campaign with quests. The latter is described as a “full-fledged Witcher game.” There are several studios that could fit the description of “Canis Majoris”’ developer — including Rebel Wolves, which was founded by Witcher 3 director Konrad Tomaszkiewicz following his resignation from the CD Projekt Red, though nothing has been confirmed.
+Both games will be separate from the new Witcher saga set to begin with the release of “Polaris.”
+In addition, CD Projekt Red announced a sequel to Cyberpunk 2077.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +602,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dead Space Remake Shows Off Its First Gameplay]]></title>
+        <id>9a824d29-a092-4aa8-a28e-8175861be609</id>
+        <link href="https://www.ign.com/articles/dead-space-remake-gameplay-trailer-released"/>
+        <updated>2022-10-04T16:04:24.000Z</updated>
+        <summary type="html"><![CDATA[EA Motive has unveiled a new trailer for its Dead Space remake, teasing some of the nightmarish horrors that await players in the sci-fi survival horror game.]]></summary>
+        <author>
+            <name>Adele Ankers-Range</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matter’s Internet of Things standard, certification ready for developers]]></title>
         <id>https://techcrunch.com/?p=2418342</id>
         <link href="https://techcrunch.com/2022/10/04/matters-internet-of-things-standard/"/>
@@ -110,6 +653,15 @@ If you need to change your pone number, you’ll click Update inside the phone n
         <summary type="html"><![CDATA[India News: NEW DELHI: Mumbai-based A B General Electoral Trust gave all of its Rs 10 crore donations in 2021-22 to the BJP, while the Rs 50 lakh contribution rou.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High on Life: 12 Minutes of Zephyr Paradise Gameplay – IGN First]]></title>
+        <id>5e39bf78-7e19-41c8-912f-4d214dea1268</id>
+        <link href="https://www.ign.com/articles/high-on-life-12-minutes-of-zephyr-paradise-gameplay-ign-first"/>
+        <updated>2022-10-04T16:00:43.000Z</updated>
+        <author>
+            <name>Ryan McCaffrey</name>
         </author>
     </entry>
     <entry>
@@ -563,6 +1115,16 @@ Edtech’s honeymoon might be over, but expect a second boom by Ram Iyer origina
 Xembly raises cash to develop an AI assistant for corporate meetings by Kyle Wiggers originally published on TechCrunch]]></summary>
         <author>
             <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Save America’s Coasts, Don’t Always Rebuild Them]]></title>
+        <id>https://www.nytimes.com/2022/10/04/opinion/hurricane-ian-coast-rebuilding.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/opinion/hurricane-ian-coast-rebuilding.html"/>
+        <updated>2022-10-04T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Taxpayers too often subsidize irresponsible development, with tragic results.]]></summary>
+        <author>
+            <name>Robert S. Young</name>
         </author>
     </entry>
     <entry>
@@ -2285,6 +2847,16 @@ Ahead of its January 2023 premiere and confirmed simulcast on Crunchyroll, the m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[California Is Actually Making Progress on Building More Housing]]></title>
+        <id>https://www.nytimes.com/2022/10/04/opinion/california-housing-crisis.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/opinion/california-housing-crisis.html"/>
+        <updated>2022-10-04T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[The state is making it harder for local governments to block construction.]]></summary>
+        <author>
+            <name>Binyamin Appelbaum</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Risking Everything to Offer Abortions Across State Lines]]></title>
         <id>https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</id>
         <link href="https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html"/>
@@ -2431,6 +3003,16 @@ Nigerian proptech Spleet gets $2.8M led by MaC VC to scale its property manageme
         <link href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-covid-symptom-is-now-more-dominant-than-fever-or-loss-of-smell-and-taste/photostory/94635850.cms"/>
         <updated>2022-10-04T08:30:00.000Z</updated>
         <summary type="html"><![CDATA[While India sees 1,968 new COVID cases, the lowest daily tally since May, cases in the United Kingdom rise rapidly, hinting at a fresh wave of infections.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost to PM Modi's 'India-made' plan: Apple iPhone exports from India top $1bn in 5 months]]></title>
+        <id>https://timesofindia.indiatimes.com/gadgets-news/apple-iphone-exports-from-india-doubling-in-boon-to-pm-modis-plan/articleshow/94639140.cms</id>
+        <link href="https://timesofindia.indiatimes.com/gadgets-news/apple-iphone-exports-from-india-doubling-in-boon-to-pm-modis-plan/articleshow/94639140.cms"/>
+        <updated>2022-10-04T08:27:37.000Z</updated>
+        <summary type="html"><![CDATA[At the current rate, outbound shipments of India-made iPhones, mainly to Europe and the Middle East, are set to reach $2.5 billion in the 12 months through March 2023, the people said. That's almost double the $1.3 billion worth of iPhones India exported in the year through March 2022, the people said, asking not to be named as the data isn't public.]]></summary>
         <author>
             <name>Times of India</name>
         </author>
@@ -2943,6 +3525,16 @@ After Nintendo revealed back in July that it was buying CG animation house Dyna
         <summary type="html"><![CDATA[Understand international affairs from the Indian perspective with View from India]]></summary>
         <author>
             <name>Ananth Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How China's civil society collapsed under Xi Jinping]]></title>
+        <id>https://timesofindia.indiatimes.com/world/china/how-chinas-civil-society-collapsed-under-xi-jinping/articleshow/94632898.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/china/how-chinas-civil-society-collapsed-under-xi-jinping/articleshow/94632898.cms"/>
+        <updated>2022-10-04T04:09:58.000Z</updated>
+        <summary type="html"><![CDATA[China News: BEIJING: Human rights activist Charles remembers a time when civil society was blossoming in China, and he could dedicate his time to helping improve .]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -4067,6 +4659,16 @@ Prosus cancels $4.7 billion acquisition of India’s BillDesk by Manish Singh or
         <summary type="html"><![CDATA[The CBI on Monday apprehended an expert Russian hacker who is supposedly the mastermind of the JEE (Mains) paper leak reported last year. Mikhail Shargin had a look-out circular against him and was detained at Delhi airport immigration upon arrival from Kazakhstan.  He was brought for questioning to the agency’s headquarters and was likely to be arrested later in the night, sources said.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As ‘Come From Away’ Closes, a Newfoundlander Heads Back Home]]></title>
+        <id>https://www.nytimes.com/2022/10/03/theater/come-from-away-petrina-bromley.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/theater/come-from-away-petrina-bromley.html"/>
+        <updated>2022-10-03T21:45:03.000Z</updated>
+        <summary type="html"><![CDATA[The Canadian actress Petrina Bromley has been in the cast during the show’s surprise hit run on Broadway. It resonated because “it’s about kindness,” she says.]]></summary>
+        <author>
+            <name>Michael Paulson</name>
         </author>
     </entry>
     <entry>
@@ -5283,6 +5885,16 @@ The chemtech drake was one of those experiments, and in its original form, it wo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Cop Show Enters the ‘Defund’ Era]]></title>
+        <id>https://www.nytimes.com/2022/10/03/arts/television/cop-shows-after-george-floyd.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/arts/television/cop-shows-after-george-floyd.html"/>
+        <updated>2022-10-03T17:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Widespread concerns over policing after the killing of George Floyd did not end the police drama as we know it. But shows are evolving to reflect the new climate.]]></summary>
+        <author>
+            <name>Marc Tracy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All the Wildest Things From the FBI’s 40 Year Aretha Franklin Investigation]]></title>
         <id>xgy493</id>
         <link href="https://www.vice.com/en_us/article/xgy493/fbi-aretha-franklin-investigation"/>
@@ -6450,6 +7062,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is Teeth Whitening Safe? What to Know and Products to Use]]></title>
+        <id>https://www.nytimes.com/2022/10/03/well/live/teeth-whitening-safety.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/well/live/teeth-whitening-safety.html"/>
+        <updated>2022-10-03T14:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Many products claim to lighten and brighten your teeth. Here’s what the experts say about them.]]></summary>
+        <author>
+            <name>Hannah Seo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bharat Jodo Yatra: Rahul Gandhi slams BJP, calls Karnataka govt 'most corrupt']]></title>
         <id>https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-rahul-gandhi-slams-bjp-calls-karnataka-govt-most-corrupt/articleshow/94625019.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/bharat-jodo-yatra-rahul-gandhi-slams-bjp-calls-karnataka-govt-most-corrupt/articleshow/94625019.cms"/>
@@ -6519,6 +7141,16 @@ Digital concerts are nothing new, of course. But starting with Travis Scott’s 
         <summary type="html"><![CDATA["About five minutes after I got canceled for saying the word ‘whore’ in a song, all of TikTok decided that it was ok," said Williams of the song. "Make it make sense."]]></summary>
         <author>
             <name>CT Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Medical Test Results Are Available. But Do You Want to View Them?]]></title>
+        <id>https://www.nytimes.com/2022/10/03/well/live/medical-test-results-cures-act.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/well/live/medical-test-results-cures-act.html"/>
+        <updated>2022-10-03T14:09:22.000Z</updated>
+        <summary type="html"><![CDATA[The 21st Century Cures Act gave patients easy access to their health information. Now, some diagnoses delivered without context are causing high anxiety.]]></summary>
+        <author>
+            <name>Danielle Friedman</name>
         </author>
     </entry>
     <entry>
@@ -13988,6 +14620,16 @@ On September 23, Truss’s Chancellor of the Exchequer, Kwasi Kwarteng, introduc
         <summary type="html"><![CDATA[Ichijinsha published prologue chapter on Wednesday]]></summary>
         <author>
             <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make Friends As An Adult]]></title>
+        <id>https://www.nytimes.com/2022/10/01/well/live/how-to-make-friends-adult.html</id>
+        <link href="https://www.nytimes.com/2022/10/01/well/live/how-to-make-friends-adult.html"/>
+        <updated>2022-10-01T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[A friendship expert shares strategies for finding connection in a lonely, disconnected world.]]></summary>
+        <author>
+            <name>Catherine Pearson</name>
         </author>
     </entry>
     <entry>
