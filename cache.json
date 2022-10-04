@@ -2649,6 +2649,86 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html",
+          "author": "Motoko Rich and Choe Sang-Hun",
+          "description": "The test-firing was the latest in a flurry of launches by the North. The missile flew over Japan and landed in the Pacific.",
+          "link": "https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html",
+          "publishedOn": "2022-10-04T00:57:15.000Z",
+          "wordCount": null,
+          "title": "North Korea Fires Missile Over Japan in Major Escalation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/trump-alex-cannon-archives.html",
+          "author": "Maggie Haberman and Michael S. Schmidt",
+          "description": "When asked to say the former president had no more government documents after the return of 15 boxes in January, the lawyer, Alex Cannon, would not do so, uncertain of whether it was true.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/trump-alex-cannon-archives.html",
+          "publishedOn": "2022-10-04T00:55:54.000Z",
+          "wordCount": null,
+          "title": "Lawyer Declined Trump Request to Tell Archives All Material Was Returned",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/world/europe/russia-disarray-ukraine.html",
+          "author": "Andrew E. Kramer, Carlotta Gall and Anton Troianovski",
+          "description": "Confusion and recriminations marked the Russian efforts to call up draftees and claim sovereignty over Ukrainian territory, as well as the Russian response to battlefield setbacks.",
+          "link": "https://www.nytimes.com/2022/10/03/world/europe/russia-disarray-ukraine.html",
+          "publishedOn": "2022-10-04T00:08:12.000Z",
+          "wordCount": null,
+          "title": "In Retreat on Ukrainian Fronts, Russia Shows Signs of Disarray",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/opinion/boys-men-crisis.html",
+          "author": "Michelle Goldberg",
+          "description": "A new book has the right diagnosis, but its solutions are too small.",
+          "link": "https://www.nytimes.com/2022/10/03/opinion/boys-men-crisis.html",
+          "publishedOn": "2022-10-03T23:42:32.000Z",
+          "wordCount": null,
+          "title": "Boys and Men Are in Crisis Because Society Is",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html",
+          "author": "David E. Sanger and William J. Broad",
+          "description": "President Vladimir V. Putin of Russia has 2,000 small nuclear weapons, but their utility on the battlefield may not be worth the longer-term costs.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html",
+          "publishedOn": "2022-10-03T23:39:04.000Z",
+          "wordCount": null,
+          "title": "Russia’s Small Nuclear Arms: A Risky Option for Putin and Ukraine Alike",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html",
+          "author": "Adam Liptak and David McCabe",
+          "description": "The family of a student killed in terrorist attacks challenged a 1996 law that gives websites immunity for suits based on their users’ posts.",
+          "link": "https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html",
+          "publishedOn": "2022-10-03T23:20:29.000Z",
+          "wordCount": null,
+          "title": "Supreme Court Takes Up Challenge to Social Media Platforms’ Shield",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html",
+          "author": "Blake Hounshell",
+          "description": "The justices will soon hear major cases on voting rights, affirmative action and partisan gerrymandering. Here’s a preview.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html",
+          "publishedOn": "2022-10-03T23:19:57.000Z",
+          "wordCount": null,
+          "title": "Three Huge Supreme Court Cases That Could Change America",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/sports/soccer/soccer-abuse-report-takeaways.html",
+          "author": "Jesus Jiménez",
+          "description": "The report focused on three coaches who have been accused of abuse and the lack of action by leaders at U.S. Soccer and the National Women’s Soccer League.",
+          "link": "https://www.nytimes.com/2022/10/03/sports/soccer/soccer-abuse-report-takeaways.html",
+          "publishedOn": "2022-10-03T22:52:03.000Z",
+          "wordCount": null,
+          "title": "6 Takeaways From the Report on Sexual Misconduct in Women’s Soccer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/us/politics/turner-house-intelligence-committee.html",
           "author": "Julian E. Barnes",
           "description": "If Republicans take Congress, Representative Michael R. Turner says, he wants to focus on oversight and national security issues. But he is likely to face pressure from his own party.",
@@ -8940,6 +9020,16 @@
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/theater/cost-of-living-review.html",
+          "author": "Maya Phillips",
+          "description": "Subtle connections bridge the worlds of two caregivers in Martyna Majok’s 2018 Pulitzer Prize-winning play, making its Broadway debut.",
+          "link": "https://www.nytimes.com/2022/10/03/theater/cost-of-living-review.html",
+          "publishedOn": "2022-10-04T01:00:04.000Z",
+          "wordCount": null,
+          "title": "‘Cost of Living’ Review: Worth Its Weight in Gold",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/theater/mud-drowning-review.html",
           "author": "Maya Phillips",
           "description": "A new production of two of María Irene Fornés’s short plays, “Mud” and “Drowning,” tries to accentuate the weirdness of the playwright’s worlds but too often overreaches.",
@@ -12330,6 +12420,76 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417836",
+          "author": "Amanda Silberling",
+          "description": "Gaming giant Activision Blizzard unlawfully retaliated against workers at Raven Software who formed a union, the National Labor Relations Board found. The quality assurance (QA) department at subsidiary Raven Software, who mostly work on “Call of Duty,” announced that they would form a union in January. Activision Blizzard sought to block the union, reasoning that […]\nActivision Blizzard illegally withheld raises from unionizing workers, labor board finds by Amanda Silberling originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/",
+          "publishedOn": "2022-10-04T01:04:01.000Z",
+          "wordCount": 7513,
+          "title": "Activision Blizzard illegally withheld raises from unionizing workers, labor board finds",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1234271856.jpg?resize=1200,938"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417728",
+          "author": "Harri Weber",
+          "description": "Google is spinning up a new, online-only startup accelerator centered around the elusive circular economy. The effort is Google’s latest to help environmentally focused startups grow, while potentially hooking them on its cloud products in the process. In the broadest of strokes, the circular economy represents a colossal shift in how humanity makes and uses stuff. […]\nDrowning in trash: Google opens applications for circular-economy accelerator by Harri Weber originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/google-accelerator-circular-economy-startups-trash/",
+          "publishedOn": "2022-10-04T01:02:11.000Z",
+          "wordCount": 6902,
+          "title": "Drowning in trash: Google opens applications for circular-economy accelerator",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2416859",
+          "author": "Jagmeet Singh",
+          "description": "Zenskar, a startup that is aiming to help SaaS companies automate their billing workflows, has raised $3.5 million in a seed funding round. Headquartered in New York and Bengaluru, Zenskar is building a platform for SaaS companies to generate bills for their complex pricing plans — whether they are based on usage-based pricing, subscriptions, nuanced […]\nBessemer backs SaaS platform that automates billing workflows by Jagmeet Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/saas-billing-platform-zenskar-funding-bessemer-ventures-partners/",
+          "publishedOn": "2022-10-04T01:00:11.000Z",
+          "wordCount": 6965,
+          "title": "Bessemer backs SaaS platform that automates billing workflows",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/billing-image-pexels.jpg"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417539",
+          "author": "Connie Loizos",
+          "description": "Elon Musk today waded into the Ukraine-Russia war with a peace plan that was . . .not very well-received. It may have been a tactic to distract industry watchers from Tesla’s third-quarter vehicle production and delivery numbers for 2022, which fell short of analysts’ expectations. But it was a knuckle-headed tactic if so, and one […]\nElon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you” by Connie Loizos originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/",
+          "publishedOn": "2022-10-04T00:58:27.000Z",
+          "wordCount": 7738,
+          "title": "Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you”",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1239960989.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417515",
+          "author": "Natasha Lomas",
+          "description": "The UK government has confirmed another pause to draft digital legislation under new prime minister Liz Truss’ reshuffled cabinet — saying the data reform bill it had introduced in recent months is on hold while ministers take another look. The paused bill contained a package of amendments to the UK’s data protection regime, which remains based […]\nUK pauses data reform bill to rethink how to replace GDPR by Natasha Lomas originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/uk-data-reform-bill-replace-gdpr/",
+          "publishedOn": "2022-10-04T00:50:59.000Z",
+          "wordCount": 10857,
+          "title": "UK pauses data reform bill to rethink how to replace GDPR",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1236495668.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417730",
+          "author": "Kyle Wiggers",
+          "description": "Naver, the South Korean search giant, today announced it plans to acquire secondhand apparel marketplace Poshmark for $1.2 billion in cash. The deal values publicly-traded Poshmark’s shares at $17.90 — a 15% premium over today’s closing price — and the companies expect it to close by Q1 2023, subject to approval by Poshmark stockholders and […]\nNaver agrees to acquire fashion marketplace Poshmark for $1.2B by Kyle Wiggers originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/naver-agrees-to-acquire-fashion-marketplace-poshmark-for-1-2b/",
+          "publishedOn": "2022-10-03T23:27:52.000Z",
+          "wordCount": 8165,
+          "title": "Naver agrees to acquire fashion marketplace Poshmark for $1.2B",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2017/11/poshmark-founders-group-shot_credit-jen-kay.jpg?resize=1200,741"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417716",
+          "author": "Ingrid Lunden",
+          "description": "John Curtius, the prolific Tiger Global senior partner who has been at the center of some of the firm’s biggest deals in the last several years, is leaving the firm, TechCrunch has learned. He will be leaving to start his own firm, which will concentrate investments from Series A to Series C. Curtius will stay […]\nJohn Curtius is leaving Tiger Global to start his own venture fund by Ingrid Lunden originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/john-curtius-is-leaving-tiger-global-to-start-his-own-venture-fund/",
+          "publishedOn": "2022-10-03T23:13:32.000Z",
+          "wordCount": 7407,
+          "title": "John Curtius is leaving Tiger Global to start his own venture fund",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1309660543.jpg?resize=1200,800"
+        },
         {
           "id": "https://techcrunch.com/?p=2417530",
           "author": "Christine Hall",
@@ -19376,6 +19536,16 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1849610414",
+          "author": "Eric Schulkin",
+          "description": "Read more...",
+          "link": "https://kotaku.com/overwatch-2-blizzard-nier-automata-no-mans-sky-switch-1849610414",
+          "publishedOn": "2022-10-03T23:10:00.000Z",
+          "wordCount": 4468,
+          "title": "The Week In Games: Nier Man’s Switch",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/74b740f799d90990aee72f4d8bd5b179.jpg"
+        },
         {
           "id": "1849611715",
           "author": "Isaiah Colbert",
@@ -26826,6 +26996,26 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece",
+          "author": "Reuters",
+          "description": "The Japanese government warned citizens to take cover after its coast guard reported on a suspected missile launch by North Korea",
+          "link": "https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece",
+          "publishedOn": "2022-10-03T23:54:49.000Z",
+          "wordCount": 6344,
+          "title": "North Korea fires missile over Japan, some residents warned to take cover",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5aj7y6/article65968406.ece/alternates/LANDSCAPE_615/Japan_Koreas_Tensions_55788.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/a-timeline-of-burkina-faso-since-the-army-seized-power-in-january-2022/article65967044.ece",
+          "author": "AFP",
+          "description": "Burkina Faso is riding a tumultuous year following the ousting of its civilian elected government in January 2022 and is now witnessing its second self-proclaimed military leadership within eight months",
+          "link": "https://www.thehindu.com/news/international/a-timeline-of-burkina-faso-since-the-army-seized-power-in-january-2022/article65967044.ece",
+          "publishedOn": "2022-10-03T19:47:16.000Z",
+          "wordCount": 6682,
+          "title": "A timeline of Burkina Faso since the army seized power in January 2022",
+          "imageUrl": "https://th-i.thgim.com/public/news/international/7z6ges/article38322574.ece/alternates/LANDSCAPE_615/APTOPIX-Burkina-Faso-Military"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/chinas-passenger-jet-moves-step-closer-to-take-off/article65967095.ece",
           "author": "Ananth Krishnan",
           "description": "Xi calls for more ‘breakthroughs’ in self-sufficiency in critical sectors",
@@ -29052,6 +29242,36 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
+          "author": null,
+          "description": "India News: JAMMU: DGP (prisons) HK Lohia was found murdered in his Jammu residence.",
+          "link": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
+          "publishedOn": "2022-10-04T00:10:47.000Z",
+          "wordCount": 4893,
+          "title": "DG (Prisons) found murdered in Jammu home",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "author": null,
+          "description": "India News: PATNA/MUMBAI: The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will.",
+          "link": "https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "publishedOn": "2022-10-04T00:02:33.000Z",
+          "wordCount": 6102,
+          "title": "It’s BJP vs estranged allies in Bihar and Maharashtra bypolls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629956,width-1070,height-580,imgsize-25404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The average prices of 11 essential food items declined 2-11% in the last one month, the government said on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms",
+          "publishedOn": "2022-10-03T23:08:56.000Z",
+          "wordCount": 5978,
+          "title": "Prices of 11 essential food items have fallen: Food and consumer affairs minister Piyush Goyal",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629728,width-1070,height-580,imgsize-53740,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms",
           "author": null,
@@ -37104,6 +37324,76 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "author": null,
+          "description": "India News: PATNA/MUMBAI: The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will.",
+          "link": "https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "publishedOn": "2022-10-04T00:02:33.000Z",
+          "wordCount": 6102,
+          "title": "It’s BJP vs estranged allies in Bihar and Maharashtra bypolls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629956,width-1070,height-580,imgsize-25404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/ahmedabad/man-files-police-complaint-against-himself/articleshow/94629663.cms",
+          "author": null,
+          "description": "AHMEDABAD: Stray cattle is one of the biggest killers on roads and only last month, the Gujarat high court had directed the authorities to take more s.",
+          "link": "https://timesofindia.indiatimes.com/city/ahmedabad/man-files-police-complaint-against-himself/articleshow/94629663.cms",
+          "publishedOn": "2022-10-03T23:26:36.000Z",
+          "wordCount": 5384,
+          "title": "Man files police complaint against himself",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629794,width-1070,height-580,imgsize-19810,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/business/india-business/in-a-first-rbi-to-tell-government-why-inflation-target-is-breached/articleshow/94629589.cms",
+          "author": null,
+          "description": "India Business News: NEW DELHI: The government and the Reserve Bank of India (RBI) are vowing to do “whatever it takes” to bring retail inflation within the 6% tolerance l.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/in-a-first-rbi-to-tell-government-why-inflation-target-is-breached/articleshow/94629589.cms",
+          "publishedOn": "2022-10-03T23:19:30.000Z",
+          "wordCount": 5934,
+          "title": "In a 1st, RBI to tell govt why inflation target is breached",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629758,width-1070,height-580,imgsize-28874,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The average prices of 11 essential food items declined 2-11% in the last one month, the government said on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms",
+          "publishedOn": "2022-10-03T23:08:56.000Z",
+          "wordCount": 5978,
+          "title": "Prices of 11 essential food items have fallen: Govt",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629728,width-1070,height-580,imgsize-53740,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.",
+          "link": "https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms",
+          "publishedOn": "2022-10-03T22:55:20.000Z",
+          "wordCount": 5732,
+          "title": "Govt set to add 3 ‘missions’ to tackle climate change impact",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629682,width-1070,height-580,imgsize-45348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
+          "author": null,
+          "description": "India News: HYDERABAD: The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani dron.",
+          "link": "https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
+          "publishedOn": "2022-10-03T22:46:46.000Z",
+          "wordCount": 6000,
+          "title": "Grenades seized in Hyd raid airdropped by Pak drones",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629662,width-1070,height-580,imgsize-61208,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Enforcement Directorate on Monday said it has conducted raids against another Chinese app operating platform from Bengaluru offering pa.",
+          "link": "https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms",
+          "publishedOn": "2022-10-03T22:35:04.000Z",
+          "wordCount": 5553,
+          "title": "ED raids Chinese app platform in Bengaluru, seizes Rs 6 crore",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629616,width-1070,height-580,imgsize-21000,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/home/science/study-nails-genetic-region-linked-to-strokes-in-indians/articleshow/94629538.cms",
           "author": null,
           "description": "A genetic region previously known to increase the risk of Alzheimer’s disease in African Americans, has been linked to an increased risk of stroke. Also, a new study published in the journal Nature suggests, the frequency of this genetic region called COBL is higher in persons suffering from the neurological disease in south Asians, including Indian patients.",
@@ -37162,6 +37452,16 @@
           "wordCount": 6521,
           "title": "IAF gets its first home-made light combat helicopter",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629008,width-1070,height-580,imgsize-46190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms",
+          "author": null,
+          "description": "Stating that the matter was discussed during the recent national meet on eight years of MOM, an Isro statement read: “...Despite being designed for a life-span of six months as a technology demonstrator, MOM has lived for about eight years in the Martian orbit with a gamut of significant scientific results on Mars as well as on the Solar corona\".",
+          "link": "https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms",
+          "publishedOn": "2022-10-03T20:09:05.000Z",
+          "wordCount": 5442,
+          "title": "Mars orbiter mission is over, rover now non-recoverable: Isro",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94628962,width-1070,height-580,imgsize-39068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/police-detain-filmmaker-kamaleshwar-mukhopadhyay-amid-protest-kicks-up-a-social-media-storm/articleshow/94627649.cms",

@@ -2,10 +2,257 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T23:12:33.007Z</updated>
+    <updated>2022-10-04T01:05:11.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Activision Blizzard illegally withheld raises from unionizing workers, labor board finds]]></title>
+        <id>https://techcrunch.com/?p=2417836</id>
+        <link href="https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/"/>
+        <updated>2022-10-04T01:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Gaming giant Activision Blizzard unlawfully retaliated against workers at Raven Software who formed a union, the National Labor Relations Board found. The quality assurance (QA) department at subsidiary Raven Software, who mostly work on “Call of Duty,” announced that they would form a union in January. Activision Blizzard sought to block the union, reasoning that […]
+Activision Blizzard illegally withheld raises from unionizing workers, labor board finds by Amanda Silberling originally published on TechCrunch]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning in trash: Google opens applications for circular-economy accelerator]]></title>
+        <id>https://techcrunch.com/?p=2417728</id>
+        <link href="https://techcrunch.com/2022/10/03/google-accelerator-circular-economy-startups-trash/"/>
+        <updated>2022-10-04T01:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Google is spinning up a new, online-only startup accelerator centered around the elusive circular economy. The effort is Google’s latest to help environmentally focused startups grow, while potentially hooking them on its cloud products in the process. In the broadest of strokes, the circular economy represents a colossal shift in how humanity makes and uses stuff. […]
+Drowning in trash: Google opens applications for circular-economy accelerator by Harri Weber originally published on TechCrunch]]></summary>
+        <author>
+            <name>Harri Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bessemer backs SaaS platform that automates billing workflows]]></title>
+        <id>https://techcrunch.com/?p=2416859</id>
+        <link href="https://techcrunch.com/2022/10/03/saas-billing-platform-zenskar-funding-bessemer-ventures-partners/"/>
+        <updated>2022-10-04T01:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Zenskar, a startup that is aiming to help SaaS companies automate their billing workflows, has raised $3.5 million in a seed funding round. Headquartered in New York and Bengaluru, Zenskar is building a platform for SaaS companies to generate bills for their complex pricing plans — whether they are based on usage-based pricing, subscriptions, nuanced […]
+Bessemer backs SaaS platform that automates billing workflows by Jagmeet Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Cost of Living’ Review: Worth Its Weight in Gold]]></title>
+        <id>https://www.nytimes.com/2022/10/03/theater/cost-of-living-review.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/theater/cost-of-living-review.html"/>
+        <updated>2022-10-04T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Subtle connections bridge the worlds of two caregivers in Martyna Majok’s 2018 Pulitzer Prize-winning play, making its Broadway debut.]]></summary>
+        <author>
+            <name>Maya Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you”]]></title>
+        <id>https://techcrunch.com/?p=2417539</id>
+        <link href="https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/"/>
+        <updated>2022-10-04T00:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk today waded into the Ukraine-Russia war with a peace plan that was . . .not very well-received. It may have been a tactic to distract industry watchers from Tesla’s third-quarter vehicle production and delivery numbers for 2022, which fell short of analysts’ expectations. But it was a knuckle-headed tactic if so, and one […]
+Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you” by Connie Loizos originally published on TechCrunch]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea Fires Missile Over Japan in Major Escalation]]></title>
+        <id>https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html"/>
+        <updated>2022-10-04T00:57:15.000Z</updated>
+        <summary type="html"><![CDATA[The test-firing was the latest in a flurry of launches by the North. The missile flew over Japan and landed in the Pacific.]]></summary>
+        <author>
+            <name>Motoko Rich and Choe Sang-Hun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawyer Declined Trump Request to Tell Archives All Material Was Returned]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/politics/trump-alex-cannon-archives.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/politics/trump-alex-cannon-archives.html"/>
+        <updated>2022-10-04T00:55:54.000Z</updated>
+        <summary type="html"><![CDATA[When asked to say the former president had no more government documents after the return of 15 boxes in January, the lawyer, Alex Cannon, would not do so, uncertain of whether it was true.]]></summary>
+        <author>
+            <name>Maggie Haberman and Michael S. Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK pauses data reform bill to rethink how to replace GDPR]]></title>
+        <id>https://techcrunch.com/?p=2417515</id>
+        <link href="https://techcrunch.com/2022/10/03/uk-data-reform-bill-replace-gdpr/"/>
+        <updated>2022-10-04T00:50:59.000Z</updated>
+        <summary type="html"><![CDATA[The UK government has confirmed another pause to draft digital legislation under new prime minister Liz Truss’ reshuffled cabinet — saying the data reform bill it had introduced in recent months is on hold while ministers take another look. The paused bill contained a package of amendments to the UK’s data protection regime, which remains based […]
+UK pauses data reform bill to rethink how to replace GDPR by Natasha Lomas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DG (Prisons) found murdered in Jammu home]]></title>
+        <id>https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms"/>
+        <updated>2022-10-04T00:10:47.000Z</updated>
+        <summary type="html"><![CDATA[India News: JAMMU: DGP (prisons) HK Lohia was found murdered in his Jammu residence.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Retreat on Ukrainian Fronts, Russia Shows Signs of Disarray]]></title>
+        <id>https://www.nytimes.com/2022/10/03/world/europe/russia-disarray-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/world/europe/russia-disarray-ukraine.html"/>
+        <updated>2022-10-04T00:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Confusion and recriminations marked the Russian efforts to call up draftees and claim sovereignty over Ukrainian territory, as well as the Russian response to battlefield setbacks.]]></summary>
+        <author>
+            <name>Andrew E. Kramer, Carlotta Gall and Anton Troianovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s BJP vs estranged allies in Bihar and Maharashtra bypolls]]></title>
+        <id>https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms"/>
+        <updated>2022-10-04T00:02:33.000Z</updated>
+        <summary type="html"><![CDATA[India News: PATNA/MUMBAI: The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s BJP vs estranged allies in Bihar and Maharashtra bypolls]]></title>
+        <id>https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms"/>
+        <updated>2022-10-04T00:02:33.000Z</updated>
+        <summary type="html"><![CDATA[India News: PATNA/MUMBAI: The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea fires missile over Japan, some residents warned to take cover]]></title>
+        <id>https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece</id>
+        <link href="https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece"/>
+        <updated>2022-10-03T23:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese government warned citizens to take cover after its coast guard reported on a suspected missile launch by North Korea]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boys and Men Are in Crisis Because Society Is]]></title>
+        <id>https://www.nytimes.com/2022/10/03/opinion/boys-men-crisis.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/opinion/boys-men-crisis.html"/>
+        <updated>2022-10-03T23:42:32.000Z</updated>
+        <summary type="html"><![CDATA[A new book has the right diagnosis, but its solutions are too small.]]></summary>
+        <author>
+            <name>Michelle Goldberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia’s Small Nuclear Arms: A Risky Option for Putin and Ukraine Alike]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html"/>
+        <updated>2022-10-03T23:39:04.000Z</updated>
+        <summary type="html"><![CDATA[President Vladimir V. Putin of Russia has 2,000 small nuclear weapons, but their utility on the battlefield may not be worth the longer-term costs.]]></summary>
+        <author>
+            <name>David E. Sanger and William J. Broad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naver agrees to acquire fashion marketplace Poshmark for $1.2B]]></title>
+        <id>https://techcrunch.com/?p=2417730</id>
+        <link href="https://techcrunch.com/2022/10/03/naver-agrees-to-acquire-fashion-marketplace-poshmark-for-1-2b/"/>
+        <updated>2022-10-03T23:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Naver, the South Korean search giant, today announced it plans to acquire secondhand apparel marketplace Poshmark for $1.2 billion in cash. The deal values publicly-traded Poshmark’s shares at $17.90 — a 15% premium over today’s closing price — and the companies expect it to close by Q1 2023, subject to approval by Poshmark stockholders and […]
+Naver agrees to acquire fashion marketplace Poshmark for $1.2B by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man files police complaint against himself]]></title>
+        <id>https://timesofindia.indiatimes.com/city/ahmedabad/man-files-police-complaint-against-himself/articleshow/94629663.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/ahmedabad/man-files-police-complaint-against-himself/articleshow/94629663.cms"/>
+        <updated>2022-10-03T23:26:36.000Z</updated>
+        <summary type="html"><![CDATA[AHMEDABAD: Stray cattle is one of the biggest killers on roads and only last month, the Gujarat high court had directed the authorities to take more s.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Takes Up Challenge to Social Media Platforms’ Shield]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html"/>
+        <updated>2022-10-03T23:20:29.000Z</updated>
+        <summary type="html"><![CDATA[The family of a student killed in terrorist attacks challenged a 1996 law that gives websites immunity for suits based on their users’ posts.]]></summary>
+        <author>
+            <name>Adam Liptak and David McCabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Huge Supreme Court Cases That Could Change America]]></title>
+        <id>https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html"/>
+        <updated>2022-10-03T23:19:57.000Z</updated>
+        <summary type="html"><![CDATA[The justices will soon hear major cases on voting rights, affirmative action and partisan gerrymandering. Here’s a preview.]]></summary>
+        <author>
+            <name>Blake Hounshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a 1st, RBI to tell govt why inflation target is breached]]></title>
+        <id>https://timesofindia.indiatimes.com/business/india-business/in-a-first-rbi-to-tell-government-why-inflation-target-is-breached/articleshow/94629589.cms</id>
+        <link href="https://timesofindia.indiatimes.com/business/india-business/in-a-first-rbi-to-tell-government-why-inflation-target-is-breached/articleshow/94629589.cms"/>
+        <updated>2022-10-03T23:19:30.000Z</updated>
+        <summary type="html"><![CDATA[India Business News: NEW DELHI: The government and the Reserve Bank of India (RBI) are vowing to do “whatever it takes” to bring retail inflation within the 6% tolerance l.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Curtius is leaving Tiger Global to start his own venture fund]]></title>
+        <id>https://techcrunch.com/?p=2417716</id>
+        <link href="https://techcrunch.com/2022/10/03/john-curtius-is-leaving-tiger-global-to-start-his-own-venture-fund/"/>
+        <updated>2022-10-03T23:13:32.000Z</updated>
+        <summary type="html"><![CDATA[John Curtius, the prolific Tiger Global senior partner who has been at the center of some of the firm’s biggest deals in the last several years, is leaving the firm, TechCrunch has learned. He will be leaving to start his own firm, which will concentrate investments from Series A to Series C. Curtius will stay […]
+John Curtius is leaving Tiger Global to start his own venture fund by Ingrid Lunden originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ingrid Lunden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Week In Games: Nier Man’s Switch]]></title>
+        <id>1849610414</id>
+        <link href="https://kotaku.com/overwatch-2-blizzard-nier-automata-no-mans-sky-switch-1849610414"/>
+        <updated>2022-10-03T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Read more...]]></summary>
+        <author>
+            <name>Eric Schulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prices of 11 essential food items have fallen: Food and consumer affairs minister Piyush Goyal]]></title>
+        <id>https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms"/>
+        <updated>2022-10-03T23:08:56.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The average prices of 11 essential food items declined 2-11% in the last one month, the government said on Monday.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prices of 11 essential food items have fallen: Govt]]></title>
+        <id>https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/prices-of-11-essential-food-items-have-fallen-food-and-consumer-affairs-minister-piyush-goyal/articleshow/94629715.cms"/>
+        <updated>2022-10-03T23:08:56.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The average prices of 11 essential food items declined 2-11% in the last one month, the government said on Monday.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tove Lo Details North American ‘Dirt Femme’ Tour]]></title>
         <id>https://www.rollingstone.com/?p=1234604540</id>
@@ -37,6 +284,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Govt set to add 3 ‘missions’ to tackle climate change impact]]></title>
+        <id>https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/government-set-to-add-3-missions-to-tackle-climate-change-impact/articleshow/94629673.cms"/>
+        <updated>2022-10-03T22:55:20.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Seeking to expand its activities in different sectors to achieve the country’s updated climate action targets, the government has decided t.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Takeaways From the Report on Sexual Misconduct in Women’s Soccer]]></title>
+        <id>https://www.nytimes.com/2022/10/03/sports/soccer/soccer-abuse-report-takeaways.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/sports/soccer/soccer-abuse-report-takeaways.html"/>
+        <updated>2022-10-03T22:52:03.000Z</updated>
+        <summary type="html"><![CDATA[The report focused on three coaches who have been accused of abuse and the lack of action by leaders at U.S. Soccer and the National Women’s Soccer League.]]></summary>
+        <author>
+            <name>Jesus Jiménez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grenades seized in Hyderabad raid airdropped by Pakistani drones]]></title>
         <id>https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms</id>
         <link href="https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms"/>
@@ -44,6 +311,16 @@
         <summary type="html"><![CDATA[India News: HYDERABAD: The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani dron.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grenades seized in Hyd raid airdropped by Pak drones]]></title>
+        <id>https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms"/>
+        <updated>2022-10-03T22:46:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: HYDERABAD: The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani dron.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +351,16 @@
         <summary type="html"><![CDATA[India News: NEW DELHI: The Enforcement Directorate on Monday said it has conducted raids against another Chinese app operating platform from Bengaluru offering pa.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ED raids Chinese app platform in Bengaluru, seizes Rs 6 crore]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ed-raids-chinese-app-platform-in-bengaluru-seizes-rs-6-crore/articleshow/94629575.cms"/>
+        <updated>2022-10-03T22:35:04.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The Enforcement Directorate on Monday said it has conducted raids against another Chinese app operating platform from Bengaluru offering pa.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
@@ -588,6 +875,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mars orbiter mission is over, rover now non-recoverable: Isro]]></title>
+        <id>https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/mars-orbiter-mission-is-over-rover-now-non-recoverable-isro/articleshow/94628960.cms"/>
+        <updated>2022-10-03T20:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Stating that the matter was discussed during the recent national meet on eight years of MOM, an Isro statement read: “...Despite being designed for a life-span of six months as a technology demonstrator, MOM has lived for about eight years in the Martian orbit with a gamut of significant scientific results on Mars as well as on the Solar corona".]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tattoo Artist Wins Lawsuit Over Her Art Appearing On Randy Orton In WWE 2K]]></title>
         <id>1849610731</id>
         <link href="https://kotaku.com/randy-orton-lawsuit-tattoo-wwe-2k-take-two-1849610731"/>
@@ -666,6 +963,16 @@ The Pixel 4 was the first in the series to offer two rear cameras rather than on
 Aside from its significance for the Pixel 4, the October security patch is available starting today and provides minor bug fixes related to audio playback and controls along with UI and connectivity hiccups.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A timeline of Burkina Faso since the army seized power in January 2022]]></title>
+        <id>https://www.thehindu.com/news/international/a-timeline-of-burkina-faso-since-the-army-seized-power-in-january-2022/article65967044.ece</id>
+        <link href="https://www.thehindu.com/news/international/a-timeline-of-burkina-faso-since-the-army-seized-power-in-january-2022/article65967044.ece"/>
+        <updated>2022-10-03T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Burkina Faso is riding a tumultuous year following the ousting of its civilian elected government in January 2022 and is now witnessing its second self-proclaimed military leadership within eight months]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
