@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T06:22:33.242Z</updated>
+    <updated>2022-10-04T07:21:32.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VLC-developer VideoLAN sends legal notice to Indian ministries over ban]]></title>
+        <id>https://techcrunch.com/?p=2418041</id>
+        <link href="https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/"/>
+        <updated>2022-10-04T07:20:06.000Z</updated>
+        <summary type="html"><![CDATA[VideoLAN, the developer and operator of popular media player VLC, has filed a legal notice to India’s IT and Telecom ministries, alleging that the Indian bodies failed to notify the software developer and did not afford it a chance for an explanation. Indian telecom operators have been blocking VideoLAN’s website, where it lists links to […]
+VLC-developer VideoLAN sends legal notice to Indian ministries over ban by Manish Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Putin thinking? Tough to know for nuclear analysts]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/whats-vladimir-putin-thinking-tough-to-know-for-nuclear-analysts/articleshow/94637027.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/whats-vladimir-putin-thinking-tough-to-know-for-nuclear-analysts/articleshow/94637027.cms"/>
+        <updated>2022-10-04T06:51:47.000Z</updated>
+        <summary type="html"><![CDATA[The former KGB agent has demonstrated an appetite for risk and brinkmanship. It's hard, even for Western intelligence agencies with spy satellites, to tell if Putin is bluffing or truly intent on breaking the nuclear taboo.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M]]></title>
+        <id>https://techcrunch.com/?p=2417281</id>
+        <link href="https://techcrunch.com/2022/10/03/algebra-ventures-hits-first-close-of-second-fund-at-100m/"/>
+        <updated>2022-10-04T06:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Last April, Egyptian and MENA-focused venture capital firm Algebra Ventures announced the launch of its $90 million second fund. It was the sequel to its first: a $54 million fund invested in 21 startups across Egypt and the Middle East.  While Algebra Ventures predicted it would reach its first close in Q3 2021, the firm […]
+Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M by Tage Kene-Okafor originally published on TechCrunch]]></summary>
+        <author>
+            <name>Tage Kene-Okafor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Director Ryan Coogler Almost Quit Filmmaking Following Chadwick Boseman’s Death]]></title>
+        <id>https://www.rollingstone.com/?p=1234604759</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/ryan-coogler-chadwick-boseman-death-1234604759/"/>
+        <updated>2022-10-04T06:49:20.000Z</updated>
+        <summary type="html"><![CDATA["I didn't know if I could make another movie period"]]></summary>
+        <author>
+            <name>Emily Zemler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J&K DG Prisons found murdered at his house; 'depressed' domestic help prime suspect]]></title>
+        <id>https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms"/>
+        <updated>2022-10-04T06:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Jammu and Kashmir's Director General (Prisons) Hemant K Lohia was found murdered at his residence in Jammu on Monday with his throat slit and burn injuries on his body. The police said that Lohia's domestic help Yasir Lohar, a resident of Halla-Dhandrath village in Ramban district, is the prime suspect in the case.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J&K DG Prisons murder: Police arrest domestic help after massive manhunt]]></title>
+        <id>https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms"/>
+        <updated>2022-10-04T06:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Jammu and Kashmir's Director General (Prisons) Hemant K Lohia was found murdered at his residence in Jammu on Monday with his throat slit and burn injuries on his body. The police said that Lohia's domestic help Yasir Lohar, a resident of Halla-Dhandrath village in Ramban district, is the prime suspect in the case.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistan PM: Imran Khan is 'biggest liar on earth']]></title>
+        <id>https://timesofindia.indiatimes.com/world/pakistan/pakistan-pm-imran-khan-is-biggest-liar-on-earth/articleshow/94636735.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/pakistan/pakistan-pm-imran-khan-is-biggest-liar-on-earth/articleshow/94636735.cms"/>
+        <updated>2022-10-04T06:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Pakistan's Prime Minister Shehbaz Sharif has accused the former premier Imran Khan of being the "the biggest liar on the face of the earth" and injecting poison into society to "dangerously polarise the electorate" after he was toppled from power earlier this year.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean Internet Giant Buys Poshmark in $1.2 Billion Deal]]></title>
+        <id>https://www.nytimes.com/2022/10/04/business/korea-naver-poshmark.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/business/korea-naver-poshmark.html"/>
+        <updated>2022-10-04T06:38:37.000Z</updated>
+        <summary type="html"><![CDATA[With its new acquisition — the company’s largest to date — Naver has gained a sizable foothold in North America’s secondhand retail market.]]></summary>
+        <author>
+            <name>Chang Che</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jimmy Kimmel: Superman Doesn’t Fit Trump]]></title>
+        <id>https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-superman-doesnt-fit-trump.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-superman-doesnt-fit-trump.html"/>
+        <updated>2022-10-04T06:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Kimmel joked that aides couldn’t find the right size of Superman ‘Underoos’ for the former president, who wanted to pull a Clark Kent after leaving Walter Reed in 2020.]]></summary>
+        <author>
+            <name>Trish Bendix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union home minister Amit Shah pays obeisance at Vaishno Devi shrine on Maha Navami]]></title>
+        <id>https://timesofindia.indiatimes.com/india/union-home-minister-amit-shah-pays-obeisance-at-vaishno-devi-shrine-on-maha-navami/articleshow/94636548.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/union-home-minister-amit-shah-pays-obeisance-at-vaishno-devi-shrine-on-maha-navami/articleshow/94636548.cms"/>
+        <updated>2022-10-04T06:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Accompanied by Lt governor Manoj Sinha and Union minister Jitendra Singh, the home minister arrived at Sanji Chhat by helicopter to pay his obeisance at the shrine on the concluding day of the nine-day Navratra celebrations, officials said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIC backs Indian EV startup Euler Motors in $60 million funding]]></title>
+        <id>https://techcrunch.com/?p=2418016</id>
+        <link href="https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/"/>
+        <updated>2022-10-04T06:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Euler Motors, an Indian startup that designs and builds commercial electric vehicles, has raised $60 million in a new funding round as it works to ramp up its production capacity and broaden its offerings. Singapore’s sovereign fund GIC led the New Delhi-headquartered startup’s Series C funding. Blume Ventures, Athera Venture Partners, QRG, ADB Ventures and […]
+GIC backs Indian EV startup Euler Motors in $60 million funding by Manish Singh originally published on TechCrunch]]></summary>
+        <author>
+            <name>Manish Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gutted that I won't be a part of T20 World Cup: Bumrah]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gutted-that-i-wont-be-a-part-of-t20-world-cup-jasprit-bumrah/articleshow/94636423.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gutted-that-i-wont-be-a-part-of-t20-world-cup-jasprit-bumrah/articleshow/94636423.cms"/>
+        <updated>2022-10-04T06:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Jasprit Bumrah is gutted that he will have to miss the T20 World Cup due to a back injury but the star India pacer will cheer for his team as he goes through his rehabilitation process.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Britain's weakened Liz Truss faces fight for credibility]]></title>
         <id>https://timesofindia.indiatimes.com/world/uk/britains-weakened-liz-truss-faces-fight-for-credibility/articleshow/94635882.cms</id>
@@ -24,6 +147,16 @@
         <summary type="html"><![CDATA[This was Nadda's first meeting with the party's newly appointed state in-charges. The message by saffron party leadership was very clear for the newly appointed in-charges about making sure that the party strengthens its organisational base from right the booth level onwards.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vodafone in Britain in talks about a merger with Hutchison&#039;s Three U.K.]]></title>
+        <id>https://www.thehindu.com/business/Industry/vodafone-in-britain-in-talks-about-a-merger-with-hutchisons-three-uk/article65969352.ece</id>
+        <link href="https://www.thehindu.com/business/Industry/vodafone-in-britain-in-talks-about-a-merger-with-hutchisons-three-uk/article65969352.ece"/>
+        <updated>2022-10-04T05:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Vodafone said it would own 51% and Hutchison 49% under the deal being discussed in Britain]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -924,6 +1057,16 @@ John Curtius is leaving Tiger Global to start his own venture fund by Ingrid Lun
         <summary type="html"><![CDATA["It’s going to be magic, so you know, mandatory presence," Swedish singer says]]></summary>
         <author>
             <name>Tomás Mier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uddhav's Sena vs BJP-Shinde: Big poll clash in Mumbai on Nov 3]]></title>
+        <id>https://timesofindia.indiatimes.com/city/mumbai/uddhav-thackerays-sena-vs-bjp-eknath-shinde-big-poll-clash-in-mumbai-on-november-3/articleshow/94629725.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/mumbai/uddhav-thackerays-sena-vs-bjp-eknath-shinde-big-poll-clash-in-mumbai-on-november-3/articleshow/94629725.cms"/>
+        <updated>2022-10-03T23:06:27.000Z</updated>
+        <summary type="html"><![CDATA[With the Election Commission announcing that bypoll for the Andheri East assembly segment will be held on November 3, the stage is set for the first direct electoral clash between the Uddhav Thackeray faction of Shiv Sena and the BJP-Eknath Shinde combine after the formation of the Shinde-Fadnavis government.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>

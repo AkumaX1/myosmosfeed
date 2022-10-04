@@ -8146,6 +8146,16 @@
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/04/business/korea-naver-poshmark.html",
+          "author": "Chang Che",
+          "description": "With its new acquisition — the company’s largest to date — Naver has gained a sizable foothold in North America’s secondhand retail market.",
+          "link": "https://www.nytimes.com/2022/10/04/business/korea-naver-poshmark.html",
+          "publishedOn": "2022-10-04T06:38:37.000Z",
+          "wordCount": null,
+          "title": "South Korean Internet Giant Buys Poshmark in $1.2 Billion Deal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/technology/activision-nlrb-ruling.html",
           "author": "Cade Metz",
           "description": "The embattled video game company is in union negotiations with workers at its subsidiary Raven Software.",
@@ -9049,6 +9059,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-superman-doesnt-fit-trump.html",
+          "author": "Trish Bendix",
+          "description": "Kimmel joked that aides couldn’t find the right size of Superman ‘Underoos’ for the former president, who wanted to pull a Clark Kent after leaving Walter Reed in 2020.",
+          "link": "https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-superman-doesnt-fit-trump.html",
+          "publishedOn": "2022-10-04T06:38:16.000Z",
+          "wordCount": null,
+          "title": "Jimmy Kimmel: Superman Doesn’t Fit Trump",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/theater/cost-of-living-review.html",
           "author": "Maya Phillips",
@@ -11824,6 +11844,16 @@
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
         {
+          "id": "https://www.rollingstone.com/?p=1234604759",
+          "author": "Emily Zemler",
+          "description": "\"I didn't know if I could make another movie period\"",
+          "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/ryan-coogler-chadwick-boseman-death-1234604759/",
+          "publishedOn": "2022-10-04T06:49:20.000Z",
+          "wordCount": 7407,
+          "title": "Director Ryan Coogler Almost Quit Filmmaking Following Chadwick Boseman’s Death",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/GettyImages-915852206.jpg?w=1024"
+        },
+        {
           "id": "https://www.rollingstone.com/?p=1234604182",
           "author": "Tomás Mier",
           "description": "\"Throughout my career, I've turned down many films that were set in slavery. I never wanted to show us like that. And then this picture came along,\" Smith said over the weekend",
@@ -12450,6 +12480,36 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2418041",
+          "author": "Manish Singh",
+          "description": "VideoLAN, the developer and operator of popular media player VLC, has filed a legal notice to India’s IT and Telecom ministries, alleging that the Indian bodies failed to notify the software developer and did not afford it a chance for an explanation. Indian telecom operators have been blocking VideoLAN’s website, where it lists links to […]\nVLC-developer VideoLAN sends legal notice to Indian ministries over ban by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/",
+          "publishedOn": "2022-10-04T07:20:06.000Z",
+          "wordCount": 7205,
+          "title": "VLC-developer VideoLAN sends legal notice to Indian ministries over ban",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1403855677.jpg?resize=1200,810"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2417281",
+          "author": "Tage Kene-Okafor",
+          "description": "Last April, Egyptian and MENA-focused venture capital firm Algebra Ventures announced the launch of its $90 million second fund. It was the sequel to its first: a $54 million fund invested in 21 startups across Egypt and the Middle East.  While Algebra Ventures predicted it would reach its first close in Q3 2021, the firm […]\nEgyptian venture capital firm Algebra Ventures hits first close of second fund at $100M by Tage Kene-Okafor originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/algebra-ventures-hits-first-close-of-second-fund-at-100m/",
+          "publishedOn": "2022-10-04T06:49:37.000Z",
+          "wordCount": 7857,
+          "title": "Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/PhotoPictureResizer_221004_010431357_crop_3000x2415.jpg?resize=1200,966"
+        },
+        {
+          "id": "https://techcrunch.com/?p=2418016",
+          "author": "Manish Singh",
+          "description": "Euler Motors, an Indian startup that designs and builds commercial electric vehicles, has raised $60 million in a new funding round as it works to ramp up its production capacity and broaden its offerings. Singapore’s sovereign fund GIC led the New Delhi-headquartered startup’s Series C funding. Blume Ventures, Athera Venture Partners, QRG, ADB Ventures and […]\nGIC backs Indian EV startup Euler Motors in $60 million funding by Manish Singh originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+          "publishedOn": "2022-10-04T06:30:55.000Z",
+          "wordCount": 7452,
+          "title": "GIC backs Indian EV startup Euler Motors in $60 million funding",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/euler-motors-india.jpg?resize=1200,759"
+        },
         {
           "id": "https://techcrunch.com/?p=2417836",
           "author": "Amanda Silberling",
@@ -27546,6 +27606,16 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/business/Industry/vodafone-in-britain-in-talks-about-a-merger-with-hutchisons-three-uk/article65969352.ece",
+          "author": "Reuters",
+          "description": "Vodafone said it would own 51% and Hutchison 49% under the deal being discussed in Britain",
+          "link": "https://www.thehindu.com/business/Industry/vodafone-in-britain-in-talks-about-a-merger-with-hutchisons-three-uk/article65969352.ece",
+          "publishedOn": "2022-10-04T05:51:19.000Z",
+          "wordCount": 6116,
+          "title": "Vodafone in Britain in talks about a merger with Hutchison&#039;s Three U.K.",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/m1mzh6/article65969362.ece/alternates/LANDSCAPE_615/2017-11-14T101434Z_623446942_RC1837FECC40_RTRMADP_3_VODAFONE-GROUP-RESULTS.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/newsletter/newsletter-data/a-brief-history-of-rebellions-against-iranian-regimes/article65967658.ece",
           "author": "Rebecca Rose Varghese",
           "description": "A look back at the number of people killed or detained in anti-government protests",
@@ -29902,6 +29972,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
+          "author": null,
+          "description": "Jammu and Kashmir's Director General (Prisons) Hemant K Lohia was found murdered at his residence in Jammu on Monday with his throat slit and burn injuries on his body. The police said that Lohia's domestic help Yasir Lohar, a resident of Halla-Dhandrath village in Ramban district, is the prime suspect in the case.",
+          "link": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
+          "publishedOn": "2022-10-04T06:44:19.000Z",
+          "wordCount": 6599,
+          "title": "J&K DG Prisons found murdered at his house; 'depressed' domestic help prime suspect",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94636728,width-1070,height-580,imgsize-86800,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/union-home-minister-amit-shah-pays-obeisance-at-vaishno-devi-shrine-on-maha-navami/articleshow/94636548.cms",
+          "author": null,
+          "description": "Accompanied by Lt governor Manoj Sinha and Union minister Jitendra Singh, the home minister arrived at Sanji Chhat by helicopter to pay his obeisance at the shrine on the concluding day of the nine-day Navratra celebrations, officials said.",
+          "link": "https://timesofindia.indiatimes.com/india/union-home-minister-amit-shah-pays-obeisance-at-vaishno-devi-shrine-on-maha-navami/articleshow/94636548.cms",
+          "publishedOn": "2022-10-04T06:33:07.000Z",
+          "wordCount": 5502,
+          "title": "Union home minister Amit Shah pays obeisance at Vaishno Devi shrine on Maha Navami",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94636565,width-1070,height-580,imgsize-67658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/jp-nadda-appoints-dilip-kumar-jaiswal-as-sikkim-bjp-in-charge/articleshow/94635608.cms",
           "author": null,
@@ -35500,6 +35590,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/whats-vladimir-putin-thinking-tough-to-know-for-nuclear-analysts/articleshow/94637027.cms",
+          "author": null,
+          "description": "The former KGB agent has demonstrated an appetite for risk and brinkmanship. It's hard, even for Western intelligence agencies with spy satellites, to tell if Putin is bluffing or truly intent on breaking the nuclear taboo.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/whats-vladimir-putin-thinking-tough-to-know-for-nuclear-analysts/articleshow/94637027.cms",
+          "publishedOn": "2022-10-04T06:51:47.000Z",
+          "wordCount": 12887,
+          "title": "What's Putin thinking? Tough to know for nuclear analysts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637016,width-1070,height-580,imgsize-45326,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-pm-imran-khan-is-biggest-liar-on-earth/articleshow/94636735.cms",
+          "author": null,
+          "description": "Pakistan's Prime Minister Shehbaz Sharif has accused the former premier Imran Khan of being the \"the biggest liar on the face of the earth\" and injecting poison into society to \"dangerously polarise the electorate\" after he was toppled from power earlier this year.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-pm-imran-khan-is-biggest-liar-on-earth/articleshow/94636735.cms",
+          "publishedOn": "2022-10-04T06:41:29.000Z",
+          "wordCount": 7315,
+          "title": "Pakistan PM: Imran Khan is 'biggest liar on earth'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94636741,width-1070,height-580,imgsize-48890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/uk/britains-weakened-liz-truss-faces-fight-for-credibility/articleshow/94635882.cms",
           "author": null,
           "description": "After less than a month in the job, Truss's reversal on Monday of a decision to scrap Britain's highest rate of income tax has left her open to criticism that she is not only poorly advised but was also badly advertised as a woman who stood by her word.",
@@ -38224,6 +38334,26 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
+          "author": null,
+          "description": "Jammu and Kashmir's Director General (Prisons) Hemant K Lohia was found murdered at his residence in Jammu on Monday with his throat slit and burn injuries on his body. The police said that Lohia's domestic help Yasir Lohar, a resident of Halla-Dhandrath village in Ramban district, is the prime suspect in the case.",
+          "link": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
+          "publishedOn": "2022-10-04T06:44:19.000Z",
+          "wordCount": 6599,
+          "title": "J&K DG Prisons murder: Police arrest domestic help after massive manhunt",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94636728,width-1070,height-580,imgsize-86800,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gutted-that-i-wont-be-a-part-of-t20-world-cup-jasprit-bumrah/articleshow/94636423.cms",
+          "author": null,
+          "description": "Jasprit Bumrah is gutted that he will have to miss the T20 World Cup due to a back injury but the star India pacer will cheer for his team as he goes through his rehabilitation process.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gutted-that-i-wont-be-a-part-of-t20-world-cup-jasprit-bumrah/articleshow/94636423.cms",
+          "publishedOn": "2022-10-04T06:28:11.000Z",
+          "wordCount": 5731,
+          "title": "Gutted that I won't be a part of T20 World Cup: Bumrah",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94636392,width-1070,height-580,imgsize-39846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/auto/bikes/honda-largest-two-wheeler-maker-in-india-hero-motocorp-market-share-sales-hero-vida-launch/articleshow/94634655.cms",
           "author": null,
           "description": "Honda Motorcycle & Scooter India on Monday reported a 7.6 percent rise in total sales at 5,18,559 units in September. The company had sold 4,81,908 units in the same month last year, HMSI said in a statement. Domestic sales were up 5.44 percent at 4,88,924 units as against 4,63,683 units in September last year, it added.",
@@ -38412,6 +38542,16 @@
           "wordCount": 5978,
           "title": "Prices of 11 essential food items have fallen: Govt",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629728,width-1070,height-580,imgsize-53740,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/uddhav-thackerays-sena-vs-bjp-eknath-shinde-big-poll-clash-in-mumbai-on-november-3/articleshow/94629725.cms",
+          "author": null,
+          "description": "With the Election Commission announcing that bypoll for the Andheri East assembly segment will be held on November 3, the stage is set for the first direct electoral clash between the Uddhav Thackeray faction of Shiv Sena and the BJP-Eknath Shinde combine after the formation of the Shinde-Fadnavis government.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/uddhav-thackerays-sena-vs-bjp-eknath-shinde-big-poll-clash-in-mumbai-on-november-3/articleshow/94629725.cms",
+          "publishedOn": "2022-10-03T23:06:27.000Z",
+          "wordCount": 7272,
+          "title": "Uddhav's Sena vs BJP-Shinde: Big poll clash in Mumbai on Nov 3",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629751,width-1070,height-580,imgsize-24366,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-35-year-old-dies-after-garba-shock-kills-dad/articleshow/94629692.cms",
