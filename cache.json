@@ -2649,6 +2649,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html",
+          "author": "Maya King",
+          "description": "Mr. Walker called the report a lie, after The Daily Beast, which has also broken news about Mr. Walker’s out-of-wedlock children, reported that a former girlfriend had the procedure in 2009.",
+          "link": "https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html",
+          "publishedOn": "2022-10-04T02:59:48.000Z",
+          "wordCount": null,
+          "title": "Herschel Walker Paid for an Abortion for Ex-Girlfriend, Report Says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/03/world/asia/bangladesh-free-speech-movies.html",
+          "author": "Saif Hasnat and Mujib Mashal",
+          "description": "In Bangladesh, a crackdown on free speech has left filmmakers in a Kafkaesque bind as their movies are blocked for vague reasons.",
+          "link": "https://www.nytimes.com/2022/10/03/world/asia/bangladesh-free-speech-movies.html",
+          "publishedOn": "2022-10-04T01:26:38.000Z",
+          "wordCount": null,
+          "title": "Art Withers in a Country Where Anything Can Be Deemed a Threat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html",
           "author": "Motoko Rich and Choe Sang-Hun",
           "description": "The test-firing was the latest in a flurry of launches by the North. The missile flew over Japan and landed in the Pacific.",
@@ -8125,6 +8145,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/technology/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/technology",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/03/technology/activision-nlrb-ruling.html",
+          "author": "Cade Metz",
+          "description": "The embattled video game company is in union negotiations with workers at its subsidiary Raven Software.",
+          "link": "https://www.nytimes.com/2022/10/03/technology/activision-nlrb-ruling.html",
+          "publishedOn": "2022-10-04T01:58:31.000Z",
+          "wordCount": null,
+          "title": "N.L.R.B. Rules Activision Withheld Raises Because of Union Activity",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/03/us/supreme-court-social-media-section-230.html",
           "author": "Adam Liptak and David McCabe",
@@ -26996,6 +27026,46 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/morning-digest-october-4-2022/article65967944.ece",
+          "author": "The Hindu Bureau",
+          "description": "A select list of stories to read before you start your day",
+          "link": "https://www.thehindu.com/news/morning-digest-october-4-2022/article65967944.ece",
+          "publishedOn": "2022-10-04T02:54:20.000Z",
+          "wordCount": 6922,
+          "title": "Morning Digest | Government likely to lift AFSPA in four States; exports drop 3.5% in September, and more",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/cgqr49/article65968162.ece/alternates/LANDSCAPE_615/PTI5_23_2016_000126B.JPEG-0d690.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/indonesia-police-chief-others-removed-over-football-stadium-stampede-disaster/article65969138.ece",
+          "author": "AP",
+          "description": "Most of the deaths occurred when riot police, trying to stop the violence, fired tear gas, including in the stands, triggering a disastrous stampede",
+          "link": "https://www.thehindu.com/news/international/indonesia-police-chief-others-removed-over-football-stadium-stampede-disaster/article65969138.ece",
+          "publishedOn": "2022-10-04T02:53:50.000Z",
+          "wordCount": 7018,
+          "title": "Indonesia police chief, others removed over football stadium stampede disaster",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/swlz3g/article65969153.ece/alternates/LANDSCAPE_615/2022-10-02T065435Z_1689523709_RC2TSW9R4B6A_RTRMADP_3_SOCCER-INDONESIA-RIOT.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/trump-files-475-million-defamation-lawsuit-against-cnn/article65969130.ece",
+          "author": "AP",
+          "description": "The lawsuit focuses primarily on CNN’s use of the term “The Big Lie” about Donald Trump’s claims of widespread fraud, which he says cost him the 2020 presidential election to Joe Biden",
+          "link": "https://www.thehindu.com/news/international/trump-files-475-million-defamation-lawsuit-against-cnn/article65969130.ece",
+          "publishedOn": "2022-10-04T02:25:23.000Z",
+          "wordCount": 6283,
+          "title": "Trump files $475 million defamation lawsuit against CNN",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/3kljds/article65969133.ece/alternates/LANDSCAPE_615/2018-11-08T055201Z_1842639642_RC1C2C822230_RTRMADP_3_USA-ELECTION-TRUMP.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/we-are-both-daughters-of-india-in-a-way-priyanka-chopra-tells-kamala-harris/article65969129.ece",
+          "author": "PTI",
+          "description": "Priyanka Chopra Jonas was invited by the Democratic National Committee’s Women’s Leadership Forum to interview Vice President Harris",
+          "link": "https://www.thehindu.com/news/international/we-are-both-daughters-of-india-in-a-way-priyanka-chopra-tells-kamala-harris/article65969129.ece",
+          "publishedOn": "2022-10-04T02:19:00.000Z",
+          "wordCount": 6578,
+          "title": "We are both daughters of India, in a way: Priyanka Chopra tells Kamala Harris",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/gnnlx5/article65969134.ece/alternates/LANDSCAPE_615/AP10_01_2022_000040A.jpg"
+        },
+        {
           "id": "https://www.thehindu.com/news/international/north-korea-fires-missile-towards-the-east-residents-of-japan-alert/article65968390.ece",
           "author": "Reuters",
           "description": "The Japanese government warned citizens to take cover after its coast guard reported on a suspected missile launch by North Korea",
@@ -27004,6 +27074,26 @@
           "wordCount": 6344,
           "title": "North Korea fires missile over Japan, some residents warned to take cover",
           "imageUrl": "https://th-i.thgim.com/public/incoming/5aj7y6/article65968406.ece/alternates/LANDSCAPE_615/Japan_Koreas_Tensions_55788.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/uk-will-support-ukraine-until-war-is-won-foreign-minister-to-say/article65968371.ece",
+          "author": "Reuters",
+          "description": "Britain has been one of Kyiv's most vocal international backers training Ukrainian soldiers",
+          "link": "https://www.thehindu.com/news/international/uk-will-support-ukraine-until-war-is-won-foreign-minister-to-say/article65968371.ece",
+          "publishedOn": "2022-10-03T22:05:56.000Z",
+          "wordCount": 6100,
+          "title": "U.K. to support Ukraine until war is won",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/kqi73o/article65968372.ece/alternates/LANDSCAPE_615/2022-10-03T213014Z_1672533175_RC2OTW9SFGOW_RTRMADP_3_UKRAINE-CRISIS-BRITAIN.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/hurricane-orlene-hits-mexicos-pacific-coast-near-mazatlan/article65968228.ece",
+          "author": "AP",
+          "description": "Hurricane Orlene has made landfall on Mexico’s Pacific coast near the tourist town of Mazatlan",
+          "link": "https://www.thehindu.com/news/international/hurricane-orlene-hits-mexicos-pacific-coast-near-mazatlan/article65968228.ece",
+          "publishedOn": "2022-10-03T21:17:11.000Z",
+          "wordCount": 6251,
+          "title": "Hurricane Orlene hits Mexico&#039;s Pacific coast near Mazatlan",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/vgjwkg/article65968230.ece/alternates/LANDSCAPE_615/Mexico_Tropical_Weather_94808.jpg"
         },
         {
           "id": "https://www.thehindu.com/news/international/a-timeline-of-burkina-faso-since-the-army-seized-power-in-january-2022/article65967044.ece",
@@ -29242,6 +29332,96 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ott-platforms-portals-asked-not-to-carry-e-betting-ads/articleshow/94632354.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The information and broadcasting ministry on Monday asked news websites, OTT platforms and private satellite channels to refrain from showi.",
+          "link": "https://timesofindia.indiatimes.com/india/ott-platforms-portals-asked-not-to-carry-e-betting-ads/articleshow/94632354.cms",
+          "publishedOn": "2022-10-04T03:11:26.000Z",
+          "wordCount": 5458,
+          "title": "OTT platforms, portals asked not to carry e-betting ads",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/ccs-cleared-15-copter-deal-in-march-hal-has-made-8-so-far/articleshow/94632071.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: India’s first indigenous light combat helicopter LCH was inducted into the IAF on Monday.",
+          "link": "https://timesofindia.indiatimes.com/india/ccs-cleared-15-copter-deal-in-march-hal-has-made-8-so-far/articleshow/94632071.cms",
+          "publishedOn": "2022-10-04T03:03:05.000Z",
+          "wordCount": 5805,
+          "title": "CCS cleared 15-copter deal in March, HAL has made 8 so far",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632070,width-1070,height-580,imgsize-79258,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cheetah-scientist-backs-kuno-project-genetic-gap-not-much/articleshow/94631907.cms",
+          "author": null,
+          "description": "India News: BHOPAL: Stephen J O’Brien, an American geneticist, who was a member of the original team working on India’s Project Cheetah and visited India in 2009 .",
+          "link": "https://timesofindia.indiatimes.com/india/cheetah-scientist-backs-kuno-project-genetic-gap-not-much/articleshow/94631907.cms",
+          "publishedOn": "2022-10-04T02:58:34.000Z",
+          "wordCount": 6079,
+          "title": "Cheetah scientist backs Kuno project: ‘Genetic gap not much’",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631929,width-1070,height-580,imgsize-145738,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/tickets-not-booked-flying-this-diwali-will-cost-a-bomb/articleshow/94631782.cms",
+          "author": null,
+          "description": "India News: MUMBAI: Mumbaikars who plan to fly out for a holiday during the Diwali break later this month would be in for a shock if they haven’t already booked t.",
+          "link": "https://timesofindia.indiatimes.com/india/tickets-not-booked-flying-this-diwali-will-cost-a-bomb/articleshow/94631782.cms",
+          "publishedOn": "2022-10-04T02:53:15.000Z",
+          "wordCount": 6038,
+          "title": "Tickets not booked? Flying this Diwali will cost a bomb",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/congress-tries-to-shake-off-from-kharge-official-nominee-tag/articleshow/94631514.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: Anxious to shake off the perception of Mallikarjun Kharge being the “official” candidate in the contest with Shashi Tharoor for party presi.",
+          "link": "https://timesofindia.indiatimes.com/india/congress-tries-to-shake-off-from-kharge-official-nominee-tag/articleshow/94631514.cms",
+          "publishedOn": "2022-10-04T02:44:50.000Z",
+          "wordCount": 5952,
+          "title": "Congress tries to shake off from Kharge ‘official nominee’ tag",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631488,width-1070,height-580,imgsize-30650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/karnataka-bjp-plans-big-obc-rally-to-counter-congress-yatra/articleshow/94631349.cms",
+          "author": null,
+          "description": "India News: BENGALURU: Considerably piqued at the turnout at Siddaramaiah’s birthday bash in August, and the interest the Karnataka leg of Rahul Gandhi’s “Bharat .",
+          "link": "https://timesofindia.indiatimes.com/india/karnataka-bjp-plans-big-obc-rally-to-counter-congress-yatra/articleshow/94631349.cms",
+          "publishedOn": "2022-10-04T02:40:46.000Z",
+          "wordCount": 5913,
+          "title": "Karnataka BJP plans big OBC rally to counter Congress yatra",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631323,width-1070,height-580,imgsize-74704,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-join-sonia-gandhi-on-congs-yatra-says-dks/articleshow/94631206.cms",
+          "author": null,
+          "description": "India News: MYSURU: AICC interim president Sonia Gandhi arrived in Mysuru on Monday to participate in the Karnataka leg of the party’s Bharat Jodo Yatra led by he.",
+          "link": "https://timesofindia.indiatimes.com/india/mallikarjun-kharge-set-to-join-sonia-gandhi-on-congs-yatra-says-dks/articleshow/94631206.cms",
+          "publishedOn": "2022-10-04T02:34:31.000Z",
+          "wordCount": 5604,
+          "title": "Mallikarjun Kharge set to join Sonia Gandhi on Cong’s yatra, says DKS",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631218,width-1070,height-580,imgsize-60530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/kolkata-puja-draws-fire-curly-hair-beard-added-to-asura-resembling-gandhi-organisers-booked/articleshow/94630506.cms",
+          "author": null,
+          "description": "India News: KOLKATA: The Durga Puja idol in Kolkata in which Mahishasura was a Mahatma Gandhi lookalike was refashioned on Sunday after police intervention even a.",
+          "link": "https://timesofindia.indiatimes.com/india/kolkata-puja-draws-fire-curly-hair-beard-added-to-asura-resembling-gandhi-organisers-booked/articleshow/94630506.cms",
+          "publishedOn": "2022-10-04T01:25:49.000Z",
+          "wordCount": 5717,
+          "title": "Kolkata puja draws fire: Curly hair, beard added to asura resembling ‘Gandhi’, organisers booked",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/railways-speeds-up-500-trains-by-10-to-70-mins/articleshow/94630467.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: In its new train timetable effective October 1, the railway ministry said that 500 mail express trains have been speeded up and 130 service.",
+          "link": "https://timesofindia.indiatimes.com/india/railways-speeds-up-500-trains-by-10-to-70-mins/articleshow/94630467.cms",
+          "publishedOn": "2022-10-04T01:22:29.000Z",
+          "wordCount": 5278,
+          "title": "Railways speeds up 500 trains by 10 to 70 mins",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
           "author": null,
@@ -34690,6 +34870,66 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/europe/ukraine-forces-push-forward-on-2-fronts/articleshow/94632204.cms",
+          "author": null,
+          "description": "Europe News: IZIUM: The Ukrainian army was on the move Monday in two theatres, as Kyiv’s forces chased retreating Russian troops outside the reclaimed city of Lyma.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-forces-push-forward-on-2-fronts/articleshow/94632204.cms",
+          "publishedOn": "2022-10-04T03:08:43.000Z",
+          "wordCount": 6959,
+          "title": "Ukraine forces push forward on 2 fronts",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94632261,width-1070,height-580,imgsize-144518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms",
+          "author": null,
+          "description": "Musk, the world's richest person, proposed UN-supervised elections in four occupied regions that Moscow last week moved to annex after what it called referendums. The votes were denounced by Kyiv and Western governments as illegal and coercive.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/elon-musk-and-zelenskyy-in-twitter-showdown-over-billionaires-ukraine-peace-plan/articleshow/94631561.cms",
+          "publishedOn": "2022-10-04T02:50:55.000Z",
+          "wordCount": 8305,
+          "title": "Musk, Zelenskyy in Twitter row over billionaire's Ukraine peace plan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631659,width-1070,height-580,imgsize-13494,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/antony-blinken-backs-colombias-holistic-approach-to-drug-policy/articleshow/94631415.cms",
+          "author": null,
+          "description": "\"We strongly support the holistic approach that President Petro's administration is taking to counter narcotics through comprehensive rural security, justice, development, environmental protection, supply reduction as well as demand reduction including in the United States,\" Blinken said in a press conference.",
+          "link": "https://timesofindia.indiatimes.com/world/us/antony-blinken-backs-colombias-holistic-approach-to-drug-policy/articleshow/94631415.cms",
+          "publishedOn": "2022-10-04T02:43:45.000Z",
+          "wordCount": 7995,
+          "title": "Antony Blinken backs Colombia's 'holistic' approach to drug policy",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631448,width-1070,height-580,imgsize-36738,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-over-japan-stopping-trains-and-sparking-warning-message/articleshow/94631256.cms",
+          "author": null,
+          "description": "The Japanese government warned citizens to take cover as the missile appeared to have flown over and past its territory before falling into the Pacific Ocean. It said it did not use any defence measures to destroy the missile, which was the first to fly over or past Japan from North Korea since 2017.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-over-japan-stopping-trains-and-sparking-warning-message/articleshow/94631256.cms",
+          "publishedOn": "2022-10-04T02:40:01.000Z",
+          "wordCount": 11092,
+          "title": "N Korea fires missile over Japan, stopping trains and sparking warning message",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631305,width-1070,height-580,imgsize-59676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/california-braces-for-dry-winter-as-western-drought-drags-on/articleshow/94631236.cms",
+          "author": null,
+          "description": "Snow that falls in California's mountains typically provides one-third of the state's annual water supply, but last year snow levels were far below average by the end of the winter. The Colorado River, another major source of water for Southern California, is also beset by drought, threatening its ability to supply farmers and cities around the U.S. West.",
+          "link": "https://timesofindia.indiatimes.com/world/us/california-braces-for-dry-winter-as-western-drought-drags-on/articleshow/94631236.cms",
+          "publishedOn": "2022-10-04T02:35:43.000Z",
+          "wordCount": 10453,
+          "title": "California braces for dry winter as Western drought drags on",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631225,width-1070,height-580,imgsize-199914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/trump-files-475-million-defamation-lawsuit-against-cnn/articleshow/94631217.cms",
+          "author": null,
+          "description": "The lawsuit, filed in U.S. District Court in Fort Lauderdale, Florida, focuses primarily on the term “The Big Lie” about Trump's false claims of widespread fraud that he says cost him the 2020 presidential election to Joe Biden.",
+          "link": "https://timesofindia.indiatimes.com/world/us/trump-files-475-million-defamation-lawsuit-against-cnn/articleshow/94631217.cms",
+          "publishedOn": "2022-10-04T02:34:00.000Z",
+          "wordCount": 7052,
+          "title": "Trump files $475 million defamation lawsuit against CNN",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631204,width-1070,height-580,imgsize-37976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/medicine-nobel-goes-to-neanderthal-researcher/articleshow/94629274.cms",
           "author": null,
           "description": "The Nobel Prize in physiology or medicine was awarded on Monday to Svante Paabo, a Swedish-born scientist who spent decades trying to extract DNA from 40,000-year-old bones, culminating in the unveiling of the Neanderthal genome in 2010..",
@@ -37324,6 +37564,56 @@
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
         {
+          "id": "https://m.timesofindia.com/apptimestopten",
+          "author": null,
+          "description": "Check today's top 10 news stories, headline news, breaking news, latest news, politics news, sports news, entertainment news and business news on Times of India",
+          "link": "https://m.timesofindia.com/apptimestopten",
+          "publishedOn": "2022-10-04T02:48:23.000Z",
+          "wordCount": 7763,
+          "title": "Top10: Who are majority govts proving their majority to?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-over-japan-stopping-trains-and-sparking-warning-message/articleshow/94631256.cms",
+          "author": null,
+          "description": "The Japanese government warned citizens to take cover as the missile appeared to have flown over and past its territory before falling into the Pacific Ocean. It said it did not use any defence measures to destroy the missile, which was the first to fly over or past Japan from North Korea since 2017.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-over-japan-stopping-trains-and-sparking-warning-message/articleshow/94631256.cms",
+          "publishedOn": "2022-10-04T02:40:01.000Z",
+          "wordCount": 11092,
+          "title": "North Korea fires intermediate-range ballistic missile over Japan",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631305,width-1070,height-580,imgsize-59676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/missed-flight-costs-west-indies-shimron-hetmyer-his-place-in-t20-world-cup/articleshow/94631121.cms",
+          "author": null,
+          "description": "West Indies' Shimron Hetmyer has been replaced by Shamarh Brooks in their squad for the T20 World Cup in Australia after he missed his rescheduled flight, the team said on Monday.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/missed-flight-costs-west-indies-shimron-hetmyer-his-place-in-t20-world-cup/articleshow/94631121.cms",
+          "publishedOn": "2022-10-04T02:30:17.000Z",
+          "wordCount": 5351,
+          "title": "Missed flight costs WI player Hetmyer his place in T20 WC",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94631155,width-1070,height-580,imgsize-46994,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
+          "author": null,
+          "description": "Director General of Police, Prisons department, H K Lohia was found murdered under suspicious circumstances here with police suspecting his domestic help as the culprit, a senior police officer said.Additional Director General of Police, Jammu zone, Mukesh Singh said the domestic help is absconding and a search for him has started.The 57-year-old Lohia, a 1992 batch IPS officer, was found dead with his throat slit at his Udaiwala residence on the outskirts of Jammu.",
+          "link": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
+          "publishedOn": "2022-10-04T00:10:47.000Z",
+          "wordCount": 4893,
+          "title": "DGP Prisons found murdered at Jammu home: Police",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/patna/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "author": null,
+          "description": "The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will be facing each other for the first time at the hustings after CM Nitish Kumar snapped ties with the saffron party and their government collapsed on August 9. Nitish is already drumming up support to unite the opposition and rouse voters to defeat BJP in the 2024 parliamentary elections.",
+          "link": "https://timesofindia.indiatimes.com/city/patna/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
+          "publishedOn": "2022-10-04T00:02:33.000Z",
+          "wordCount": 6014,
+          "title": "It’s BJP vs estranged allies in Bihar and Maharashtra bypolls",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629956,width-1070,height-580,imgsize-25404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/its-bjp-vs-estranged-allies-in-bihar-and-maharashtra-bypolls/articleshow/94629938.cms",
           "author": null,
           "description": "India News: PATNA/MUMBAI: The byelections in Bihar, scheduled for November 3, are likely to generate maximum heat as BJP and the JD(U)-RJD-Congress coalition will.",
@@ -37374,6 +37664,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629682,width-1070,height-580,imgsize-45348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/hyderabad/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
+          "author": null,
+          "description": "The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani drones along the Punjab border a few months ago and bear a definitive made-in-China tag, top sources in Telangana Police said.",
+          "link": "https://timesofindia.indiatimes.com/city/hyderabad/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
+          "publishedOn": "2022-10-03T22:46:46.000Z",
+          "wordCount": 6000,
+          "title": "Grenades seized in Hyd raid airdropped by Pak drones",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629662,width-1070,height-580,imgsize-61208,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/india/grenades-seized-in-hyderabad-raid-airdropped-by-pakistani-drones/articleshow/94629649.cms",
           "author": null,
           "description": "India News: HYDERABAD: The four grenades seized from three terror suspects during a pre-dawn swoop at their residences on Sunday were airdropped by Pakistani dron.",
@@ -37402,6 +37702,16 @@
           "wordCount": 5562,
           "title": "Study nails genetic region linked to strokes in Indians",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94629541,width-1070,height-580,imgsize-32256,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/delhi/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms",
+          "author": null,
+          "description": "The CBI on Monday apprehended an expert Russian hacker who is supposedly the mastermind of the JEE (Mains) paper leak reported last year. Mikhail Shargin had a look-out circular against him and was detained at Delhi airport immigration upon arrival from Kazakhstan.  He was brought for questioning to the agency’s headquarters and was likely to be arrested later in the night, sources said.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms",
+          "publishedOn": "2022-10-03T21:51:33.000Z",
+          "wordCount": 5915,
+          "title": "Russian hacker, ‘mastermind of JEE(M) leak’, held in Delhi",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94629524,width-1070,height-580,imgsize-23348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/russian-hacker-mastermind-of-jeem-leak-held-in-delhi/articleshow/94629502.cms",
