@@ -2649,6 +2649,16 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/04/science/nobel-prize-physics-winner.html",
+          "author": "Dennis Overbye",
+          "description": "The second Nobel announced this year will be presented by the Royal Swedish Academy of Sciences in Stockholm.",
+          "link": "https://www.nytimes.com/2022/10/04/science/nobel-prize-physics-winner.html",
+          "publishedOn": "2022-10-04T08:48:06.000Z",
+          "wordCount": null,
+          "title": "Nobel Prize in Physics to Be Awarded Today",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/article/north-korea-arsenal-nukes.html",
           "author": "Choe Sang-Hun and Victoria Kim",
           "description": "The country has one of the largest standing armies in the world, but much of its equipment is old. Leaders have sought to make up for that shortcoming by building new weapons.",
@@ -8563,6 +8573,56 @@
       "siteUrl": "https://www.nytimes.com/section/books",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/04/books/review/rules-of-engagement.html",
+          "author": "Justin Driver",
+          "description": "In “Waging a Good War,” Thomas E. Ricks examines the civil rights movement through the lens of military history.",
+          "link": "https://www.nytimes.com/2022/10/04/books/review/rules-of-engagement.html",
+          "publishedOn": "2022-10-04T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Book Review: “Waging a Good War” by Thomas E. Ricks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/04/books/review/the-winners-fredrik-backman.html",
+          "author": "Mark Rotella",
+          "description": "In “The Winners,” the Swedish author wraps up his Beartown trilogy.",
+          "link": "https://www.nytimes.com/2022/10/04/books/review/the-winners-fredrik-backman.html",
+          "publishedOn": "2022-10-04T09:00:24.000Z",
+          "wordCount": null,
+          "title": "Book Review: “The Winners,” by Frederik Backman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/04/books/review/over-my-dead-body-greg-melville.html",
+          "author": "Tatiana Schlossberg",
+          "description": "A new book tells the history of America through its cemeteries.",
+          "link": "https://www.nytimes.com/2022/10/04/books/review/over-my-dead-body-greg-melville.html",
+          "publishedOn": "2022-10-04T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Over My Dead Body,’ by Greg Melville",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/04/books/review/life-is-hard-kieran-setiya.html",
+          "author": "Irina Dumitrescu",
+          "description": "In acknowledging struggle, Kieran Setiya’s “Life Is Hard” offers an alternative to the bromides.",
+          "link": "https://www.nytimes.com/2022/10/04/books/review/life-is-hard-kieran-setiya.html",
+          "publishedOn": "2022-10-04T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Book Review: ‘Life Is Hard,’ by Kieran Setiya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/04/books/review/late-summer-ode-olena-kalytiak-davis.html",
+          "author": "Jeff Gordinier",
+          "description": "In “Late Summer Ode,” Olena Kalytiak Davis describes the period after ambition has waned and the kids have moved out, leaving plenty of time to reflect on your mistakes.",
+          "link": "https://www.nytimes.com/2022/10/04/books/review/late-summer-ode-olena-kalytiak-davis.html",
+          "publishedOn": "2022-10-04T09:00:18.000Z",
+          "wordCount": null,
+          "title": "The Crisis After the Midlife Crisis, Captured in Verse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/books/review/american-midnight-adam-hochschild.html",
           "author": "Thomas Meaney",
           "description": "Adam Hochschild’s new book, “American Midnight,” offers a vivid account of the country during the years 1917-21, when extremism reached levels rarely rivaled in our history.",
@@ -9079,6 +9139,16 @@
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/arts/rss.xml",
       "siteUrl": "https://www.nytimes.com/section/arts",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-trump-superman.html",
+          "author": "Trish Bendix",
+          "description": "Kimmel joked that aides couldn’t find the right size of Superman ‘Underoos’ for the former president, who wanted to pull a Clark Kent after leaving Walter Reed in 2020.",
+          "link": "https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-trump-superman.html",
+          "publishedOn": "2022-10-04T06:38:16.000Z",
+          "wordCount": null,
+          "title": "Jimmy Kimmel: Superman Doesn’t Fit Trump",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2022/10/04/arts/television/jimmy-kimmel-superman-doesnt-fit-trump.html",
           "author": "Trish Bendix",
@@ -10386,6 +10456,16 @@
       "feedUrl": "https://www.rollingstone.com/music/feed/",
       "siteUrl": "https://www.rollingstone.com",
       "articles": [
+        {
+          "id": "https://www.rollingstone.com/?p=1234599341",
+          "author": "Kristine Kwak",
+          "description": "'I think it's deep and profound,' she says of 28 Reasons, her first album outside the group",
+          "link": "https://www.rollingstone.com/music/music-features/seulgi-red-velvet-solo-album-1234599341/",
+          "publishedOn": "2022-10-04T09:00:00.000Z",
+          "wordCount": 8688,
+          "title": "Seulgi of Red Velvet on Exploring Her Dark Side As a Solo Artist",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/10/Seulgi-of-Red-Velvet.jpg?w=1024"
+        },
         {
           "id": "https://www.rollingstone.com/?p=1234604540",
           "author": "Tomás Mier",
@@ -12500,6 +12580,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2417092",
+          "author": "Tage Kene-Okafor",
+          "description": "For the average individual living in Lagos — Nigeria’s most populous city, with over 20 million people — apartment hunting is an extreme sport. Not only is rent expensive — low- to middle-income housing can cost between $1,000 and $5,000 yearly — but renters must also pay a year in advance, sometimes even two before […]\nNigerian proptech Spleet gets $2.8M led by MaC VC to scale its property management products by Tage Kene-Okafor originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/04/nigerian-proptech-spleet-gets-2-8m-led-by-mac-vc-to-scale-its-property-management-products/",
+          "publishedOn": "2022-10-04T08:59:31.000Z",
+          "wordCount": 8404,
+          "title": "Nigerian proptech Spleet gets $2.8M led by MaC VC to scale its property management products",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/8DC2F7CD-D977-4E28-B434-E36816371584.jpeg?resize=1200,1028"
+        },
         {
           "id": "https://techcrunch.com/?p=2418022",
           "author": "Ivan Mehta",
@@ -16347,6 +16437,36 @@
       "feedUrl": "https://www.vice.com/en/rss?locale=en_us",
       "siteUrl": "https://www.vice.com/en?locale=en_us",
       "articles": [
+        {
+          "id": "epz57p",
+          "author": "Hanako Montgomery",
+          "description": "Lolicon and shotacon manga sexually depict young girls and young boys respectively. The two are part of a manga industry worth $4.67 billion.",
+          "link": "https://www.vice.com/en_us/article/epz57p/manga-abuse-children-japan-sexual",
+          "publishedOn": "2022-10-04T09:00:35.000Z",
+          "wordCount": 14156,
+          "title": "He Abused Kids For 24 Years. Now He Wants Manga Sexualizing Children to be Banned.",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633a87688349520093d92ccd/lede/1664780755850-screen-shot-2022-10-03-at-40305-pm.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633a87688349520093d92ccd/lede/1664780755850-screen-shot-2022-10-03-at-40305-pm.png"
+        },
+        {
+          "id": "g5vwn3",
+          "author": "Rachel Cheung",
+          "description": "Freed from scam gangs in Cambodia, victims say they are now being detained and extorted by police demanding bribes for bedding, food and to return home.",
+          "link": "https://www.vice.com/en_us/article/g5vwn3/human-trafficking-police-corruption-cambodia",
+          "publishedOn": "2022-10-04T08:36:00.000Z",
+          "wordCount": 20418,
+          "title": "They Thought Their Human Trafficking Nightmare Was Over. Then Came the Police.",
+          "enclosure": {
+            "url": "http://video-images.vice.com/articles/633a9e39ac70f9009bb6f707/lede/1664791532463-gettyimages-1203482552.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://video-images.vice.com/articles/633a9e39ac70f9009bb6f707/lede/1664791532463-gettyimages-1203482552.jpeg"
+        },
         {
           "id": "epz53p",
           "author": "Rec Room Staff",
@@ -23672,6 +23792,16 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190481",
+          "author": null,
+          "description": "Award-winning golf manga creator died of pancreatic cancer at 75",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-04/kaze-no-daichi-dr-typhoon-manga-creator-eiji-kazama-passes-away/.190481",
+          "publishedOn": "2022-10-04T08:05:12.000Z",
+          "wordCount": 2967,
+          "title": "Kaze no Daichi, Dr. Typhoon Manga Creator Eiji Kazama Passes Away",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYY/cms/news.5/190481/kaze-no-daichi-84.jpeg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190452",
           "author": null,
           "description": "Delicious Party♡Precure stays at #3, Utano☆Princesama rises to #5",
@@ -25408,6 +25538,16 @@
       "feedUrl": "http://feeds.feedburner.com/crunchyroll/animenews",
       "siteUrl": "https://www.crunchyroll.com/news",
       "articles": [
+        {
+          "id": "https://www.crunchyroll.com/anime-news/2022/10/04/battle-lines-are-drawn-in-new-bungo-stray-dogs-season-4-key-visual",
+          "author": "Liam Dempsey",
+          "description": "Crunchyroll will simulcast the new season from January 2023\n\n\nAhead of its January 2023 premiere and confirmed simulcast on Crunchyroll, the much-anticipated fourth season of Bungo Stray Dogs dropped a new key visual depicting a head-on battle between our literary heroes and the new villains. Two more cast members were also revealed, so hit the jump for the full picture!",
+          "link": "https://www.crunchyroll.com/anime-news/2022/10/04/battle-lines-are-drawn-in-new-bungo-stray-dogs-season-4-key-visual",
+          "publishedOn": "2022-10-04T09:01:12.000Z",
+          "wordCount": 6344,
+          "title": "Battle Lines Are Drawn in New Bungo Stray Dogs Season 4 Key Visual",
+          "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/bd0cda51972c8d0157e4f23a52ce71b01664874116_main.jpg"
+        },
         {
           "id": "https://www.crunchyroll.com/anime-news/2022/10/03/evangelion-30111-thrice-upon-a-time-gets-dvdblu-ray-release-on-march-8-2023",
           "author": "Mikikazu Komatsu",
@@ -27655,6 +27795,16 @@
       "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
+        {
+          "id": "https://www.thehindu.com/news/international/russias-federation-council-ratifies-annexation-of-four-ukrainian-regions/article65969659.ece",
+          "author": "Reuters",
+          "description": "Russia’s Federation Council unanimously ratified legislation to annex the Donetsk, Luhansk, Kherson and Zaporizhzhia regions of Ukraine, following a similar vote in the State Duma, Russia’s lower house, yesterday",
+          "link": "https://www.thehindu.com/news/international/russias-federation-council-ratifies-annexation-of-four-ukrainian-regions/article65969659.ece",
+          "publishedOn": "2022-10-04T08:57:24.000Z",
+          "wordCount": 6126,
+          "title": "Russia&#039;s Federation Council ratifies annexation of four Ukrainian regions",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/krqec1/article65969702.ece/alternates/LANDSCAPE_615/2022-10-03T131516Z_1616657811_RC2CTW9AECUQ_RTRMADP_3_UKRAINE-CRISIS-ANNEXATIONS-RUSSIA.JPG"
+        },
         {
           "id": "https://www.thehindu.com/news/international/uk-to-propose-asylum-ban-on-english-channel-migrants/article65969576.ece",
           "author": "Reuters",
@@ -30072,6 +30222,66 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/cheers-and-slogans-echo-at-amit-shahs-rally-in-jammu-and-kashmirs-rajouri/articleshow/94639675.cms",
+          "author": null,
+          "description": "India News: RAJOURI: Union home minister and minister of cooperation Amit Shah addressed a public rally in Rajouri, Jammu and Kashmir on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/cheers-and-slogans-echo-at-amit-shahs-rally-in-jammu-and-kashmirs-rajouri/articleshow/94639675.cms",
+          "publishedOn": "2022-10-04T08:55:02.000Z",
+          "wordCount": 5684,
+          "title": "Cheers and slogans echo at Amit Shah's rally in Jammu and Kashmir's Rajouri",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94639709,width-1070,height-580,imgsize-33354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/will-use-indian-army-hotline-to-communicate-with-china-in-case-of-air-space-violation-air-chief-chaudhari/articleshow/94639021.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: IAF Air Chief Marshal VR Chaudhari on Tuesday said that the Indian Army will be communicating with China over the issue of any air space vi.",
+          "link": "https://timesofindia.indiatimes.com/india/will-use-indian-army-hotline-to-communicate-with-china-in-case-of-air-space-violation-air-chief-chaudhari/articleshow/94639021.cms",
+          "publishedOn": "2022-10-04T08:48:15.000Z",
+          "wordCount": 6804,
+          "title": "Will use Indian Army hotline to communicate with China in case of air space violation: Air Chief Chaudhari",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/centre-approves-amendments-to-private-fm-phase-iii-guidelines/articleshow/94639474.cms",
+          "author": null,
+          "description": "India News: NEW DELHI: The Centre has amended the policy guidelines for the expansion of private FM radio stations by simplifying the financial eligibility norms .",
+          "link": "https://timesofindia.indiatimes.com/india/centre-approves-amendments-to-private-fm-phase-iii-guidelines/articleshow/94639474.cms",
+          "publishedOn": "2022-10-04T08:44:14.000Z",
+          "wordCount": 5544,
+          "title": "Centre approves amendments to private FM Phase-III guidelines",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94639462,width-1070,height-580,imgsize-750030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/never-expected-big-leaders-support-but-need-everyones-backing-shashi-tharoor-on-congress-president-election/articleshow/94639346.cms",
+          "author": null,
+          "description": "India News: THIRUVANANTHAPURAM: With campaigning for the Congress presidential poll kicking off, party leader Shashi Tharoor on Tuesday said he never expected big.",
+          "link": "https://timesofindia.indiatimes.com/india/never-expected-big-leaders-support-but-need-everyones-backing-shashi-tharoor-on-congress-president-election/articleshow/94639346.cms",
+          "publishedOn": "2022-10-04T08:36:40.000Z",
+          "wordCount": 6524,
+          "title": "Never expected big leaders' support, but need everyone's backing: Shashi Tharoor on Congress president election",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94639316,width-1070,height-580,imgsize-43070,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/indias-rank-in-global-innovation-index-has-improved-president-droupadi-murmu/articleshow/94639180.cms",
+          "author": null,
+          "description": "India News: AHMEDABAD: India's rank in the Global Innovation Index has risen from 81st to 40th, President Droupadi Murmu said on Tuesday.",
+          "link": "https://timesofindia.indiatimes.com/india/indias-rank-in-global-innovation-index-has-improved-president-droupadi-murmu/articleshow/94639180.cms",
+          "publishedOn": "2022-10-04T08:30:50.000Z",
+          "wordCount": 5757,
+          "title": "India's rank in Global Innovation Index has improved: President  Droupadi Murmu",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94639190,width-1070,height-580,imgsize-101384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/appropriate-measures-put-in-place-to-deal-with-chinese-activities-along-lac-iaf-chief/articleshow/94638679.cms",
+          "author": null,
+          "description": "Air Chief Marshal Chaudhari said the IAF has been preparing for all kinds of security challenges including \"worst-case scenario\" and asserted that it is fully ready to face any situation. \"We continue to be operationally deployed and ever vigilant,\" he said, adding the IAF continues to monitor all Chinese activities along the LAC.",
+          "link": "https://timesofindia.indiatimes.com/india/appropriate-measures-put-in-place-to-deal-with-chinese-activities-along-lac-iaf-chief/articleshow/94638679.cms",
+          "publishedOn": "2022-10-04T08:03:34.000Z",
+          "wordCount": 5986,
+          "title": "Appropriate measures put in place to deal with Chinese activities along LAC: IAF chief",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94638669,width-1070,height-580,imgsize-56338,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-participate-in-kullu-dussehra-celebrations-in-hp/articleshow/94637805.cms",
           "author": null,
@@ -38624,6 +38834,16 @@
           "imageUrl": "https://static.toiimg.com/thumb/msid-94630863,width-1070,height-580,imgsize-440400,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-tickets-not-booked-flying-this-diwali-will-cost-a-bomb/articleshow/94630540.cms",
+          "author": null,
+          "description": "Mumbaikars who plan to fly out for a holiday during the Diwali break later this month would be in for a shock if they haven't already booked their air tickets, that is.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-tickets-not-booked-flying-this-diwali-will-cost-a-bomb/articleshow/94630540.cms",
+          "publishedOn": "2022-10-04T01:28:40.000Z",
+          "wordCount": 6269,
+          "title": "Tickets not booked? Flying this Diwali will cost a bomb",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94630583,width-1070,height-580,imgsize-11706,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/city/kanpur/uttar-pradesh-8-students-of-jhansi-government-polytechnic-get-life-for-minors-rape/articleshow/94630460.cms",
           "author": null,
           "description": "Eight students of the Jhansi Government Polytechnic were awarded life imprisonment here on Monday for raping a minor girl almost 24 months ago. Besides imprisonment, the special court for rape and POCSO Act also slapped a total fine of Rs 30,000 on other counts on each of the accused, half of which will be given to the rape survior.",
@@ -38632,6 +38852,16 @@
           "wordCount": 6076,
           "title": "8 Jhansi students get jail for raping a minor girl",
           "imageUrl": "https://static.toiimg.com/thumb/msid-94630500,width-1070,height-580,imgsize-26732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-04-10-2022/liveblog/94630143.cms",
+          "author": null,
+          "description": "As many as 28 trainees of Nehru Mountaineering Institute have been trapped following an avalanche in Draupadi's Danda-2 mountain peak. Rapid, relief and rescue operations are underway by the district administration. Stay here for real-time updates on breaking news from India and across the world that you can't miss",
+          "link": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-04-10-2022/liveblog/94630143.cms",
+          "publishedOn": "2022-10-04T00:36:00.000Z",
+          "wordCount": 9869,
+          "title": "Live: Avalanche hits Uttarakhand peak; 8 rescued, 21 still trapped",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94630143,width-1070,height-580,imgsize-1328936,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         },
         {
           "id": "https://timesofindia.indiatimes.com/india/dg-prisons-found-murdered-in-jammu-home/articleshow/94629892.cms",
