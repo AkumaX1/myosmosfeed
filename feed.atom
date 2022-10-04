@@ -2,10 +2,327 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T14:30:40.853Z</updated>
+    <updated>2022-10-04T15:15:39.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man Who Killed 6 at a Christmas Parade Now Says He's a Sovereign Citizen]]></title>
+        <id>xgy4nw</id>
+        <link href="https://www.vice.com/en_us/article/xgy4nw/darrell-brooks-trial-waukesha-christmas-parade-attack"/>
+        <updated>2022-10-04T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Six people were killed when a man drove a car through a crowd last year. Now the driver is turning the trial into a spectacle while trying to represent himself.]]></summary>
+        <author>
+            <name>Mack Lamoureux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Dead Space remake trailer is here, and it’s as gross as you’d hope]]></title>
+        <id>https://www.polygon.com/23385236/dead-space-remake-trailer-gameplay-isaac-clarke</id>
+        <link href="https://www.polygon.com/23385236/dead-space-remake-trailer-gameplay-isaac-clarke"/>
+        <updated>2022-10-04T15:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Image: Visceral Games/Electronic Arts
+    
+
+  
+Isaac is back on the USG Ishimura, just in time for Halloween
+ The Dead Space remake is only a few months away, and the first official gameplay trailer is finally here. 
+The trailer dropped on Tuesday morning and showcases Isaac Clarke — the protagonist from all three of the Dead Space games — running through the halls of the USG Ishimura, a planet cracker starship. The gameplay shows Isaac dismembering and mutilating a variety of zombie creatures, called Necromorphs, with his classic weapon: the plasma cutter.
+For newcomers to the Dead Space franchise, Isaac Clarke is an engineer who travels with a small crew to help fix the Ishimura after a distress signal. Nicole, Isaac’s girlfriend, also happens to be stationed on the planet cracker. When Isaac reaches the ship, he and the crew discover an army of zombified humans, all of whom have been transformed due to a mysterious relic: The Marker. Isaac must use a variety of weapon-like construction tools — a cutter, a flamethrower, a... flying buzzsaw — to dismember the zombified crew so they can’t piece themselves back together again.
+The Dead Space remake is a recreation of the first game, but EA Motive is taking some creative liberties with the classic title to help modernize it. For example, the studio recently revealed that the game will feature a contiguous camera shot and will never cut — ala 2018’s God of War. The game will also flesh out characters like Nicole, and allow players to physically see some characters that are otherwise only used in audio logs found about the Ishimura.
+But don’t panic if you’re a fan of the original game. EA Motive has been using a community council — a group of hardcore Dead Space fans who’ve been checking in on development since the beginning — to help ensure the remake remains faithful to the original. 
+EA will launch the Dead Space remake on Jan. 27, 2023, for PlayStation 5, Windows PC, and Xbox Series X.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit acqui-hires team from ML content moderation startup Oterlu]]></title>
+        <id>https://techcrunch.com/?p=2418256</id>
+        <link href="https://techcrunch.com/2022/10/04/reddit-acqui-hires-ml-content-moderation-company-oterlu/"/>
+        <updated>2022-10-04T15:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Reddit announced today that it’s bringing on the team from Oterlu, a startup from Gothenburg, Sweden that develops machine learning-powered content moderation tools. The Oterlu team will join Reddit’s Safety team and develop native machine learning moderation models that can quickly and accurately detect harmful content across a range of languages, Reddit says. The Oterlu […]
+Reddit acqui-hires team from ML content moderation startup Oterlu by Aisha Malik originally published on TechCrunch]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90]]></title>
+        <id>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html"/>
+        <updated>2022-10-04T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.]]></summary>
+        <author>
+            <name>Bill Friskics-Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Fizz, the social app downloaded by ‘95% of Stanford undergrads’]]></title>
+        <id>https://techcrunch.com/?p=2408331</id>
+        <link href="https://techcrunch.com/2022/10/04/fizz-app-college-stanford-social/"/>
+        <updated>2022-10-04T15:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Last fall, Rakesh Mathur stayed up until the wee hours of the morning, waiting for his daughter to come home from a frat party at Stanford. “She walks in at 2:30 with just a big, beaming smile. There’s no apology or anything like that,” Mathur told TechCrunch. “She says, ‘Papa, I met the next Mark […]
+Meet Fizz, the social app downloaded by ‘95% of Stanford undergrads’ by Amanda Silberling originally published on TechCrunch]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edtech’s honeymoon might be over, but expect a second boom]]></title>
+        <id>https://techcrunch.com/?p=2418136</id>
+        <link href="https://techcrunch.com/2022/10/04/edtechs-honeymoon-might-be-over-but-expect-a-second-boom/"/>
+        <updated>2022-10-04T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Learning is something we all do from our earliest days to our final years, and the breadth of edtech is beginning to reflect this truth, and so is the startup and investment landscape.
+Edtech’s honeymoon might be over, but expect a second boom by Ram Iyer originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xembly raises cash to develop an AI assistant for corporate meetings]]></title>
+        <id>https://techcrunch.com/?p=2410980</id>
+        <link href="https://techcrunch.com/2022/10/04/xembly-raises-cash-to-develop-an-ai-assistant-for-corporate-meetings/"/>
+        <updated>2022-10-04T15:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Macroeconomic factors are placing pressure on companies to improve efficiency, and on employees and their managers to do more with less. Amidst all the challenges and tribulations, workers believe a large portion of their work week is unproductive, with the majority of respondents to a recent (2018) Intuit survey saying that they’d get more done […]
+Xembly raises cash to develop an AI assistant for corporate meetings by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These beautiful Elden Ring art prints will make your walls look less tarnished]]></title>
+        <id>https://www.theverge.com/2022/10/4/23385070/elden-ring-art-prints-cook-and-becker</id>
+        <link href="https://www.theverge.com/2022/10/4/23385070/elden-ring-art-prints-cook-and-becker"/>
+        <updated>2022-10-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cook and Becker
+    
+
+
+  
+A new series of high-quality prints from Cook and Becker will ensure your living room isn’t maidenless
+ Arise, ye art... and get on my wall. Ahem. While Elden Ring is perhaps best known for its epic scale and punishing difficulty, it also happens to be one of the most beautiful fantasy realms I’ve ever explored (with a controller in hand, at least). Now you can bring the dark fantasy world into your living room with a new collection of “museum-grade-quality” Elden Ring prints from Cook and Becker. No longer will your home look maidenless.
+There are 10 prints in total, featuring everything from the iconic Erdtree to locations like the Academy of Raya Lucaria and one of those always-tempting lifts to the underground. There are a few different framing and finishing options, with prices varying depending on what you choose. You can get all of the details at Cook and Becker’s site.
+If that name sounds familiar, it’s probably because Cook and Becker has built up a name over the years with high-quality art prints from some of the biggest games — like The Last of Us Part II and Ghost of Tsushima — as well as impressively gigantic art books. As for Elden Ring, you can check out a few of the pieces in the gallery below.
+Image: Cook and Becker
+      Godfrey, in print form.
+  
+  
+        
+      Image: Cook and Becker
+      The Erdtree.
+  
+  
+        
+      Image: Cook and Becker
+      Need a lift?
+  
+  
+        
+      Image: Cook and Becker
+      The debate parlor.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Oversight Board to review Iranian protest content]]></title>
+        <id>https://www.theverge.com/2022/10/4/23387074/facebook-oversight-board-iran-khamenei-protests-mahsa-amini</id>
+        <link href="https://www.theverge.com/2022/10/4/23387074/facebook-oversight-board-iran-khamenei-protests-mahsa-amini"/>
+        <updated>2022-10-04T14:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Nick Barclay / The Verge
+    
+
+  
+The Facebook Oversight Board announced Tuesday that it was reviewing a company decision to remove a post calling for the death of Iran’s Supreme Leader Ayatollah Ali Khamenei in the wake of nationwide protests in the country. 
+In its Tuesday announcement, the board describes the July post as depicting a caricature of Khamenei grasping “a woman wearing the hijab” with his beard. The image is captioned calling for death to the “anti-women Islamic government” and its “filthy leader Khamenei.” While Facebook removed the post for encouraging violence against a political leader, the company later reinstated it in August once the board chose to review the decision, the announcement said.
+“As we cannot hear every appeal, the Board prioritizes cases…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine&#039;s war-torn economy will sink 35% in 2022: World Bank]]></title>
+        <id>https://www.thehindu.com/news/international/ukraines-war-torn-economy-will-sink-35-in-2022-world-bank/article65970170.ece</id>
+        <link href="https://www.thehindu.com/news/international/ukraines-war-torn-economy-will-sink-35-in-2022-world-bank/article65970170.ece"/>
+        <updated>2022-10-04T14:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Russian economy, hammered by Western sanctions, is expected to shrink both years — by 4.5% in 2022 and 3.6% next year]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainsaw Man Anime Teaser Clip Prepares Us for First Episode]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04-1/chainsaw-man-anime-teaser-clip-prepares-us-for-first-episode</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04-1/chainsaw-man-anime-teaser-clip-prepares-us-for-first-episode"/>
+        <updated>2022-10-04T14:52:51.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese broadcast begins on October 11, with Crunchyroll to stream
+
+
+The Chainsaw Man anime is almost upon us, so a new teaser went online for the first episode, "Dog and Chainsaw." Check out the clip after the jump.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Board Chair Squaring Up to Elon Musk in the Feud Over Twitter]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/twitter-board-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/twitter-board-elon-musk.html"/>
+        <updated>2022-10-04T14:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Bret Taylor, an understated executive, led talks with Elon Musk over his plans to acquire the company. Now, he’s leading the legal fight to seal the deal.]]></summary>
+        <author>
+            <name>Kate Conger and Lauren Hirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herschel Walker Is Against Abortions, Except the One He Paid For]]></title>
+        <id>7k8eg9</id>
+        <link href="https://www.vice.com/en_us/article/7k8eg9/herschel-walkers-son-christian-walker"/>
+        <updated>2022-10-04T14:48:37.000Z</updated>
+        <summary type="html"><![CDATA[The GOP senate candidate has repeatedly touted his anti-abortion views. Now an ex-girlfriend says he urged her to have an abortion, and paid for it.]]></summary>
+        <author>
+            <name>Paul Blest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sixt to buy 100,000 electric vehicles from China’s BYD]]></title>
+        <id>https://techcrunch.com/?p=2418242</id>
+        <link href="https://techcrunch.com/2022/10/04/sixt-to-buy-100000-electric-vehicles-from-chinas-byd/"/>
+        <updated>2022-10-04T14:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Sixt initially committed to buy "several thousand" EVs from BYD. First deliveries to France, Germany, Netherlands and U.K. start this year.
+Sixt to buy 100,000 electric vehicles from China’s BYD by Rebecca Bellan originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google begins rolling out its iOS 16 Lock Screen widgets]]></title>
+        <id>https://techcrunch.com/?p=2418252</id>
+        <link href="https://techcrunch.com/2022/10/04/google-begins-rolling-out-its-ios-16-lock-screen-widgets/"/>
+        <updated>2022-10-04T14:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Google’s anticipated iOS 16 Lock Screen widgets have now begun to arrive. Alongside the launch of Apple’s new mobile operating system, iOS 16, the search giant last month had teased its plans to support the iPhone’s newest feature that allows users to place widgets directly on their phone’s lock screen, offering information and easy access […]
+Google begins rolling out its iOS 16 Lock Screen widgets by Sarah Perez originally published on TechCrunch]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Quando Rondo’s Turn]]></title>
+        <id>https://www.rollingstone.com/?p=1234603991</id>
+        <link href="https://www.rollingstone.com/music/music-features/quando-rondo-interview-new-music-1234603991/"/>
+        <updated>2022-10-04T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[The 23-year-old Savannah, Georgia, rapper talks about new music, trying to change, and dealing with the bloodthirsty rap blogosphere]]></summary>
+        <author>
+            <name>Andre Gee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loretta Lynn, Country Music’s Groundbreaking ‘Coal Miner’s Daughter,’ Dead at 90]]></title>
+        <id>https://www.rollingstone.com/?p=65340/</id>
+        <link href="https://www.rollingstone.com/music/music-country/loretta-lynn-dead-obituary-65340/"/>
+        <updated>2022-10-04T14:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Known for hits like "Fist City" and "The Pill," Lynn was a beacon of women empowerment]]></summary>
+        <author>
+            <name>Rolling Stone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modi, Zelenskyy discuss Ukraine conflict; PM says there can be ‘no military solution’]]></title>
+        <id>https://www.thehindu.com/news/national/modi-zelenskyy-discuss-ukraine-conflict-pm-says-there-can-be-no-military-solution/article65970255.ece</id>
+        <link href="https://www.thehindu.com/news/national/modi-zelenskyy-discuss-ukraine-conflict-pm-says-there-can-be-no-military-solution/article65970255.ece"/>
+        <updated>2022-10-04T14:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Mr. Modi expressed his firm conviction that there can be no military solution to the conflict and conveyed India’s readiness to contribute to any peace efforts]]></summary>
+        <author>
+            <name>PTI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Blue’s Clues’ Original Host Steve Burns Makes Up for Lost Time in ‘Blue’s Big City Adventure’ Trailer]]></title>
+        <id>https://www.rollingstone.com/?p=1234604820</id>
+        <link href="https://www.rollingstone.com/tv-movies/tv-movie-news/blues-clues-blues-big-city-adventure-trailer-1234604820/"/>
+        <updated>2022-10-04T14:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Clip arrives over a year after Burns went viral for sharing a video on Twitter nearly 20 years after he left the series]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chivalry 2, Scorn, and A Plague Tale: Requiem coming to Xbox Game Pass in October]]></title>
+        <id>https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2</id>
+        <link href="https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2"/>
+        <updated>2022-10-04T14:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Image: Torn Banner Studios
+    
+
+  
+Sable is soaring off the service this month
+ October is finally upon us and, in the spirit of the season, a plethora of spooky games are coming to Xbox Game Pass, while a couple of old favorites are leaving the service by the end of the month. Here’s what you have to look forward to for the rest of October.
+Chivalry 2, the medieval hack-and-slash multiplayer arena game, joins Xbox Game Pass starting today. Polygon’s own Patrick Gill described the sequel to Torn Banner Studios’ 2012 Chivalry: Medieval Warfare as “Battlefield 1242,” and if that doesn’t pique your interest, I don’t know what will.
+Scorn, the first-person horror adventure game inspired by the art of H.R. Giger and Zdzisław Beksiński, will launch on Xbox Game Pass on Oct. 14. The game has bee…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone is tricking Chinese YouTube users with a spyware version of the Tor Browser]]></title>
+        <id>https://www.theverge.com/2022/10/4/23386979/tor-malware-chinese-youtube-anonymity-vpn-kaspersky</id>
+        <link href="https://www.theverge.com/2022/10/4/23386979/tor-malware-chinese-youtube-anonymity-vpn-kaspersky"/>
+        <updated>2022-10-04T14:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Researchers at Kaspersky have found malware hidden in a modified version of the anonymity-preserving Tor Browser, distributed in a way that specifically targets users in China.
+According to details published in a blog post on Tuesday, the malware campaign reaches unsuspecting users through a Chinese-language YouTube video about staying anonymous online. During the research period, the video was the top result for the YouTube query “Tor浏览器,” which translates to “Tor browser” in Chinese. Beneath the video, one URL links to the official Tor website (which is blocked in China); another provides a link to a cloud-sharing service that hosts an installer for Tor, modified to include malicious code.
+Once the file is executed, it installs a working v…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SingleStore raises $30M more to brings its database tech to new customers]]></title>
+        <id>https://techcrunch.com/?p=2418040</id>
+        <link href="https://techcrunch.com/2022/10/04/singlestore-raises-30m-more-to-brings-its-database-tech-to-new-customers/"/>
+        <updated>2022-10-04T14:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Months after bagging $116 million in an extension of its Series F round, database vendor SingleStore this week announced that it raised an additional $30 million from investors including Prosperity7, the venture arm of Saudi Aramco. The Series F — or “Series F-2,” technically — now stands at $146 million, bringing SingleStore’s total raised to […]
+SingleStore raises $30M more to brings its database tech to new customers by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Teases Super Mario Bros. Movie, Sets Time for World Premiere Trailer]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04/nintendo-teases-super-mario-bros-movie-sets-time-for-world-premiere-trailer</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04/nintendo-teases-super-mario-bros-movie-sets-time-for-world-premiere-trailer"/>
+        <updated>2022-10-04T14:28:12.000Z</updated>
+        <summary type="html"><![CDATA[The first footage from the film is due out on October 6 during a Nintendo Direct
+
+
+Nintendo promised we'd be getting a look at the Super Mario Bros. CG-animated movie—which has the company teaming up with Illumination—this week, and now we know exactly when to expect it. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tear Gas, a Stampede, and an Indonesian Family Shattered]]></title>
+        <id>https://www.nytimes.com/2022/10/04/world/asia/indonesia-soccer-football-stadium.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/world/asia/indonesia-soccer-football-stadium.html"/>
+        <updated>2022-10-04T14:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Muhammad Yulianto and Devi Ratna Sari took their young son to his first soccer match. The young couple were among the 125 who died in the tragedy at the Indonesian stadium.]]></summary>
+        <author>
+            <name>Muktita Suhartono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks Rise Strongly for a Second Day]]></title>
+        <id>https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html"/>
+        <updated>2022-10-04T14:23:54.000Z</updated>
+        <summary type="html"><![CDATA[The rally brings some relief to Wall Street at the beginning of October, after the previous months ended on a sour note, capping a long streak of losses.]]></summary>
+        <author>
+            <name>Isabella Simonetti and Joe Rennison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First look at Super Mario Bros. movie coming in new Nintendo Direct]]></title>
         <id>https://www.polygon.com/23387007/super-mario-bros-movie-trailer-poster-nintendo-direct-date</id>
@@ -60,6 +377,26 @@ And it sure looks a lot like a modern-day Super Mario Bros. game. Mario, standin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[There can be no military solution to Ukraine conflict, PM Modi tells Zelenskyy]]></title>
+        <id>https://timesofindia.indiatimes.com/india/there-can-be-no-military-solution-to-ukraine-conflict-pm-modi-tells-zelenskyy/articleshow/94647503.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/there-can-be-no-military-solution-to-ukraine-conflict-pm-modi-tells-zelenskyy/articleshow/94647503.cms"/>
+        <updated>2022-10-04T14:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Prime Minister Narendra Modi on Tuesday spoke with Ukraine President Volodymyr Zelenskyy and stressed that there can be no military solution to the Ukraine conflict, while also underlining that endangerment of nuclear facilities could have catastrophic consequences. He also conveyed India's readiness to contribute to any peace efforts.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM Modi raises safety concerns over nuclear facilities in Ukraine]]></title>
+        <id>https://timesofindia.indiatimes.com/india/there-can-be-no-military-solution-to-ukraine-conflict-pm-modi-tells-zelenskyy/articleshow/94647503.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/there-can-be-no-military-solution-to-ukraine-conflict-pm-modi-tells-zelenskyy/articleshow/94647503.cms"/>
+        <updated>2022-10-04T14:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Prime Minister Narendra Modi on Tuesday spoke with Ukraine President Volodymyr Zelenskyy and stressed that there can be no military solution to the Ukraine conflict, while also underlining that endangerment of nuclear facilities could have catastrophic consequences. He also conveyed India's readiness to contribute to any peace efforts.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kid Cudi’s Entergalactic owes more to Beyoncé than Spider-Verse]]></title>
         <id>https://www.polygon.com/entertainment/23385545/entergalactic-kid-cudi-beyonce-lemonade-director-interview</id>
         <link href="https://www.polygon.com/entertainment/23385545/entergalactic-kid-cudi-beyonce-lemonade-director-interview"/>
@@ -83,6 +420,16 @@ Entergalactic’s story lands somewhere between High Fidelity, Someone Great, an
         <summary type="html"><![CDATA[A 45-year old man set his bike on fire after being fined for traffic violation near Ameerpet metro station in Hyderabad on Monday evening. In the viral video, the traffic policeman can be seen extinguishing the fire. However, the incident led to traffic disruption for a brief period of time.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[42K people lost lives in terrorism in J&K over years, security forces in full control of situation now: Amit Shah]]></title>
+        <id>https://timesofindia.indiatimes.com/india/42k-people-lost-lives-in-terrorism-in-jk-over-years-security-forces-in-full-control-of-situation-now-amit-shah/articleshow/94647471.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/42k-people-lost-lives-in-terrorism-in-jk-over-years-security-forces-in-full-control-of-situation-now-amit-shah/articleshow/94647471.cms"/>
+        <updated>2022-10-04T14:15:02.000Z</updated>
+        <summary type="html"><![CDATA[India News: JAMMU: Union home minister Amit Shah on Tuesday said 42,000 people lost their lives to terrorism in Jammu and Kashmir over the years but security situ.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -111,6 +458,19 @@ What Magic formats will these Universes Beyond cards be compatible with? Hasbro 
         <summary type="html"><![CDATA[The iconic singer's performance was full of classic hits, touching tributes, and yes, lots of shawls.]]></summary>
         <author>
             <name>Brittany Spanos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Energized with Tea Inspired by the Eight High Schools of Haikyuu!!]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04/get-energized-with-tea-inspired-by-the-eight-high-schools-of-haikyuu</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04/get-energized-with-tea-inspired-by-the-eight-high-schools-of-haikyuu"/>
+        <updated>2022-10-04T14:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Gin-Iro-Neko will release the collab brews starting in December
+
+
+Get energized (or relaxed) with one of eight Haikyu!!-inspired tea blends from Gin-Iro-Neko Tea Salon! The company, which has a long catalog of anime-inspired blends, is adding the hit sports series to its menu in December. Get a sneak preview of what's on offer after the jump!]]></summary>
+        <author>
+            <name>Kara Dennison</name>
         </author>
     </entry>
     <entry>
@@ -700,6 +1060,16 @@ Continuing on with the Korone and Sonic collaborative celebrations this year, th
         <summary type="html"><![CDATA[The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.]]></summary>
         <author>
             <name>Steve Lohr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 80% of Bangladesh hit by power blackout]]></title>
+        <id>https://timesofindia.indiatimes.com/world/south-asia/over-80-per-cent-of-bangladesh-hit-by-power-blackout-after-national-grid-fails/articleshow/94644735.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/south-asia/over-80-per-cent-of-bangladesh-hit-by-power-blackout-after-national-grid-fails/articleshow/94644735.cms"/>
+        <updated>2022-10-04T12:12:48.000Z</updated>
+        <summary type="html"><![CDATA[A failure in Bangladesh's national power grid plunged much of the country into a blackout on Tuesday, officials said. Bangladesh's recent impressive economic growth has been threatened by power shortages since the government suspended operations of all diesel-run power plants to reduce costs for imports as prices have soared.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
