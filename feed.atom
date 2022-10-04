@@ -2,10 +2,475 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T15:15:39.933Z</updated>
+    <updated>2022-10-04T16:17:26.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaron Judge Home Run No. 62 Estimate: 22 Solid Pitches Left]]></title>
+        <id>https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html"/>
+        <updated>2022-10-04T16:10:54.000Z</updated>
+        <summary type="html"><![CDATA[We estimate that Judge has about 22 solid pitches left to hit a homer in the Yankees’ three remaining games of the regular season.]]></summary>
+        <author>
+            <name>Jonathan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zipline’s drones to deliver medicine in Salt Lake City area]]></title>
+        <id>https://techcrunch.com/?p=2418146</id>
+        <link href="https://techcrunch.com/2022/10/04/ziplines-drones-to-deliver-medicine-in-salt-lake-city-area/"/>
+        <updated>2022-10-04T16:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Zipline, a drone delivery and logistics company that got its start delivering medical supplies in Africa, has started dropping prescriptions and over-the-counter medications to homes in the Salt Lake City, Utah area. In a partnership with Intermountain Healthcare, a healthcare company that services the Intermountain Region of the United States, Zipline will deploy an initial […]
+Zipline’s drones to deliver medicine in Salt Lake City area by Rebecca Bellan originally published on TechCrunch]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt confirms plans for four more Witcher games]]></title>
+        <id>https://www.polygon.com/23387244/cd-projekt-red-four-new-witcher-games-announced</id>
+        <link href="https://www.polygon.com/23387244/cd-projekt-red-four-new-witcher-games-announced"/>
+        <updated>2022-10-04T16:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Image: CD Projekt Red
+    
+
+  
+Wind’s howling... for more sequels  
+ CD Projekt Red announced in a series of tweets on Tuesday that, in addition to the previously announced Witcher sequel being developed via Unreal Engine 5, a total of four further Witcher games is set to released in the future. 
+The first post-Witcher 3 game, now codenamed “Polaris,” will be followed by two more sequels as part of a trilogy. All three games will be delivered within a six-year period after the release of the first, according to a CDPR strategy document. Two additional Witcher games, codenamed “Sirius” and “Canis Majoris”, will be created by The Flame in the Flood developer The Molasses Flood and an unnamed external studio headed by “experienced developers who have worked on past Witcher games.”
+
+
+Not much is known about “Sirius” or “Canis Majoris” at this time. The former title is set in The Witcher universe and will feature multiplayer gameplay on top of a single-player experience, including a story-driven campaign with quests. The latter is described as a “full-fledged Witcher game.” Both games will be separate from the new Witcher saga set to begin with the release of “Polaris.”]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram to increase ad load as Meta fights revenue decline]]></title>
+        <id>https://techcrunch.com/?p=2418328</id>
+        <link href="https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/"/>
+        <updated>2022-10-04T16:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Following another quarter that saw marketers pull back on their ad spending, Meta today announced it’s increasing its ad load on Instagram with the launch of two new ad slots. Amid a slew of product updates for advertisers, including a music catalog for advertisers and a new ad format for Facebook Reels, the company said […]
+Instagram to increase ad load as Meta fights revenue decline by Sarah Perez originally published on TechCrunch]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDPR Planning A Cyberpunk 2077 Sequel And A Whole New Witcher Trilogy]]></title>
+        <id>1849614319</id>
+        <link href="https://kotaku.com/cyberpunk-2077-sequel-witcher-4-cdpr-orion-edgerunners-1849614319"/>
+        <updated>2022-10-04T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyberpunk 2077's controversial history doesn’t seem to have dampened CD Projekt Red’s ambitions at all. The Polish studio announced a sequel is coming at some point, currently codenamed Project Orion. It also has three Witcher projects in the works, including an entire sequel trilogy planned to follow up on the…
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matter’s Internet of Things standard, certification ready for developers]]></title>
+        <id>https://techcrunch.com/?p=2418342</id>
+        <link href="https://techcrunch.com/2022/10/04/matters-internet-of-things-standard/"/>
+        <updated>2022-10-04T16:02:07.000Z</updated>
+        <summary type="html"><![CDATA[The Matter 1.0 standard and certification program enables smart home device brands to communicate with each other in your home from one place.
+Matter’s Internet of Things standard, certification ready for developers by Christine Hall originally published on TechCrunch]]></summary>
+        <author>
+            <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2: How to add a phone number for Blizzard’s SMS Protect]]></title>
+        <id>https://www.polygon.com/23385894/sms-protect-add-phone-number</id>
+        <link href="https://www.polygon.com/23385894/sms-protect-add-phone-number"/>
+        <updated>2022-10-04T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard Entertainment
+    
+
+  
+Blizzard requires you to register a phone number if you want to play Overwatch 2
+ If you want to play Overwatch 2 when it’s released on Oct. 4, you’ll be required to enter your phone number as part of Activision Blizzard’s SMS Protect feature. The same goes for Call of Duty: Modern Warfare 2 when it’s released, and newly created Call of Duty: Modern Warfare accounts.
+It’s not hard to do if you’ve got an eligible phone number — some, like numbers on pre-paid plans, don’t qualify — but Activision Blizzard hasn’t offered clear messaging on how players can do it. Here’s how:
+Go to Battle.net and log in.
+On the site’s top navigation bar, click your account name. (If you aren’t already logged in, it’ll say My Account.) It’s all the way to the right.
+From the dropdown menu, click Account Settings.
+Click the three blue lines on the left side of the navigation bar.
+ From there, click Account Details.
+The third section down is where you’ll enter your phone number. If you’ve already got one there, you’re good to go. Otherwise, click on Add Phone Number and type yours in. Activision Blizzard will send you a security code that you’ll then have to enter on-screen.
+If you need to change your pone number, you’ll click Update inside the phone number box. The next page will make sure you want to, and if you do, follow the instructions from there — the same as adding your number for the first time.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BJP got Rs10 crore from Mumbai-based trust in '21-22: Election Commission]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bjp-got-rs10-crore-from-mumbai-based-trust-in-21-22-election-commission/articleshow/94649317.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bjp-got-rs10-crore-from-mumbai-based-trust-in-21-22-election-commission/articleshow/94649317.cms"/>
+        <updated>2022-10-04T16:00:46.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Mumbai-based A B General Electoral Trust gave all of its Rs 10 crore donations in 2021-22 to the BJP, while the Rs 50 lakh contribution rou.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireless power company Emrod beams 550 W across an Airbus warehouse]]></title>
+        <id>https://techcrunch.com/?p=2418336</id>
+        <link href="https://techcrunch.com/2022/10/04/wireless-power-company-emrod-beams-550-w-across-an-airbus-warehouse/"/>
+        <updated>2022-10-04T16:00:09.000Z</updated>
+        <summary type="html"><![CDATA[The European Space Agency and Airbus teamed up with New Zealand-based startup Emrod to demonstrate a wireless power transfer system in Munich last week.
+Wireless power company Emrod beams 550 W across an Airbus warehouse by Tim De Chant originally published on TechCrunch]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matter 1.0 is finally finalized — so what’s next?]]></title>
+        <id>https://www.theverge.com/2022/10/4/23386883/matter-smart-home-standard-apple-google-launch</id>
+        <link href="https://www.theverge.com/2022/10/4/23386883/matter-smart-home-standard-apple-google-launch"/>
+        <updated>2022-10-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+
+  
+The smart home standard is open for certification at last. We could see Matter devices in our homes as soon as this month.
+ 
+The Connectivity Standards Alliance has released the final Matter 1.0 standard and announced that the certification program is now open. An official Matter launch event is scheduled for November 3rd, but the first Matter devices could show up any day now. Companies can start selling Matter devices or upgrading existing ones as soon as they’re certified.  
+When the idea of Matter was first floated in 2019, there were a lot of people (myself included) who thought it would never happen. Apple, Google, Amazon, and Samsung sitting at a table together and coming up with a plan to fix the fractured smart home? Fierce competi…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bail to be decided on basis of nature of offences & not on paying capacity of accused: Supreme Court]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bail-to-be-decided-on-basis-of-nature-of-offences-not-on-paying-capacity-of-accused-supreme-court/articleshow/94649088.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bail-to-be-decided-on-basis-of-nature-of-offences-not-on-paying-capacity-of-accused-supreme-court/articleshow/94649088.cms"/>
+        <updated>2022-10-04T15:56:14.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Bail has to be decided by court on the basis of nature of offence and not by paying capacity of an accused, the Supreme Court observed whil.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Horoscope: October 4, 2022]]></title>
+        <id>n7z4y8</id>
+        <link href="https://www.vice.com/en_us/article/n7z4y8/daily-horoscope-october-4-2022"/>
+        <updated>2022-10-04T15:54:09.000Z</updated>
+        <summary type="html"><![CDATA[The moon enters Aquarius.]]></summary>
+        <author>
+            <name>Annabel Gat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to set up medication reminders in iOS 16]]></title>
+        <id>https://www.theverge.com/23206983/medication-reminders-ios-16-public-beta-how-to</id>
+        <link href="https://www.theverge.com/23206983/medication-reminders-ios-16-public-beta-how-to"/>
+        <updated>2022-10-04T15:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Samar Haddad / The Verge
+    
+
+  
+Of all the Health app features introduced in iOS 16, the new Medications feature may be the most practical. According to the CDC, 48.6 percent of Americans take at least one prescription medication a day. Unfortunately, an NIH study found that 30 to 50 percent of patients don’t adhere to long-term medications — in other words, they don’t keep to their medication schedules. This is a problem that costs the healthcare system hundreds of millions of dollars per year. In iOS 16, however, you can log and schedule which medications you take and set up reminders on your iPhone or Apple Watch. You can also share your medication list with loved ones or healthcare providers.
+30 to 50 percent of patients don’t keep to their medication schedules
+Third-…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's Asteroid-Punching Test Leaves Trail of Destruction 6,000 Miles Long]]></title>
+        <id>y3p5yx</id>
+        <link href="https://www.vice.com/en_us/article/y3p5yx/nasa-dart-asteroid-test-leaves-trail-of-destruction-6000-miles-long"/>
+        <updated>2022-10-04T15:49:43.000Z</updated>
+        <summary type="html"><![CDATA[The jury's still out on whether the DART mission managed to knock an asteroid off-course, but its trail of debris is very impressive.]]></summary>
+        <author>
+            <name>Becky Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Black Crowes’ Rich Robinson to Lead Benefit Concerts Marking 40th Anniversary of R.E.M.’s ‘Chronic Town’]]></title>
+        <id>https://www.rollingstone.com/?p=1234604898</id>
+        <link href="https://www.rollingstone.com/music/music-news/the-black-crowes-rich-robinson-r-e-m-chronic-town-planned-parenthood-concerts-1234604898/"/>
+        <updated>2022-10-04T15:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Hosted by David Cross, the celebration show will feature Chris and Rich Robinson, John Cameron Mitchell, Fred Armisen, and more with proceeds benefiting Planned Parenthood]]></summary>
+        <author>
+            <name>Larisha Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urusei Yatsura Lum VA Sumire Uesaka Cosplays for Weekly Shonen Sunday]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04-1/urusei-yatsura-lum-va-sumire-uesaka-cosplays-for-weekly-shonen-sunday</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04-1/urusei-yatsura-lum-va-sumire-uesaka-cosplays-for-weekly-shonen-sunday"/>
+        <updated>2022-10-04T15:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Uesaka also provides the voice for Lum in the upcoming Urusei Yatsura TV anime
+
+
+Voice actor Sumire Uesaka is not only playing the role of Lum, an alien invader and the lead love interest in the upcoming Urusei Yatsura TV anime, but she's also assuming the role through cosplay in a photoshoot published in the most recent issue of Weekly Shōnen Sunday magazine. Hit the jump to learn more.]]></summary>
+        <author>
+            <name>Paul Chapman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint theatre commands should not compromise IAF’s doctrines: Air Chief Marshal]]></title>
+        <id>https://timesofindia.indiatimes.com/india/joint-theatre-commands-should-not-compromise-iafs-doctrines-air-chief-marshal/articleshow/94649096.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/joint-theatre-commands-should-not-compromise-iafs-doctrines-air-chief-marshal/articleshow/94649096.cms"/>
+        <updated>2022-10-04T15:45:48.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The IAF is not against integration and creation of tri-service theatre commands but their proposed structures should not compromise doctrin.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Joint theatre commands should not compromise IAF doctrine']]></title>
+        <id>https://timesofindia.indiatimes.com/india/joint-theatre-commands-should-not-compromise-iafs-doctrines-air-chief-marshal/articleshow/94649096.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/joint-theatre-commands-should-not-compromise-iafs-doctrines-air-chief-marshal/articleshow/94649096.cms"/>
+        <updated>2022-10-04T15:45:48.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: The IAF is not against integration and creation of tri-service theatre commands but their proposed structures should not compromise doctrin.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV news channels must abide by truth, trust in times of crises: Union minister Murugan]]></title>
+        <id>https://timesofindia.indiatimes.com/india/tv-news-channels-must-abide-by-truth-trust-in-times-of-crises-union-minister-murugan/articleshow/94649030.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/tv-news-channels-must-abide-by-truth-trust-in-times-of-crises-union-minister-murugan/articleshow/94649030.cms"/>
+        <updated>2022-10-04T15:42:44.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Union minister L Murugan on Tuesday said in times of crises television news channels must become prudent and truth and trust must become th.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red announces Cyberpunk 2077 sequel, Project Orion]]></title>
+        <id>https://www.polygon.com/23387185/cyberpunk-2077-sequel-project-orion-announcement-cd-projekt-red</id>
+        <link href="https://www.polygon.com/23387185/cyberpunk-2077-sequel-project-orion-announcement-cd-projekt-red"/>
+        <updated>2022-10-04T15:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Image: CD Projekt Red
+    
+
+  
+Sequel will ‘take the Cyberpunk franchise further and continue harnessing the potential of this dark future universe’
+ CD Projekt Red just announced a Cyberpunk 2077 sequel, currently codenamed Project Orion. The developer tweeted its long-term development plan Tuesday, sharing that Project Orion will “take the Cyberpunk franchise further and continue harnessing the potential of this dark future universe.”
+Adam Kiciński, CD Projket’s president and CEO, said in a video published to YouTube that the next three games in the developer’s pipeline are based in The Witcher franchise, meaning that Cyberpunk 2077’s sequel is well off in the future. He called the sequel an ambitious title that will require expanding CD Projekt’s more than 1,200 person studio even furth…]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BJP got Rs 10 crore from Mumbai-based trust in 2021-22: Election Commission]]></title>
+        <id>https://timesofindia.indiatimes.com/india/bjp-got-rs-10-crore-from-mumbai-based-trust-in-2021-22-election-commission/articleshow/94648984.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/bjp-got-rs-10-crore-from-mumbai-based-trust-in-2021-22-election-commission/articleshow/94648984.cms"/>
+        <updated>2022-10-04T15:40:03.000Z</updated>
+        <summary type="html"><![CDATA[India News: NEW DELHI: Mumbai-based AB General Electoral Trust donated Rs 10 crore to the ruling Bharatiya Janata Party (BJP) in the financial year 2021-22, the E.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre designates 7 men as ‘individual’ terrorists under UAPA]]></title>
+        <id>https://timesofindia.indiatimes.com/india/centre-designates-7-men-as-individual-terrorists-under-uapa/articleshow/94648916.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/centre-designates-7-men-as-individual-terrorists-under-uapa/articleshow/94648916.cms"/>
+        <updated>2022-10-04T15:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The Union home ministry on Tuesday declared seven Pakistan-based terrorists — associated with Hizbul Mujahideen, Lashker e Taiba affiliate The Resistance Front and Tahreek e Mujahideen — as ‘individual’ terrorists in the fourth schedule of the Unlawful Activities (Prevention) Act. Four of the terrorists are accused of infiltrating terrorists into J&K through Kupwara, Rajouri-Poonch and North Kashmir.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A GOP insider on the Republicans who knew Trump was dangerous — and went MAGA anyway]]></title>
+        <id>https://www.vox.com/2022/10/4/23386159/tim-miller-trump-maga-republicans-stefanik</id>
+        <link href="https://www.vox.com/2022/10/4/23386159/tim-miller-trump-maga-republicans-stefanik"/>
+        <updated>2022-10-04T15:35:49.000Z</updated>
+        <summary type="html"><![CDATA[House Minority Leader Kevin McCarthy (center), House Minority Whip Steve Scalise (right), and House Republican Conference Chair Elise Stefanik (left) conduct a news conference with GOP members on President Biden’s first year on January 20. | Tom Williams/CQ-Roll Call, Inc via Getty Images
+    
+
+  
+A conversation with ex-GOP operative Tim Miller about how Trumpism swallowed the Republican Party whole.
+ One of the many things we’ve learned in the Trump era is that a lot of the people in positions of power are either cynics or nihilists or both. 
+This is true on both sides of the political aisle, but it’s especially true on the right at the moment. That’s not a partisan statement, even if it may sound like one. The reality is that ever since Donald Trump took over the party in 2016, there are…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Declares Mega Man 2 Documentary Too Sexy For Kids]]></title>
+        <id>1849614068</id>
+        <link href="https://kotaku.com/youtube-sex-mega-man-2-summoning-salt-speedrun-google-1849614068"/>
+        <updated>2022-10-04T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTuber Summoning Salt’s videos on the history of speedrunning are some of the most popular in the hobby’s space and beyond, and now one of them has fallen prey to the Google platform’s notoriously confusing and opaque moderation process. “This video may be inappropriate for some users,” reads a warning before his …
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia fines TikTok $51,000 for content violating anti-LGBTQ laws]]></title>
+        <id>https://www.theverge.com/2022/10/4/23386965/russia-fines-tiktok-anti-lgbt-propaganda-law-twitch-ukraine-war</id>
+        <link href="https://www.theverge.com/2022/10/4/23386965/russia-fines-tiktok-anti-lgbt-propaganda-law-twitch-ukraine-war"/>
+        <updated>2022-10-04T15:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Nick Barclay / The Verge
+    
+
+  
+A Russian court fined TikTok 3 million rubles (about $51,000) for failing to delete content on the platform that violates the country’s anti-LGBTQ “gay propaganda” law, Reuters reports. 
+The fines are based on charges that TikTok was promoting “non-traditional sexual values, videos featuring LGBT, feminism, and distorted representation of traditional sexual values,” according to Russian news outlet Interfax. The 2013 law restricts individuals and entities from discussing and promoting LGBTQ rights and has been used to crack down on content online. Russia warned TikTok of the fines in August. 
+Along with the fine on TikTok, Russia also issued a 4 million rubles ($68,000) penalty on Twitch for hosting an interview with Ukrainian adviser to Ukrainian presidential advisor Oleksiy Arestovych that Russia says violates laws around “fake” news, according to Reuters. Since its invasion of Ukraine, Russia has introduced harsher “fake news” laws that seek to punish people who “discredit” the military. Twitch was fined for refusing to take down a different stream with Arestovych in August. 
+Neither company immediately responded to requests for comment.
+The paid of fines are the latest in Russia’s crackdown on tech companies for hosting content that runs afoul of the country’s increasingly stringent rules. In July, Russia fined Google nearly $365 million for refusing to pull YouTube videos about the war in Ukraine.
+Though the latest TikTok and Twitch fines are relatively small, penalties on tech companies have added up, and Russia continues to issue more. Twitch is already facing a set of new fines totaling $135,392 for failing to remove “false” content about the war in Ukraine, according to state news agency TASS.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accel, BoxGroup, Cowboy Ventures, Pear VC and Yahoo to judge Startup Battlefield at Disrupt]]></title>
+        <id>https://techcrunch.com/?p=2412993</id>
+        <link href="https://techcrunch.com/2022/10/04/accel-boxgroup-cowboy-ventures-pear-vc-and-yahoo-to-judge-startup-battlefield-at-disrupt/"/>
+        <updated>2022-10-04T15:30:32.000Z</updated>
+        <summary type="html"><![CDATA[We’re less than a month away from TechCrunch Disrupt on October 18–20 in San Francisco! Imagine a drumroll, folks, because we’re about to announce the last tranche of investors and thought leaders who will choose which outstanding startup takes the title of Startup Battlefield champion, along with the $100,000 prize and serious bragging rights Improve […]
+Accel, BoxGroup, Cowboy Ventures, Pear VC and Yahoo to judge Startup Battlefield at Disrupt by Lauren Simonds originally published on TechCrunch]]></summary>
+        <author>
+            <name>Lauren Simonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cop Allegedly Killed by Colleague He Was Investigating for Gang Rape]]></title>
+        <id>k7bnm3</id>
+        <link href="https://www.vice.com/en_us/article/k7bnm3/houston-tipping-lapd-beaten-to-death"/>
+        <updated>2022-10-04T15:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Houston Tipping died in a training incident, which the LAPD ruled an accident. An attorney for his family says it may have been an act of retaliation.]]></summary>
+        <author>
+            <name>Trone Dowd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mamma mia, Nintendo stole Mario’s whole ass in his upcoming movie]]></title>
+        <id>https://www.polygon.com/23387091/mario-movie-nintendo-teaser-poster-butt</id>
+        <link href="https://www.polygon.com/23387091/mario-movie-nintendo-teaser-poster-butt"/>
+        <updated>2022-10-04T15:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Image: Illumination/Universal Pictures via Polygon
+    
+
+  
+Sorry Mario, your ass is in another castle
+ Mario is a humble hero, and fans have been eagerly awaiting more news of his upcoming feature film. On Tuesday, Nintendo shared a teaser for an upcoming trailer, and we get to see Mario in all of his glory, looking up at a bright and brilliant — hey. Hey, what’s going on with his ass?
+All of us true gamers know that Mario’s a round little dude with a little bit of a tum and a plump butt. I do not mean to be controversial; this is simply what I’ve observed over decades of hardcore gaming. And yet, if you take a gander at this poster, Mario’s got absolutely nothing going on in those overalls of his.
+Image: Illumination/Universal Pictures via Polygon
+  
+I can only assume that Nintendo is angling for a Sonic the Hedgehog-style fan campaign to restore Mario’s mighty cheeks, because right now it’s just sad to see such an iconic hero wearing such saggy, empty overalls. How can we trust this man to jump on goombas and send koopa shells flying when he has nary a cake to spare? I suppose he’s in fine company with some other gaming icons, but Mario deserves better.
+The people are crying out! pic.twitter.com/rMtcgJC5ys
+— RJ Palmer   Lightbox Expo #510 (@arvalis) October 4, 2022
+
+
+
+Sure, there are lots of fun Easter eggs to spot from previous entries in the Mario canon, and it’s interesting to think about how a big star like Chris Pratt will voice this classic gaming character. But I can’t dwell on these things. I’m too forlorn, thinking about Mario’s tiny little Hank Hill butt. 
+We’ll find out more about the film at Thursday’s Nintendo Direct focusing on The Super Mario Bros. Movie. It’ll be a while yet before all of our questions are answered; the movie is slated to hit theaters on April 7, 2023.]]></summary>
+        <author>
+            <name>Polygon -  Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mamma mia, Nintendo stole Mario’s whole ass in his upcoming movie]]></title>
+        <id>https://www.polygon.com/23387091/mario-movie-nintendo-teaser-poster-butt</id>
+        <link href="https://www.polygon.com/23387091/mario-movie-nintendo-teaser-poster-butt"/>
+        <updated>2022-10-04T15:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Image: Illumination/Universal Pictures via Polygon
+    
+
+  
+Sorry Mario, your ass is in another castle
+ Mario is a humble hero, and fans have been eagerly awaiting more news of his upcoming feature film. On Tuesday, Nintendo shared a teaser for an upcoming trailer, and we get to see Mario in all of his glory, looking up at a bright and brilliant — hey. Hey, what’s going on with his ass?
+All of us true gamers know that Mario’s a round little dude with a little bit of a tum and a plump butt. I do not mean to be controversial; this is simply what I’ve observed over decades of hardcore gaming. And yet, if you take a gander at this poster, Mario’s got absolutely nothing going on in those overalls of his.
+Image: Illumination/Universal Pictures via Polygon
+  
+I can only assume that Nintendo is angling for a Sonic the Hedgehog-style fan campaign to restore Mario’s mighty cheeks, because right now it’s just sad to see such an iconic hero wearing such saggy, empty overalls. How can we trust this man to jump on goombas and send koopa shells flying when he has nary a cake to spare? I suppose he’s in fine company with some other gaming icons, but Mario deserves better.
+The people are crying out! pic.twitter.com/rMtcgJC5ys
+— RJ Palmer   Lightbox Expo #510 (@arvalis) October 4, 2022
+
+
+
+Sure, there are lots of fun Easter eggs to spot from previous entries in the Mario canon, and it’s interesting to think about how a big star like Chris Pratt will voice this classic gaming character. But I can’t dwell on these things. I’m too forlorn, thinking about Mario’s tiny little Hank Hill butt. 
+We’ll find out more about the film at Thursday’s Nintendo Direct focusing on The Super Mario Bros. Movie. It’ll be a while yet before all of our questions are answered; the movie is slated to hit theaters on April 7, 2023.]]></summary>
+        <author>
+            <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Dussehra 2022: Wishes, messages, quotes]]></title>
+        <id>https://timesofindia.indiatimes.com/life-style/events/happy-dussehra-2022-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/94645533.cms</id>
+        <link href="https://timesofindia.indiatimes.com/life-style/events/happy-dussehra-2022-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/94645533.cms"/>
+        <updated>2022-10-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dussehra marks the end of navratri celebrations. The nine day long Hindu festival of worshiping the feminine energy Shakti comes to an end with Dussehra. This year, Dussehra will be celebrated in India on October 5.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Change Comes for the Freezers, a Key Tool for Alaska Natives]]></title>
+        <id>https://www.nytimes.com/2022/10/04/dining/climate-change-freezers-alaska-natives.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/dining/climate-change-freezers-alaska-natives.html"/>
+        <updated>2022-10-04T15:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Threatened by stronger storms and a melting permafrost, Indigenous Alaskans are grappling with how to keep the power running to their freezers, which store their traditional subsistence foods.]]></summary>
+        <author>
+            <name>Julia O’Malley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Willow Thrillingly Mashes Up Rock History On ‘Coping Mechanism’]]></title>
+        <id>https://www.rollingstone.com/?p=1234603156</id>
+        <link href="https://www.rollingstone.com/music/music-album-reviews/willow-coping-mechanism-1234603156/"/>
+        <updated>2022-10-04T15:26:32.000Z</updated>
+        <summary type="html"><![CDATA[The emo-pop wild child's fifth LP is her best yet]]></summary>
+        <author>
+            <name>Jon Dolan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nord Stream 2 says it plans to examine pipelines after police investigation]]></title>
+        <id>https://www.thehindu.com/news/international/nord-stream-2-says-it-plans-to-examine-pipelines-after-police-investigation/article65970268.ece</id>
+        <link href="https://www.thehindu.com/news/international/nord-stream-2-says-it-plans-to-examine-pipelines-after-police-investigation/article65970268.ece"/>
+        <updated>2022-10-04T15:24:45.000Z</updated>
+        <summary type="html"><![CDATA[The leak of the Nord Stream 2 gas pipelines will examined before a cordon is lifted]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rahul Gandhi was asked to request me to withdraw from Cong presidential poll: Tharoor]]></title>
+        <id>https://timesofindia.indiatimes.com/india/rahul-gandhi-was-asked-to-request-me-to-withdraw-from-cong-presidential-poll-tharoor/articleshow/94648458.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/rahul-gandhi-was-asked-to-request-me-to-withdraw-from-cong-presidential-poll-tharoor/articleshow/94648458.cms"/>
+        <updated>2022-10-04T15:21:05.000Z</updated>
+        <summary type="html"><![CDATA[India News: THIRUVANANTHAPURAM: Senior Congress leader Rahul Gandhi was asked by some party leaders to seek withdrawal of Shashi Tharoor's candidature, the Thiruv.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Openings Fell in August, but Turnover Was Little Changed]]></title>
+        <id>https://www.nytimes.com/2022/10/04/business/economy/jolts-jobs-quits-layoffs.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/business/economy/jolts-jobs-quits-layoffs.html"/>
+        <updated>2022-10-04T15:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Government data showed 10.1 million openings, a decline from 11.2 million in July. Overall hiring, quitting and layoffs were fairly steady.]]></summary>
+        <author>
+            <name>Lydia DePillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isaac goes out on a limb in new Dead Space remake gameplay trailer]]></title>
+        <id>https://www.theverge.com/2022/10/4/23386922/dead-space-remake-trailer-ea-motive-january-2023</id>
+        <link href="https://www.theverge.com/2022/10/4/23386922/dead-space-remake-trailer-ea-motive-january-2023"/>
+        <updated>2022-10-04T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[EA Motive
+    
+
+  
+The developers at EA revealed a new Dead Space remake gameplay trailer just in time to mark the arrival of spooky season. In the trailer, engineer Isaac Clarke arms himself with all sorts of industrial tools to make bloody work of the vicious Necromorphs that have overrun the USG Ishimura.
+EA is remaking the 2008 survival horror game, splattering it with a fresh coat of dark and grimy paint. Rebuilt in the Frostbite engine, the dark corners of the haunted spaceship seem even darker, and the enhanced wet squelching noises that come when Isaac curbstomps a Necromorph will undoubtedly send the misophonia sufferers running for the hills. (It’s me, I’m misophonia sufferers.) In a press release, EA shared that this new Dead Space also features additional narrative elements to further, ahem, flesh out the game’s storytelling.
+The Dead Space remake, due out on Xbox, PC, and PlayStation on January 23rd, comes as the original Dead Space’s co-creator, Glen Schofield, is gearing up to release his own horror game, The Callisto Protocol. Unfortunately, we’ll have to wait long past spooky season to play either game.]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Man Who Killed 6 at a Christmas Parade Now Says He's a Sovereign Citizen]]></title>
         <id>xgy4nw</id>
@@ -55,6 +520,16 @@ Reddit acqui-hires team from ML content moderation startup Oterlu by Aisha Malik
         <summary type="html"><![CDATA[Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.]]></summary>
         <author>
             <name>Bill Friskics-Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubai's new Hindu temple all set to open ahead of Dussehra]]></title>
+        <id>https://timesofindia.indiatimes.com/world/middle-east/dubais-new-hindu-temple-all-set-to-open-ahead-of-dussehra/articleshow/94648353.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/middle-east/dubais-new-hindu-temple-all-set-to-open-ahead-of-dussehra/articleshow/94648353.cms"/>
+        <updated>2022-10-04T15:02:21.000Z</updated>
+        <summary type="html"><![CDATA[The temple's foundation was laid in February 2020 and the inauguration fulfils a decades-long Indian dream of having a place of worship in the area. Welcoming people from all faiths, the temple has already had its soft opening on September 1, 2022, where thousands of visitors were allowed to get a glimpse of the interiors of the temple built with white marble.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -123,6 +598,19 @@ Image: Cook and Becker
       The debate parlor.]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUIZ: The Ultimate Naruto Quiz Part 2! (Chunin Rank)]]></title>
+        <id>https://www.crunchyroll.com/anime-feature/2022/10/04-2/quiz-the-ultimate-naruto-quiz-part-2-chunin-rank</id>
+        <link href="https://www.crunchyroll.com/anime-feature/2022/10/04-2/quiz-the-ultimate-naruto-quiz-part-2-chunin-rank"/>
+        <updated>2022-10-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time to earn that cool vest!
+
+
+Is time to step up to the plate and try to reach the next level. Yeah, it's time for your very own Chunin exams! Prove you're ready for more with the second part of our Ultimate Naruto Quiz!]]></summary>
+        <author>
+            <name>A. Trejo Mosquera</name>
         </author>
     </entry>
     <entry>
@@ -485,6 +973,16 @@ Railsr, formerly Railsbank, raises $46M for embedded finance, says it now has 30
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘Beavis and Butt-Head’ Was the ’90s Cartoon That Mattered]]></title>
+        <id>https://www.nytimes.com/2022/10/04/arts/television/beavis-and-butt-head.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/arts/television/beavis-and-butt-head.html"/>
+        <updated>2022-10-04T14:03:51.000Z</updated>
+        <summary type="html"><![CDATA[It doesn’t make best-of lists, but the series, then and now, was always much smarter than its characters, and it didn’t try too hard. Sorry, Bart Simpson.]]></summary>
+        <author>
+            <name>Jason Zinoman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jay-Z Advances Technological Age with Major Investment in Robot Pizza Truck Startup]]></title>
         <id>https://www.rollingstone.com/?p=1234604793</id>
         <link href="https://www.rollingstone.com/music/music-news/jay-z-robot-pizza-truck-startup-1234604793/"/>
@@ -552,6 +1050,16 @@ Xiaomi’s latest flagship has a 200-megapixel sensor — so don’t think spec 
 This new, $1,099 Vivobook targets a more price-conscious audience than Asus’ high-end Zenbook line, with a more utilitarian chassis and a heavier build. The panel is what sets it apart from the sea of identical black notebooks that litter the midrange market. Asus is touting it as the “world’s first 14.5-inch 120Hz 2.…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linda Ronstadt Turns to Recipes for Her Swan Song]]></title>
+        <id>https://www.nytimes.com/2022/10/03/dining/linda-ronstadt-recipes.html</id>
+        <link href="https://www.nytimes.com/2022/10/03/dining/linda-ronstadt-recipes.html"/>
+        <updated>2022-10-04T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[In “Feels Like Home,” the singer, her voice taken by a form of Parkinson’s, tells her story through the border dishes of her Arizona youth.]]></summary>
+        <author>
+            <name>Kim Severson</name>
         </author>
     </entry>
     <entry>
@@ -667,6 +1175,16 @@ These concepts show some early work toward what ultimately became Windows 8, and
 How much to pay your engineer? This startup will tell you by Mary Ann Azevedo originally published on TechCrunch]]></summary>
         <author>
             <name>Mary Ann Azevedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch | Who is Giorgia Meloni?]]></title>
+        <id>https://www.thehindu.com/news/international/watch-who-is-giorgia-meloni/article65970202.ece</id>
+        <link href="https://www.thehindu.com/news/international/watch-who-is-giorgia-meloni/article65970202.ece"/>
+        <updated>2022-10-04T13:39:39.000Z</updated>
+        <summary type="html"><![CDATA[A video on Giorgia Meloni]]></summary>
+        <author>
+            <name>The Hindu Bureau</name>
         </author>
     </entry>
     <entry>
@@ -1224,6 +1742,16 @@ In 2019 this VC decided to invest in diverse founders. Three years later it’s 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Best G-Sync Monitor 2022]]></title>
+        <id>8e589ea3-89d0-4ff5-8aa3-00c79fe2d340</id>
+        <link href="https://www.ign.com/articles/the-best-g-sync-monitors"/>
+        <updated>2022-10-04T11:38:34.000Z</updated>
+        <summary type="html"><![CDATA[From budget monitors to ultra-wide displays, we've picked out the best G-Sync monitors that'll crush screen tearing.]]></summary>
+        <author>
+            <name>Kevin Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Securiti launches data security cloud and announces $75M Series C]]></title>
         <id>https://techcrunch.com/?p=2417550</id>
         <link href="https://techcrunch.com/2022/10/04/securiti-launches-data-security-cloud-and-announces-75m-series-c/"/>
@@ -1754,6 +2282,16 @@ Ahead of its January 2023 premiere and confirmed simulcast on Crunchyroll, the m
         <summary type="html"><![CDATA[Created by the mayor’s allies, the 5Boro Institute seeks to counter concerns that the administration lacks a robust agenda to address the city’s problems.]]></summary>
         <author>
             <name>Jeffery C. Mays and Dana Rubinstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risking Everything to Offer Abortions Across State Lines]]></title>
+        <id>https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html"/>
+        <updated>2022-10-04T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Doctors and midwives in blue states are working to get abortion pills into red states — setting the stage for a historic legal clash.]]></summary>
+        <author>
+            <name>Emily Bazelon</name>
         </author>
     </entry>
     <entry>
