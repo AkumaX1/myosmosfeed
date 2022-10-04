@@ -2,10 +2,224 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T11:10:26.583Z</updated>
+    <updated>2022-10-04T12:24:43.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Investing app Stash adds crypto offering, passes $125M in annual revenue]]></title>
+        <id>https://techcrunch.com/?p=2418139</id>
+        <link href="https://techcrunch.com/2022/10/04/stash-crypto-revenue-investing-fintech-wealthtech-startup/"/>
+        <updated>2022-10-04T12:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Investing app Stash, which last raised $125 million from investors in a Series G round last year, is adding crypto to the set of products it offers its 2 million users. The startup sees itself as different from competitors because of its focus on cultivating customers who are long-term investors rather than encouraging more frequent, […]
+Investing app Stash adds crypto offering, passes $125M in annual revenue by Anita Ramaswamy originally published on TechCrunch]]></summary>
+        <author>
+            <name>Anita Ramaswamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micron Pledges Up to $100 Billion for Semiconductor Factory in New York]]></title>
+        <id>https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</id>
+        <link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html"/>
+        <updated>2022-10-04T12:15:04.000Z</updated>
+        <summary type="html"><![CDATA[The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.]]></summary>
+        <author>
+            <name>Steve Lohr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly all of Bangladesh without power after grid failure]]></title>
+        <id>https://timesofindia.indiatimes.com/world/south-asia/bangladesh-faces-power-blackout-after-national-grid-fails/articleshow/94644735.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/south-asia/bangladesh-faces-power-blackout-after-national-grid-fails/articleshow/94644735.cms"/>
+        <updated>2022-10-04T12:12:48.000Z</updated>
+        <summary type="html"><![CDATA[failure in Bangladesh's national power grid plunged much of the country into a blackout on Tuesday, officials said. Officials of the state-run Bangladesh Power Development Board said that power transmission failed somewhere in the eastern part of the country.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU vote paves way for USB-C to be common device charger in 2024]]></title>
+        <id>https://techcrunch.com/?p=2418121</id>
+        <link href="https://techcrunch.com/2022/10/04/eu-usb-c-common-charger-parliament-vote/"/>
+        <updated>2022-10-04T12:04:16.000Z</updated>
+        <summary type="html"><![CDATA[The European Parliament has voted overwhelmingly to back EU legislation that will standardize mobile chargers on USB Type-C — paving the way for the law to start being applied by the end of 2024. MEPs have been pushing for the e-waste measure for over a decade so today’s massively affirmative plenary vote — of 602 […]
+EU vote paves way for USB-C to be common device charger in 2024 by Natasha Lomas originally published on TechCrunch]]></summary>
+        <author>
+            <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partake Foods whips up new allergy-friendly products following new cash infusion]]></title>
+        <id>https://techcrunch.com/?p=2417330</id>
+        <link href="https://techcrunch.com/2022/10/04/partake-foods-allergy-friendly-series-b/"/>
+        <updated>2022-10-04T12:02:43.000Z</updated>
+        <summary type="html"><![CDATA[What started out as three flavors of cookies sold out of the back of a car has become a thriving business that grew 100% in revenue last year and now includes baking and breakfast mixes.
+Partake Foods whips up new allergy-friendly products following new cash infusion by Christine Hall originally published on TechCrunch]]></summary>
+        <author>
+            <name>Christine Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC takes first step to curb freebies offered by political parties]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ec-takes-first-step-to-curb-freebies-offered-by-political-parties/articleshow/94643360.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ec-takes-first-step-to-curb-freebies-offered-by-political-parties/articleshow/94643360.cms"/>
+        <updated>2022-10-04T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Striking out at the rampant practice of offering freebies to voters, the Election Commission (EC) on Tuesday asked political parties to provide authentic information to the public in order to assess the financial viability of their poll promises.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC takes first step to curb freebies offered by political parties]]></title>
+        <id>https://timesofindia.indiatimes.com/india/ec-takes-first-step-to-curb-freebies-offered-by-political-parties/articleshow/94643360.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/ec-takes-first-step-to-curb-freebies-offered-by-political-parties/articleshow/94643360.cms"/>
+        <updated>2022-10-04T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Striking out at the rampant practice of offering freebies to voters, the Election Commission (EC) on Tuesday asked political parties to provide authentic information to the public in order to assess the financial viability of their poll promises.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humaans raises $15M to simplify HR tasks like onboarding]]></title>
+        <id>https://techcrunch.com/?p=2412713</id>
+        <link href="https://techcrunch.com/2022/10/04/humaans-raises-15m-to-simplify-hr-tasks-like-onboarding/"/>
+        <updated>2022-10-04T12:00:46.000Z</updated>
+        <summary type="html"><![CDATA[The role of HR professionals grew in scope during the pandemic as companies were forced to navigate major workplace changes, like working from home. Unsurprisingly, those professionals have had some of the highest burnout rates over the past two years, particularly as HR departments remain under-resourced. According to an August survey from Workvivo, an employee […]
+Humaans raises $15M to simplify HR tasks like onboarding by Kyle Wiggers originally published on TechCrunch]]></summary>
+        <author>
+            <name>Kyle Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roger Waters: I’m on a Ukrainian ‘Kill List’]]></title>
+        <id>https://www.rollingstone.com/?p=1234604081</id>
+        <link href="https://www.rollingstone.com/music/music-features/roger-waters-ukrainian-kill-list-1234604081/"/>
+        <updated>2022-10-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In an explosive, wide-ranging interview, the Pink Floyd co-founder discusses his controversial views on Ukraine — and Russia, and Wikileaks, and Israel, and so much more.]]></summary>
+        <author>
+            <name>Lisa Tozzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every movie right now, from Amsterdam to Glass Onion, stars a million A-listers]]></title>
+        <id>https://www.vox.com/culture/23378644/cast-amsterdam-glass-onion-babylon-oppenheimer</id>
+        <link href="https://www.vox.com/culture/23378644/cast-amsterdam-glass-onion-babylon-oppenheimer"/>
+        <updated>2022-10-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boy, there are a lot of people in Glass Onion: A Knives Out Mystery. | John Wilson / Netflix
+    
+
+  
+On the Endgamification of everything.
+ One recent Sunday night, I found myself at the premiere for Amsterdam, a movie for which the word “star-studded” is too modest. Having avoided trailers to that point, I didn’t realize what I was in for until director David O. Russell appeared onstage to introduce the movie and some of the cast. At these events, the more minor cast members are usually introduced first. “Please welcome ... Timothy Olyphant!” Russell said. Clad in cowboy boots, a scarf, and a rakish hat, Olyphant loped onto the stage. 
+Well, if this was the most minor character, then I was in for something. 
+Russell continued to bring on the cast. Andrea Riseborough. Michael Shannon. Mik…]]></summary>
+        <author>
+            <name>Vox -  All</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denmark’s Queen Margrethe II refuses to backtrack on stripping royal titles]]></title>
+        <id>https://www.thehindu.com/news/international/denmarks-queen-margrethe-ii-refuses-to-backtrack-on-stripping-royal-titles/article65970014.ece</id>
+        <link href="https://www.thehindu.com/news/international/denmarks-queen-margrethe-ii-refuses-to-backtrack-on-stripping-royal-titles/article65970014.ece"/>
+        <updated>2022-10-04T11:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Queen Margrethe II apologised for her decision to strip the royal titles from her grandchildren]]></summary>
+        <author>
+            <name>AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In 2019 this VC decided to invest in diverse founders. Three years later it’s already starting a second fund]]></title>
+        <id>https://techcrunch.com/?p=2418120</id>
+        <link href="https://techcrunch.com/2022/10/04/in-2019-this-vc-decided-to-invest-in-diverse-founders-three-years-later-its-already-starting-a-second-fund/"/>
+        <updated>2022-10-04T11:47:14.000Z</updated>
+        <summary type="html"><![CDATA[It feels like an eon has passed since the launch in 2019 of Ada Ventures, as a European VC that decided to invest in normally unrepresentative groups and sectors, like women or POC founders, as well as tech which improves society. Its $34 million (£27 million) fund, was designed as a “first-cheque” seed fund. Ada […]
+In 2019 this VC decided to invest in diverse founders. Three years later it’s already starting a second fund by Mike Butcher originally published on TechCrunch]]></summary>
+        <author>
+            <name>Mike Butcher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAF to unveil new combat uniform for personnel on Air Force Day]]></title>
+        <id>https://timesofindia.indiatimes.com/india/iaf-to-unveil-new-combat-uniform-for-personnel-on-air-force-day/articleshow/94643683.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/iaf-to-unveil-new-combat-uniform-for-personnel-on-air-force-day/articleshow/94643683.cms"/>
+        <updated>2022-10-04T11:42:42.000Z</updated>
+        <summary type="html"><![CDATA[The Chief of Air Staff will unveil the new pattern of combat uniform for Indian Air Force personnel on Air Force Day in Chandigarh on Saturday, officials said. "We already have a combat uniform, but the pattern will be changed into something called digital camouflage," an Indian Air Force (IAF) officer said.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 killed after truck hits three-wheeler in Vadodara]]></title>
+        <id>https://timesofindia.indiatimes.com/city/vadodara/gujarat-10-killed-after-truck-hits-three-wheeler-in-vadodara/articleshow/94643912.cms</id>
+        <link href="https://timesofindia.indiatimes.com/city/vadodara/gujarat-10-killed-after-truck-hits-three-wheeler-in-vadodara/articleshow/94643912.cms"/>
+        <updated>2022-10-04T11:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Five persons were killed and four others injured when a container truck hit a three-wheeler ferrying passengers on a national highway in Gujarat's Vadodara city on Tuesday, police said.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securiti launches data security cloud and announces $75M Series C]]></title>
+        <id>https://techcrunch.com/?p=2417550</id>
+        <link href="https://techcrunch.com/2022/10/04/securiti-launches-data-security-cloud-and-announces-75m-series-c/"/>
+        <updated>2022-10-04T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[The combination of rapid data growth and expanding data regulations like GDPR and CCPA is putting a lot of pressure on companies to figure out just what they have and provide the necessary controls that the evolving body of law requires. Enter Securiti, a startup launched in 2019, originally with the idea of focusing on […]
+Securiti launches data security cloud and announces $75M Series C by Ron Miller originally published on TechCrunch]]></summary>
+        <author>
+            <name>Ron Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Depeche Mode, Still Mourning, Return With Tour and New Album ‘Memento Mori’]]></title>
+        <id>https://www.rollingstone.com/?p=1234604069</id>
+        <link href="https://www.rollingstone.com/music/music-news/depeche-mode-new-album-tour-memento-mori-1234604069/"/>
+        <updated>2022-10-04T11:19:17.000Z</updated>
+        <summary type="html"><![CDATA["We're not going to replace Fletch; there's no reason to replace Fletch," says singer Dave Gahan. "That would be impossible”]]></summary>
+        <author>
+            <name>Jason Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Angel Next Door Spoils Me Rotten Anime's Promo Video Reveals January 2023 Debut]]></title>
+        <id>https://www.animenewsnetwork.com/cms/.190486</id>
+        <link href="https://www.animenewsnetwork.com/news/2022-10-04/the-angel-next-door-spoils-me-rotten-anime-promo-video-reveals-january-2023-debut/.190486"/>
+        <updated>2022-10-04T11:18:15.000Z</updated>
+        <summary type="html"><![CDATA[New visual, more staff also revealed]]></summary>
+        <author>
+            <name>Anime News Network - News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Social Media Platform Is Now Showing Ads Targeting QAnon Believers]]></title>
+        <id>5d3wxb</id>
+        <link href="https://www.vice.com/en_us/article/5d3wxb/trump-truth-social-qanon-ads"/>
+        <updated>2022-10-04T11:18:06.000Z</updated>
+        <summary type="html"><![CDATA[An advertisement explicitly references a coming storm and includes a Q in its logo.]]></summary>
+        <author>
+            <name>David Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 2,00,000 mobilised into Russian Army in two weeks]]></title>
+        <id>https://www.thehindu.com/news/international/over-200000-mobilised-into-russian-army-in-two-weeks/article65969954.ece</id>
+        <link href="https://www.thehindu.com/news/international/over-200000-mobilised-into-russian-army-in-two-weeks/article65969954.ece"/>
+        <updated>2022-10-04T11:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Russia's mobilisation is aimed at propping up Moscow's forces in Ukraine]]></summary>
+        <author>
+            <name>AFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV Network Ripped Online After Calling Classic Sega Game 'Indie']]></title>
+        <id>1849613083</id>
+        <link href="https://kotaku.com/sega-sky-altered-beast-indie-games-retro-comcast-1849613083"/>
+        <updated>2022-10-04T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[A British media conglomerate, Sky, has just made a complete ass of itself on Twitter, after attempting to hang wiv da cool kidz while promoting its new partnership with David Beckham’s eSports company, Guild. Asking followers of the [checks notes] technical support account to tweet a screenshot of their “favourite…
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['I hate my life...': J&K cop murder case accused wrote in personal diary]]></title>
         <id>https://timesofindia.indiatimes.com/india/i-hate-my-life-jk-cop-murder-case-accused-wrote-in-personal-diary/articleshow/94642655.cms</id>
@@ -17,6 +231,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Hate my life ... Dear death': What accused in J&K cop murder case wrote in personal diary]]></title>
+        <id>https://timesofindia.indiatimes.com/india/i-hate-my-life-jk-cop-murder-case-accused-wrote-in-personal-diary/articleshow/94642655.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/i-hate-my-life-jk-cop-murder-case-accused-wrote-in-personal-diary/articleshow/94642655.cms"/>
+        <updated>2022-10-04T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[The diary entries of the main accused in the death of Jammu and Kashmir Director General (Prisons) Hemant K Lohia reveal that the man who allegedly killed the senior officer was "under depression", said the police on Tuesday. DG (Prisons) Lohia, 57, was found dead at his residence on the outskirts of Jammu on Monday night with his throat slit and burn injuries on his body.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fort Solis Explained: Gameplay, Story, Characters, and World]]></title>
+        <id>0d9e6096-f098-41c3-ad24-a0de8183587a</id>
+        <link href="https://www.ign.com/articles/fort-solis-explained-gameplay-story-characters-world"/>
+        <updated>2022-10-04T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Fort Solis developer Fallen Leaf explains the gameplay, story, and characters that feature in its upcoming sci-fi interactive narrative game.]]></summary>
+        <author>
+            <name>Matt Purslow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3rd T20I Live: India target clean sweep against SA]]></title>
+        <id>https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-today-match-2022-live-cricket-score-updates/liveblog/94642689.cms</id>
+        <link href="https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/india-vs-south-africa-3rd-t20i-today-match-2022-live-cricket-score-updates/liveblog/94642689.cms"/>
+        <updated>2022-10-04T10:55:34.000Z</updated>
+        <summary type="html"><![CDATA[It may be an inconsequential game on paper but Indian bowlers await another tough test against South Africa ahead of the T20 World Cup when the two teams meet in the final game of the three-match series today. Having sealed their first-ever series against South Africa at home, Indian team management has decided to rest its premier batter Virat Kohli and vice-captain KL Rahul for the final game. Get live cricket score updates of match between India vs South Africa. Check live scorecard, ball by ball commentary, cricket score online on Times of India.]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Europe gives final sign off to rebooted ecommerce rules]]></title>
         <id>https://techcrunch.com/?p=2418091</id>
         <link href="https://techcrunch.com/2022/10/04/digital-services-act-adopted/"/>
@@ -25,6 +269,16 @@
 Europe gives final sign off to rebooted ecommerce rules by Natasha Lomas originally published on TechCrunch]]></summary>
         <author>
             <name>Natasha Lomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Says It's 'Not Unthinkable' That It Could Make Movies or TV With Bloodborne Developer FromSoftware]]></title>
+        <id>e5809ec1-bed1-4e74-b937-e6a7bfa78b0c</id>
+        <link href="https://www.ign.com/articles/playstation-fromsoftware-elden-ring-bloodborne-tv-movie"/>
+        <updated>2022-10-04T10:49:36.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation boss Herman Hulst has said working with FromSoftware on a movie or TV show is "not unthinkable", meaning a silver screen adaptation of Elden Ring, Dark Souls, or Bloodborne could be on the cards.]]></summary>
+        <author>
+            <name>Ryan Dinsdale</name>
         </author>
     </entry>
     <entry>
@@ -65,6 +319,19 @@ Europe gives final sign off to rebooted ecommerce rules by Natasha Lomas origina
         <summary type="html"><![CDATA[Fever, in Influenza as well as dengue, is often abrupt onset and high grade. In influenza, the common accompanying symptoms include dry cough, severe myalgia, nasal symptoms, sore throat, and headache. In dengue, commonly associated symptoms include myalgia, body ache, headache (particularly retro-orbital area), skin rash, etc. In COVID-19, fever is usually low grade and can be associated with symptoms such as dry cough, myalgia, headache, smell and taste abnormalities, diarrhea, skin rash, conjunctivitis, etc.]]></summary>
         <author>
             <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Angel Next Door Spoils Me Rotten Anime Reveals January 2023 Premiere]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/04-1/the-angel-next-door-spoils-me-rotten-anime-reveals-january-2023-premiere</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/04-1/the-angel-next-door-spoils-me-rotten-anime-reveals-january-2023-premiere"/>
+        <updated>2022-10-04T10:25:13.000Z</updated>
+        <summary type="html"><![CDATA[New promo and visual on display for the upcoming adaptation
+
+
+Previously announced for 2023, we now have a premiere month for the anime adaptation of Saekisan's The Angel Next Door Spoils Me Rotten novels. Read on for more.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
         </author>
     </entry>
     <entry>
@@ -473,6 +740,16 @@ Nigerian proptech Spleet gets $2.8M led by MaC VC to scale its property manageme
         <summary type="html"><![CDATA[India News: RAJOURI: Union home minister and minister of cooperation Amit Shah addressed a public rally in Rajouri, Jammu and Kashmir on Tuesday.]]></summary>
         <author>
             <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top three winners as vehicle sales grow 11% YoY]]></title>
+        <id>https://timesofindia.indiatimes.com/auto/cars/maruti-suzuki-hyundai-motors-and-tata-motors-top-three-indian-automakers-as-vehicle-sales-grow-11-yoy-key-takeaways-from-fada-september-2022-data/articleshow/94639465.cms</id>
+        <link href="https://timesofindia.indiatimes.com/auto/cars/maruti-suzuki-hyundai-motors-and-tata-motors-top-three-indian-automakers-as-vehicle-sales-grow-11-yoy-key-takeaways-from-fada-september-2022-data/articleshow/94639465.cms"/>
+        <updated>2022-10-04T08:52:41.000Z</updated>
+        <summary type="html"><![CDATA[While most categories did see positive growth in September 2022, vehicle retail data shows that demand from rural states has gotten weaker, especially in the entry level 2-wheeler and passenger vehicle segments.. These states include Himachal Pradesh, Haryana, Uttarakhand, Uttar Pradesh and Jharkhand.]]></summary>
+        <author>
+            <name>Times of India</name>
         </author>
     </entry>
     <entry>
