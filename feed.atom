@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AkumaX1.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T04:50:43.818Z</updated>
+    <updated>2022-10-04T05:38:13.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://AkumaX1.github.io/index.html"/>
     <link rel="self" href="https://AkumaX1.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A brief history of rebellions against Iranian regimes]]></title>
+        <id>https://www.thehindu.com/newsletter/newsletter-data/a-brief-history-of-rebellions-against-iranian-regimes/article65967658.ece</id>
+        <link href="https://www.thehindu.com/newsletter/newsletter-data/a-brief-history-of-rebellions-against-iranian-regimes/article65967658.ece"/>
+        <updated>2022-10-04T05:24:12.000Z</updated>
+        <summary type="html"><![CDATA[A look back at the number of people killed or detained in anti-government protests]]></summary>
+        <author>
+            <name>Rebecca Rose Varghese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live: HM Amit Shah in J&K, to address historic public rally]]></title>
+        <id>https://timesofindia.indiatimes.com/india/live-amit-shah-in-jammu-and-kashmir-today/liveblog/94634397.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/live-amit-shah-in-jammu-and-kashmir-today/liveblog/94634397.cms"/>
+        <updated>2022-10-04T05:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Union home minister Amit Shah is scheduled to address a historic public rally in J&K's Rajouri town where he is expected to announce ST reservation for the Pahari community. Stay with TOI for live updates-]]></summary>
+        <author>
+            <name>Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India reports 1,968 Covid cases and 15 deaths in last 24 hours]]></title>
+        <id>https://timesofindia.indiatimes.com/india/india-reports-1968-covid-cases-and-15-deaths-in-last-24-hours/articleshow/94633922.cms</id>
+        <link href="https://timesofindia.indiatimes.com/india/india-reports-1968-covid-cases-and-15-deaths-in-last-24-hours/articleshow/94633922.cms"/>
+        <updated>2022-10-04T04:46:15.000Z</updated>
+        <summary type="html"><![CDATA[India's active caseload currently stands at 34,598, which is 0.08 per cent of total cases. The country has reported 3,481 recoveries in the last 24 hours. With this the recovery rate in India has reached 98.74 per cent. The total number of patients who have so far recovered from Covid is 4,40,36,152.]]></summary>
+        <author>
+            <name>India News | Latest News Headlines &amp; Live Updates from India - Times of India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data | Iran’s performance in key socioeconomic indicators and immediate causes of protests]]></title>
         <id>https://www.thehindu.com/data/data-irans-performance-in-key-socioeconomic-indicators-and-immediate-causes-for-protests/article65967096.ece</id>
@@ -14,6 +44,19 @@
         <summary type="html"><![CDATA[The lack of adequate political freedoms, the absence of gender equality, and recurrent economic crises have frequently triggered protests]]></summary>
         <author>
             <name>Rebecca Rose Varghese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evangelion: 3.0+1.11 Thrice Upon a Time Gets DVD/Blu-ray Release on March 8, 2023]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03/evangelion-30111-thrice-upon-a-time-gets-dvdblu-ray-release-on-march-8-2023</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03/evangelion-30111-thrice-upon-a-time-gets-dvdblu-ray-release-on-march-8-2023"/>
+        <updated>2022-10-04T04:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Newly-produced bonus footage "EVANGELION:3.0 (46h)" will be included
+
+
+The official website for the Evangelion anime franchise announced today that the DVD and Blu-ray of Evangelion: 3.0+1.11 Thrice Upon a Time is set to be released in Japan on March 8, 2023. It will have been just two years since the original 3.0+1.0 version was released in Japan on March 8, 2021. Hit the jump for more details!]]></summary>
+        <author>
+            <name>Mikikazu Komatsu</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +80,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nintendo Officially Opens Nintendo Pictures for Visual Production, Motion Capture]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/nintendo-officially-opens-nintendo-pictures-for-visual-production-motion-capture</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/nintendo-officially-opens-nintendo-pictures-for-visual-production-motion-capture"/>
+        <updated>2022-10-04T04:17:18.000Z</updated>
+        <summary type="html"><![CDATA[The website for Nintendo Pictures has also been opened
+
+
+After Nintendo revealed back in July that it was buying CG animation house Dynamo Pictures, the deal was finally completed yesterday and Nintendo formally unveiled Nintendo Pictures, the first visual production house for the century-old Japanese toy company. Check out more after the jump!]]></summary>
+        <author>
+            <name>Daryl Harding</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The View from India | India’s stand on the Ukraine conflict]]></title>
         <id>https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece</id>
         <link href="https://www.thehindu.com/news/international/indias-stand-on-the-ukraine-conflict/article65965763.ece"/>
@@ -44,6 +100,19 @@
         <summary type="html"><![CDATA[Understand international affairs from the Indian perspective with View from India]]></summary>
         <author>
             <name>Ananth Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moriarty the Patriot's 4th Musical Adaptation Unveils 12 Character Portraits]]></title>
+        <id>https://www.crunchyroll.com/anime-news/2022/10/03-1/moriarty-the-patriots-4th-musical-adaptation-unveils-12-character-portraits</id>
+        <link href="https://www.crunchyroll.com/anime-news/2022/10/03-1/moriarty-the-patriots-4th-musical-adaptation-unveils-12-character-portraits"/>
+        <updated>2022-10-04T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA["Op.4 -Two Culprits-" heads to Osaka and Tokyo next year
+
+
+Stage play and musical adaptations of anime and manga always dress to impress with slick costume designs, and Moriarty the Patriot has shown that it's no different with the release of twelve stylish character visuals for its upcoming fourth musical. Hit the jump for the full picture!]]></summary>
+        <author>
+            <name>Liam Dempsey</name>
         </author>
     </entry>
     <entry>
@@ -2480,6 +2549,16 @@ Writer-director Parker Finn loves provoking an audience, even in a sensitive sto
 “I think it’s so relatable,” writer-director Parker Finn told Polygon at Fantastic Fest, where the movie first premiered. “Everybody walks around carr…]]></summary>
         <author>
             <name>Polygon -  Entertainment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explained | What are the changes in the UAE’s immigration rules?]]></title>
+        <id>https://www.thehindu.com/news/international/explained-what-are-the-changes-in-the-uaes-immigration-rules/article65967942.ece</id>
+        <link href="https://www.thehindu.com/news/international/explained-what-are-the-changes-in-the-uaes-immigration-rules/article65967942.ece"/>
+        <updated>2022-10-03T16:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Has the United Arab Emirates introduced entry visas that do not require a host or sponsor for visitors? What are the amendments to the procedure for the green residence visa and the much-coveted golden visa?]]></summary>
+        <author>
+            <name>Biju Govind</name>
         </author>
     </entry>
     <entry>
