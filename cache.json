@@ -2649,6 +2649,26 @@
       "siteUrl": "https://www.nytimes.com",
       "articles": [
         {
+          "id": "https://www.nytimes.com/article/north-korea-arsenal-nukes.html",
+          "author": "Choe Sang-Hun and Victoria Kim",
+          "description": "The country has one of the largest standing armies in the world, but much of its equipment is old. Leaders have sought to make up for that shortcoming by building new weapons.",
+          "link": "https://www.nytimes.com/article/north-korea-arsenal-nukes.html",
+          "publishedOn": "2022-10-04T07:34:51.000Z",
+          "wordCount": null,
+          "title": "How Strong Is North Korea’s Military?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-prisoner-lyman.html",
+          "author": "Thomas Gibbons-Neff, Natalia Yermak and Nicole Tung",
+          "description": "Outside the city of Lyman, Ukrainian troops ran across a 69-year-old Soviet veteran. He was placed in an improvised blindfold. All were enveloped in the fog of war.",
+          "link": "https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-prisoner-lyman.html",
+          "publishedOn": "2022-10-04T04:01:12.000Z",
+          "wordCount": null,
+          "title": "Scouting for Firewood, or for Russia? On the Front Line in Ukraine.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html",
           "author": "Maya King",
           "description": "Mr. Walker called the report a lie, after The Daily Beast, which has also broken news about Mr. Walker’s out-of-wedlock children, reported that a former girlfriend had the procedure in 2009.",
@@ -12480,6 +12500,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "siteUrl": "https://techcrunch.com/",
       "articles": [
+        {
+          "id": "https://techcrunch.com/?p=2418022",
+          "author": "Ivan Mehta",
+          "description": "Apple’s App Store suffered a 5% year-on-year dip in net revenue in September according to a note from Morgan Stanley analyst Erik Woodring. This is the biggest drop in App Store revenue since the financial services company started tracking its data. Woodring said gaming was the biggest reason for the decline as the sector plunged […]\nApp Store experienced sharp revenue drop in September, Morgan Stanley says by Ivan Mehta originally published on TechCrunch",
+          "link": "https://techcrunch.com/2022/10/04/app-store-experienced-sharp-revenue-drop-in-september-morgan-stanley-says/",
+          "publishedOn": "2022-10-04T08:07:52.000Z",
+          "wordCount": 6695,
+          "title": "App Store experienced sharp revenue drop in September, Morgan Stanley says",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/?p=2418041",
           "author": "Manish Singh",
@@ -23642,6 +23672,26 @@
       "siteUrl": "https://www.animenewsnetwork.com/news/",
       "articles": [
         {
+          "id": "https://www.animenewsnetwork.com/cms/.190452",
+          "author": null,
+          "description": "Delicious Party♡Precure stays at #3, Utano☆Princesama rises to #5",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-04/one-piece-film-red-tops-japan-box-office-chart-for-9th-straight-weekend/.190452",
+          "publishedOn": "2022-10-04T07:20:48.000Z",
+          "wordCount": 3507,
+          "title": "One Piece Film Red Tops Japan's Box Office Chart for 9th Straight Weekend",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/cms/news.5/186449/one-piece-film-red-visual.jpg"
+        },
+        {
+          "id": "https://www.animenewsnetwork.com/cms/.190478",
+          "author": null,
+          "description": "Tsuguhiko Kadokawa was arrested on September 14 on suspicion of bribery for Tokyo 2020 Olympics",
+          "link": "https://www.animenewsnetwork.com/news/2022-10-04/kadokawa-chair-tsuguhiko-kadokawa-to-resign-amid-indictment-on-charges-of-bribery/.190478",
+          "publishedOn": "2022-10-04T07:13:01.000Z",
+          "wordCount": 3304,
+          "title": "Kadokawa Chair Tsuguhiko Kadokawa to Resign Amid Indictment on Charges of Bribery",
+          "imageUrl": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY1/cms/interest.2/175078/tokyo.jpg"
+        },
+        {
           "id": "https://www.animenewsnetwork.com/cms/.190463",
           "author": null,
           "description": "Apply TV+ series expands Godzilla vs. Kong's Monsterverse",
@@ -27606,6 +27656,56 @@
       "siteUrl": "https://www.thehindu.com/",
       "articles": [
         {
+          "id": "https://www.thehindu.com/news/international/uk-to-propose-asylum-ban-on-english-channel-migrants/article65969576.ece",
+          "author": "Reuters",
+          "description": "British Interior Minister Suella Braverman's team said she would use her speech to the Conservative Party's annual conference to commit to looking at new legislative powers to deport those who come to Britain illegally",
+          "link": "https://www.thehindu.com/news/international/uk-to-propose-asylum-ban-on-english-channel-migrants/article65969576.ece",
+          "publishedOn": "2022-10-04T08:00:46.000Z",
+          "wordCount": 6231,
+          "title": "U.K. to propose asylum ban on English Channel migrants",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g58d86/article65969620.ece/alternates/LANDSCAPE_615/2022-10-04T072636Z_1267805222_RC2IFR9BKMPK_RTRMADP_3_BRITAIN-MIGRANTS.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/cdc-drops-traveller-health-notices-for-individual-countries/article65969572.ece",
+          "author": "AP",
+          "description": "The agency will only post a travel health notice for an individual country if a situation such as a troubling new variant of the virus changes CDC travel recommendations for that country",
+          "link": "https://www.thehindu.com/news/international/cdc-drops-traveller-health-notices-for-individual-countries/article65969572.ece",
+          "publishedOn": "2022-10-04T07:58:06.000Z",
+          "wordCount": 6237,
+          "title": "U.S. Centres for Disease Control and Prevention drops traveller health notices for individual countries",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/mdhjuc/article65969577.ece/alternates/LANDSCAPE_615/CDC_Travel_Health_Advisories_38427.jpg"
+        },
+        {
+          "id": "https://www.thehindu.com/newsletter/newsletter-today-cache/holding-social-media-firms-financially-accountable/article65969607.ece",
+          "author": "John Xavier",
+          "description": "Social media platforms have come under fire for the immunity they enjoy from a provision in a U.S. law. That protection is now being put to test.",
+          "link": "https://www.thehindu.com/newsletter/newsletter-today-cache/holding-social-media-firms-financially-accountable/article65969607.ece",
+          "publishedOn": "2022-10-04T07:45:17.000Z",
+          "wordCount": 5995,
+          "title": "Holding social media firms financially accountable",
+          "imageUrl": "https://th-i.thgim.com/public/sci-tech/technology/internet/chs4w0/article37161987.ece/alternates/LANDSCAPE_615/social-media-reutersjpg"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/us-calls-north-korea-missile-launch-dangerous-blinken-holds-calls-with-south-korea-japan/article65969557.ece",
+          "author": "Reuters",
+          "description": "U.S. Secretary of State Antony Blinken along with the foreign ministers of Japan and South Korea “strongly condemned” North Korea’s firing of a ballistic missile over Japan",
+          "link": "https://www.thehindu.com/news/international/us-calls-north-korea-missile-launch-dangerous-blinken-holds-calls-with-south-korea-japan/article65969557.ece",
+          "publishedOn": "2022-10-04T07:26:42.000Z",
+          "wordCount": 6644,
+          "title": "U.S. calls North Korea missile launch &#039;dangerous&#039;; Blinken holds calls with South Korea, Japan",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g61u8i/article65969573.ece/alternates/LANDSCAPE_615/2022-10-04T061418Z_1968191574_RC25UW9BCZHC_RTRMADP_3_NORTHKOREA-MISSILES.JPG"
+        },
+        {
+          "id": "https://www.thehindu.com/news/international/explained-britains-week-of-market-turmoil-and-the-tax-cut-reversal/article65958513.ece",
+          "author": "Diksha Munjal",
+          "description": "The pound slumped to its lowest point against the dollar accompanied by skyrocketing bond yields, triggering an emergency intervention by the Bank of England and a tax reversal by the UK PM",
+          "link": "https://www.thehindu.com/news/international/explained-britains-week-of-market-turmoil-and-the-tax-cut-reversal/article65958513.ece",
+          "publishedOn": "2022-10-04T07:22:45.000Z",
+          "wordCount": 7340,
+          "title": "Explained | Britain’s week of market turmoil and the tax cut reversal",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/v1ikh3/article65958505.ece/alternates/LANDSCAPE_615/2022-09-30T091356Z_2058810751_RC22NW99NXM1_RTRMADP_3_BRITAIN-ECONOMY.JPG"
+        },
+        {
           "id": "https://www.thehindu.com/business/Industry/vodafone-in-britain-in-talks-about-a-merger-with-hutchisons-three-uk/article65969352.ece",
           "author": "Reuters",
           "description": "Vodafone said it would own 51% and Hutchison 49% under the deal being discussed in Britain",
@@ -29972,6 +30072,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/india",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/pm-modi-to-participate-in-kullu-dussehra-celebrations-in-hp/articleshow/94637805.cms",
+          "author": null,
+          "description": "Just a few days back, the PM was visited Gujarat and despite his busy schedule, on 29th September, he participated in the Navratri festival at GMDC ground in Ahmedabad.",
+          "link": "https://timesofindia.indiatimes.com/india/pm-modi-to-participate-in-kullu-dussehra-celebrations-in-hp/articleshow/94637805.cms",
+          "publishedOn": "2022-10-04T07:34:30.000Z",
+          "wordCount": 6134,
+          "title": "PM Modi to participate in Kullu Dussehra celebrations in HP",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637912,width-1070,height-580,imgsize-19818,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/india/delhi-police-arrest-four-pfi-members-under-uapa/articleshow/94637708.cms",
+          "author": null,
+          "description": "This is the first arrest of any PFI member in the national capital after the outfit was banned by the Centre on September 28. Earlier, Delhi Police had conducted raids at PFI units spread across six districts of the city and detained 33 people allegedly linked with the group.",
+          "link": "https://timesofindia.indiatimes.com/india/delhi-police-arrest-four-pfi-members-under-uapa/articleshow/94637708.cms",
+          "publishedOn": "2022-10-04T07:20:56.000Z",
+          "wordCount": 6128,
+          "title": "Delhi Police arrest four PFI members under UAPA",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637693,width-1070,height-580,imgsize-16320,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
           "author": null,
@@ -35590,6 +35710,36 @@
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
         {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/xi-jinping-decade-reshapes-chinas-military-and-the-region/articleshow/94638564.cms",
+          "author": null,
+          "description": "With China's neighbours now rushing to keep pace, Xi's next five-year term is likely to see a quickening Asia-Pacific arms race. From South Korea developing a blue-water navy to Australia buying nuclear-powered submarines, weapons shopping has surged across the region.",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/xi-jinping-decade-reshapes-chinas-military-and-the-region/articleshow/94638564.cms",
+          "publishedOn": "2022-10-04T07:59:15.000Z",
+          "wordCount": 11255,
+          "title": "Xi Jinping decade reshapes China's military, and the region",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94638550,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-disaster-death-toll-rises-to-131/articleshow/94637607.cms",
+          "author": null,
+          "description": "Rest of World News: MALANG, Indonesia: The death toll from an Indonesian football riot that turned into a stampede rose by six to 131 on Tuesday, a local health official .",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-stadium-disaster-death-toll-rises-to-131/articleshow/94637607.cms",
+          "publishedOn": "2022-10-04T07:16:19.000Z",
+          "wordCount": 5213,
+          "title": "Indonesia stadium disaster death toll rises to 131",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637588,width-1070,height-580,imgsize-124806,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/nobel-panel-to-announce-winner-of-physics-prize/articleshow/94637393.cms",
+          "author": null,
+          "description": "While physicists often tackle problems that appear at first glance to be far removed from everyday concerns — tiny particles and the vast mysteries of space and time — their research provides the foundations for many practical applications of science.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/nobel-panel-to-announce-winner-of-physics-prize/articleshow/94637393.cms",
+          "publishedOn": "2022-10-04T07:08:49.000Z",
+          "wordCount": 6537,
+          "title": "Nobel panel to announce winner of physics prize",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637407,width-1070,height-580,imgsize-71384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
           "id": "https://timesofindia.indiatimes.com/world/europe/whats-vladimir-putin-thinking-tough-to-know-for-nuclear-analysts/articleshow/94637027.cms",
           "author": null,
           "description": "The former KGB agent has demonstrated an appetite for risk and brinkmanship. It's hard, even for Western intelligence agencies with spy satellites, to tell if Putin is bluffing or truly intent on breaking the nuclear taboo.",
@@ -38333,6 +38483,26 @@
       "feedUrl": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "siteUrl": "https://timesofindia.indiatimes.com",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/india/appropriate-measures-put-in-place-to-deal-with-chinese-activities-along-lac-iaf-chief/articleshow/94638679.cms",
+          "author": null,
+          "description": "Air Chief Marshal Chaudhari said the IAF has been preparing for all kinds of security challenges including \"worst-case scenario\" and asserted that it is fully ready to face any situation. \"We continue to be operationally deployed and ever vigilant,\" he said, adding the IAF continues to monitor all Chinese activities along the LAC.",
+          "link": "https://timesofindia.indiatimes.com/india/appropriate-measures-put-in-place-to-deal-with-chinese-activities-along-lac-iaf-chief/articleshow/94638679.cms",
+          "publishedOn": "2022-10-04T08:03:34.000Z",
+          "wordCount": 5986,
+          "title": "'Measures put in place to deal with Chinese activities along LAC'",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94638669,width-1070,height-580,imgsize-56338,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/city/mumbai/patra-chawl-land-scam-shiv-sena-mp-sanjay-rauts-judicial-custody-extended-till-october-10/articleshow/94637524.cms",
+          "author": null,
+          "description": "Shiv Sena MP Sanjay Raut's judicial custody has been extended till October 10 in the Patra Chawl land scam case.",
+          "link": "https://timesofindia.indiatimes.com/city/mumbai/patra-chawl-land-scam-shiv-sena-mp-sanjay-rauts-judicial-custody-extended-till-october-10/articleshow/94637524.cms",
+          "publishedOn": "2022-10-04T07:15:07.000Z",
+          "wordCount": 5549,
+          "title": "Sanjay Raut's judicial custody extended till October 10",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-94637483,width-1070,height-580,imgsize-26078,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/india/top-jk-cop-found-murdered-at-his-house-depressed-domestic-help-prime-suspect/articleshow/94636681.cms",
           "author": null,
